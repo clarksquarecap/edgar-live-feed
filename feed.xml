@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
+<rss xmlns:ns0="https://github.com/clarksquarecap/edgar-live-scanner/ns" version="2.0" xmlns:scanner="https://github.com/clarksquarecap/edgar-live-scanner/ns">
   <channel>
     <title>EDGAR Live Scanner</title>
     <link>https://github.com/clarksquarecap/edgar-live-scanner</link>
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 12 May 2026 02:39:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 03:14:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
       <title>🤝 Merger · BORAY</title>
@@ -16,7 +16,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>OTC</category>
-      <description>&lt;p&gt;Bora Pharmaceuticals, through its newly established subsidiary Bora Biologics USA LLC, announced the acquisition of CDMO operating assets. (headline only — full text not retrieved)&lt;/p&gt;
+      <ns0:headline>Acquires CDMO operating assets; announced May 11</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Acquires CDMO operating assets; announced May 11&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Bora Pharmaceuticals, through its newly established subsidiary Bora Biologics USA LLC, announced the acquisition of CDMO operating assets. (headline only — full text not retrieved)&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-11&lt;/li&gt;&lt;/ul&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BORAY&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-05-11&lt;/p&gt;</description>
     </item>
@@ -28,7 +30,9 @@
       <category>ACTIVIST_PROXY</category>
       <category>activist</category>
       <category>DFAN14A</category>
-      <description>&lt;p&gt;Dennis J. Wilson, founder of lululemon athletica inc., has launched a proxy contest to elect his slate of director candidates at the 2026 annual meeting. He issued an open letter on May 6, 2026, criticizing the company's value destruction and advocating for fresh perspectives. The definitive proxy statement and GOLD universal proxy card have been filed with the SEC.&lt;/p&gt;
+      <ns0:headline>Wilson files definitive proxy for director slate at 2026 AGM</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Wilson files definitive proxy for director slate at 2026 AGM&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Dennis J. Wilson, founder of lululemon athletica inc., has launched a proxy contest to elect his slate of director candidates at the 2026 annual meeting. He issued an open letter on May 6, 2026, criticizing the company's value destruction and advocating for fresh perspectives. The definitive proxy statement and GOLD universal proxy card have been filed with the SEC.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; lululemon athletica inc., together with its subsidiaries, designs, distributes, and retails athletic apparel and accessories for women and men. It operates in two segments, Company-Operated Stores and Direct to Consumer. The company offers pants, shorts, tops, and jackets for healthy lifestyle and athletic activities, such as yoga, running, and training, as well as other sweaty pursuits. It also provides fitness-related accessories and footwear.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Dennis J. Wilson&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-06&lt;/li&gt;&lt;/ul&gt;
@@ -44,7 +48,9 @@
       <category>BUSTED_MA</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Received a notice from NeuRX Health, Inc. cancelling the definitive agreement dated October 14, 2025, which had closed on April 21, 2026, due to NeuRX's breach of its obligations with Davion Healthcare Plc regarding the BreastCheck product. The cancellation is immediate. No financial terms or consideration were disclosed.&lt;/p&gt;
+      <ns0:headline>NeuRX cancels merger effective May 6; breach over BreastCheck</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;NeuRX cancels merger effective May 6; breach over BreastCheck&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a notice from NeuRX Health, Inc. cancelling the definitive agreement dated October 14, 2025, which had closed on April 21, 2026, due to NeuRX's breach of its obligations with Davion Healthcare Plc regarding the BreastCheck product. The cancellation is immediate. No financial terms or consideration were disclosed.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Odyssey Health, Inc., a medical company, focuses on developing medical products. It develops CardioMap, a heart monitoring and screening device; Save A Life choking rescue devices; and PRV-001 and PRV-002 neurosteroid drug compounds to treat concussions and rare brain disorders. The company was formerly known as Odyssey Group International, Inc. Odyssey Health, Inc. was founded in 2014 and is based in Las Vegas, Nevada.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; NeuRX Health, Inc.&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-06&lt;/li&gt;&lt;/ul&gt;
@@ -61,7 +67,9 @@
       <category>forced</category>
       <category>delisting</category>
       <category>8-K/A</category>
-      <description>&lt;p&gt;Received a Nasdaq staff determination letter on April 28, 2026, for non-compliance with the $35M market value of listed securities rule (MVLS Rule). The company completed a merger on May 1, 2026, issuing $20M Series B Preferred to address equity compliance, and stockholders approved a reverse stock split (1:3 to 1:30) on May 8, 2026, to regain bid price compliance. The Nasdaq Hearings Panel previously granted an exception through June 1, 2026, for bid price compliance, and the company is requesting an extension.&lt;/p&gt;
+      <ns0:headline>Nasdaq staff determination April 28; seeks extension to June 1</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Nasdaq staff determination April 28; seeks extension to June 1&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Nasdaq staff determination letter on April 28, 2026, for non-compliance with the $35M market value of listed securities rule (MVLS Rule). The company completed a merger on May 1, 2026, issuing $20M Series B Preferred to address equity compliance, and stockholders approved a reverse stock split (1:3 to 1:30) on May 8, 2026, to regain bid price compliance. The Nasdaq Hearings Panel previously granted an exception through June 1, 2026, for bid price compliance, and the company is requesting an extension.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; A company rebranding from Renovaro, focusing on AI-powered therapeutics and biodefense, with “Neurotoxicity Intelligence Technology” in development.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-28&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Mkt cap $5.8M · EV $47.7M · Healthcare / Biotechnology&lt;/i&gt;&lt;/p&gt;
@@ -76,7 +84,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Entered into a Stock Purchase Agreement with Allen Family Digital, LLC to issue 40,000,000 shares of Class A common stock at $3.00 per share for aggregate consideration of $120.0 million ($20.0 million cash and a $100.0 million secured promissory note). The investor will own approximately 52% of the outstanding Class A common stock and will appoint five of eight board members. The transaction is expected to close on or around May 26, 2026.&lt;/p&gt;
+      <ns0:headline>Allen Family Digital to buy 52% stake at $3.00/share; close May 26</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Allen Family Digital to buy 52% stake at $3.00/share; close May 26&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a Stock Purchase Agreement with Allen Family Digital, LLC to issue 40,000,000 shares of Class A common stock at $3.00 per share for aggregate consideration of $120.0 million ($20.0 million cash and a $100.0 million secured promissory note). The investor will own approximately 52% of the outstanding Class A common stock and will appoint five of eight board members. The transaction is expected to close on or around May 26, 2026.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BuzzFeed, Inc., a digital media company, provides breaking news, original reporting, entertainment, and videos across the social web to its global audience. It provides BuzzFeed, a go-to authority for entertainment, pop culture, and Internet with articles, lists, quizzes, videos, and original series; BuzzFeed News, a newsroom for young audience; Tasty, a platform for shareable food content; HuffPost, media platform for news, politics, opinion, entertainment, features, and lifestyle content; and …&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Allen Family Digital, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $3.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $120,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 52%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-05-26&lt;/li&gt;&lt;/ul&gt;
@@ -92,7 +102,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Entered into a forward purchase agreement with Harraden Circle entities for up to 5,000,000 shares to support its pending business combination with AIR Limited. The agreement provides prepayment from CAEP's trust account and includes a mechanism for share sales post-closing. Additionally, CAEP intends to waive lock-up restrictions on up to 1.5 million Class B shares held by its sponsor to comply with Nasdaq listing requirements.&lt;/p&gt;
+      <ns0:headline>Forward purchase with Harraden Circle for 5M shares; waives 1.5M Class B lock-up for Nasdaq</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Forward purchase with Harraden Circle for 5M shares; waives 1.5M Class B lock-up for Nasdaq&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a forward purchase agreement with Harraden Circle entities for up to 5,000,000 shares to support its pending business combination with AIR Limited. The agreement provides prepayment from CAEP's trust account and includes a mechanism for share sales post-closing. Additionally, CAEP intends to waive lock-up restrictions on up to 1.5 million Class B shares held by its sponsor to comply with Nasdaq listing requirements.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; A Cayman Islands–incorporated Special Purpose Acquisition Company (SPAC) sponsored by Cantor Fitzgerald. It raised capital to merge with or acquire companies in sectors including financial services, digital assets, healthcare, real estate services, technology, and software.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; AIR Limited&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-11-07&lt;/li&gt;&lt;/ul&gt;
@@ -108,7 +120,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Announced receipt of CFIUS clearance for its pending acquisition by NEC Corporation, as previously disclosed on October 29, 2025. All required regulatory approvals have now been received, clearing a key condition for the merger. The transaction is expected to close shortly, with CSG becoming a wholly owned subsidiary of NEC.&lt;/p&gt;
+      <ns0:headline>CFIUS clears NEC acquisition; close expected shortly</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;CFIUS clears NEC acquisition; close expected shortly&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced receipt of CFIUS clearance for its pending acquisition by NEC Corporation, as previously disclosed on October 29, 2025. All required regulatory approvals have now been received, clearing a key condition for the merger. The transaction is expected to close shortly, with CSG becoming a wholly owned subsidiary of NEC.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CSG Systems International, Inc. provides revenue management and digital monetization, customer engagement, and payment solutions primarily to the communications industry in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It offers Advanced Convergent Platform, a private SaaS based platform; related solutions, including field force automation, analytics, electronic bill presentment, ACH, etc. to the North American cable and satellite markets.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; NEC Corporation&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-10-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; imminent&lt;/li&gt;&lt;/ul&gt;
@@ -124,7 +138,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Held a special meeting on May 7, 2026, where shareholders approved the merger agreement with M2i Global, including the issuance of shares and a name change to M2i Global, Inc. All six proposals passed, including the merger, stock issuance, director elections, and reverse stock split authorization. The merger is expected to close subject to remaining conditions.&lt;/p&gt;
+      <ns0:headline>May 7 shareholders approve M2i Global merger; stock consideration, name change</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;May 7 shareholders approve M2i Global merger; stock consideration, name change&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Held a special meeting on May 7, 2026, where shareholders approved the merger agreement with M2i Global, including the issuance of shares and a name change to M2i Global, Inc. All six proposals passed, including the merger, stock issuance, director elections, and reverse stock split authorization. The merger is expected to close subject to remaining conditions.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Volato Group, Inc. operates as a private aviation company. The company offers fractional ownership, aircraft management, jet cards, deposit, and charter programs. As of December 31, 2023, it operated a fleet of 24 HondaJets and a managed fleet of 6 aircraft. The company was founded in 2021 and is based in Chamblee, Georgia.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; M2i Global&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Mkt cap $920K · EV $2.5M · Industrials / Airlines, Airports &amp;amp; Air Services&lt;/i&gt;&lt;/p&gt;
@@ -139,7 +155,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>S-4</category>
-      <description>&lt;p&gt;Will acquire National Storage Affiliates Trust (NSA) in a stock-for-stock merger. Each NSA common share will be converted into 0.1400 PSA shares. The merger is subject to NSA shareholder approval and other conditions; a proxy statement has been filed.&lt;/p&gt;
+      <ns0:headline>Acquires National Storage in stock merger; 0.1400 PSA per NSA share</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Acquires National Storage in stock merger; 0.1400 PSA per NSA share&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Will acquire National Storage Affiliates Trust (NSA) in a stock-for-stock merger. Each NSA common share will be converted into 0.1400 PSA shares. The merger is subject to NSA shareholder approval and other conditions; a proxy statement has been filed.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Public Storage, a member of the S&amp;amp;P 500 and FT Global 500, is a REIT that primarily acquires, develops, owns and operates self-storage facilities. At September 30, 2020, we had: (i) interests in 2,504 self-storage facilities located in 38 states with approximately 171 million net rentable square feet in the United States, (ii) an approximate 35% common equity interest in Shurgard Self Storage SA (Euronext Brussels:SHUR) which owned 239 self-storage facilities located in seven Western European na…&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; National Storage Affiliates Trust&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 0.1400 PSA shares per NSA share&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-03-16&lt;/li&gt;&lt;/ul&gt;
@@ -155,7 +173,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>425</category>
-      <description>&lt;p&gt;abrdn Inc., the proposed investment adviser to MFS Multimarket Income Trust (MMT), announced its intention to propose a future policy amendment requiring an average investment grade credit quality portfolio, subject to shareholder approval. This is part of the previously announced reorganization of MFS Charter Income Trust (MCR) and MFS Intermediate High Income Fund (CIF) into MMT, which remains subject to shareholder votes. The transaction is expected to close after shareholder approvals.&lt;/p&gt;
+      <ns0:headline>abrdn proposes investment grade credit policy for MMT merger; shareholder vote</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;abrdn proposes investment grade credit policy for MMT merger; shareholder vote&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;abrdn Inc., the proposed investment adviser to MFS Multimarket Income Trust (MMT), announced its intention to propose a future policy amendment requiring an average investment grade credit quality portfolio, subject to shareholder approval. This is part of the previously announced reorganization of MFS Charter Income Trust (MCR) and MFS Intermediate High Income Fund (CIF) into MMT, which remains subject to shareholder votes. The transaction is expected to close after shareholder approvals.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; MFS Charter Income Trust is a closed ended fixed income mutual fund launched and managed by Massachusetts Financial Services Company. The fund invests in the fixed income markets across the globe. It invests primarily in corporate bonds of U.S. or foreign issuers, U.S. Government securities, foreign government securities, mortgage-backed, and other asset-backed securities of U.S. or foreign issuers, or debt instruments of issuers located in emerging market countries.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; MFS Multimarket Income Trust&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-12-11&lt;/li&gt;&lt;/ul&gt;
@@ -171,7 +191,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>DEFA14A</category>
-      <description>&lt;p&gt;Filed definitive additional materials (DEFA14A) in connection with its pending acquisition. The filing supplements the proxy statement for the shareholder vote on the merger. Specific terms of the transaction are not detailed in the provided text.&lt;/p&gt;
+      <ns0:headline>Proxy supplement for pending merger vote</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Proxy supplement for pending merger vote&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed definitive additional materials (DEFA14A) in connection with its pending acquisition. The filing supplements the proxy statement for the shareholder vote on the merger. Specific terms of the transaction are not detailed in the provided text.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ernexa Therapeutics Inc., a preclinical-stage company, develops induces derived mesenchymal stem cells (iMSC) therapies for the treatment of solid tumors and autoimmune disease. The company's lead product is ERNA-101, an allogenic pro-inflammatory cytokine (IL-7/IL-15) secreting iMSC for the treatment of ovarian cancer; and ERNA-102, an anti-inflammatory cytokine (IL-10) secreting iMSC for the treatment of rheumatoid arthritis. It has a license agreement with Factor Bioscience Limited.&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;Mkt cap $2.3M · EV $6.2M · Fwd EV/EBITDA 0.4x · EV/Sales 0.1x · Healthcare / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/748592/000149315226022284/0001493152-26-022284-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
@@ -185,7 +207,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>DEFA14A</category>
-      <description>&lt;p&gt;Disclosed a forward purchase agreement with Harraden Circle Investors for up to 5,000,000 shares to provide financing for its pending business combination with AIR Limited and Pubco. The filing also includes a lock-up waiver for up to 1.5 million Class B shares held by Cantor EP Holdings III, LLC to comply with Nasdaq listing requirements. The business combination remains subject to shareholder approval and other customary closing conditions.&lt;/p&gt;
+      <ns0:headline>Forward purchase agreement for 5M shares to finance AIR merger; lock-up waiver for 1.5M shares</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Forward purchase agreement for 5M shares to finance AIR merger; lock-up waiver for 1.5M shares&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Disclosed a forward purchase agreement with Harraden Circle Investors for up to 5,000,000 shares to provide financing for its pending business combination with AIR Limited and Pubco. The filing also includes a lock-up waiver for up to 1.5 million Class B shares held by Cantor EP Holdings III, LLC to comply with Nasdaq listing requirements. The business combination remains subject to shareholder approval and other customary closing conditions.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; A Cayman Islands–incorporated Special Purpose Acquisition Company (SPAC) sponsored by Cantor Fitzgerald. It raised capital to merge with or acquire companies in sectors including financial services, digital assets, healthcare, real estate services, technology, and software.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; AIR Limited&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-11-07&lt;/li&gt;&lt;/ul&gt;
@@ -201,7 +225,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Issued a $100,000 unsecured promissory note to WISeSat.Space Corp. (target) to fund extension fees for the pending business combination under the November 9, 2025 Business Combination Agreement. The note is convertible into private units at $10/unit or into shares at $5/share upon termination. The merger must close by January 22, 2027, with monthly extension options.&lt;/p&gt;
+      <ns0:headline>Issues $100K convertible note to WISeSat for merger extension; close Jan 22, 2027</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Issues $100K convertible note to WISeSat for merger extension; close Jan 22, 2027&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Issued a $100,000 unsecured promissory note to WISeSat.Space Corp. (target) to fund extension fees for the pending business combination under the November 9, 2025 Business Combination Agreement. The note is convertible into private units at $10/unit or into shares at $5/share upon termination. The merger must close by January 22, 2027, with monthly extension options.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Columbus Acquisition Corp operates as a blank check company. The Company was formed for the purpose of effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization, and similar business combination with one or more businesses.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; WISeSat.Space Corp.&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-11-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-01-22&lt;/li&gt;&lt;/ul&gt;
@@ -217,7 +243,9 @@
       <category>RIGHTS_ISSUE</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Announces a subscription rights offering to raise capital. Each shareholder of record will receive one right per share, each right exercisable for one share of common stock at a subscription price to be determined (expected to be the greater of a 1-5% discount to 30-day VWAP or $6.81 book value per share). The offering is pending SEC effectiveness of a Form S-1 registration statement.&lt;/p&gt;
+      <ns0:headline>Rights offering: 1 right/share, price at 1-5% discount to VWAP or $6.81 book</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Rights offering: 1 right/share, price at 1-5% discount to VWAP or $6.81 book&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announces a subscription rights offering to raise capital. Each shareholder of record will receive one right per share, each right exercisable for one share of common stock at a subscription price to be determined (expected to be the greater of a 1-5% discount to 30-day VWAP or $6.81 book value per share). The offering is pending SEC effectiveness of a Form S-1 registration statement.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The LGL Group, Inc., together with its subsidiaries, engages in the design, manufacture, and marketing of frequency and spectrum control products in the United States and internationally. The company operates through two segments, Electronic Components and Electronic Instruments. The Electronic Components segment offers clock oscillators, VCXO, TCXO OCXO, and DOCXO devices; and radio frequency, microwave and millimeter wave filters, diplexers, and solid-state power amplifiers.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; to be determined&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-11&lt;/li&gt;&lt;/ul&gt;
@@ -234,7 +262,9 @@
       <category>forced</category>
       <category>delisting</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Received a Nasdaq Staff Determination on May 6, 2026, that its common stock will be delisted from the Nasdaq Capital Market due to non-compliance with the minimum bid price rule (below $1.00 for 30 consecutive business days) and failure to file its Annual Report on Form 10-K for 2025. The company intends to request a hearing before an independent panel by May 13, 2026, and is considering a reverse stock split to regain compliance. Trading will continue under the ticker AGAE pending the hearing outcome.&lt;/p&gt;
+      <ns0:headline>Nasdaq delisting for bid price, late 10-K; hearing by May 13</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Nasdaq delisting for bid price, late 10-K; hearing by May 13&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Nasdaq Staff Determination on May 6, 2026, that its common stock will be delisted from the Nasdaq Capital Market due to non-compliance with the minimum bid price rule (below $1.00 for 30 consecutive business days) and failure to file its Annual Report on Form 10-K for 2025. The company intends to request a hearing before an independent panel by May 13, 2026, and is considering a reverse stock split to regain compliance. Trading will continue under the ticker AGAE pending the hearing outcome.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Allied Gaming &amp;amp; Entertainment Inc. provides entertainment and gaming products worldwide. It operates esports properties to connect players and fans through a network of connected arenas; a flagship gaming arena located at the Luxor Hotel in Las Vegas, Nevada; a mobile esports truck that serves as a battleground and content generation hub; and a studio for recording and streaming gaming events. The company was formerly known as Allied Esports Entertainment Inc.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-06&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Mkt cap $17.3M · EV $1.1M · EV/Sales 0.0x · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
@@ -249,7 +279,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>425</category>
-      <description>&lt;p&gt;A SPAC, issued a $100,000 promissory note to WISeSat.Space Corp. to fund Monthly Extension Fees for its pending business combination with WISeSat.Space Holdings Corp. The note is convertible into private units at $10.00 per unit or into shares of the post-closing company at $5.00 per share. The business combination was announced on November 9, 2025, and the SPAC has until January 22, 2027 to close.&lt;/p&gt;
+      <ns0:headline>Issues $100K note to WISeSat for extension fees; convertible at $10/unit or $5/share</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Issues $100K note to WISeSat for extension fees; convertible at $10/unit or $5/share&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A SPAC, issued a $100,000 promissory note to WISeSat.Space Corp. to fund Monthly Extension Fees for its pending business combination with WISeSat.Space Holdings Corp. The note is convertible into private units at $10.00 per unit or into shares of the post-closing company at $5.00 per share. The business combination was announced on November 9, 2025, and the SPAC has until January 22, 2027 to close.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Columbus Acquisition Corp operates as a blank check company. The Company was formed for the purpose of effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization, and similar business combination with one or more businesses.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; WISeSat.Space Holdings Corp.&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-11-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; by January 22, 2027&lt;/li&gt;&lt;/ul&gt;
@@ -265,7 +297,9 @@
       <category>ACTIVIST_INITIAL</category>
       <category>activist</category>
       <category>DFAN14A</category>
-      <description>&lt;p&gt;UWM Holdings Corporation (UWMC) increased its acquisition proposal for Two Harbors Investment Corp. (TWO) to $12.50 per share in cash or 2.3328 shares of UWMC stock, urging TWO stockholders to vote against the pending merger with CrossCountry Mortgage (CCM) at the special meeting on May 19, 2026. UWMC claims its offer is clearly superior to CCM's $12.00 per share cash deal and intends to close within approximately two months of signing an agreement. The filing includes an open letter criticizing TWO's board for refusing to engage and for prioritizing management payouts.&lt;/p&gt;
+      <ns0:headline>UWM increases bid to $12.50 cash or 2.3328 shares; special meeting May 19</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;UWM increases bid to $12.50 cash or 2.3328 shares; special meeting May 19&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;UWM Holdings Corporation (UWMC) increased its acquisition proposal for Two Harbors Investment Corp. (TWO) to $12.50 per share in cash or 2.3328 shares of UWMC stock, urging TWO stockholders to vote against the pending merger with CrossCountry Mortgage (CCM) at the special meeting on May 19, 2026. UWMC claims its offer is clearly superior to CCM's $12.00 per share cash deal and intends to close within approximately two months of signing an agreement. The filing includes an open letter criticizing TWO's board for refusing to engage and for prioritizing management payouts.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Two Harbors Investment Corp. operates as a real estate investment trust (REIT) that focuses on investing in, financing, and managing residential mortgage-backed securities (RMBS), non-agency securities, mortgage servicing rights, and other financial assets in the United States. Its target assets include agency RMBS collateralized by fixed rate mortgage loans, adjustable rate mortgage loans, and hybrid adjustable-rate mortgage (ARMs); and other assets, such as financial and mortgage-related asset…&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; UWM Holdings Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $12.50 per share in cash or 2.3328 shares of UWMC stock&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash or stock election&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-11&lt;/li&gt;&lt;/ul&gt;
@@ -281,7 +315,9 @@
       <category>ACTIVIST_PROXY</category>
       <category>acquisition</category>
       <category>DEFA14A</category>
-      <description>&lt;p&gt;Filed a supplement to its definitive proxy statement and sent a letter to shareholders responding to a proxy contest by BBRC International Pte Limited and its Chairman Brett Blundy, who seek to oppose the re-election of two board members at the upcoming annual meeting on June 11, 2026. The board urges shareholders to vote for all its nominees, citing strong performance and the risks of disruption. Director Mariam Naficy has decided not to stand for re-election due to the proxy contest.&lt;/p&gt;
+      <ns0:headline>Responds to BBRC proxy contest; director Naficy withdraws; AGM June 11</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Responds to BBRC proxy contest; director Naficy withdraws; AGM June 11&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed a supplement to its definitive proxy statement and sent a letter to shareholders responding to a proxy contest by BBRC International Pte Limited and its Chairman Brett Blundy, who seek to oppose the re-election of two board members at the upcoming annual meeting on June 11, 2026. The board urges shareholders to vote for all its nominees, citing strong performance and the risks of disruption. Director Mariam Naficy has decided not to stand for re-election due to the proxy contest.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Victoria's Secret &amp;amp; Co. operates as a specialty retailer of women's intimate, personal care, and beauty products worldwide. The company offers bras, panties, lingerie, sleepwear, loungewear, and athletic attire and swimwear, as well as fragrances and body care products, and accessories under the Victoria's Secret and PINK brands. As of March 2, 2022, it operated approximately 1,400 retail stores. The company was incorporated in 2021 and is headquartered in Reynoldsburg, Ohio.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BBRC International Pte Limited&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Mkt cap $3.71B · EV $6.88B · Fwd P/E 13.2x · Fwd EV/EBITDA 9.6x · EV/Sales 1.0x · Consumer Cyclical / Apparel - Retail&lt;/i&gt;&lt;/p&gt;
@@ -296,7 +332,9 @@
       <category>ACTIVIST_PROXY</category>
       <category>acquisition</category>
       <category>DEFA14A</category>
-      <description>&lt;p&gt;Is facing a proxy contest from an activist shareholder. The fund's board is soliciting shareholders to vote on the white proxy card and discard the gold card sent by the activist. The annual meeting is scheduled for May 11, 2026, where the outcome of the board election will be determined.&lt;/p&gt;
+      <ns0:headline>Board urges vote on white proxy; discard gold card; AGM May 11</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Board urges vote on white proxy; discard gold card; AGM May 11&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is facing a proxy contest from an activist shareholder. The fund's board is soliciting shareholders to vote on the white proxy card and discard the gold card sent by the activist. The annual meeting is scheduled for May 11, 2026, where the outcome of the board election will be determined.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The Gabelli Dividend &amp;amp; Income Trust is a closed ended equity mutual fund launched by GAMCO Investors, Inc. The fund is managed by Gabelli Funds, LLC. It invests in public equity markets of the United States. The fund seeks to invest in stocks of companies operating across diversified sectors. It primarily invests in dividend paying stocks of companies.&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;Mkt cap $2.55B · EV $2.81B · Financial Services / Asset Management - Income&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1260729/000182912626004959/0001829126-26-004959-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
@@ -310,7 +348,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Announced a definitive agreement to acquire the CMOS image sensor business from ams-OSRAM AG for total consideration of €40 million (approx. $47.1 million), comprising €35 million cash at closing and a €5 million vendor note. The acquisition is expected to close in Q3 2026 and be immediately accretive, augmenting indie's ADAS and physical AI portfolio.&lt;/p&gt;
+      <ns0:headline>Acquires ams-OSRAM CMOS sensor biz for €40M cash; close Q3 2026</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Acquires ams-OSRAM CMOS sensor biz for €40M cash; close Q3 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced a definitive agreement to acquire the CMOS image sensor business from ams-OSRAM AG for total consideration of €40 million (approx. $47.1 million), comprising €35 million cash at closing and a €5 million vendor note. The acquisition is expected to close in Q3 2026 and be immediately accretive, augmenting indie's ADAS and physical AI portfolio.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; indie Semiconductor, Inc. provides automotive semiconductors and software solutions for advanced driver assistance systems, connected car, user experience, and electrification applications. It offers devices for a multitude of automotive applications spanning ultrasound for parking assistance, in cabin wireless charging, infotainment and LED lighting for enhancing the user experience, and telematics and cloud access for connectivity; and photonic components on various technology platforms, inclu…&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ams-OSRAM AG&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; €40 million (approx. $47.1 million)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-08&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2026&lt;/li&gt;&lt;/ul&gt;
@@ -327,7 +367,9 @@
       <category>special_dividend</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Declared a special dividend of Dream Bowl Meme Coin I tokens to eligible holders of common stock, warrants, convertible notes, and Series A preferred stock. Record holders as of April 30, 2026 will receive 5 tokens per share, with payment beginning May 26, 2026, subject to opt-in and digital wallet setup. The tokens were previously distributed to Scilex by Datavault AI Inc.&lt;/p&gt;
+      <ns0:headline>Special dividend: 5 Dream Bowl Meme Coin I tokens per share; record Apr 30, pay May 26</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Special dividend: 5 Dream Bowl Meme Coin I tokens per share; record Apr 30, pay May 26&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Declared a special dividend of Dream Bowl Meme Coin I tokens to eligible holders of common stock, warrants, convertible notes, and Series A preferred stock. Record holders as of April 30, 2026 will receive 5 tokens per share, with payment beginning May 26, 2026, subject to opt-in and digital wallet setup. The tokens were previously distributed to Scilex by Datavault AI Inc.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Scilex Holding Company, a biopharmaceutical company, focuses on developing and commercializing non-opioid management products for the treatment of acute and chronic pain. Its commercial product is ZTlido 1.8%, a prescription lidocaine topical product for the relief of neuropathic pain related with post-herpetic neuralgia, which is a form of post-shingles nerve pain.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; in-kind&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-05-26&lt;/li&gt;&lt;/ul&gt;
@@ -343,7 +385,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Corporation (UWMC) increased its acquisition proposal for Two Harbors Investment Corp (TWO) to $12.50 per share in cash or 2.3328 shares of UWMC stock, topping the pending CCM merger at $12.00 per share. UWMC urges TWO stockholders to vote against the CCM merger at the special meeting on May 19, 2026. The proposal is subject to engagement and negotiation, with a potential close within approximately two months of signing.&lt;/p&gt;
+      <ns0:headline>Increases Two Harbors bid to $12.50/share cash/stock; urges 'no' vote on CCM merger May 19</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Increases Two Harbors bid to $12.50/share cash/stock; urges 'no' vote on CCM merger May 19&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation (UWMC) increased its acquisition proposal for Two Harbors Investment Corp (TWO) to $12.50 per share in cash or 2.3328 shares of UWMC stock, topping the pending CCM merger at $12.00 per share. UWMC urges TWO stockholders to vote against the CCM merger at the special meeting on May 19, 2026. The proposal is subject to engagement and negotiation, with a potential close within approximately two months of signing.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; UWM Holdings Corporation engages in the residential mortgage lending business in the United States. The company originates mortgage loans through wholesale channel. It originates primarily conforming and government loans. UWM Holdings Corporation was founded in 1986 and is headquartered in Pontiac, Michigan.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Two Harbors Investment Corp&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $12.50 per share cash or 2.3328 shares of UWMC stock&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash or stock election&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; within approximately 2 months of signing&lt;/li&gt;&lt;/ul&gt;
@@ -359,7 +403,9 @@
       <category>DIVESTITURE</category>
       <category>acquisition</category>
       <category>6-K</category>
-      <description>&lt;p&gt;Has agreed to sell its interest in the Ewoyaa Lithium Project in Ghana to Zhejiang Huayou Cobalt for approximately US$71 million in cash. The transaction is expected to close in Q1FY27, subject to Ghanaian regulatory approvals. Proceeds will support advancement of Elevra's North American assets.&lt;/p&gt;
+      <ns0:headline>Sells Ewoyaa Lithium Project to Zhejiang Huayou for $71M cash; close Q1FY27</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Sells Ewoyaa Lithium Project to Zhejiang Huayou for $71M cash; close Q1FY27&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Has agreed to sell its interest in the Ewoyaa Lithium Project in Ghana to Zhejiang Huayou Cobalt for approximately US$71 million in cash. The transaction is expected to close in Q1FY27, subject to Ghanaian regulatory approvals. Proceeds will support advancement of Elevra's North American assets.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sayona Mining Limited, together with its subsidiaries, engages in mineral identification, acquisition, exploration, and production in Australia and Canada. The company explores for lithium, graphite, and gold deposits. Its flagship property, the North American Lithium project, comprises 42 mineral claims covering an area of 1,493 hectares and one mining lease located in Quebec, Canada.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Zhejiang Huayou Cobalt Co., Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; US$71 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q1FY27&lt;/li&gt;&lt;/ul&gt;
@@ -375,7 +421,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>425</category>
-      <description>&lt;p&gt;And American Ocean Minerals Corporation (AOMC) announced the filing of an S-4 registration statement for their previously announced all-stock merger. The combined company is valued at approximately $1 billion pro forma equity value, with AOMC having raised over $230 million in equity capital. The merger is expected to close in late Q2 or early Q3 2026, subject to SEC effectiveness, stockholder approvals, and other customary conditions.&lt;/p&gt;
+      <ns0:headline>Files S-4 for $1B all-stock merger with AOMC; close Q2/Q3 2026</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Files S-4 for $1B all-stock merger with AOMC; close Q2/Q3 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;And American Ocean Minerals Corporation (AOMC) announced the filing of an S-4 registration statement for their previously announced all-stock merger. The combined company is valued at approximately $1 billion pro forma equity value, with AOMC having raised over $230 million in equity capital. The merger is expected to close in late Q2 or early Q3 2026, subject to SEC effectiveness, stockholder approvals, and other customary conditions.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Odyssey Marine Exploration, Inc., together with its subsidiaries, discovers, validates, and develops seafloor resources worldwide. The company provides specialized mineral exploration, project development, and marine services to clients. It also offers resource assessment, project planning, research, and project management services. The company was founded in 1986 and is headquartered in Tampa, Florida.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; American Ocean Minerals Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $1 billion (pro forma equity value)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; late Q2 or early Q3 2026&lt;/li&gt;&lt;/ul&gt;
@@ -392,7 +440,9 @@
       <category>buyback</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Announced a new $50 million stock repurchase program, replacing the prior program. The authorization runs through May 7, 2028, and repurchases may be made in open market, tender offers, or privately negotiated transactions. The program does not obligate the company to repurchase any specific number of shares.&lt;/p&gt;
+      <ns0:headline>Authorizes $50M stock repurchase through May 2028</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Authorizes $50M stock repurchase through May 2028&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced a new $50 million stock repurchase program, replacing the prior program. The authorization runs through May 7, 2028, and repurchases may be made in open market, tender offers, or privately negotiated transactions. The program does not obligate the company to repurchase any specific number of shares.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; OneSpan Inc., together with its subsidiaries, designs, develops, and markets digital solutions for identity, security, and business productivity worldwide. The company offers OneSpan Sign, a range of e-signature requirements for occasional agreement to processing tens of thousands of transactions; OneSpan Cloud Authentication, a cloud-based multifactor authentication solution that supports a range of authentication options, including biometrics, push notification, and visual cryptograms for tran…&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $50,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-07&lt;/li&gt;&lt;/ul&gt;
@@ -425,7 +475,9 @@
       <category>voluntary</category>
       <category>delisting</category>
       <category>25</category>
-      <description>&lt;p&gt;Voluntarily delisted its American Depositary Shares from the Nasdaq Global Market, effective May 11, 2026. The company filed Form 25 to withdraw its securities from listing and registration under Section 12(b) of the Securities Exchange Act of 1934. No merger or acquisition is involved; the delisting is a standalone corporate action.&lt;/p&gt;
+      <ns0:headline>Voluntarily delists ADS from Nasdaq effective May 11, 2026</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Voluntarily delists ADS from Nasdaq effective May 11, 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Voluntarily delisted its American Depositary Shares from the Nasdaq Global Market, effective May 11, 2026. The company filed Form 25 to withdraw its securities from listing and registration under Section 12(b) of the Securities Exchange Act of 1934. No merger or acquisition is involved; the delisting is a standalone corporate action.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; PureTech Health plc, a clinical-stage biotherapeutics company, discovers, develops, and commercializes medicines for inflammatory, fibrotic and immunological, intractable cancers, lymphatic and gastrointestinal, neurological and neuropsychological, and other diseases in the United States. The company offers KarXT targeting muscarinic acetylcholine receptors to treat schizophrenia and psychosis in Alzheimer's disease; a regenerative biology platform for androgenetic alopecia, epithelial ageing, a…&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;Mkt cap $424.8M · EV $-194.2M · EV/Sales -3.9x · Healthcare / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1782999/000119312526216746/0001193125-26-216746-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
@@ -439,7 +491,9 @@
       <category>DOMICILE_CHANGE</category>
       <category>acquisition</category>
       <category>DEFA14A</category>
-      <description>&lt;p&gt;Is seeking shareholder approval at its June 24, 2026 annual and special meeting to reincorporate from British Columbia, Canada to Nevada via a plan of arrangement under Section 288 of the BCBCA. The arrangement would cancel the existing Canadian charter and adopt Nevada Articles of Incorporation and Bylaws, converting subordinate voting shares into Nevada common stock. The vote is scheduled for June 24, 2026.&lt;/p&gt;
+      <ns0:headline>Seeking shareholder approval to reincorporate from BC to Nevada; vote June 24, 2026</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Seeking shareholder approval to reincorporate from BC to Nevada; vote June 24, 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is seeking shareholder approval at its June 24, 2026 annual and special meeting to reincorporate from British Columbia, Canada to Nevada via a plan of arrangement under Section 288 of the BCBCA. The arrangement would cancel the existing Canadian charter and adopt Nevada Articles of Incorporation and Bylaws, converting subordinate voting shares into Nevada common stock. The vote is scheduled for June 24, 2026.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Jushi Holdings Inc., a vertically integrated cannabis company, engages in the cultivation, processing, retail, and distribution of medical and adult-use products. It focuses on building a portfolio of cannabis assets in various jurisdictions in Pennsylvania, Virginia, Ohio, Illinois, California, Nevada, and Massachusetts.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-06-24&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Mkt cap $103.8M · EV $392.3M · Fwd EV/EBITDA 14.0x · EV/Sales 1.4x · Healthcare / Drug Manufacturers - Specialty &amp;amp; Generic&lt;/i&gt;&lt;/p&gt;
@@ -467,7 +521,9 @@
       <category>voluntary</category>
       <category>delisting</category>
       <category>15-12G</category>
-      <description>&lt;p&gt;Filed Form 15-12G to voluntarily terminate its SEC registration and suspend reporting obligations under Section 12(g) of the Exchange Act, citing fewer than 300 shareholders of record (one holder). The deregistration is effective as of May 11, 2026.&lt;/p&gt;
+      <ns0:headline>Terminates SEC registration; 1 holder, effective May 11</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Terminates SEC registration; 1 holder, effective May 11&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed Form 15-12G to voluntarily terminate its SEC registration and suspend reporting obligations under Section 12(g) of the Exchange Act, citing fewer than 300 shareholders of record (one holder). The deregistration is effective as of May 11, 2026.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-05-11&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1603652/000119312526216700/0001193125-26-216700-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ULYX&lt;/b&gt; · 15-12G · prefill_form:15-12G · filed 2026-05-11&lt;/p&gt;</description>
@@ -508,7 +564,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>OTC</category>
-      <description>&lt;p&gt;VXIT (Lavish Enterprises) announced the acquisition of exclusive, perpetual rights to FleetPath, an AI-native operating system for the nearly $1 trillion American trucking industry. (headline only — full text not retrieved)&lt;/p&gt;
+      <ns0:headline>Acquires exclusive perpetual rights to FleetPath AI OS for trucking</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Acquires exclusive perpetual rights to FleetPath AI OS for trucking&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;VXIT (Lavish Enterprises) announced the acquisition of exclusive, perpetual rights to FleetPath, an AI-native operating system for the nearly $1 trillion American trucking industry. (headline only — full text not retrieved)&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VirExit Technologies, Inc. operates as a renewable energy company. It is involved in incubating solar technologies that establish electrification, education, connectivity, and community development infrastructures in rural communities to empower the individual, community, and local economy. The company was formerly known as Poverty Dignified, Inc. VirExit Technologies, Inc. was founded in 2013 and is headquartered in Belmont, North Carolina.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-11&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Mkt cap $6.1M · EV $1.8M · Utilities / Renewable Utilities&lt;/i&gt;&lt;/p&gt;
@@ -522,7 +580,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Entered into a definitive merger agreement to acquire Upgrade Energy for approximately $52 million, consisting of 1,792,012 shares of UMAC common stock valued at $13.9508 per share, $1 million cash at closing, and up to $26 million in earn-out cash payments based on revenue targets. The transaction is expected to close within 120 days, subject to customary conditions including delivery of Upgrade's 2025 audit.&lt;/p&gt;
+      <ns0:headline>Acquires Upgrade Energy for $52M: 1.79M shares + $1M cash + $26M earn-out; close Q3</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Upgrade Energy for $52M: 1.79M shares + $1M cash + $26M earn-out; close Q3&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive merger agreement to acquire Upgrade Energy for approximately $52 million, consisting of 1,792,012 shares of UMAC common stock valued at $13.9508 per share, $1 million cash at closing, and up to $26 million in earn-out cash payments based on revenue targets. The transaction is expected to close within 120 days, subject to customary conditions including delivery of Upgrade's 2025 audit.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Unusual Machines, Inc. designs, manufactures, and sells ultra-low latency video goggles for drone pilots. It also operates a drone-focused e-commerce marketplace. The company was formerly known as AerocarveUS Corporation and changed its name to Unusual Machines, Inc. in July 2022. Unusual Machines, Inc. was incorporated in 2019 and is based in San Juan, Puerto Rico.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Upgrade Energy (DroneNX LLC)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $52 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-07&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; within 120 days (approx. Q3 2026)&lt;/li&gt;&lt;/ul&gt;
@@ -538,7 +598,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Entered into a definitive agreement to acquire SAXOPRINT and viaprinto from CEWE for a net cash outflow expected to be less than €80 million after anticipated asset sales. The acquired businesses generated €89.6 million in revenue in calendar year 2025 with approximately 10% EBITDA margins. The acquisition is subject to antitrust approval and expected to close in the first half of Cimpress' fiscal year 2027 (July-December 2026).&lt;/p&gt;
+      <ns0:headline>Acquires SAXOPRINT/viaprinto from CEWE for &lt;€80M net cash; rev €89.6M, close H1 FY27</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Acquires SAXOPRINT/viaprinto from CEWE for &amp;lt;€80M net cash; rev €89.6M, close H1 FY27&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive agreement to acquire SAXOPRINT and viaprinto from CEWE for a net cash outflow expected to be less than €80 million after anticipated asset sales. The acquired businesses generated €89.6 million in revenue in calendar year 2025 with approximately 10% EBITDA margins. The acquisition is subject to antitrust approval and expected to close in the first half of Cimpress' fiscal year 2027 (July-December 2026).&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cimpress plc provides various mass customization of printing and related products in North America, Europe, and internationally. The company operates through five segments: Vistaprint, PrintBrothers, The Print Group, National Pen, and All Other Businesses. It offers printed and digital marketing products; internet-based canvas-print wall décor, business signage, and other printed products; business cards; and marketing materials, such as flyers and postcards, digital and marketing services, writ…&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; CEWE Stiftung &amp;amp; Co. KGaA&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; less than €80 million net cash outflow&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; first half of FY2027 (July-December 2026)&lt;/li&gt;&lt;/ul&gt;
@@ -554,7 +616,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;A SPAC, announced an updated investor presentation in connection with its previously announced business combination with Electra Vehicles, Inc., an AI-powered battery intelligence company. The deal remains subject to shareholder approval and regulatory conditions, with a registration statement on Form S-4 to be filed with the SEC. No new economic terms were disclosed in this filing.&lt;/p&gt;
+      <ns0:headline>Updates investor presentation for Electra Vehicles merger</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Updates investor presentation for Electra Vehicles merger&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A SPAC, announced an updated investor presentation in connection with its previously announced business combination with Electra Vehicles, Inc., an AI-powered battery intelligence company. The deal remains subject to shareholder approval and regulatory conditions, with a registration statement on Form S-4 to be filed with the SEC. No new economic terms were disclosed in this filing.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Iron Horse Acquisition II Corp. operates as a blank check company. It was formed for the purpose of effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses. The company was founded on November 26, 2024 and is headquartered in Boca Raton, FL.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Electra Vehicles, Inc.&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Mkt cap $235.2M · EV $289.1M · Financial Services / Financial - Conglomerates&lt;/i&gt;&lt;/p&gt;
@@ -569,7 +633,9 @@
       <category>MERGER</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Announced that its S-4 registration statement for the business combination with Factorial Inc., a U.S.-based solid-state battery technology company, has been declared effective by the SEC. The extraordinary general meeting of shareholders to vote on the combination is scheduled for May 27, 2026. The deal was originally announced on December 17, 2025.&lt;/p&gt;
+      <ns0:headline>S-4 effective; shareholder vote on Factorial merger set for May 27</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;S-4 effective; shareholder vote on Factorial merger set for May 27&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced that its S-4 registration statement for the business combination with Factorial Inc., a U.S.-based solid-state battery technology company, has been declared effective by the SEC. The extraordinary general meeting of shareholders to vote on the combination is scheduled for May 27, 2026. The deal was originally announced on December 17, 2025.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cartesian Growth Corporation III is a blank check company incorporated in 2024 as a Cayman Islands exempted company. It was formed for the purpose of effecting a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses or entities.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Factorial Inc.&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-12-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; following shareholder vote on May 27, 2026&lt;/li&gt;&lt;/ul&gt;
@@ -585,7 +651,9 @@
       <category>SPIN_OFF</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;Corporation (New Enviri) will be spun off from Enviri Corporation via a pro-rata distribution of one share of New Enviri common stock for every three shares of CE Holdings common stock. The spin-off separates the Harsco Environmental and Harsco Rail segments into a new publicly traded company, while Clean Earth is being sold to Veolia. The SEC declared the Form 10 registration statement effective on May 8, 2026, and the distribution is expected to become effective on June 1, 2026.&lt;/p&gt;
+      <ns0:headline>Spins off Harsco Environmental &amp; Rail; SEC effective May 8; 1:3 distribution June 1</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Spins off Harsco Environmental &amp;amp; Rail; SEC effective May 8; 1:3 distribution June 1&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation (New Enviri) will be spun off from Enviri Corporation via a pro-rata distribution of one share of New Enviri common stock for every three shares of CE Holdings common stock. The spin-off separates the Harsco Environmental and Harsco Rail segments into a new publicly traded company, while Clean Earth is being sold to Veolia. The SEC declared the Form 10 registration statement effective on May 8, 2026, and the distribution is expected to become effective on June 1, 2026.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-06-01&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2104052/000210405226000055/0002104052-26-000055-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;8-K · Items 7.01, 9.01 · 8k_tier1:7.01 · filed 2026-05-11&lt;/p&gt;</description>
@@ -598,7 +666,9 @@
       <category>SPIN_OFF</category>
       <category>acquisition</category>
       <category>8-K</category>
-      <description>&lt;p&gt;The Middleby Corporation announced that its food processing business will be named Midera Food Processing, Inc. and will be spun off to Middleby shareholders via a pro-rata distribution of one Midera share for each Middleby share held. The spin-off is expected to close on July 6, 2026, and Midera will list on Nasdaq under ticker 'MFP'. An investor day is scheduled for May 12, 2026.&lt;/p&gt;
+      <ns0:headline>Spins off food processing as Midera; 1:1 distribution; close July 6; investor day May 12</ns0:headline>
+      <description>&lt;p&gt;&lt;b&gt;Spins off food processing as Midera; 1:1 distribution; close July 6; investor day May 12&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Middleby Corporation announced that its food processing business will be named Midera Food Processing, Inc. and will be spun off to Middleby shareholders via a pro-rata distribution of one Midera share for each Middleby share held. The spin-off is expected to close on July 6, 2026, and Midera will list on Nasdaq under ticker 'MFP'. An investor day is scheduled for May 12, 2026.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The Middleby Corporation designs, manufactures, markets, distributes, and services a range of foodservice, food processing, and residential kitchen equipment in the United States, Canada, Asia, Europe, the Middle East, and Latin America. Its Commercial Foodservice Equipment Group segment offers conveyor, combi, convection, baking, proofing, deck, speed cooking, and hydrovection ovens; ranges, fryers, rethermalizers; steam cooking, food warming, catering, induction cooking, and countertop cooking…&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-07-06&lt;/li&gt;&lt;/ul&gt;
