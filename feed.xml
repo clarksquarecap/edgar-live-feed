@@ -6,8 +6,19 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 12 May 2026 20:23:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 20:23:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>♻️ Issuer tender · Onex Direct Lending BDC Fund</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1860424/000119312526219399/d132598dsctoia.htm</link>
+      <guid isPermaLink="false">0001193125-26-219399</guid>
+      <pubDate>Tue, 12 May 2026 15:23:58 -0500</pubDate>
+      <category>issuer_tender</category>
+      <category>SC TO-I/A</category>
+      <description>&lt;p&gt;(AI summary unavailable — validator timed out. Open the filing link to review the body manually.)&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1860424/000119312526219399/0001193125-26-219399-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;SC TO-I/A · prefill_form:SC TO-I · filed 2026-05-12&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🎯 Tender · GNK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926059376/tm2612953-17_sctota.htm</link>
@@ -3265,23 +3276,6 @@
 &lt;p&gt;&lt;i&gt;Mkt cap $224.7M · EV $3.72B · Financial Services / Shell Companies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2023730/000119312526211817/0001193125-26-211817-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GIG, GIGGU, GIGGW&lt;/b&gt; · 8-K · Items 1.01, 8.01, 9.01 · Utilities (4911) · 8k_tier1:1.01,8.01 · filed 2026-05-07&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · CREG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/721693/000121390026053293/ea0289642-8k_smart.htm</link>
-      <guid isPermaLink="false">0001213900-26-053293</guid>
-      <pubDate>Thu, 07 May 2026 15:14:45 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>8-K</category>
-      <ns0:headline>Nasdaq delisting for bid price non-compliance; appeal due May 8 or suspend May 12</ns0:headline>
-      <description>&lt;p&gt;&lt;b&gt;Nasdaq delisting for bid price non-compliance; appeal due May 8 or suspend May 12&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Nasdaq notice on May 1, 2026, for non-compliance with the $1.00 bid price rule due to a reverse stock split in the prior year, making it ineligible for a compliance period. The company intends to appeal by May 8, 2026, which will stay the suspension; otherwise, trading will be suspended on May 12, 2026. The outcome of the appeal is uncertain.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Smart Powerr Corp. engages in the recycling energy business in China. The company designs, finances, constructs, installs, operates, and transfers waste energy recycling projects to mid- to large-size enterprises involved in high energy-consuming businesses. It provides waste pressure-to-energy solutions, including the Blast Furnace Top Gas Recovery Turbine Unit, a system that utilizes high pressure gas emitted from the blast furnace top to drive turbine units and generate electricity; and waste…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-01&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Mkt cap $10.3M · EV $5.7M · Utilities / Renewable Utilities&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/721693/000121390026053293/0001213900-26-053293-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CREG&lt;/b&gt; · 8-K · Items 3.01, 9.01 · Business Services (7389) · 8k_tier1:3.01 · filed 2026-05-07&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
