@@ -6,8 +6,26 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 14 May 2026 13:47:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 13:55:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · APLS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1492422/000135445726000449/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000449</guid>
+      <pubDate>Thu, 14 May 2026 08:55:40 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <ns0:headline>Forced delisting from Nasdaq</ns0:headline>
+      <ns0:shortName>Apellis Pharmaceuticals</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Forced delisting from Nasdaq&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Nasdaq Stock Market LLC filed a Form 25-NSE to remove Apellis Pharmaceuticals' common stock from listing and registration under Section 12(b) of the Exchange Act, citing Rule 12d2-2(a)(3). The delisting becomes effective 10 days after the filing date, on or about May 24, 2026. The stock is expected to trade on OTC markets thereafter.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Apellis Pharmaceuticals, Inc., a commercial-stage biopharmaceutical company, focuses on the discovery, development, and commercialization of therapeutic compounds through the inhibition of the complement system for autoimmune and inflammatory diseases. The company's lead product candidate is pegcetacoplan that is in Phase III clinical trials for the treatment of geographic atrophy (GA) in age-related macular degeneration and paroxysmal nocturnal hemoglobinuria (PNH) diseases.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-05-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Mkt cap $5.25B · EV $3.18B · EV/Sales 3.7x · Healthcare / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1492422/000135445726000449/0001354457-26-000449-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;APLS&lt;/b&gt; · 25-NSE · Chemicals / Pharma (2834) · prefill_form:25-NSE · filed 2026-05-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · TPH</title>
       <link>https://www.sec.gov/Archives/edgar/data/1561680/000119312526222960/d317054d8k.htm</link>
@@ -3505,23 +3523,6 @@
 &lt;p&gt;&lt;i&gt;Mkt cap $193.0M · EV $3.72B · Financial Services / Shell Companies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2023730/000119312526215764/0001193125-26-215764-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GIG, GIGGU, GIGGW&lt;/b&gt; · 425 · Utilities (4911) · prefill_form:425 · filed 2026-05-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · IRHO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2051985/000121390026054268/ea0290062-8k425_ironhorse2.htm</link>
-      <guid isPermaLink="false">0001213900-26-054268</guid>
-      <pubDate>Mon, 11 May 2026 09:47:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>425</category>
-      <ns0:headline>Updates investor presentation for Electra Vehicles merger</ns0:headline>
-      <ns0:shortName>Iron Horse Acquisition II</ns0:shortName>
-      <description>&lt;p&gt;&lt;b&gt;Updates investor presentation for Electra Vehicles merger&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;A SPAC, filed an updated investor presentation in connection with its previously announced business combination with Electra Vehicles, Inc., an AI-powered battery intelligence company. The deal is pending shareholder vote and regulatory approvals, with a registration statement on Form S-4 to be filed. No specific deal terms (price, value) are disclosed in this filing.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Iron Horse Acquisition II Corp. operates as a blank check company. It was formed for the purpose of effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses. The company was founded on November 26, 2024 and is headquartered in Boca Raton, FL.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Electra Vehicles, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Mkt cap $235.2M · EV $289.1M · Financial Services / Financial - Conglomerates&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2051985/000121390026054268/0001213900-26-054268-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IRHO, IRHOR, IRHOU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-05-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
