@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 15 May 2026 21:51:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 21:52:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · GCTK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506983/000149315226023889/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-023889</guid>
+      <pubDate>Fri, 15 May 2026 16:52:31 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>8-K</category>
+      <ns0:headline>Forced Nasdaq delisting for bid price &amp; equity non-compliance; hearing requested</ns0:headline>
+      <ns0:shortName>Glucotrack</ns0:shortName>
+      <ns0:price>0.6500</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting for bid price &amp;amp; equity non-compliance; hearing requested&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Staff Determination from Nasdaq on May 11, 2026 for failing the minimum bid price rule ($1.00), and a second letter on May 15, 2026 for failing the minimum stockholders' equity requirement ($2.5M). The company intends to request a hearing by May 18, 2026 to appeal the delisting determination. There is no assurance the appeal will succeed or that compliance can be regained.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; GlucoTrack, Inc., a medical device company, designs, develops, and commercializes non-invasive glucose monitoring devices for use by people suffering from diabetes and pre-diabetics in Israel and internationally. It develops GlucoTrack glucose monitoring device that helps people with diabetes and pre-diabetics to obtain blood glucose level readings without the pain. The company was formerly known as Integrity Applications, Inc. and changed its name to GlucoTrack, Inc. in November 2021.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.6500 · Mkt cap $369K · EV $-3.9M · Healthcare / Medical - Instruments &amp;amp; Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1506983/000149315226023889/0001493152-26-023889-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GCTK&lt;/b&gt; · 8-K · Items 3.01, 9.01 · Instruments / Medical Devices (3841) · 8k_tier1:3.01 · filed 2026-05-15&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · PIII</title>
       <link>https://www.sec.gov/Archives/edgar/data/1832511/000183251126000024/piii-20260514.htm</link>
@@ -9179,20 +9198,6 @@
 &lt;p&gt;&lt;i&gt;Px $10.06 · Mkt cap $13.7M · EV $11.0M · Financial Services / Asset Management&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2026767/000149315226021501/0001493152-26-021501-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ALIS, ALISR, ALISU&lt;/b&gt; · 425 · Business Services (7374) · prefill_form:425 · filed 2026-05-06&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · NDTAF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1863502/000121390026052868/ea0289415-425_rumble.htm</link>
-      <guid isPermaLink="false">0001213900-26-052868</guid>
-      <pubDate>Wed, 06 May 2026 16:25:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>425</category>
-      <ns0:shortName>Northern Data AG</ns0:shortName>
-      <description>&lt;p&gt;Rumble Inc. has made a voluntary public exchange offer to acquire all shares of Northern Data AG, offering 2.0281 Rumble Class A common shares per Northern Data share. The acceptance period ends on May 9, 2026, and Northern Data's management and supervisory boards unanimously recommend acceptance. The transaction is expected to result in delisting of Northern Data shares shortly after completion.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Rumble Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; May 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1863502/000121390026052868/0001213900-26-052868-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NDTAF&lt;/b&gt; · 425 · Business Services (7370) · prefill_form:425 · filed 2026-05-06&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
