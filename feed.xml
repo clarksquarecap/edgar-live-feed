@@ -6,8 +6,28 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 22 May 2026 13:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 13:19:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Lost · FUTU</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1754581/000110465926065484/tm2615466d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-065484</guid>
+      <pubDate>Fri, 22 May 2026 08:19:46 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>lost</category>
+      <category>6-K</category>
+      <ns0:headline>Lost proposed RMB1.85B CSRC penalty (~USD271M); contesting</ns0:headline>
+      <ns0:shortName>Futu Holdings</ns0:shortName>
+      <ns0:price>123.86</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Lost proposed RMB1.85B CSRC penalty (~USD271M); contesting&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Notice of Investigation and Administrative Penalty Pre-Notification from the CSRC proposing penalties of approximately RMB1.85 billion (~USD271 million) for conducting securities, fund sales, and futures business in mainland China without required licenses. The company intends to submit statements, present defenses, and request a hearing. The proposed penalty remains subject to further proceedings and final determination.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Futu Holdings Limited provides digitalized securities brokerage and wealth management product distribution service in Hong Kong and internationally. It offers online financial services, including securities and derivative trades brokerage, margin financing and fund distribution services through its Futubull and Moomoo digital platforms.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; China Securities Regulatory Commission (CSRC)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; RMB1.85 billion (~USD271 million)&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-22&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $123.86 · Mkt cap $17.25B · EV $71.86B · Fwd P/E 1.3x · Fwd EV/EBITDA 5.5x · EV/Sales 2.8x · Financial Services / Financial - Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1754581/000110465926065484/0001104659-26-065484-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FUTU&lt;/b&gt; · 6-K · Securities / Broker-Dealers (6211) · prefill_form:6-K · filed 2026-05-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · BCO</title>
       <link>https://www.sec.gov/Archives/edgar/data/78890/000114036126022538/ny20069704x4_s4a.htm</link>
@@ -9223,18 +9243,6 @@
 &lt;p&gt;&lt;i&gt;Px $254.30 · Mkt cap $4.65B · EV $3.04B · Fwd P/E 35.8x · Fwd EV/EBITDA 9.0x · EV/Sales 1.2x · Industrials / Specialty Business Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/717954/000114036126020380/0001140361-26-020380-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UNF&lt;/b&gt; · DEFM14A · Personal Services (7200) · prefill_form:DEFM14A · filed 2026-05-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📝 OTC M&amp;A · NKOSF</title>
-      <link>https://www.otcmarkets.com/stock/NKOSF/news/520797</link>
-      <guid isPermaLink="false">OTC-520797</guid>
-      <pubDate>Mon, 11 May 2026 09:03:53 -0500</pubDate>
-      <category>acquisition</category>
-      <category>OTC</category>
-      <ns0:price>0.0400</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Labrador Gold Corp. engages in the acquisition, exploration, and development of gold properties in the Americas. The company owns a 100% interest in the Borden Lake property that covers an area of 1,598-hectares located in Chapleau, Ontario. It has an option to acquire 100% interest in the Ashuanipi property consisting of 1,564 Claims in 10 claim blocks covering an area of approximately 391 square kilometers located in Labrador, Quebec; the Kingsway property consisting of 264 claims in 3 license…&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0400 · Mkt cap $6.8M · EV $3.3M · Basic Materials / Gold&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NKOSF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-05-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
