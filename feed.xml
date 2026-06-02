@@ -6,8 +6,24 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 02 Jun 2026 17:04:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 17:12:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · Kyushu Electric Power</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2004705/000095010326008288/dp247803_cba-4.htm</link>
+      <guid isPermaLink="false">0000950103-26-008288</guid>
+      <pubDate>Tue, 02 Jun 2026 12:12:22 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>CB/A</category>
+      <ns0:headline>One-for-one share exchange for Kyuden Holdings shares; vote June 25</ns0:headline>
+      <ns0:shortName>Kyushu Electric Power</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;One-for-one share exchange for Kyuden Holdings shares; vote June 25&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Shareholders vote June 25, 2026 on a share transfer plan to create a holding company, Kyuden Holdings Inc. Each common share will be exchanged for one common share of the new holding company. Effective date of the share transfer is October 1, 2026; current shares will be delisted and holding company shares listed on TSE and FSE.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Kyuden Holdings Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-03-26&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2004705/000095010326008288/0000950103-26-008288-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;CB/A · prefill_form:CB · filed 2026-06-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · VCIG</title>
       <link>https://www.sec.gov/Archives/edgar/data/1930510/000121390026064011/ea0293224-6k_vciglobal.htm</link>
@@ -9227,22 +9243,6 @@
 &lt;p&gt;&lt;i&gt;Px $9.90 · Mkt cap $10.77B · EV $20.00B · Fwd P/E 8.8x · EV/Sales 0.7x · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2041610/000110465926063952/0001104659-26-063952-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PSKY&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Communications (4833) · 8k_tier1:7.01 · filed 2026-05-19&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Evernorth Holdings</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2092592/000095010326007442/dp246943_425.htm</link>
-      <guid isPermaLink="false">0000950103-26-007442</guid>
-      <pubDate>Tue, 19 May 2026 16:29:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>425</category>
-      <ns0:headline>SPAC merger with Pathfinder Digital Assets; vote pending</ns0:headline>
-      <ns0:shortName>Evernorth Holdings</ns0:shortName>
-      <description>&lt;p&gt;&lt;b&gt;SPAC merger with Pathfinder Digital Assets; vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is pursuing a business combination with Armada Acquisition Corp. II (SPAC) and Pathfinder Digital Assets LLC, as previously announced on October 19, 2025. The Registration Statement was filed on March 18, 2026, and the definitive proxy statement will be mailed to Armada II shareholders for a vote to approve the transaction. No new economic terms were disclosed in this communication.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Armada Acquisition Corp. II&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-10-19&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2092592/000095010326007442/0000950103-26-007442-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;425 · Securities / Broker-Dealers (6221) · prefill_form:425 · filed 2026-05-19&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
