@@ -6,8 +6,26 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 10 Jun 2026 20:37:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 20:37:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · QSI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1816431/000135445726000560/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000560</guid>
+      <pubDate>Wed, 10 Jun 2026 15:37:45 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <ns0:headline>Warrants removed from Nasdaq listing</ns0:headline>
+      <ns0:shortName>Quantum-Si</ns0:shortName>
+      <ns0:price>0.9500</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Warrants removed from Nasdaq listing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Nasdaq filed Form 25-NSE to remove Quantum-Si's warrants from listing and registration effective June 10, 2026. The warrants will likely trade over-the-counter thereafter. Holders should evaluate liquidity impacts.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Quantum-Si incorporated, a life sciences company, develops proprietary, universal, and single-molecule detection platform applied to proteomics to enable next-gen protein sequencing (NGPS). The company offers Platinum and Platinum Pro NGPS instruments for single-molecule, amino acid level resolution, and automated data analysis; library preparation kits to prepare a customer’s protein sample for sequencing; and sequencing kits, which contain the reagents and consumables used to perform NGPS.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $0.9500 · Mkt cap $214.9M · EV $28.3M · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1816431/000135445726000560/0001354457-26-000560-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QSI, QSIAW&lt;/b&gt; · 25-NSE · Instruments / Medical Devices (3829) · prefill_form:25-NSE · filed 2026-06-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚔️ Proxy Contest · FRMI</title>
       <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026067352/ea0294314-defc14a_toby.htm</link>
@@ -9080,21 +9098,6 @@
 &lt;p&gt;&lt;i&gt;Px $117.13 · Mkt cap $52.01B · EV $44.79B · Fwd P/E 19.2x · Fwd EV/EBITDA 18.7x · EV/Sales 3.7x · Consumer Cyclical / Specialty Retail&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1065088/000119312526246197/0001193125-26-246197-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EBAY&lt;/b&gt; · 425 · Business Services (7389) · prefill_form:425 · filed 2026-05-29&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · BOXABL</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1816937/000110465926067717/tm2615257d4_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-067717</guid>
-      <pubDate>Fri, 29 May 2026 05:13:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>425</category>
-      <ns0:headline>Merges with Boxabl Inc. in SPAC transaction; vote pending</ns0:headline>
-      <ns0:shortName>BOXABL</ns0:shortName>
-      <description>&lt;p&gt;&lt;b&gt;Merges with Boxabl Inc. in SPAC transaction; vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;FG Merger II Corp. (SPAC) is merging with Boxabl Inc., a modular housing company. The merger agreement was signed August 4, 2025, and the S-4 registration statement has been declared effective. A shareholder vote is pending.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-08-04&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1816937/000110465926067717/0001104659-26-067717-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;425 · Construction — General (1520) · prefill_form:425 · filed 2026-05-29&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
