@@ -6,8 +6,25 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 15 Jun 2026 15:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 15:13:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · BLMZF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1984014/000135445726000573/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000573</guid>
+      <pubDate>Mon, 15 Jun 2026 10:13:58 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <ns0:headline>Forced Nasdaq delisting effective June 25, 2026</ns0:headline>
+      <ns0:shortName>Harrison Global</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective June 25, 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Nasdaq Stock Market has determined to remove Harrison Global Holdings Inc.'s ordinary shares from listing, effective at the opening of the trading session on June 25, 2026. The delisting follows a final determination by the Listing Qualifications Hearings Panel after the company's appeal. The shares were suspended on December 15, 2025.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Harrison Global Holdings Inc. operates as an audio producing and voice actor managing company in Japan. It offers audio production services; and VTuber, a virtual character that enables streamers to provide their voice to stream real-time videos of human facial expressions and gestures. The company also provides voice acting educational services to Japanese youths. The company was formerly known as BloomZ Inc. and changed its name to Harrison Global Holdings Inc. in July 2025.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Mkt cap $70K · EV $-180K · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1984014/000135445726000573/0001354457-26-000573-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BLMZF&lt;/b&gt; · 25-NSE · Motion Pictures (7819) · prefill_form:25-NSE · filed 2026-06-15&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🎯 Tender · Unsolicited · GNK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926073893/tm2612953d42_sctota.htm</link>
@@ -9103,26 +9120,6 @@
 &lt;p&gt;&lt;i&gt;Px $4.53 · Mkt cap $282.6M · EV $344.0M · EV/Sales 21.0x · Industrials / Aerospace &amp;amp; Defense&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1706946/000119312526252565/0001193125-26-252565-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SPCE&lt;/b&gt; · 8-K · Items 8.01 · Transportation Services (4700) · 8k_tier1:8.01 · filed 2026-06-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Settled · URGN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1668243/000143774926019102/urgn20260601_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-019102</guid>
-      <pubDate>Tue, 02 Jun 2026 07:14:56 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-      <category>8-K</category>
-      <ns0:headline>Settles patent litigation with Teva; generic Jelmyto entry 2030</ns0:headline>
-      <ns0:shortName>UroGen Pharma</ns0:shortName>
-      <ns0:price>27.03</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Settles patent litigation with Teva; generic Jelmyto entry 2030&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into a settlement and license agreement with Teva resolving patent litigation over Jelmyto. Teva receives a non-exclusive license to sell a generic version beginning September 15, 2030, if FDA-approved. The parties will dismiss all ongoing litigation; the agreement is subject to FTC and DOJ review.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; UroGen Pharma Ltd., a biotechnology company, engages in the development and commercialization novel solutions for specialty cancers and urothelial diseases. It offers RTGel, a polymeric biocompatible and reverse thermal gelation hydrogel to improve therapeutic profiles of existing drugs; and Jelmyto for pyelocalyceal solution.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Teva Pharmaceuticals Inc. and Teva Pharmaceuticals USA, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-02&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $27.03 · Mkt cap $1.32B · EV $1.14B · EV/Sales 4.3x · Healthcare / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1668243/000143774926019102/0001437749-26-019102-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;URGN&lt;/b&gt; · 8-K · Items 8.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-06-02&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
