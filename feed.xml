@@ -6,8 +6,24 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 19:36:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 19:42:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · VRXA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2079109/000213483826000001/primary_doc.xml</link>
+      <guid isPermaLink="false">0002134838-26-000001</guid>
+      <pubDate>Tue, 16 Jun 2026 14:42:35 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>SCHEDULE 13D</category>
+      <ns0:headline>David Deck reports 18% stake; no activist plans</ns0:headline>
+      <ns0:shortName>Veraxa Biotech Holding AG</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;David Deck reports 18% stake; no activist plans&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;David Deck filed a Schedule 13D disclosing beneficial ownership of 25,502,836 ordinary shares (18%) of Veraxa Biotech Holding AG, acquired upon closing of the de-SPAC business combination with Voyager Acquisition Corp. on June 8, 2026. The filing states the shares were acquired for investment purposes and the reporting person has no present plans for any actions specified in Item 4(a)-(j), except for lock-up and earnout provisions. The earnout provides up to 5M additional shares if VWAP targets of $11, $12.50, and $14 are met over the next three fiscal years.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; David Deck&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 18.0&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-16&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2079109/000213483826000001/0002134838-26-000001-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VRXA&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2834) · fresh_13d · filed 2026-06-16&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · ASRT 01/18/19 C22</title>
       <link>https://www.sec.gov/Archives/edgar/data/1005201/000135445726000582/primary_doc.xml</link>
@@ -9142,25 +9158,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.75 · Mkt cap $96.2M · EV $81.5M · EV/Sales 5.0x · Healthcare / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1726445/000119312526255770/0001193125-26-255770-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SEER&lt;/b&gt; · DEFC14A · Instruments / Medical Devices (3826) · prefill_form:DEFC14A · filed 2026-06-03&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔎 Strategic Review · Formal Alternatives · DAIC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026064773/ea0293434-8k_cidhold.htm</link>
-      <guid isPermaLink="false">0001213900-26-064773</guid>
-      <pubDate>Wed, 03 Jun 2026 15:52:35 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-      <category>8-K</category>
-      <ns0:headline>Explores strategic alternatives including sale, merger; hires Cohen &amp; Co advisor</ns0:headline>
-      <ns0:shortName>CID Holdco</ns0:shortName>
-      <ns0:price>0.1820</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Explores strategic alternatives including sale, merger; hires Cohen &amp;amp; Co advisor&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;The Company announced it is exploring a range of strategic alternatives including a sale, merger, business combination, strategic partnership, licensing, recapitalization, additional financing, continued execution of its operating plan, or liquidation. Cohen &amp;amp; Company Capital Markets has been engaged as exclusive financial advisor to assist in the process. No timetable has been set and there is no assurance that any transaction will result.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The post‑merger public company formed by the SPAC Perimeter Acquisition Corp. I, combined with Dot Ai (formerly SEE ID). Operates as a publicly traded AI asset intelligence technology firm&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-03&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1820 · Mkt cap $5.5M · EV $10.6M · Financial Services / Shell Companies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2033770/000121390026064773/0001213900-26-064773-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DAIC, DAICW&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Business Services (7373) · 8k_tier1:7.01 · filed 2026-06-03&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
