@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 21:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:33:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HLLK 🤝 Merger
+Acquired by EQUORIX LLC; 75.55% common + voting control; drone IP
+stock · close 2026-06-09
+Mcap $17M · EV $17M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1331421/000149315226028933/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-028933</guid>
+      <pubDate>Tue, 16 Jun 2026 16:33:27 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NHP 🎯 Tender · Unsolicited
 Unsolicited mini-tender from MacKenzie at $7.27/share; NHP neutral
@@ -3690,15 +3701,6 @@ Mcap $86M · EV $58M · Financial Serv</title>
       <link>https://www.sec.gov/Archives/edgar/data/2028201/000121390026064991/ea0293595-425_columbus.htm</link>
       <guid isPermaLink="false">0001213900-26-064991</guid>
       <pubDate>Thu, 04 Jun 2026 05:37:47 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$SGI 🤝 Merger
-Acquires Leggett &amp; Platt; HSR cleared; close by year-end 2026
-Mcap $14B · EV $27B · Consumer Defen</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1206264/000120626426000082/sgi-20260604.htm</link>
-      <guid isPermaLink="false">0001206264-26-000082</guid>
-      <pubDate>Thu, 04 Jun 2026 05:31:03 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
