@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 21:15:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:16:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BRSP 📤 Divestiture
+Sells two industrial properties for $300M cash; close by Sep 14
+$300,000,000 deal · close 2026-09-14
+Mcap $728M · EV $3.2B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1717547/000171754726000053/brsp-20260612.htm</link>
+      <guid isPermaLink="false">0001717547-26-000053</guid>
+      <pubDate>Tue, 16 Jun 2026 16:16:28 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$GCO ⚔️ Proxy
 Faces proxy contest from Bradley Radoff; AGM July 21
@@ -3687,15 +3697,6 @@ Mcap $5.5B · EV $7.3B · Consumer Cycli</title>
       <link>https://www.sec.gov/Archives/edgar/data/1562476/000119312526256131/d10100ddefa14a.htm</link>
       <guid isPermaLink="false">0001193125-26-256131</guid>
       <pubDate>Thu, 04 Jun 2026 05:28:48 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$DSM 🤝 Merger
-Supplemental proxy materials for pending merger vote
-Mcap $302M · EV $457M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/855887/000207184426000613/defa14asmbf.htm</link>
-      <guid isPermaLink="false">0002071844-26-000613</guid>
-      <pubDate>Thu, 04 Jun 2026 05:28:15 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
