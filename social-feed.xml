@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 20:02:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:09:39 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ESPR 🤝 Merger
+HSR cleared for ArchiMed merger; vote July 8
+Mcap $811M · EV $1.2B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1434868/000110465926074562/tm2617356d3_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-074562</guid>
+      <pubDate>Tue, 16 Jun 2026 15:09:39 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$LIXT 🤝 Merger
 Acquires NOMAD Transportable Power Systems for convertible preferred + common stock
@@ -3695,16 +3705,6 @@ Mcap $3.9B · EV $3.5B · Utilities</title>
       <guid isPermaLink="false">0001213900-26-064859</guid>
       <pubDate>Wed, 03 Jun 2026 16:35:01 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$SEER ⚔️ Proxy
-Faces proxy contest from Radoff/Torok; vote July 28
-Mcap $96M · EV $81M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726445/000119312526255785/d110438ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-255785</guid>
-      <pubDate>Wed, 03 Jun 2026 16:27:24 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>contested_director_election</category>
     </item>
   </channel>
 </rss>
