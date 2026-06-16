@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 21:08:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:15:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GCO ⚔️ Proxy
+Faces proxy contest from Bradley Radoff; AGM July 21
+Mcap $435M · EV $985M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/18498/000119312526272837/d146419ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-272837</guid>
+      <pubDate>Tue, 16 Jun 2026 16:15:14 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$VVOS 📜 Rights Issue
 Proposes rights offering: $1.25/share floor, 9-month exercise period
@@ -3688,16 +3697,6 @@ Mcap $302M · EV $457M · Financial Serv</title>
       <guid isPermaLink="false">0002071844-26-000613</guid>
       <pubDate>Thu, 04 Jun 2026 05:28:15 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$ATKR ⚖️ Litigation · Settled
-Settled $50M antitrust class action with End User Plaintiffs; court approval pending
-Mcap $2.9B · EV $2.6B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1666138/000166613826000014/atkr-20260604.htm</link>
-      <guid isPermaLink="false">0001666138-26-000014</guid>
-      <pubDate>Thu, 04 Jun 2026 05:20:29 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>
