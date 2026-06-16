@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 20:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:34:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$JMG 📉 Delisting · Forced
+Forced NYSE American delisting; review deadline June 19
+Mcap $2.2B · EV $2.2B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2049717/000121390026069280/ea0294865-6k_jmgroup.htm</link>
+      <guid isPermaLink="false">0001213900-26-069280</guid>
+      <pubDate>Tue, 16 Jun 2026 15:34:37 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$WBS 🤝 Merger
 OCC approves bank merger; Santander acquisition pending Fed/ECB clearance
@@ -3698,16 +3708,6 @@ Mcap $388M · EV $462M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1169445/000119312526256370/d12788ddefm14a.htm</link>
       <guid isPermaLink="false">0001193125-26-256370</guid>
       <pubDate>Thu, 04 Jun 2026 05:16:42 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$SVAC 🤝 Merger
-Merges with General Fusion in $1B de-SPAC; to list as GFUZ
-~$1 billion (pro-forma equity value) deal · stock · close mid-2026
-Mcap $323M · EV $402M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2074850/000110465926070237/tm2616867d1_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-070237</guid>
-      <pubDate>Thu, 04 Jun 2026 05:09:49 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
