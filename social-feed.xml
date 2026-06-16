@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 21:34:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:41:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SNBR 🔥 Insolvency · Ch. 11
+Secures $260M DIP financing in Chapter 11; final hearing July 9
+Mcap $5M · EV $957M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/827187/000095010326009081/dp248436_8k.htm</link>
+      <guid isPermaLink="false">0000950103-26-009081</guid>
+      <pubDate>Tue, 16 Jun 2026 16:41:04 -0500</pubDate>
+      <category>INSOLVENCY</category>
+      <category>chapter_11</category>
+    </item>
     <item>
       <title>$HLLK 🤝 Merger
 Acquired by EQUORIX LLC; 75.55% common + voting control; drone IP
@@ -3691,16 +3701,6 @@ Mcap $1.4B · EV $2.6B · Consumer Cycli</title>
       <link>https://www.sec.gov/Archives/edgar/data/58492/000120626426000084/a06042026425communication.htm</link>
       <guid isPermaLink="false">0001206264-26-000084</guid>
       <pubDate>Thu, 04 Jun 2026 05:38:07 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$COLA 🤝 Merger
-Submits amended F-4 for WISeSat merger; combined to trade as WSAT
-WISeSat.Space
-Mcap $86M · EV $58M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028201/000121390026064991/ea0293595-425_columbus.htm</link>
-      <guid isPermaLink="false">0001213900-26-064991</guid>
-      <pubDate>Thu, 04 Jun 2026 05:37:47 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
