@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 21:00:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:07:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VVOS 📜 Rights Issue
+Proposes rights offering: $1.25/share floor, 9-month exercise period
+Mcap $8M · EV $18M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1716166/000149315226028912/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-028912</guid>
+      <pubDate>Tue, 16 Jun 2026 16:07:15 -0500</pubDate>
+      <category>RIGHTS_ISSUE</category>
+    </item>
     <item>
       <title>$AIRT 🤝 Merger
 Acquires Arena Aviation Partners for $21.75M cash + contingent up to $23M
@@ -3689,16 +3698,6 @@ Mcap $2.9B · EV $2.6B · Industrials</title>
       <pubDate>Thu, 04 Jun 2026 05:20:29 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$TAC 🤝 Merger
-Acquires 318 MW Colorado gas assets from Blackstone for $1B; $350M equity offering
-US$1.0 billion deal · cash · close early Q4 2026
-Mcap $4.3B · EV $9.3B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1144800/000119312526256078/d10963d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-256078</guid>
-      <pubDate>Thu, 04 Jun 2026 05:18:51 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
