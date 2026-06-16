@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 20:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:19:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EVTV 🤝 Merger
+AZIO AI appoints a16z fund strategy head to advisory team
+Mcap $20M · EV $23M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1563568/000143774926020799/adom20260616_425.htm</link>
+      <guid isPermaLink="false">0001437749-26-020799</guid>
+      <pubDate>Tue, 16 Jun 2026 15:19:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FUBO 🤝 Merger
 Filed DEFA14A for pending merger
@@ -3698,16 +3708,6 @@ Mcap $1.1B · EV $944M · Industrials</title>
       <guid isPermaLink="false">0000930413-26-001797</guid>
       <pubDate>Thu, 04 Jun 2026 05:06:07 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$FGPHF 🤝 Merger
-Acquires MITO Material Solutions for AU$850K cash+stock; expands US defence exposure
-AU$850,000 deal · cash+stk
-Mcap $38M · EV $18M · Basic Material</title>
-      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=91054</link>
-      <guid isPermaLink="false">OTC-523891</guid>
-      <pubDate>Wed, 03 Jun 2026 18:19:15 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
