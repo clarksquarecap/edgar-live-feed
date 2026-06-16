@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 21:16:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:24:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$YUM 📤 Divestiture
+Sells global Pizza Hut ops for $1.488B + $75M earnout; China ops to Yum China for $1.2B
+$2.688B cash (plus up to $75M earnout) deal
+Mcap $43B · EV $55B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1041061/000119312526272881/d47355d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-272881</guid>
+      <pubDate>Tue, 16 Jun 2026 16:24:29 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$BRSP 📤 Divestiture
 Sells two industrial properties for $300M cash; close by Sep 14
@@ -3689,15 +3699,6 @@ Mcap $1.5B · EV $5.7B · Real Estate</title>
       <guid isPermaLink="false">0001140361-26-023922</guid>
       <pubDate>Thu, 04 Jun 2026 05:29:48 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$TMHC 🤝 Merger
-Acquired by Berkshire Hathaway; shareholder vote pending
-Mcap $5.5B · EV $7.3B · Consumer Cycli</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1562476/000119312526256131/d10100ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-256131</guid>
-      <pubDate>Thu, 04 Jun 2026 05:28:48 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
