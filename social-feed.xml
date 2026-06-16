@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 16:38:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 16:45:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TOON ⚖️ Litigation · Settled
+Receives $50M settlement in Augenbaum lawsuit; court approved
+Mcap $69M · EV $84M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1355848/000168316826004862/kartoon_8ka1.htm</link>
+      <guid isPermaLink="false">0001683168-26-004862</guid>
+      <pubDate>Tue, 16 Jun 2026 11:45:16 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$NVA 📉 Delisting · Forced
 Forced Nasdaq delisting effective June 16, 2026
@@ -3719,16 +3729,6 @@ Mcap $8.5B · EV $16B · Comms</title>
       <pubDate>Wed, 03 Jun 2026 15:14:53 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$ATNI 📤 Divestiture
-Sells tower portfolio to Everest for up to $297M cash; initial close June 2
-297,000,000 deal
-Mcap $401M · EV $925M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/879585/000110465926070056/tm2616732d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-070056</guid>
-      <pubDate>Wed, 03 Jun 2026 14:10:57 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
