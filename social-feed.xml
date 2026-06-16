@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 17:42:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:43:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNK ⚔️ Proxy
+Faces proxy contest from Diana Shipping; AGM June 18
+14.93% stake
+Mcap $1.0B · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926074492/tm2612953d44_dfan14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-074492</guid>
+      <pubDate>Tue, 16 Jun 2026 12:43:23 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$GNK 🎯 Tender · Hostile
 Faces $24.80/share hostile tender from Diana; AGM June 18
@@ -3710,16 +3720,6 @@ Mcap $7.7B · EV $5.6B · Technology</title>
       <link>https://www.sec.gov/Archives/edgar/data/866706/000110465926070116/tm2616691d1_8k.htm</link>
       <guid isPermaLink="false">0001104659-26-070116</guid>
       <pubDate>Wed, 03 Jun 2026 15:23:56 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$AXTA 🤝 Merger
-Rival bidders for acquirer drop out; merger reaffirmed
-Akzo Nobel
-Mcap $6.5B · EV $9.7B · Basic Material</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1616862/000095010326008466/dp247942_425.htm</link>
-      <guid isPermaLink="false">0000950103-26-008466</guid>
-      <pubDate>Wed, 03 Jun 2026 15:22:51 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
