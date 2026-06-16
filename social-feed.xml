@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 20:19:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:20:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WBS 🤝 Merger
+OCC approves bank merger; Santander acquisition pending Fed/ECB clearance
+Banco Santander
+Mcap $12B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/801337/000080133726000017/wbs-20260612.htm</link>
+      <guid isPermaLink="false">0000801337-26-000017</guid>
+      <pubDate>Tue, 16 Jun 2026 15:20:41 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EVTV 🤝 Merger
 AZIO AI appoints a16z fund strategy head to advisory team
@@ -3698,16 +3709,6 @@ Mcap $323M · EV $402M · Financial Serv</title>
       <guid isPermaLink="false">0001104659-26-070237</guid>
       <pubDate>Thu, 04 Jun 2026 05:09:49 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender
-Faces $24.80/share cash tender offer from Diana Shipping; AGM vote June 18
-cash
-Mcap $1.1B · EV $944M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000093041326001797/c116497_sc14d9a.htm</link>
-      <guid isPermaLink="false">0000930413-26-001797</guid>
-      <pubDate>Thu, 04 Jun 2026 05:06:07 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
