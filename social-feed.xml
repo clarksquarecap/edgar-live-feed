@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 17:47:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:50:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MXROF 📤 Divestiture
@@ -37,15 +37,6 @@ Mcap $1.0B · EV $1.3B · Industrials</title>
       <pubDate>Tue, 16 Jun 2026 12:42:56 -0500</pubDate>
       <category>TENDER_OFFER</category>
       <category>hostile</category>
-    </item>
-    <item>
-      <title>$NVA 🌍 Re-domicile
-Redomiciled to Nevada via scheme; US Holdco to list on NYSE American
-Mcap $250M · EV $217M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1852551/000149315226028845/form15-12g.htm</link>
-      <guid isPermaLink="false">0001493152-26-028845</guid>
-      <pubDate>Tue, 16 Jun 2026 12:23:47 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
     <item>
       <title>$TOON ⚖️ Litigation · Settled
@@ -88,15 +79,6 @@ Mcap $310M · EV $311M · Financials</title>
       <pubDate>Tue, 16 Jun 2026 09:02:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$STWI 📍 Stake
-Artikkhodjaev acquires 74.2% stake for $750K; board replaced
-Mcap $2M · EV $2M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1999261/000121390026069088/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-069088</guid>
-      <pubDate>Tue, 16 Jun 2026 08:56:15 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
     <item>
       <title>$LPRO 🤝 Merger
@@ -151,16 +133,6 @@ Mcap $727M · Financials</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$CONE 🤝 Merger
-Merger with Green Dot and CommerceOne; special meetings June 23
-Mcap $2M · EV $3M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2103884/000114036126025338/ef20076171_425.htm</link>
-      <guid isPermaLink="false">0001140361-26-025338</guid>
-      <pubDate>Tue, 16 Jun 2026 07:49:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
       <title>$CPRI 🤝 Merger
 Acquired by undisclosed acquirer; vote pending
 Mcap $2.4B · EV $3.7B · Cons Disc</title>
@@ -178,15 +150,6 @@ Mcap $28M · EV $24M · Tech</title>
       <guid isPermaLink="false">0001437749-26-020737</guid>
       <pubDate>Tue, 16 Jun 2026 07:36:14 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$NIVF 🪙 Debt Restr.
-Repurchases convertible notes and warrants from JAK; eliminates dilution
-Mcap $330K · EV $4M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1981662/000121390026069055/ea0294916-6k_newgenivf.htm</link>
-      <guid isPermaLink="false">0001213900-26-069055</guid>
-      <pubDate>Tue, 16 Jun 2026 07:35:43 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
     <item>
       <title>$VXRT ⚔️ Proxy
@@ -322,15 +285,6 @@ Mcap $34B · EV $68B · Energy</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$VAYK 💥 Busted M&amp;A
-Terminates home engineering acquisition, returns 50.1% stake; CEO resigns
-Mcap $430K · Tech</title>
-      <link>https://sa.marketscreener.com/news/vayk-announces-mutual-termination-of-home-engineering-acquisition-ceo-transition-and-strategic-refo-ce7f5cded181f72d</link>
-      <guid isPermaLink="false">OTC-525089</guid>
-      <pubDate>Mon, 15 Jun 2026 17:01:12 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
       <title>$BANR 🤝 Merger
 Acquires Pacific Financial for 0.2633 BANR/sh (~$17.70/sh; $178.5M)
 $178.5 million deal · stock
@@ -350,15 +304,6 @@ Mcap $349M · EV $347M · Financials</title>
       <pubDate>Mon, 15 Jun 2026 16:35:07 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BRUN 📍 Stake
-Sponsor and insider disclose 12.25% beneficial ownership in original 13D
-Mcap $1.9B · EV $1.9B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2090646/000149315226028729/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-028729</guid>
-      <pubDate>Mon, 15 Jun 2026 16:28:25 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
     <item>
       <title>$ISBA 🤝 Merger
@@ -495,25 +440,6 @@ Mcap $472M · EV $1.0B · Cons Disc</title>
       <category>ACTIVIST_PROXY</category>
     </item>
     <item>
-      <title>$NVVE 🤝 Merger
-Merger vote adjourned to June 23 for quorum
-Mcap $3M · EV $9M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1836875/000121390026068897/ea0294868-defa14a_nuvve.htm</link>
-      <guid isPermaLink="false">0001213900-26-068897</guid>
-      <pubDate>Mon, 15 Jun 2026 16:15:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RENX 🪙 Debt Restr.
-Exchanges $7.17M debt for Series C convertible preferred + warrants
-Mcap $5M · EV $30M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1959023/000121390026068872/ea0294649-8k_renx.htm</link>
-      <guid isPermaLink="false">0001213900-26-068872</guid>
-      <pubDate>Mon, 15 Jun 2026 16:08:03 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
       <title>$SEER ⚔️ Proxy
 Faces Radoff-JEC proxy contest; AGM July 28
 7.7% stake
@@ -575,16 +501,6 @@ Mcap $10M · EV $10M · Industrials</title>
       <category>forced</category>
     </item>
     <item>
-      <title>$2JPM 01/16/26 C220 FLX 🤝 Merger
-Acquires Payoneer for $2.75B; pending approvals
-Payoneer Global · $2.75 billion deal</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1765159/000119312526271205/d127165ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-271205</guid>
-      <pubDate>Mon, 15 Jun 2026 15:51:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
       <title>$WALD ⚖️ Litigation · Won
 FDA approves Obagi saypha ChIQ HA gel for cheek augmentation
 Mcap $220M · EV $377M · Cons Stpl</title>
@@ -622,23 +538,6 @@ Mcap $2.8B · EV $2.8B · Healthcare</title>
       <category>SPIN_OFF</category>
     </item>
     <item>
-      <title>$HONA 🪓 Spinoff
-Spun off from Honeywell; 1-for-2 distribution; HONA listing June 29</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2089271/000162828026043193/hona-20260614.htm</link>
-      <guid isPermaLink="false">0001628280-26-043193</guid>
-      <pubDate>Mon, 15 Jun 2026 15:20:52 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$PMHS 💥 Busted M&amp;A
-Altanine merger terminated; mutual release effective June 12
-Mcap $2M · EV $3M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1265521/000149315226028687/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028687</guid>
-      <pubDate>Mon, 15 Jun 2026 15:11:52 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
       <title>$BIRD 📤 Divestiture
 Sells footwear business to American Exchange Group for $40.7M cash; special dividend planned
 $40.7 million deal
@@ -647,17 +546,6 @@ Mcap $32M · EV $51M · Cons Disc</title>
       <guid isPermaLink="false">0001628280-26-043145</guid>
       <pubDate>Mon, 15 Jun 2026 15:11:22 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$FRSX 🤝 Merger
-Acquired by VisionWave Holdings in securities exchange; vote July 23
-stock
-Mcap $4M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1691221/000149315226028678/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028678</guid>
-      <pubDate>Mon, 15 Jun 2026 15:09:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$ORGN 🧊 Liquidation
@@ -680,22 +568,6 @@ Mcap $114M · EV $118M · Financials</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$VRXA 📍 Stake
-Receives 13D from Xlife Sciences disclosing 16.3% stake</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2079109/000213454926000001/primary_doc.xml</link>
-      <guid isPermaLink="false">0002134549-26-000001</guid>
-      <pubDate>Mon, 15 Jun 2026 14:49:15 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$VRXA 📍 Stake
-Receives Schedule 13D from Schoeni with 15.9% stake</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2079109/000213464926000001/primary_doc.xml</link>
-      <guid isPermaLink="false">0002134649-26-000001</guid>
-      <pubDate>Mon, 15 Jun 2026 14:42:32 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
       <title>$CGTL 💧 Capital Return · Recap
 Approves recap: authorized shares to $90M, up to 1:1500 reverse split
 Mcap $10M · EV $10M · Tech</title>
@@ -715,45 +587,6 @@ Mcap $1.3B · Real Estate</title>
       <pubDate>Mon, 15 Jun 2026 14:15:51 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$CWLXF 🤝 Merger
-Acquired by Vireo Growth for 0.023052 Vireo shares per C21 share; vote Q3 2026
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/831609/000106299326003202/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-003202</guid>
-      <pubDate>Mon, 15 Jun 2026 12:16:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NACB 🤝 Merger
-Acquires National Capital Bancorp; combined co to list as NACB
-close Q4 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1947463/000110465926073914/tm2617930d1_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-073914</guid>
-      <pubDate>Mon, 15 Jun 2026 11:19:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GSMT 💧 Capital Return · Recap
-CEO surrenders 3M shares for cancellation; outstanding halved to 3.13M</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1940243/000194024326000012/gsmt_8k.htm</link>
-      <guid isPermaLink="false">0001940243-26-000012</guid>
-      <pubDate>Mon, 15 Jun 2026 10:33:21 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-    </item>
-    <item>
-      <title>$BLMZF 📉 Delisting · Forced
-Forced Nasdaq delisting effective June 25, 2026
-Mcap $70K · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1984014/000135445726000573/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000573</guid>
-      <pubDate>Mon, 15 Jun 2026 10:13:58 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
     <item>
       <title>$GNK 🎯 Tender · Unsolicited
@@ -795,15 +628,6 @@ Mcap $42B · EV $41B · Tech</title>
       <pubDate>Mon, 15 Jun 2026 08:21:36 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NCI 📍 Stake
-Insider files 13D; reports 0% stake after restructuring
-Mcap $26M · EV $31M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1916331/000121390026068526/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-068526</guid>
-      <pubDate>Mon, 15 Jun 2026 08:14:32 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
     <item>
       <title>$HITI 🤝 Merger
@@ -880,26 +704,6 @@ Mcap $70M · Financials</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$SLBT 🤝 Merger
-Completes SPAC merger with Horizon Space; Nasdaq listing starts June 15
-$5.568 billion deal · stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2070534/000110465926073797/tm2617928d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-073797</guid>
-      <pubDate>Mon, 15 Jun 2026 07:36:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$2IRM 06/20/25 C105 FLX 🤝 Merger
-Acquires Corebridge &amp; Equitable in stock merger; Corebridge 1:1, Equitable 1:1.55516
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2129192/000119312526270338/d115497ds4a.htm</link>
-      <guid isPermaLink="false">0001193125-26-270338</guid>
-      <pubDate>Mon, 15 Jun 2026 07:29:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
       <title>$PAYO 🤝 Merger
 Acquired by Nuvei for $7.40 cash per share
 cash
@@ -909,16 +713,6 @@ Mcap $2.3B · EV $2.0B · Financials</title>
       <pubDate>Mon, 15 Jun 2026 07:15:49 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MEHA 📉 Delisting · Forced
-Forced Nasdaq delisting effective June 16
-Mcap $2M · EV $10M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1837254/000121390026068518/ea0294529-8k_functional.htm</link>
-      <guid isPermaLink="false">0001213900-26-068518</guid>
-      <pubDate>Mon, 15 Jun 2026 07:07:26 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
     <item>
       <title>$AXIA 💧 Capital Return · Recap
@@ -1026,14 +820,6 @@ Mcap $140B · EV $166B · Industrials</title>
       <category>SPIN_OFF</category>
     </item>
     <item>
-      <title>$IPVV 📍 Stake
-Sponsor group discloses 21% beneficial ownership</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2105274/000121390026068497/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-068497</guid>
-      <pubDate>Mon, 15 Jun 2026 06:03:16 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
       <title>$USAR 🤝 Merger
 Acquires SVRE for $300M cash + 126.85M shares
 SVRE Holdings · cash+stk
@@ -1043,15 +829,6 @@ Mcap $5.0B · EV $3.3B · Materials</title>
       <pubDate>Mon, 15 Jun 2026 05:49:09 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TPTA 🪙 Debt Restr.
-Extends distressed exchange: 6% notes due June 30 for 11% secured notes due 2027 + cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1674356/000110465926073714/tm2617935d1_8ka.htm</link>
-      <guid isPermaLink="false">0001104659-26-073714</guid>
-      <pubDate>Mon, 15 Jun 2026 05:35:21 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>exchange_offer</category>
     </item>
     <item>
       <title>$TDAC 🤝 Merger
@@ -1119,15 +896,6 @@ Mcap $31M · EV $33M · Tech</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$TCGL 📉 Delisting · Forced
-Faces forced NYSE American delisting; evaluating appeal</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2047190/000149315226028560/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028560</guid>
-      <pubDate>Mon, 15 Jun 2026 05:08:19 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
       <title>$KORE 📦 Going Private
 Acquired by Searchlight/ABRY for $9.25 cash; vote pending
 cash
@@ -1139,32 +907,6 @@ Mcap $162M · EV $576M · Comms</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$XBTAF 📜 Rights Issue
-Rights issue of Class A preference shares at SEK 120; subscription 16-30 June</title>
-      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=91218</link>
-      <guid isPermaLink="false">OTC-524931</guid>
-      <pubDate>Mon, 15 Jun 2026 01:35:25 -0500</pubDate>
-      <category>RIGHTS_ISSUE</category>
-    </item>
-    <item>
-      <title>$CYCL 🤝 Merger
-Acquired by CDBT via share exchange; name change to CME</title>
-      <link>https://www.nasdaq.com/press-release/cdbt-enters-agreement-to-acquire-cycclone-magnetic-engines-inc.-the-founding-company</link>
-      <guid isPermaLink="false">OTC-524927</guid>
-      <pubDate>Sat, 13 Jun 2026 17:20:21 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CYCL 🤝 Merger · Preliminary
-Signs agreement in principle to acquire AI Robotics firm</title>
-      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=91215</link>
-      <guid isPermaLink="false">OTC-524926</guid>
-      <pubDate>Sat, 13 Jun 2026 15:40:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
       <title>$RAAQ 🤝 Merger
 Acquires IQM Finland; vote pending
 IQM Finland Oy
@@ -1172,14 +914,6 @@ Mcap $251M · EV $251M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2052161/000121390026068399/ea0294675-8k425_real.htm</link>
       <guid isPermaLink="false">0001213900-26-068399</guid>
       <pubDate>Fri, 12 Jun 2026 16:43:01 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$IQMX 🤝 Merger
-Acquired by Real Asset Acquisition Corp. (RAAQ) in de-SPAC; proxy mailed, EGM vote ahead</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2113060/000121390026068403/ea0294675-8k425_real.htm</link>
-      <guid isPermaLink="false">0001213900-26-068403</guid>
-      <pubDate>Fri, 12 Jun 2026 16:42:45 -0500</pubDate>
       <category>MERGER</category>
     </item>
     <item>
@@ -1233,23 +967,6 @@ Mcap $1.0B · EV $1.1B · Tech</title>
       <category>buyback_authorization</category>
     </item>
     <item>
-      <title>$REAX 🤝 Merger
-Acquires RE/MAX for $13.80 cash or 0.515 shares; vote pending
-RE/MAX Holdings · cash+stk</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2136387/000110465926073581/tm2615804-1_s4.htm</link>
-      <guid isPermaLink="false">0001104659-26-073581</guid>
-      <pubDate>Fri, 12 Jun 2026 16:27:22 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$SECZ 🤝 Merger
-SPAC merger vote set June 29; closing expected shortly after</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1762096/000095010326008932/dp248414_425-securitize.htm</link>
-      <guid isPermaLink="false">0000950103-26-008932</guid>
-      <pubDate>Fri, 12 Jun 2026 16:27:03 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
       <title>$NHIC 🤝 Merger
 Acquires NewCleo Ltd. in $2.448B pre-money SPAC merger; NWCL listing
 stock · close H2 2026
@@ -1276,16 +993,6 @@ Mcap $162M · EV $576M · Comms</title>
       <link>https://www.sec.gov/Archives/edgar/data/1855457/000114036126025086/ny20068726x6_defm14a.htm</link>
       <guid isPermaLink="false">0001140361-26-025086</guid>
       <pubDate>Fri, 12 Jun 2026 16:25:41 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$AIPG 🤝 Merger
-Amends merger terms with AVM and Biomed; closing extended to Dec 31, 2026
-cash+stk · close 2026-12-31
-Mcap $4M · EV $4M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1289047/000147793226003844/aipg_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-003844</guid>
-      <pubDate>Fri, 12 Jun 2026 16:11:01 -0500</pubDate>
       <category>MERGER</category>
     </item>
     <item>
@@ -1416,16 +1123,6 @@ Mcap $20M · EV $2.8B · Real Estate</title>
       <category>DIVESTITURE</category>
     </item>
     <item>
-      <title>$LBUY 🤝 Merger
-Acquires RagingBull.com for 15M shares; reverse split, name change to DATZ World
-stock · close 2026-06-08
-Mcap $640K · EV $1M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1643721/000147793226003840/lbuy_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-003840</guid>
-      <pubDate>Fri, 12 Jun 2026 15:23:12 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
       <title>$PEBO 🤝 Merger
 Acquires Citizens National Corp for 2.10 shares + $8.00 cash per share; vote Aug 6
 cash+stk
@@ -1502,16 +1199,6 @@ Mcap $15M · EV $967M · Cons Disc</title>
       <pubDate>Fri, 12 Jun 2026 09:31:54 -0500</pubDate>
       <category>INSOLVENCY</category>
       <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$ASBP 🤝 Merger
-Acquires automotive systems business from FireFish for ~$30.8M adjusted cash
-FireFish TopCo · 30,800,000 (subject to adjustments) deal · cash
-Mcap $1M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847345/000149315226028386/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028386</guid>
-      <pubDate>Fri, 12 Jun 2026 09:31:38 -0500</pubDate>
-      <category>MERGER</category>
     </item>
     <item>
       <title>$GOAI 🤝 Merger
@@ -1713,14 +1400,6 @@ Mcap $3.7B · EV $3.9B · Real Estate</title>
       <category>ACTIVIST_PROXY</category>
     </item>
     <item>
-      <title>$TPTA 🪙 Debt Restr.
-Extends debt exchange to June 26; $18.75 new notes + $6.25 cash per $25 principal</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1674356/000110465926073023/tm2612950-7_s4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-073023</guid>
-      <pubDate>Thu, 11 Jun 2026 16:32:56 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
       <title>$WSFS 📤 Divestiture
 Sells credit card portfolio to Elan for $36.3M; gain ~$1.7M
 Mcap $3.9B · Financials</title>
@@ -1816,25 +1495,6 @@ Mcap $316M · Industrials</title>
       <category>ACTIVIST_PROXY</category>
     </item>
     <item>
-      <title>$NGS 🌍 Re-domicile
-Approves redomestication from Colorado to Texas
-Mcap $523M · EV $748M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1084991/000108499126000051/ngs-20260610.htm</link>
-      <guid isPermaLink="false">0001084991-26-000051</guid>
-      <pubDate>Thu, 11 Jun 2026 15:28:16 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$GOCO 📉 Delisting · Forced
-Forced Nasdaq delisting effective June 16; shares to trade OTC
-Mcap $5M · EV $582M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1808220/000162828026042509/goco-20260609.htm</link>
-      <guid isPermaLink="false">0001628280-26-042509</guid>
-      <pubDate>Thu, 11 Jun 2026 15:27:08 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
       <title>$BALY 🤝 Merger
 Subsidiary Bally's Intralot to acquire Evoke PLC for £243M; 0.537 shares or 52p cash
 £243.1 million deal · cash+stk
@@ -1906,16 +1566,6 @@ Mcap $4.2B · EV $5.5B · Industrials</title>
       <category>DIVESTITURE</category>
     </item>
     <item>
-      <title>$ADIL 🤝 Merger
-Acquires Azora Therapeutics; Azora holders get 86.9% of pro forma equity; votes pending on Nasdaq approvals
-stock
-Mcap $3M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1513525/000121390026067711/ea0294448-8k_adial.htm</link>
-      <guid isPermaLink="false">0001213900-26-067711</guid>
-      <pubDate>Thu, 11 Jun 2026 11:53:52 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
       <title>$KALV 📉 Delisting · Forced
 Forced Nasdaq delisting effective June 11
 effective 2026-06-11
@@ -1925,16 +1575,6 @@ Mcap $1.4B · EV $1.4B · Healthcare</title>
       <pubDate>Thu, 11 Jun 2026 09:27:52 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$CBDD 🔎 Strat Review · Strat Alts
-Launches strategic review for AI merger candidates; targets workflow automation
-Mcap $1M · Healthcare</title>
-      <link>https://www.wallstreet-online.de/nachricht/20992349-cbd-of-denver-announces-strategic-exploration-of-merger-candidates</link>
-      <guid isPermaLink="false">OTC-524731</guid>
-      <pubDate>Thu, 11 Jun 2026 08:10:11 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
     <item>
       <title>$PAFRY 🤝 Merger
@@ -2025,14 +1665,6 @@ Mcap $3.8B · EV $5.0B · Cons Disc</title>
       <category>MERGER</category>
     </item>
     <item>
-      <title>$TPTA 🪙 Debt Restr.
-Extends exchange offer for 6.00% notes; new 11.00% secured notes + cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1674356/000110465926072549/tm2617568d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-072549</guid>
-      <pubDate>Thu, 11 Jun 2026 05:19:40 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
       <title>$COPL 🤝 Merger
 Merges with Ignite Proteomics in $150M de-SPAC; $10/sh base
 $150,000,000 deal · stock
@@ -2041,15 +1673,6 @@ Mcap $247M · EV $247M · Financials</title>
       <guid isPermaLink="false">0001829126-26-006336</guid>
       <pubDate>Thu, 11 Jun 2026 05:18:54 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$SNN 📍 Stake
-12.07% stake disclosed by activist Cevian Capital
-Mcap $13B · EV $16B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/845982/000165495426005869/a9345h.htm</link>
-      <guid isPermaLink="false">0001654954-26-005869</guid>
-      <pubDate>Thu, 11 Jun 2026 05:18:23 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
     <item>
       <title>$EBAY 🤝 Merger
@@ -2071,16 +1694,6 @@ Mcap $271M · EV $271M · Financials</title>
       <category>MERGER</category>
     </item>
     <item>
-      <title>$VCOR 🌑 Going Dark · Voluntary
-Voluntarily terminates SEC registration; 68 holders of record
-Mcap $2M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1627041/000149315226028211/form15-12g.htm</link>
-      <guid isPermaLink="false">0001493152-26-028211</guid>
-      <pubDate>Thu, 11 Jun 2026 05:17:07 -0500</pubDate>
-      <category>GOING_DARK</category>
-      <category>voluntary</category>
-    </item>
-    <item>
       <title>$RAMP 🤝 Merger
 Acquired by Publicis; vote pending
 Publicis Groupe · close 2026 year-end
@@ -2098,15 +1711,6 @@ Mcap $566M · EV $439M · Energy</title>
       <link>https://www.sec.gov/Archives/edgar/data/1997377/000127956926000528/form6k.htm</link>
       <guid isPermaLink="false">0001279569-26-000528</guid>
       <pubDate>Thu, 11 Jun 2026 05:09:14 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$FCHL 🤝 Merger
-Acquisition vote at EGM June 29
-Mcap $50K · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2023796/000149315226028196/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028196</guid>
-      <pubDate>Thu, 11 Jun 2026 05:08:04 -0500</pubDate>
       <category>MERGER</category>
     </item>
     <item>
@@ -2139,16 +1743,6 @@ Mcap $98M · Healthcare</title>
       <category>ACTIVIST_PROXY</category>
     </item>
     <item>
-      <title>$EGMCF 📤 Divestiture
-Sells Golden Arrow to Fairchild for $350K cash + 12.5M shares + $3.5M note
-to Fairchild Gold · close 2026-06
-Mcap $3M · EV $3M · Materials</title>
-      <link>https://www.newmediawire.com/news/emergent-metals-corp-provides-an-update-on-its-sale-of-the-golden-arrow-property-nv-7086623</link>
-      <guid isPermaLink="false">OTC-524637</guid>
-      <pubDate>Wed, 10 Jun 2026 18:38:45 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
       <title>$KSMCF 💥 Busted M&amp;A
 Terminates CAD 1.4M acquisition of Samson Metals
 Mcap $8M · EV $8M · Energy</title>
@@ -2178,16 +1772,6 @@ Mcap $526M · EV $585M · Healthcare</title>
       <category>MERGER</category>
     </item>
     <item>
-      <title>$ADTX 📤 Divestiture
-Sells Ignite Proteomics to Copley SPAC for $150M in Pubco stock
-to Copley Acquisition · 150,000,000 deal
-Mcap $40K · EV $2M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726711/000121390026067421/ea0294307-8k_aditxt.htm</link>
-      <guid isPermaLink="false">0001213900-26-067421</guid>
-      <pubDate>Wed, 10 Jun 2026 16:35:55 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
       <title>$BHR 📤 Divestiture
 Sells three hotel properties for $437.5M cash; close in 20–35 days
 $437.5 million deal
@@ -2196,16 +1780,6 @@ Mcap $171M · EV $1.6B · Real Estate</title>
       <guid isPermaLink="false">0001574085-26-000098</guid>
       <pubDate>Wed, 10 Jun 2026 16:35:21 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ZSTK 🌍 Re-domicile
-Reincorporating from Ontario to Texas; vote July 20
-Mcap $12M · EV $13M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1790169/000106299326003144/forms4.htm</link>
-      <guid isPermaLink="false">0001062993-26-003144</guid>
-      <pubDate>Wed, 10 Jun 2026 16:35:01 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>redomestication</category>
     </item>
     <item>
       <title>$BHR ⚔️ Proxy
@@ -2245,14 +1819,6 @@ Mcap $19M · EV $17M · Industrials</title>
       <category>MERGER</category>
     </item>
     <item>
-      <title>$TPTA 🪙 Debt Restr.
-Exchanges $54.5M 6% notes due June 30 for 11% secured notes due 2027 + cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1674356/000110465926072406/tm2612950-5_s4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-072406</guid>
-      <pubDate>Wed, 10 Jun 2026 16:05:07 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
       <title>$GNK ⚔️ Proxy
 Diana withdraws 4 nominees, leaving 2 for June 18 vote
 Diana Shipping
@@ -2263,15 +1829,6 @@ Mcap $1.1B · EV $1.3B · Industrials</title>
       <category>ACTIVIST_PROXY</category>
     </item>
     <item>
-      <title>$FGRS 🤝 Merger
-Acquires Kiavi for $532.4M cash
-532,426,000 deal · cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2064124/000149315226028126/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028126</guid>
-      <pubDate>Wed, 10 Jun 2026 15:58:25 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
       <title>$PCSC 🤝 Merger
 Extends merger deadline to June 2027; $8.2M redeemed at $10.82/share
 Freenome Holdings
@@ -2280,15 +1837,6 @@ Mcap $123M · EV $123M · Financials</title>
       <guid isPermaLink="false">0001140361-26-024796</guid>
       <pubDate>Wed, 10 Jun 2026 15:45:10 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$VISM 💥 Busted M&amp;A
-Terminates ConnexUS AI acquisition; $190K sunk; mutual release signed
-Mcap $2M · EV $4M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1082733/000165495426005858/vism_8k.htm</link>
-      <guid isPermaLink="false">0001654954-26-005858</guid>
-      <pubDate>Wed, 10 Jun 2026 15:38:16 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
     <item>
       <title>$QSI 📉 Delisting · Forced
@@ -2370,15 +1918,6 @@ Mcap $55M · EV $57M · Financials</title>
       <category>MERGER</category>
     </item>
     <item>
-      <title>$BXBL 🤝 Merger
-Approves merger with Boxabl; close imminent; combined co to trade as BXBL
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1816937/000110465926072321/tm2617517d1_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-072321</guid>
-      <pubDate>Wed, 10 Jun 2026 15:06:03 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
       <title>$VACH 📉 Delisting · Forced
 Delisted from Nasdaq effective June 10
 effective 2026-06-10
@@ -2427,16 +1966,6 @@ Mcap $108M · EV $970M · Real Estate</title>
       <category>amend_and_extend</category>
     </item>
     <item>
-      <title>$GXXFF 🤝 Merger
-Acquires Gold Basin Resources for 0.592 CANEX shares per GXX share; 75.82% vote approval
-stock · close June 10, 2026
-Mcap $4M · EV $5M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1882636/000110465926072198/tm2617476d1_cba.htm</link>
-      <guid isPermaLink="false">0001104659-26-072198</guid>
-      <pubDate>Wed, 10 Jun 2026 10:34:58 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
       <title>$MLAC 🤝 Merger
 Postpones EGM to June 16 for extension vote; Avalanche merger pending
 Avalanche Treasury
@@ -2454,15 +1983,6 @@ Mcap $92M · EV $88M · Comms</title>
       <guid isPermaLink="false">0001493152-26-028054</guid>
       <pubDate>Wed, 10 Jun 2026 08:44:13 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$AEG 🌍 Re-domicile
-Redomiciles to Delaware; EGM vote in Q4 2026
-Mcap $13B · EV $18B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/769218/000119312526265167/d134576d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-265167</guid>
-      <pubDate>Wed, 10 Jun 2026 08:30:48 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
     <item>
       <title>$DJT 🤝 Merger
@@ -2485,16 +2005,6 @@ Mcap $2.3B · EV $2.1B · Healthcare</title>
       <category>won</category>
     </item>
     <item>
-      <title>$DAIC 📤 Divestiture
-Proposes sale of operating unit for $6M cash; $5M preferred investment
-to strategic buyer · $6M cash + $3M liabilities assumed deal
-Mcap $2M · EV $4M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026067086/ea0294267-8k_cidhold.htm</link>
-      <guid isPermaLink="false">0001213900-26-067086</guid>
-      <pubDate>Wed, 10 Jun 2026 07:12:47 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
       <title>$APM 🤝 Merger
 Acquires DiamiR in all-stock merger; shareholders approved
 DiamiR Biosciences · stock
@@ -2513,14 +2023,6 @@ Mcap $31M · EV $18M · Healthcare</title>
       <guid isPermaLink="false">0001140361-26-024731</guid>
       <pubDate>Wed, 10 Jun 2026 07:05:36 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$CPTKW 🤝 Merger
-Acquires Mkango Rare Earths via business combination; financing roadshow underway</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1827899/000121390026067061/ea0294256-8k425_crown.htm</link>
-      <guid isPermaLink="false">0001213900-26-067061</guid>
-      <pubDate>Wed, 10 Jun 2026 05:41:42 -0500</pubDate>
-      <category>MERGER</category>
     </item>
     <item>
       <title>$SVBL ⚖️ Litigation · Lost
@@ -2579,42 +2081,6 @@ Mcap $28B · EV $39B · Utilities</title>
       <pubDate>Wed, 10 Jun 2026 05:08:48 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$CRBD 🤝 Merger
-Merging with Equitable; close expected by end of 2026
-Equitable Holdings · close 2026 Q4</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1889539/000114036126024708/ef20075873_form425.htm</link>
-      <guid isPermaLink="false">0001140361-26-024708</guid>
-      <pubDate>Wed, 10 Jun 2026 05:07:37 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$NVVE 🤝 Merger
-Merger vote adjourned to June 15; quorum not reached
-Mcap $3M · EV $9M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1836875/000121390026066900/ea0294200-defa14a_nuvve.htm</link>
-      <guid isPermaLink="false">0001213900-26-066900</guid>
-      <pubDate>Tue, 09 Jun 2026 16:35:01 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$SOBR 🤝 Merger
-Acquires Clean World Ventures in all-stock merger; CWV holders to own 98.3%
-stock
-Mcap $2M · EV $300K · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1425627/000147793226003737/sobr_s4.htm</link>
-      <guid isPermaLink="false">0001477932-26-003737</guid>
-      <pubDate>Tue, 09 Jun 2026 16:28:08 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$ULIT 🤝 Merger
-Merges with SPAC Constellation; Jindalee retains 80% stake; targets Nasdaq listing H2 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026066883/ea029416702-425_constell1.htm</link>
-      <guid isPermaLink="false">0001213900-26-066883</guid>
-      <pubDate>Tue, 09 Jun 2026 16:20:51 -0500</pubDate>
-      <category>MERGER</category>
     </item>
     <item>
       <title>$SEER ⚔️ Proxy
@@ -2764,15 +2230,6 @@ Mcap $1.1B · EV $1.3B · Industrials</title>
       <category>TENDER_OFFER</category>
     </item>
     <item>
-      <title>$GETR 🧊 Liquidation
-Board approves dissolution under DGCL Section 275; special meeting to be called
-Mcap $10K · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1839608/000119312526263774/d62341ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-263774</guid>
-      <pubDate>Tue, 09 Jun 2026 15:23:44 -0500</pubDate>
-      <category>LIQUIDATION</category>
-    </item>
-    <item>
       <title>$CYCN 🤝 Merger
 Acquires Korsana Biosciences in stock merger; $380M PIPE; exchange ratio ~1.1x
 stock
@@ -2846,15 +2303,6 @@ Mcap $303M · EV $302M · Financials</title>
       <guid isPermaLink="false">0001213900-26-066769</guid>
       <pubDate>Tue, 09 Jun 2026 15:00:11 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$HGIT 📤 Divestiture
-Sells Montrose Collective to HREX 8 DST for $145M
-$145 million deal</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1585101/000162828026041840/hgit-20260609.htm</link>
-      <guid isPermaLink="false">0001628280-26-041840</guid>
-      <pubDate>Tue, 09 Jun 2026 14:09:32 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
     <item>
       <title>$MFIN ⚔️ Proxy
@@ -3013,14 +2461,6 @@ Mcap $251M · EV $251M · Financials</title>
       <category>MERGER</category>
     </item>
     <item>
-      <title>$IQMX 🤝 Merger
-Acquired by Real Asset Acquisition Corp. in SPAC merger; proxy mailed</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2113060/000121390026066454/ea0294052-425_realasset.htm</link>
-      <guid isPermaLink="false">0001213900-26-066454</guid>
-      <pubDate>Tue, 09 Jun 2026 05:06:20 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
       <title>$CEPO 🤝 Merger
 Acquires BSTR Holdings in business combination; vote pending
 Mcap $271M · EV $272M · Financials</title>
@@ -3056,14 +2496,6 @@ Mcap $150M · EV $101M · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-066368</guid>
       <pubDate>Mon, 08 Jun 2026 16:20:32 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$BSTR 🤝 Merger
-Acquired by Cantor Equity Partners (CEPO) SPAC; S-4 effective June 5, record date set</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2083583/000121390026066359/ea0293974-8k425_bstr.htm</link>
-      <guid isPermaLink="false">0001213900-26-066359</guid>
-      <pubDate>Mon, 08 Jun 2026 16:13:56 -0500</pubDate>
-      <category>MERGER</category>
     </item>
     <item>
       <title>$KPLT ⚖️ Litigation · Settled
@@ -3234,15 +2666,6 @@ Mcap $3.7B · EV $3.9B · Real Estate</title>
       <category>ACTIVIST_PROXY</category>
     </item>
     <item>
-      <title>$BTAX 🌑 Going Dark
-Voluntarily goes dark; ceases SEC reporting; 296 holders of record
-Mcap $10K · EV $1M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1559356/000137647426000425/bstx_1512g.htm</link>
-      <guid isPermaLink="false">0001376474-26-000425</guid>
-      <pubDate>Mon, 08 Jun 2026 14:44:10 -0500</pubDate>
-      <category>GOING_DARK</category>
-    </item>
-    <item>
       <title>$GNK ⚔️ Proxy
 Narrows proxy slate to 2 nominees; $24.80/share offer tied to June 18 vote
 Mcap $1.1B · EV $1.3B · Industrials</title>
@@ -3263,39 +2686,6 @@ Mcap $40M · EV $856M · Real Estate</title>
       <category>DIVESTITURE</category>
     </item>
     <item>
-      <title>$IOBTQ 📉 Delisting · Forced
-Forced Nasdaq delisting effective June 18
-effective 2026-06-18
-Mcap $590K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1865494/000135445726000541/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000541</guid>
-      <pubDate>Mon, 08 Jun 2026 13:07:09 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$QVCAQ 📉 Delisting · Forced
-Forced Nasdaq delisting effective June 18
-effective 2026-06-18
-Mcap $3M · EV $6.2B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1355096/000135445726000540/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000540</guid>
-      <pubDate>Mon, 08 Jun 2026 12:36:07 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$STAI 📉 Delisting · Forced
-Forced Nasdaq delisting effective June 18
-effective 2026-06-18
-Mcap $840K · EV $26M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1994624/000135445726000539/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000539</guid>
-      <pubDate>Mon, 08 Jun 2026 12:16:53 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
       <title>$ABAT ⚖️ Litigation · Won
 Wins DOE appeal; $115M lithium refinery grant reinstated
 Mcap $424M · EV $387M · Materials</title>
@@ -3304,85 +2694,6 @@ Mcap $424M · EV $387M · Materials</title>
       <pubDate>Mon, 08 Jun 2026 10:48:40 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$DEVS 🤝 Merger
-Noteholder consents to pending business combination; default dispute settled
-XCF Global</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1854480/000114036126024382/ef20075717_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-024382</guid>
-      <pubDate>Mon, 08 Jun 2026 09:03:05 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$FICO 💧 Capital Return · ASR
-Launches $1.5B accelerated share repurchase; $2B program authorized</title>
-      <link>https://www.sec.gov/Archives/edgar/data/814547/000119312526260817/d140061d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-260817</guid>
-      <pubDate>Mon, 08 Jun 2026 08:31:36 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>accelerated_share_repurchase</category>
-    </item>
-    <item>
-      <title>$HONA 🪓 Spinoff
-Spun off from Honeywell; 1:2 ratio; HONA listing June 29</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2089271/000162828026041399/honeywellaerospace-10x12ba2.htm</link>
-      <guid isPermaLink="false">0001628280-26-041399</guid>
-      <pubDate>Mon, 08 Jun 2026 08:18:43 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$GBTG 🤝 Merger
-Discloses Q1 3% growth, Q2 6% growth to lenders for pending acquisition
-Long Lake Management</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1820872/000114036126024371/ny20072693x3_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-024371</guid>
-      <pubDate>Mon, 08 Jun 2026 08:05:17 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$FRSX 🤝 Merger
-VisionWave to acquire 52% control for $17.5M in stock
-VisionWave Holdings · $17,500,000 deal · stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1691221/000149315226027650/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-027650</guid>
-      <pubDate>Mon, 08 Jun 2026 08:04:14 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$ARLP 🤝 Merger
-Acquires AllDale III &amp; IV mineral interests for $206.2M; close July 2026
-$206.2 million deal · cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1086600/000110465926071203/arlp-20260605x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-071203</guid>
-      <pubDate>Mon, 08 Jun 2026 07:57:15 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$CRMD ⚖️ Litigation · Won
-Wins patent appeal; Federal Circuit affirms injunction vs Nexus generic minocycline
-vs Nexus Pharmaceuticals</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1410098/000121390026066061/ea0293895-8k_cormedix.htm</link>
-      <guid isPermaLink="false">0001213900-26-066061</guid>
-      <pubDate>Mon, 08 Jun 2026 07:56:53 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$FRFFF 📍 Stake
-Increases Orla Mining stake to 15.7% via $150M note conversion</title>
-      <link>https://www.sec.gov/Archives/edgar/data/915191/000110465926071204/tm2617110d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-071204</guid>
-      <pubDate>Mon, 08 Jun 2026 07:56:20 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$FMX 📤 Divestiture
-Sells minority stake in lending unit to QED Investors</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1061736/000162828026041394/a6kcover-june2026.htm</link>
-      <guid isPermaLink="false">0001628280-26-041394</guid>
-      <pubDate>Mon, 08 Jun 2026 07:56:02 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
     <item>
       <title>$LAB 🤝 Merger
@@ -3395,23 +2706,6 @@ Mcap $496M · EV $70M · Healthcare</title>
       <category>MERGER</category>
     </item>
     <item>
-      <title>$VVOS 🪙 Debt Restr.
-Exchanges $3.25M Streeterville debt for Series A preferred; gets $5M V-Co convertible</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1716166/000149315226027641/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-027641</guid>
-      <pubDate>Mon, 08 Jun 2026 07:43:09 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$GLMD 🤝 Merger
-Acquires Colospan for $2.5M cash + $2M stock; close Q2 2026
-$4.5M (2.5M cash + 2M stock) deal · cash+stk</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1595353/000149315226027640/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-027640</guid>
-      <pubDate>Mon, 08 Jun 2026 07:30:04 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
       <title>$VXRT ⚔️ Proxy
 Faces proxy contest from dissident shareholders; AGM July 16
 Mcap $145M · Healthcare</title>
@@ -3419,87 +2713,6 @@ Mcap $145M · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-066045</guid>
       <pubDate>Mon, 08 Jun 2026 07:17:20 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$OCFC 📤 Divestiture
-Sells $1.4B multifamily loan portfolio; proceeds to buy liquid securities
-$1.4 billion deal · close Q2 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1004702/000100470226000101/ocfc-20260608.htm</link>
-      <guid isPermaLink="false">0001004702-26-000101</guid>
-      <pubDate>Mon, 08 Jun 2026 07:03:45 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$VFS 📤 Divestiture
-Sells VFTP subsidiary to consortium led by Future Investment for ~$530M cash
-US$530 million deal</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1913510/000118518526002373/vfs6k060526.htm</link>
-      <guid isPermaLink="false">0001185185-26-002373</guid>
-      <pubDate>Mon, 08 Jun 2026 06:38:22 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$TWO 🤝 Merger
-Postpones special meeting to June 23; recommends CCM's $12 all-cash over UWMC's $6 stock floor
-cash · close August 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1465740/000110465926071182/tm2617104d3_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-071182</guid>
-      <pubDate>Mon, 08 Jun 2026 06:37:46 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$TWO 🤝 Merger
-Acquired by CCM for $12.00 cash per share; vote June 23
-cash · close August 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1465740/000110465926071174/tm2617104d2_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-071174</guid>
-      <pubDate>Mon, 08 Jun 2026 06:30:37 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$TWO 🤝 Merger
-Special meeting postponed to June 23; CrossCountry deal vote pending</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1465740/000110465926071172/tm2617104d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-071172</guid>
-      <pubDate>Mon, 08 Jun 2026 06:24:08 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$IPFX 🤝 Merger
-Acquires Quantum Space in SPAC merger; Up-C structure
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2102041/000121390026066027/ea0293891-8k425_inflect6.htm</link>
-      <guid isPermaLink="false">0001213900-26-066027</guid>
-      <pubDate>Mon, 08 Jun 2026 06:23:51 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$INCY 🤝 Merger
-Acquires Vega Therapeutics for $1.25B cash + $750M milestones
-up to $2.0B including milestones deal · cash · close Q3 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/879169/000087916926000040/incy-20260608.htm</link>
-      <guid isPermaLink="false">0000879169-26-000040</guid>
-      <pubDate>Mon, 08 Jun 2026 06:07:44 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$RDHL ⚖️ Litigation
-Wins $10.9M NY Supreme Court judgment v Kukbo; Korean enforcement underway
-vs Kukbo Co.</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1553846/000117891326003126/zk2635511.htm</link>
-      <guid isPermaLink="false">0001178913-26-003126</guid>
-      <pubDate>Mon, 08 Jun 2026 06:07:18 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>direction: won</category>
-    </item>
-    <item>
-      <title>$SUNE 🤝 Merger
-Acquires Suniva via stock; Suniva holders to own ~98.2% of pro forma
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/22701/000121390026066011/ea0293876-8k425_sunation.htm</link>
-      <guid isPermaLink="false">0001213900-26-066011</guid>
-      <pubDate>Mon, 08 Jun 2026 05:54:38 -0500</pubDate>
-      <category>MERGER</category>
     </item>
     <item>
       <title>$GNK 🎯 Tender
@@ -3510,59 +2723,6 @@ Mcap $1.0B · EV $1.3B · Industrials</title>
       <guid isPermaLink="false">0001140361-26-024352</guid>
       <pubDate>Mon, 08 Jun 2026 05:53:50 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$GOCO 🔥 Insolvency · Ch. 11
-Files prepackaged Ch11; 100% lender, &gt;60% equity support</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1808220/000162828026041369/goco-20260605.htm</link>
-      <guid isPermaLink="false">0001628280-26-041369</guid>
-      <pubDate>Mon, 08 Jun 2026 05:16:02 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$SLVSQ 🔥 Insolvency · Ch. 11
-Files Chapter 11 bankruptcy; $100M assets, $75M debt</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1446687/000143774926019764/sspr20260605c_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-019764</guid>
-      <pubDate>Mon, 08 Jun 2026 05:09:13 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$CKX 🔎 Strat Review · Sale
-Explores sale of company/assets; sets June 30 deadline for offers</title>
-      <link>https://www.sec.gov/Archives/edgar/data/352955/000143774926019771/ckx20260604_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-019771</guid>
-      <pubDate>Mon, 08 Jun 2026 05:09:01 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>sale_process</category>
-    </item>
-    <item>
-      <title>$PBMLF 💥 Busted M&amp;A
-American Eagle terminates take-over bid; deposited shares returned</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1319150/000110465926071079/tm2611774d11_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-071079</guid>
-      <pubDate>Mon, 08 Jun 2026 05:06:51 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$EBAY 🤝 Merger
-Unsolicited bid from GameStop; Cohen vows to take offer to shareholders
-cash+stk</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1065088/000119312526260341/d28687d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-260341</guid>
-      <pubDate>Mon, 08 Jun 2026 05:06:36 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$ESPR 🤝 Merger
-Acquired by ArchiMed for $3.16/share + CVR; vote July 8
-cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1434868/000110465926071107/tm2615754-2_defm14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-071107</guid>
-      <pubDate>Mon, 08 Jun 2026 05:06:11 -0500</pubDate>
-      <category>MERGER</category>
     </item>
     <item>
       <title>$CRMT 🪙 Debt Restr.
@@ -3581,14 +2741,6 @@ Mcap $386M · EV $386M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2034269/000095010326008613/dp248087_425-cantor.htm</link>
       <guid isPermaLink="false">0000950103-26-008613</guid>
       <pubDate>Fri, 05 Jun 2026 16:33:55 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$SECZ 🤝 Merger
-Merging with Cantor Equity Partners SPAC; S-4 effective; vote June 29</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1762096/000095010326008615/dp248085_425-securitize.htm</link>
-      <guid isPermaLink="false">0000950103-26-008615</guid>
-      <pubDate>Fri, 05 Jun 2026 16:33:31 -0500</pubDate>
       <category>MERGER</category>
     </item>
     <item>
@@ -3855,14 +3007,6 @@ Mcap $6.7B · EV $8.5B · Cons Disc</title>
       <category>MERGER</category>
     </item>
     <item>
-      <title>$JSMD 📦 Going Private
-Seeks shareholder approval for new advisory agreement; parent going private; vote June 11</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1500604/000119312526259194/d54884ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-259194</guid>
-      <pubDate>Fri, 05 Jun 2026 13:18:14 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-    </item>
-    <item>
       <title>$SA 🪓 Spinoff
 Spins off Valor Gold Corp at 1 share per ~1.957 SA shares
 Mcap $3.7B · EV $4.0B · Materials</title>
@@ -3870,16 +3014,6 @@ Mcap $3.7B · EV $4.0B · Materials</title>
       <guid isPermaLink="false">0000876661-26-000507</guid>
       <pubDate>Fri, 05 Jun 2026 11:55:25 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$TLSS 🤝 Merger
-Acquires Patriot Glass Solutions for $4.75M in Series J preferred; close July 1
-$4,750,000 deal · stock · close 2026-07-01
-Mcap $1M · EV $13M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1463208/000149315226027426/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-027426</guid>
-      <pubDate>Fri, 05 Jun 2026 08:15:45 -0500</pubDate>
-      <category>MERGER</category>
     </item>
     <item>
       <title>$WKEY ✂️ Carve-out
@@ -3987,15 +3121,6 @@ Mcap $311M · EV $296M · Materials</title>
       <category>MERGER</category>
     </item>
     <item>
-      <title>$NVA 🌍 Re-domicile
-Redomiciles from Australia to US; trading to resume June 16 on NYSE American
-Mcap $250M · EV $217M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1852551/000149315226027407/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-027407</guid>
-      <pubDate>Fri, 05 Jun 2026 05:49:08 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
       <title>$PHI 🤝 Merger
 Acquires 65.1% of Radius Telecoms from Paragon; regulatory pending
 Paragon Vertical
@@ -4073,15 +3198,6 @@ Mcap $1.1B · EV $987M · Materials</title>
       <category>SPIN_OFF</category>
     </item>
     <item>
-      <title>$MWWC 🤝 Merger
-Acquires Media Fusion platform; repositioning as global media/AI firm
-Mcap $2M · Cons Disc</title>
-      <link>https://www.accessnewswire.com/newsroom/en/automotive/marketing-worldwide-corp.-otc-mwwc-and-media-fusion-inc.-execute-definitive-agreement-to-1173575</link>
-      <guid isPermaLink="false">OTC-524064</guid>
-      <pubDate>Thu, 04 Jun 2026 16:44:34 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
       <title>$DEVS 🤝 Merger
 Secures $6M EEME financing for pending merger with XCF Global and Southern
 Mcap $9M · EV $21M · Industrials</title>
@@ -4089,15 +3205,6 @@ Mcap $9M · EV $21M · Industrials</title>
       <guid isPermaLink="false">0001140361-26-024015</guid>
       <pubDate>Thu, 04 Jun 2026 16:37:41 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$CYCU 🪙 Debt Restr.
-Restructures ~$4.83M debt with three noteholders via convertible notes and Series H preferred
-Mcap $5M · EV $7M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1868419/000186841926000041/cycu-20260529.htm</link>
-      <guid isPermaLink="false">0001868419-26-000041</guid>
-      <pubDate>Thu, 04 Jun 2026 16:30:34 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
     <item>
       <title>$HLX 🤝 Merger
@@ -4217,15 +3324,6 @@ Mcap $12B · EV $15B · Industrials</title>
       <category>MERGER</category>
     </item>
     <item>
-      <title>$ULIT 🤝 Merger
-Merges with Constellation SPAC; S-4 filed; NASDAQ listing ULIT
-stock · close 2H 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026065313/ea029360101-425_constell1.htm</link>
-      <guid isPermaLink="false">0001213900-26-065313</guid>
-      <pubDate>Thu, 04 Jun 2026 15:33:24 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
       <title>$MFIN ⚔️ Proxy
 Faces ZimCal proxy contest; 3 nominees; AGM Jun 9
 ZimCal (Stephen Hodges)
@@ -4292,14 +3390,6 @@ Mcap $9M · EV $33M · Healthcare</title>
       <category>DEBT_RESTRUCTURING</category>
     </item>
     <item>
-      <title>$ADIG 🪓 Spinoff
-Pro-rata spin-off from Resideo; to trade on NYSE as ADIG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2105139/000121390026065286/ea0292920-1012ba1_adiglobal.htm</link>
-      <guid isPermaLink="false">0001213900-26-065286</guid>
-      <pubDate>Thu, 04 Jun 2026 15:14:47 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
       <title>$FULC 🔎 Strat Review · Strat Alts
 Halts SCD drug; cuts 85% staff; launches strategic review with Leerink
 Mcap $347M · EV $525M · Healthcare</title>
@@ -4308,16 +3398,6 @@ Mcap $347M · EV $525M · Healthcare</title>
       <pubDate>Thu, 04 Jun 2026 15:08:05 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$FABTQ 🔥 Insolvency · Ch. 11
-Files Ch 11 plan of liquidation; WBS Ad Hoc Group to acquire substantially all assets via credit bid
-advisor: WBS Ad Hoc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1705012/000149315226027218/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-027218</guid>
-      <pubDate>Thu, 04 Jun 2026 11:19:40 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
     </item>
     <item>
       <title>$TLK 💧 Capital Return · Buyback
@@ -4338,35 +3418,6 @@ Mcap $4.0B · EV $3.8B · Financial Serv</title>
       <guid isPermaLink="false">0000857855-26-000044</guid>
       <pubDate>Thu, 04 Jun 2026 09:55:48 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$IVPR 📉 Delisting · Forced
-Forced Nasdaq delisting effective June 15
-Mcap $178K · EV $42M · Consumer Cycli</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1939365/000135445726000531/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000531</guid>
-      <pubDate>Thu, 04 Jun 2026 09:42:35 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$TWNPQ 📉 Delisting · Forced
-Forced Nasdaq delisting effective June 15, 2026
-effective 2026-06-15</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2011954/000135445726000530/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000530</guid>
-      <pubDate>Thu, 04 Jun 2026 08:57:51 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$WFRD 🌍 Re-domicile
-Redomesticating to US; vote June 11; ISS/Glass Lewis oppose
-Mcap $7.4B · EV $6.4B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1603923/000160392326000065/draftadditionalsolicitingm.htm</link>
-      <guid isPermaLink="false">0001603923-26-000065</guid>
-      <pubDate>Thu, 04 Jun 2026 08:31:57 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
     <item>
       <title>$SA 🪓 Spinoff
@@ -4417,15 +3468,6 @@ Mcap $13M · Technology</title>
       <category>DIVESTITURE</category>
     </item>
     <item>
-      <title>$TDRK 🤝 Merger
-Acquires Arcata Global LLC; expands into U.S. gold mining
-Mcap $573K · EV $4M · Real Estate</title>
-      <link>https://www.newswire.com/news/tiderock-companies-otc-tdrk-expands-into-u-s-gold-mining-through-acquisition-of</link>
-      <guid isPermaLink="false">OTC-523981</guid>
-      <pubDate>Thu, 04 Jun 2026 07:43:06 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
       <title>$CSTUF 🤝 Merger
 S-4 filed for $576M SPAC merger with HiTech Minerals; close H2 2026
 $576 million deal · stock
@@ -4434,14 +3476,6 @@ Mcap $57M · EV $3M · Financial Serv</title>
       <guid isPermaLink="false">OTC-523994</guid>
       <pubDate>Thu, 04 Jun 2026 07:42:42 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$XPRO 🌍 Re-domicile
-Redomiciles from Netherlands to Cayman; ISS now recommends FOR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2126198/000110465926070346/tm2616568d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-070346</guid>
-      <pubDate>Thu, 04 Jun 2026 07:22:15 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
     <item>
       <title>$VWAV 🤝 Merger
@@ -4630,15 +3664,6 @@ Mcap $3.9B · EV $3.5B · Utilities</title>
       <category>ACTIVIST_PROXY</category>
     </item>
     <item>
-      <title>$DEVS 🪙 Debt Restr.
-Defaults on $10M note; Helena liquidates $2.8M collateral
-Mcap $690K · EV $18M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1854480/000114036126023907/ef20075535_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-023907</guid>
-      <pubDate>Wed, 03 Jun 2026 16:28:18 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
       <title>$SEER ⚔️ Proxy
 Faces proxy contest from Radoff/Torok; vote July 28
 Mcap $96M · EV $81M · Healthcare</title>
@@ -4685,25 +3710,6 @@ Mcap $488M · EV $281M · Basic Material</title>
       <pubDate>Wed, 03 Jun 2026 15:39:08 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$CXAI 🤝 Merger
-Acquires EngineRoom for $4.6M cash+earnout; adds ~$8.1M revenue
-cash · close 2026-06-03
-Mcap $4M · EV $10M · Technology</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1820875/000182912626006013/cxappinc_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-006013</guid>
-      <pubDate>Wed, 03 Jun 2026 15:37:55 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$HCAC 🤝 Merger
-Acquires REEcycle in SPAC merger; vote pending
-REEcycle Holdings</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2079013/000182912626006012/hallchadwickacq_425.htm</link>
-      <guid isPermaLink="false">0001829126-26-006012</guid>
-      <pubDate>Wed, 03 Jun 2026 15:30:45 -0500</pubDate>
-      <category>MERGER</category>
     </item>
     <item>
       <title>$CCRN 🤝 Merger
