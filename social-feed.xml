@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 20:12:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:19:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FUBO 🤝 Merger
+Filed DEFA14A for pending merger
+Mcap $292M · EV $2.3B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1484769/000162828026043538/fubotvinc-defa14a2026.htm</link>
+      <guid isPermaLink="false">0001628280-26-043538</guid>
+      <pubDate>Tue, 16 Jun 2026 15:19:05 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ESPR 🤝 Merger
 HSR clearance received for ArchiMed merger; vote July 8
@@ -3698,15 +3708,6 @@ Mcap $38M · EV $18M · Basic Material</title>
       <guid isPermaLink="false">OTC-523891</guid>
       <pubDate>Wed, 03 Jun 2026 18:19:15 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$TPTA 🪙 Debt Restr.
-Exchange offer extended to June 10; $20 new 8% secured notes + $5 cash per $25 principal
-Mcap $535M · EV $543M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1674356/000110465926070199/tm2612950-3_s4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-070199</guid>
-      <pubDate>Wed, 03 Jun 2026 16:35:52 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
