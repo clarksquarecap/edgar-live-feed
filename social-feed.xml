@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 17:43:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:43:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MXROF 📤 Divestiture
+Sells Florália iron property to Bolt Metals for 26.8M shares
+Mcap $10M · EV $10M · Materials</title>
+      <link>https://www.maxresource.com/zlib/20260513-max-enters-debt-and-option-agreements-with-bolt-metals-for-its-florlia-high-purity-iron-property-in-brazil</link>
+      <guid isPermaLink="false">OTC-525263</guid>
+      <pubDate>Tue, 16 Jun 2026 12:43:53 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$GNK ⚔️ Proxy
 Faces proxy contest from Diana Shipping; AGM June 18
@@ -3710,16 +3719,6 @@ Mcap $424M · EV $156M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1141103/000114036126023880/ny20073866x1_prem14a.htm</link>
       <guid isPermaLink="false">0001140361-26-023880</guid>
       <pubDate>Wed, 03 Jun 2026 15:30:28 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$ESE 🤝 Merger
-Acquires Megger Group for $2.35B cash+stock; secures $1.5B financing
-Megger Group Limited · $2.35 billion deal · cash+stk
-Mcap $7.7B · EV $5.6B · Technology</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866706/000110465926070116/tm2616691d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-070116</guid>
-      <pubDate>Wed, 03 Jun 2026 15:23:56 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
