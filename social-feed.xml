@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 20:43:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:50:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AIRT 🤝 Merger
+Acquires Arena Aviation Partners for $21.75M cash + contingent up to $23M
+21,750,000 deal · cash · close 2026-06-10
+Mcap $59M · EV $240M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/353184/000035318426000045/airt-20260616.htm</link>
+      <guid isPermaLink="false">0000353184-26-000045</guid>
+      <pubDate>Tue, 16 Jun 2026 15:50:35 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AHT 📤 Divestiture
 Sells Hilton Garden Inn Jacksonville to Maco Properties for $11.3M cash
@@ -3688,17 +3699,6 @@ Mcap $4.3B · EV $9.3B · Utilities</title>
       <guid isPermaLink="false">0001193125-26-256078</guid>
       <pubDate>Thu, 04 Jun 2026 05:18:51 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$BAK 🎯 Tender
-Mandatory tender offer from FIP for all shares; EGM June 8
-Shine I FIP
-Mcap $1.9B · EV $67B · Basic Material</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426003323/bak20260603_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-003323</guid>
-      <pubDate>Thu, 04 Jun 2026 05:18:01 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>mandatory</category>
     </item>
   </channel>
 </rss>
