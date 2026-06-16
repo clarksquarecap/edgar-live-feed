@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 21:24:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 21:32:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NHP 🎯 Tender · Unsolicited
+Unsolicited mini-tender from MacKenzie at $7.27/share; NHP neutral
+$1.09M deal · cash
+Mcap $911M · EV $1.9B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1561032/000156103226000043/hct-20260615.htm</link>
+      <guid isPermaLink="false">0001561032-26-000043</guid>
+      <pubDate>Tue, 16 Jun 2026 16:32:47 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$YUM 📤 Divestiture
 Sells global Pizza Hut ops for $1.488B + $75M earnout; China ops to Yum China for $1.2B
@@ -3689,16 +3700,6 @@ Mcap $14B · EV $27B · Consumer Defen</title>
       <guid isPermaLink="false">0001206264-26-000082</guid>
       <pubDate>Thu, 04 Jun 2026 05:31:03 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$KW 📦 Going Private
-Acquired by Kona Bidco for $10.90 cash; vote June 10
-cash
-Mcap $1.5B · EV $5.7B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1408100/000114036126023922/ny20075446x1_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-023922</guid>
-      <pubDate>Thu, 04 Jun 2026 05:29:48 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
   </channel>
 </rss>
