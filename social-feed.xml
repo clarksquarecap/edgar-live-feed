@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 20:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:11:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ESPR 🤝 Merger
+HSR clearance received for ArchiMed merger; vote July 8
+ArchiMed SAS
+Mcap $811M · EV $1.2B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1434868/000110465926074558/tm2617356d2_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-074558</guid>
+      <pubDate>Tue, 16 Jun 2026 15:11:59 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NOTE 🪙 Debt Restr.
 Waives $2M quarterly amortization; engages advisor for strategic review
@@ -3696,16 +3707,6 @@ Mcap $535M · EV $543M · Real Estate</title>
       <guid isPermaLink="false">0001104659-26-070199</guid>
       <pubDate>Wed, 03 Jun 2026 16:35:52 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$BANR 🤝 Merger
-Acquires Pacific Financial for 0.2633 BANR shares (~$17.44/PFLC share at announce)
-$177 million deal · stock
-Mcap $2.1B · EV $2.3B · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/946673/000114036126023911/ny20074422x1_s4.htm</link>
-      <guid isPermaLink="false">0001140361-26-023911</guid>
-      <pubDate>Wed, 03 Jun 2026 16:35:26 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
