@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 19:55:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 20:02:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LIXT 🤝 Merger
+Acquires NOMAD Transportable Power Systems for convertible preferred + common stock
+stock · close by October 2026
+Mcap $78M · EV $77M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1335105/000149315226028878/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-028878</guid>
+      <pubDate>Tue, 16 Jun 2026 15:02:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GCO ⚔️ Proxy
 Faces proxy contest from Radoff-Jumana Group; AGM July 21
@@ -3702,15 +3713,6 @@ Mcap $96M · EV $81M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1726445/000119312526255789/d21392ddefa14a.htm</link>
       <guid isPermaLink="false">0001193125-26-255789</guid>
       <pubDate>Wed, 03 Jun 2026 16:27:07 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$SEER ⚔️ Proxy
-Faces Radoff-JEC three-director proxy contest; AGM July 28
-Mcap $96M · EV $81M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726445/000119312526255770/d28912ddefc14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-255770</guid>
-      <pubDate>Wed, 03 Jun 2026 16:19:13 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
