@@ -6,16 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 16 Jun 2026 17:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:42:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
-      <title>$NVA 🌍 Re-domicile
-Redomiciled to Nevada via scheme; US Holdco to list on NYSE American
-Mcap $250M · EV $217M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1852551/000149315226028845/form15-12g.htm</link>
-      <guid isPermaLink="false">0001493152-26-028845</guid>
-      <pubDate>Tue, 16 Jun 2026 12:23:47 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
+      <title>$GNK 🎯 Tender · Hostile
+Faces $24.80/share hostile tender from Diana; AGM June 18
+Diana Shipping · cash · close 2026-06-26
+Mcap $1.0B · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926074497/tm2612953d43_sctota.htm</link>
+      <guid isPermaLink="false">0001104659-26-074497</guid>
+      <pubDate>Tue, 16 Jun 2026 12:42:56 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>hostile</category>
     </item>
     <item>
       <title>$TOON ⚖️ Litigation · Settled
@@ -1474,15 +1476,6 @@ Mcap $316M · Industrials</title>
       <category>ACTIVIST_PROXY</category>
     </item>
     <item>
-      <title>$NGS 🌍 Re-domicile
-Approves redomestication from Colorado to Texas
-Mcap $523M · EV $748M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1084991/000108499126000051/ngs-20260610.htm</link>
-      <guid isPermaLink="false">0001084991-26-000051</guid>
-      <pubDate>Thu, 11 Jun 2026 15:28:16 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
       <title>$BALY 🤝 Merger
 Subsidiary Bally's Intralot to acquire Evoke PLC for £243M; 0.537 shares or 52p cash
 £243.1 million deal · cash+stk
@@ -1770,16 +1763,6 @@ Mcap $171M · EV $1.6B · Real Estate</title>
       <category>DIVESTITURE</category>
     </item>
     <item>
-      <title>$ZSTK 🌍 Re-domicile
-Reincorporating from Ontario to Texas; vote July 20
-Mcap $12M · EV $13M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1790169/000106299326003144/forms4.htm</link>
-      <guid isPermaLink="false">0001062993-26-003144</guid>
-      <pubDate>Wed, 10 Jun 2026 16:35:01 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>redomestication</category>
-    </item>
-    <item>
       <title>$BHR ⚔️ Proxy
 Solicits proxies for AGM; contests board seats
 Mcap $171M · EV $1.6B · Real Estate</title>
@@ -1981,15 +1964,6 @@ Mcap $92M · EV $88M · Comms</title>
       <guid isPermaLink="false">0001493152-26-028054</guid>
       <pubDate>Wed, 10 Jun 2026 08:44:13 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$AEG 🌍 Re-domicile
-Redomiciles to Delaware; EGM vote in Q4 2026
-Mcap $13B · EV $18B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/769218/000119312526265167/d134576d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-265167</guid>
-      <pubDate>Wed, 10 Jun 2026 08:30:48 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
     <item>
       <title>$DJT 🤝 Merger
@@ -3128,15 +3102,6 @@ Mcap $311M · EV $296M · Materials</title>
       <category>MERGER</category>
     </item>
     <item>
-      <title>$NVA 🌍 Re-domicile
-Redomiciles from Australia to US; trading to resume June 16 on NYSE American
-Mcap $250M · EV $217M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1852551/000149315226027407/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-027407</guid>
-      <pubDate>Fri, 05 Jun 2026 05:49:08 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
       <title>$PHI 🤝 Merger
 Acquires 65.1% of Radius Telecoms from Paragon; regulatory pending
 Paragon Vertical
@@ -3434,15 +3399,6 @@ Mcap $4.0B · EV $3.8B · Financial Serv</title>
       <guid isPermaLink="false">0000857855-26-000044</guid>
       <pubDate>Thu, 04 Jun 2026 09:55:48 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$WFRD 🌍 Re-domicile
-Redomesticating to US; vote June 11; ISS/Glass Lewis oppose
-Mcap $7.4B · EV $6.4B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1603923/000160392326000065/draftadditionalsolicitingm.htm</link>
-      <guid isPermaLink="false">0001603923-26-000065</guid>
-      <pubDate>Thu, 04 Jun 2026 08:31:57 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
     <item>
       <title>$SA 🪓 Spinoff
@@ -3765,15 +3721,6 @@ Mcap $6.5B · EV $9.7B · Basic Material</title>
       <guid isPermaLink="false">0000950103-26-008466</guid>
       <pubDate>Wed, 03 Jun 2026 15:22:51 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$GCO ⚔️ Proxy
-Faces Bradley L. Radoff proxy contest with 4-director slate
-Mcap $432M · EV $716M · Consumer Cycli</title>
-      <link>https://www.sec.gov/Archives/edgar/data/18498/000119312526255464/gco-20260603.htm</link>
-      <guid isPermaLink="false">0001193125-26-255464</guid>
-      <pubDate>Wed, 03 Jun 2026 15:22:33 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
