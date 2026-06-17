@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 20:22:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:23:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LPA 📤 Divestiture
+Sells Parque Logistico Lima Sur to FIBRA Prime for $145M; net $85M proceeds
+Mcap $106M · EV $468M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1997711/000199771126000127/latampropertiesoftheameric.htm</link>
+      <guid isPermaLink="false">0001997711-26-000127</guid>
+      <pubDate>Wed, 17 Jun 2026 15:23:33 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$ISLUF 🤝 Merger
 Extends Gadfin merger termination date to June 20
@@ -3748,16 +3757,6 @@ Mcap $6.3B · EV $8.7B · Cons Disc</title>
       <guid isPermaLink="false">0001193125-26-257736</guid>
       <pubDate>Thu, 04 Jun 2026 16:13:27 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$CEIN 📤 Divestiture
-Viking subsidiary exchanges Simson common for T&amp;T preferred shares; C$5.75M redemption
-to T&amp;T Power Group · C$5.75M (US$4.15M) deal · close 2026-06-01
-Mcap $8M · EV $60M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1309082/000147793226003650/cei_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-003650</guid>
-      <pubDate>Thu, 04 Jun 2026 16:05:50 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
