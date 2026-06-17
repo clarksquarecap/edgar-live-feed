@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 20:44:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:50:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ASND 📤 Divestiture
+Sells PRV for $187.5M cash to undisclosed buyer
+close 2026-06-17
+Mcap $14B · EV $15B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612042/000119312526274306/d78361d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-274306</guid>
+      <pubDate>Wed, 17 Jun 2026 15:50:53 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$MDRR 📤 Divestiture
 Sells Brookfield Center for $10.25M; close within 45 days
@@ -3769,16 +3779,6 @@ Mcap $1.3B · Real Estate</title>
       <guid isPermaLink="false">0001783398-26-000095</guid>
       <pubDate>Fri, 05 Jun 2026 05:06:16 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$FRMI ⚔️ Proxy
-Seeks special meeting to elect 7 directors, remove 3; push strategic review
-22.7% stake
-Mcap $3.9B · EV $4.1B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026065470/ea0293592-prrn14aa3_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-065470</guid>
-      <pubDate>Fri, 05 Jun 2026 05:06:01 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
