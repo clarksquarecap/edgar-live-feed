@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 20:51:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:58:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNK 🤝 Merger · Unsolicited
+Receives revised $27.34/share bid from Diana; 53% premium
+Diana Shipping · 53% prem · cash+stk
+Mcap $1.0B · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926075200/tm2612953d45_dfan14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-075200</guid>
+      <pubDate>Wed, 17 Jun 2026 15:58:10 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$ASND 📤 Divestiture
 Sells PRV for $187.5M cash to undisclosed buyer
@@ -3768,16 +3779,6 @@ Mcap $209M · EV $273M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1847409/000127956926000512/hightide6k.htm</link>
       <guid isPermaLink="false">0001279569-26-000512</guid>
       <pubDate>Fri, 05 Jun 2026 05:06:54 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$TWO 🤝 Merger
-Reaffirms $12.50/share cash or 2.3328 UWMC shares bid for TWO; vote June 11
-cash+stk
-Mcap $1.3B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1465740/000178339826000095/pressrelease-june42026.htm</link>
-      <guid isPermaLink="false">0001783398-26-000095</guid>
-      <pubDate>Fri, 05 Jun 2026 05:06:16 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
