@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 20:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:26:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FAC 👀 Activist
+Receives 13D from Stellantis for 9.5% stake; board seat granted
+Mcap $1.5B · EV $1.7B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2049662/000160548426000052/primary_doc.xml</link>
+      <guid isPermaLink="false">0001605484-26-000052</guid>
+      <pubDate>Wed, 17 Jun 2026 15:26:45 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$ZD 📤 Divestiture
 Sells Connectivity division to Accenture for $1.2B cash
@@ -3748,15 +3757,6 @@ Mcap $1.4B · EV $1.5B · Energy</title>
       <link>https://www.sec.gov/Archives/edgar/data/866829/000114036126024014/ny20075253x1_s4.htm</link>
       <guid isPermaLink="false">0001140361-26-024014</guid>
       <pubDate>Thu, 04 Jun 2026 16:30:00 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$RAMP 🤝 Merger
-Acquired by Publicis; shareholder vote pending; close by year-end 2026
-Mcap $2.2B · EV $1.9B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/733269/000110465926070603/tm2614904d10_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-070603</guid>
-      <pubDate>Thu, 04 Jun 2026 16:29:32 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
