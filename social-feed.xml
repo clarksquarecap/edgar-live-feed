@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 21:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:14:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SVAC 🤝 Merger
+Merging with General Fusion for ~$1B; vote July 6
+~$1B pro-forma equity value deal · stock · close mid-2026
+Mcap $317M · EV $316M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2074850/000110465926075217/tm2618231d1_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-075217</guid>
+      <pubDate>Wed, 17 Jun 2026 16:14:47 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$JRVR ⚖️ Litigation · Won
 Court allows breach-of-contract damages claim vs Fleming to proceed; specific performance dismissed as moot
@@ -3763,15 +3774,6 @@ Mcap $14B · EV $14B · Cons Disc</title>
       <guid isPermaLink="false">0001213900-26-065492</guid>
       <pubDate>Fri, 05 Jun 2026 06:40:35 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$GGAZF 🤝 Merger
-Special meeting to vote on merger with Goldgroup Mining
-Mcap $311M · EV $296M · Materials</title>
-      <link>https://www.otcmarkets.com/stock/GGAZF/news/524103</link>
-      <guid isPermaLink="false">OTC-524103</guid>
-      <pubDate>Fri, 05 Jun 2026 06:08:38 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
