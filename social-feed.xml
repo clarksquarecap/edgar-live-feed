@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 13:08:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 13:09:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BNAI 🤝 Merger
+Acquires Cataneo GmbH for $19.5M ($9M cash + $37.88/sh stock); all conditions met
+19500000 deal · cash+stk
+Mcap $143M · EV $143M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1838163/000149315226028999/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-028999</guid>
+      <pubDate>Wed, 17 Jun 2026 08:09:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$YMAT 📉 Delisting · Forced
 Staff delisting determination; hearing stay, shares continue trading
@@ -3750,16 +3761,6 @@ Mcap $9M · EV $33M · Healthcare</title>
       <guid isPermaLink="false">0001437749-26-019561</guid>
       <pubDate>Thu, 04 Jun 2026 15:16:02 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$FULC 🔎 Strat Review · Strat Alts
-Halts SCD drug; cuts 85% staff; launches strategic review with Leerink
-Mcap $347M · EV $525M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1680581/000119312526257376/fulc-20260531.htm</link>
-      <guid isPermaLink="false">0001193125-26-257376</guid>
-      <pubDate>Thu, 04 Jun 2026 15:08:05 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
