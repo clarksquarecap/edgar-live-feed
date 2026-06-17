@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 21:14:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:16:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NHIC 🤝 Merger
+Merging with NewHold SPAC; Nasdaq listing imminent
+Mcap $304M · EV $303M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2043699/000095010326009160/dp248609_425-article.htm</link>
+      <guid isPermaLink="false">0000950103-26-009160</guid>
+      <pubDate>Wed, 17 Jun 2026 16:16:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SVAC 🤝 Merger
 Merging with General Fusion for ~$1B; vote July 6
@@ -3765,15 +3775,6 @@ Mcap $207M · EV $176M · Materials</title>
       <guid isPermaLink="false">0001104659-26-070745</guid>
       <pubDate>Fri, 05 Jun 2026 06:53:25 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$LULU 👀 Activist
-Settles proxy contest with Wilson; adds 2 independent directors
-Mcap $14B · EV $14B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1397187/000121390026065492/ea0281698-13.htm</link>
-      <guid isPermaLink="false">0001213900-26-065492</guid>
-      <pubDate>Fri, 05 Jun 2026 06:40:35 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
