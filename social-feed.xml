@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 21:17:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:26:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SILA 🤝 Merger
+Issues supplemental proxy disclosures; merger vote June 26
+Mcap $1.7B · EV $2.4B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1567925/000114036126025609/ef20076359_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-025609</guid>
+      <pubDate>Wed, 17 Jun 2026 16:26:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SNBR 🔥 Insolvency · Ch. 11
 Nasdaq delisting effective June 23 after Chapter 11 filing
@@ -3764,15 +3774,6 @@ Mcap $6.0B · EV $4.3B · Materials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1970622/000121390026065500/ea0292697-8k_usarare.htm</link>
       <guid isPermaLink="false">0001213900-26-065500</guid>
       <pubDate>Fri, 05 Jun 2026 07:00:21 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$USAR 🤝 Merger
-Acquires Serra Verde Rare Earths; vote pending
-Mcap $6.0B · EV $4.3B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1970622/000121390026065498/ea0292697-8k_usarare.htm</link>
-      <guid isPermaLink="false">0001213900-26-065498</guid>
-      <pubDate>Fri, 05 Jun 2026 06:53:49 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
