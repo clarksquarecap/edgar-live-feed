@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 12:40:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 12:47:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ALOT 🤝 Merger
+Acquired by Arcline for $29.00/share cash; vote pending
+cash · close Q4 2026
+Mcap $129M · EV $163M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/000119312526273447/d100857d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-273447</guid>
+      <pubDate>Wed, 17 Jun 2026 07:47:48 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AIFU 🤝 Merger · Preliminary
 Signs MOU to acquire Peakleap Ventures; due diligence pending
@@ -3728,16 +3739,6 @@ Mcap $16B · EV $389149B · Comms</title>
       <pubDate>Thu, 04 Jun 2026 10:34:46 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$UCB 🤝 Merger
-Acquires Peach State Bancshares; Q3 2026 close, Feb 2027 conversion
-stock
-Mcap $4.0B · EV $3.8B · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/857855/000085785526000044/psbnewsletter060426.htm</link>
-      <guid isPermaLink="false">0000857855-26-000044</guid>
-      <pubDate>Thu, 04 Jun 2026 09:55:48 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
