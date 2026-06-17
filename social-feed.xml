@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 20:15:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:22:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNK 🎯 Tender · Unsolicited
+Faces unsolicited $24.80/share tender offer from Diana; vote deadline today
+Diana Shipping · cash
+Mcap $1.0B · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000114036126025593/ef20076318_sc14d9a.htm</link>
+      <guid isPermaLink="false">0001140361-26-025593</guid>
+      <pubDate>Wed, 17 Jun 2026 15:22:06 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$LSAK 🤝 Merger
 Acquires Bank Zero Mutual Bank; long-stop extended to Jan 2027
@@ -3746,16 +3757,6 @@ Mcap $3.9B · EV $4.1B · Real Estate</title>
       <guid isPermaLink="false">0001213900-26-065352</guid>
       <pubDate>Thu, 04 Jun 2026 16:04:22 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$VXRT ⚔️ Proxy
-Nominates 3 directors at Vaxart; AGM July 16
-0.63% stake
-Mcap $145M · EV $96M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/72444/000092189526001557/defc14a14596002_06012026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001557</guid>
-      <pubDate>Thu, 04 Jun 2026 16:03:57 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
