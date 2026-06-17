@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 11:14:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:20:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ARQQ ⚖️ Litigation · Settled
+Settles class action for $7M; court approved
+Mcap $331M · EV $304M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1859690/000110465926074855/tm2618056d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-074855</guid>
+      <pubDate>Wed, 17 Jun 2026 06:20:53 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$QURE ⚖️ Litigation · Won
 FDA agrees Phase I/II data can support accelerated approval BLA for AMT-130; submission Q3 2026
@@ -3705,16 +3715,6 @@ Mcap $17M · EV $168M · Comms</title>
       <link>https://www.sec.gov/Archives/edgar/data/2000756/000182912626006041/kwavemedia_6k.htm</link>
       <guid isPermaLink="false">0001829126-26-006041</guid>
       <pubDate>Thu, 04 Jun 2026 08:10:32 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CNTM 📤 Divestiture
-Sells India business to Blue Cloud for 160M shares (~$30.4M); BSE approval cleared
-$39.6M (implied at signing) deal · close Q3 2026
-Mcap $13M · Technology</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1895249/000110465926070356/tm2616821d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-070356</guid>
-      <pubDate>Thu, 04 Jun 2026 07:57:24 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>
