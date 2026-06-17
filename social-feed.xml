@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 20:11:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:12:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PLAG 📤 Divestiture
+Sells Bless HK/Jingshan to Hongzhang Liang for nominal consideration
+Mcap $24M · EV $24M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1117057/000121390026069626/ea0293990-8k_planet.htm</link>
+      <guid isPermaLink="false">0001213900-26-069626</guid>
+      <pubDate>Wed, 17 Jun 2026 15:12:46 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$NNDM 🤝 Merger · Preliminary
 Acquires Infinite Epigenetics in stock merger; 20% premium to cash value
@@ -3746,16 +3755,6 @@ Mcap $7M · EV $5M · Healthcare</title>
       <guid isPermaLink="false">0001493152-26-027290</guid>
       <pubDate>Thu, 04 Jun 2026 15:54:49 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$COO 🔎 Strat Review · Strat Alts
-Launches strategic review; settles recall litigation for $271.6M
-Mcap $12B · EV $14B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/711404/000162828026040823/coo-20260604.htm</link>
-      <guid isPermaLink="false">0001628280-26-040823</guid>
-      <pubDate>Thu, 04 Jun 2026 15:54:12 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
