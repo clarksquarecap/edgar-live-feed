@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 15:49:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:56:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CURLD 💧 Capital Return · Recap
+Seeks to remove dual-class sunset trigger; vote June 22
+Mcap $2.6B · EV $3.6B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1756770/000175677026000056/a6-kcover06152026curaleafh.htm</link>
+      <guid isPermaLink="false">0001756770-26-000056</guid>
+      <pubDate>Wed, 17 Jun 2026 10:56:23 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
     <item>
       <title>$GLASF ✂️ Carve-out
 Deconsolidates GHR retail unit; applies to list on NYSE
@@ -3743,15 +3753,6 @@ Mcap $225M · EV $349M · Financial Serv</title>
       <link>https://www.sec.gov/Archives/edgar/data/1000209/000119312526257481/d42950ddefa14a.htm</link>
       <guid isPermaLink="false">0001193125-26-257481</guid>
       <pubDate>Thu, 04 Jun 2026 15:33:00 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$PCRX ⚔️ Proxy
-Faces proxy contest from DOMA Perpetual Capital; vote June 9
-Mcap $905M · EV $1.4B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1396814/000162828026040814/a06-08x26defa14a.htm</link>
-      <guid isPermaLink="false">0001628280-26-040814</guid>
-      <pubDate>Thu, 04 Jun 2026 15:32:37 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
