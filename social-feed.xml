@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 13:16:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 13:22:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CSAN 📤 Divestiture
+Sells 12% of Radar's land portfolio for BRL 586M
+BRL 586 million deal
+Mcap $2.5B · EV $16B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1430162/000155485526001350/MainDocument.htm</link>
+      <guid isPermaLink="false">0001554855-26-001350</guid>
+      <pubDate>Wed, 17 Jun 2026 08:22:43 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$HLIT 📤 Divestiture
 Sells Video Business to MediaKind for $145M cash; pure-play pivot
@@ -3762,15 +3772,6 @@ Mcap $19M · EV $2.9B · Real Estate</title>
       <guid isPermaLink="false">0001232582-26-000138</guid>
       <pubDate>Thu, 04 Jun 2026 15:16:26 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AMS 🪙 Debt Restr.
-Fifth Third Bank triggers default rate on credit facility; covenant breaches disclosed; liquidity risk
-Mcap $9M · EV $33M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/744825/000143774926019561/asha20260603_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-019561</guid>
-      <pubDate>Thu, 04 Jun 2026 15:16:02 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
