@@ -6,8 +6,28 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 21:07:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:07:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Won · JRVR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1620459/000162045926000036/jrvr-20260613.htm</link>
+      <guid isPermaLink="false">0001620459-26-000036</guid>
+      <pubDate>Wed, 17 Jun 2026 16:07:45 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+      <category>8-K</category>
+      <ns0:headline>Court allows breach-of-contract damages claim vs Fleming to proceed; specific performance dismissed as moot</ns0:headline>
+      <ns0:shortName>James River</ns0:shortName>
+      <ns0:price>4.03</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Court allows breach-of-contract damages claim vs Fleming to proceed; specific performance dismissed as moot&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Won partial victory in NY Supreme Court: its claim for direct damages for Fleming's failure to close the JRG Reinsurance purchase on time may proceed, while specific performance was dismissed as moot (deal closed Apr 16, 2024) and consequential damages were barred. The Stock Purchase Agreement was dated Nov 8, 2023.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; James River Group Holdings, Inc. provides specialty insurance services. It operates in Excess and Surplus Lines, and Specialty Admitted Insurance segments. The Excess and Surplus Lines segment offers commercial excess and surplus lines liability and excess property insurance products in the United States, Puerto Rico, and the United States Virgin Islands. This segment distributes its insurance policies primarily through wholesale insurance brokers.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Fleming Intermediate Holdings LLC&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-13&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $4.03 · Mkt cap $192.3M · EV $427.7M · Fwd P/E 3.9x · Fwd EV/EBITDA 4.9x · Financials / Insurance&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1620459/000162045926000036/0001620459-26-000036-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JRVR&lt;/b&gt; · 8-K · Items 8.01 · Insurance (6331) · 8k_tier1:8.01 · filed 2026-06-17&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · SEQC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1779977/000121390026069705/ea0278139-06.htm</link>
@@ -9209,23 +9229,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Goldgroup Mining&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $1.06 · Mkt cap $311.3M · EV $295.9M · Materials / Materials&lt;/i&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GGAZF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-06-05&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · NVA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1852551/000149315226027407/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-027407</guid>
-      <pubDate>Fri, 05 Jun 2026 05:49:08 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>6-K</category>
-      <ns0:headline>Redomiciles from Australia to US; trading to resume June 16 on NYSE American</ns0:headline>
-      <ns0:shortName>Nova Minerals</ns0:shortName>
-      <ns0:price>7.02</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Redomiciles from Australia to US; trading to resume June 16 on NYSE American&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Obtained court approval and schemes of arrangement effective June 3, 2026, to redomicile to the United States as Nova Minerals Corp. Shareholders will exchange holdings based on type: ASX shares 1:1 for CDIs, OTC shares 1:12 for NYSE American common stock, Nasdaq ADSs 1:1 for common stock, and listed warrants 1:3 for NYSE American warrants. Trading is halted until completion expected June 16, 2026; new company will list on NYSE American under ticker NVA (common) and NVAWW (warrants).&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-06-16&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.02 · Mkt cap $249.9M · EV $217.4M · Materials / Materials&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1852551/000149315226027407/0001493152-26-027407-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NVA, NVAAF, NVAWW&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-06-05&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
