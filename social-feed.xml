@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 21:16:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:17:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MIDD 🪓 Spinoff
+Spins off Midera Food Processing; record June 26, distribution July 6
+Mcap $7.5B · EV $9.2B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/769520/000119312526274367/d85919d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-274367</guid>
+      <pubDate>Wed, 17 Jun 2026 16:17:26 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$NHIC 🤝 Merger
 Merging with NewHold SPAC; Nasdaq listing imminent
@@ -3765,16 +3774,6 @@ Mcap $3.5B · EV $3.7B · Healthcare</title>
       <pubDate>Fri, 05 Jun 2026 06:53:38 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$GORO 🤝 Merger
-Acquired by Goldgroup Mining for 1.4476 shares per share; vote July 2
-stock
-Mcap $207M · EV $176M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1160791/000110465926070745/tm2616876d1_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-070745</guid>
-      <pubDate>Fri, 05 Jun 2026 06:53:25 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
