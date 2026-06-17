@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 11:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 12:06:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GOSS 🪙 Debt Restr.
+Completes distressed exchange of 5% 2027 convert notes for new 7.5% secured notes + equity
+Mcap $39M · EV $143M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1728117/000172811726000054/goss-20260617.htm</link>
+      <guid isPermaLink="false">0001728117-26-000054</guid>
+      <pubDate>Wed, 17 Jun 2026 07:06:41 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>distressed_exchange</category>
+    </item>
     <item>
       <title>$RFAFF 📤 Divestiture
 Sells $60.4M in properties; $86.8M unconditional, $196.6M conditional; BMO marketing 1.3M sq ft
@@ -3698,15 +3708,6 @@ Mcap $4.0B · EV $3.8B · Financial Serv</title>
       <guid isPermaLink="false">0000857855-26-000044</guid>
       <pubDate>Thu, 04 Jun 2026 09:55:48 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$SA 🪓 Spinoff
-Spins off Valor Gold; 1 VGC per ~1.957 SA shares
-Mcap $3.2B · EV $4.6B · Basic Material</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1231346/000106299326003049/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-003049</guid>
-      <pubDate>Thu, 04 Jun 2026 08:25:12 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
