@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 20:26:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:33:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNL 🤝 Merger
+Acquires Modiv Industrial for 1.975 GNL shares per MDV share; vote Aug 10
+stock · close Q3 2026
+Mcap $2.0B · EV $4.3B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1526113/000110465926075171/tm2615734-4_s4a.htm</link>
+      <guid isPermaLink="false">0001104659-26-075171</guid>
+      <pubDate>Wed, 17 Jun 2026 15:33:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FAC 👀 Activist
 Receives 13D from Stellantis for 9.5% stake; board seat granted
@@ -3747,16 +3758,6 @@ Mcap $9M · EV $21M · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1854480/000114036126024015/ef20075599_425.htm</link>
       <guid isPermaLink="false">0001140361-26-024015</guid>
       <pubDate>Thu, 04 Jun 2026 16:37:41 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$HLX 🤝 Merger
-Acquires Hornbeck Offshore for 10.27167 HLX shares per HOS share; vote pending
-stock
-Mcap $1.4B · EV $1.5B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866829/000114036126024014/ny20075253x1_s4.htm</link>
-      <guid isPermaLink="false">0001140361-26-024014</guid>
-      <pubDate>Thu, 04 Jun 2026 16:30:00 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
