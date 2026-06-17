@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 11:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:21:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SVAQ 🤝 Merger
+Combines with EigenQ in de-SPAC; post-merger entity to trade on Nasdaq
+Mcap $296M · EV $295M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085659/000121390026069434/ea0295059-8k425_silicon.htm</link>
+      <guid isPermaLink="false">0001213900-26-069434</guid>
+      <pubDate>Wed, 17 Jun 2026 06:21:04 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ARQQ ⚖️ Litigation · Settled
 Settles class action for $7M; court approved
@@ -3707,15 +3717,6 @@ Mcap $5.1B · EV $6.5B · Consumer Cycli</title>
       <pubDate>Thu, 04 Jun 2026 08:11:04 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$KWM 📤 Divestiture
-Rescinds Solaire acquisition; 9.8M shares returned, Chairman resigns
-Mcap $17M · EV $168M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2000756/000182912626006041/kwavemedia_6k.htm</link>
-      <guid isPermaLink="false">0001829126-26-006041</guid>
-      <pubDate>Thu, 04 Jun 2026 08:10:32 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
