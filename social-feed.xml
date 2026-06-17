@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 21:06:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:07:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNK 🤝 Merger · Unsolicited
+Receives increased unsolicited bid from Diana at $27.34/sh (53% premium)
+53% prem · cash+stk
+Mcap $1.0B · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926075214/tm2612953d47_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-075214</guid>
+      <pubDate>Wed, 17 Jun 2026 16:07:12 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$FRMI ⚔️ Proxy
 Seeks special meeting at Fermi; files definitive proxy
@@ -3760,16 +3771,6 @@ Mcap $4.0B · EV $9.6B · Comms</title>
       <link>https://www.sec.gov/Archives/edgar/data/78150/000119312526258322/06.05.2026_updateradius.htm</link>
       <guid isPermaLink="false">0001193125-26-258322</guid>
       <pubDate>Fri, 05 Jun 2026 05:29:26 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$LKFT 🤝 Merger
-Acquires Ouro's T cell engager assets; $837.5M net upfront, $150M buyback
-Gilead · close 2026-06-04
-Mcap $1.8B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1421876/000117184326003927/f6k_060526.htm</link>
-      <guid isPermaLink="false">0001171843-26-003927</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:07 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
