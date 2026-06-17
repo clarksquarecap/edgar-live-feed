@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 20:35:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:42:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNK ⚔️ Proxy
+Revised $24.80/offer from Diana; AGM vote June 18
+Diana Shipping
+Mcap $1.0B · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000114036126025592/ef20076314_defa14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-025592</guid>
+      <pubDate>Wed, 17 Jun 2026 15:42:13 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$FSHP 🔎 Strat Review
 Extension approved to June 2027; 1.5M shares redeemed
@@ -3759,15 +3769,6 @@ Mcap $1.1B · EV $987M · Materials</title>
       <guid isPermaLink="false">OTC-524085</guid>
       <pubDate>Fri, 05 Jun 2026 04:53:24 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$DEVS 🤝 Merger
-Secures $6M EEME financing for pending merger with XCF Global and Southern
-Mcap $9M · EV $21M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1854480/000114036126024015/ef20075599_425.htm</link>
-      <guid isPermaLink="false">0001140361-26-024015</guid>
-      <pubDate>Thu, 04 Jun 2026 16:37:41 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
