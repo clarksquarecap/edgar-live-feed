@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 20:42:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:44:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MDRR 📤 Divestiture
+Sells Brookfield Center for $10.25M; close within 45 days
+$10,250,000 deal
+Mcap $18M · EV $46M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1654595/000110465926075174/mdrr-20260616x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-075174</guid>
+      <pubDate>Wed, 17 Jun 2026 15:44:30 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CPAC 🎯 Tender
 Holcim requests SMV exemption for mandatory tender offer
@@ -3769,15 +3779,6 @@ Mcap $3.9B · EV $4.1B · Real Estate</title>
       <guid isPermaLink="false">0001213900-26-065470</guid>
       <pubDate>Fri, 05 Jun 2026 05:06:01 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$BRELY 🪓 Spinoff
-Spins off Alurion Resources; 0.5607 ALU/BRE share; IPO at A$1.05; vote July 10
-Mcap $1.1B · EV $987M · Materials</title>
-      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=91091</link>
-      <guid isPermaLink="false">OTC-524085</guid>
-      <pubDate>Fri, 05 Jun 2026 04:53:24 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
