@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 20:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:14:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LSAK 🤝 Merger
+Acquires Bank Zero Mutual Bank; long-stop extended to Jan 2027
+close 2027-01-31
+Mcap $388M · EV $545M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1041514/000106299326003238/form8k.htm</link>
+      <guid isPermaLink="false">0001062993-26-003238</guid>
+      <pubDate>Wed, 17 Jun 2026 15:14:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RAAQ 🤝 Merger
 Merging with IQM Quantum Computers; proxy mailed, EGM pending
@@ -3745,16 +3756,6 @@ Mcap $145M · EV $96M · Healthcare</title>
       <guid isPermaLink="false">0000921895-26-001557</guid>
       <pubDate>Thu, 04 Jun 2026 16:03:57 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$NRDE 🤝 Merger
-Acquires Affinity Advisory Network for $6.72M cash + stock + earnout
-cash+stk
-Mcap $29M · EV $36M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1759546/000149315226027277/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-027277</guid>
-      <pubDate>Thu, 04 Jun 2026 15:55:11 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
