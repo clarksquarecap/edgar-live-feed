@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 21:05:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:06:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FRMI ⚔️ Proxy
+Seeks special meeting at Fermi; files definitive proxy
+Mcap $5.0B · EV $5.3B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026069710/ea0295175-dfan14a_toby.htm</link>
+      <guid isPermaLink="false">0001213900-26-069710</guid>
+      <pubDate>Wed, 17 Jun 2026 16:06:20 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$GNK 🎯 Tender
 Receives revised $27.34/share bid from Diana (cash+stock); 16% premium
@@ -3761,16 +3770,6 @@ Mcap $1.8B · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1421876/000117184326003927/f6k_060526.htm</link>
       <guid isPermaLink="false">0001171843-26-003927</guid>
       <pubDate>Fri, 05 Jun 2026 05:16:07 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$IQST 🤝 Merger
-Acquires 51% of Ultranet Telecom for $17.6M cash+contingent; close Q3
-$17,600,000 deal · cash · close Q3 2026
-Mcap $7M · EV $14M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1527702/000166357726000183/iqst8k060426.htm</link>
-      <guid isPermaLink="false">0001663577-26-000183</guid>
-      <pubDate>Fri, 05 Jun 2026 05:08:08 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
