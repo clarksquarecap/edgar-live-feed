@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 11:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 11:27:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RFAFF 📤 Divestiture
+Sells $60.4M in properties; $86.8M unconditional, $196.6M conditional; BMO marketing 1.3M sq ft
+close 2026
+Mcap $803M · EV $1.6B · Financials</title>
+      <link>https://www.newswire.ca/news-releases/rfa-financial-advances-disposition-strategy-with-over-340-million-in-asset-sale-pipeline-866325660.html</link>
+      <guid isPermaLink="false">OTC-525349</guid>
+      <pubDate>Wed, 17 Jun 2026 06:27:47 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$SVAQ 🤝 Merger
 Combines with EigenQ in de-SPAC; post-merger entity to trade on Nasdaq
@@ -3707,16 +3717,6 @@ Mcap $98M · EV $287M · Healthcare</title>
       <guid isPermaLink="false">0001636422-26-000082</guid>
       <pubDate>Thu, 04 Jun 2026 08:18:04 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GLBE 💧 Capital Return · Buyback
-Authorizes $500M share repurchase; 30-day creditor objection period
-Mcap $5.1B · EV $6.5B · Consumer Cycli</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835963/000117891326003095/zk2635494.htm</link>
-      <guid isPermaLink="false">0001178913-26-003095</guid>
-      <pubDate>Thu, 04 Jun 2026 08:11:04 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
