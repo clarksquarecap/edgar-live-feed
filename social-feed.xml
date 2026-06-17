@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 21:33:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:35:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RUM 🤝 Merger
+Acquires 85.2% of Northern Data AG for 59.3M shares + warrants
+stock · close 2026-06-17
+Mcap $2.5B · EV $2.3B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1830081/000121390026069733/ea0295081-8k_rumble.htm</link>
+      <guid isPermaLink="false">0001213900-26-069733</guid>
+      <pubDate>Wed, 17 Jun 2026 16:35:56 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$HVII 🤝 Merger
 Acquires ONE Nuclear Energy LLC; shareholder vote pending
@@ -3757,15 +3768,6 @@ Mcap $17B · EV $20B · Financials</title>
       <pubDate>Fri, 05 Jun 2026 08:07:59 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$LGL 📜 Rights Issue
-Rights offering to raise $45.2M at $6.90/share; trades under LGL RT
-Mcap $45M · EV $640K · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/61004/000143774926019662/lglg20260529c_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-019662</guid>
-      <pubDate>Fri, 05 Jun 2026 08:00:53 -0500</pubDate>
-      <category>RIGHTS_ISSUE</category>
     </item>
   </channel>
 </rss>
