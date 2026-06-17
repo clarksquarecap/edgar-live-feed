@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 20:59:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 21:05:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNK 🎯 Tender
+Receives revised $27.34/share bid from Diana (cash+stock); 16% premium
+Diana Shipping · 16% prem · cash+stk
+Mcap $1.0B · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926075210/tm2612953d46_sctota.htm</link>
+      <guid isPermaLink="false">0001104659-26-075210</guid>
+      <pubDate>Wed, 17 Jun 2026 16:05:57 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$GNK 🤝 Merger · Unsolicited
 Receives revised $27.34/share bid from Diana; 53% premium
@@ -3762,15 +3772,6 @@ Mcap $7M · EV $14M · Comms</title>
       <guid isPermaLink="false">0001663577-26-000183</guid>
       <pubDate>Fri, 05 Jun 2026 05:08:08 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$GOSS 🪙 Debt Restr.
-Exchanges $181M of 5% convertible notes for 7.5% secured notes + equity; offer expires June 16
-Mcap $42M · EV $145M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1728117/000172811726000045/goss-20260603.htm</link>
-      <guid isPermaLink="false">0001728117-26-000045</guid>
-      <pubDate>Fri, 05 Jun 2026 05:07:39 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
