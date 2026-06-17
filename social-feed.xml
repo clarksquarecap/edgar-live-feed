@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 10:06:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 10:13:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OGN 🤝 Merger
+Acquired by Sun Pharma USA for $14.00 cash per share; vote July 23
+$3.68B deal · cash · close Q3 2026
+Mcap $3.5B · EV $11B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821825/000119312526273323/d15298ddefm14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-273323</guid>
+      <pubDate>Wed, 17 Jun 2026 05:13:08 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SNBR 🔥 Insolvency · Ch. 11
 Secures $260M DIP financing in Chapter 11; final hearing July 9
@@ -3692,16 +3703,6 @@ Mcap $1.7B · EV $2.1B · Healthcare</title>
       <guid isPermaLink="false">0001754195-26-000033</guid>
       <pubDate>Thu, 04 Jun 2026 05:45:44 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$LEG 🤝 Merger
-Acquired by Somnigroup; HSR cleared; close year-end
-close year-end 2026
-Mcap $1.4B · EV $2.6B · Consumer Cycli</title>
-      <link>https://www.sec.gov/Archives/edgar/data/58492/000120626426000084/a06042026425communication.htm</link>
-      <guid isPermaLink="false">0001206264-26-000084</guid>
-      <pubDate>Thu, 04 Jun 2026 05:38:07 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
