@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 20:22:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 20:22:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MYPS 📉 Delisting · Forced
+Warrants delisted by Nasdaq effective June 17
+Mcap $68M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823878/000135445726000587/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000587</guid>
+      <pubDate>Wed, 17 Jun 2026 15:22:23 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$GNK 🎯 Tender · Unsolicited
 Faces unsolicited $24.80/share tender offer from Diana; vote deadline today
@@ -3748,15 +3758,6 @@ Mcap $1.0B · EV $1.3B · Industrials</title>
       <guid isPermaLink="false">0001104659-26-070570</guid>
       <pubDate>Thu, 04 Jun 2026 16:04:44 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$FRMI 👀 Activist
-Solicits proxies to call special meeting; June 30 vote
-Mcap $3.9B · EV $4.1B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026065352/ea0293705-dfan14a_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-065352</guid>
-      <pubDate>Thu, 04 Jun 2026 16:04:22 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
