@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 17 Jun 2026 14:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 14:40:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GLASF ✂️ Carve-out
+Deconsolidates GHR retail unit; applies to list on NYSE
+Mcap $1.1B · EV $1.3B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848731/000110465926074968/tm2617929d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-074968</guid>
+      <pubDate>Wed, 17 Jun 2026 09:40:57 -0500</pubDate>
+      <category>CARVE_OUT</category>
+    </item>
     <item>
       <title>$GNS 💧 Capital Return · Recap
 Cancels 20M shares (16% of float); total 26.6M this week (22% of float)
@@ -3744,16 +3753,6 @@ Mcap $905M · EV $1.4B · Healthcare</title>
       <guid isPermaLink="false">0001628280-26-040814</guid>
       <pubDate>Thu, 04 Jun 2026 15:32:37 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$QXO 🤝 Merger
-Acquires TopBuild; consideration election deadline June 29
-cash/stk elect
-Mcap $13B · EV $14B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1236275/000110465926070538/tm2616934d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-070538</guid>
-      <pubDate>Thu, 04 Jun 2026 15:25:35 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
