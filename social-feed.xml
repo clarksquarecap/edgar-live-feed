@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 13:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 13:06:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BCOW 🤝 Merger
+Acquired by North Shore Bank for $18.40-$18.66 cash/share; close Q4 2026
+cash
+Mcap $57M · Financials</title>
+      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=91286</link>
+      <guid isPermaLink="false">OTC-525420</guid>
+      <pubDate>Thu, 18 Jun 2026 08:06:10 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$LUD 🤝 Merger · Preliminary
 Signs MOU to acquire 55% of Asia AI Data Centre for $935K
@@ -3771,16 +3782,6 @@ Mcap $27B · EV $36B · Real Estate</title>
       <guid isPermaLink="false">0001193125-26-259850</guid>
       <pubDate>Fri, 05 Jun 2026 16:01:08 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$CGCT 📉 Delisting · Forced
-Forced Nasdaq delisting; Form 25 filed June 5
-Mcap $420M · EV $419M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2049662/000135445726000536/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000536</guid>
-      <pubDate>Fri, 05 Jun 2026 15:52:46 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
