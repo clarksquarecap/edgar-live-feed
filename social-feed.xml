@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 12:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:38:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CSCIF 💧 Capital Return · Recap
+Approves recapitalization: 1:150 consolidation + 50:1 split
+Mcap $7M · EV $4M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1113423/000149315226029198/formsc13e-3a.htm</link>
+      <guid isPermaLink="false">0001493152-26-029198</guid>
+      <pubDate>Thu, 18 Jun 2026 07:38:07 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
     <item>
       <title>$BFNH 🤝 Merger
 79.65% stake sold to Nexus Capital for $400K; new board, pivot to oil &amp; gas
@@ -3776,16 +3786,6 @@ Mcap $339M · Industrials</title>
       <guid isPermaLink="false">0000930413-26-001817</guid>
       <pubDate>Fri, 05 Jun 2026 15:34:04 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$CEPT 🤝 Merger
-Merges with Securitize; vote June 29
-stock · close Q2 2026
-Mcap $386M · EV $386M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2034269/000121390026065822/ea0293597-01.htm</link>
-      <guid isPermaLink="false">0001213900-26-065822</guid>
-      <pubDate>Fri, 05 Jun 2026 15:33:41 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
