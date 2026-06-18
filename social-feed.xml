@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 12:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:11:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OTTR ⚖️ Litigation · Settled
+Settles PVC pipe antitrust class action for $30M; court approval pending
+vs End-User Class
+Mcap $3.6B · EV $4.4B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1466593/000146659326000063/ottr-20260617.htm</link>
+      <guid isPermaLink="false">0001466593-26-000063</guid>
+      <pubDate>Thu, 18 Jun 2026 07:11:33 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$DNLI 📤 Divestiture
 Sells Rare Pediatric Disease PRV for $195M cash; HSR pending
@@ -3783,16 +3794,6 @@ Mcap $8M · EV $9M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1864531/000118518526002359/vsee8k060526.htm</link>
       <guid isPermaLink="false">0001185185-26-002359</guid>
       <pubDate>Fri, 05 Jun 2026 15:26:33 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AACG 📤 Divestiture
-Sells ATA BVI and Huanqiuyimeng stake for RMB1; $21.1M PIPE approved
-to Robox Holding Limited
-Mcap $47M · EV $41M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1420529/000110465926070980/tm2616938d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-070980</guid>
-      <pubDate>Fri, 05 Jun 2026 15:25:27 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>
