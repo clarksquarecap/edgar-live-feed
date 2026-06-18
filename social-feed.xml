@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 19:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 20:03:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FRMI ⚔️ Proxy
+Solicits agent designations for special meeting of shareholders
+Mcap $5.0B · EV $5.3B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026070088/ea0295332-dfan14a_toby.htm</link>
+      <guid isPermaLink="false">0001213900-26-070088</guid>
+      <pubDate>Thu, 18 Jun 2026 15:03:13 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$PMNT 📉 Delisting · Forced
 Forced delisting from NYSE American effective June 29
@@ -3760,15 +3769,6 @@ Mcap $1.0B · EV $1.3B · Industrials</title>
       <guid isPermaLink="false">0001140361-26-024352</guid>
       <pubDate>Mon, 08 Jun 2026 05:53:50 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$CRMT 🪙 Debt Restr.
-Lender forbearance through June 12; strategic review with Houlihan Lokey
-Mcap $65M · EV $900M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/799850/000117184326003947/f8k_060526.htm</link>
-      <guid isPermaLink="false">0001171843-26-003947</guid>
-      <pubDate>Fri, 05 Jun 2026 16:34:55 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
