@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 11:31:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:37:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$REFI 🤝 Merger
+Acquired by Chicago Atlantic BDC in stock-for-NAV merger; vote pending
+stock
+Mcap $236M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1867949/000121390026069863/ea0295037-8k425_chicago.htm</link>
+      <guid isPermaLink="false">0001213900-26-069863</guid>
+      <pubDate>Thu, 18 Jun 2026 06:37:34 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DLX 🤝 Merger
 Acquires Celero for $625M cash; close Q3 2026
@@ -3790,15 +3801,6 @@ Mcap $223M · EV $2.6B · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1000209/000089706926001324/bimizcidfan12.htm</link>
       <guid isPermaLink="false">0000897069-26-001324</guid>
       <pubDate>Fri, 05 Jun 2026 15:16:59 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$MFIN ⚔️ Proxy
-Faces BIMIZCI proxy contest; 3 nominees; AGM June 9
-Mcap $223M · EV $2.6B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1000209/000089706926001326/bimizcidfan13.htm</link>
-      <guid isPermaLink="false">0000897069-26-001326</guid>
-      <pubDate>Fri, 05 Jun 2026 15:16:33 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
