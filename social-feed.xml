@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 09:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:05:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TTMI 🤝 Merger
+Acquires Swiss Technology Group AG and ILFA GmbH for cash; close Q3 2026
+cash
+Mcap $21B · EV $22B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1116942/000119312526274429/d144646d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-274429</guid>
+      <pubDate>Thu, 18 Jun 2026 05:05:40 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RUM 🤝 Merger
 Acquires 85.2% of Northern Data AG for 59.3M shares + warrants
@@ -3758,16 +3769,6 @@ Mcap $74M · EV $60M · Tech</title>
       <guid isPermaLink="false">0001213900-26-065521</guid>
       <pubDate>Fri, 05 Jun 2026 08:14:54 -0500</pubDate>
       <category>CARVE_OUT</category>
-    </item>
-    <item>
-      <title>$BEN ⚖️ Litigation · Settled
-Settles SEC probe for $100M penalty; DOJ closed
-Mcap $17B · EV $20B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/38777/000003877726000171/ben-20260604.htm</link>
-      <guid isPermaLink="false">0000038777-26-000171</guid>
-      <pubDate>Fri, 05 Jun 2026 08:07:59 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>
