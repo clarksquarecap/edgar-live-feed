@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 12:38:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:45:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ATER 📤 Divestiture
+Sells marquee brand portfolio to Trademark Global for $18M; vote July 10
+$18,000,000 deal · close Q3 2026
+Mcap $11M · EV $11M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1757715/000143774926021044/ater20260617_defa14a.htm</link>
+      <guid isPermaLink="false">0001437749-26-021044</guid>
+      <pubDate>Thu, 18 Jun 2026 07:45:00 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CSCIF 💧 Capital Return · Recap
 Approves recapitalization: 1:150 consolidation + 50:1 split
@@ -3777,15 +3787,6 @@ Mcap $58B · EV $116B · Utilities</title>
       <guid isPermaLink="false">0001104659-26-071008</guid>
       <pubDate>Fri, 05 Jun 2026 15:34:21 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$NNDM ⚔️ Proxy
-Faces Murchinson/Oramed proxy contest; 3 director removals &amp; 3 elections
-Mcap $339M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1643303/000093041326001817/c116504_prec14a.htm</link>
-      <guid isPermaLink="false">0000930413-26-001817</guid>
-      <pubDate>Fri, 05 Jun 2026 15:34:04 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
