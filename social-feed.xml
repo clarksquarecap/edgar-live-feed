@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 13:26:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 13:32:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TEO 🤝 Merger
+Antitrust condition imposed on Telefónica Móviles acquisition
+Mcap $6.5B · EV $10.0B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/932470/000110465926075467/tm2618138d4_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-075467</guid>
+      <pubDate>Thu, 18 Jun 2026 08:32:48 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BCOW 🤝 Merger
 Acquired by North Shore Bank for $18.40-$18.66 cash/share; close Q4 2026
@@ -3762,16 +3772,6 @@ Mcap $270M · EV $271M · Financials</title>
       <guid isPermaLink="false">0001213900-26-065889</guid>
       <pubDate>Fri, 05 Jun 2026 16:08:21 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender
-Rejects Diana's $24.80/share tender; urges WHITE proxy vote
-Diana Shipping · cash
-Mcap $1.0B · EV $1.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000114036126024292/ef20075604_sc14d9a.htm</link>
-      <guid isPermaLink="false">0001140361-26-024292</guid>
-      <pubDate>Fri, 05 Jun 2026 16:07:48 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
