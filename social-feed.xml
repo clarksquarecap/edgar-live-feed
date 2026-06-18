@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 18:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 18:07:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DARP 📉 Delisting · Forced
+Securities now represent only cash payment right; delisting effective June 29
+effective 2026-06-29
+Mcap $11M · EV $11M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1924868/000114336226000216/primary_doc.xml</link>
+      <guid isPermaLink="false">0001143362-26-000216</guid>
+      <pubDate>Thu, 18 Jun 2026 13:07:29 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$BRC 🤝 Merger
 Secures $1B credit facility for Honeywell PSS acquisition
@@ -3757,16 +3768,6 @@ Mcap $386M · EV $386M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2034269/000095010326008613/dp248087_425-cantor.htm</link>
       <guid isPermaLink="false">0000950103-26-008613</guid>
       <pubDate>Fri, 05 Jun 2026 16:33:55 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$RAAQ 🤝 Merger
-Acquires IQM Finland in $2.3B stock + $146M PIPE; vote June 25
-IQM Finland Oy · ~$2.3B deal · stock
-Mcap $264M · EV $263M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2052161/000119312526259964/d900375ddefm14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-259964</guid>
-      <pubDate>Fri, 05 Jun 2026 16:33:19 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
