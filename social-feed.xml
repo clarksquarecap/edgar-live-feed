@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 11:57:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:03:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MCFN 🤝 Merger
+Acquires Auddia Inc. in stock-for-stock merger; Auddia holders get 1 MCFN share each
+stock
+Mcap $5M · EV $5M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2131882/000168316826004950/mccarthy_s4a1.htm</link>
+      <guid isPermaLink="false">0001683168-26-004950</guid>
+      <pubDate>Thu, 18 Jun 2026 07:03:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$REFI 🤝 Merger
 Acquired by Chicago Atlantic BDC in stock-for-NAV merger; vote pending
@@ -3793,15 +3804,6 @@ Mcap $40M · EV $237M · Cons Disc</title>
       <guid isPermaLink="false">0001193125-26-259553</guid>
       <pubDate>Fri, 05 Jun 2026 15:24:33 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$MFIN ⚔️ Proxy
-Faces proxy contest from BIMIZCI Fund with three nominees; AGM June 9
-Mcap $223M · EV $2.6B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1000209/000089706926001324/bimizcidfan12.htm</link>
-      <guid isPermaLink="false">0000897069-26-001324</guid>
-      <pubDate>Fri, 05 Jun 2026 15:16:59 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
