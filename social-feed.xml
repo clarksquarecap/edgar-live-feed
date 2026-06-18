@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 20:16:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 20:16:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LMNR 💥 Busted M&amp;A
+Sale of 80% Paso Robles interest terminated by Peak Holdings
+Mcap $232M · EV $360M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1342423/000110465926075714/tm2618271d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-075714</guid>
+      <pubDate>Thu, 18 Jun 2026 15:16:36 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$VREOD 🤝 Merger
 Acquires C21 Investments via plan of arrangement; 0.023052 VREOD shares per C21 share
@@ -3802,16 +3811,6 @@ Mcap $145M · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-066045</guid>
       <pubDate>Mon, 08 Jun 2026 07:17:20 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender
-$24.80/sh cash bid by Diana; Genco urges reject, AGM vote pending
-Diana Shipping · cash
-Mcap $1.0B · EV $1.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000114036126024352/ef20075702_sc14d9a.htm</link>
-      <guid isPermaLink="false">0001140361-26-024352</guid>
-      <pubDate>Mon, 08 Jun 2026 05:53:50 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
