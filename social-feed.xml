@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 21:37:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 21:39:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DAAQ 🤝 Merger
+Enters non-redemption pacts for merger with Old Glory Bank
+Mcap $238M · EV $237M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2052162/000149315226029392/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-029392</guid>
+      <pubDate>Thu, 18 Jun 2026 16:39:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GLASF 🪓 Spinoff
 Spins off retail business via deconsolidation; now pure-play medical cannabis
@@ -3968,15 +3978,6 @@ Mcap $7M · EV $5M · Cons Disc</title>
       <guid isPermaLink="false">0001213900-26-066270</guid>
       <pubDate>Mon, 08 Jun 2026 15:05:18 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$FRMI ⚔️ Proxy
-Calls special meeting of shareholders; vote June 30
-Mcap $3.7B · EV $3.9B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026066271/ea0293994-dfan14a_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-066271</guid>
-      <pubDate>Mon, 08 Jun 2026 15:04:40 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
