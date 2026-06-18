@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 12:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 12:45:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ONDS 🤝 Merger
+Acquires Cyberhawk for ~$125M cash (95% cash); regulatory approvals pending
+cash
+Mcap $4.6B · EV $3.2B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1646188/000121390026069889/ea0295043-8k_ondas.htm</link>
+      <guid isPermaLink="false">0001213900-26-069889</guid>
+      <pubDate>Thu, 18 Jun 2026 07:45:23 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ATER 📤 Divestiture
 Sells marquee brand portfolio to Trademark Global for $18M; vote July 10
@@ -3776,16 +3787,6 @@ Mcap $10M · EV $12M · Tech</title>
       <link>https://www.sec.gov/Archives/edgar/data/1580490/000149315226027501/form8-k.htm</link>
       <guid isPermaLink="false">0001493152-26-027501</guid>
       <pubDate>Fri, 05 Jun 2026 15:36:01 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$D 🤝 Merger
-Acquired by NextEra for ~$67B; regulatory approvals pending
-NextEra Energy
-Mcap $58B · EV $116B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926071008/tm2614888d14_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-071008</guid>
-      <pubDate>Fri, 05 Jun 2026 15:34:21 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
