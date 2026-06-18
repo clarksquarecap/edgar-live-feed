@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 11:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 11:18:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DLX 🤝 Merger
+Acquires Celero for $625M cash; close Q3 2026
+cash
+Mcap $1.1B · EV $2.5B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/27996/000110465926075414/tm2618004d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-075414</guid>
+      <pubDate>Thu, 18 Jun 2026 06:18:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$LIEN 🤝 Merger
 Acquires REFI in NAV-based stock merger
@@ -3789,15 +3800,6 @@ Mcap $223M · EV $2.6B · Financials</title>
       <guid isPermaLink="false">0000897069-26-001326</guid>
       <pubDate>Fri, 05 Jun 2026 15:16:33 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$FRMI 👀 Activist
-Calls special meeting for June 30; solicits agent designations
-Mcap $3.9B · EV $4.1B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026065787/ea0293820-dfan14a_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-065787</guid>
-      <pubDate>Fri, 05 Jun 2026 15:16:15 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
