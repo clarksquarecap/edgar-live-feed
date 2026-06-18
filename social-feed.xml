@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 17:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 17:13:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DAAQ 🤝 Merger
+Acquired by Digital Asset Acquisition Corp in SPAC merger
+Mcap $238M · EV $237M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2052162/000149315226029236/forms-4a.htm</link>
+      <guid isPermaLink="false">0001493152-26-029236</guid>
+      <pubDate>Thu, 18 Jun 2026 12:13:08 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TACH 🤝 Merger
 Acquires OpenPayd in $1B+ de-SPAC; Nasdaq listing Q4 2026
@@ -3765,15 +3775,6 @@ Mcap $27B · EV $36B · Real Estate</title>
       <guid isPermaLink="false">0001193125-26-259870</guid>
       <pubDate>Fri, 05 Jun 2026 16:18:10 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$SOAR 💥 Busted M&amp;A
-Terminates M2i Global merger; exploring strategic alternatives
-Mcap $10M · EV $7M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1853070/000149315226027518/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-027518</guid>
-      <pubDate>Fri, 05 Jun 2026 16:09:55 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
