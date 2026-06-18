@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 13:05:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 13:05:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LUD 🤝 Merger · Preliminary
+Signs MOU to acquire 55% of Asia AI Data Centre for $935K
+935000 deal · cash+stk
+Mcap $116M · EV $119M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1984124/000121390026069900/ea0295123-6k_luda.htm</link>
+      <guid isPermaLink="false">0001213900-26-069900</guid>
+      <pubDate>Thu, 18 Jun 2026 08:05:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$JHG 📦 Going Private
 Closing set for June 30; $52/share cash; Trian trims stake
@@ -3770,17 +3781,6 @@ Mcap $420M · EV $419M · Financials</title>
       <pubDate>Fri, 05 Jun 2026 15:52:46 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$GDV ⚔️ Proxy
-Faces Saba proxy contest; vote June 29, 2026
-Saba Capital Management
-Mcap $241M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1260729/000182912626006113/gabellidividend_defa14a.htm</link>
-      <guid isPermaLink="false">0001829126-26-006113</guid>
-      <pubDate>Fri, 05 Jun 2026 15:52:24 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>proxy_contest</category>
     </item>
   </channel>
 </rss>
