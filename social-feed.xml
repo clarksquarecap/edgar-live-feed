@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 14:49:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 14:55:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GCO ⚔️ Proxy
+Nominates 2 directors at Genesco; AGM July 21
+8.7% stake
+Mcap $435M · EV $985M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/18498/000092189526001624/defc14a09076076_06182026.htm</link>
+      <guid isPermaLink="false">0000921895-26-001624</guid>
+      <pubDate>Thu, 18 Jun 2026 09:55:29 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+      <category>proxy_contest</category>
+    </item>
     <item>
       <title>$TEO 🤝 Merger
 Antitrust condition imposed on Telefónica Móviles acquisition
@@ -3762,16 +3773,6 @@ Mcap $1.6B · Financials</title>
       <guid isPermaLink="false">0001709442-26-000033</guid>
       <pubDate>Fri, 05 Jun 2026 16:09:19 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CEPO 🤝 Merger
-De-SPAC with BSTR (Bitcoin fund) at $10/SPAC share; vote June 26
-BSTR Holdings · stock · close late Q2 2026
-Mcap $270M · EV $271M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2027708/000121390026065889/ea0293839-01.htm</link>
-      <guid isPermaLink="false">0001213900-26-065889</guid>
-      <pubDate>Fri, 05 Jun 2026 16:08:21 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
