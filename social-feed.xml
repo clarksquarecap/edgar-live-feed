@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 12:58:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 13:05:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$JHG 📦 Going Private
+Closing set for June 30; $52/share cash; Trian trims stake
+cash · close 2026-06-30
+Mcap $8.0B · EV $6.3B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1274173/000110465926075462/tm2618274d1_sc13e3a.htm</link>
+      <guid isPermaLink="false">0001104659-26-075462</guid>
+      <pubDate>Thu, 18 Jun 2026 08:05:01 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$JHG 📦 Going Private
 Acquired by Jupiter Company Limited in take-private; close June 30
@@ -3779,16 +3790,6 @@ Mcap $138B · EV $164B · Industrials</title>
       <guid isPermaLink="false">0000773840-26-000072</guid>
       <pubDate>Fri, 05 Jun 2026 15:37:15 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$MLAC 🤝 Merger
-Shareholders approve merger with Avalanche Treasury; ~87% vote for
-stock
-Mcap $248M · EV $248M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2029492/000121390026065849/ea0293797-8k_mountain.htm</link>
-      <guid isPermaLink="false">0001213900-26-065849</guid>
-      <pubDate>Fri, 05 Jun 2026 15:36:33 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
