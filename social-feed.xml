@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 15:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 15:34:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TACH 🤝 Merger
+Acquires OpenPayd in $1B+ de-SPAC; Nasdaq listing Q4 2026
+&gt;$1B deal · stock
+Mcap $359M · EV $359M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2009183/000182912626006659/openpayd_425.htm</link>
+      <guid isPermaLink="false">0001829126-26-006659</guid>
+      <pubDate>Thu, 18 Jun 2026 10:34:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GCO ⚔️ Proxy
 Nominates 2 directors at Genesco; AGM July 21
@@ -3763,16 +3774,6 @@ Mcap $10M · EV $7M · Industrials</title>
       <guid isPermaLink="false">0001493152-26-027518</guid>
       <pubDate>Fri, 05 Jun 2026 16:09:55 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$FSUN 📤 Divestiture
-Sells $890M multifamily loan pool to Brookfield; proceeds for deposit paydown
-$890 million deal · close 2026-06-04
-Mcap $1.6B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1709442/000170944226000033/fcb-20260605.htm</link>
-      <guid isPermaLink="false">0001709442-26-000033</guid>
-      <pubDate>Fri, 05 Jun 2026 16:09:19 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
