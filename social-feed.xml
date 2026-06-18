@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 10:05:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 10:05:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PSKY 🤝 Merger
+Clears Chinese antitrust, DOJ, Spanish FDI for WBD merger
+Warner Bros. Discovery
+Mcap $11B · EV $27B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2041610/000110465926075287/tm2618232d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-075287</guid>
+      <pubDate>Thu, 18 Jun 2026 05:05:52 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TTMI 🤝 Merger
 Acquires Swiss Technology Group AG and ILFA GmbH for cash; close Q3 2026
@@ -3760,15 +3771,6 @@ Mcap $3.7B · EV $4.0B · Materials</title>
       <guid isPermaLink="false">0000876661-26-000507</guid>
       <pubDate>Fri, 05 Jun 2026 11:55:25 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$WKEY ✂️ Carve-out
-Files amended F-4 for WISeSat.Space de-SPAC with COLA; to list WSAT
-Mcap $74M · EV $60M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026065521/ea029371302-6k_wisekey.htm</link>
-      <guid isPermaLink="false">0001213900-26-065521</guid>
-      <pubDate>Fri, 05 Jun 2026 08:14:54 -0500</pubDate>
-      <category>CARVE_OUT</category>
     </item>
   </channel>
 </rss>
