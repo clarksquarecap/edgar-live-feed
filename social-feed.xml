@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 18 Jun 2026 19:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 19:17:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PMNT 📉 Delisting · Forced
+Forced delisting from NYSE American effective June 29
+Mcap $8M · EV $11M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849221/000114331326000033/primary_doc.xml</link>
+      <guid isPermaLink="false">0001143313-26-000033</guid>
+      <pubDate>Thu, 18 Jun 2026 14:17:49 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$DARP 📉 Delisting · Forced
 Securities now represent only cash payment right; delisting effective June 29
@@ -3759,16 +3769,6 @@ Mcap $65M · EV $900M · Cons Disc</title>
       <guid isPermaLink="false">0001171843-26-003947</guid>
       <pubDate>Fri, 05 Jun 2026 16:34:55 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$CEPT 🤝 Merger
-Acquires Securitize; S-4 effective, special meeting June 29
-close Q3 2026
-Mcap $386M · EV $386M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2034269/000095010326008613/dp248087_425-cantor.htm</link>
-      <guid isPermaLink="false">0000950103-26-008613</guid>
-      <pubDate>Fri, 05 Jun 2026 16:33:55 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
