@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 10:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:11:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BKR 🤝 Merger
+Acquires Chart Industries; EC clearance discussions, close expected July 2026
+Mcap $58B · EV $58B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1701605/000119312526276600/d854885d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-276600</guid>
+      <pubDate>Mon, 22 Jun 2026 05:11:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GTLS 🤝 Merger
 Acquired by Baker Hughes; EC Phase I commitments; close July 2026
@@ -3972,15 +3982,6 @@ Mcap $895M · EV $1.7B · Tech</title>
       <guid isPermaLink="false">0001213900-26-066327</guid>
       <pubDate>Mon, 08 Jun 2026 15:59:19 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$VXRT ⚔️ Proxy
-Nominates 3-director slate at Vaxart; AGM July 16
-Mcap $150M · EV $101M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/72444/000092189526001576/dfan14a14596002_06082026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001576</guid>
-      <pubDate>Mon, 08 Jun 2026 15:52:46 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
