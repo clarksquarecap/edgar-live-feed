@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 20:49:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:49:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RIME 🪙 Debt Restr.
+Forbearance on $1.5M note extended to July 16
+Mcap $11M · EV $13M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/923601/000149315226029603/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-029603</guid>
+      <pubDate>Mon, 22 Jun 2026 15:49:59 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>forbearance</category>
+    </item>
     <item>
       <title>$LOKV 📉 Delisting · Forced
 Forced Nasdaq delisting effective June 22
@@ -3948,15 +3958,6 @@ Mcap $28B · EV $39B · Utilities</title>
       <pubDate>Wed, 10 Jun 2026 05:08:48 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$SEER ⚔️ Proxy
-Nominates dissident director slate at Seer; AGM pending
-Mcap $98M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726445/000092189526001584/dfan14a09076074_06092026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001584</guid>
-      <pubDate>Tue, 09 Jun 2026 16:20:24 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
