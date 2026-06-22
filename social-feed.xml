@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 10:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:07:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNK 🤝 Merger · Unsolicited
+Reaffirms $27.34/share offer to acquire Genco; 53% premium
+53 prem · cash+stk
+Mcap $1.0B · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926075895/tm2612953d49_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-075895</guid>
+      <pubDate>Mon, 22 Jun 2026 05:07:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$TDAC 🤝 Merger
 Merging with TDAC; signs MoU with Elysian for aviation batteries
@@ -3968,16 +3979,6 @@ Mcap $1.7B · EV $2.4B · Real Estate</title>
       <link>https://www.sec.gov/Archives/edgar/data/1567925/000114036126024458/ny20070999x3_defa14a.htm</link>
       <guid isPermaLink="false">0001140361-26-024458</guid>
       <pubDate>Mon, 08 Jun 2026 15:23:31 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$FGMC 🤝 Merger
-Merger deadline for BOXABL combination passes; vote pending
-empty
-Mcap $176M · EV $176M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1906364/000110465926071372/tm2617174d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-071372</guid>
-      <pubDate>Mon, 08 Jun 2026 15:16:49 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
