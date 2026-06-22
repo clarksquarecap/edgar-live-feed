@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 12:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:07:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OLOX 🤝 Merger
+Acquires CS Digital Ventures for $30M upfront + earnout
+$30M upfront + up to $20M earnout deal · stock+debt · close closed
+Mcap $6M · EV $19M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1023994/000121390026070375/ea0295356-8k_olenox.htm</link>
+      <guid isPermaLink="false">0001213900-26-070375</guid>
+      <pubDate>Mon, 22 Jun 2026 07:07:40 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SEM 📦 Going Private
 Supplements proxy for June 26 going-private vote; addresses shareholder lawsuits
@@ -4001,15 +4012,6 @@ Mcap $3.7B · EV $3.9B · Real Estate</title>
       <guid isPermaLink="false">0001213900-26-066514</guid>
       <pubDate>Tue, 09 Jun 2026 05:17:13 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$AX 🤝 Merger
-OCC approves deposit acquisition; close later in 2026
-Mcap $5.0B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1299709/000129970926000044/ax-20260608.htm</link>
-      <guid isPermaLink="false">0001299709-26-000044</guid>
-      <pubDate>Tue, 09 Jun 2026 05:09:30 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
