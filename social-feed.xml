@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 21:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:26:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GDV ⚔️ Proxy
+Faces proxy contest; urges WHITE card vote by June 28
+Mcap $241M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1260729/000182912626006724/gabellidividend_defa14a.htm</link>
+      <guid isPermaLink="false">0001829126-26-006724</guid>
+      <pubDate>Mon, 22 Jun 2026 16:26:17 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$SAFX 📤 Divestiture
 Sells Southern Energy to XCF for 35% of XCF stock; appoints 2 directors
@@ -3994,16 +4003,6 @@ Mcap $5M · EV $4M · Materials</title>
       <pubDate>Wed, 10 Jun 2026 05:14:50 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>lost</category>
-    </item>
-    <item>
-      <title>$PSKY 🤝 Merger
-Receives ACCC clearance for WBD merger; waiting period expires June 23
-Warner Bros. Discovery
-Mcap $11B · EV $27B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2041610/000110465926072030/tm2610616d4_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-072030</guid>
-      <pubDate>Wed, 10 Jun 2026 05:14:26 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
