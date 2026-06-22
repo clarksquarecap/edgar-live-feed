@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 13:23:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:30:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PLBY 💧 Capital Return
+Repurchases 16.6M shares from Fortress at $1.05; $17.4M total
+Mcap $175M · EV $324M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1803914/000162828026044510/ply-20260618.htm</link>
+      <guid isPermaLink="false">0001628280-26-044510</guid>
+      <pubDate>Mon, 22 Jun 2026 08:30:30 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>negotiated_repurchase</category>
+    </item>
     <item>
       <title>$CITLF 🤝 Merger · Preliminary
 Acquires WA engineering business; close June 2026
@@ -3996,15 +4006,6 @@ Mcap $17M · EV $47M · Comms</title>
       <pubDate>Tue, 09 Jun 2026 08:39:04 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$AXIN 🤝 Merger
-Merging with Terra Quantum AG; SPAC vote pending
-Mcap $284M · EV $284M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2057030/000121390026066551/ea0294077-8k425_axiom1.htm</link>
-      <guid isPermaLink="false">0001213900-26-066551</guid>
-      <pubDate>Tue, 09 Jun 2026 08:32:19 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
