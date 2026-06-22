@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 20:24:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:24:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ELLO 🪙 Debt Restr.
+Seeks court approval to cut Series D conversion price from NIS165 to NIS75.95
+Mcap $272M · EV $989M · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/946394/000121390026070629/ea0295523-6k_ellomay.htm</link>
+      <guid isPermaLink="false">0001213900-26-070629</guid>
+      <pubDate>Mon, 22 Jun 2026 15:24:34 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$OPTU 💧 Capital Return · Self-tender
 Self-tender for up to 120M shares; $300M cash cap; lawsuit disclosed
@@ -3954,15 +3963,6 @@ Mcap $4.4B · EV $7.3B · Industrials</title>
       <guid isPermaLink="false">0001445546-26-004302</guid>
       <pubDate>Tue, 09 Jun 2026 15:49:36 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$VXRT ⚔️ Proxy
-Faces proxy contest; Concerned Stockholders nominate 3 directors for 2026 AGM
-Mcap $150M · EV $101M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/72444/000092189526001582/dfan14a14596002_06092026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001582</guid>
-      <pubDate>Tue, 09 Jun 2026 15:41:20 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
