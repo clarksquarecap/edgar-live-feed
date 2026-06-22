@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 20:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:49:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LOKV 📉 Delisting · Forced
+Forced Nasdaq delisting effective June 22
+Mcap $325M · EV $324M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2048951/000135445726000605/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000605</guid>
+      <pubDate>Mon, 22 Jun 2026 15:49:12 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$PSA 🤝 Merger
 Acquires PS Canada Holdings for $1.2B cash+units
@@ -3947,16 +3957,6 @@ Mcap $98M · Healthcare</title>
       <guid isPermaLink="false">0000921895-26-001584</guid>
       <pubDate>Tue, 09 Jun 2026 16:20:24 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$NLOP 🤝 Merger
-Acquisition proxy supplement filed; shareholder vote pending
-empty
-Mcap $176M · EV $132M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1952976/000195297626000038/nlop2026proxy-definitivead.htm</link>
-      <guid isPermaLink="false">0001952976-26-000038</guid>
-      <pubDate>Tue, 09 Jun 2026 16:19:57 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>

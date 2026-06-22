@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 20:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:49:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · LOKV</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2048951/000135445726000605/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000605</guid>
+      <pubDate>Mon, 22 Jun 2026 15:49:12 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <ns0:headline>Forced Nasdaq delisting effective June 22</ns0:headline>
+      <ns0:shortName>Nasdaq Stock Market</ns0:shortName>
+      <ns0:price>11.32</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective June 22&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Live Oak Acquisition Corp. V's units are being removed from Nasdaq listing effective June 22, 2026, under Rule 12d2-2(a)(3) for redemption. This final delisting action follows the redemption of the SPAC's securities, likely after a failed business combination or liquidation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; As of June 19, 2026, Live Oak Acquisition Corp. V was acquired by Teamshares Inc., in a reverse merger transaction. Live Oak Acquisition Corp. V does not have significant operations. It intends to effect a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2024 and is based in Memphis, Tennessee.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-22&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $11.32 · Mkt cap $325.4M · EV $324.3M · Fwd EV/EBITDA 7.3x · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2048951/000135445726000605/0001354457-26-000605-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LOKV, LOKVU, LOKVW&lt;/b&gt; · 25-NSE · Retail — Misc (5900) · prefill_form:25-NSE · filed 2026-06-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · PSA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1393311/000119312526277592/d28234d8k.htm</link>
@@ -9410,24 +9429,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.70 · Mkt cap $98.4M · EV $-45.2M · Fwd EV/EBITDA 1.7x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1726445/000092189526001584/0000921895-26-001584-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SEER&lt;/b&gt; · DFAN14A · Instruments / Medical Devices (3826) · prefill_form:DFAN14A · filed 2026-06-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · NLOP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1952976/000195297626000038/nlop2026proxy-definitivead.htm</link>
-      <guid isPermaLink="false">0001952976-26-000038</guid>
-      <pubDate>Tue, 09 Jun 2026 16:19:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>DEFA14A</category>
-      <ns0:headline>Acquisition proxy supplement filed; shareholder vote pending</ns0:headline>
-      <ns0:shortName>Net Lease Office Properties</ns0:shortName>
-      <ns0:price>11.90</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Acquisition proxy supplement filed; shareholder vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Filed definitive additional materials in connection with its pending acquisition. The supplement provides updated information for shareholders to vote on the proposed merger.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Net Lease Office Properties is a publicly traded real estate investment trust that owns a portfolio of high-quality, single-tenant properties located in the U.S. and net leased to corporate tenants operating across a variety of industries. Net Lease Office Properties is based in New York, United States.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; empty&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $11.90 · Mkt cap $176.3M · EV $131.5M · Real Estate / Office REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1952976/000195297626000038/0001952976-26-000038-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NLOP&lt;/b&gt; · DEFA14A · Holding / Investment Offices (6798) · prefill_form:DEFA14A · filed 2026-06-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
