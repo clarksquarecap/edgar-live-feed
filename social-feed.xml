@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 12:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:49:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNS 💧 Capital Return · Buyback
+Buys back 6M shares (27% of float) in negotiated transaction; 32.6M shares removed in 8 days
+Mcap $42M · EV $74M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847806/000149315226029506/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-029506</guid>
+      <pubDate>Mon, 22 Jun 2026 07:49:41 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$MIDD 🪓 Spinoff
 Spins off Midera Food Processing; 1:1 distribution, record June 26, distribution July 6
@@ -4005,15 +4015,6 @@ Mcap $1.5B · EV $1.6B · Materials</title>
       <pubDate>Tue, 09 Jun 2026 06:45:40 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$LSTA 🎯 Tender
-Tender offer delayed; Kuva Labs lacks committed financing; outside date extended
-Mcap $31M · EV $18M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126024560/ef20075787_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-024560</guid>
-      <pubDate>Tue, 09 Jun 2026 06:32:45 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
