@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 21:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:19:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ZTO 🤝 Merger
+Acquires remaining 36.2% of TuXi Tech for RMB2.30/sh
+RMB1,305.3 million deal · cash
+Mcap $17B · EV $16B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1677250/000110465926076469/tm2618493d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-076469</guid>
+      <pubDate>Mon, 22 Jun 2026 16:19:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NANO 🤝 Merger
 Acquires Forge Nano via SPAC merger; S-4/A filed
@@ -3994,15 +4005,6 @@ Mcap $302M · EV $339M · Tech</title>
       <guid isPermaLink="false">0001683168-26-004672</guid>
       <pubDate>Wed, 10 Jun 2026 05:12:51 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$WF 💧 Capital Return
-Cancels 5.99M treasury shares (~200B KRW); scheduled June 18
-Mcap $14B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1264136/000119312526264816/d287034d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-264816</guid>
-      <pubDate>Wed, 10 Jun 2026 05:10:56 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
     </item>
   </channel>
 </rss>
