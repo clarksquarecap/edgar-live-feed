@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 16:04:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 16:11:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GRML 🤝 Merger
+Acquires 9.9% of AnorTech for 12.4M shares; 6-mo option for 25.2M more
+stock · close 2026-06-22
+Mcap $39M · EV $29M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1907223/000121390026070477/ea0295319-8k_greenland.htm</link>
+      <guid isPermaLink="false">0001213900-26-070477</guid>
+      <pubDate>Mon, 22 Jun 2026 11:11:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TWO 👀 Activist
 Reaffirms $12.50/share cash offer for TWO; urges vote against CCM merger
@@ -3998,15 +4009,6 @@ Mcap $20B · EV $16B · Tech</title>
       <pubDate>Tue, 09 Jun 2026 15:07:50 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$FRMI 👀 Activist
-Neugebauer calls special meeting for June 30; seeks agent designations
-Mcap $3.7B · EV $3.9B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026066781/ea0294194-dfan14a_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-066781</guid>
-      <pubDate>Tue, 09 Jun 2026 15:07:01 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
