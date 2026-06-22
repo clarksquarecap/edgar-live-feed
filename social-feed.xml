@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 11:06:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 11:13:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CRH 🤝 Merger
+Acquires Arcosa for $150 cash per share
+cash
+Mcap $74B · EV $93B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/849395/000119312526276686/d864737d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-276686</guid>
+      <pubDate>Mon, 22 Jun 2026 06:13:24 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$INCY ⚖️ Litigation · Settled
 Settles CMS litigation over Opzelura rebates; $246M benefit
@@ -3976,15 +3987,6 @@ Mcap $271M · EV $272M · Financials</title>
       <guid isPermaLink="false">0001213900-26-066422</guid>
       <pubDate>Tue, 09 Jun 2026 05:05:18 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$GDV ⚔️ Proxy
-Faces proxy contest from Saba Capital; Glass Lewis backs board slate
-Mcap $241M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1260729/000182912626006195/gabellidividend_defa14a.htm</link>
-      <guid isPermaLink="false">0001829126-26-006195</guid>
-      <pubDate>Mon, 08 Jun 2026 16:27:42 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
