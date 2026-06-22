@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 11:06:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 11:06:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$INCY ⚖️ Litigation · Settled
+Settles CMS litigation over Opzelura rebates; $246M benefit
+Mcap $20B · EV $16B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/879169/000087916926000046/incy-20260622.htm</link>
+      <guid isPermaLink="false">0000879169-26-000046</guid>
+      <pubDate>Mon, 22 Jun 2026 06:06:47 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$NXT 🤝 Merger
 Acquires Zimmermann PV-Steel for up to €330M cash+stock
@@ -3974,16 +3984,6 @@ Mcap $241M · Real Estate</title>
       <link>https://www.sec.gov/Archives/edgar/data/1260729/000182912626006195/gabellidividend_defa14a.htm</link>
       <guid isPermaLink="false">0001829126-26-006195</guid>
       <pubDate>Mon, 08 Jun 2026 16:27:42 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$GCO ⚔️ Proxy
-Faces proxy contest from Radoff-Jumana group for 2 board seats at AGM
-8.7 stake
-Mcap $412M · EV $960M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/18498/000092189526001577/prec14a09076076_06082026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001577</guid>
-      <pubDate>Mon, 08 Jun 2026 16:20:53 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
