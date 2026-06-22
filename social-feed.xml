@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 10:09:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:10:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LOKV 🤝 Merger
+Shareholders approve merger with Teamshares; close expected this week
+close June 2026
+Mcap $325M · EV $324M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2048951/000121390026070289/ea0295057-8k_liveoak5.htm</link>
+      <guid isPermaLink="false">0001213900-26-070289</guid>
+      <pubDate>Mon, 22 Jun 2026 05:10:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MDA 🤝 Merger
 Acquires Blue Canyon Technologies for $620M cash; close end-2026
@@ -3970,15 +3981,6 @@ Mcap $3.3B · EV $3.9B · Cons Disc</title>
       <pubDate>Mon, 08 Jun 2026 15:39:44 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>accelerated_share_repurchase</category>
-    </item>
-    <item>
-      <title>$SVAC 🤝 Merger
-Amends General Fusion merger; SAFE holders granted vote on arrangement
-Mcap $320M · EV $320M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2074850/000110465926071410/tm2617090d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-071410</guid>
-      <pubDate>Mon, 08 Jun 2026 15:38:27 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
