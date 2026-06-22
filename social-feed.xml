@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 20:14:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:16:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SPRO ⚖️ Litigation · Won
+FDA approves Utebzi for cUTIs; first oral carbapenem
+Mcap $132M · EV $78M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1701108/000119312526277506/d51395d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-277506</guid>
+      <pubDate>Mon, 22 Jun 2026 15:16:27 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
     <item>
       <title>$SKIN ⚖️ Litigation · Settled
 Settles securities class action for $18M; pays $3M, insurers $15M
@@ -3962,16 +3972,6 @@ Mcap $4.4B · EV $7.3B · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1282850/000144554626004309/defa14a.htm</link>
       <guid isPermaLink="false">0001445546-26-004309</guid>
       <pubDate>Tue, 09 Jun 2026 15:40:10 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$INGR 🤝 Merger
-Acquires Tate &amp; Lyle for 595p cash/share (~$3.6B)
-cash
-Mcap $6.3B · EV $7.2B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1046257/000162828026041921/ingr-20260608.htm</link>
-      <guid isPermaLink="false">0001628280-26-041921</guid>
-      <pubDate>Tue, 09 Jun 2026 15:33:06 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
