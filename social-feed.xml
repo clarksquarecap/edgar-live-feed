@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 20:06:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:06:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ACA 🤝 Merger
+Acquired by CRH for $150/share cash; $8.5B EV
+25% prem · cash · close Q1 2027
+Mcap $6.7B · EV $8.1B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1739445/000110465926076360/tm2618443d1_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-076360</guid>
+      <pubDate>Mon, 22 Jun 2026 15:06:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FRMI 👀 Activist
 Fights former CEO's consent solicitation; urges WHITE revocation card
@@ -3980,15 +3991,6 @@ Mcap $903M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1531031/000110465926071840/tm2617366d1_8k.htm</link>
       <guid isPermaLink="false">0001104659-26-071840</guid>
       <pubDate>Tue, 09 Jun 2026 15:16:00 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$VRME 🤝 Merger
-Amends merger agreement with Open World; revises share definition
-Mcap $9M · EV $6M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1104038/000121465926007274/i68261425.htm</link>
-      <guid isPermaLink="false">0001214659-26-007274</guid>
-      <pubDate>Tue, 09 Jun 2026 15:15:42 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
