@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 12:07:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:08:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CWAN 🤝 Merger
+Acquired by GT Silver BidCo; FIRB approved; close Q2
+close Q2 2026
+Mcap $7.2B · EV $8.0B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1866368/000119312526276714/d92654d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-276714</guid>
+      <pubDate>Mon, 22 Jun 2026 07:08:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OLOX 🤝 Merger
 Acquires CS Digital Ventures for $30M upfront + earnout
@@ -4003,15 +4014,6 @@ Mcap $356M · EV $355M · Financials</title>
       <guid isPermaLink="false">0001213900-26-066515</guid>
       <pubDate>Tue, 09 Jun 2026 05:17:38 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$FRMI ⚔️ Proxy
-Solicits proxies for special meeting; June 30
-Mcap $3.7B · EV $3.9B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026066514/ea0294073-dfan14a_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-066514</guid>
-      <pubDate>Tue, 09 Jun 2026 05:17:13 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
