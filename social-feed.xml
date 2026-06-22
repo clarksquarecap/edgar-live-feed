@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 10:06:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:06:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FTHM 🤝 Merger
+Acquired by Bed Bath &amp; Beyond; shareholder vote required
+Mcap $21M · EV $41M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1753162/000162828026044461/fthminternaleml-425filing1.htm</link>
+      <guid isPermaLink="false">0001628280-26-044461</guid>
+      <pubDate>Mon, 22 Jun 2026 05:06:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GNK 🎯 Tender
 Receives increased $27.34/share tender offer from Diana Shipping (cash+stock)
@@ -3969,16 +3979,6 @@ Mcap $43M · EV $59M · Comms</title>
       <pubDate>Mon, 08 Jun 2026 15:15:10 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$UCB 🤝 Merger
-Acquires Peach State for $31.75 cash or 0.8978 UCB shares; vote July 21
-Peach State Bancshares · cash+stk
-Mcap $4.0B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/857855/000110465926071375/tm2615408-3_s4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-071375</guid>
-      <pubDate>Mon, 08 Jun 2026 15:14:14 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
