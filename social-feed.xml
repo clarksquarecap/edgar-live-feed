@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 20:41:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:41:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SLGB 💧 Capital Return · Recap
+Proposes dual-class share structure and share consolidation; vote July 10
+Mcap $31M · EV $33M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987189/000121390026070650/ea0295377-6k_smart.htm</link>
+      <guid isPermaLink="false">0001213900-26-070650</guid>
+      <pubDate>Mon, 22 Jun 2026 15:41:55 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
     <item>
       <title>$LOOP 👀 Activist
 Adds activist nominee Jeffrey Geygan to board; vote July 23
@@ -3946,16 +3956,6 @@ Mcap $29M · EV $74M · Industrials</title>
       <guid isPermaLink="false">0001193125-26-264013</guid>
       <pubDate>Tue, 09 Jun 2026 16:13:11 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$LKFT 💧 Capital Return · Buyback
-€50M buyback authorization; program through Dec 2026
-Mcap $1.9B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1421876/000117184326004009/f6k_060926.htm</link>
-      <guid isPermaLink="false">0001171843-26-004009</guid>
-      <pubDate>Tue, 09 Jun 2026 16:04:52 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
