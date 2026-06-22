@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 20:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:14:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · ORGN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1802457/000180245726000032/orgnform25.htm</link>
+      <guid isPermaLink="false">0001802457-26-000032</guid>
+      <pubDate>Mon, 22 Jun 2026 15:14:00 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>25</category>
+      <ns0:headline>Voluntary delisting from Nasdaq effective June 22</ns0:headline>
+      <ns0:shortName>Origin Materials</ns0:shortName>
+      <ns0:price>1.01</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Voluntary delisting from Nasdaq effective June 22&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Voluntarily delisted its common stock from Nasdaq, effective June 22, 2026. The company filed Form 25 under Rule 12d2-2(c) for voluntary withdrawal of listing and registration. Shares will trade on OTC markets going forward.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Origin Materials, Inc., together with its subsidiaries, engages in the polyethylene terephthalate (PET) closures business in California. It offers PET closure technology and products. The company was founded in 2008 and is headquartered in West Sacramento, California.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-22&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.01 · Mkt cap $6.0M · EV $-3.8M · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1802457/000180245726000032/0001802457-26-000032-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ORGN, ORGNW&lt;/b&gt; · 25 · Chemicals / Pharma (2860) · prefill_form:25 · filed 2026-06-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · HCAT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1636422/000110465926076342/primary_doc.xml</link>
@@ -9400,23 +9419,6 @@
 &lt;p&gt;&lt;i&gt;Px $24.03 · Mkt cap $1.08B · EV $1.35B · Fwd P/E 15.9x · Fwd EV/EBITDA 7.0x · Industrials / Marine Transportation&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1326200/000110465926071859/0001104659-26-071859-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GNK&lt;/b&gt; · SC TO-T/A · Water Transportation (4412) · prefill_form:SC TO-T · filed 2026-06-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚱️ Liquidation · GETR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1839608/000119312526263774/d62341ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-263774</guid>
-      <pubDate>Tue, 09 Jun 2026 15:23:44 -0500</pubDate>
-      <category>LIQUIDATION</category>
-      <category>DEFA14A</category>
-      <ns0:headline>Board approves dissolution under DGCL Section 275; special meeting to be called</ns0:headline>
-      <ns0:shortName>Getaround</ns0:shortName>
-      <description>&lt;p&gt;&lt;b&gt;Board approves dissolution under DGCL Section 275; special meeting to be called&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Getaround's board determined to dissolve the company under Delaware law and approved a plan of distribution. The dissolution requires stockholder approval at a forthcoming special meeting. The company previously sold its European business to GoMore for approximately €31.5 million and secured $3 million in wind-down financing from Mudrick Capital, which has committed to support the dissolution.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Getaround, Inc. operates as an online car rental service company. The company enables cars and trucks sharing through its cloud and in-car Connect technology. It operates in Chicago, Los Angeles, San Francisco, Las Vegas, Denver, Boston, Austin, and Oakland. Getaround, Inc. is based in San Francisco, California.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-05&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Mkt cap $10K · Industrials / Ground Transportation&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1839608/000119312526263774/0001193125-26-263774-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GETR&lt;/b&gt; · DEFA14A · Auto Repair (7510) · prefill_form:DEFA14A · filed 2026-06-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
