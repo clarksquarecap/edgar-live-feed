@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 20:14:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:14:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SKIN ⚖️ Litigation · Settled
+Settles securities class action for $18M; pays $3M, insurers $15M
+Mcap $86M · EV $251M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818093/000162828026044620/skin-20260617.htm</link>
+      <guid isPermaLink="false">0001628280-26-044620</guid>
+      <pubDate>Mon, 22 Jun 2026 15:14:22 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$ORGN 📉 Delisting · Voluntary
 Voluntary delisting from Nasdaq effective June 22
@@ -3973,16 +3983,6 @@ Mcap $17M · EV $24M · Industrials</title>
       <guid isPermaLink="false">0001493152-26-027939</guid>
       <pubDate>Tue, 09 Jun 2026 15:32:46 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender
-All-cash tender offer at $24.80/share; ISS recommends vote against poison pill
-Diana Shipping · cash · close 2026-06-26
-Mcap $1.1B · EV $1.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926071859/tm2612953d37_sctota.htm</link>
-      <guid isPermaLink="false">0001104659-26-071859</guid>
-      <pubDate>Tue, 09 Jun 2026 15:32:05 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
