@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 20:34:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:34:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CAR ⚖️ Litigation · Settled
+Settles Section 16(b) lawsuit for $650M cash; court approval pending
+Mcap $6.7B · EV $34B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/723612/000072361226000032/car-20260619.htm</link>
+      <guid isPermaLink="false">0000723612-26-000032</guid>
+      <pubDate>Mon, 22 Jun 2026 15:34:16 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$WTRG 🤝 Merger
 Virginia SCC approves all-stock merger with American Water; close Q1 2027
@@ -3945,15 +3955,6 @@ Mcap $59M · EV $60M · Cons Stpl</title>
       <pubDate>Tue, 09 Jun 2026 16:04:13 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$D 🤝 Merger
-Merges with NextEra Energy; close in 12-18 months
-Mcap $58B · EV $115B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000119312526263912/d22592d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-263912</guid>
-      <pubDate>Tue, 09 Jun 2026 15:50:34 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
