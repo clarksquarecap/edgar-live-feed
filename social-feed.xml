@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 10:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 10:12:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EXYN 🪙 Debt Restr.
+Enters forbearance with Evergreen; pays $1.42M + 100K shares
+Mcap $53M · EV $58M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1960355/000110465926075928/tm2618314d2_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-075928</guid>
+      <pubDate>Mon, 22 Jun 2026 05:12:22 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$PSKY 🤝 Merger
 Clears Canadian, South Africa regulatory hurdles for WBD merger
@@ -3973,16 +3982,6 @@ Mcap $6M · EV $478M · Healthcare</title>
       <pubDate>Mon, 08 Jun 2026 16:06:43 -0500</pubDate>
       <category>INSOLVENCY</category>
       <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$NPAC 🤝 Merger
-Merges with Abra Financial at $750M; to list as ABRX
-Abra Financial Holdings · $750 million deal · stock · close Summer 2026
-Mcap $397M · EV $397M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2048948/000121390026066335/ea0294016-425_newprovidence3.htm</link>
-      <guid isPermaLink="false">0001213900-26-066335</guid>
-      <pubDate>Mon, 08 Jun 2026 16:06:23 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
