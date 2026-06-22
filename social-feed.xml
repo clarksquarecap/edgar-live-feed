@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 12:23:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:23:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MIDD 🪓 Spinoff
+Spins off Midera Food Processing; 1:1 distribution, record June 26, distribution July 6
+Mcap $7.5B · EV $9.2B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/769520/000119312526276741/d887362d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-276741</guid>
+      <pubDate>Mon, 22 Jun 2026 07:23:34 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$MFP 🪓 Spinoff
 Spun off from Middleby; 1:1 distribution; Nasdaq listing July 7
@@ -4004,16 +4013,6 @@ Mcap $31M · EV $18M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126024560/ef20075787_8k.htm</link>
       <guid isPermaLink="false">0001140361-26-024560</guid>
       <pubDate>Tue, 09 Jun 2026 06:32:45 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$NUVL 🎯 Tender
-Acquired by GSK for $124/share cash; tender offer and merger
-cash
-Mcap $7.0B · EV $5.7B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1861560/000119312526262950/d137459d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-262950</guid>
-      <pubDate>Tue, 09 Jun 2026 06:19:32 -0500</pubDate>
       <category>TENDER_OFFER</category>
     </item>
   </channel>
