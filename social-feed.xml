@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 11:47:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 11:47:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SEM 📦 Going Private
+Supplements proxy for June 26 going-private vote; addresses shareholder lawsuits
+Mcap $2.1B · EV $5.4B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1320414/000110465926076085/tm2618429d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-076085</guid>
+      <pubDate>Mon, 22 Jun 2026 06:47:43 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$APGE 🤝 Merger
 Acquired by AbbVie for $135.11/share cash; close by Dec 18
@@ -4001,16 +4010,6 @@ Mcap $5.0B · Financials</title>
       <guid isPermaLink="false">0001299709-26-000044</guid>
       <pubDate>Tue, 09 Jun 2026 05:09:30 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$BIYA 📤 Divestiture
-Sells Juxing subsidiary to Shengshi for $2M cash
-$2,000,000 deal
-Mcap $16M · EV $15M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1944712/000121390026066409/ea0294022-6k_baiya.htm</link>
-      <guid isPermaLink="false">0001213900-26-066409</guid>
-      <pubDate>Tue, 09 Jun 2026 05:07:55 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
