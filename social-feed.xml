@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 20:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:06:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FRMI 👀 Activist
+Fights former CEO's consent solicitation; urges WHITE revocation card
+Toby Neugebauer
+Mcap $5.0B · EV $5.3B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026070601/ea0295478-defa14a_fermi.htm</link>
+      <guid isPermaLink="false">0001213900-26-070601</guid>
+      <pubDate>Mon, 22 Jun 2026 15:06:23 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$GRML 🤝 Merger
 Acquires 9.9% of AnorTech for 12.4M shares; 6-mo option for 25.2M more
@@ -3980,16 +3990,6 @@ Mcap $9M · EV $6M · Tech</title>
       <guid isPermaLink="false">0001214659-26-007274</guid>
       <pubDate>Tue, 09 Jun 2026 15:15:42 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$WIT 💧 Capital Return · Self-tender
-Offers ₹15,000cr self-tender for 5.72% of shares at ₹250 each
-Mcap $20B · EV $16B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1123799/000119312526263728/d72170dcba.htm</link>
-      <guid isPermaLink="false">0001193125-26-263728</guid>
-      <pubDate>Tue, 09 Jun 2026 15:15:24 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
