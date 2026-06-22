@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 21:19:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:19:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SAFX 📤 Divestiture
+Sells Southern Energy to XCF for 35% of XCF stock; appoints 2 directors
+Mcap $122M · EV $376M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2019793/000210657226000002/primary_doc.xml</link>
+      <guid isPermaLink="false">0002106572-26-000002</guid>
+      <pubDate>Mon, 22 Jun 2026 16:19:41 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$ZTO 🤝 Merger
 Acquires remaining 36.2% of TuXi Tech for RMB2.30/sh
@@ -3994,16 +4003,6 @@ Mcap $11B · EV $27B · Comms</title>
       <link>https://www.sec.gov/Archives/edgar/data/2041610/000110465926072030/tm2610616d4_8k.htm</link>
       <guid isPermaLink="false">0001104659-26-072030</guid>
       <pubDate>Wed, 10 Jun 2026 05:14:26 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$FWDI 🤝 Merger
-Proposes all-stock acquisition of Brera Holdings at $7.19/sh; rejected
-30.7% prem · stock
-Mcap $302M · EV $339M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/38264/000168316826004672/forward_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-004672</guid>
-      <pubDate>Wed, 10 Jun 2026 05:12:51 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
