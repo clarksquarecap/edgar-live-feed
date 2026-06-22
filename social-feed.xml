@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 21:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:18:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NANO 🤝 Merger
+Acquires Forge Nano via SPAC merger; S-4/A filed
+cash+stk
+Mcap $1.8B · EV $1.8B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2101833/000110465926076467/none-20260618xs4a.htm</link>
+      <guid isPermaLink="false">0001104659-26-076467</guid>
+      <pubDate>Mon, 22 Jun 2026 16:18:49 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NHIC 🤝 Merger
 Acquires NewCleo Ltd. in $2.4B SPAC merger; close within weeks
@@ -3992,15 +4003,6 @@ Mcap $14B · Financials</title>
       <guid isPermaLink="false">0001193125-26-264816</guid>
       <pubDate>Wed, 10 Jun 2026 05:10:56 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
-    </item>
-    <item>
-      <title>$PBMLF 💥 Busted M&amp;A
-Hostile bid by American Eagle Gold terminated; strategic review continues
-Mcap $31M · EV $31M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1319150/000121716026000052/pacificbookerjune820266-k.htm</link>
-      <guid isPermaLink="false">0001217160-26-000052</guid>
-      <pubDate>Wed, 10 Jun 2026 05:10:07 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
