@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 21:05:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 21:11:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NHIC 🤝 Merger
+Acquires NewCleo Ltd. in $2.4B SPAC merger; close within weeks
+cash+stk
+Mcap $304M · EV $303M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2043699/000095010326009292/dp248747_425-pm.htm</link>
+      <guid isPermaLink="false">0000950103-26-009292</guid>
+      <pubDate>Mon, 22 Jun 2026 16:11:59 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ORC 💧 Capital Return · Buyback
 Increases buyback authorization to 26.6M shares (13.3% of outstanding)
@@ -3990,16 +4001,6 @@ Mcap $31M · EV $31M · Materials</title>
       <guid isPermaLink="false">0001217160-26-000052</guid>
       <pubDate>Wed, 10 Jun 2026 05:10:07 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$AXIA 💧 Capital Return · Recap
-Redeems up to BRL 4B in PNC preferred shares; conversion option at 1:1
-Mcap $28B · EV $39B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1439124/000129281426003406/axia20260609_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-003406</guid>
-      <pubDate>Wed, 10 Jun 2026 05:08:48 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
