@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 13:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:30:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$PLBY 💧 Capital Return
@@ -3996,16 +3996,6 @@ Mcap $3.3B · Materials</title>
       <pubDate>Tue, 09 Jun 2026 13:31:23 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>direction=won</category>
-    </item>
-    <item>
-      <title>$KWM 💧 Capital Return · Recap
-Retires 9.8M shares (~13% of outstanding) from Solaire rescission
-Mcap $17M · EV $47M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2000756/000182912626006222/kwavemedia_6k.htm</link>
-      <guid isPermaLink="false">0001829126-26-006222</guid>
-      <pubDate>Tue, 09 Jun 2026 08:39:04 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
