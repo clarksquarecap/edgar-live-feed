@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 14:53:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:00:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TWO 👀 Activist
+Reaffirms $12.50/share cash offer for TWO; urges vote against CCM merger
+Mcap $1.3B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1465740/000178339826000104/pressrelease-june222026.htm</link>
+      <guid isPermaLink="false">0001783398-26-000104</guid>
+      <pubDate>Mon, 22 Jun 2026 10:00:12 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$TWO 👀 Activist
 Urges TWO vote AGAINST CCM merger; offers $12.50 cash or 2.3328 UWMC shares
@@ -3998,15 +4007,6 @@ Mcap $3.7B · EV $3.9B · Real Estate</title>
       <guid isPermaLink="false">0001213900-26-066781</guid>
       <pubDate>Tue, 09 Jun 2026 15:07:01 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$LOKV 🤝 Merger
-Discloses $10.55 trust redemption, forward purchase pact for Teamshares merger
-Mcap $303M · EV $302M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2048951/000121390026066769/ea0294056-8k_liveoak5.htm</link>
-      <guid isPermaLink="false">0001213900-26-066769</guid>
-      <pubDate>Tue, 09 Jun 2026 15:00:11 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
