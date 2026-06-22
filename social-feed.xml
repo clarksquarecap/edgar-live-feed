@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 22:32:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 22:38:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SMHI 👀 Activist
+Urges board to explore sale or asset monetization to close NAV discount
+7.19 stake
+Mcap $181M · EV $471M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1690334/000092189526001643/primary_doc.xml</link>
+      <guid isPermaLink="false">0000921895-26-001643</guid>
+      <pubDate>Mon, 22 Jun 2026 17:38:27 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$VXRT ⚔️ Proxy
 Faces proxy contest from Concerned Vaxart Stockholders; AGM 2026
@@ -4002,16 +4012,6 @@ Mcap $9M · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-067085</guid>
       <pubDate>Wed, 10 Jun 2026 07:05:52 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$LSTA 🎯 Tender
-Receives $4.00 cash + up to $3.00 CVR tender from Kuva Labs; expires July 10
-$36.4M cash (plus up to $27.3M CVR) deal · cash
-Mcap $31M · EV $18M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126024731/ny20068687x1_sctot.htm</link>
-      <guid isPermaLink="false">0001140361-26-024731</guid>
-      <pubDate>Wed, 10 Jun 2026 07:05:36 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
