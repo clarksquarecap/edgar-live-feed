@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 11:27:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 11:27:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ACA 🤝 Merger
+Acquired by CRH Americas for $150 cash per share
+cash
+Mcap $6.7B · EV $8.1B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1739445/000173944526000112/aca-20260621.htm</link>
+      <guid isPermaLink="false">0001739445-26-000112</guid>
+      <pubDate>Mon, 22 Jun 2026 06:27:44 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TWO 🤝 Merger
 Urges vote FOR $12.00/sh cash merger with CCM; UWMC hasn't submitted superior proposal
@@ -3989,16 +4000,6 @@ Mcap $16M · EV $15M · Industrials</title>
       <guid isPermaLink="false">0001213900-26-066409</guid>
       <pubDate>Tue, 09 Jun 2026 05:07:55 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$RAAQ 🤝 Merger
-Acquires IQM Finland in de-SPAC; proxy mailed, vote pending
-IQM Finland Oy
-Mcap $251M · EV $251M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2052161/000121390026066452/ea0293900-8k425_real.htm</link>
-      <guid isPermaLink="false">0001213900-26-066452</guid>
-      <pubDate>Tue, 09 Jun 2026 05:06:46 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
