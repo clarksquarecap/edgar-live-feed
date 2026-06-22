@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 22 Jun 2026 20:34:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:41:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LOOP 👀 Activist
+Adds activist nominee Jeffrey Geygan to board; vote July 23
+5.85 stake
+Mcap $40M · EV $41M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1504678/000114036126025970/ny20076504x1_defa14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-025970</guid>
+      <pubDate>Mon, 22 Jun 2026 15:41:27 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>board_addition</category>
+    </item>
     <item>
       <title>$CAR ⚖️ Litigation · Settled
 Settles Section 16(b) lawsuit for $650M cash; court approval pending
@@ -3945,16 +3956,6 @@ Mcap $1.9B · Healthcare</title>
       <pubDate>Tue, 09 Jun 2026 16:04:52 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$APUR 📉 Delisting · Forced
-Forced delisting from Nasdaq; units removed June 9
-Mcap $59M · EV $60M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2093524/000135445726000554/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000554</guid>
-      <pubDate>Tue, 09 Jun 2026 16:04:13 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
