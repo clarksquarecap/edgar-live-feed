@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 20:44:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:51:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EQH 🤝 Merger
+Merges with Corebridge Financial; 1 EQH → 1.55516 New EQH shares; vote July 30
+stock
+Mcap $13B · EV $11B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1333986/000119312526279668/d115497ddefm14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-279668</guid>
+      <pubDate>Tue, 23 Jun 2026 15:51:24 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GBCS 🎯 Tender
 Subject to $5.05/share cash tender offer from Black Pearl Equities; 45% premium
@@ -4094,16 +4105,6 @@ Mcap $27B · EV $26B · Cons Disc</title>
       <pubDate>Thu, 11 Jun 2026 07:20:29 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>direction=lost</category>
-    </item>
-    <item>
-      <title>$SPKL 🤝 Merger
-Acquires ZincFive for $600M stock; close H2 2026
-$600,000,000 deal · stock
-Mcap $100M · EV $103M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1884046/000110465926072635/tm2617060d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-072635</guid>
-      <pubDate>Thu, 11 Jun 2026 07:13:13 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
