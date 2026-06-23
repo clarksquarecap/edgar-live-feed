@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 16:08:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:14:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VOXR 📤 Divestiture
+Sells Federation Gold Royalty for A$8M cash; 16x ROI in &lt;4 months
+A$8,000,000 deal · close completed
+Mcap $353M · EV $337M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1907909/000165495426006123/voxr_6k.htm</link>
+      <guid isPermaLink="false">0001654954-26-006123</guid>
+      <pubDate>Tue, 23 Jun 2026 11:14:51 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$JMG 📉 Delisting · Forced
 Forced NYSE American delisting effective July 6
@@ -4064,15 +4074,6 @@ Mcap $28B · EV $39B · Utilities</title>
       <pubDate>Thu, 11 Jun 2026 05:06:48 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$SEER ⚔️ Proxy
-Faces proxy contest from Bradley Radoff / Michael Torok
-Mcap $98M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726445/000119312526266403/d97390ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-266403</guid>
-      <pubDate>Thu, 11 Jun 2026 05:06:33 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
