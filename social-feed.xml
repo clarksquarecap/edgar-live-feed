@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 10:05:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 10:06:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AUGO 💧 Capital Return · Buyback
+$200M buyback authorization; 1-year program
+Mcap $5.6B · EV $5.7B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468642/000117184326004225/f6k_062226.htm</link>
+      <guid isPermaLink="false">0001171843-26-004225</guid>
+      <pubDate>Tue, 23 Jun 2026 05:06:31 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$CSCIF 🌑 Going Dark
 Plans SEC deregistration via 150:1 reverse split + cash-out for small holders at $1.60
@@ -3992,15 +4002,6 @@ Mcap $228M · EV $228M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2029492/000121390026067149/ea0294270-8k_mountain.htm</link>
       <guid isPermaLink="false">0001213900-26-067149</guid>
       <pubDate>Wed, 10 Jun 2026 09:41:57 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$GOAI 🤝 Merger
-Signs LOI for Psquared acquisition; adds ~$50M rev
-Mcap $92M · EV $88M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1983736/000149315226028054/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028054</guid>
-      <pubDate>Wed, 10 Jun 2026 08:44:13 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
