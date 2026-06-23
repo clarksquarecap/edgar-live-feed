@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 12:45:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:45:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VALE 👀 Activist
+Faces board challenge from Previ; EGM July 22 to remove chair
+7.01% stake
+Mcap $67B · EV $84B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/917851/000129281426003567/vale20260623_6k1.htm</link>
+      <guid isPermaLink="false">0001292814-26-003567</guid>
+      <pubDate>Tue, 23 Jun 2026 07:45:37 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>board_challenge</category>
+    </item>
     <item>
       <title>$HSCS 🤝 Merger
 Acquires Fortitude Mining in reverse merger; Fortitude holders to own 95%
@@ -4033,15 +4044,6 @@ Mcap $3.8B · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/760498/000119312526266024/banf-20260610.htm</link>
       <guid isPermaLink="false">0001193125-26-266024</guid>
       <pubDate>Wed, 10 Jun 2026 16:13:59 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$NIXX 🤝 Merger
-Merges with Tachyon9 to build $1B AI infra platform; renamed TACC
-Mcap $19M · EV $17M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1462223/000168316826004709/nixxy_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-004709</guid>
-      <pubDate>Wed, 10 Jun 2026 16:05:52 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
