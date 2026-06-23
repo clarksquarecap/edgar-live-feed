@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 17:24:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 17:30:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ORLA 🤝 Merger
+Acquired by Equinox Gold; shareholder vote July 22
+Mcap $4.0B · EV $3.9B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1680056/000110465926076754/tm2618344d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-076754</guid>
+      <pubDate>Tue, 23 Jun 2026 12:30:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VOXR 📤 Divestiture
 Sells Federation Gold Royalty for A$8M cash; 16x ROI in &lt;4 months
@@ -4064,16 +4074,6 @@ Mcap $49M · EV $51M · Financials</title>
       <guid isPermaLink="false">0001829126-26-006338</guid>
       <pubDate>Thu, 11 Jun 2026 05:07:05 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$AXIA 📉 Delisting · Voluntary
-Voluntary delisting effective June 11
-Mcap $28B · EV $39B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1439124/000129281426003417/axia20260610_25.htm</link>
-      <guid isPermaLink="false">0001292814-26-003417</guid>
-      <pubDate>Thu, 11 Jun 2026 05:06:48 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
