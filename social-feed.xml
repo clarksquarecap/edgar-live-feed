@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 11:37:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 11:37:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FMC 📤 Divestiture
+Sells Newark, DE property to Ercor Elkton for $114M cash
+$114,000,000 deal · close Q4 2026
+Mcap $1.4B · EV $5.7B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/37785/000003778526000114/fmc-20260618.htm</link>
+      <guid isPermaLink="false">0000037785-26-000114</guid>
+      <pubDate>Tue, 23 Jun 2026 06:37:46 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$SHO 📤 Divestiture
 Sells Hyatt Regency San Francisco to Blackstone for $279M cash
@@ -3998,17 +4008,6 @@ Mcap $387M · EV $390M · Financials</title>
       <guid isPermaLink="false">0001213900-26-067349</guid>
       <pubDate>Wed, 10 Jun 2026 15:28:51 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$GETY ⚖️ Litigation · Lost
-Loses $67.8M warrant summary judgment; conditional on remaining
-vs Funicular Funds LP
-Mcap $313M · EV $2.2B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1898496/000121390026067331/ea0294258-8k425_getty.htm</link>
-      <guid isPermaLink="false">0001213900-26-067331</guid>
-      <pubDate>Wed, 10 Jun 2026 15:21:38 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
     </item>
   </channel>
 </rss>
