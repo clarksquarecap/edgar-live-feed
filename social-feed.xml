@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 20:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:20:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LFS 🤝 Merger
+Acquires SWIFT JAPAN for ~$2.86M cash; close July 1
+SWIFT JAPAN Co. · US$2,857,556 deal · cash · close 2026-07-01
+Mcap $57M · EV $48M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030277/000182912626006765/leifras_6k.htm</link>
+      <guid isPermaLink="false">0001829126-26-006765</guid>
+      <pubDate>Tue, 23 Jun 2026 15:20:37 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TWO 🤝 Merger
 Acquired by CrossCountry Mortgage for $12.00 cash; vote adjourned to July 2
@@ -4065,16 +4076,6 @@ Mcap $247M · EV $247M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2045473/000182912626006336/copleyacq_8k.htm</link>
       <guid isPermaLink="false">0001829126-26-006336</guid>
       <pubDate>Thu, 11 Jun 2026 05:18:54 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$EBAY 🤝 Merger
-Faces $125/share cash+stock bid from GameStop; HSR cleared
-cash+stk
-Mcap $47B · EV $51B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1065088/000119312526266212/d161390d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-266212</guid>
-      <pubDate>Thu, 11 Jun 2026 05:17:43 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
