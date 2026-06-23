@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 10:14:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 10:15:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EURK 🤝 Merger
+Amends BCA with Marine Thinking; revises post-closing directors
+Mcap $55M · EV $57M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2000410/000121390026070826/ea0295465-8k425_eureka.htm</link>
+      <guid isPermaLink="false">0001213900-26-070826</guid>
+      <pubDate>Tue, 23 Jun 2026 05:15:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CSCIF 📦 Going Private
 Going private via reverse split; $1.60 cash-out for small holders; effective July 3
@@ -4003,16 +4013,6 @@ Mcap $278M · EV $279M · Financials</title>
       <guid isPermaLink="false">0001193125-26-265584</guid>
       <pubDate>Wed, 10 Jun 2026 13:12:49 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$PCOK 🪙 Debt Restr.
-Bondholders approve subsidiary debt restructure; extends maturity to June 2028, interest 11%-11.5%
-Mcap $108M · EV $970M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1452936/000145293626000037/pacoaksor-20260605.htm</link>
-      <guid isPermaLink="false">0001452936-26-000037</guid>
-      <pubDate>Wed, 10 Jun 2026 10:48:22 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>amend_and_extend</category>
     </item>
   </channel>
 </rss>
