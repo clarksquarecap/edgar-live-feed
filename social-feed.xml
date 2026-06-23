@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 20:29:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:36:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SDM 📉 Delisting · Forced
+Forced Nasdaq delisting effective June 26; appeal deadline June 24
+Mcap $59M · EV $59M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2014955/000121390026071137/ea0295699-6k_smart.htm</link>
+      <guid isPermaLink="false">0001213900-26-071137</guid>
+      <pubDate>Tue, 23 Jun 2026 15:36:08 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$DEVS 📉 Delisting · Forced
 Forced Nasdaq delisting effective June 24
@@ -4090,16 +4100,6 @@ Mcap $146B · EV $167B · Industrials</title>
       <guid isPermaLink="false">0000950142-26-001733</guid>
       <pubDate>Thu, 11 Jun 2026 05:45:39 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$DAN 🤝 Merger
-Combines with Eaton's Vehicle and eMobility segments
-Eaton Corporation
-Mcap $3.8B · EV $5.0B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/26780/000119312526266654/d114836d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-266654</guid>
-      <pubDate>Thu, 11 Jun 2026 05:45:17 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
