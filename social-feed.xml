@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 12:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:10:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DXLG 🎯 Tender · Unsolicited
+Tender offer extended to July 24; $0.84/share cash by Zodiac Partners II
+$47M deal · cash · close July 2026
+Mcap $37M · EV $234M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/813298/000149315226029708/formsctota.htm</link>
+      <guid isPermaLink="false">0001493152-26-029708</guid>
+      <pubDate>Tue, 23 Jun 2026 07:10:34 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$GALT 🔎 Strat Review · Strat Alts
 Exploring strategic partnerships after positive FDA meeting for belapectin
@@ -3998,16 +4009,6 @@ Mcap $215M · EV $28M · Healthcare</title>
       <pubDate>Wed, 10 Jun 2026 15:37:45 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$FRMI ⚔️ Proxy
-Seeks special meeting to elect 7 directors, remove 3 incumbents and force strategic review
-22.7% stake
-Mcap $3.7B · EV $3.9B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026067352/ea0294314-defc14a_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-067352</guid>
-      <pubDate>Wed, 10 Jun 2026 15:37:21 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
