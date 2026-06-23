@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 20:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:28:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GME 🤝 Merger · Preliminary
+Reaffirms eBay acquisition at $125/share; withdraws CEO award
+cash+stk
+Mcap $9.5B · EV $5.5B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326380/000132638026000029/gme-20260623.htm</link>
+      <guid isPermaLink="false">0001326380-26-000029</guid>
+      <pubDate>Tue, 23 Jun 2026 15:28:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$TWO 🤝 Merger
 Adjourns special meeting for CCM acquisition; vote pending
@@ -4077,16 +4088,6 @@ Mcap $3.8B · EV $5.0B · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/26780/000119312526266654/d114836d8k.htm</link>
       <guid isPermaLink="false">0001193125-26-266654</guid>
       <pubDate>Thu, 11 Jun 2026 05:45:17 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$COPL 🤝 Merger
-Merges with Ignite Proteomics in $150M de-SPAC; $10/sh base
-$150,000,000 deal · stock
-Mcap $247M · EV $247M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2045473/000182912626006336/copleyacq_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-006336</guid>
-      <pubDate>Thu, 11 Jun 2026 05:18:54 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
