@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 20:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:10:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · ORGN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1802457/000135445726000608/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000608</guid>
+      <pubDate>Tue, 23 Jun 2026 15:10:38 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <ns0:headline>Warrants delisted from Nasdaq; effective June 23</ns0:headline>
+      <ns0:shortName>Origin Materials</ns0:shortName>
+      <ns0:price>1.01</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Warrants delisted from Nasdaq; effective June 23&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Nasdaq filed Form 25-NSE to remove Origin Materials' warrants from listing and registration, effective June 23, 2026, under Rule 12d2-2(a)(2). The warrants will cease trading on Nasdaq.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Origin Materials, Inc., together with its subsidiaries, engages in the polyethylene terephthalate (PET) closures business in California. It offers PET closure technology and products. The company was founded in 2008 and is headquartered in West Sacramento, California.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nasdaq Stock Market LLC&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.01 · Mkt cap $6.0M · EV $-3.8M · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1802457/000135445726000608/0001354457-26-000608-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ORGN, ORGNW&lt;/b&gt; · 25-NSE · Chemicals / Pharma (2860) · prefill_form:25-NSE · filed 2026-06-23&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · ITRMF</title>
       <link>https://www.sec.gov/Archives/edgar/data/1659323/000135445726000607/primary_doc.xml</link>
@@ -9457,25 +9476,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.00 · Mkt cap $1.8M · Consumer Discretionary / Distributors&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1627041/000149315226028211/0001493152-26-028211-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VCOR&lt;/b&gt; · 15-12G · Business Services (7372) · prefill_form:15-12G · filed 2026-06-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · RAMP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/733269/000110465926072541/tm2614904d12_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-072541</guid>
-      <pubDate>Thu, 11 Jun 2026 05:16:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>DEFA14A</category>
-      <ns0:headline>Acquired by Publicis; vote pending</ns0:headline>
-      <ns0:shortName>LiveRamp Holdings</ns0:shortName>
-      <ns0:price>37.67</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Publicis; vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is being acquired by Publicis Groupe in a pending transaction expected to close by year-end. A shareholder vote is being solicited via proxy materials. The deal is subject to regulatory and shareholder approvals.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; LiveRamp Holdings, Inc., a technology company, operates a data collaboration platform in the United States, Europe, the Asia-Pacific, and internationally. The company operates LiveRamp Data Collaboration platform that enables an organization to unify customers and prospect data to build a single view of the customer in a way that protects consumer privacy.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Publicis Groupe&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026 year-end&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $37.67 · Mkt cap $2.26B · EV $1.91B · Fwd P/E 13.3x · Fwd EV/EBITDA 9.4x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/733269/000110465926072541/0001104659-26-072541-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RAMP&lt;/b&gt; · DEFA14A · Business Services (7374) · prefill_form:DEFA14A · filed 2026-06-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
