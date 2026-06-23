@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 12:46:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:53:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SGMO 🔥 Insolvency · Ch. 11
+Files Chapter 11; Lilly stalking horse $50M, Astellas for Fabry
+Mcap $72M · EV $64M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1001233/000119312526278582/d161847d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-278582</guid>
+      <pubDate>Tue, 23 Jun 2026 07:53:07 -0500</pubDate>
+      <category>INSOLVENCY</category>
+      <category>chapter_11</category>
+    </item>
     <item>
       <title>$VALE ⚔️ Proxy
 Faces proxy contest to remove director Stieler; EGM July 22
@@ -4035,16 +4045,6 @@ Mcap $171M · EV $1.6B · Real Estate</title>
       <guid isPermaLink="false">0001398344-26-010705</guid>
       <pubDate>Wed, 10 Jun 2026 16:21:01 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender
-Rebutted Diana's $24.80/sh tender; proxy vote June 17
-Diana Shipping · cash
-Mcap $1.1B · EV $1.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000093041326001829/c116669_sc14d9a.htm</link>
-      <guid isPermaLink="false">0000930413-26-001829</guid>
-      <pubDate>Wed, 10 Jun 2026 16:20:44 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
