@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 12:53:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:59:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$QUBT 🤝 Merger
+Acquires NHanced Semiconductors for $68.1M cash + $5M stock; closed same day
+$73.1M base + up to $72M earnout deal · cash+stk · close 2026-06-22
+Mcap $2.4B · EV $1.4B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1758009/000121390026070872/ea0295466-8k_quantum.htm</link>
+      <guid isPermaLink="false">0001213900-26-070872</guid>
+      <pubDate>Tue, 23 Jun 2026 07:59:34 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SGMO 🔥 Insolvency · Ch. 11
 Files Chapter 11; Lilly stalking horse $50M, Astellas for Fabry
@@ -4036,15 +4047,6 @@ Mcap $171M · EV $1.6B · Real Estate</title>
       <guid isPermaLink="false">0001574085-26-000098</guid>
       <pubDate>Wed, 10 Jun 2026 16:35:21 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BHR ⚔️ Proxy
-Solicits proxies for AGM; contests board seats
-Mcap $171M · EV $1.6B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000139834426010705/fp0099374-1_dfan14a.htm</link>
-      <guid isPermaLink="false">0001398344-26-010705</guid>
-      <pubDate>Wed, 10 Jun 2026 16:21:01 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
