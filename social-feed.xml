@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 11:37:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 11:37:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SHO 📤 Divestiture
+Sells Hyatt Regency San Francisco to Blackstone for $279M cash
+to Blackstone Real Estate · $279 million deal
+Mcap $2.2B · EV $3.3B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1295810/000110465926076640/sho-20260623x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-076640</guid>
+      <pubDate>Tue, 23 Jun 2026 06:37:34 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$PHI ✂️ Carve-out
 Subsidiary VITRO REIT files for PSE Main Board listing; IPO proposed
@@ -3999,15 +4009,6 @@ Mcap $313M · EV $2.2B · Comms</title>
       <pubDate>Wed, 10 Jun 2026 15:21:38 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>lost</category>
-    </item>
-    <item>
-      <title>$MTWO 💥 Busted M&amp;A
-Disputes Volato's termination of Merger Agreement
-Mcap $12M · EV $12M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1753373/000149315226028104/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028104</guid>
-      <pubDate>Wed, 10 Jun 2026 15:21:22 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
