@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 12:45:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:45:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VALE ⚔️ Proxy
+Faces proxy contest to remove director Stieler; EGM July 22
+Mcap $67B · EV $84B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/917851/000129281426003566/vale20260623_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-003566</guid>
+      <pubDate>Tue, 23 Jun 2026 07:45:52 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$VALE 👀 Activist
 Faces board challenge from Previ; EGM July 22 to remove chair
@@ -4036,15 +4045,6 @@ Mcap $1.1B · EV $1.3B · Industrials</title>
       <guid isPermaLink="false">0000930413-26-001829</guid>
       <pubDate>Wed, 10 Jun 2026 16:20:44 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$BANF 🤝 Merger
-Acquires SpiritBank ($939.6M assets); close Q4 2026
-Mcap $3.8B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/760498/000119312526266024/banf-20260610.htm</link>
-      <guid isPermaLink="false">0001193125-26-266024</guid>
-      <pubDate>Wed, 10 Jun 2026 16:13:59 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
