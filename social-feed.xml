@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 20:44:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:44:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TMHC 🤝 Merger
+Acquired by Berkshire Hathaway for $72.50 cash; vote July 22
+24% prem · ~$6.67B deal · cash · close Q3 2026
+Mcap $6.7B · EV $8.5B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1562476/000119312526279627/d57916ddefm14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-279627</guid>
+      <pubDate>Tue, 23 Jun 2026 15:44:20 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FSEA 🤝 Merger
 Acquired by Cambridge for $17.25 cash; vote Aug 27
@@ -4092,16 +4103,6 @@ Mcap $629M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/717538/000071753826000090/arow-20260609.htm</link>
       <guid isPermaLink="false">0000717538-26-000090</guid>
       <pubDate>Thu, 11 Jun 2026 07:06:33 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$BCAR 🤝 Merger
-Acquires Exascale Labs via stock merger; S-4/A filed
-stock
-Mcap $435M · EV $435M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2065779/000182912626006354/dboralarcacq_s4a.htm</link>
-      <guid isPermaLink="false">0001829126-26-006354</guid>
-      <pubDate>Thu, 11 Jun 2026 06:45:34 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
