@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 10:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 10:24:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GORO 🤝 Merger
+Acquired by Goldgroup Mining for 1.4476 shares per GORO; vote July 2
+stock
+Mcap $212M · EV $181M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1160791/000110465926076546/tm2617515d4_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-076546</guid>
+      <pubDate>Tue, 23 Jun 2026 05:24:59 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GRAF 🤝 Merger
 Merges with BIG3 HoldCo at $290M SPAC deal; to list TONT
@@ -3997,15 +4008,6 @@ Mcap $111M · EV $111M · Financials</title>
       <pubDate>Wed, 10 Jun 2026 15:05:45 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$FRMI 👀 Activist
-Calls special meeting of shareholders; vote June 30
-Mcap $3.7B · EV $3.9B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026067309/ea0294383-dfan14a_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-067309</guid>
-      <pubDate>Wed, 10 Jun 2026 15:05:15 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
