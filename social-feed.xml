@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 21:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:30:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CPRX 🤝 Merger
@@ -4108,17 +4108,6 @@ Mcap $310M · EV $291M · Energy</title>
       <pubDate>Thu, 11 Jun 2026 14:20:54 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$MLAC 📉 Delisting · Forced
-Forced Nasdaq delisting; trading to cease within 10 days
-effective 2026-06-21
-Mcap $228M · EV $228M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2029492/000135445726000567/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000567</guid>
-      <pubDate>Thu, 11 Jun 2026 14:14:29 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
