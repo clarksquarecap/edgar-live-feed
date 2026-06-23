@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 10:24:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 10:25:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FRMI ⚔️ Proxy
+Solicits agent designations for special meeting; proxy contest
+Mcap $5.0B · EV $5.3B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026070838/ea0295608-dfan14a_toby.htm</link>
+      <guid isPermaLink="false">0001213900-26-070838</guid>
+      <pubDate>Tue, 23 Jun 2026 05:25:19 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+      <category>proxy_contest</category>
+    </item>
     <item>
       <title>$GORO 🤝 Merger
 Acquired by Goldgroup Mining for 1.4476 shares per GORO; vote July 2
@@ -3997,17 +4007,6 @@ Mcap $55M · EV $57M · Financials</title>
       <guid isPermaLink="false">0001213900-26-067308</guid>
       <pubDate>Wed, 10 Jun 2026 15:06:37 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$VACH 📉 Delisting · Forced
-Delisted from Nasdaq effective June 10
-effective 2026-06-10
-Mcap $111M · EV $111M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2006815/000135445726000558/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000558</guid>
-      <pubDate>Wed, 10 Jun 2026 15:05:45 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
