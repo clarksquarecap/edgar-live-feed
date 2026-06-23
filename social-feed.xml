@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 10:06:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 10:07:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LPG 📤 Divestiture
+Sells three VLGCs for $256M; orders one newbuilding for $115M
+$256 million deal · close Q4 2026
+Mcap $1.7B · EV $2.1B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1596993/000159699326000028/lpg-20260623x8k.htm</link>
+      <guid isPermaLink="false">0001596993-26-000028</guid>
+      <pubDate>Tue, 23 Jun 2026 05:07:04 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$AUGO 💧 Capital Return · Buyback
 $200M buyback authorization; 1-year program
@@ -3993,16 +4003,6 @@ Mcap $108M · EV $970M · Real Estate</title>
       <pubDate>Wed, 10 Jun 2026 10:48:22 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
       <category>amend_and_extend</category>
-    </item>
-    <item>
-      <title>$MLAC 🤝 Merger
-Postpones EGM to June 16 for extension vote; Avalanche merger pending
-Avalanche Treasury
-Mcap $228M · EV $228M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2029492/000121390026067149/ea0294270-8k_mountain.htm</link>
-      <guid isPermaLink="false">0001213900-26-067149</guid>
-      <pubDate>Wed, 10 Jun 2026 09:41:57 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
