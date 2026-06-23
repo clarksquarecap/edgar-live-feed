@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 21:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:30:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ENTA ⚖️ Litigation · Lost
+Lost patent appeal; Federal Circuit affirms invalidity of '953 patent
+vs Pfizer
+Mcap $368M · EV $327M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1177648/000119312526279803/d133783d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-279803</guid>
+      <pubDate>Tue, 23 Jun 2026 16:30:56 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>lost</category>
+    </item>
     <item>
       <title>$AXTA 🤝 Merger
 Merger of equals with AkzoNobel; SEC declares F-4 effective
@@ -4099,16 +4110,6 @@ Mcap $169B · EV $167B · Tech</title>
       <guid isPermaLink="false">0001193125-26-267514</guid>
       <pubDate>Thu, 11 Jun 2026 15:14:55 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$FITB 📉 Delisting · Voluntary
-Voluntarily delists from Nasdaq effective June 11
-Mcap $47B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/35527/000119312526267509/d132955d25.htm</link>
-      <guid isPermaLink="false">0001193125-26-267509</guid>
-      <pubDate>Thu, 11 Jun 2026 15:12:57 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
