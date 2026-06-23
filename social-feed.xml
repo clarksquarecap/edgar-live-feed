@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 20:44:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:44:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GBCS 🎯 Tender
+Subject to $5.05/share cash tender offer from Black Pearl Equities; 45% premium
+45 prem · cash · close 2026-05-11
+Mcap $10M · EV $26M · Real Estate</title>
+      <link>https://www.prnewswire.com/news-releases/black-pearl-commences-tender-offer-for-selectis-health-inc-302710426.html</link>
+      <guid isPermaLink="false">OTC-525978</guid>
+      <pubDate>Tue, 23 Jun 2026 15:44:44 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$TMHC 🤝 Merger
 Acquired by Berkshire Hathaway for $72.50 cash; vote July 22
@@ -4093,16 +4103,6 @@ Mcap $100M · EV $103M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1884046/000110465926072635/tm2617060d1_8k.htm</link>
       <guid isPermaLink="false">0001104659-26-072635</guid>
       <pubDate>Thu, 11 Jun 2026 07:13:13 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$AROW 🤝 Merger
-Acquires Adirondack Bancorp; all approvals received, close July 1
-close 2026-07-01
-Mcap $629M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/717538/000071753826000090/arow-20260609.htm</link>
-      <guid isPermaLink="false">0000717538-26-000090</guid>
-      <pubDate>Thu, 11 Jun 2026 07:06:33 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
