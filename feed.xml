@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 20:28:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:29:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · DEVS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1854480/000114036126026092/ef20076666_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-026092</guid>
+      <pubDate>Tue, 23 Jun 2026 15:29:13 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>8-K</category>
+      <ns0:headline>Forced Nasdaq delisting effective June 24</ns0:headline>
+      <ns0:shortName>DevvStream</ns0:shortName>
+      <ns0:price>0.1500</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective June 24&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received Nasdaq delisting determination for non-compliance with the $1.00 bid price rule and net income rule. Trading will be suspended at the open on June 24, 2026; shares expected to move to OTC Pink under DEVS. The company intends to appeal to the Listing Council, but the suspension is not stayed.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; DevvStream Corp. engages in the development and monetization of environmental assets in Canada. The company offers energy transition and carbon management solutions, as well as blockchain technology for carbon credit generating projects. It is also involved in the project development of EV charging stations and networks. The company is headquartered in Vancouver, Canada.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-06-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.1500 · Mkt cap $7.6M · EV $13.9M · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1854480/000114036126026092/0001140361-26-026092-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DEVS&lt;/b&gt; · 8-K · Items 3.01 · Holding / Investment Offices (6799) · 8k_tier1:3.01 · filed 2026-06-23&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · GME</title>
       <link>https://www.sec.gov/Archives/edgar/data/1326380/000132638026000029/gme-20260623.htm</link>
@@ -9466,20 +9485,6 @@
 &lt;p&gt;&lt;i&gt;Px $35.47 · Mkt cap $3.84B · EV $4.96B · Fwd P/E 11.5x · Fwd EV/EBITDA 5.8x · Consumer Discretionary / Automobile Components&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/26780/000119312526266654/0001193125-26-266654-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DAN&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Transportation Equipment (3714) · 8k_tier1:7.01 · filed 2026-06-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · TPTA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1674356/000110465926072549/tm2617568d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-072549</guid>
-      <pubDate>Thu, 11 Jun 2026 05:19:40 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>8-K</category>
-      <ns0:headline>Extends exchange offer for 6.00% notes; new 11.00% secured notes + cash</ns0:headline>
-      <ns0:shortName>Terra Property</ns0:shortName>
-      <description>&lt;p&gt;&lt;b&gt;Extends exchange offer for 6.00% notes; new 11.00% secured notes + cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Extended its exchange offer for its 6.00% Senior Notes due June 30, 2026, offering 11.00% Senior Secured Notes due July 1, 2027 plus cash to address the imminent maturity. Approximately $35.8 million (65.7% of outstanding principal) has indicated interest. Cash flow projections reveal a potential liquidity shortfall if participation is low, underscoring the distressed nature of the exchange.&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1674356/000110465926072549/0001104659-26-072549-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TPTA&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Holding / Investment Offices (6798) · 8k_tier1:7.01,8.01 · filed 2026-06-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
