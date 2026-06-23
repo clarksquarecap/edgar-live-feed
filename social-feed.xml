@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 21:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:31:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PRA 🤝 Merger
+All regulatory approvals received; merger closing June 26
+The Doctors · close 2026-06-26
+Mcap $1.3B · EV $1.7B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1127703/000112770326000024/pra-20260623.htm</link>
+      <guid isPermaLink="false">0001127703-26-000024</guid>
+      <pubDate>Tue, 23 Jun 2026 16:31:13 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ENTA ⚖️ Litigation · Lost
 Lost patent appeal; Federal Circuit affirms invalidity of '953 patent
@@ -4100,16 +4111,6 @@ Mcap $595M · EV $876M · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-072936</guid>
       <pubDate>Thu, 11 Jun 2026 15:16:46 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$WDC 📤 Divestiture
-Exchanges 1.04M Sandisk shares for WDC stock; close June 22
-to institutional investors · close 2026-06-22
-Mcap $169B · EV $167B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/106040/000119312526267514/d83915d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-267514</guid>
-      <pubDate>Thu, 11 Jun 2026 15:14:55 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
