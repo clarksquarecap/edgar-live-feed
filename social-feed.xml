@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 12:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:10:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OPIRQ 🔄 Post-Reorg
+Emerges from Chapter 11; issues $420M exit notes
+Mcap $374M · EV $1.3B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1456772/000110465926076652/tm2618043d2_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-076652</guid>
+      <pubDate>Tue, 23 Jun 2026 07:10:48 -0500</pubDate>
+      <category>POST_REORG</category>
+    </item>
     <item>
       <title>$DXLG 🎯 Tender · Unsolicited
 Tender offer extended to July 24; $0.84/share cash by Zodiac Partners II
@@ -3999,16 +4008,6 @@ Mcap $123M · EV $123M · Financials</title>
       <guid isPermaLink="false">0001140361-26-024796</guid>
       <pubDate>Wed, 10 Jun 2026 15:45:10 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$QSI 📉 Delisting · Forced
-Warrants removed from Nasdaq listing
-Mcap $215M · EV $28M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1816431/000135445726000560/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000560</guid>
-      <pubDate>Wed, 10 Jun 2026 15:37:45 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
