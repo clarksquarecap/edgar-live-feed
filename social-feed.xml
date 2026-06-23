@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 15:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 15:42:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$JMG 📉 Delisting · Forced
+Forced NYSE American delisting effective July 6
+effective 2026-07-06
+Mcap $2.2B · EV $2.2B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2049717/000114331326000035/primary_doc.xml</link>
+      <guid isPermaLink="false">0001143313-26-000035</guid>
+      <pubDate>Tue, 23 Jun 2026 10:42:53 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$SVAC 🤝 Merger
 Acquires General Fusion in business combination; vote July 6
@@ -4062,15 +4073,6 @@ Mcap $98M · Healthcare</title>
       <guid isPermaLink="false">0001193125-26-266403</guid>
       <pubDate>Thu, 11 Jun 2026 05:06:33 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$KSMCF 💥 Busted M&amp;A
-Terminates CAD 1.4M acquisition of Samson Metals
-Mcap $8M · EV $8M · Energy</title>
-      <link>https://au.marketscreener.com/news/kirkstone-metals-updates-gorilla-lake-and-key-lake-road-permitting-and-terminates-samson-metals-acqu-ce7f5cdbdf8af624</link>
-      <guid isPermaLink="false">OTC-524631</guid>
-      <pubDate>Wed, 10 Jun 2026 17:20:59 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
