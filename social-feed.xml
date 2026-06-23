@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 12:38:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 12:38:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EQS 👀 Activist
+Faces Horberg activist campaign ahead of June 30 AGM
+Howard Todd Horberg · 5.61 stake
+Mcap $17M · EV $19M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/878932/000109991026000220/primary_doc.xml</link>
+      <guid isPermaLink="false">0001099910-26-000220</guid>
+      <pubDate>Tue, 23 Jun 2026 07:38:40 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>public_letter</category>
+    </item>
     <item>
       <title>$CCRN 🤝 Merger
 Merger with KL Criss Cross clears HSR; vote July 16
@@ -4021,16 +4032,6 @@ Mcap $19M · EV $17M · Industrials</title>
       <guid isPermaLink="false">0001683168-26-004709</guid>
       <pubDate>Wed, 10 Jun 2026 16:05:52 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$GNK ⚔️ Proxy
-Diana withdraws 4 nominees, leaving 2 for June 18 vote
-Diana Shipping
-Mcap $1.1B · EV $1.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000093041326001827/c116665_defa14a.htm</link>
-      <guid isPermaLink="false">0000930413-26-001827</guid>
-      <pubDate>Wed, 10 Jun 2026 16:04:42 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
