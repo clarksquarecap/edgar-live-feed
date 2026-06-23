@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 10:58:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 11:05:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FCFS 🤝 Merger
+Acquires Ramsdens Holdings for 609p cash/share; close H2 2026
+cash
+Mcap $9.8B · EV $12B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/840489/000110465926076623/tm2618455d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-076623</guid>
+      <pubDate>Tue, 23 Jun 2026 06:05:06 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FRMI ⚔️ Proxy
 Solicits agent designations for special meeting; proxy contest
@@ -3998,15 +4009,6 @@ Mcap $20B · EV $16B · Tech</title>
       <pubDate>Wed, 10 Jun 2026 15:13:00 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$EURK 🤝 Merger
-Extends business combination deadline to July 3, 2026; merger with Marine Thinking
-Mcap $55M · EV $57M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2000410/000121390026067308/ea0294302-8k425_eureka.htm</link>
-      <guid isPermaLink="false">0001213900-26-067308</guid>
-      <pubDate>Wed, 10 Jun 2026 15:06:37 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
