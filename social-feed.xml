@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 14:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 14:20:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TDAC 🤝 Merger
+85% of shares not redeemed; $156.8M trust for ProLogium merger
+ProLogium Holding
+Mcap $263M · EV $263M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1926599/000110465926076684/tm2618552d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-076684</guid>
+      <pubDate>Tue, 23 Jun 2026 09:20:10 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GALKF 🤝 Merger
 Acquires Sol de Oro Mining for US$32.5M cash+stock; Andacollo Gold Project
@@ -4058,16 +4069,6 @@ Mcap $1.2B · EV $1.2B · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1606498/000110465926072432/tm2614353-2_defm14a.htm</link>
       <guid isPermaLink="false">0001104659-26-072432</guid>
       <pubDate>Wed, 10 Jun 2026 16:49:08 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$XOMA 🤝 Merger
-Acquired by Ligand Pharmaceuticals for $39/sh cash + CVR; vote July 13
-cash
-Mcap $526M · EV $585M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/791908/000119312526266069/d137792ddefm14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-266069</guid>
-      <pubDate>Wed, 10 Jun 2026 16:48:52 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
