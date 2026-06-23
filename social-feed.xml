@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 20:37:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 20:44:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FSEA 🤝 Merger
+Acquired by Cambridge for $17.25 cash; vote Aug 27
+46.9% prem · $80.9M deal · cash
+Mcap $73M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1943802/000119312526279596/d155500dprem14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-279596</guid>
+      <pubDate>Tue, 23 Jun 2026 15:44:05 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$UUUU 🤝 Merger
 Acquires Vacuumschmelze GmbH &amp; Co. KG from Ara Partners
@@ -4091,15 +4102,6 @@ Mcap $435M · EV $435M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2065779/000182912626006354/dboralarcacq_s4a.htm</link>
       <guid isPermaLink="false">0001829126-26-006354</guid>
       <pubDate>Thu, 11 Jun 2026 06:45:34 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$OGN 🤝 Merger
-Acquired by Sun Pharma; proxy filed; vote near future
-Mcap $3.5B · EV $11B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1821825/000119312526266707/d141679ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-266707</guid>
-      <pubDate>Thu, 11 Jun 2026 06:45:16 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
