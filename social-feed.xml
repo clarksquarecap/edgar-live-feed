@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 14:52:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 14:58:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SVAC 🤝 Merger
+Acquires General Fusion in business combination; vote July 6
+stock
+Mcap $317M · EV $316M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2074850/000110465926076693/tm2618558d1_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-076693</guid>
+      <pubDate>Tue, 23 Jun 2026 09:58:41 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TDAC 🤝 Merger
 85% of shares not redeemed; $156.8M trust for ProLogium merger
@@ -4060,16 +4071,6 @@ Mcap $8M · EV $8M · Energy</title>
       <guid isPermaLink="false">OTC-524631</guid>
       <pubDate>Wed, 10 Jun 2026 17:20:59 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$AVNS 🤝 Merger
-Acquired by American Industrial Partners for $25.00 cash per share; vote July 22
-cash · close Q3 2026
-Mcap $1.2B · EV $1.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1606498/000110465926072432/tm2614353-2_defm14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-072432</guid>
-      <pubDate>Wed, 10 Jun 2026 16:49:08 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
