@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 10:15:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 10:16:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GRAF 🤝 Merger
+Merges with BIG3 HoldCo at $290M SPAC deal; to list TONT
+close 2026
+Mcap $310M · EV $311M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1897463/000110465926076571/tm2618324d5_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-076571</guid>
+      <pubDate>Tue, 23 Jun 2026 05:16:12 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EURK 🤝 Merger
 Amends BCA with Marine Thinking; revises post-closing directors
@@ -4004,15 +4015,6 @@ Mcap $119M · EV $148M · Healthcare</title>
       <guid isPermaLink="false">0001214659-26-007314</guid>
       <pubDate>Wed, 10 Jun 2026 14:52:30 -0500</pubDate>
       <category>RIGHTS_ISSUE</category>
-    </item>
-    <item>
-      <title>$TDAC 🤝 Merger
-Merging with SPAC TDAC in de-SPAC business combination
-Mcap $278M · EV $279M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1926599/000119312526265584/d150334d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-265584</guid>
-      <pubDate>Wed, 10 Jun 2026 13:12:49 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
