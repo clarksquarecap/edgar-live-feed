@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 21:14:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:22:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PAYO 🤝 Merger
+Acquired by Nuvei for $7.40 cash per share (~$2.75B); close mid-2027
+44% prem · $2.75 billion deal · cash
+Mcap $2.4B · EV $2.1B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1845815/000095010326009386/dp248742_defa14a.htm</link>
+      <guid isPermaLink="false">0000950103-26-009386</guid>
+      <pubDate>Tue, 23 Jun 2026 16:22:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DXLG 🎯 Tender · Unsolicited
 Unsolicited bid raised to $0.84/share by Camac Fund
@@ -4096,17 +4107,6 @@ Mcap $4.2B · EV $5.5B · Industrials</title>
       <guid isPermaLink="false">0000930413-26-001842</guid>
       <pubDate>Thu, 11 Jun 2026 13:29:44 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$KALV 📉 Delisting · Forced
-Forced Nasdaq delisting effective June 11
-effective 2026-06-11
-Mcap $1.4B · EV $1.4B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1348911/000135445726000565/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000565</guid>
-      <pubDate>Thu, 11 Jun 2026 09:27:52 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
