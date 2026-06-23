@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 23 Jun 2026 21:30:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:30:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AXTA 🤝 Merger
+Merger of equals with AkzoNobel; SEC declares F-4 effective
+Akzo Nobel · stock
+Mcap $7.3B · EV $9.9B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1616862/000095010326009390/dp248841_425.htm</link>
+      <guid isPermaLink="false">0000950103-26-009390</guid>
+      <pubDate>Tue, 23 Jun 2026 16:30:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CPRX 🤝 Merger
 Acquired by Angelini Pharma; HSR waiting period terminated early; vote pending
@@ -4098,16 +4109,6 @@ Mcap $47B · Financials</title>
       <pubDate>Thu, 11 Jun 2026 15:12:57 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$PNRG 💧 Capital Return · Buyback
-Authorizes repurchase of 300k shares (18.5% of outstanding)
-Mcap $310M · EV $291M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/56868/000143774926020279/pnrg20260611_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-020279</guid>
-      <pubDate>Thu, 11 Jun 2026 14:20:54 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
