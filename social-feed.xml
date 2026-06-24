@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 20:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:33:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MSW 💧 Capital Return · Recap
+Creates dual-class structure; founder gets 100 votes/share
+Mcap $17M · EV $24M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1956166/000149315226029933/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-029933</guid>
+      <pubDate>Wed, 24 Jun 2026 15:33:59 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
     <item>
       <title>$KOYN 🤝 Merger · Preliminary
 Reaffirms LOI with First Digital Group for business combination
@@ -4074,16 +4084,6 @@ Mcap $3.5B · EV $7.8B · Real Estate</title>
       <link>https://www.sec.gov/Archives/edgar/data/1618563/000119312526269503/d92293ddefm14a.htm</link>
       <guid isPermaLink="false">0001193125-26-269503</guid>
       <pubDate>Fri, 12 Jun 2026 15:31:14 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$CAHO 🤝 Merger
-Acquires 49% stake in Goldrange Tanzania gold assets for $10M stock; framework for 100%
-Goldrange Resources · $10M stock + $1M drilling funding deal · stock · close June 30, 2026
-Mcap $15M · EV $17M · Comms</title>
-      <link>https://www.wallstreet-online.de/nachricht/20997920-caro-holdings-announces-asset-purchase-and-framework-for-acquisition-of-goldrange-resources-corp</link>
-      <guid isPermaLink="false">OTC-524907</guid>
-      <pubDate>Fri, 12 Jun 2026 15:24:37 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
