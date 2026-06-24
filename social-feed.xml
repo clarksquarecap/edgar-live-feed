@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 10:03:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 10:04:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GBCS 📦 Going Private
+Acquired by Black Pearl Equities for $5.75 cash per share
+Black Pearl Equities II · cash
+Mcap $10M · EV $26M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/727346/000149315226029837/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-029837</guid>
+      <pubDate>Wed, 24 Jun 2026 05:04:26 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$ASR 🤝 Merger · Preliminary
 Proposes internalization of technical assistance via merger; Ps.10 dividend
@@ -4104,16 +4114,6 @@ Mcap $3.8B · EV $5.0B · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/26780/000119312526267630/d71897d8k.htm</link>
       <guid isPermaLink="false">0001193125-26-267630</guid>
       <pubDate>Thu, 11 Jun 2026 15:39:54 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$UCB 🤝 Merger
-Acquires Peach State Bancshares for $31.75 cash or 0.8978 shares; election July 20
-cash+stk · close Q3 2026
-Mcap $4.0B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/857855/000085785526000050/a425peachstateshletter06.htm</link>
-      <guid isPermaLink="false">0000857855-26-000050</guid>
-      <pubDate>Thu, 11 Jun 2026 15:38:39 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
