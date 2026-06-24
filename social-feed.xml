@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 19:54:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:01:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IONS ⚖️ Litigation · Won
+FDA approves TRYNGOLZA (olezarsen) for sHTG; first approved therapy to reduce acute pancreatitis risk
+Mcap $13B · EV $13B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/874015/000114036126026232/ef20076807_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-026232</guid>
+      <pubDate>Wed, 24 Jun 2026 15:01:20 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
     <item>
       <title>$GEBRF 🪙 Debt Restr.
 Proposes amendments to CAD $1.0M debenture; maturity to 2028, conversion price to C$1.00
@@ -4090,16 +4100,6 @@ Mcap $82M · EV $81M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2010653/000182912626006424/futurevision2_s4a.htm</link>
       <guid isPermaLink="false">0001829126-26-006424</guid>
       <pubDate>Fri, 12 Jun 2026 10:49:42 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$IBCP 🤝 Merger
-Receives regulatory approvals for HCB acquisition; vote pending
-HCB Financial
-Mcap $728M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/39311/000003931126000051/ibcp-20260611.htm</link>
-      <guid isPermaLink="false">0000039311-26-000051</guid>
-      <pubDate>Fri, 12 Jun 2026 10:17:37 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
