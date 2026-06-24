@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 14:43:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:50:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CC ⚖️ Litigation · Settled
+Settled EPA PFAS claims for $112.5M; court approval pending
+vs EPA, WVDEP
+Mcap $3.0B · EV $6.8B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1627223/000162722326000017/cc-20260624.htm</link>
+      <guid isPermaLink="false">0001627223-26-000017</guid>
+      <pubDate>Wed, 24 Jun 2026 09:50:05 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$GSK 🤝 Merger
 Acquires Nuvalent for $124/share cash; tender offer expires July 14
@@ -4090,15 +4101,6 @@ Mcap $317M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/842517/000084251726000138/isba-20260612.htm</link>
       <guid isPermaLink="false">0000842517-26-000138</guid>
       <pubDate>Fri, 12 Jun 2026 08:26:23 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$GRAF 🤝 Merger
-Acquires BIG3 HoldCo in business combination; vote pending
-Mcap $311M · EV $311M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1897463/000110465926073261/tm2617804d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-073261</guid>
-      <pubDate>Fri, 12 Jun 2026 08:25:52 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
