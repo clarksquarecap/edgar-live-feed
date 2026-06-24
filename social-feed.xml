@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 10:50:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 10:57:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CALC 🪙 Debt Restr.
+Amends loan: interest-only to Sep 2027, conversion to $3M, warrant strike $1.00
+Mcap $12M · EV $11M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1534133/000119312526280223/d40651d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-280223</guid>
+      <pubDate>Wed, 24 Jun 2026 05:57:09 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$PLD 🤝 Merger · Unsolicited
 Proposes all-share acquisition of SEGRO; board rejects; PUSU deadline July 22
@@ -4110,16 +4119,6 @@ Mcap $3.7B · EV $3.9B · Real Estate</title>
       <guid isPermaLink="false">0001213900-26-067892</guid>
       <pubDate>Thu, 11 Jun 2026 16:17:48 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$VENU 📤 Divestiture
-Sells 9.5-acre land under Ford Amphitheater to ORF for $49.7M
-to O'Neil Roth Ford · $49,700,000 deal · close Closed
-Mcap $195M · EV $374M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1770501/000149315226028302/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028302</guid>
-      <pubDate>Thu, 11 Jun 2026 16:10:41 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
