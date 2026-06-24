@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 12:02:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:09:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EXLS 🤝 Merger
+Acquires iMerit for up to $310M cash; close Q3 2026
+$310 million deal · cash
+Mcap $4.0B · EV $4.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1297989/000110465926077069/tm2618647d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-077069</guid>
+      <pubDate>Wed, 24 Jun 2026 07:09:10 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ROC 🤝 Merger
 Acquires Zuccaro Technical Consulting for $500K cash + $2.5M stock + earn-out
@@ -4122,16 +4133,6 @@ Mcap $8.6B · EV $9.0B · Tech</title>
       <link>https://www.sec.gov/Archives/edgar/data/1604778/000110465926073097/tm2613769d2_425.htm</link>
       <guid isPermaLink="false">0001104659-26-073097</guid>
       <pubDate>Fri, 12 Jun 2026 05:09:04 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$IPFX 🤝 Merger
-Merges with Quantum Space at $1.2B enterprise value; $300M PIPE
-stock
-Mcap $347M · EV $345M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2102041/000121390026067960/ea0294563-425_inflection6.htm</link>
-      <guid isPermaLink="false">0001213900-26-067960</guid>
-      <pubDate>Fri, 12 Jun 2026 05:08:48 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
