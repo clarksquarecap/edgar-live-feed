@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 11:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:24:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ROC 🤝 Merger
+Acquires Zuccaro Technical Consulting for $500K cash + $2.5M stock + earn-out
+$3M upfront plus up to $7M earn-out deal · cash+stk · close Q3 2026
+Mcap $85M · EV $69M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2077709/000121390026071294/ea0295619-8k_rankone.htm</link>
+      <guid isPermaLink="false">0001213900-26-071294</guid>
+      <pubDate>Wed, 24 Jun 2026 06:24:14 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NUVL 🎯 Tender
 Acquired by GSK for $124.00/share cash; tender offer expires July 14
@@ -4122,16 +4133,6 @@ Mcap $347M · EV $345M · Financials</title>
       <guid isPermaLink="false">0001213900-26-067960</guid>
       <pubDate>Fri, 12 Jun 2026 05:08:48 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$FRMI ⚔️ Proxy
-Faces proxy contest from Neugebauer seeking special meeting to elect 7 directors
-22.7 stake
-Mcap $3.7B · EV $3.9B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026067954/ea0291106-07.htm</link>
-      <guid isPermaLink="false">0001213900-26-067954</guid>
-      <pubDate>Fri, 12 Jun 2026 05:08:38 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
