@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 21:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:19:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SVAC 🤝 Merger
+Acquires General Fusion with $107.5M PIPE; vote July 6
+stock · close Q3 2026
+Mcap $317M · EV $316M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2074850/000110465926077355/tm2618668d1_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-077355</guid>
+      <pubDate>Wed, 24 Jun 2026 16:19:08 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FSRL 🤝 Merger
 Acquired by Colony Bankcorp for $19.75 cash or 0.94 CBAN shares; close Q4 2026
@@ -4079,16 +4090,6 @@ Mcap $358M · EV $358M · Financials</title>
       <guid isPermaLink="false">0001829126-26-006455</guid>
       <pubDate>Fri, 12 Jun 2026 16:09:41 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$ZDPY 📤 Divestiture
-Sells assets to management for $7M; special dividend $0.35-$0.45/sh expected
-to BPB Partners · $7,000,000 deal
-Mcap $7M · EV $14M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1279620/000121390026068342/ea0292007-01.htm</link>
-      <guid isPermaLink="false">0001213900-26-068342</guid>
-      <pubDate>Fri, 12 Jun 2026 16:02:41 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
