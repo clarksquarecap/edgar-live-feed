@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 21:34:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:35:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BNC 👀 Activist
+Settles with YZi Labs; appoints 3 directors, forms CEO search committee
+Mcap $97M · EV $90M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1482541/000149315226029966/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-029966</guid>
+      <pubDate>Wed, 24 Jun 2026 16:35:03 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>cooperation_agreement</category>
+    </item>
     <item>
       <title>$INVE 📤 Divestiture
 Sells IoT business to Trackonomy for $50M in Series C Preferred; remains listed on Nasdaq
@@ -4084,16 +4094,6 @@ Mcap $1.0B · EV $1.1B · Tech</title>
       <pubDate>Fri, 12 Jun 2026 16:27:43 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$NHIC 🤝 Merger
-Acquires NewCleo Ltd. in $2.448B pre-money SPAC merger; NWCL listing
-stock · close H2 2026
-Mcap $306M · EV $306M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2043699/000095010326008935/dp248413_425.htm</link>
-      <guid isPermaLink="false">0000950103-26-008935</guid>
-      <pubDate>Fri, 12 Jun 2026 16:26:42 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
