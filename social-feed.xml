@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 20:42:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:49:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ALSAF 🤝 Merger
+Merger with Xdata Group approved; closing imminent
+stock
+Mcap $50M · EV $52M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1865111/000149315226029938/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-029938</guid>
+      <pubDate>Wed, 24 Jun 2026 15:49:24 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MSW 💧 Capital Return · Recap
 Creates dual-class structure; founder gets 100 votes/share
@@ -4074,16 +4085,6 @@ Mcap $5M · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1861622/000149315226028450/form425.htm</link>
       <guid isPermaLink="false">0001493152-26-028450</guid>
       <pubDate>Fri, 12 Jun 2026 15:31:43 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$NSA 🤝 Merger
-Acquired by Public Storage for 0.14 PSA shares (~$45/NSA); vote July 14
-stock
-Mcap $3.5B · EV $7.8B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1618563/000119312526269503/d92293ddefm14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-269503</guid>
-      <pubDate>Fri, 12 Jun 2026 15:31:14 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
