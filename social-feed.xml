@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 20:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:25:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CODI ⚖️ Litigation · Settled
+Settles Lugano claims for 34.79% of net liquidation proceeds; court approval pending
+Mcap $771M · EV $3.4B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1345126/000134512626000050/codi-20260624.htm</link>
+      <guid isPermaLink="false">0001345126-26-000050</guid>
+      <pubDate>Wed, 24 Jun 2026 15:25:42 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$OBX 🤝 Merger
 Merges Galera and Obsidian; $389M equity; $350M PIPE; OBX on Nasdaq
@@ -4075,16 +4085,6 @@ Mcap $211M · Financials</title>
       <pubDate>Fri, 12 Jun 2026 15:24:13 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$CNTA 🤝 Merger
-Acquired by Eli Lilly; scheme approved; court sanction hearing June 22
-Eli Lilly and · cash
-Mcap $6.2B · EV $6.0B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847903/000119312526269474/d105373d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-269474</guid>
-      <pubDate>Fri, 12 Jun 2026 15:23:48 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
