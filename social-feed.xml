@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 12:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:09:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EVRYF 🤝 Merger
+Acquires tin royalty on Uis Mine for $32.5M cash+stock
+Orion Resource Partners · cash+stk · close H1 2026
+Mcap $103M · EV $77M · Materials</title>
+      <link>https://www.accessnewswire.com/newsroom/en/metals-and-mining/evolve-royalties-enters-into-definitive-agreement-to-acquire-a-cash-flowing-tin-r-1140400</link>
+      <guid isPermaLink="false">OTC-526063</guid>
+      <pubDate>Wed, 24 Jun 2026 07:09:23 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EXLS 🤝 Merger
 Acquires iMerit for up to $310M cash; close Q3 2026
@@ -4124,16 +4135,6 @@ Mcap $19B · EV $31B · Cons Disc</title>
       <pubDate>Fri, 12 Jun 2026 05:10:00 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$QRVO 🤝 Merger
-Skyworks reports early exchange offer results; merger pending
-Skyworks Solutions
-Mcap $8.6B · EV $9.0B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1604778/000110465926073097/tm2613769d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-073097</guid>
-      <pubDate>Fri, 12 Jun 2026 05:09:04 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
