@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 21:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:04:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CBAN 🤝 Merger
+Acquires First Reliance Bancshares for $19.75 cash or 0.94 CBAN shares per FSRL share; close Q4 2026
+cash+stk
+Mcap $446M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/711669/000110465926077342/tm2618469d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-077342</guid>
+      <pubDate>Wed, 24 Jun 2026 16:04:08 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MDV 🤝 Merger
 Acquired by GNL for 1.975 shares per MDV common; vote Aug 10
@@ -4077,16 +4088,6 @@ Mcap $311M · EV $311M · Financials</title>
       <guid isPermaLink="false">0001104659-26-073538</guid>
       <pubDate>Fri, 12 Jun 2026 15:47:41 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender
-Target of $24.80 hostile tender from Diana Shipping; proxy vote June 17
-cash
-Mcap $1.1B · EV $1.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000114036126025076/ef20076156_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-025076</guid>
-      <pubDate>Fri, 12 Jun 2026 15:47:20 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
