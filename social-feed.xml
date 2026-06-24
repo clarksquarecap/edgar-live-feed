@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 15:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 15:21:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GMHS 💧 Capital Return · Recap
+Proposes 50x voting rights for Class B shares; EGM July 10
+Mcap $51M · EV $32M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2000530/000149315226029892/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-029892</guid>
+      <pubDate>Wed, 24 Jun 2026 10:21:58 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
     <item>
       <title>$CC ⚖️ Litigation · Settled
 Settled EPA PFAS claims for $112.5M; court approval pending
@@ -4091,16 +4101,6 @@ Mcap $92M · EV $88M · Comms</title>
       <link>https://www.sec.gov/Archives/edgar/data/1983736/000149315226028382/form8-k.htm</link>
       <guid isPermaLink="false">0001493152-26-028382</guid>
       <pubDate>Fri, 12 Jun 2026 08:45:57 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$ISBA 🤝 Merger
-Acquires Grand River Commerce in stock merger; vote pending
-stock
-Mcap $317M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/842517/000084251726000138/isba-20260612.htm</link>
-      <guid isPermaLink="false">0000842517-26-000138</guid>
-      <pubDate>Fri, 12 Jun 2026 08:26:23 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
