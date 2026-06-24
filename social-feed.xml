@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 20:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:56:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MS 💧 Capital Return · Buyback
+Reauthorizes $20B buyback; dividend raised to $1.15
+Mcap $357B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/895421/000095010326009448/dp248866_8k.htm</link>
+      <guid isPermaLink="false">0000950103-26-009448</guid>
+      <pubDate>Wed, 24 Jun 2026 15:56:40 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$ADIG 🪓 Spinoff
 Spin-off from Resideo; pro-rata distribution of ADIG shares to REZI holders
@@ -4076,15 +4086,6 @@ Mcap $15M · EV $46M · Industrials</title>
       <guid isPermaLink="false">0001213900-26-068306</guid>
       <pubDate>Fri, 12 Jun 2026 15:40:06 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$MBAV 💥 Busted M&amp;A
-Terminates merger with ReserveOne; seeks extension to Aug 2027
-Mcap $387M · EV $390M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2016072/000121390026068291/ea0294556-8k425_m3brigade5.htm</link>
-      <guid isPermaLink="false">0001213900-26-068291</guid>
-      <pubDate>Fri, 12 Jun 2026 15:31:59 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
