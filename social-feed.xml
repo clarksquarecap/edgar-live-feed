@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 20:56:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:03:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MDV 🤝 Merger
+Acquired by GNL for 1.975 shares per MDV common; vote Aug 10
+Global Net Lease · stock · close Q3 2026
+Mcap $186M · EV $491M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645873/000110465926077331/tm2615734-8_defm14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-077331</guid>
+      <pubDate>Wed, 24 Jun 2026 16:03:13 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MS 💧 Capital Return · Buyback
 Reauthorizes $20B buyback; dividend raised to $1.15
@@ -4076,16 +4087,6 @@ Mcap $1.1B · EV $1.3B · Industrials</title>
       <guid isPermaLink="false">0001140361-26-025076</guid>
       <pubDate>Fri, 12 Jun 2026 15:47:20 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$AIRI 🤝 Merger
-Amends Tenax merger agreement; adjusts share count for $1.97M prepayment
-stock
-Mcap $15M · EV $46M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1009891/000121390026068306/ea0294039-8k_airindus.htm</link>
-      <guid isPermaLink="false">0001213900-26-068306</guid>
-      <pubDate>Fri, 12 Jun 2026 15:40:06 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
