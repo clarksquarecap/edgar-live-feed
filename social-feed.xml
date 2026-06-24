@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 12:57:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 13:04:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ESQ 🤝 Merger
+Acquires Signature Bancorporation; vote passed, exchange ratio set
+stock
+Mcap $946M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1531031/000110465926077082/tm2618659d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-077082</guid>
+      <pubDate>Wed, 24 Jun 2026 08:04:23 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$JTAI 🤝 Merger
 Adjourns special meeting to July 2; 48.4% votes cast, 99% in favor
@@ -4097,16 +4108,6 @@ Mcap $73B · EV $76B · Industrials</title>
       <guid isPermaLink="false">0000950103-26-008890</guid>
       <pubDate>Fri, 12 Jun 2026 07:03:19 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$DXLG 🎯 Tender
-Subject to $0.82/share cash tender offer from Zodiac Partners; expires June 22
-Zodiac Partners II · 26% prem · $46 million deal · cash · close 2026-06-22
-Mcap $40M · EV $237M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/813298/000149315226028374/formsctota.htm</link>
-      <guid isPermaLink="false">0001493152-26-028374</guid>
-      <pubDate>Fri, 12 Jun 2026 07:02:27 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
