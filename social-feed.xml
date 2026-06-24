@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 13:53:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 13:59:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CNTA 📉 Delisting · Forced
+ADS delisted by Nasdaq; effective June 24, 2026
+Mcap $6.3B · EV $6.1B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847903/000135445726000616/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000616</guid>
+      <pubDate>Wed, 24 Jun 2026 08:59:40 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$MAMO 💥 Busted M&amp;A
 Terminates FST acquisition; $4M loan from chairman for internal development
@@ -4088,16 +4098,6 @@ Mcap $159M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/895574/000110465926073236/tm2617706d1_425.htm</link>
       <guid isPermaLink="false">0001104659-26-073236</guid>
       <pubDate>Fri, 12 Jun 2026 07:52:06 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$GNRV 🤝 Merger
-Acquired by Isabella Bank for $5.72 cash or 0.1415 ISBA shares; close Q4 2026
-$54.6 million deal · cash+stk
-Mcap $30M · Financials</title>
-      <link>https://sa.marketscreener.com/news/isabella-bank-corporation-to-acquire-grand-river-commerce-inc-ce7f5cd9d88ff627</link>
-      <guid isPermaLink="false">OTC-524852</guid>
-      <pubDate>Fri, 12 Jun 2026 07:31:24 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
