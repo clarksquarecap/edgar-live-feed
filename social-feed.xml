@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 12:35:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:36:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OPRT 👀 Activist
+Settles with Radoff; two directors to retire by 2026 AGM
+Mcap $229M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1538716/000153871626000052/oprt-20260622.htm</link>
+      <guid isPermaLink="false">0001538716-26-000052</guid>
+      <pubDate>Wed, 24 Jun 2026 07:36:23 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>settlement</category>
+    </item>
     <item>
       <title>$INMD 🤝 Merger · Unsolicited
 Receives unsolicited $16.20/share cash bid from CEO-led group
@@ -4126,15 +4136,6 @@ Mcap $42B · EV $55B · Energy</title>
       <guid isPermaLink="false">0001193125-26-268413</guid>
       <pubDate>Fri, 12 Jun 2026 05:24:01 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$VALE 👀 Activist
-Faces Previ activist demand for board removal and chairman election
-Mcap $64B · EV $82B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/917851/000129281426003428/vale20260611_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-003428</guid>
-      <pubDate>Fri, 12 Jun 2026 05:23:30 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
