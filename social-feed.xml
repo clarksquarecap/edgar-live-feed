@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 21:11:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:12:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FSRL 🤝 Merger
+Acquired by Colony Bankcorp for $19.75 cash or 0.94 CBAN shares; close Q4 2026
+Colony Bankcorp (CBAN) · $163 million deal · cash+stk
+Mcap $120M · Financials</title>
+      <link>https://www.marketscreener.com/news/colony-bankcorp-inc-and-first-reliance-bancshares-inc-sign-definitive-merger-agreement-to-create-ce7f5fd8d98cf22c</link>
+      <guid isPermaLink="false">OTC-526129</guid>
+      <pubDate>Wed, 24 Jun 2026 16:12:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NOTE 🪙 Debt Restr.
 Extends forbearance on subordinated convertible debt defaults to July 21
@@ -4078,15 +4089,6 @@ Mcap $7M · EV $14M · Real Estate</title>
       <guid isPermaLink="false">0001213900-26-068342</guid>
       <pubDate>Fri, 12 Jun 2026 16:02:41 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ISBA 🤝 Merger
-Acquires Grand River Bank, $512M asset community bank
-Mcap $317M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/842517/000084251726000153/isba_grcxinternalfaqx425x0.htm</link>
-      <guid isPermaLink="false">0000842517-26-000153</guid>
-      <pubDate>Fri, 12 Jun 2026 15:54:58 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
