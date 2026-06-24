@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 12:37:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:43:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$JTAI 🤝 Merger
+Adjourns special meeting to July 2; 48.4% votes cast, 99% in favor
+flyExclusive · stock
+Mcap $10M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1861622/000149315226029874/form425.htm</link>
+      <guid isPermaLink="false">0001493152-26-029874</guid>
+      <pubDate>Wed, 24 Jun 2026 07:43:48 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OPRT 👀 Activist
 Settles with Radoff; two directors to retire by 2026 AGM
@@ -4115,16 +4126,6 @@ Mcap $290M · EV $171M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1281895/000114036126024997/ef20076119_8k.htm</link>
       <guid isPermaLink="false">0001140361-26-024997</guid>
       <pubDate>Fri, 12 Jun 2026 06:16:52 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SAFE 📤 Divestiture
-Sells 49% ground-lease JV stake to Brookfield at $348M valuation
-to Brookfield affiliate · $348 million (gross valuation) deal · close Completed
-Mcap $1.2B · EV $5.9B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1095651/000110465926073173/tm2617703d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-073173</guid>
-      <pubDate>Fri, 12 Jun 2026 06:03:03 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>
