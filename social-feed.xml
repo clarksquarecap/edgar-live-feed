@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 20:26:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:33:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KOYN 🤝 Merger · Preliminary
+Reaffirms LOI with First Digital Group for business combination
+Mcap $320M · EV $317M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2068454/000182912626006826/cslmacq3_425.htm</link>
+      <guid isPermaLink="false">0001829126-26-006826</guid>
+      <pubDate>Wed, 24 Jun 2026 15:33:47 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$CODI ⚖️ Litigation · Settled
 Settles Lugano claims for 34.79% of net liquidation proceeds; court approval pending
@@ -4075,16 +4085,6 @@ Mcap $15M · EV $17M · Comms</title>
       <guid isPermaLink="false">OTC-524907</guid>
       <pubDate>Fri, 12 Jun 2026 15:24:37 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$FBLA 💧 Capital Return · Buyback
-10% buyback authorized; third program in 2026
-Mcap $211M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2013639/000094337426000229/form8k_061226.htm</link>
-      <guid isPermaLink="false">0000943374-26-000229</guid>
-      <pubDate>Fri, 12 Jun 2026 15:24:13 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
