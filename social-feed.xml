@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 10:25:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 10:25:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PLD 🤝 Merger · Unsolicited
+Proposes all-share acquisition of SEGRO; board rejects; PUSU deadline July 22
+stock
+Mcap $134B · EV $173B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1045609/000119312526280195/d138357d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-280195</guid>
+      <pubDate>Wed, 24 Jun 2026 05:25:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$RAMP 🤝 Merger
 Acquired by Publicis for $38.50 cash per share; special meeting pending
@@ -4109,15 +4120,6 @@ Mcap $195M · EV $374M · Cons Disc</title>
       <guid isPermaLink="false">0001493152-26-028302</guid>
       <pubDate>Thu, 11 Jun 2026 16:10:41 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GNK ⚔️ Proxy
-Faces Diana Shipping proxy fight; urges vote FOR rights agreement and directors
-Mcap $1.1B · EV $1.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000114036126024957/ef20076102_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-024957</guid>
-      <pubDate>Thu, 11 Jun 2026 16:09:27 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
