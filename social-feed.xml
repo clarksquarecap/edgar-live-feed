@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 10:19:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 10:25:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RAMP 🤝 Merger
+Acquired by Publicis for $38.50 cash per share; special meeting pending
+Publicis Groupe · cash
+Mcap $2.3B · EV $1.9B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/733269/000110465926077011/tm264528-1_prem14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-077011</guid>
+      <pubDate>Wed, 24 Jun 2026 05:25:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GDOT 🤝 Merger
 Shareholders approve acquisition by CommerceOne; close Q3 2026
@@ -4107,16 +4118,6 @@ Mcap $1.1B · EV $1.3B · Industrials</title>
       <guid isPermaLink="false">0001140361-26-024957</guid>
       <pubDate>Thu, 11 Jun 2026 16:09:27 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$PCSC 🤝 Merger
-Acquires Freenome Holdings for $655M stock; $240M PIPE at $10/sh
-$655.2 million deal · stock
-Mcap $123M · EV $123M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2017526/000114036126024950/ny20061080x14_s4a.htm</link>
-      <guid isPermaLink="false">0001140361-26-024950</guid>
-      <pubDate>Thu, 11 Jun 2026 15:55:10 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
