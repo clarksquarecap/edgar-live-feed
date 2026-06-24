@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 10:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 10:03:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ASR 🤝 Merger · Preliminary
+Proposes internalization of technical assistance via merger; Ps.10 dividend
+stock
+Mcap $9.0B · EV $11B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1123452/000110465926076902/tm2618652d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-076902</guid>
+      <pubDate>Wed, 24 Jun 2026 05:03:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$EQX 🤝 Merger
 Acquires Orla Mining via plan of arrangement; vote July 22
@@ -4103,16 +4114,6 @@ Mcap $4.0B · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/857855/000085785526000050/a425peachstateshletter06.htm</link>
       <guid isPermaLink="false">0000857855-26-000050</guid>
       <pubDate>Thu, 11 Jun 2026 15:38:39 -0500</pubDate>
-      <category>MERGER</category>
-    </item>
-    <item>
-      <title>$DAN 🤝 Merger
-Acquired by SpinCo (Eaton Vehicle/eMobility) in Reverse Morris Trust; 1:1 stock swap
-stock
-Mcap $3.8B · EV $5.0B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/26780/000119312526267647/d71897d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-267647</guid>
-      <pubDate>Thu, 11 Jun 2026 15:37:38 -0500</pubDate>
       <category>MERGER</category>
     </item>
   </channel>
