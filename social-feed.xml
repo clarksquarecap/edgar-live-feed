@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 24 Jun 2026 20:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 20:08:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SEER ⚔️ Proxy
+Faces proxy contest from Radoff-JEC Group; 7.7% stake, 3 nominees
+Mcap $95M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1726445/000092189526001662/dfan14a09076074_06242026.htm</link>
+      <guid isPermaLink="false">0000921895-26-001662</guid>
+      <pubDate>Wed, 24 Jun 2026 15:08:04 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$IONS ⚖️ Litigation · Won
 FDA approves TRYNGOLZA (olezarsen) for sHTG; first approved therapy to reduce acute pancreatitis risk
@@ -4091,16 +4100,6 @@ Mcap $3.7B · EV $3.9B · Real Estate</title>
       <guid isPermaLink="false">0001213900-26-068250</guid>
       <pubDate>Fri, 12 Jun 2026 15:11:46 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$FVN 🤝 Merger
-Acquires MicroTouch Technology for $90M stock; vote pending
-$90,000,000 deal · stock
-Mcap $82M · EV $81M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2010653/000182912626006424/futurevision2_s4a.htm</link>
-      <guid isPermaLink="false">0001829126-26-006424</guid>
-      <pubDate>Fri, 12 Jun 2026 10:49:42 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
