@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 21:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:26:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VVOS 🪙 Debt Restr.
+Extends debt-to-equity conversion with Streeterville to Aug 31; up to $4.5M
+Mcap $8M · EV $18M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1716166/000149315226030190/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-030190</guid>
+      <pubDate>Thu, 25 Jun 2026 16:26:36 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>debt_for_equity_swap</category>
+    </item>
     <item>
       <title>$PETV 🤝 Merger
 Acquires PBM for 3M restricted shares; $5M financing condition
@@ -4125,15 +4135,6 @@ Mcap $220M · EV $377M · Cons Stpl</title>
       <pubDate>Mon, 15 Jun 2026 15:37:00 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$RRGB 📤 Divestiture
-Sells 86 restaurants to Op Burgers &amp; Kuber for $72.5M cash
-Mcap $92M · EV $584M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1171759/000095014226001781/eh260793930_8k.htm</link>
-      <guid isPermaLink="false">0000950142-26-001781</guid>
-      <pubDate>Mon, 15 Jun 2026 15:22:40 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
