@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 21:17:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:18:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NANO 🤝 Merger
+Forge Nano partners with Samsung SDI for US battery cell production
+Mcap $1.8B · EV $1.8B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2101833/000110465926077836/tm264900d11_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-077836</guid>
+      <pubDate>Thu, 25 Jun 2026 16:18:06 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TRLV 🤝 Merger
 Shareholders to vote on acquisition at special meeting
@@ -4120,15 +4130,6 @@ Mcap $32M · EV $51M · Cons Disc</title>
       <guid isPermaLink="false">0001628280-26-043145</guid>
       <pubDate>Mon, 15 Jun 2026 15:11:22 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ORGN 🧊 Liquidation
-Dissolving and liquidating; shareholder vote July 1; delisting July 2
-Mcap $6M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1802457/000180245726000030/orgn-2026defa14a.htm</link>
-      <guid isPermaLink="false">0001802457-26-000030</guid>
-      <pubDate>Mon, 15 Jun 2026 15:08:49 -0500</pubDate>
-      <category>LIQUIDATION</category>
     </item>
   </channel>
 </rss>
