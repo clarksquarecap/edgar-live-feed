@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 13:34:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 13:41:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NDRA 🤝 Merger
+Merges with Noble Africa (ASPI sub); combined co. to trade as NOBA; ENDRA holders get ~3%
+ASP Isotopes · stock · close Q3/Q4 2026
+Mcap $8M · EV $8M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1681682/000121390026071806/ea0295899-8k425_endra.htm</link>
+      <guid isPermaLink="false">0001213900-26-071806</guid>
+      <pubDate>Thu, 25 Jun 2026 08:41:04 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VALE 👀 Activist
 Faces Previ activist campaign to remove chairman; EGM July 22
@@ -4110,17 +4121,6 @@ Mcap $140B · EV $166B · Industrials</title>
       <guid isPermaLink="false">0000773840-26-000080</guid>
       <pubDate>Mon, 15 Jun 2026 06:10:15 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$USAR 🤝 Merger
-Acquires SVRE for $300M cash + 126.85M shares
-SVRE Holdings · cash+stk
-Mcap $5.0B · EV $3.3B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1970622/000121390026068493/ea0294574-8k_usarare.htm</link>
-      <guid isPermaLink="false">0001213900-26-068493</guid>
-      <pubDate>Mon, 15 Jun 2026 05:49:09 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
