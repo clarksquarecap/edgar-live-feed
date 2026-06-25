@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 20:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 20:04:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FSUN 📤 Divestiture
+Sells $336M municipal loan portfolio to unaffiliated third party
+$336 million deal · close Completed
+Mcap $1.8B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1709442/000170944226000036/fcb-20260625.htm</link>
+      <guid isPermaLink="false">0001709442-26-000036</guid>
+      <pubDate>Thu, 25 Jun 2026 15:04:06 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$IQST 🤝 Merger
 Acquires 51% controlling interest in ULTRANET; 4x net income boost
@@ -4087,17 +4097,6 @@ Mcap $312M · Industrials</title>
       <pubDate>Mon, 15 Jun 2026 06:52:11 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$AUXXF 🤝 Merger
-Acquires Taylor Silver-Gold Project for 8.66M shares + $1M deferred cash
-cash+stk
-Mcap $53M · EV $44M · Materials</title>
-      <link>https://www.newswire.ca/news-releases/a2gold-completes-acquisition-of-district-scale-taylor-silver-gold-project-in-nevada-896861100.html</link>
-      <guid isPermaLink="false">OTC-525013</guid>
-      <pubDate>Mon, 15 Jun 2026 06:45:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
