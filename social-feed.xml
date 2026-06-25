@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 12:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 12:40:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VC 💧 Capital Return · Buyback
+Authorizes $800M share repurchase through 2029
+Mcap $3.2B · EV $3.0B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1111335/000111133526000039/vc-20260624.htm</link>
+      <guid isPermaLink="false">0001111335-26-000039</guid>
+      <pubDate>Thu, 25 Jun 2026 07:40:33 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$ILLR 🤝 Merger
 Acquires SpaceX shares for $411M cash; close by July 22
@@ -4100,17 +4110,6 @@ Mcap $252M · EV $252M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1926599/000119312526270239/d102613d425.htm</link>
       <guid isPermaLink="false">0001193125-26-270239</guid>
       <pubDate>Mon, 15 Jun 2026 05:34:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$IPX 🤝 Merger
-Acquires Covia Camden critical mineral assets for $3M cash
-Covia Solutions · $3,000,000 deal · cash
-Mcap $1.2B · EV $1.2B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1898601/000114036126025097/ef20076185_6k.htm</link>
-      <guid isPermaLink="false">0001140361-26-025097</guid>
-      <pubDate>Mon, 15 Jun 2026 05:19:46 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
