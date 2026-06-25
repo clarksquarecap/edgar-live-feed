@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 20:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 20:21:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ICFI 💧 Capital Return · Buyback
+Increases share repurchase authorization by $100M to $400M; $165M remaining
+Mcap $1.2B · EV $1.8B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1362004/000143774926021699/icfi20260625_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-021699</guid>
+      <pubDate>Thu, 25 Jun 2026 15:21:43 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$CCXI 🤝 Merger
 Acquires Agility Robotics for $2.5B; $600M PIPE led by Foxconn
@@ -4086,16 +4096,6 @@ Mcap $9M · Materials</title>
       <pubDate>Mon, 15 Jun 2026 07:44:26 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TRIP 📤 Divestiture
-Sells TheFork to AmEx for $700M cash
-to American Express · $700 million deal · close end of 2026
-Mcap $1.4B · EV $1.6B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1526520/000119312526270351/d156418d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-270351</guid>
-      <pubDate>Mon, 15 Jun 2026 07:43:59 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
