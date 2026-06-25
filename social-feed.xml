@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 20:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 20:22:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GXAI 📤 Divestiture
+Sells gaming assets to Game Foundry AI for $1.76M stock
+$1,760,000 deal · close 2026-06-18
+Mcap $8M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1895618/000121390026072056/ea0295894-8k_gaxos.htm</link>
+      <guid isPermaLink="false">0001213900-26-072056</guid>
+      <pubDate>Thu, 25 Jun 2026 15:22:08 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$ICFI 💧 Capital Return · Buyback
 Increases share repurchase authorization by $100M to $400M; $165M remaining
@@ -4085,17 +4095,6 @@ Mcap $144M · EV $563M · Tech</title>
       <guid isPermaLink="false">0001104659-26-073803</guid>
       <pubDate>Mon, 15 Jun 2026 07:58:57 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$WSRIF 🤝 Merger
-Acquires past-producing Eagle Point Tungsten Mine; expands US critical mineral portfolio
-close closed
-Mcap $9M · Materials</title>
-      <link>https://ae.marketscreener.com/news/western-star-resources-acquires-the-past-producing-eagle-point-tungsten-mine-new-mexico-highlighti-ce7f5cded88bf626</link>
-      <guid isPermaLink="false">OTC-525033</guid>
-      <pubDate>Mon, 15 Jun 2026 07:44:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
