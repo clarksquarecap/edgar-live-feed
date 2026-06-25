@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 20:45:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 20:46:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MARA 🤝 Merger
+Acquires Long Ridge Energy &amp; Power for $1.5B cash
+$1.5 billion deal · cash
+Mcap $5.3B · EV $7.4B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1507605/000095014226001875/eh260796591_8k.htm</link>
+      <guid isPermaLink="false">0000950142-26-001875</guid>
+      <pubDate>Thu, 25 Jun 2026 15:46:25 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$HUN 🤝 Merger
 Acquired by Olin in stock merger; 45.5% ownership
@@ -4087,17 +4098,6 @@ Mcap $1.3B · Real Estate</title>
       <guid isPermaLink="false">0001783398-26-000097</guid>
       <pubDate>Mon, 15 Jun 2026 14:15:51 -0500</pubDate>
       <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender · Unsolicited
-Hostile $24.80/share tender from Diana; proxy contest for 2 board seats
-Diana Shipping · cash · close 2026-06-26
-Mcap $1.0B · EV $1.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926073893/tm2612953d42_sctota.htm</link>
-      <guid isPermaLink="false">0001104659-26-073893</guid>
-      <pubDate>Mon, 15 Jun 2026 10:07:21 -0500</pubDate>
-      <category>TENDER_OFFER</category>
       <category>unsolicited</category>
     </item>
   </channel>
