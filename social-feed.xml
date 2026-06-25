@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 21:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:09:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SYNA 🤝 Merger
+Acquired by onsemi for 1.350x stock; ~12% pro forma ownership
+stock
+Mcap $5.0B · EV $5.5B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/817720/000114036126026398/ef20076747_425.htm</link>
+      <guid isPermaLink="false">0001140361-26-026398</guid>
+      <pubDate>Thu, 25 Jun 2026 16:09:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SYNA 🤝 Merger
 Acquired by onsemi; close mid 2027
@@ -4119,16 +4130,6 @@ Mcap $114M · EV $118M · Financials</title>
       <pubDate>Mon, 15 Jun 2026 15:01:48 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CGTL 💧 Capital Return · Recap
-Approves recap: authorized shares to $90M, up to 1:1500 reverse split
-Mcap $10M · EV $10M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1967822/000121390026068704/ea0294782-6k_creative.htm</link>
-      <guid isPermaLink="false">0001213900-26-068704</guid>
-      <pubDate>Mon, 15 Jun 2026 14:16:21 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
