@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 21:27:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:27:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SYNA 🤝 Merger
+Acquired by ON Semiconductor for 1.350 shares per SYNA share
+stock
+Mcap $5.0B · EV $5.5B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/817720/000114036126026434/ef20076748_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-026434</guid>
+      <pubDate>Thu, 25 Jun 2026 16:27:19 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CRMT 🪙 Debt Restr.
 Enters forbearance with Silver Point; waives defaults, launches strategic review
@@ -4134,17 +4145,6 @@ Mcap $408M · EV $305M · Healthcare</title>
       <pubDate>Mon, 15 Jun 2026 15:58:40 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DARP 📉 Delisting · Forced
-Forced Nasdaq delisting of 2 YieldMax ETFs effective June 15
-effective immediate
-Mcap $10M · EV $10M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1924868/000135445726000578/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000578</guid>
-      <pubDate>Mon, 15 Jun 2026 15:51:16 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
