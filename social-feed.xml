@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 11:32:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 11:38:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HTT 💧 Capital Return · Self-tender
+Repurchases ~40.9M ADSs at $3.20/ADS via Dutch auction
+Mcap $480M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1692705/000110465926077528/tm2618847d1_sctoia.htm</link>
+      <guid isPermaLink="false">0001104659-26-077528</guid>
+      <pubDate>Thu, 25 Jun 2026 06:38:49 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$WS 🤝 Merger
 Acquires Klöckner &amp; Co SE via €11.00/share cash tender; majority tendered
@@ -4092,17 +4102,6 @@ Mcap $31M · EV $33M · Tech</title>
       <guid isPermaLink="false">0001493152-26-028538</guid>
       <pubDate>Mon, 15 Jun 2026 05:09:38 -0500</pubDate>
       <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$KORE 📦 Going Private
-Acquired by Searchlight/ABRY for $9.25 cash; vote pending
-cash
-Mcap $162M · EV $576M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1855457/000114036126025092/ny20068726x7_sc13e3a.htm</link>
-      <guid isPermaLink="false">0001140361-26-025092</guid>
-      <pubDate>Mon, 15 Jun 2026 05:07:42 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
       <category>definitive</category>
     </item>
   </channel>
