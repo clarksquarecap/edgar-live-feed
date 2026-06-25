@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 21:26:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 21:26:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LOKV 🤝 Merger
+Acquires Legacy Teamshares for $525M stock; closes de-SPAC
+$525,000,000 deal · stock · close 2026-06-18
+Mcap $325M · EV $324M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2048951/000119312526283064/d148000d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-283064</guid>
+      <pubDate>Thu, 25 Jun 2026 16:26:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VVOS 🪙 Debt Restr.
 Extends debt-to-equity conversion with Streeterville to Aug 31; up to $4.5M
@@ -4125,16 +4136,6 @@ Mcap $10M · EV $10M · Industrials</title>
       <pubDate>Mon, 15 Jun 2026 15:51:16 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$WALD ⚖️ Litigation · Won
-FDA approves Obagi saypha ChIQ HA gel for cheek augmentation
-Mcap $220M · EV $377M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840199/000184019926000066/wald6-k_luminaamendment2.htm</link>
-      <guid isPermaLink="false">0001840199-26-000066</guid>
-      <pubDate>Mon, 15 Jun 2026 15:37:00 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
