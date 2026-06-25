@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 18:15:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 18:21:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ELPC 📤 Divestiture
+Sells DFESA stake to Gerdau S.A.
+Mcap $8.6B · EV $12B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1041792/000129281426003594/elp20260625_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-003594</guid>
+      <pubDate>Thu, 25 Jun 2026 13:21:37 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$GRNT 🤝 Merger
 Supplemental proxy filed for acquisition vote
@@ -4098,16 +4107,6 @@ Mcap $1.3B · Real Estate</title>
       <link>https://www.sec.gov/Archives/edgar/data/1465740/000110465926073764/tm2617931d3_defa14a.htm</link>
       <guid isPermaLink="false">0001104659-26-073764</guid>
       <pubDate>Mon, 15 Jun 2026 06:37:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ROKU 🤝 Merger
-To be acquired by Fox Corporation; definitive agreement signed
-Mcap $21B · EV $19B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1428439/000119312526270288/d151410d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-270288</guid>
-      <pubDate>Mon, 15 Jun 2026 06:24:50 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
