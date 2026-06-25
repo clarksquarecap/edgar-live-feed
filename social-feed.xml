@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 13:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 13:33:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VALE 👀 Activist
+Faces Previ activist campaign to remove chairman; EGM July 22
+7.01% stake
+Mcap $67B · EV $84B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/917851/000129281426003588/vale20260624_6ka.htm</link>
+      <guid isPermaLink="false">0001292814-26-003588</guid>
+      <pubDate>Thu, 25 Jun 2026 08:33:44 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$RANG 🔎 Strat Review
 Extends deadline to 27 months; 9.3M shares redeemed at $10.62, trust ~$23M
@@ -4109,16 +4119,6 @@ Mcap $5.0B · EV $3.3B · Materials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1970622/000121390026068493/ea0294574-8k_usarare.htm</link>
       <guid isPermaLink="false">0001213900-26-068493</guid>
       <pubDate>Mon, 15 Jun 2026 05:49:09 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TDAC 🤝 Merger
-Signs MoU with OPmobility for solid-state battery modules; TDAC merger pending
-Mcap $252M · EV $252M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1926599/000119312526270239/d102613d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-270239</guid>
-      <pubDate>Mon, 15 Jun 2026 05:34:57 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
