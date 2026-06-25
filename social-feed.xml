@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 09:55:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 10:02:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BNC 👀 Activist
+Settles with CEA Industries; 3 board seats, CEO search
+Mcap $97M · EV $90M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1482541/000092189526001664/dfan14a14678002_06242026.htm</link>
+      <guid isPermaLink="false">0000921895-26-001664</guid>
+      <pubDate>Thu, 25 Jun 2026 05:02:23 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>cooperation_agreement</category>
+    </item>
     <item>
       <title>$SGLA 🤝 Merger
 Acquires 70% of Hi-Quality Productions, US RPET maker
@@ -4094,16 +4104,6 @@ Mcap $526M · EV $585M · Healthcare</title>
       <guid isPermaLink="false">0001193125-26-269734</guid>
       <pubDate>Fri, 12 Jun 2026 16:28:15 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$RZLV 💧 Capital Return · Buyback
-Seeks shareholder approval for $300M buyback authorization and capital reduction; vote June 30
-Mcap $1.0B · EV $1.1B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1920294/000119312526269724/6-k_-_june_12_2026.htm</link>
-      <guid isPermaLink="false">0001193125-26-269724</guid>
-      <pubDate>Fri, 12 Jun 2026 16:27:43 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
