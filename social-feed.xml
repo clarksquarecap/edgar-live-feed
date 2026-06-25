@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 10:10:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 10:10:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NNDM ⚔️ Proxy
+Faces proxy contest from Murchinson/Oramed group; EGM July 31
+Mcap $257M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1643303/000093041326001947/c116504_defc14a.htm</link>
+      <guid isPermaLink="false">0000930413-26-001947</guid>
+      <pubDate>Thu, 25 Jun 2026 05:10:53 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$IDXG 🤝 Merger
 Preliminary proxy for merger vote; terms undisclosed
@@ -4085,16 +4094,6 @@ Mcap $12M · EV $14M · Cons Disc</title>
       <pubDate>Fri, 12 Jun 2026 16:36:06 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$ABCB ⚖️ Litigation · Lost
-Lost $79.4M jury verdict in wrongful termination suit; intends to appeal
-Mcap $5.8B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/351569/000035156926000123/abcb-20260612.htm</link>
-      <guid isPermaLink="false">0000351569-26-000123</guid>
-      <pubDate>Fri, 12 Jun 2026 16:28:42 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
     </item>
   </channel>
 </rss>
