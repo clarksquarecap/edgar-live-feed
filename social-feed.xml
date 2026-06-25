@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 17:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 17:37:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GRNT 🤝 Merger
+Supplemental proxy filed for acquisition vote
+Mcap $588M · EV $967M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1928446/000192844626000037/grnt-2026additionaldefprox.htm</link>
+      <guid isPermaLink="false">0001928446-26-000037</guid>
+      <pubDate>Thu, 25 Jun 2026 12:37:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ASPI 🤝 Merger
 Merges Noble Africa sub with ENDRA; combined co. to list as NOBA
@@ -4100,17 +4110,6 @@ Mcap $21B · EV $19B · Comms</title>
       <pubDate>Mon, 15 Jun 2026 06:24:50 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$FRMI ⚔️ Proxy
-Faces consent solicitation from former CEO Neugebauer to call special meeting
-Toby Neugebauer · 40 stake
-Mcap $4.6B · EV $4.8B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026068505/ea0294731-defa14a_fermi.htm</link>
-      <guid isPermaLink="false">0001213900-26-068505</guid>
-      <pubDate>Mon, 15 Jun 2026 06:24:28 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>consent_solicitation</category>
     </item>
   </channel>
 </rss>
