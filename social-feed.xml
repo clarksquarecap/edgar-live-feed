@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 20:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 20:30:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$INGR 🤝 Merger
+Acquires Tate &amp; Lyle for cash; $1.475B DDTL financing secured
+cash
+Mcap $6.2B · EV $7.1B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1046257/000162828026045521/ingr-20260624.htm</link>
+      <guid isPermaLink="false">0001628280-26-045521</guid>
+      <pubDate>Thu, 25 Jun 2026 15:30:10 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$THH 🤝 Merger
 Acquires 23 venues across 13 cities
@@ -4085,16 +4096,6 @@ Mcap $203M · EV $267M · Healthcare</title>
       <pubDate>Mon, 15 Jun 2026 08:14:07 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CUPR ⚖️ Litigation · Won
-Receives FDA 510(k) clearance for MEDIFLY Maggots; first L. cuprina product
-Mcap $11M · EV $11M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1995704/000149315226028628/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028628</guid>
-      <pubDate>Mon, 15 Jun 2026 08:06:43 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
