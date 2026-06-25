@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 20:38:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 20:38:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HUN 🤝 Merger
+Acquired by Olin in stock merger; 45.5% ownership
+stock
+Mcap $2.8B · EV $5.1B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1307954/000119312526282867/d20414d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-282867</guid>
+      <pubDate>Thu, 25 Jun 2026 15:38:14 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$JFB 🤝 Merger
 Issues 25K bonus shares to COO tied to XTEND merger
@@ -4097,17 +4108,6 @@ Mcap $1.0B · EV $1.3B · Industrials</title>
       <guid isPermaLink="false">0001104659-26-073888</guid>
       <pubDate>Mon, 15 Jun 2026 10:00:37 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$INCR 🤝 Merger
-Acquires Botanico (ISHI) for 4.94M shares; initial 50% closed
-Botanico Ltd. (ISHI) · stock
-Mcap $49M · EV $96M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1857030/000149315226028635/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028635</guid>
-      <pubDate>Mon, 15 Jun 2026 08:48:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
