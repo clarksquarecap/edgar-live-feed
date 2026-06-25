@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 25 Jun 2026 14:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 14:19:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ASPI 🤝 Merger
+Merges Noble Africa sub with ENDRA; combined co. to list as NOBA
+ENDRA Life Sciences · stock · close Q3/Q4 2026
+Mcap $904M · EV $885M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1921865/000119312526282048/aspi-20260625.htm</link>
+      <guid isPermaLink="false">0001193125-26-282048</guid>
+      <pubDate>Thu, 25 Jun 2026 09:19:17 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BAK 🪙 Debt Restr.
 Initiates mediation with financial creditors for capital restructuring
@@ -4121,15 +4132,6 @@ Mcap $475M · EV $490M · Comms</title>
       <pubDate>Mon, 15 Jun 2026 06:17:00 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$HON 🪓 Spinoff
-Spins off Honeywell Aerospace; 1:2 distribution June 29
-Mcap $140B · EV $166B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/773840/000077384026000080/hon-20260615.htm</link>
-      <guid isPermaLink="false">0000773840-26-000080</guid>
-      <pubDate>Mon, 15 Jun 2026 06:10:15 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
