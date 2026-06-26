@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 20:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:49:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SYNA 🤝 Merger
+Acquires Synaptics; pending approvals
+Mcap $5.0B · EV $5.5B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/817720/000114036126026589/ef20076893_form425.htm</link>
+      <guid isPermaLink="false">0001140361-26-026589</guid>
+      <pubDate>Fri, 26 Jun 2026 15:49:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$STRS 📤 Divestiture
 Sells Jones Crossing – Retail to Brixmor for $46.5M cash
@@ -4105,17 +4115,6 @@ Mcap $69M · EV $84M · Comms</title>
       <pubDate>Tue, 16 Jun 2026 11:45:16 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$NVA 📉 Delisting · Forced
-Forced Nasdaq delisting effective June 16, 2026
-effective 2026-06-16
-Mcap $250M · EV $217M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1852551/000135445726000580/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000580</guid>
-      <pubDate>Tue, 16 Jun 2026 10:07:47 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
