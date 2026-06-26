@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 20:42:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:43:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$STRS 📤 Divestiture
+Sells Jones Crossing – Retail to Brixmor for $46.5M cash
+$46.5 million deal · close 2026-06-23
+Mcap $231M · EV $455M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/885508/000088550826000033/strs-20260623.htm</link>
+      <guid isPermaLink="false">0000885508-26-000033</guid>
+      <pubDate>Fri, 26 Jun 2026 15:43:03 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$VSEE 🪙 Debt Restr.
 Default notice on $272K promissory note; 10-day cure
@@ -4106,16 +4116,6 @@ Mcap $250M · EV $217M · Materials</title>
       <pubDate>Tue, 16 Jun 2026 10:07:47 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$CRK 📤 Divestiture
-Sells 27% stake in Pinnacle Gas to Sixth Street for $600M; implies $2.2B EV
-$600 million deal
-Mcap $3.8B · EV $7.2B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/23194/000119312526272060/crk-20260615.htm</link>
-      <guid isPermaLink="false">0001193125-26-272060</guid>
-      <pubDate>Tue, 16 Jun 2026 10:00:52 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
