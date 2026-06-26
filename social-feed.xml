@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 10:13:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:13:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SYNA 🤝 Merger
+Acquired by Onsemi in $6B stock deal
+$6 billion deal · stock
+Mcap $5.0B · EV $5.5B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/817720/000114036126026468/ef20076895_425.htm</link>
+      <guid isPermaLink="false">0001140361-26-026468</guid>
+      <pubDate>Fri, 26 Jun 2026 05:13:30 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SYNA 🤝 Merger
 Acquired by Onsemi for 1.350 shares per SYNA; $7B all-stock
@@ -4140,16 +4151,6 @@ Mcap $8.8B · EV $11B · Materials</title>
       <pubDate>Mon, 15 Jun 2026 16:18:28 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ELPC 📤 Divestiture
-Sells 23% stake in Dona Francisca plant to Gerdau for R$150M
-R$150.0 million deal
-Mcap $8.6B · EV $12B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1041792/000129281426003450/elp20260615_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-003450</guid>
-      <pubDate>Mon, 15 Jun 2026 16:17:55 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
