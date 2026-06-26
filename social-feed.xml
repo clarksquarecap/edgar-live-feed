@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 20:50:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:57:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ATER 📤 Divestiture
+Sells substantially all assets to Trademark Global for $18M cash; CVR dividend $0.85-$1.14/sh
+18000000 deal
+Mcap $11M · EV $11M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1757715/000143774926021852/ater20260626_defa14a.htm</link>
+      <guid isPermaLink="false">0001437749-26-021852</guid>
+      <pubDate>Fri, 26 Jun 2026 15:57:11 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CAAP 📤 Divestiture
 Fast-track tender for 100% of Inframerica shares; CAAP to participate
@@ -4115,16 +4125,6 @@ Mcap $1.0B · EV $1.3B · Industrials</title>
       <pubDate>Tue, 16 Jun 2026 12:42:56 -0500</pubDate>
       <category>TENDER_OFFER</category>
       <category>hostile</category>
-    </item>
-    <item>
-      <title>$TOON ⚖️ Litigation · Settled
-Receives $50M settlement in Augenbaum lawsuit; court approved
-Mcap $69M · EV $84M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1355848/000168316826004862/kartoon_8ka1.htm</link>
-      <guid isPermaLink="false">0001683168-26-004862</guid>
-      <pubDate>Tue, 16 Jun 2026 11:45:16 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>
