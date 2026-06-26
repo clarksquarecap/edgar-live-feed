@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 20:57:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:58:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ATER 💧 Capital Return · Special Div
+Declares CVR dividend of $0.85-$1.14/share from asset sale
+Mcap $11M · EV $11M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1757715/000143774926021850/ater20260626_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-021850</guid>
+      <pubDate>Fri, 26 Jun 2026 15:58:17 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>special_dividend</category>
+    </item>
     <item>
       <title>$VTOL 🤝 Merger
 Acquires Berry Aviation for $105M cash; expands government services
@@ -4125,17 +4135,6 @@ Mcap $1.0B · EV $1.3B · Industrials</title>
       <guid isPermaLink="false">0001104659-26-074492</guid>
       <pubDate>Tue, 16 Jun 2026 12:43:23 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender · Hostile
-Faces $24.80/share hostile tender from Diana; AGM June 18
-Diana Shipping · cash · close 2026-06-26
-Mcap $1.0B · EV $1.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926074497/tm2612953d43_sctota.htm</link>
-      <guid isPermaLink="false">0001104659-26-074497</guid>
-      <pubDate>Tue, 16 Jun 2026 12:42:56 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>hostile</category>
     </item>
   </channel>
 </rss>
