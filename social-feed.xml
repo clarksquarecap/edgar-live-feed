@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 20:19:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:19:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AES 🤝 Merger
+Approved merger with Horizon Parent; HSR waiting period expired
+Horizon Parent, L.P.
+Mcap $10B · EV $48B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/874761/000114036126026562/ef20076870_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-026562</guid>
+      <pubDate>Fri, 26 Jun 2026 15:19:35 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VEEA 🪙 Debt Restr.
 Converts $4.13M insider debt into convertible preferred + warrants
@@ -4108,15 +4119,6 @@ Mcap $2.4B · EV $3.7B · Cons Disc</title>
       <pubDate>Tue, 16 Jun 2026 07:49:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ASTC 📤 Divestiture
-Launches sale process for 1st Detect subsidiary
-Mcap $28M · EV $24M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1001907/000143774926020737/astc20260616_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-020737</guid>
-      <pubDate>Tue, 16 Jun 2026 07:36:14 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
