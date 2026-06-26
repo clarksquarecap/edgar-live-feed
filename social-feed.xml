@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 10:28:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:34:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OMH 📤 Divestiture
+Sells property business for $1; pivots to digital marketing
+to Sterling Oat · close 2026-06-17
+Mcap $15M · EV $12M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1944902/000121390026072273/ea0295777-6k_ohmyhome.htm</link>
+      <guid isPermaLink="false">0001213900-26-072273</guid>
+      <pubDate>Fri, 26 Jun 2026 05:34:48 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$ELSE 🤝 Merger
 Acquired by steute Industrial Controls for $7.75 cash per share; vote July 21
@@ -4131,15 +4141,6 @@ Mcap $194M · EV $163M · Materials</title>
       <pubDate>Mon, 15 Jun 2026 16:25:40 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$INIKF 🪙 Debt Restr.
-Converts $32.2M debt to equity; 62.5% dilution; $25.8M cash pending
-Mcap $12M · EV $119M · Comms</title>
-      <link>https://in.marketscreener.com/news/ionik-provides-update-on-debt-reorganization-ce7f5cded18af324</link>
-      <guid isPermaLink="false">OTC-525082</guid>
-      <pubDate>Mon, 15 Jun 2026 16:19:04 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
