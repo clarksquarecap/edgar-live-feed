@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 21:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 21:12:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TACH 🤝 Merger
+Merging with Titan SPAC to go public on Nasdaq
+Titan Acquisition · stock
+Mcap $359M · EV $359M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2009183/000182912626006941/openpayd_425.htm</link>
+      <guid isPermaLink="false">0001829126-26-006941</guid>
+      <pubDate>Fri, 26 Jun 2026 16:12:29 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ULH 📤 Divestiture
 Sells Kearny facility to Lakeshore for $38M cash; acquires Newark facility
@@ -4116,17 +4127,6 @@ Mcap $78M · EV $77M · Healthcare</title>
       <pubDate>Tue, 16 Jun 2026 15:02:15 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GCO ⚔️ Proxy
-Faces proxy contest from Radoff-Jumana Group; AGM July 21
-8.7% stake
-Mcap $435M · EV $985M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/18498/000092189526001615/prrn14a09076076_06162026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001615</guid>
-      <pubDate>Tue, 16 Jun 2026 14:28:52 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>proxy_contest</category>
     </item>
   </channel>
 </rss>
