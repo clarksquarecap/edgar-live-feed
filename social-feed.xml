@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 12:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 12:56:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VXRT ⚔️ Proxy
+Faces proxy contest from Daniel Houle; AGM July 16
+Mcap $139M · EV $90M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/72444/000121390026072359/ea0296049-defa14a_vaxart.htm</link>
+      <guid isPermaLink="false">0001213900-26-072359</guid>
+      <pubDate>Fri, 26 Jun 2026 07:56:48 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$HSCS 🤝 Merger
 Merges with Fortitude Mining in all-stock deal
@@ -4132,16 +4141,6 @@ Mcap $308M · Financials</title>
       <pubDate>Mon, 15 Jun 2026 16:26:46 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BHR ⚔️ Proxy
-Nominates full director slate at Braemar; accuses board of $480M self-dealing
-Mcap $149M · EV $1.6B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000139834426010847/fp0099407-1_dfan14a.htm</link>
-      <guid isPermaLink="false">0001398344-26-010847</guid>
-      <pubDate>Mon, 15 Jun 2026 16:26:05 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>proxy_contest</category>
     </item>
   </channel>
 </rss>
