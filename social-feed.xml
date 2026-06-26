@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 10:05:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:06:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ZSQR 🤝 Merger · Preliminary
+Acquires majority interest in Paradox Data for $5M Series D Preferred
+$5,000,000 deal · stock
+Mcap $628M · EV $630M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1759186/000118518526002659/zsquared8k062526.htm</link>
+      <guid isPermaLink="false">0001185185-26-002659</guid>
+      <pubDate>Fri, 26 Jun 2026 05:06:43 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$BIYA 📤 Divestiture
 Sells Juxing Investment Group to Shengshi for $2M; 3-yr installment
@@ -4139,15 +4150,6 @@ Mcap $302M · EV $301M · Financials</title>
       <pubDate>Mon, 15 Jun 2026 16:17:38 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$FRMI ⚔️ Proxy
-Seeks special meeting via agent designations; proxy contest at Fermi
-Mcap $4.6B · EV $4.8B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026068883/ea0294866-dfan14a_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-068883</guid>
-      <pubDate>Mon, 15 Jun 2026 16:15:51 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
