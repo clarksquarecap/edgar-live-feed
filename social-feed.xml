@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 21:21:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 21:27:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VXRT ⚔️ Proxy
+Faces proxy contest; urges vote for all 6 director nominees
+Mcap $139M · EV $90M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/72444/000121390026072727/ea0296051-defa14a_vaxart.htm</link>
+      <guid isPermaLink="false">0001213900-26-072727</guid>
+      <pubDate>Fri, 26 Jun 2026 16:27:40 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$UUUU 🤝 Merger
 Acquires Ara VAC for $718M cash + 65.9M shares; ref $20.93
@@ -4128,16 +4137,6 @@ Mcap $5M · EV $124M · Industrials</title>
       <pubDate>Tue, 16 Jun 2026 15:10:59 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
       <category>waiver</category>
-    </item>
-    <item>
-      <title>$ESPR 🤝 Merger
-HSR cleared for ArchiMed merger; vote July 8
-Mcap $811M · EV $1.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1434868/000110465926074562/tm2617356d3_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-074562</guid>
-      <pubDate>Tue, 16 Jun 2026 15:09:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
