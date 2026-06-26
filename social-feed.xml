@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 10:04:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 10:04:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AXIN 🤝 Merger
+Acquires Terra Quantum AG for $3.5B valuation; Nasdaq listing
+$3.5 billion deal · stock
+Mcap $282M · EV $281M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2057030/000121390026072174/ea029601702-425_axiom1.htm</link>
+      <guid isPermaLink="false">0001213900-26-072174</guid>
+      <pubDate>Fri, 26 Jun 2026 05:04:37 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$INVE 🤝 Merger
 Sells business to Trackonomy for $50M preferred stock; $40M buyback
@@ -4116,16 +4127,6 @@ Mcap $472M · EV $1.0B · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/18498/000119312526271251/gco-20260615.htm</link>
       <guid isPermaLink="false">0001193125-26-271251</guid>
       <pubDate>Mon, 15 Jun 2026 16:15:32 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$SEER ⚔️ Proxy
-Faces Radoff-JEC proxy contest; AGM July 28
-7.7% stake
-Mcap $95M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726445/000092189526001611/dfan14a09076074_06152026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001611</guid>
-      <pubDate>Mon, 15 Jun 2026 16:07:12 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
