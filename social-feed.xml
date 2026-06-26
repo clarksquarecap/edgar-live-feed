@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 20:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:10:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ARKR ⚖️ Litigation · Won
+Won partial summary judgment on Bryant Park lease; eviction stayed pending appeal
+Mcap $23M · EV $97M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/779544/000077954426000027/arkr-20260626.htm</link>
+      <guid isPermaLink="false">0000779544-26-000027</guid>
+      <pubDate>Fri, 26 Jun 2026 15:10:33 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
     <item>
       <title>$CLNV 🌑 Going Dark · Voluntary
 Voluntarily terminates SEC registration; 190 holders of record
@@ -4107,16 +4117,6 @@ Mcap $360M · EV $396M · Tech</title>
       <pubDate>Tue, 16 Jun 2026 07:09:01 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$OPFI 🤝 Merger
-Acquires BNCCORP; terms undisclosed
-Mcap $705M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1818502/000181850226000064/opfi-20260616.htm</link>
-      <guid isPermaLink="false">0001818502-26-000064</guid>
-      <pubDate>Tue, 16 Jun 2026 06:17:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
