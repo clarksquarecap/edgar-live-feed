@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 18:01:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 18:07:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BTE 💧 Capital Return · Buyback
+Renews NCIB to buy back up to 10% of float
+Mcap $2.9B · EV $2.5B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1279495/000106299326003379/form6k.htm</link>
+      <guid isPermaLink="false">0001062993-26-003379</guid>
+      <pubDate>Fri, 26 Jun 2026 13:07:46 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$BAK 🔥 Insolvency
 Obtains 60-day stay of creditor enforcement; mediation underway
@@ -4116,17 +4126,6 @@ Mcap $2107B · EV $2121B · Comms</title>
       <link>https://www.sec.gov/Archives/edgar/data/1181412/000162828026043411/spaceexplorationtechnologi.htm</link>
       <guid isPermaLink="false">0001628280-26-043411</guid>
       <pubDate>Tue, 16 Jun 2026 05:36:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$OLN 🤝 Merger
-Merges with Huntsman in all-stock merger of equals
-stock
-Mcap $2.9B · EV $6.0B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/74303/000110465926074267/tm2618028d3_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-074267</guid>
-      <pubDate>Tue, 16 Jun 2026 05:35:51 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
