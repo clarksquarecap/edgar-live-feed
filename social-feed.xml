@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 16:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 16:39:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BAK 🔥 Insolvency
+Obtains 60-day stay of creditor enforcement; mediation underway
+Mcap $1.2B · EV $13B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426003614/bak20260626_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-003614</guid>
+      <pubDate>Fri, 26 Jun 2026 11:39:27 -0500</pubDate>
+      <category>INSOLVENCY</category>
+      <category>other</category>
+    </item>
     <item>
       <title>$BCAR 🤝 Merger
 Acquires Exascale Labs in de-SPAC merger; S-4/A filed
@@ -4130,15 +4140,6 @@ Mcap $2.8B · EV $5.1B · Materials</title>
       <pubDate>Tue, 16 Jun 2026 05:29:01 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ARI 🧊 Liquidation
-Dissolves and liquidates; $3.75 special dividend; vote pending
-Mcap $1.4B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1467760/000119312526271542/d116031d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-271542</guid>
-      <pubDate>Tue, 16 Jun 2026 05:08:50 -0500</pubDate>
-      <category>LIQUIDATION</category>
     </item>
   </channel>
 </rss>
