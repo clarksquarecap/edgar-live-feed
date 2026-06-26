@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 20:27:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:34:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SYNA 🤝 Merger
+Acquires Synaptics in all-stock transaction; close mid-2027
+stock
+Mcap $5.0B · EV $5.5B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/817720/000114036126026579/ef20076892_form425.htm</link>
+      <guid isPermaLink="false">0001140361-26-026579</guid>
+      <pubDate>Fri, 26 Jun 2026 15:34:23 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ISLUF 💥 Busted M&amp;A
 Terminates merger with Gadfin Ltd.
@@ -4098,16 +4109,6 @@ Mcap $331M · EV $289M · Healthcare</title>
       <pubDate>Tue, 16 Jun 2026 08:04:28 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$YUM 📤 Divestiture
-Sells Pizza Hut to LongRange Capital and Yum China for $2.7B
-close Q3 2026
-Mcap $43B · EV $55B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1041061/000119312526271893/d158986d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-271893</guid>
-      <pubDate>Tue, 16 Jun 2026 08:04:11 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
