@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 20:17:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:18:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VCIG ⚖️ Litigation · Settled
+Settles Esousa lawsuit; issues 821K shares + warrants for 5.3M shares
+vs Esousa Group Holdings
+Mcap $9M · EV $4M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1930510/000121390026072624/ea0295806-6k_vciglobal.htm</link>
+      <guid isPermaLink="false">0001213900-26-072624</guid>
+      <pubDate>Fri, 26 Jun 2026 15:18:08 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$WKEY 🤝 Merger
 Subsidiary's SPAC merger with COLA advances; F-4 filed; ticker SAIQ
@@ -4106,17 +4117,6 @@ Mcap $139M · EV $90M · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-069053</guid>
       <pubDate>Tue, 16 Jun 2026 07:28:58 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$YUMC 🤝 Merger
-Acquires Pizza Hut brand in Mainland China from Yum! Brands for $1.2B cash
-$1.2 billion deal · cash · close Q3 2026
-Mcap $15B · EV $17B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1673358/000119312526271854/yumc-20260616.htm</link>
-      <guid isPermaLink="false">0001193125-26-271854</guid>
-      <pubDate>Tue, 16 Jun 2026 07:22:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
