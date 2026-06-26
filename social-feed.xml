@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 13:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 13:10:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SVRE 🤝 Merger
+Completes staged equity exchange with VisionWave; receives ~$7M in VWAV shares
+VisionWave Holdings · ~$7,000,000 deal · stock · close 2026-06-22
+Mcap $93M · EV $90M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1894693/000121390026072368/ea0296075-6k_saverone.htm</link>
+      <guid isPermaLink="false">0001213900-26-072368</guid>
+      <pubDate>Fri, 26 Jun 2026 08:10:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$LPBB 🤝 Merger
 Acquires NuCube Energy in business combination
@@ -4129,17 +4140,6 @@ Mcap $1.6B · EV $2.3B · Materials</title>
       <pubDate>Mon, 15 Jun 2026 16:27:40 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$NIXX 🤝 Merger
-Acquires Tachyon in reverse merger valued at ~$1B; target shareholders to hold 90%
-Tachyon 9 · $1 billion (estimated) deal · stock
-Mcap $23M · EV $21M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1462223/000168316826004843/nixxy_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-004843</guid>
-      <pubDate>Mon, 15 Jun 2026 16:27:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
