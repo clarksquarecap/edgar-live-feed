@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 26 Jun 2026 20:41:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 20:42:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VSEE 🪙 Debt Restr.
+Default notice on $272K promissory note; 10-day cure
+Mcap $5M · EV $6M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1864531/000118518526002686/vsee8k062626.htm</link>
+      <guid isPermaLink="false">0001185185-26-002686</guid>
+      <pubDate>Fri, 26 Jun 2026 15:42:28 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$GDV ⚔️ Proxy
 Faces proxy contest from Saba Capital; annual meeting vote pending
@@ -4107,17 +4116,6 @@ Mcap $3.8B · EV $7.2B · Energy</title>
       <guid isPermaLink="false">0001193125-26-272060</guid>
       <pubDate>Tue, 16 Jun 2026 10:00:52 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GRAF 🤝 Merger
-Acquires Big3 at $290M pre-money; close Q4 2026
-BIG3 HoldCo · stock
-Mcap $310M · EV $311M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1897463/000110465926074373/tm2618039d1_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-074373</guid>
-      <pubDate>Tue, 16 Jun 2026 09:02:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
