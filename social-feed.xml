@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 27 Jun 2026 14:53:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 14:59:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RDWCF 🤝 Merger · Preliminary
+Acquires Quantum.IQ for up to 14M shares; LOI signed
+stock
+Mcap $78M · EV $76M · Healthcare</title>
+      <link>https://redwoodai.com/redwood-ai-announces-letter-of-intent-for-potential-acquisition-of-quantum-iq/</link>
+      <guid isPermaLink="false">OTC-526359</guid>
+      <pubDate>Sat, 27 Jun 2026 09:59:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$GRAF 🤝 Merger
 Extends BIG3 merger deadline to Sep 27; non-redemption pacts for 4.26M shares
@@ -4127,17 +4138,6 @@ Mcap $2.2B · EV $2.2B · Financials</title>
       <pubDate>Tue, 16 Jun 2026 15:34:37 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$WBS 🤝 Merger
-OCC approves bank merger; Santander acquisition pending Fed/ECB clearance
-Banco Santander
-Mcap $12B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/801337/000080133726000017/wbs-20260612.htm</link>
-      <guid isPermaLink="false">0000801337-26-000017</guid>
-      <pubDate>Tue, 16 Jun 2026 15:20:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
