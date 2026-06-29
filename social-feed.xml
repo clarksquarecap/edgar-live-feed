@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 18:36:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 18:43:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KNDI 🤝 Merger
+Acquires 51% of Xinchu New Energy for $2.9M cash; close July 2026
+US$2.9 million deal · cash
+Mcap $50M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1720250/000121390026073034/ea0296233-6k_kandi.htm</link>
+      <guid isPermaLink="false">0001213900-26-073034</guid>
+      <pubDate>Mon, 29 Jun 2026 13:43:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$JATT 🤝 Merger
 Acquires JATT II Acquisition Corp in all-stock de-SPAC merger
@@ -4113,15 +4124,6 @@ Mcap $242M · EV $241M · Financials</title>
       <pubDate>Wed, 17 Jun 2026 15:13:03 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$PLAG 📤 Divestiture
-Sells Bless HK/Jingshan to Hongzhang Liang for nominal consideration
-Mcap $24M · EV $24M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1117057/000121390026069626/ea0293990-8k_planet.htm</link>
-      <guid isPermaLink="false">0001213900-26-069626</guid>
-      <pubDate>Wed, 17 Jun 2026 15:12:46 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
