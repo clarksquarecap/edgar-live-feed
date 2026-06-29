@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 11:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:42:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CMRF 🤝 Merger
+Acquires CIM Group's real assets management business; CIM Group Holdings takes 67.5% stake
+stock · close 2026-06-24
+Mcap $960M · EV $3.5B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1498547/000119312526286851/d42970d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-286851</guid>
+      <pubDate>Mon, 29 Jun 2026 06:42:09 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ZYME 🤝 Merger
 Acquires Theravance Biopharma for $17 cash + CVR per share; close H2 2026
@@ -4138,16 +4149,6 @@ Mcap $296M · EV $295M · Financials</title>
       <pubDate>Wed, 17 Jun 2026 06:21:04 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ARQQ ⚖️ Litigation · Settled
-Settles class action for $7M; court approved
-Mcap $331M · EV $304M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1859690/000110465926074855/tm2618056d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-074855</guid>
-      <pubDate>Wed, 17 Jun 2026 06:20:53 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>
