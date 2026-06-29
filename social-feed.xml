@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 12:22:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 12:29:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LPRO 🎯 Tender
+Acquired by ANV Group for $3.15 cash per share; tender offer expires July 27
+ANV Group Holdings · ~$373M deal · cash · close Q3 2026
+Mcap $369M · EV $281M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1806201/000110465926078510/tm2617977d3_sctot.htm</link>
+      <guid isPermaLink="false">0001104659-26-078510</guid>
+      <pubDate>Mon, 29 Jun 2026 07:29:13 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$MDA 🤝 Merger
 Acquires Blue Canyon Technologies for $620M cash; close by end of 2026
@@ -4140,17 +4150,6 @@ Mcap $129M · EV $163M · Tech</title>
       <link>https://www.sec.gov/Archives/edgar/data/8146/000119312526273449/d100857ddefa14a.htm</link>
       <guid isPermaLink="false">0001193125-26-273449</guid>
       <pubDate>Wed, 17 Jun 2026 07:54:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ALOT 🤝 Merger
-Acquired by Arcline for $29.00/share cash; vote pending
-cash · close Q4 2026
-Mcap $129M · EV $163M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/8146/000119312526273447/d100857d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-273447</guid>
-      <pubDate>Wed, 17 Jun 2026 07:47:48 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
