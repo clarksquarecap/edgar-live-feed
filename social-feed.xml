@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 10:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:20:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KFY 🤝 Merger
+Acquires AMS for ~£850M ($1.1B) cash+stock; close by Oct 30, 2026
+£850M (~$1.1B) deal · cash+stk
+Mcap $3.7B · EV $3.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/56679/000119312526286757/d102657d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-286757</guid>
+      <pubDate>Mon, 29 Jun 2026 05:20:30 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FRMI ⚔️ Proxy
 Faces proxy contest from Neugebauer; special meeting to elect 7 directors
@@ -4128,17 +4139,6 @@ Mcap $5M · EV $957M · Cons Disc</title>
       <pubDate>Tue, 16 Jun 2026 16:41:04 -0500</pubDate>
       <category>INSOLVENCY</category>
       <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$HLLK 🤝 Merger
-Acquired by EQUORIX LLC; 75.55% common + voting control; drone IP
-stock · close 2026-06-09
-Mcap $17M · EV $17M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1331421/000149315226028933/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028933</guid>
-      <pubDate>Tue, 16 Jun 2026 16:33:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
