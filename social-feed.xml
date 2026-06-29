@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 13:45:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 13:52:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNK 🤝 Merger · Unsolicited
+Extends tender offer for Genco to July 10; 28.4% tendered
+53 prem · cash+stk
+Mcap $1.0B · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926078606/tm2612953d51_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-078606</guid>
+      <pubDate>Mon, 29 Jun 2026 08:52:05 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$GNK 🎯 Tender
 Targeted by Diana with $24.80 cash tender; extended to July 10; $27.34 proposal on table
@@ -4132,15 +4143,6 @@ Mcap $2.6B · EV $3.6B · Healthcare</title>
       <pubDate>Wed, 17 Jun 2026 10:56:23 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$GLASF ✂️ Carve-out
-Deconsolidates GHR retail unit; applies to list on NYSE
-Mcap $1.1B · EV $1.3B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1848731/000110465926074968/tm2617929d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-074968</guid>
-      <pubDate>Wed, 17 Jun 2026 09:40:57 -0500</pubDate>
-      <category>CARVE_OUT</category>
     </item>
   </channel>
 </rss>
