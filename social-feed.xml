@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 13:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 13:10:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SD 🤝 Merger
@@ -4121,16 +4121,6 @@ Mcap $1.1B · EV $1.3B · Cons Stpl</title>
       <guid isPermaLink="false">0001104659-26-074968</guid>
       <pubDate>Wed, 17 Jun 2026 09:40:57 -0500</pubDate>
       <category>CARVE_OUT</category>
-    </item>
-    <item>
-      <title>$GNS 💧 Capital Return · Recap
-Cancels 20M shares (16% of float); total 26.6M this week (22% of float)
-Mcap $42M · EV $74M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847806/000149315226029003/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-029003</guid>
-      <pubDate>Wed, 17 Jun 2026 08:22:58 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,24 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 13:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 13:10:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · CCZ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1166691/000095010326009591/dp249094_8k.htm</link>
+      <guid isPermaLink="false">0000950103-26-009591</guid>
+      <pubDate>Mon, 29 Jun 2026 08:10:25 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>8-K</category>
+      <ns0:headline>Spins off NBCUniversal and Sky in tax-free distribution; close ~1 year</ns0:headline>
+      <ns0:shortName>COMCAST</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Spins off NBCUniversal and Sky in tax-free distribution; close ~1 year&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced plans to separate into two independent public companies via a tax-free spin-off of NBCUniversal and Sky. Shareholders will own shares in both Comcast and NBCUniversal; Brian Roberts remains involved, Mike Cavanagh will lead NBCUniversal, and Michael Angelakis will become Comcast CEO. The transaction is expected to close in approximately one year.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; NBCUniversal (including Sky)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; mid-2027&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1166691/000095010326009591/0000950103-26-009591-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CCZ, CMCSA&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Communications (4841) · 8k_tier1:8.01 · filed 2026-06-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · BTOG</title>
       <link>https://www.sec.gov/Archives/edgar/data/1735556/000110465926078558/tm2619272d2_6k.htm</link>
@@ -9586,26 +9602,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.71 · Mkt cap $90K · EV $-2.8M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1972074/000121390026069483/0001213900-26-069483-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LNKS&lt;/b&gt; · 6-K · Electronic Equipment (3670) · prefill_form:6-K · filed 2026-06-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Recap · GNS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847806/000149315226029003/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-029003</guid>
-      <pubDate>Wed, 17 Jun 2026 08:22:58 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-      <category>6-K</category>
-      <ns0:headline>Cancels 20M shares (16% of float); total 26.6M this week (22% of float)</ns0:headline>
-      <ns0:shortName>Genius Group</ns0:shortName>
-      <ns0:price>0.2100</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Cancels 20M shares (16% of float); total 26.6M this week (22% of float)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Cancelled 20M Class A Ordinary Shares returned from Entrepreneur Resorts Ltd, equivalent to 16% of public float. Combined with prior 6.6M share cancellation, total reduction of 26.6M shares (22% of float) this week. Company targets up to 43.3M shares (36% of float) for repurchase/retirement; AGM on July 7 to vote on new buyback mandate.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Genius Group Limited provides entrepreneur education system business development tools and management consultancy services to entrepreneurs. It operates through Central, Academy, School, and Resorts segments. The company develops entrepreneurial education curriculum with various tools for student learning and faculty earning.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Entrepreneur Resorts Ltd&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-17&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.2100 · Mkt cap $41.8M · EV $74.3M · Consumer Discretionary / Diversified Consumer Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1847806/000149315226029003/0001493152-26-029003-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GNS&lt;/b&gt; · 6-K · Business Services (7372) · prefill_form:6-K · filed 2026-06-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
