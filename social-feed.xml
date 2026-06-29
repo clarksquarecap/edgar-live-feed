@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 14:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 14:37:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ACNT 💧 Capital Return · Buyback
+Repurchases up to 1.75M shares under 10b5-1 plan; runs through Aug 10
+Mcap $126M · EV $91M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/95953/000009595326000103/acnt-20260629.htm</link>
+      <guid isPermaLink="false">0000095953-26-000103</guid>
+      <pubDate>Mon, 29 Jun 2026 09:37:21 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$GNK 🤝 Merger · Unsolicited
 Extends tender offer for Genco to July 10; 28.4% tendered
@@ -4133,16 +4143,6 @@ Mcap $104B · EV $125B · Healthcare</title>
       <pubDate>Wed, 17 Jun 2026 11:21:45 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$CURLD 💧 Capital Return · Recap
-Seeks to remove dual-class sunset trigger; vote June 22
-Mcap $2.6B · EV $3.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1756770/000175677026000056/a6-kcover06152026curaleafh.htm</link>
-      <guid isPermaLink="false">0001756770-26-000056</guid>
-      <pubDate>Wed, 17 Jun 2026 10:56:23 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
