@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 10:13:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:19:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FRMI ⚔️ Proxy
+Faces proxy contest from Neugebauer; special meeting to elect 7 directors
+Toby Neugebauer
+Mcap $5.0B · EV $5.3B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026072822/ea0296218-dfan14a_toby.htm</link>
+      <guid isPermaLink="false">0001213900-26-072822</guid>
+      <pubDate>Mon, 29 Jun 2026 05:19:49 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$VRDN ⚖️ Litigation · Won
 FDA approves Lumvoa for TED; launch immediate
@@ -4129,17 +4139,6 @@ Mcap $17M · EV $17M · Financials</title>
       <pubDate>Tue, 16 Jun 2026 16:33:27 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NHP 🎯 Tender · Unsolicited
-Unsolicited mini-tender from MacKenzie at $7.27/share; NHP neutral
-$1.09M deal · cash
-Mcap $911M · EV $1.9B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1561032/000156103226000043/hct-20260615.htm</link>
-      <guid isPermaLink="false">0001561032-26-000043</guid>
-      <pubDate>Tue, 16 Jun 2026 16:32:47 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
