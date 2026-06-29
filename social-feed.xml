@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 12:36:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 12:43:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MBAI 🤝 Merger
+Merger with MBody AI on track; Nasdaq listing review ongoing
+Mcap $10M · EV $10M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1610590/000121390026072876/ea0296235-6k_checkcap.htm</link>
+      <guid isPermaLink="false">0001213900-26-072876</guid>
+      <pubDate>Mon, 29 Jun 2026 07:43:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GCO ⚔️ Proxy
 Faces proxy contest from Bradley Radoff; two director nominees proposed
@@ -4130,16 +4140,6 @@ Mcap $143M · EV $143M · Tech</title>
       <pubDate>Wed, 17 Jun 2026 08:09:21 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$YMAT 📉 Delisting · Forced
-Staff delisting determination; hearing stay, shares continue trading
-Mcap $8M · EV $20M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1875016/000149315226028998/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028998</guid>
-      <pubDate>Wed, 17 Jun 2026 08:08:50 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
