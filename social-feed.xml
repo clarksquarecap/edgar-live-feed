@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 10:12:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:13:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VRDN ⚖️ Litigation · Won
+FDA approves Lumvoa for TED; launch immediate
+Mcap $2.0B · EV $1.4B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1590750/000119312526286273/d164211d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-286273</guid>
+      <pubDate>Mon, 29 Jun 2026 05:13:11 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
     <item>
       <title>$SOAR 🔎 Strat Review · Strat Alts
 Seeks AI/digital infrastructure deals after M2i merger collapse
@@ -4130,16 +4140,6 @@ Mcap $911M · EV $1.9B · Real Estate</title>
       <pubDate>Tue, 16 Jun 2026 16:32:47 -0500</pubDate>
       <category>TENDER_OFFER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$YUM 📤 Divestiture
-Sells global Pizza Hut ops for $1.488B + $75M earnout; China ops to Yum China for $1.2B
-$2.688B cash (plus up to $75M earnout) deal
-Mcap $43B · EV $55B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1041061/000119312526272881/d47355d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-272881</guid>
-      <pubDate>Tue, 16 Jun 2026 16:24:29 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
