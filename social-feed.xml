@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 10:27:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:34:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TBPH 🤝 Merger
+Acquired by Zymeworks for $17.00 cash + CVR
+22% (over March 3 close) prem · $929 million deal · cash · close H2 2026
+Mcap $909M · EV $555M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1583107/000110465926078454/tm2619064d2_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-078454</guid>
+      <pubDate>Mon, 29 Jun 2026 05:34:20 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VZ 📤 Divestiture
 Contributes intl connectivity biz to 50/50 JV with BT; $625M to BT
@@ -4129,17 +4140,6 @@ Mcap $143M · EV $157M · Industrials</title>
       <pubDate>Wed, 17 Jun 2026 05:13:42 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$OGN 🤝 Merger
-Acquired by Sun Pharma USA for $14.00 cash per share; vote July 23
-$3.68B deal · cash · close Q3 2026
-Mcap $3.5B · EV $11B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1821825/000119312526273323/d15298ddefm14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-273323</guid>
-      <pubDate>Wed, 17 Jun 2026 05:13:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
