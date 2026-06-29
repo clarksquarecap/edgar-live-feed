@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 11:55:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 12:01:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EDGM 📤 Divestiture
+Receives non-binding offer for data center SPV from Spark AI
+Mcap $7M · EV $10M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1652958/000168316826005143/edgemode_8k.htm</link>
+      <guid isPermaLink="false">0001683168-26-005143</guid>
+      <pubDate>Mon, 29 Jun 2026 07:01:41 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$MLM 🤝 Merger
 Acquires Lhoist North America for $13.5B cash+stock; close H2 2026
@@ -4140,16 +4149,6 @@ Mcap $39M · EV $143M · Healthcare</title>
       <pubDate>Wed, 17 Jun 2026 07:06:41 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
       <category>distressed_exchange</category>
-    </item>
-    <item>
-      <title>$RFAFF 📤 Divestiture
-Sells $60.4M in properties; $86.8M unconditional, $196.6M conditional; BMO marketing 1.3M sq ft
-close 2026
-Mcap $803M · EV $1.6B · Financials</title>
-      <link>https://www.newswire.ca/news-releases/rfa-financial-advances-disposition-strategy-with-over-340-million-in-asset-sale-pipeline-866325660.html</link>
-      <guid isPermaLink="false">OTC-525349</guid>
-      <pubDate>Wed, 17 Jun 2026 06:27:47 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
