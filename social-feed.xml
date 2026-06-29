@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 11:15:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:22:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ZYME 🤝 Merger
+Acquires Theravance Biopharma for $17 cash + CVR per share; close H2 2026
+cash
+Mcap $1.8B · EV $1.4B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1937653/000119312526286829/d156494d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-286829</guid>
+      <pubDate>Mon, 29 Jun 2026 06:22:24 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$IRDM 🤝 Merger
 Acquired by Rocket Lab for $27 cash + stock; exchange ratio collared 0.24–0.40
@@ -4137,16 +4148,6 @@ Mcap $331M · EV $304M · Tech</title>
       <pubDate>Wed, 17 Jun 2026 06:20:53 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$QURE ⚖️ Litigation · Won
-FDA agrees Phase I/II data can support accelerated approval BLA for AMT-130; submission Q3 2026
-Mcap $1.7B · EV $1.7B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1590560/000110465926074853/tm2618105d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-074853</guid>
-      <pubDate>Wed, 17 Jun 2026 06:14:00 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
