@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 10:11:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:11:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SLMT ⚔️ Proxy
+Defeats RockawayX proxy contest; all directors re-elected
+RBCH Ltd. (RockawayX)
+Mcap $50M · EV $31M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1939965/000121390026072795/ea0296188-6k_brera.htm</link>
+      <guid isPermaLink="false">0001213900-26-072795</guid>
+      <pubDate>Mon, 29 Jun 2026 05:11:53 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$BMM 📤 Divestiture
 Sells NSG subsidiary to VMS for $15M in shares; close Nov 30
@@ -4129,15 +4139,6 @@ Mcap $435M · EV $985M · Cons Disc</title>
       <guid isPermaLink="false">0001193125-26-272837</guid>
       <pubDate>Tue, 16 Jun 2026 16:15:14 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$VVOS 📜 Rights Issue
-Proposes rights offering: $1.25/share floor, 9-month exercise period
-Mcap $8M · EV $18M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1716166/000149315226028912/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-028912</guid>
-      <pubDate>Tue, 16 Jun 2026 16:07:15 -0500</pubDate>
-      <category>RIGHTS_ISSUE</category>
     </item>
   </channel>
 </rss>
