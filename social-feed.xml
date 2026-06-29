@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 10:41:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:48:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HON 🪓 Spinoff
+Completes spin-off of Aerospace; HONA begins trading on Nasdaq
+Mcap $147B · EV $174B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/773840/000077384026000084/hon-20260625.htm</link>
+      <guid isPermaLink="false">0000773840-26-000084</guid>
+      <pubDate>Mon, 29 Jun 2026 05:48:11 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$TBPH 🤝 Merger
 Acquired by Zymeworks for $17.00 cash + CVR
@@ -4129,17 +4138,6 @@ Mcap $613M · EV $602M · Materials</title>
       <pubDate>Wed, 17 Jun 2026 05:21:54 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$VWAV 🤝 Merger · Preliminary
-Enters JV term sheet for Israel data center; $40M stock to land owner
-stock
-Mcap $143M · EV $157M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2038439/000173112226000866/e7724_8k.htm</link>
-      <guid isPermaLink="false">0001731122-26-000866</guid>
-      <pubDate>Wed, 17 Jun 2026 05:13:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
