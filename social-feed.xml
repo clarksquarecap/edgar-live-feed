@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 29 Jun 2026 10:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 10:07:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AMRX 🤝 Merger
+Acquires Kashiv BioSciences for 28.9M shares of Class A common stock
+stock
+Mcap $5.2B · EV $7.8B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1723128/000114036126026611/ny20075452x2_defm14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-026611</guid>
+      <pubDate>Mon, 29 Jun 2026 05:07:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VKALF 📤 Divestiture
 Divests First Hit Gold Project to First Au for up to $5M
@@ -4138,16 +4149,6 @@ Mcap $20M · EV $2.8B · Real Estate</title>
       <guid isPermaLink="false">0001232582-26-000149</guid>
       <pubDate>Tue, 16 Jun 2026 15:42:38 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$JMG 📉 Delisting · Forced
-Forced NYSE American delisting; review deadline June 19
-Mcap $2.2B · EV $2.2B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2049717/000121390026069280/ea0294865-6k_jmgroup.htm</link>
-      <guid isPermaLink="false">0001213900-26-069280</guid>
-      <pubDate>Tue, 16 Jun 2026 15:34:37 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
