@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 10:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:48:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$INGR 📤 Divestiture
+Sells 51% of Rafhan Maize to Nishat Group for $165M cash; retains 20% stake
+Mcap $6.1B · EV $7.1B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1046257/000104625726000210/ingr-20260630.htm</link>
+      <guid isPermaLink="false">0001046257-26-000210</guid>
+      <pubDate>Tue, 30 Jun 2026 05:48:38 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$VFS 📤 Divestiture
 Sells VFTP subsidiary to group of purchasers; completes asset-light shift
@@ -828,15 +837,6 @@ Mcap $70B · EV $85B · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2089271/000162828026045874/hona-20260625.htm</link>
       <guid isPermaLink="false">0001628280-26-045874</guid>
       <pubDate>Mon, 29 Jun 2026 06:08:21 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$HON 🪓 Spinoff
-Completes spin-off of Aerospace; HONA begins trading on Nasdaq
-Mcap $147B · EV $174B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/773840/000077384026000084/hon-20260625.htm</link>
-      <guid isPermaLink="false">0000773840-26-000084</guid>
-      <pubDate>Mon, 29 Jun 2026 05:48:11 -0500</pubDate>
       <category>SPIN_OFF</category>
     </item>
   </channel>
