@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 12:24:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:30:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WKEY 🤝 Merger · Preliminary
+Proposes SPAC merger of Quantisimo with GigCapital8 at $575M EV
+$575 million (pre-money) deal · close Q1 2027
+Mcap $61M · EV $47M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026073391/ea0296390-6k_wisekey.htm</link>
+      <guid isPermaLink="false">0001213900-26-073391</guid>
+      <pubDate>Tue, 30 Jun 2026 07:30:52 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$KITT 🪙 Debt Restr.
 Converts $4M debt to Series C Preferred; reduces debt, increases equity
@@ -776,36 +787,6 @@ Mcap $10M · EV $10M · Healthcare</title>
       <pubDate>Mon, 29 Jun 2026 07:43:02 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$LQWC 🤝 Merger · Preliminary
-Signs LOI to acquire waste management co. for 2.9M Series B pref + $500K cash
-cash+stk
-Mcap $1M · Industrials</title>
-      <link>https://www.newmediawire.com/news/lifequest-world-corp-signs-letter-of-intent-to-acquire-a-well-established-solid-waste-management-company-in-the-pacific-northwest-7082330</link>
-      <guid isPermaLink="false">OTC-526458</guid>
-      <pubDate>Mon, 29 Jun 2026 07:30:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$GCO ⚔️ Proxy
-Faces proxy contest from Bradley Radoff; two director nominees proposed
-Mcap $435M · EV $985M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/18498/000119312526286904/d63552ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-286904</guid>
-      <pubDate>Mon, 29 Jun 2026 07:29:23 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$LPRO 🎯 Tender
-Acquired by ANV Group for $3.15 cash per share; tender offer expires July 27
-ANV Group Holdings · ~$373M deal · cash · close Q3 2026
-Mcap $369M · EV $281M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1806201/000110465926078510/tm2617977d3_sctot.htm</link>
-      <guid isPermaLink="false">0001104659-26-078510</guid>
-      <pubDate>Mon, 29 Jun 2026 07:29:13 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
