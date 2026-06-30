@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 12:01:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:09:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BACC 🤝 Merger
+Amends merger with Blockfusion; adds earnout up to 9.25M shares
+Mcap $290M · EV $290M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2059654/000118518526002723/bacc8k425062926.htm</link>
+      <guid isPermaLink="false">0001185185-26-002723</guid>
+      <pubDate>Tue, 30 Jun 2026 07:09:13 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$PCRX 📤 Divestiture
 Sells iovera business to Zimmer Biomet for up to $140M ($70M upfront + milestones)
@@ -809,23 +819,6 @@ Mcap $3.5B · EV $6.1B · Utilities</title>
       <pubDate>Mon, 29 Jun 2026 07:15:24 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$TPTA 🪙 Debt Restr.
-Exchanges 66.4% of 6% notes due 2026 for 11% secured notes due 2027</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1674356/000110465926078505/tm2619263d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-078505</guid>
-      <pubDate>Mon, 29 Jun 2026 07:09:03 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$EDGM 📤 Divestiture
-Receives non-binding offer for data center SPV from Spark AI
-Mcap $7M · EV $10M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1652958/000168316826005143/edgemode_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-005143</guid>
-      <pubDate>Mon, 29 Jun 2026 07:01:41 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
