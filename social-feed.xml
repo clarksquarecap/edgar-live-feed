@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 20:24:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 20:31:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ROKU 🤝 Merger
+Acquired by Fox; $1B term loan secured for cash consideration
+cash
+Mcap $20B · EV $18B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428439/000119312526290614/d44317d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-290614</guid>
+      <pubDate>Tue, 30 Jun 2026 15:31:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BCO 🤝 Merger
 Acquires NCR Atleos; shareholder vote clears condition
@@ -827,46 +838,6 @@ Mcap $1.0B · EV $1.3B · Industrials</title>
       <pubDate>Mon, 29 Jun 2026 15:33:37 -0500</pubDate>
       <category>TENDER_OFFER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$ACUR 🪙 Debt Restr.
-Warns of bankruptcy risk without financing by late July; extends debt maturity to Dec 31
-Mcap $60K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/786947/000110465926078839/tm2619325d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-078839</guid>
-      <pubDate>Mon, 29 Jun 2026 15:26:47 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$CMBT 📤 Divestiture
-Sells two Suezmax vessels for ~$100.5M capital gain
-close Q3 2026
-Mcap $4.1B · EV $9.1B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1604481/000091957426004142/p15022533_6-k.htm</link>
-      <guid isPermaLink="false">0000919574-26-004142</guid>
-      <pubDate>Mon, 29 Jun 2026 15:26:02 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$IQMX 🤝 Merger
-Applies for Nasdaq Helsinki listing; SPAC merger with RAAQ on track
-Real Asset Acquisition · close 2026-07-02</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2113060/000121390026073128/ea0296366-425_real.htm</link>
-      <guid isPermaLink="false">0001213900-26-073128</guid>
-      <pubDate>Mon, 29 Jun 2026 15:25:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$IRDM 🤝 Merger
-Acquired by Rocket Lab for $54/share ($27 cash + stock); EV ~$8B
-$8 billion deal · cash+stk
-Mcap $4.6B · EV $6.3B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1418819/000175392626001099/g085787_425.htm</link>
-      <guid isPermaLink="false">0001753926-26-001099</guid>
-      <pubDate>Mon, 29 Jun 2026 15:25:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
