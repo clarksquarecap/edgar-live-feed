@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 17:37:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 17:44:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$YOOV 📤 Divestiture · Unsolicited
+Receives unsolicited offer to sell majority stake in YOOV Group subsidiary
+Mcap $88M · EV $91M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2001794/000121390026073564/ea0296523-6k_concorde.htm</link>
+      <guid isPermaLink="false">0001213900-26-073564</guid>
+      <pubDate>Tue, 30 Jun 2026 12:44:20 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$PLUT 🤝 Merger
 Extends outside date for Choco Up merger to Sep 30
@@ -749,15 +759,6 @@ Mcap $50M · Cons Disc</title>
       <pubDate>Mon, 29 Jun 2026 13:43:21 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GMTL 📍 Stake
-UCAM Limited reduces stake to 21.99% (from 24.34%)
-Mcap $613M · EV $602M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2039972/000165495426006291/a2378k.htm</link>
-      <guid isPermaLink="false">0001654954-26-006291</guid>
-      <pubDate>Mon, 29 Jun 2026 12:43:48 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
