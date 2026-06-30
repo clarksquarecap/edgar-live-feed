@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 20:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 20:11:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$INTZ 🤝 Merger
+Acquires VigilAigent/OW Cyber for $3.25M + up to $6.9M earn-out
+3,250,000 deal · cash+stk
+Mcap $14M · EV $14M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/736012/000168316826005193/intrusion_8k.htm</link>
+      <guid isPermaLink="false">0001683168-26-005193</guid>
+      <pubDate>Tue, 30 Jun 2026 15:11:09 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OBX 🤝 Merger
 Acquires Galera &amp; Obsidian; $350M PIPE; Nasdaq listing under OBX
@@ -832,25 +843,6 @@ Octagon launches proxy solicitation against sub-adviser change; vote July 30</ti
       <guid isPermaLink="false">0001213900-26-073056</guid>
       <pubDate>Mon, 29 Jun 2026 15:16:59 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$KARD 📍 Stake
-Receives 13D from ARCH Venture Fund XIII disclosing 16.2% stake
-Mcap $2.0B · EV $2.3B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2123613/000119312526288406/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-288406</guid>
-      <pubDate>Mon, 29 Jun 2026 15:11:02 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$DVLT 📤 Divestiture
-Sells 837 BTC to Scilex for $50M cash/stock
-to Scilex Holding · $50,000,000 deal
-Mcap $348M · EV $357M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1682149/000110465926078812/tm2619268d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-078812</guid>
-      <pubDate>Mon, 29 Jun 2026 15:10:38 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
