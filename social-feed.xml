@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 12:09:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:16:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PKX 🤝 Merger · Rumor
+Evaluating HMM acquisition; no decision; next disclosure Dec 29
+Mcap $16B · EV $31B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/889132/000119312526289446/d141316d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-289446</guid>
+      <pubDate>Tue, 30 Jun 2026 07:16:30 -0500</pubDate>
+      <category>MERGER</category>
+      <category>rumor_response</category>
+    </item>
     <item>
       <title>$BACC 🤝 Merger
 Amends merger with Blockfusion; adds earnout up to 9.25M shares
@@ -797,28 +807,6 @@ Mcap $49B · EV $48B · Industrials</title>
       <pubDate>Mon, 29 Jun 2026 07:22:05 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$RKLB 🤝 Merger
-Acquires Iridium for $27 cash + 0.24-0.40 RKLB shares per share
-Iridium Communications · cash+stk
-Mcap $49B · EV $48B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819994/000175392626001085/g085783_8k.htm</link>
-      <guid isPermaLink="false">0001753926-26-001085</guid>
-      <pubDate>Mon, 29 Jun 2026 07:15:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$KEN ⚖️ Litigation · Won
-Wins ICSID annulment; Peru ordered to pay $1.3M fees; total award ~$200M
-vs Republic of Peru
-Mcap $3.5B · EV $6.1B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1611005/000117891326003357/zk2635623.htm</link>
-      <guid isPermaLink="false">0001178913-26-003357</guid>
-      <pubDate>Mon, 29 Jun 2026 07:15:24 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
