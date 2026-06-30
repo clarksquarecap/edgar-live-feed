@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 21:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:09:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BLDC 🤝 Merger
+Merges with SPAC Blue Acquisition Corp; $450M enterprise value
+$450,000,000 deal · stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097508/000118518526002745/bldcs4a3061126.htm</link>
+      <guid isPermaLink="false">0001185185-26-002745</guid>
+      <pubDate>Tue, 30 Jun 2026 16:09:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CEPO 🤝 Merger
 Postpones shareholder meeting to July 10; redemption deadline July 8
@@ -796,24 +806,6 @@ Mcap $91M · Healthcare</title>
       <guid isPermaLink="false">0000921895-26-001695</guid>
       <pubDate>Mon, 29 Jun 2026 16:15:22 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$MTX 🪙 Debt Restr.
-Files Plan of Reorganization in BMI OldCo Chapter 11
-Mcap $2.5B · EV $3.2B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/891014/000089101426000155/mtx-20260629.htm</link>
-      <guid isPermaLink="false">0000891014-26-000155</guid>
-      <pubDate>Mon, 29 Jun 2026 16:08:18 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$WKEY 🌍 Re-domicile
-Redomiciles to British Virgin Islands via merger
-Mcap $61M · EV $47M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026073183/ea0296344-6k_wisekey.htm</link>
-      <guid isPermaLink="false">0001213900-26-073183</guid>
-      <pubDate>Mon, 29 Jun 2026 16:07:31 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
