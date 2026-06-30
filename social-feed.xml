@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 10:29:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:35:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$VFS 📤 Divestiture
@@ -838,27 +838,6 @@ Mcap $147B · EV $174B · Industrials</title>
       <guid isPermaLink="false">0000773840-26-000084</guid>
       <pubDate>Mon, 29 Jun 2026 05:48:11 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$MAXNQ 🔥 Insolvency · Administration
-Receives letters of demand accelerating notes; judicial management continues
-Mcap $4M · EV $312M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1796898/000119312526286776/maxn_6-k_june_29_2026.htm</link>
-      <guid isPermaLink="false">0001193125-26-286776</guid>
-      <pubDate>Mon, 29 Jun 2026 05:34:39 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>administration</category>
-    </item>
-    <item>
-      <title>$TBPH 🤝 Merger
-Acquired by Zymeworks for $17.00 cash + CVR
-22% (over March 3 close) prem · $929 million deal · cash · close H2 2026
-Mcap $909M · EV $555M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1583107/000110465926078454/tm2619064d2_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-078454</guid>
-      <pubDate>Mon, 29 Jun 2026 05:34:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
