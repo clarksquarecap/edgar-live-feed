@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 20:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 20:41:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PAYO 🤝 Merger
+Acquired by Nuvei for $2.75B; 44% premium; vote Q3 2026
+44% prem · $2.75 billion deal · cash · close mid-2027
+Mcap $2.4B · EV $2.1B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1845815/000095010326009815/dp248996_defa14a.htm</link>
+      <guid isPermaLink="false">0000950103-26-009815</guid>
+      <pubDate>Tue, 30 Jun 2026 15:41:10 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NATL 🤝 Merger
 Merger with Brink's approved; 99.8% stockholder vote for
@@ -849,17 +860,6 @@ Mcap $189M · Financials</title>
       <guid isPermaLink="false">0001751783-26-000027</guid>
       <pubDate>Mon, 29 Jun 2026 15:42:08 -0500</pubDate>
       <category>DEMUTUALIZATION</category>
-    </item>
-    <item>
-      <title>$EBAY 🤝 Merger · Unsolicited
-Receives $125/share cash+stock unsolicited bid from GameStop
-cash+stk
-Mcap $48B · EV $51B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1065088/000119312526288534/d43040d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-288534</guid>
-      <pubDate>Mon, 29 Jun 2026 15:34:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
