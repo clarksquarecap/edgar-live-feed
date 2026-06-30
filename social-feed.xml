@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 12:39:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:46:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AGRZ 💧 Capital Return · Recap
+Dual-class recap: 100:1 voting ratio; authorized shares 10x
+Mcap $7M · EV $9M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2009233/000121390026073402/ea0296325-6k_agroz.htm</link>
+      <guid isPermaLink="false">0001213900-26-073402</guid>
+      <pubDate>Tue, 30 Jun 2026 07:46:03 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
     <item>
       <title>$SVRE 🤝 Merger · Preliminary
 Acquires 33.3% of Gryphen Aircraft for €5M; option to 53% at €30M valuation
@@ -785,27 +795,6 @@ Mcap $498M · EV $397M · Energy</title>
       <link>https://www.sec.gov/Archives/edgar/data/1349436/000121390026072879/ea0296206-8k_sandridge.htm</link>
       <guid isPermaLink="false">0001213900-26-072879</guid>
       <pubDate>Mon, 29 Jun 2026 07:56:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$JATT 🤝 Merger
-Acquired by Talawar Tx in stock-for-stock merger
-stock
-Mcap $81M · EV $81M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2112446/000119312526286926/d136998d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-286926</guid>
-      <pubDate>Mon, 29 Jun 2026 07:43:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MBAI 🤝 Merger
-Merger with MBody AI on track; Nasdaq listing review ongoing
-Mcap $10M · EV $10M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1610590/000121390026072876/ea0296235-6k_checkcap.htm</link>
-      <guid isPermaLink="false">0001213900-26-072876</guid>
-      <pubDate>Mon, 29 Jun 2026 07:43:02 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
