@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 10:11:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:14:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OCFC 📤 Divestiture
+Sells $1.3B NYC multifamily loan portfolio
+$1.3 billion deal
+Mcap $1.9B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1004702/000100470226000111/ocfc-20260629.htm</link>
+      <guid isPermaLink="false">0001004702-26-000111</guid>
+      <pubDate>Tue, 30 Jun 2026 05:14:25 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$BAK 🪙 Debt Restr.
 Downgraded to C/D by Fitch/S&amp;P; files precautionary injunctive relief
@@ -834,56 +844,6 @@ Mcap $5.0B · EV $5.3B · Real Estate</title>
       <guid isPermaLink="false">0001213900-26-072822</guid>
       <pubDate>Mon, 29 Jun 2026 05:19:49 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$VRDN ⚖️ Litigation · Won
-FDA approves Lumvoa for TED; launch immediate
-Mcap $2.0B · EV $1.4B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1590750/000119312526286273/d164211d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-286273</guid>
-      <pubDate>Mon, 29 Jun 2026 05:13:11 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$SOAR 🔎 Strat Review · Strat Alts
-Seeks AI/digital infrastructure deals after M2i merger collapse
-Mcap $6M · EV $3M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1853070/000149315226030377/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-030377</guid>
-      <pubDate>Mon, 29 Jun 2026 05:12:56 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$SHG 🤝 Merger · Rumor
-Responds to Lotte Insurance acquisition rumor; under review
-Mcap $28B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1263043/000119312526286738/form_6k_260629.htm</link>
-      <guid isPermaLink="false">0001193125-26-286738</guid>
-      <pubDate>Mon, 29 Jun 2026 05:12:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>rumor_response</category>
-    </item>
-    <item>
-      <title>$SLMT ⚔️ Proxy
-Defeats RockawayX proxy contest; all directors re-elected
-RBCH Ltd. (RockawayX)
-Mcap $50M · EV $31M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1939965/000121390026072795/ea0296188-6k_brera.htm</link>
-      <guid isPermaLink="false">0001213900-26-072795</guid>
-      <pubDate>Mon, 29 Jun 2026 05:11:53 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$HKIT 🌍 Re-domicile
-Proposes Cayman-to-BVI continuation, name change; AGM July 29
-Mcap $3M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1742341/000121390026072802/ea0294579-6k_hitek.htm</link>
-      <guid isPermaLink="false">0001213900-26-072802</guid>
-      <pubDate>Mon, 29 Jun 2026 05:11:12 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>redomiciliation</category>
     </item>
   </channel>
 </rss>
