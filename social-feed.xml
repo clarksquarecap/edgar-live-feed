@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 10:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:11:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BAK 🪙 Debt Restr.
+Downgraded to C/D by Fitch/S&amp;P; files precautionary injunctive relief
+Mcap $896M · EV $13B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426003628/bak20260629_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-003628</guid>
+      <pubDate>Tue, 30 Jun 2026 05:11:05 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$ANGX 🤝 Merger
 Acquires Tuttle Twins Show and Toothy Cow Productions for 10.15M shares + cash
@@ -875,16 +884,6 @@ Mcap $3M · Tech</title>
       <pubDate>Mon, 29 Jun 2026 05:11:12 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
       <category>redomiciliation</category>
-    </item>
-    <item>
-      <title>$BMM 📤 Divestiture
-Sells NSG subsidiary to VMS for $15M in shares; close Nov 30
-to Alpha Future Funds · $15 million deal · close 2026-11-30
-Mcap $624M · EV $608M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1732379/000155485526001441/MainDocument.htm</link>
-      <guid isPermaLink="false">0001554855-26-001441</guid>
-      <pubDate>Mon, 29 Jun 2026 05:10:30 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
