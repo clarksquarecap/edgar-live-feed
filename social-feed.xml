@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 12:17:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:24:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KITT 🪙 Debt Restr.
+Converts $4M debt to Series C Preferred; reduces debt, increases equity
+Mcap $6M · EV $25M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849820/000184982026000101/kitt-20260626.htm</link>
+      <guid isPermaLink="false">0001849820-26-000101</guid>
+      <pubDate>Tue, 30 Jun 2026 07:24:20 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>debt_for_equity_swap</category>
+    </item>
     <item>
       <title>$LCII 🤝 Merger
 Acquired by Patrick Industries for 1.2440x PATK shares; ~48% ownership
@@ -796,28 +806,6 @@ Mcap $369M · EV $281M · Financials</title>
       <guid isPermaLink="false">0001104659-26-078510</guid>
       <pubDate>Mon, 29 Jun 2026 07:29:13 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$MDA 🤝 Merger
-Acquires Blue Canyon Technologies for $620M cash; close by end of 2026
-US$620 million deal · cash
-Mcap $5.8B · EV $5.7B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1857047/000110465926078520/tm2618697d2_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-078520</guid>
-      <pubDate>Mon, 29 Jun 2026 07:22:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RKLB 🤝 Merger
-Acquires Iridium for $27 cash + stock; collared 0.24-0.40x
-Iridium Communications · cash+stk
-Mcap $49B · EV $48B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819994/000175392626001087/g085783_8k.htm</link>
-      <guid isPermaLink="false">0001753926-26-001087</guid>
-      <pubDate>Mon, 29 Jun 2026 07:22:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
