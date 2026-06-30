@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 10:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:22:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SDOT 📤 Divestiture
+Sells Sadot Latam to Dream America for $1K cash + profit-sharing
+$1,000 cash + contingent profit-sharing deal · close 2026-06-26
+Mcap $14M · EV $28M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1701756/000173112226000897/e7749_8-k.htm</link>
+      <guid isPermaLink="false">0001731122-26-000897</guid>
+      <pubDate>Tue, 30 Jun 2026 05:22:04 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$SSRM 📤 Divestiture
 Sells Çöpler mine to Cengiz Holding for ~$1.49B cash
@@ -833,27 +843,6 @@ Mcap $195B · EV $388B · Comms</title>
       <pubDate>Mon, 29 Jun 2026 05:27:39 -0500</pubDate>
       <category>DIVESTITURE</category>
       <category>joint_venture</category>
-    </item>
-    <item>
-      <title>$KFY 🤝 Merger
-Acquires AMS for ~£850M ($1.1B) cash+stock; close by Oct 30, 2026
-£850M (~$1.1B) deal · cash+stk
-Mcap $3.7B · EV $3.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/56679/000119312526286757/d102657d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-286757</guid>
-      <pubDate>Mon, 29 Jun 2026 05:20:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FRMI ⚔️ Proxy
-Faces proxy contest from Neugebauer; special meeting to elect 7 directors
-Toby Neugebauer
-Mcap $5.0B · EV $5.3B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026072822/ea0296218-dfan14a_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-072822</guid>
-      <pubDate>Mon, 29 Jun 2026 05:19:49 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
