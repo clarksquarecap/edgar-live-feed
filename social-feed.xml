@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 20:13:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 20:22:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FLS 🤝 Merger
+Acquires Trillium Flow Technologies' Valves Division for $490M cash
+$490 million deal · cash
+Mcap $9.4B · EV $11B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/30625/000162828026046231/fls-20260630.htm</link>
+      <guid isPermaLink="false">0001628280-26-046231</guid>
+      <pubDate>Tue, 30 Jun 2026 15:22:48 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EGBN ⚖️ Litigation · Settled
 Settles DOJ AML investigation; $9.8M fully accrued; non-prosecution agreement
@@ -845,25 +856,6 @@ Mcap $4.6B · EV $6.3B · Comms</title>
       <pubDate>Mon, 29 Jun 2026 15:25:22 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GLP 📉 Delisting · Voluntary
-Redeems Series B Preferred Units at $25; delisting July 30
-effective 2026-07-30
-Mcap $1.6B · EV $3.9B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1323468/000110465926078830/tm2619126d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-078830</guid>
-      <pubDate>Mon, 29 Jun 2026 15:18:05 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-    </item>
-    <item>
-      <title>$XFLT 👀 Activist
-Octagon launches proxy solicitation against sub-adviser change; vote July 30</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026073056/ea0296043-dfan14a_oct.htm</link>
-      <guid isPermaLink="false">0001213900-26-073056</guid>
-      <pubDate>Mon, 29 Jun 2026 15:16:59 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
