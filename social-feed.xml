@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 20:43:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 20:44:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ADVB 📤 Divestiture
+Sells Taiwan subsidiary for $490K; close within 3 months
+$490,000 deal
+Mcap $8M · EV $6M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1941029/000121390026073735/ea0296529-8k_advanced.htm</link>
+      <guid isPermaLink="false">0001213900-26-073735</guid>
+      <pubDate>Tue, 30 Jun 2026 15:44:03 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$VWAV 🤝 Merger
 Acquires 51% of Meteor Aerospace for ~$20.4M in stock
@@ -863,16 +873,6 @@ Mcap $11M · EV $12M · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/1757715/000143774926022007/ater20260629_defa14a.htm</link>
       <guid isPermaLink="false">0001437749-26-022007</guid>
       <pubDate>Mon, 29 Jun 2026 15:50:50 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CCOI 📤 Divestiture
-Sells 10 data center facilities to I Squared Capital for $225M cash
-$225 million deal · close 2026-06-29
-Mcap $641M · EV $3.2B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1158324/000110465926078858/tm2619124d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-078858</guid>
-      <pubDate>Mon, 29 Jun 2026 15:43:29 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>
