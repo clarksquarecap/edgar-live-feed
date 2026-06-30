@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 21:19:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:27:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNK 🎯 Tender · Unsolicited
+Unsolicited $27.34/shr bid from Diana backed by extended financing to Sep 30
+Diana Shipping · 53% prem · 1.412 billion deal · cash+stk
+Mcap $1.0B · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926079410/tm2619439d1_sctota.htm</link>
+      <guid isPermaLink="false">0001104659-26-079410</guid>
+      <pubDate>Tue, 30 Jun 2026 16:27:20 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$PATK 🤝 Merger
 Merges with LCI in all-stock deal; close H1 2027
@@ -750,49 +761,6 @@ Mcap $68B · EV $88B · Real Estate</title>
       <link>https://www.sec.gov/Archives/edgar/data/1297996/000119312526288761/d100507d8k.htm</link>
       <guid isPermaLink="false">0001193125-26-288761</guid>
       <pubDate>Mon, 29 Jun 2026 16:33:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DAAQ 🤝 Merger
-Acquires Old Glory Holding Co via SPAC merger; S-4/A filed
-stock
-Mcap $239M · EV $238M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2052162/000149315226031117/forms-4a.htm</link>
-      <guid isPermaLink="false">0001493152-26-031117</guid>
-      <pubDate>Mon, 29 Jun 2026 16:25:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CMII 🤝 Merger
-Acquires Elroy Air in $1B SPAC merger; $165M PIPE; close Q4
-$1B (implied post-money valuation) deal · stock · close Q4 2026
-Mcap $318M · EV $317M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2088805/000121390026073210/ea0296358-425_columbus2.htm</link>
-      <guid isPermaLink="false">0001213900-26-073210</guid>
-      <pubDate>Mon, 29 Jun 2026 16:25:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GCO ⚔️ Proxy
-Faces proxy contest from Radoff-Jumana Group; seeks 2 board seats
-8.7 stake
-Mcap $402M · EV $951M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/18498/000092189526001696/dfan14a09076076_06292026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001696</guid>
-      <pubDate>Mon, 29 Jun 2026 16:25:08 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$TMRC 🤝 Merger
-Acquired by USA Rare Earth for stock; vote July 28
-~$94.2M (based on 3,823,328 USAR shares at $24.64) deal · stock · close Q3 2026
-Mcap $71M · EV $67M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1445942/000121390026073218/ea0296324-01.htm</link>
-      <guid isPermaLink="false">0001213900-26-073218</guid>
-      <pubDate>Mon, 29 Jun 2026 16:24:52 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
