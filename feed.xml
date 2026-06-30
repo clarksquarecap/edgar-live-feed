@@ -6,8 +6,23 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 18:55:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 19:01:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · REX ETF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2043954/000141783526000193/primary_doc.xml</link>
+      <guid isPermaLink="false">0001417835-26-000193</guid>
+      <pubDate>Tue, 30 Jun 2026 14:01:35 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>25-NSE</category>
+      <ns0:headline>Delisting effective July 10; securities redeemed June 18</ns0:headline>
+      <ns0:shortName>REX ETF</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Delisting effective July 10; securities redeemed June 18&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;REX ETF Trust's securities were redeemed on June 18, 2026, and trading was suspended on June 10. The Cboe BZX Exchange will remove the securities from listing effective July 10, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2043954/000141783526000193/0001417835-26-000193-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;25-NSE · prefill_form:25-NSE · filed 2026-06-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · ALRTF</title>
       <link>https://www.sec.gov/Archives/edgar/data/1930419/000190359626000269/alrt_6k.htm</link>
@@ -9576,26 +9591,6 @@
 &lt;p&gt;&lt;i&gt;Px $16.32 · Mkt cap $735.1M · EV $576.0M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2110029/000119312526275971/0001193125-26-275971-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EROC&lt;/b&gt; · SCHEDULE 13D · Electronic Equipment (3620) · fresh_13d · filed 2026-06-18&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · IBCP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/39311/000003931126000053/ibcp-20260617.htm</link>
-      <guid isPermaLink="false">0000039311-26-000053</guid>
-      <pubDate>Thu, 18 Jun 2026 15:43:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <ns0:headline>HCB shareholders approve merger; close July 1</ns0:headline>
-      <ns0:shortName>INDEPENDENT BANK CORP /MI</ns0:shortName>
-      <ns0:price>34.35</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;HCB shareholders approve merger; close July 1&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;HCB Financial Corp shareholders voted to approve the merger with Independent Bank Corp (IBCP) under the Agreement and Plan of Merger dated March 18, 2026. The parties anticipate closing on July 1, 2026, subject to satisfaction of applicable closing conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Independent Bank Corporation operates as the bank holding company for Independent Bank that provides banking services in the United States. The company offers demand deposits, interest checking, money market accounts, savings accounts, and time certificates of deposit, including free checking accounts.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; HCB Financial Corp&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-03-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-07-01&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $34.35 · Mkt cap $706.2M · Fwd P/E 9.5x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/39311/000003931126000053/0000039311-26-000053-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IBCP&lt;/b&gt; · 8-K · Items 8.01 · Depository Institutions (6022) · 8k_tier1:8.01 · filed 2026-06-18&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
