@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 21:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:18:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PATK 🤝 Merger
+Merges with LCI in all-stock deal; close H1 2027
+stock
+Mcap $3.1B · EV $4.6B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/76605/000007660526000065/a425filing-teamcommunicati.htm</link>
+      <guid isPermaLink="false">0000076605-26-000065</guid>
+      <pubDate>Tue, 30 Jun 2026 16:18:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ANGH 📦 Going Private · Preliminary
 Receives preliminary going-private bid from OSN at $3.39/share
@@ -784,49 +795,6 @@ Mcap $71M · EV $67M · Materials</title>
       <pubDate>Mon, 29 Jun 2026 16:24:52 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TOMZ 🤝 Merger
-Acquires Carbonium Core; Carbonium holders to own 90% of combined company
-stock · close Q3 2026
-Mcap $17M · EV $20M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/314227/000165495426006304/tomz_8k.htm</link>
-      <guid isPermaLink="false">0001654954-26-006304</guid>
-      <pubDate>Mon, 29 Jun 2026 16:17:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$EQR 🤝 Merger
-Acquires AvalonBay in stock merger; each AVB share → 2.793 EQR shares
-AvalonBay Communities · stock
-Mcap $26B · EV $35B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/906107/000114036126026757/ny20076479x1_s4.htm</link>
-      <guid isPermaLink="false">0001140361-26-026757</guid>
-      <pubDate>Mon, 29 Jun 2026 16:17:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$IRDM 🤝 Merger
-Acquired by Rocket Lab for $27 cash + variable stock; close mid-2027
-cash+stk
-Mcap $4.6B · EV $6.3B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1418819/000110465926078918/tm2619278d8_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-078918</guid>
-      <pubDate>Mon, 29 Jun 2026 16:16:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SEER ⚔️ Proxy
-Nominates 3-director slate at Seer; AGM July 28
-7.7 stake
-Mcap $91M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726445/000092189526001695/dfan14a09076074_06292026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001695</guid>
-      <pubDate>Mon, 29 Jun 2026 16:15:22 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
