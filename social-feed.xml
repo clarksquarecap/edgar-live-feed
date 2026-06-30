@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 20:52:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 20:52:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$PATK 🤝 Merger
@@ -825,24 +825,6 @@ Mcap $13B · EV $15B · Industrials</title>
       <pubDate>Mon, 29 Jun 2026 16:00:12 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ALKT 👀 Activist
-Seeks Alkami sale exploration; 6.3% stake
-Mcap $1.8B · EV $2.0B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1529274/000090266426002944/primary_doc.xml</link>
-      <guid isPermaLink="false">0000902664-26-002944</guid>
-      <pubDate>Mon, 29 Jun 2026 15:52:35 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$MIDD 🪓 Spinoff
-Spins off Midera Food Processing; distribution July 6
-Mcap $7.8B · EV $9.6B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/769520/000119312526288597/d135201d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-288597</guid>
-      <pubDate>Mon, 29 Jun 2026 15:52:19 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
