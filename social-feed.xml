@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 30 Jun 2026 10:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 10:09:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DMB ⚔️ Proxy
+Faces Saba proxy contest; board opposes declassification and dissident nominee
+Saba Capital
+Mcap $1.2B · EV $1.3B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1565381/000156538126000003/dmbdmfprelimproxy.htm</link>
+      <guid isPermaLink="false">0001565381-26-000003</guid>
+      <pubDate>Tue, 30 Jun 2026 05:09:11 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$SPGX 🌑 Going Dark
 Voluntarily deregisters with SEC; 135 holders of record
@@ -834,17 +844,6 @@ Mcap $624M · EV $608M · Materials</title>
       <guid isPermaLink="false">0001554855-26-001441</guid>
       <pubDate>Mon, 29 Jun 2026 05:10:30 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AMRX 🤝 Merger
-Acquires Kashiv BioSciences for 28.9M shares of Class A common stock
-stock
-Mcap $5.2B · EV $7.8B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1723128/000114036126026611/ny20075452x2_defm14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-026611</guid>
-      <pubDate>Mon, 29 Jun 2026 05:07:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
