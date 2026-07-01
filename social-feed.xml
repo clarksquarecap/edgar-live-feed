@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 21:27:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:29:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CMRF 📍 Stake
+Receives 13D from CIM Group Holdings; 100% of Special Voting Preferred Stock
+Mcap $854M · EV $3.4B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1498547/000119312526292841/primary_doc.xml</link>
+      <guid isPermaLink="false">0001193125-26-292841</guid>
+      <pubDate>Wed, 01 Jul 2026 16:29:21 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$FRMI ⚔️ Proxy
 Faces proxy contest from Neugebauer; special meeting sought
@@ -676,47 +685,6 @@ Mcap $5M · EV $7M · Industrials</title>
       <pubDate>Tue, 30 Jun 2026 16:29:47 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender
-Diana increases tender offer to $27.34/share (cash + DSX stock); financing extended
-53% prem · cash+stk
-Mcap $1.0B · EV $1.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926079414/tm2619439d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-079414</guid>
-      <pubDate>Tue, 30 Jun 2026 16:28:14 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$GETY 💥 Busted M&amp;A
-Terminates Shutterstock merger; CMA condition rejected; seeks financing
-Mcap $394M · EV $2.3B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1898496/000121390026073819/ea0296572-8k425_getty.htm</link>
-      <guid isPermaLink="false">0001213900-26-073819</guid>
-      <pubDate>Tue, 30 Jun 2026 16:27:50 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$CPRX 🤝 Merger
-Acquired by Angelini Pharma for $31.50 cash/share; vote July 8
-Angelini Pharma S.p.A. · cash · close Q3 2026
-Mcap $3.9B · EV $3.1B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1369568/000119312526290840/d834803ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-290840</guid>
-      <pubDate>Tue, 30 Jun 2026 16:27:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender · Unsolicited
-Unsolicited $27.34/shr bid from Diana backed by extended financing to Sep 30
-Diana Shipping · 53% prem · 1.412 billion deal · cash+stk
-Mcap $1.0B · EV $1.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926079410/tm2619439d1_sctota.htm</link>
-      <guid isPermaLink="false">0001104659-26-079410</guid>
-      <pubDate>Tue, 30 Jun 2026 16:27:20 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
