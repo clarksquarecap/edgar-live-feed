@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 21:05:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:12:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LCII 🤝 Merger
+All-stock merger with Patrick Industries; $5.5B combined equity
+stock
+Mcap $2.4B · EV $3.5B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/763744/000076374426000059/transcript.htm</link>
+      <guid isPermaLink="false">0000763744-26-000059</guid>
+      <pubDate>Wed, 01 Jul 2026 16:12:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AON 💧 Capital Return · Buyback
 Increases buyback authorization by $7.5B to ~$8.3B total
@@ -704,37 +715,6 @@ Mcap $3.1B · EV $4.6B · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/76605/000007660526000065/a425filing-teamcommunicati.htm</link>
       <guid isPermaLink="false">0000076605-26-000065</guid>
       <pubDate>Tue, 30 Jun 2026 16:18:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ANGH 📦 Going Private · Preliminary
-Receives preliminary going-private bid from OSN at $3.39/share
-OSN Streaming Limited · cash
-Mcap $30M · EV $7M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1871983/000121390026073784/ea0296545-6k_anghami.htm</link>
-      <guid isPermaLink="false">0001213900-26-073784</guid>
-      <pubDate>Tue, 30 Jun 2026 16:10:04 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$WFF 💧 Capital Return · Recap
-Proposes dual-class structure with 100-vote Class A shares; vote July 10
-Mcap $15M · EV $13M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1980210/000121390026073791/ea0296445-6k_wfhold.htm</link>
-      <guid isPermaLink="false">0001213900-26-073791</guid>
-      <pubDate>Tue, 30 Jun 2026 16:09:27 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-    </item>
-    <item>
-      <title>$BLDC 🤝 Merger
-Merges with SPAC Blue Acquisition Corp; $450M enterprise value
-$450,000,000 deal · stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2097508/000118518526002745/bldcs4a3061126.htm</link>
-      <guid isPermaLink="false">0001185185-26-002745</guid>
-      <pubDate>Tue, 30 Jun 2026 16:09:00 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
