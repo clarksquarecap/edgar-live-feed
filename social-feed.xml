@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 11:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 11:13:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KR 🤝 Merger
+Acquires Giant Eagle for $1.65B ($1.25B cash + $400M liabilities)
+$1.65 billion deal · cash · close 2027
+Mcap $34B · EV $55B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/56873/000110465926079552/tm2619434d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-079552</guid>
+      <pubDate>Wed, 01 Jul 2026 06:13:07 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NRGV 🪙 Debt Restr.
 Increases convertible debenture facility to $150M; waives covenant defaults
@@ -776,27 +787,6 @@ Mcap $152M · EV $494M · Cons Stpl</title>
       <pubDate>Tue, 30 Jun 2026 06:15:04 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$NUMD 🤝 Merger
-Acquires Avid Gold for 4.5M Series A Preferred + $100K debt; close July 8
-stock · close 2026-07-08
-Mcap $920K · EV $1M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1543637/000157587226000459/numd002_8k.htm</link>
-      <guid isPermaLink="false">0001575872-26-000459</guid>
-      <pubDate>Tue, 30 Jun 2026 06:08:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NVCR ⚖️ Litigation · Won
-Receives CE Mark for Optune Pax in locally advanced pancreatic cancer
-Mcap $1.8B · EV $1.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1645113/000164511326000056/nvcr-20260630.htm</link>
-      <guid isPermaLink="false">0001645113-26-000056</guid>
-      <pubDate>Tue, 30 Jun 2026 06:07:54 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
