@@ -6,8 +6,26 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 10:06:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:08:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💔 Busted · MEHA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1837254/000121390026073885/ea0296448-8k_functional.htm</link>
+      <guid isPermaLink="false">0001213900-26-073885</guid>
+      <pubDate>Wed, 01 Jul 2026 05:08:14 -0500</pubDate>
+      <category>BUSTED_MA</category>
+      <category>8-K</category>
+      <ns0:headline>Terminated acquisition of BullionFX Alchemy platform; seller elected to end</ns0:headline>
+      <ns0:shortName>Functional Brands</ns0:shortName>
+      <ns0:price>0.0100</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Terminated acquisition of BullionFX Alchemy platform; seller elected to end&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Terminated its asset purchase agreement with BullionFX to acquire the Alchemy gold-backed blockchain settlement platform for 100,000 shares of Series D Convertible Preferred Stock. The seller elected to terminate the agreement on June 29, 2026, and the transaction will not be consummated.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Functional Brands Inc. manufactures and distributes nutraceutical supplements in the United States. The company offers supplements in various categories, such as pain, energy, prenatal, general health, bone and joint, gastro, immunity, cardiac, detox, mental clarity and focus, sleep, and urinary health.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BullionFX&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $220K · EV $8.9M · Consumer Staples / Personal Care Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1837254/000121390026073885/0001213900-26-073885-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MEHA&lt;/b&gt; · 8-K · Items 1.02 · Chemicals / Pharma (2833) · 8k_tier1:1.02 · filed 2026-07-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · VIASP</title>
       <link>https://www.sec.gov/Archives/edgar/data/1606268/000135445726000630/primary_doc.xml</link>
@@ -9565,26 +9583,6 @@
 &lt;p&gt;&lt;i&gt;Px $216.49 · Mkt cap $382.49B · EV $446.06B · Fwd P/E 14.4x · Fwd EV/EBITDA 13.1x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1551152/000110465926076067/0001104659-26-076067-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ABBV&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01 · filed 2026-06-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · CRH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/849395/000119312526276686/d864737d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-276686</guid>
-      <pubDate>Mon, 22 Jun 2026 06:13:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <ns0:headline>Acquires Arcosa for $150 cash per share</ns0:headline>
-      <ns0:shortName>CRH PUBLIC LTD CO</ns0:shortName>
-      <ns0:price>111.24</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Arcosa for $150 cash per share&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;CRH, through its indirect subsidiary CRH Americas, has entered into a definitive merger agreement to acquire Arcosa, Inc. for $150.00 per share in cash. The transaction is subject to Arcosa stockholder approval, HSR and other regulatory clearances, and customary closing conditions, with an outside date of June 21, 2027 (extendable by up to six months for antitrust clearance).&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CRH plc, together with its subsidiaries, provides building materials solutions in Ireland, the United States, the United Kingdom, rest of Europe, and internationally. It operates through three segments: Americas Materials Solutions, Americas Building Solutions, and International Solutions. The company offers building materials for the construction and maintenance of public infrastructure, and commercial and residential buildings, as well as construction and renovation of transportation infrastru…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Arcosa, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $150.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-21&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $111.24 · Mkt cap $74.33B · EV $92.99B · Fwd P/E 18.0x · Fwd EV/EBITDA 10.8x · Materials / Construction Materials&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/849395/000119312526276686/0001193125-26-276686-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CRH&lt;/b&gt; · 8-K · Items 1.01, 7.01, 8.01, 9.01 · Stone / Glass (3241) · 8k_tier1:1.01,7.01,8.01 · filed 2026-06-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
