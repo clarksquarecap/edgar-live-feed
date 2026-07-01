@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 12:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 12:47:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OPTU 💧 Capital Return · Self-tender
+Self-tender oversubscribed; buys 120M shares at $2.50, prorated 47.1%
+Mcap $691M · EV $26B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1702780/000121390026074020/ea0292029-03.htm</link>
+      <guid isPermaLink="false">0001213900-26-074020</guid>
+      <pubDate>Wed, 01 Jul 2026 07:47:27 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$AABB 🤝 Merger · Preliminary
 Signs LOI to acquire gold mine for $30M
@@ -712,27 +722,6 @@ Mcap $8M · EV $5M · Industrials</title>
       <pubDate>Tue, 30 Jun 2026 07:53:48 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$TSNDF 🤝 Merger
-Acquires 5th NJ dispensary (Aunt Mary's) for $9M cash+convertible note
-Aunt Mary's Dispensary · $9,000,000 deal · cash+stk
-Mcap $205M · EV $419M · Healthcare</title>
-      <link>https://sa.marketscreener.com/news/terrascend-signs-agreement-to-acquire-fifth-dispensary-in-new-jersey-ce7f5fdcdd81f322</link>
-      <guid isPermaLink="false">OTC-526703</guid>
-      <pubDate>Tue, 30 Jun 2026 07:46:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AGRZ 💧 Capital Return · Recap
-Dual-class recap: 100:1 voting ratio; authorized shares 10x
-Mcap $7M · EV $9M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2009233/000121390026073402/ea0296325-6k_agroz.htm</link>
-      <guid isPermaLink="false">0001213900-26-073402</guid>
-      <pubDate>Tue, 30 Jun 2026 07:46:03 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
