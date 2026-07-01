@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 09:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:06:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VIASP 📉 Delisting · Forced
+Forced delisting of Series A Preferred by Nasdaq</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1606268/000135445726000630/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000630</guid>
+      <pubDate>Wed, 01 Jul 2026 05:06:46 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$NNDM 👀 Activist
 Faces 13D from Tang Capital with 6.8% stake; proxy contest
@@ -773,26 +782,6 @@ Mcap $1.2B · EV $1.3B · Materials</title>
       <guid isPermaLink="false">0001565381-26-000003</guid>
       <pubDate>Tue, 30 Jun 2026 05:09:11 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$SPGX 🌑 Going Dark
-Voluntarily deregisters with SEC; 135 holders of record
-Mcap $150K · EV $1M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1500305/000157587226000452/spgx001_15-12g.htm</link>
-      <guid isPermaLink="false">0001575872-26-000452</guid>
-      <pubDate>Tue, 30 Jun 2026 05:02:43 -0500</pubDate>
-      <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$BHR ⚔️ Proxy
-Faces proxy contest from Al Shams; annual meeting pending
-Al Shams Investments
-Mcap $135M · EV $1.6B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000139834426011383/fp0099676-1_dfan14a.htm</link>
-      <guid isPermaLink="false">0001398344-26-011383</guid>
-      <pubDate>Tue, 30 Jun 2026 05:02:17 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>proxy_contest</category>
     </item>
   </channel>
 </rss>
