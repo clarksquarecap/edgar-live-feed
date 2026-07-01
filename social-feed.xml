@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 18:57:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 19:03:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$WYTC 🌑 Going Dark
@@ -752,25 +752,6 @@ Mcap $150K · Healthcare</title>
       <pubDate>Tue, 30 Jun 2026 14:16:06 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$LFLS 💥 Busted M&amp;A
-Terminates CIC agreement with Visionaize; shares returned and cancelled
-Mcap $2M · Financials</title>
-      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=91524</link>
-      <guid isPermaLink="false">OTC-526770</guid>
-      <pubDate>Tue, 30 Jun 2026 14:02:09 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$VIVK 💧 Capital Return · Special Div
-Resets special dividend of Adapti shares to Sept 5, 2026
-Mcap $1M · EV $33M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1450704/000182912626007053/vivakorinc_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-007053</guid>
-      <pubDate>Tue, 30 Jun 2026 14:01:58 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
     </item>
   </channel>
 </rss>
