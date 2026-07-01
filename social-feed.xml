@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 10:08:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:09:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ORI 🤝 Merger
+Acquires ECM Insurance Group for up to 956K shares; closes July 1
+stock · close 2026-07-01
+Mcap $9.8B · EV $11B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/74260/000007426026000079/ori-20260630.htm</link>
+      <guid isPermaLink="false">0000074260-26-000079</guid>
+      <pubDate>Wed, 01 Jul 2026 05:09:16 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ES 📤 Divestiture
 Sells Aquarion Water to Aquarion Water Authority for $2.4B cash
@@ -800,16 +811,6 @@ Mcap $6.1B · EV $6.3B · Real Estate</title>
       <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026073338/ea0296426-dfan14a_toby.htm</link>
       <guid isPermaLink="false">0001213900-26-073338</guid>
       <pubDate>Tue, 30 Jun 2026 05:09:23 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$DMB ⚔️ Proxy
-Faces Saba proxy contest; board opposes declassification and dissident nominee
-Saba Capital
-Mcap $1.2B · EV $1.3B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1565381/000156538126000003/dmbdmfprelimproxy.htm</link>
-      <guid isPermaLink="false">0001565381-26-000003</guid>
-      <pubDate>Tue, 30 Jun 2026 05:09:11 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
