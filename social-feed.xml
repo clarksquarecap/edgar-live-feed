@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 12:06:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 12:18:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SPWR 🪙 Debt Restr.
+Exchanges $10.7M interest for 19.3M shares with noteholders
+Mcap $101M · EV $265M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1838987/000121390026073995/ea0296603-8k_sunpower.htm</link>
+      <guid isPermaLink="false">0001213900-26-073995</guid>
+      <pubDate>Wed, 01 Jul 2026 07:18:00 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$SSTK 💥 Busted M&amp;A
 Merger with Getty Images terminated; CMA condition not met
@@ -755,37 +764,6 @@ Mcap $6M · EV $25M · Industrials</title>
       <pubDate>Tue, 30 Jun 2026 07:24:20 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
       <category>debt_for_equity_swap</category>
-    </item>
-    <item>
-      <title>$LCII 🤝 Merger
-Acquired by Patrick Industries for 1.2440x PATK shares; ~48% ownership
-stock
-Mcap $2.4B · EV $3.5B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/763744/000076374426000040/lcii-20260630.htm</link>
-      <guid isPermaLink="false">0000763744-26-000040</guid>
-      <pubDate>Tue, 30 Jun 2026 07:17:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PKX 🤝 Merger · Rumor
-Evaluating HMM acquisition; no decision; next disclosure Dec 29
-Mcap $16B · EV $31B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/889132/000119312526289446/d141316d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-289446</guid>
-      <pubDate>Tue, 30 Jun 2026 07:16:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>rumor_response</category>
-    </item>
-    <item>
-      <title>$BACC 🤝 Merger
-Amends merger with Blockfusion; adds earnout up to 9.25M shares
-Mcap $290M · EV $290M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2059654/000118518526002723/bacc8k425062926.htm</link>
-      <guid isPermaLink="false">0001185185-26-002723</guid>
-      <pubDate>Tue, 30 Jun 2026 07:09:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
