@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 20:43:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 20:44:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EVGO 📉 Delisting · Forced
+Warrants forced delisting by Nasdaq effective July 1
+Mcap $269M · EV $783M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821159/000135445726000636/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000636</guid>
+      <pubDate>Wed, 01 Jul 2026 15:44:13 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$CEPT 📉 Delisting · Forced
 Forced Nasdaq delisting effective July 1, 2026
@@ -748,16 +758,6 @@ Mcap $4.7B · EV $13B · Utilities</title>
       <link>https://www.sec.gov/Archives/edgar/data/1126956/000119312526290674/sr-20260630.htm</link>
       <guid isPermaLink="false">0001193125-26-290674</guid>
       <pubDate>Tue, 30 Jun 2026 15:44:20 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ADVB 📤 Divestiture
-Sells Taiwan subsidiary for $490K; close within 3 months
-$490,000 deal
-Mcap $8M · EV $6M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1941029/000121390026073735/ea0296529-8k_advanced.htm</link>
-      <guid isPermaLink="false">0001213900-26-073735</guid>
-      <pubDate>Tue, 30 Jun 2026 15:44:03 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>

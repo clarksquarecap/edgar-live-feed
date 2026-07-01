@@ -6,8 +6,26 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 20:43:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 20:44:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · EVGO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821159/000135445726000636/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000636</guid>
+      <pubDate>Wed, 01 Jul 2026 15:44:13 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <ns0:headline>Warrants forced delisting by Nasdaq effective July 1</ns0:headline>
+      <ns0:shortName>EVgo</ns0:shortName>
+      <ns0:price>1.89</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Warrants forced delisting by Nasdaq effective July 1&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Nasdaq filed Form 25-NSE to remove EVgo Inc.'s warrants (each whole warrant exercisable for one share of Class A Common Stock at $11.50) from listing and registration under Rule 12d2-2(a)(2). The delisting is effective July 1, 2026. Warrant holders face loss of exchange trading.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; EVgo, Inc. owns and operates a direct current fast charging network for electric vehicles in the United States. It offers electricity directly to drivers; original equipment manufacturer charging and related services; and commercial charging. The company also provides ancillary services, such as customization of digital applications, charging data integration, access to chargers behind parking lot or garage pay gates, microtargeted advertising, and charging reservations; and hardware, design, an…&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $1.89 · Mkt cap $269.4M · EV $783.4M · Fwd EV/EBITDA 44.4x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1821159/000135445726000636/0001354457-26-000636-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EVGO, EVGOW&lt;/b&gt; · 25-NSE · Auto Repair (7500) · prefill_form:25-NSE · filed 2026-07-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · CEPT</title>
       <link>https://www.sec.gov/Archives/edgar/data/2034269/000135445726000638/primary_doc.xml</link>
@@ -9554,24 +9572,6 @@
 &lt;p&gt;&lt;i&gt;Px $7.93 · Mkt cap $180.8M · EV $470.8M · Fwd EV/EBITDA 70.0x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1690334/000092189526001643/0000921895-26-001643-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SMHI&lt;/b&gt; · SCHEDULE 13D · Water Transportation (4412) · fresh_13d · filed 2026-06-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚔️ Proxy Contest · VXRT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/72444/000092189526001641/dfan14a14596002_06222026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001641</guid>
-      <pubDate>Mon, 22 Jun 2026 16:46:52 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>DFAN14A</category>
-      <ns0:headline>Faces proxy contest from Concerned Vaxart Stockholders; AGM 2026</ns0:headline>
-      <ns0:shortName>Vaxart</ns0:shortName>
-      <ns0:price>0.5600</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Faces proxy contest from Concerned Vaxart Stockholders; AGM 2026&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Faces a proxy contest from a group of stockholders led by Daniel P. Houle (the 'Concerned Vaxart Stockholders'). The group has filed a definitive proxy statement and universal proxy card to elect their slate of director nominees at the 2026 annual meeting. They issued an investor presentation titled 'A Case for Change at Vaxart'.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Vaxart, Inc., a clinical-stage biotechnology company, discovers and develops oral recombinant protein vaccines based on its vector-adjuvant-antigen standardized technology proprietary oral vaccine platform. The company’s product pipeline includes norovirus vaccine, a bivalent oral tablet vaccine in Phase 2 clinical trial for the GI.1 and GII; COVID-19 Vaccine, which is in Phase 2b clinical trial for the treatment of SARS-CoV-1, SARS-CoV-2, and Middle East respiratory syndrome coronavirus; Season…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-22&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.5600 · Mkt cap $138.7M · EV $89.9M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/72444/000092189526001641/0000921895-26-001641-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VXRT&lt;/b&gt; · DFAN14A · Chemicals / Pharma (2836) · prefill_form:DFAN14A · filed 2026-06-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
