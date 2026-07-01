@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 17:40:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:47:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$OMEX 🤝 Merger
@@ -804,26 +804,6 @@ Mcap $20B · EV $26B · Utilities</title>
       <pubDate>Tue, 30 Jun 2026 13:21:30 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CNDT 📤 Divestiture
-Sells Tolling business to Quarterhill for $70M cash + 7% stake
-$70M cash + 7% of Quarterhill common shares deal · close Q4 2026
-Mcap $199M · EV $1.0B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1677703/000167770326000077/cndt-20260629.htm</link>
-      <guid isPermaLink="false">0001677703-26-000077</guid>
-      <pubDate>Tue, 30 Jun 2026 12:44:44 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$YOOV 📤 Divestiture · Unsolicited
-Receives unsolicited offer to sell majority stake in YOOV Group subsidiary
-Mcap $88M · EV $91M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2001794/000121390026073564/ea0296523-6k_concorde.htm</link>
-      <guid isPermaLink="false">0001213900-26-073564</guid>
-      <pubDate>Tue, 30 Jun 2026 12:44:20 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
