@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 11:34:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 11:41:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SSTK 💥 Busted M&amp;A
+Merger with Getty Images terminated; CMA condition not met
+Mcap $512M · EV $650M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1549346/000114036126027079/ef20077175_425.htm</link>
+      <guid isPermaLink="false">0001140361-26-027079</guid>
+      <pubDate>Wed, 01 Jul 2026 06:41:08 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$KE 🤝 Merger
 Acquires Helvoet for €90M cash; closes July 1
@@ -777,16 +786,6 @@ Mcap $290M · EV $290M · Financials</title>
       <pubDate>Tue, 30 Jun 2026 07:09:13 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$PCRX 📤 Divestiture
-Sells iovera business to Zimmer Biomet for up to $140M ($70M upfront + milestones)
-up to $140 million deal · close Q3 2026
-Mcap $993M · EV $1.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1396814/000162828026046136/pcrx-20260628.htm</link>
-      <guid isPermaLink="false">0001628280-26-046136</guid>
-      <pubDate>Tue, 30 Jun 2026 06:35:44 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
