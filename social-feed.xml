@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 10:45:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:52:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$DT 👀 Activist
@@ -788,15 +788,6 @@ Mcap $1.8B · EV $1.6B · Healthcare</title>
       <pubDate>Tue, 30 Jun 2026 06:07:54 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$INGR 📤 Divestiture
-Sells 51% of Rafhan Maize to Nishat Group for $165M cash; retains 20% stake
-Mcap $6.1B · EV $7.1B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1046257/000104625726000210/ingr-20260630.htm</link>
-      <guid isPermaLink="false">0001046257-26-000210</guid>
-      <pubDate>Tue, 30 Jun 2026 05:48:38 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
