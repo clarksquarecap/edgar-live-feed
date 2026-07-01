@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 21:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:43:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SKFG 🤝 Merger
@@ -676,26 +676,6 @@ Mcap $302M · EV $301M · Financials</title>
       <pubDate>Tue, 30 Jun 2026 16:45:56 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NIMU 🤝 Merger
-Amends Gravitics merger; extends deadline, adds registration rights
-Mcap $11M · EV $12M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/720762/000149315226031343/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-031343</guid>
-      <pubDate>Tue, 30 Jun 2026 16:38:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NNDM ⚔️ Proxy
-Faces Murchinson proxy fight; vote July 31 on director slate + governance changes
-9.0% stake
-Mcap $289M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1643303/000092189526001704/defc14a13459002_06302026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001704</guid>
-      <pubDate>Tue, 30 Jun 2026 16:37:45 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
