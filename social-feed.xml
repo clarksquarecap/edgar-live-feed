@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 12:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 12:26:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$AABB 🤝 Merger · Preliminary
@@ -765,16 +765,6 @@ Mcap $61M · EV $47M · Tech</title>
       <pubDate>Tue, 30 Jun 2026 07:30:52 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$KITT 🪙 Debt Restr.
-Converts $4M debt to Series C Preferred; reduces debt, increases equity
-Mcap $6M · EV $25M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1849820/000184982026000101/kitt-20260626.htm</link>
-      <guid isPermaLink="false">0001849820-26-000101</guid>
-      <pubDate>Tue, 30 Jun 2026 07:24:20 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>debt_for_equity_swap</category>
     </item>
   </channel>
 </rss>
