@@ -6,8 +6,25 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 18:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 18:57:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🌑 Going Dark · WYTC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1560143/000168316826005220/wytec_form15.htm</link>
+      <guid isPermaLink="false">0001683168-26-005220</guid>
+      <pubDate>Wed, 01 Jul 2026 13:57:28 -0500</pubDate>
+      <category>GOING_DARK</category>
+      <category>15-12G</category>
+      <ns0:headline>Terminates SEC registration; 884 holders of record</ns0:headline>
+      <ns0:shortName>WYTEC INTERNATIONAL</ns0:shortName>
+      <ns0:price>0.9800</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Terminates SEC registration; 884 holders of record&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Voluntarily terminated its SEC registration under Section 12(g) of the Exchange Act, effective July 1, 2026. The company will suspend its duty to file periodic reports under Sections 13 and 15(d). There are 884 holders of record of common stock. No merger or acquisition is involved; the company continues as a standalone entity trading on OTC markets.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Wytec International, Inc. designs and develops small cell technology and wide area networks designed to support 5G network deployments in the United States. The company designs, manufactures, and installs Wi-Fi solutions in the frequency program to local government, mobile service operations, national telecommunications operators, and corporate enterprises.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $0.9800 · Mkt cap $18.4M · EV $20.4M · Information Technology / Communications Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1560143/000168316826005220/0001683168-26-005220-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WYTC&lt;/b&gt; · 15-12G · Communications (4822) · prefill_form:15-12G · filed 2026-07-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · D. Boral ARC Merger</title>
       <link>https://www.sec.gov/Archives/edgar/data/2109869/000182912626007124/dboralarcacq_s4.htm</link>
@@ -9566,23 +9583,6 @@
 &lt;p&gt;&lt;i&gt;Px $19.35 · Mkt cap $272.5M · EV $988.6M · Utilities / Independent Power and Renewable Electricity Producers&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/946394/000121390026070629/0001213900-26-070629-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ELLO&lt;/b&gt; · 6-K · Utilities (4911) · prefill_form:6-K · filed 2026-06-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · IQMX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2113060/000121390026070635/ea0295475-425_realasset.htm</link>
-      <guid isPermaLink="false">0001213900-26-070635</guid>
-      <pubDate>Mon, 22 Jun 2026 15:24:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <ns0:headline>Merging with RAAQ SPAC; vote June 25; implied $1.9B valuation</ns0:headline>
-      <ns0:shortName>IQM Quantum Computers Oyj</ns0:shortName>
-      <description>&lt;p&gt;&lt;b&gt;Merging with RAAQ SPAC; vote June 25; implied $1.9B valuation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;A European quantum computing company, is merging with SPAC Real Asset Acquisition Corp. (RAAQ). Shareholders vote on June 25, 2026; close expected soon after. Upon closing, IQM will have an implied valuation of ~$1.9B and pro forma cash up to $477M, including a $146M PIPE. IQM ADSs will trade on Nasdaq under IQMX.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Real Asset Acquisition Corp.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $1.9B (implied valuation)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2026 (after June 25 vote)&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2113060/000121390026070635/0001213900-26-070635-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IQMX&lt;/b&gt; · 425 · Business Services (7372) · prefill_form:425 · filed 2026-06-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
