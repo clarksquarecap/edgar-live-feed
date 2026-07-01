@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 20:37:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 20:43:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ADIG 🪓 Spinoff
+Spun off from Resideo; 1 ADI share per 2 REZI shares; NYSE listing under ADIG
+Mcap $49M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2105139/000121390026074253/ea0296396-1012ba3_adiglobal.htm</link>
+      <guid isPermaLink="false">0001213900-26-074253</guid>
+      <pubDate>Wed, 01 Jul 2026 15:43:50 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$NHI 📤 Divestiture
 Sells 35 facilities to NHC for $560M
@@ -740,49 +749,6 @@ Mcap $8M · EV $6M · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-073735</guid>
       <pubDate>Tue, 30 Jun 2026 15:44:03 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$VWAV 🤝 Merger
-Acquires 51% of Meteor Aerospace for ~$20.4M in stock
-$20.4 million deal · stock
-Mcap $117M · EV $131M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2038439/000173112226000901/e7750_8-k.htm</link>
-      <guid isPermaLink="false">0001731122-26-000901</guid>
-      <pubDate>Tue, 30 Jun 2026 15:43:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WS 🤝 Merger
-Secures $550M ABL facility to finance Klöckner acquisition
-cash
-Mcap $1.8B · EV $2.2B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1968487/000196848726000018/ws-20260625.htm</link>
-      <guid isPermaLink="false">0001968487-26-000018</guid>
-      <pubDate>Tue, 30 Jun 2026 15:42:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CIB 📤 Divestiture
-Sells Banistmo S.A. to La Hipotecaria; sale closed June 30
-close 2026-06-30
-Mcap $20B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2058897/000205889726000228/grupocibestsareportscomple.htm</link>
-      <guid isPermaLink="false">0002058897-26-000228</guid>
-      <pubDate>Tue, 30 Jun 2026 15:41:36 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PAYO 🤝 Merger
-Acquired by Nuvei for $2.75B; 44% premium; vote Q3 2026
-44% prem · $2.75 billion deal · cash · close mid-2027
-Mcap $2.4B · EV $2.1B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1845815/000095010326009815/dp248996_defa14a.htm</link>
-      <guid isPermaLink="false">0000950103-26-009815</guid>
-      <pubDate>Tue, 30 Jun 2026 15:41:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
