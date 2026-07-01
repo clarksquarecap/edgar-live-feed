@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 01 Jul 2026 12:33:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 12:40:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$AABB 🤝 Merger · Preliminary
@@ -733,27 +733,6 @@ Mcap $7M · EV $9M · Industrials</title>
       <pubDate>Tue, 30 Jun 2026 07:46:03 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$SVRE 🤝 Merger · Preliminary
-Acquires 33.3% of Gryphen Aircraft for €5M; option to 53% at €30M valuation
-€5 million (initial) deal · cash
-Mcap $93M · EV $90M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1894693/000121390026073394/ea0296460-6k_saver.htm</link>
-      <guid isPermaLink="false">0001213900-26-073394</guid>
-      <pubDate>Tue, 30 Jun 2026 07:38:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$LAES ✂️ Carve-out
-Contributes assets to Quantisimo for SPAC merger with GigCapital8 at $575M EV
-Mcap $639M · EV $219M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1951222/000121390026073398/ea029638702-6k_sealsq.htm</link>
-      <guid isPermaLink="false">0001213900-26-073398</guid>
-      <pubDate>Tue, 30 Jun 2026 07:37:48 -0500</pubDate>
-      <category>CARVE_OUT</category>
-      <category>spac_merger</category>
     </item>
   </channel>
 </rss>
