@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 21:08:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:16:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BSVN 🤝 Merger
+Acquires controlling interest in Century Financial Services for $68M cash; stalking horse bid
+$68,000,000 deal · cash · close Q3 2026
+Mcap $477M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1746129/000114036126027463/ef20077345_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-027463</guid>
+      <pubDate>Thu, 02 Jul 2026 16:16:08 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NYC 📍 Stake
 Increases stake to 71.7% in American Strategic Investment Co.
@@ -687,17 +698,6 @@ Mcap $6.1B · EV $6.3B · Real Estate</title>
       <pubDate>Wed, 01 Jul 2026 16:27:02 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
       <category>proxy_contest</category>
-    </item>
-    <item>
-      <title>$LCII 🤝 Merger
-All-stock merger with Patrick Industries; $5.5B combined equity
-stock
-Mcap $2.4B · EV $3.5B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/763744/000076374426000059/transcript.htm</link>
-      <guid isPermaLink="false">0000763744-26-000059</guid>
-      <pubDate>Wed, 01 Jul 2026 16:12:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
