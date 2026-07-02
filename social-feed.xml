@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 12:42:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 12:49:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$YRD 💧 Capital Return · Buyback
+Authorizes $20M buyback of up to 10% of shares over 12 months
+Mcap $79M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1631761/000121390026074606/ea0296870-6k_yiren.htm</link>
+      <guid isPermaLink="false">0001213900-26-074606</guid>
+      <pubDate>Thu, 02 Jul 2026 07:49:01 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$CETXP 🤝 Merger
 Acquires Plant Engineering Services for $3.5M cash + $1.5M earnout
@@ -651,25 +661,6 @@ Mcap $6M · EV $56M · Tech</title>
       <pubDate>Wed, 01 Jul 2026 07:55:09 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$FRMI 👀 Activist
-Faces activist campaign from Neugebauer for strategic review, independent committee
-Mcap $6.1B · EV $6.3B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026073999/ea0296670-dfan14a_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-073999</guid>
-      <pubDate>Wed, 01 Jul 2026 07:47:41 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$OPTU 💧 Capital Return · Self-tender
-Self-tender oversubscribed; buys 120M shares at $2.50, prorated 47.1%
-Mcap $691M · EV $26B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1702780/000121390026074020/ea0292029-03.htm</link>
-      <guid isPermaLink="false">0001213900-26-074020</guid>
-      <pubDate>Wed, 01 Jul 2026 07:47:27 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
