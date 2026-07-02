@@ -6,8 +6,26 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 18:28:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 18:41:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · GWH</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819438/000087666126000595/primary_doc.xml</link>
+      <guid isPermaLink="false">0000876661-26-000595</guid>
+      <pubDate>Thu, 02 Jul 2026 13:41:40 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <ns0:headline>Warrants forced delisting from NYSE effective July 13</ns0:headline>
+      <ns0:shortName>ESS Tech</ns0:shortName>
+      <ns0:price>0.8700</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Warrants forced delisting from NYSE effective July 13&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The NYSE filed a Form 25-NSE to delist ESS Tech's warrants due to abnormally low selling price. The delisting is effective July 13, 2026. The company did not appeal the determination.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ESS Tech, Inc., an energy storage company, engages in the design and production of iron flow batteries for commercial and utility-scale energy storage applications worldwide. It offers energy storage products, which include Energy Warehouse, a behind-the-meter solution; and the gigawatt-hour energy base storage product, a fully configurable layout that integrates with any site location and that allows the power to be decoupled from the capacity.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $0.8700 · Mkt cap $26.8M · EV $26.8M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1819438/000087666126000595/0000876661-26-000595-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GWH, GWH-WT&lt;/b&gt; · 25-NSE · Electronic Equipment (3690) · prefill_form:25-NSE · filed 2026-07-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · DNN</title>
       <link>https://www.sec.gov/Archives/edgar/data/1063259/000106325926000025/form6-k.htm</link>
@@ -9541,25 +9559,6 @@
 &lt;p&gt;&lt;i&gt;Px $10.90 · Mkt cap $323.4M · EV $322.3M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2028516/000110465926076805/0001104659-26-076805-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ATII, ATIIU, ATIIW&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-06-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · ORGN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1802457/000135445726000608/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000608</guid>
-      <pubDate>Tue, 23 Jun 2026 15:10:38 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>25-NSE</category>
-      <ns0:headline>Warrants delisted from Nasdaq; effective June 23</ns0:headline>
-      <ns0:shortName>Origin Materials</ns0:shortName>
-      <ns0:price>1.01</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Warrants delisted from Nasdaq; effective June 23&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Nasdaq filed Form 25-NSE to remove Origin Materials' warrants from listing and registration, effective June 23, 2026, under Rule 12d2-2(a)(2). The warrants will cease trading on Nasdaq.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Origin Materials, Inc., together with its subsidiaries, engages in the polyethylene terephthalate (PET) closures business in California. It offers PET closure technology and products. The company was founded in 2008 and is headquartered in West Sacramento, California.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nasdaq Stock Market LLC&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.01 · Mkt cap $6.0M · EV $-3.8M · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1802457/000135445726000608/0001354457-26-000608-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ORGN, ORGNW&lt;/b&gt; · 25-NSE · Chemicals / Pharma (2860) · prefill_form:25-NSE · filed 2026-06-23&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
