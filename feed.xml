@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 12:35:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 12:42:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · DAIC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026074608/ea0296821-8k_cidhold.htm</link>
+      <guid isPermaLink="false">0001213900-26-074608</guid>
+      <pubDate>Thu, 02 Jul 2026 07:42:12 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>8-K</category>
+      <ns0:headline>Restructures debt with $500K convertible note; lender assumes J.J. Astor obligations</ns0:headline>
+      <ns0:shortName>CID Holdco</ns0:shortName>
+      <ns0:price>1.85</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Restructures debt with $500K convertible note; lender assumes J.J. Astor obligations&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Issued a $500K senior secured convertible note to Phillips Equities &amp;amp; Trust, convertible at 80% of the 5-day VWAP. The lender also purchased the company's existing J.J. Astor debt, becoming the sole holder of those obligations. The note is consideration for exclusivity under a non-binding LOI to sell operating assets of SEE ID and DOT Works.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CID HoldCo, Inc. develops an asset tracking platform that push the limits of near real-time precision-based location technology. The company’s platform leverages the technologies, including the patented passive and active RFID tracking solutions, low power edge camera platforms utilizing artificial intelligence, enabling users to give accuracy to all mapping technologies. It serves various industries, including construction, military, mining, retail, warehousing, and manufacturing.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Phillips Equities &amp;amp; Trust, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $500,000&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-23&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.85 · Mkt cap $2.2M · EV $3.5M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2033770/000121390026074608/0001213900-26-074608-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DAIC, DAICW&lt;/b&gt; · 8-K · Items 1.01, 1.02, 2.03, 3.02, 7.01, 8.01, 9.01 · Business Services (7373) · 8k_tier1:1.01,1.02,7.01,8.01 · filed 2026-07-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🏦 Demutual. · CLBK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1723596/000172359626000031/clbk-20260701.htm</link>
@@ -9554,26 +9573,6 @@
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Vale S.A., together with its subsidiaries, produces iron ore and nickel in Brazil, Asia, the Middle East, North Africa, Europe, the Americas, and Oceania. The company operates in two segments, Iron Ore Solutions and Vale Base Metals. It extracts, produces, and distributes iron ore, iron ore pellets, briquettes, nickel, copper, other ferrous products, and by-products, including gold, silver, cobalt, platinum-group metals, and other base metals, as well as low-carbon critical minerals.&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;Px $15.71 · Mkt cap $67.05B · EV $84.37B · Fwd P/E 8.2x · Fwd EV/EBITDA 5.5x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/917851/000129281426003566/0001292814-26-003566-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VALE&lt;/b&gt; · 6-K · Metal Mining (1000) · prefill_form:6-K · filed 2026-06-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · Board Challenge · VALE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/917851/000129281426003567/vale20260623_6k1.htm</link>
-      <guid isPermaLink="false">0001292814-26-003567</guid>
-      <pubDate>Tue, 23 Jun 2026 07:45:37 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>board_challenge</category>
-      <category>6-K</category>
-      <ns0:headline>Faces board challenge from Previ; EGM July 22 to remove chair</ns0:headline>
-      <ns0:shortName>Vale</ns0:shortName>
-      <ns0:price>15.71</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Faces board challenge from Previ; EGM July 22 to remove chair&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Previ, a pension fund holding 7.01% of Vale, requested an Extraordinary General Meeting to remove board member Daniel Stieler and elect a new chair. The board unanimously approved the call; the EGM will be held on July 22, 2026, via digital platform.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Vale S.A., together with its subsidiaries, produces iron ore and nickel in Brazil, Asia, the Middle East, North Africa, Europe, the Americas, and Oceania. The company operates in two segments, Iron Ore Solutions and Vale Base Metals. It extracts, produces, and distributes iron ore, iron ore pellets, briquettes, nickel, copper, other ferrous products, and by-products, including gold, silver, cobalt, platinum-group metals, and other base metals, as well as low-carbon critical minerals.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Previ (Caixa de Previdência dos Funcionários do Banco do Brasil)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.01%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-19&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $15.71 · Mkt cap $67.05B · EV $84.37B · Fwd P/E 8.2x · Fwd EV/EBITDA 5.5x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/917851/000129281426003567/0001292814-26-003567-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VALE&lt;/b&gt; · 6-K · Metal Mining (1000) · prefill_form:6-K · filed 2026-06-23&lt;/p&gt;</description>
     </item>
   </channel>
