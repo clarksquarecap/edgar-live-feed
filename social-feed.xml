@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 12:14:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 12:21:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$THRM 🤝 Merger
+Files S-4 for merger with Modine's Performance Technologies business
+Mcap $1.1B · EV $1.1B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/903129/000119312526293500/d52623d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-293500</guid>
+      <pubDate>Thu, 02 Jul 2026 07:21:30 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ARLP 🤝 Merger
 Acquires AllDale Minerals III &amp; IV for $206.2M
@@ -613,26 +623,6 @@ Mcap $691M · EV $26B · Comms</title>
       <pubDate>Wed, 01 Jul 2026 07:47:27 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$AABB 🤝 Merger · Preliminary
-Signs LOI to acquire gold mine for $30M
-$30 million deal · cash
-Mcap $57M · Materials</title>
-      <link>https://www.globenewswire.com/news-release/2021/03/04/2187163/0/en/Asia-Broadband-Signs-Letter-of-Intent-to-Acquire-Gold-Mine-and-Production-Facilities-in-Mascota-Mexico.html?print=1</link>
-      <guid isPermaLink="false">OTC-526859</guid>
-      <pubDate>Wed, 01 Jul 2026 07:19:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$SPWR 🪙 Debt Restr.
-Exchanges $10.7M interest for 19.3M shares with noteholders
-Mcap $101M · EV $265M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1838987/000121390026073995/ea0296603-8k_sunpower.htm</link>
-      <guid isPermaLink="false">0001213900-26-073995</guid>
-      <pubDate>Wed, 01 Jul 2026 07:18:00 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
