@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 22:33:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 22:59:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BOF 🪙 Debt Restr.
+Receives $1M working capital loan from Kaufman Kapital; note restated to $4M
+Mcap $78M · EV $85M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1962481/000109991026000228/primary_doc.xml</link>
+      <guid isPermaLink="false">0001099910-26-000228</guid>
+      <pubDate>Thu, 02 Jul 2026 17:59:23 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$LOCO 📍 Stake
 Receives 13D/A from Biglari; stake rises to 13.5%
@@ -797,15 +806,6 @@ Mcap $8M · Tech</title>
       <guid isPermaLink="false">OTC-526906</guid>
       <pubDate>Thu, 02 Jul 2026 01:34:20 -0500</pubDate>
       <category>RIGHTS_ISSUE</category>
-    </item>
-    <item>
-      <title>$EWSB 📍 Stake
-Receives 13D from J. David Rosenberg with 5.7% stake
-Mcap $7M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2013792/000143774926022352/primary_doc.xml</link>
-      <guid isPermaLink="false">0001437749-26-022352</guid>
-      <pubDate>Wed, 01 Jul 2026 17:54:23 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
