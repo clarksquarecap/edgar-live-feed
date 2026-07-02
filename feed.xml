@@ -6,8 +6,24 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 14:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 14:46:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚱️ Liquidation · Tidal Trust III</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1722388/000114336226000237/primary_doc.xml</link>
+      <guid isPermaLink="false">0001143362-26-000237</guid>
+      <pubDate>Thu, 02 Jul 2026 09:46:37 -0500</pubDate>
+      <category>LIQUIDATION</category>
+      <category>25-NSE</category>
+      <ns0:headline>BitBonds ETF delisted; cash liquidation effective July 13</ns0:headline>
+      <ns0:shortName>Tidal Trust III</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;BitBonds ETF delisted; cash liquidation effective July 13&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Tidal Trust III's VistaShares BitBonds 5 Yr Enhanced Weekly Distribution ETF is being liquidated. NYSE Arca filed a Form 25-NSE to remove the ETF from listing on July 13, 2026, because the securities now represent only the right to receive an immediate cash payment. Trading was suspended on June 30, 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-07-13&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1722388/000114336226000237/0001143362-26-000237-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;25-NSE · prefill_form:25-NSE · filed 2026-07-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧭 Domicile · XOM</title>
       <link>https://www.sec.gov/Archives/edgar/data/34088/000087666126000593/primary_doc.xml</link>
@@ -9546,25 +9562,6 @@
 &lt;p&gt;&lt;i&gt;Px $5.07 · Mkt cap $352.8M · EV $337.1M · Fwd P/E 19.9x · Fwd EV/EBITDA 15.7x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1907909/000165495426006123/0001654954-26-006123-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VOXR&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-06-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · LRHC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1879403/000214017726000001/primary_doc.xml</link>
-      <guid isPermaLink="false">0002140177-26-000001</guid>
-      <pubDate>Tue, 23 Jun 2026 11:08:27 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>SCHEDULE 13D</category>
-      <ns0:headline>Receives 13D from Eric Benaim (5% stake); may engage on strategy</ns0:headline>
-      <ns0:shortName>La Rosa</ns0:shortName>
-      <ns0:price>1.17</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D from Eric Benaim (5% stake); may engage on strategy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Eric Benaim, founder/CEO of Modern Spaces LLC, filed a Schedule 13D disclosing a 5.0% stake (81,175 shares) in La Rosa Holdings Corp., acquired at an average price of ~$1.04/share. Benaim may engage with management on strategic, operational, and governance matters but does not currently seek control.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; La Rosa Holdings Corp., through its subsidiaries, operates primarily in the residential real estate market in the United States. The company operates through six segments: Real Estate Brokerage Services (Residential), Franchising Services, Coaching Services, Property Management, Real Estate Brokerage Services (Commercial), and Title Settlement and Insurance.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Eric Benaim&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.0%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-23&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.17 · Mkt cap $1.9M · EV $13.3M · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1879403/000214017726000001/0002140177-26-000001-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LRHC&lt;/b&gt; · SCHEDULE 13D · Real Estate (6531) · fresh_13d · filed 2026-06-23&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
