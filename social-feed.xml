@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 20:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 20:44:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$FIZZ 💧 Capital Return · Special Div
@@ -596,45 +596,6 @@ Mcap $71B · EV $85B · Financials</title>
       <pubDate>Wed, 01 Jul 2026 15:51:44 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$EVGO 📉 Delisting · Forced
-Warrants forced delisting by Nasdaq effective July 1
-Mcap $269M · EV $783M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1821159/000135445726000636/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000636</guid>
-      <pubDate>Wed, 01 Jul 2026 15:44:13 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$CEPT 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 1, 2026
-Mcap $410M · EV $411M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2034269/000135445726000638/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000638</guid>
-      <pubDate>Wed, 01 Jul 2026 15:43:59 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$ADIG 🪓 Spinoff
-Spun off from Resideo; 1 ADI share per 2 REZI shares; NYSE listing under ADIG
-Mcap $49M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2105139/000121390026074253/ea0296396-1012ba3_adiglobal.htm</link>
-      <guid isPermaLink="false">0001213900-26-074253</guid>
-      <pubDate>Wed, 01 Jul 2026 15:43:50 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$NHI 📤 Divestiture
-Sells 35 facilities to NHC for $560M
-$560 million deal · close 2026-07-01
-Mcap $3.7B · EV $5.0B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/877860/000087786026000169/nhi-20260701.htm</link>
-      <guid isPermaLink="false">0000877860-26-000169</guid>
-      <pubDate>Wed, 01 Jul 2026 15:37:17 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
