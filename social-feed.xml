@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 10:17:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 10:24:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VXRT 👀 Activist
+Settles proxy contest; appoints independent director, forms committees
+Mcap $146M · EV $97M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/72444/000121390026074576/ea0296709-8k_vaxart.htm</link>
+      <guid isPermaLink="false">0001213900-26-074576</guid>
+      <pubDate>Thu, 02 Jul 2026 05:24:20 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>cooperation_agreement</category>
+    </item>
     <item>
       <title>$SPGI 🪓 Spinoff
 Spins off Mobility Global (MBGL) via 1-for-1 distribution; begins trading July 1
@@ -662,26 +672,6 @@ Shareholder vote on acquisition scheduled for Aug 6</title>
       <pubDate>Wed, 01 Jul 2026 05:25:00 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$IHT 🔎 Strat Review · Strat Alts
-NYSE American deficiency notice; exploring reverse merger and strategic alternatives
-Mcap $16M · EV $26M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/82473/000149315226031405/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-031405</guid>
-      <pubDate>Wed, 01 Jul 2026 05:18:31 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$RZLV 💧 Capital Return · Buyback
-Shareholders approve $300M buyback; UK Court approval by mid-Sep
-Mcap $1.3B · EV $1.3B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1920294/000119312526291046/6-k_june_30.htm</link>
-      <guid isPermaLink="false">0001193125-26-291046</guid>
-      <pubDate>Wed, 01 Jul 2026 05:17:49 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
