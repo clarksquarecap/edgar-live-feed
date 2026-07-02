@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 20:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 20:11:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LSTA 🎯 Tender
+Acquired by Kuva Labs for $4.00/sh + CVR up to $3.00; supplemental disclosures
+cash
+Mcap $31M · EV $17M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126027435/ef20077296_sc14d9a.htm</link>
+      <guid isPermaLink="false">0001140361-26-027435</guid>
+      <pubDate>Thu, 02 Jul 2026 15:11:18 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CLPR 🪙 Debt Restr.
 Enters consent agreement to market $125M loan; foreclosure if unsold
@@ -663,16 +674,6 @@ stock · close 2026-07-01</title>
       <pubDate>Wed, 01 Jul 2026 15:16:24 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$RAAQ 📉 Delisting · Forced
-Forced delisting by Nasdaq; effective July 1
-Mcap $248M · EV $248M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2052161/000135445726000634/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000634</guid>
-      <pubDate>Wed, 01 Jul 2026 15:09:18 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
