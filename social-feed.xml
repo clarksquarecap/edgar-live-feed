@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 18:46:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 18:59:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GWH 📉 Delisting · Forced
@@ -631,15 +631,6 @@ Mcap $248M · EV $248M · Financials</title>
       <pubDate>Wed, 01 Jul 2026 15:09:18 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$WYTC 🌑 Going Dark
-Terminates SEC registration; 884 holders of record
-Mcap $18M · EV $20M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1560143/000168316826005220/wytec_form15.htm</link>
-      <guid isPermaLink="false">0001683168-26-005220</guid>
-      <pubDate>Wed, 01 Jul 2026 13:57:28 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>
