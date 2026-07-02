@@ -6,8 +6,24 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 21:42:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 22:02:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · Jefferies Credit Partners BDC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1959604/000119312526295053/primary_doc.xml</link>
+      <guid isPermaLink="false">0001193125-26-295053</guid>
+      <pubDate>Thu, 02 Jul 2026 17:02:16 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>SCHEDULE 13D</category>
+      <ns0:headline>Affiliate reports 12.8% stake</ns0:headline>
+      <ns0:shortName>Jefferies Credit Partners BDC</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Affiliate reports 12.8% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Structured Solutions LLC filed a Schedule 13D disclosing beneficial ownership of 7,312,125 Class I Shares (12.8%) of Jefferies Credit Partners BDC Inc. The shares were acquired for investment purposes, and the filing is due to crossing the 5% threshold. No activist intent stated.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 12.8&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-02&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1959604/000119312526295053/0001193125-26-295053-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;SCHEDULE 13D · fresh_13d · filed 2026-07-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · LFCR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1005286/000092189526001747/primary_doc.xml</link>
@@ -9524,26 +9540,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.07 · Mkt cap $4.0M · EV $520K · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1782107/000121390026071316/0001213900-26-071316-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ONCO&lt;/b&gt; · 425 · Chemicals / Pharma (2834) · prefill_form:425 · filed 2026-06-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · JTAI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1861622/000149315226029874/form425.htm</link>
-      <guid isPermaLink="false">0001493152-26-029874</guid>
-      <pubDate>Wed, 24 Jun 2026 07:43:48 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <ns0:headline>Adjourns special meeting to July 2; 48.4% votes cast, 99% in favor</ns0:headline>
-      <ns0:shortName>Jet.AI</ns0:shortName>
-      <ns0:price>7.03</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Adjourns special meeting to July 2; 48.4% votes cast, 99% in favor&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Adjourned its special meeting to July 2, 2026, after 48.4% of outstanding shares were represented and 99% of votes cast favored the merger with flyExclusive. The distribution record date was moved to July 6, 2026. Stockholder approval requires a majority of outstanding shares, so further proxy solicitation is underway.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Jet.AI Inc. engages in the development and operation of private aviation platforms. The company operates CharterGPT, a booking platform that functions as a prospecting and quoting platform to arrange private jet travel with its aircrafts and third-party carriers. It also provides Reroute AI software that recycles aircraft waiting to return to base into prospective new charter bookings to destinations within specific distances; and DynoFlight, a software application programming interface (API), w…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; flyExclusive, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-05-06&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.03 · Mkt cap $10.0M · EV $-3.1M · Fwd EV/EBITDA 0.5x · Industrials / Passenger Airlines&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1861622/000149315226029874/0001493152-26-029874-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JTAI&lt;/b&gt; · 425 · Air Transportation (4522) · prefill_form:425 · filed 2026-06-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
