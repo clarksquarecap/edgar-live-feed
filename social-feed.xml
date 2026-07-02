@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 11:34:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 11:41:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CPPKF 🤝 Merger
@@ -601,15 +601,6 @@ Mcap $101M · EV $265M · Industrials</title>
       <guid isPermaLink="false">0001213900-26-073995</guid>
       <pubDate>Wed, 01 Jul 2026 07:18:00 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$SSTK 💥 Busted M&amp;A
-Merger with Getty Images terminated; CMA condition not met
-Mcap $512M · EV $650M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1549346/000114036126027079/ef20077175_425.htm</link>
-      <guid isPermaLink="false">0001140361-26-027079</guid>
-      <pubDate>Wed, 01 Jul 2026 06:41:08 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
