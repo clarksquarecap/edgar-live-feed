@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 21:26:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:33:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$APGE 🤝 Merger
+Acquired by AbbVie for $135.11 cash per share; vote pending
+cash
+Mcap $10.0B · EV $8.7B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/000114036126027469/ny20076262x1_prem14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-027469</guid>
+      <pubDate>Thu, 02 Jul 2026 16:33:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RAIL 📍 Stake
 PIMCO increases stake to 48.8% after exercising warrants for 13.6M shares at $0.01 each
@@ -767,26 +778,6 @@ Mcap $251M · EV $603M · Industrials</title>
       <pubDate>Wed, 01 Jul 2026 16:36:28 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$CMRF 📍 Stake
-Receives 13D from CIM Group Holdings; 100% of Special Voting Preferred Stock
-Mcap $854M · EV $3.4B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1498547/000119312526292841/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-292841</guid>
-      <pubDate>Wed, 01 Jul 2026 16:29:21 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$FRMI ⚔️ Proxy
-Faces proxy contest from Neugebauer; special meeting sought
-146,516,035 shares stake
-Mcap $6.1B · EV $6.3B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026074411/ea0296795-dfan14a_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-074411</guid>
-      <pubDate>Wed, 01 Jul 2026 16:27:02 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>proxy_contest</category>
     </item>
   </channel>
 </rss>
