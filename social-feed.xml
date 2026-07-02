@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 21:35:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:42:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LFCR 📍 Stake
+Receives 13D/A from Legion Partners; stake 17.1%
+Mcap $198M · EV $376M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1005286/000092189526001747/primary_doc.xml</link>
+      <guid isPermaLink="false">0000921895-26-001747</guid>
+      <pubDate>Thu, 02 Jul 2026 16:42:43 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$XRN 📤 Divestiture
 Sells 7 inpatient rehab hospitals for $217M; retains 15% JV interest
@@ -798,28 +807,6 @@ Mcap $1.2B · EV $1.3B · Materials</title>
       <guid isPermaLink="false">0000902664-26-002978</guid>
       <pubDate>Wed, 01 Jul 2026 17:03:03 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$SKFG 🤝 Merger
-Acquired by MJG Polo LLC for $355K; 83.43% stake
-$355,000 deal · cash · close 2026-06-25
-Mcap $1M · EV $1M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1794942/000164033426001144/stark_8k.htm</link>
-      <guid isPermaLink="false">0001640334-26-001144</guid>
-      <pubDate>Wed, 01 Jul 2026 16:36:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DSX 🤝 Merger · Unsolicited
-Extends tender offer for Genco to July 10; $27.34/sh (cash+stock)
-53% prem · cash+stk
-Mcap $251M · EV $603M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1318885/000091957426004216/p15024956_6-k.htm</link>
-      <guid isPermaLink="false">0000919574-26-004216</guid>
-      <pubDate>Wed, 01 Jul 2026 16:36:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
