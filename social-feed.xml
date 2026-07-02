@@ -6,8 +6,51 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 20:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 20:27:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AACG 📤 Divestiture
+Sells subsidiaries to Robox Holding for nominal RMB 1; completed June 30
+to Robox Holding Limited · RMB 1 (nominal) deal · close 2026-06-30
+Mcap $46M · EV $40M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1420529/000110465926080338/tm2618974d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-080338</guid>
+      <pubDate>Thu, 02 Jul 2026 15:26:23 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$NEXA 🤝 Merger · Unsolicited
+Confirms Boliden's unsolicited bid; discussions ongoing
+Boliden AB · empty
+Mcap $1.6B · EV $3.4B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1713930/000129281426003654/nexa20260702_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-003654</guid>
+      <pubDate>Thu, 02 Jul 2026 15:26:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
+    <item>
+      <title>$AA 🤝 Merger
+Acquires South32's bauxite/alumina/aluminum ops for $3.1B cash + ~$1B stock + CVR
+South32 Limited · $4.1B upfront + up to $750M CVR deal · cash+stk · close H1 2027
+Mcap $13B · EV $12B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1675149/000095010326010157/dp249370_425-mc.htm</link>
+      <guid isPermaLink="false">0000950103-26-010157</guid>
+      <pubDate>Thu, 02 Jul 2026 15:25:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$CMII 🤝 Merger
+Acquires Elroy Air; $66.6M pre-funded PIPE; close Q4 2026
+stock
+Mcap $318M · EV $317M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2088805/000121390026075001/ea0296438-8k425_columbus2.htm</link>
+      <guid isPermaLink="false">0001213900-26-075001</guid>
+      <pubDate>Thu, 02 Jul 2026 15:25:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ATER 📤 Divestiture
 Sells brand portfolio to Trademark Global for $18M; $0.85-$1.14/sh return; vote July 10
@@ -600,36 +643,6 @@ Mcap $335M · EV $16B · Financials</title>
       <guid isPermaLink="false">0001493152-26-031547</guid>
       <pubDate>Wed, 01 Jul 2026 15:27:54 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GWH 📉 Delisting · Forced
-NYSE forces delisting of Public Warrants; trading suspended
-Mcap $28M · EV $28M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819438/000181943826000056/wk-20260630.htm</link>
-      <guid isPermaLink="false">0001819438-26-000056</guid>
-      <pubDate>Wed, 01 Jul 2026 15:27:40 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$VXRT 👀 Activist
-Resolves proxy contest with Stockholder Group; appoints new independent director
-Mcap $146M · EV $97M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/72444/000121390026074234/ea0296711-defa14a_vaxart.htm</link>
-      <guid isPermaLink="false">0001213900-26-074234</guid>
-      <pubDate>Wed, 01 Jul 2026 15:26:50 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>cooperation_agreement</category>
-    </item>
-    <item>
-      <title>$SEQC 🤝 Merger
-Acquired by SeeQC for stock; consent deadline July 9
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1720025/000121390026074267/ea0296576-01.htm</link>
-      <guid isPermaLink="false">0001213900-26-074267</guid>
-      <pubDate>Wed, 01 Jul 2026 15:26:36 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
