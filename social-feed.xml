@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 20:27:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 20:34:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NVVE 🤝 Merger
+Acquires BESS Sibiu for ~$2.1M cash; 42MW battery project
+BESS Sibiu SRL · cash
+Mcap $3M · EV $9M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1836875/000183687526000053/nvve-20260622.htm</link>
+      <guid isPermaLink="false">0001836875-26-000053</guid>
+      <pubDate>Thu, 02 Jul 2026 15:34:48 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AACG 📤 Divestiture
 Sells subsidiaries to Robox Holding for nominal RMB 1; completed June 30
@@ -623,26 +634,6 @@ Mcap $402M · EV $951M · Cons Disc</title>
       <guid isPermaLink="false">0001193125-26-292618</guid>
       <pubDate>Wed, 01 Jul 2026 15:35:44 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$CPIX 📤 Divestiture
-Sells commercial products to Apotex for $100M cash
-$100 million deal · close 2026-07-01
-Mcap $97M · EV $96M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1087294/000110465926079871/tm2619330d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-079871</guid>
-      <pubDate>Wed, 01 Jul 2026 15:29:04 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ONIT 📤 Divestiture
-Sells reverse mortgage servicing portfolio to FAR for $70-80M net
-$70-80 million net proceeds deal
-Mcap $335M · EV $16B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/873860/000149315226031547/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-031547</guid>
-      <pubDate>Wed, 01 Jul 2026 15:27:54 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
