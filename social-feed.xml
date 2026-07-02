@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 10:37:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 10:43:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WBX 🪙 Debt Restr.
+Court-approved restructuring completed; PIPE raises $18M
+Mcap $61M · EV $279M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1866501/000119312526293387/pipe_2026.htm</link>
+      <guid isPermaLink="false">0001193125-26-293387</guid>
+      <pubDate>Thu, 02 Jul 2026 05:43:47 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$OBX 🤝 Merger
 Acquires Galera &amp; Obsidian via two-step merger; combined co to trade as OBX on Nasdaq
@@ -631,17 +640,6 @@ Mcap $840M · EV $981M · Industrials</title>
       <guid isPermaLink="false">0001828536-26-000083</guid>
       <pubDate>Wed, 01 Jul 2026 05:59:32 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$DT 👀 Activist
-Settles with Starboard; appoints two directors, plans Investor Day
-Starboard Value LP
-Mcap $13B · EV $12B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1773383/000177338326000023/dt-20260630.htm</link>
-      <guid isPermaLink="false">0001773383-26-000023</guid>
-      <pubDate>Wed, 01 Jul 2026 05:39:36 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>settlement</category>
     </item>
   </channel>
 </rss>
