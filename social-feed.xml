@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 02 Jul 2026 20:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 20:58:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WATR 🤝 Merger
+Merges with Inflection Point SPAC; registers up to 232M shares
+stock
+Mcap $63M · EV $90M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2092314/000121390026075043/ea0266470-12.htm</link>
+      <guid isPermaLink="false">0001213900-26-075043</guid>
+      <pubDate>Thu, 02 Jul 2026 15:58:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OLP 📍 Stake
 Receives 13D from Gould Investors L.P. disclosing 12.4% stake
@@ -604,16 +615,6 @@ Mcap $2.4B · EV $3.5B · Cons Disc</title>
       <pubDate>Wed, 01 Jul 2026 16:12:02 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$AON 💧 Capital Return · Buyback
-Increases buyback authorization by $7.5B to ~$8.3B total
-Mcap $71B · EV $85B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/315293/000119312526292736/d76205d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-292736</guid>
-      <pubDate>Wed, 01 Jul 2026 15:51:44 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
