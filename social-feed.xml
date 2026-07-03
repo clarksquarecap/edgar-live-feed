@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 03 Jul 2026 20:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 20:55:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EULIF 🤝 Merger
@@ -337,24 +337,6 @@ Mcap $63M · EV $90M · Industrials</title>
       <pubDate>Thu, 02 Jul 2026 15:58:36 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$OLP 📍 Stake
-Receives 13D from Gould Investors L.P. disclosing 12.4% stake
-Mcap $542M · EV $1.1B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/712770/000077933526000005/primary_doc.xml</link>
-      <guid isPermaLink="false">0000779335-26-000005</guid>
-      <pubDate>Thu, 02 Jul 2026 15:50:57 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BRT 📍 Stake
-Gould group files 13D disclosing 22.7% stake
-Mcap $299M · EV $781M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/14846/000077933526000006/primary_doc.xml</link>
-      <guid isPermaLink="false">0000779335-26-000006</guid>
-      <pubDate>Thu, 02 Jul 2026 15:50:45 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
