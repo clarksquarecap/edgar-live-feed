@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 03 Jul 2026 10:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 10:18:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$PASG 🤝 Merger
@@ -766,44 +766,6 @@ Mcap $146M · EV $97M · Healthcare</title>
       <pubDate>Thu, 02 Jul 2026 05:24:20 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
       <category>cooperation_agreement</category>
-    </item>
-    <item>
-      <title>$SPGI 🪓 Spinoff
-Spins off Mobility Global (MBGL) via 1-for-1 distribution; begins trading July 1
-Mcap $123B · EV $140B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/64040/000110465926080005/tm2619099d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-080005</guid>
-      <pubDate>Thu, 02 Jul 2026 05:17:13 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$MBGL 🪓 Spinoff
-Spin-off from S&amp;P Global completed; begins trading on NYSE
-Mcap $6.3B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2090312/000110465926080006/tm2619098d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-080006</guid>
-      <pubDate>Thu, 02 Jul 2026 05:17:00 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$HCM ⚖️ Litigation · Won
-Won NMPA approval for ORPATHYS in MET-amplified gastric cancer
-Mcap $1.8B · EV $585M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1648257/000164825726000047/hcm-20260702x6k.htm</link>
-      <guid isPermaLink="false">0001648257-26-000047</guid>
-      <pubDate>Thu, 02 Jul 2026 05:14:38 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$SYY 🤝 Merger
-Acquires Jetro Restaurant Depot for $21.6B cash + 91.5M shares; SYY exchange 1:1
-cash+stk · close Q1 2027</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2134688/000110465926079973/tm2618951-1_s4.htm</link>
-      <guid isPermaLink="false">0001104659-26-079973</guid>
-      <pubDate>Thu, 02 Jul 2026 05:13:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
