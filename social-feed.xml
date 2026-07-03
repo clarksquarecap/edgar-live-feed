@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 03 Jul 2026 12:33:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 12:40:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EULIF 🤝 Merger
+Acquired by Critical Metals; deal terms updated
+Mcap $489M · EV $431M · Materials</title>
+      <link>https://www.stocktitan.net/news/CRML/critical-metals-corp-provides-update-on-proposed-acquisition-of-5hi9inh35fgd.html</link>
+      <guid isPermaLink="false">OTC-527098</guid>
+      <pubDate>Fri, 03 Jul 2026 07:40:04 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MAIFF 📉 Delisting · Voluntary
 Graduates to TSX; TSXV delisting effective today</title>
@@ -664,15 +674,6 @@ Mcap $2M · EV $4M · Tech</title>
       <guid isPermaLink="false">0001213900-26-074608</guid>
       <pubDate>Thu, 02 Jul 2026 07:42:12 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$CLBK 🏛️ Demutualization
-Second-step conversion and Northfield acquisition approved; $1.1B subscription raised
-Mcap $2.2B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1723596/000172359626000031/clbk-20260701.htm</link>
-      <guid isPermaLink="false">0001723596-26-000031</guid>
-      <pubDate>Thu, 02 Jul 2026 07:35:24 -0500</pubDate>
-      <category>DEMUTUALIZATION</category>
     </item>
   </channel>
 </rss>
