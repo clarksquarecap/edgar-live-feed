@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 03 Jul 2026 11:23:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:52:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MAIFF 📉 Delisting · Voluntary
@@ -724,16 +724,6 @@ Mcap $1.1B · EV $1.1B · Cons Disc</title>
       <pubDate>Thu, 02 Jul 2026 07:07:02 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DLTR 💧 Capital Return · Buyback
-Replenishes $2.5B share repurchase authorization
-Mcap $23B · EV $30B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/935703/000093570326000075/dltr-20260701.htm</link>
-      <guid isPermaLink="false">0000935703-26-000075</guid>
-      <pubDate>Thu, 02 Jul 2026 06:47:55 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
