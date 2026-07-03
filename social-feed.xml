@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 03 Jul 2026 10:18:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 10:24:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$PASG 🤝 Merger
@@ -756,16 +756,6 @@ Mcap $27M · EV $31M · Tech</title>
       <pubDate>Thu, 02 Jul 2026 05:30:48 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$VXRT 👀 Activist
-Settles proxy contest; appoints independent director, forms committees
-Mcap $146M · EV $97M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/72444/000121390026074576/ea0296709-8k_vaxart.htm</link>
-      <guid isPermaLink="false">0001213900-26-074576</guid>
-      <pubDate>Thu, 02 Jul 2026 05:24:20 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>cooperation_agreement</category>
     </item>
   </channel>
 </rss>
