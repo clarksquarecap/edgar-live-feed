@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 03 Jul 2026 20:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 20:09:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EULIF 🤝 Merger
@@ -487,37 +487,6 @@ Mcap $31M · EV $17M · Healthcare</title>
       <guid isPermaLink="false">0001140361-26-027435</guid>
       <pubDate>Thu, 02 Jul 2026 15:11:18 -0500</pubDate>
       <category>TENDER_OFFER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CLPR 🪙 Debt Restr.
-Enters consent agreement to market $125M loan; foreclosure if unsold
-Mcap $45M · EV $1.2B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1649096/000143774926022495/clpr20260630_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-022495</guid>
-      <pubDate>Thu, 02 Jul 2026 15:06:25 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$LIXT 🤝 Merger
-Acquires Nomad for Series D Preferred + common shares; closed July 1
-cash+stk · close 2026-07-01
-Mcap $95M · EV $94M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1335105/000149315226031870/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-031870</guid>
-      <pubDate>Thu, 02 Jul 2026 15:06:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$INM 🤝 Merger
-Acquires Mentari Therapeutics in stock-for-stock merger; redomesticates to Nevada
-stock
-Mcap $7M · EV $2M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1728328/000119312526294455/d131177ds4.htm</link>
-      <guid isPermaLink="false">0001193125-26-294455</guid>
-      <pubDate>Thu, 02 Jul 2026 15:05:10 -0500</pubDate>
-      <category>MERGER</category>
       <category>definitive</category>
     </item>
   </channel>
