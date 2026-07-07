@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 21:36:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:42:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BNZI 🤝 Merger
@@ -509,25 +509,6 @@ Mcap $1.6B · EV $1.6B · Tech</title>
       <guid isPermaLink="false">0001085146-26-000453</guid>
       <pubDate>Mon, 06 Jul 2026 16:47:18 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$ABR 💧 Capital Return · Recap
-Issues $375M convertible notes; repurchases $114M shares, redeems $270M notes
-Mcap $1.0B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1253986/000110465926080833/tm2619809d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-080833</guid>
-      <pubDate>Mon, 06 Jul 2026 16:40:30 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-    </item>
-    <item>
-      <title>$MGTI 🪙 Debt Restr.
-Debt-for-equity swap: $1.22M note extinguished for 750M common + Series E preferred
-Mcap $8M · EV $9M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1001601/000149315226032207/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-032207</guid>
-      <pubDate>Mon, 06 Jul 2026 16:40:05 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
