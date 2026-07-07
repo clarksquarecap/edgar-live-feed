@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 20:57:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:04:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AG 📤 Divestiture
+Sells San Martin Silver Mine for $90M cash; close Q4 2026
+US$90 million deal
+Mcap $8.6B · EV $8.2B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1308648/000106299326003543/form6k.htm</link>
+      <guid isPermaLink="false">0001062993-26-003543</guid>
+      <pubDate>Tue, 07 Jul 2026 16:04:44 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$ESI 🤝 Merger
 Acquired by Solstice for $10 cash + 0.5 shares; $14.5B total
@@ -469,17 +479,6 @@ Mcap $14M · EV $14M · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1141964/000121465926008229/pcmc629262425.htm</link>
       <guid isPermaLink="false">0001214659-26-008229</guid>
       <pubDate>Mon, 06 Jul 2026 16:09:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GCAN 🤝 Merger
-Controlling shareholder gains 96.62% voting power; debt cancelled
-cash · close 2026-06-29
-Mcap $180K · EV $460K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1695473/000149315226032191/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-032191</guid>
-      <pubDate>Mon, 06 Jul 2026 16:02:55 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
