@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 10:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:19:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GETY 💥 Busted M&amp;A
@@ -849,46 +849,6 @@ Mcap $2.3B · EV $1.9B · Tech</title>
       <pubDate>Mon, 06 Jul 2026 05:24:17 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MGTI 📍 Stake
-Receives 13D/A from Project Nickel; 51.87% stake
-Mcap $8M · EV $9M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1001601/000149315226032043/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-032043</guid>
-      <pubDate>Mon, 06 Jul 2026 05:17:27 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SVRE 👀 Activist
-VisionWave increases stake to 30.3% with board designation rights
-VisionWave Holdings · 30.30 stake
-Mcap $93M · EV $90M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1894693/000173112226000908/primary_doc.xml</link>
-      <guid isPermaLink="false">0001731122-26-000908</guid>
-      <pubDate>Mon, 06 Jul 2026 05:17:10 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$ING 🤝 Merger
-Acquires 40% stake in Singular Bank; close Q1 2027
-cash
-Mcap $93B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1039765/000117184326004462/f6k_070626.htm</link>
-      <guid isPermaLink="false">0001171843-26-004462</guid>
-      <pubDate>Mon, 06 Jul 2026 05:16:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$REE 🔥 Insolvency
-Files for Israeli insolvency stay; Nasdaq delisting effective July 7
-Mcap $6M · EV $11M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1843588/000121390026075174/ea0296990-6k_ree.htm</link>
-      <guid isPermaLink="false">0001213900-26-075174</guid>
-      <pubDate>Mon, 06 Jul 2026 05:15:47 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>scheme_of_arrangement</category>
     </item>
   </channel>
 </rss>
