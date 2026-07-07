@@ -6,8 +6,24 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 13:56:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:40:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🎯 Tender · Exchange Offer · Olba Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2131622/000114036126027727/ef20077388_cb.htm</link>
+      <guid isPermaLink="false">0001140361-26-027727</guid>
+      <pubDate>Tue, 07 Jul 2026 09:40:08 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>exchange_offer</category>
+      <category>CB</category>
+      <ns0:headline>Exchange offer commenced; EGM called for shareholder vote</ns0:headline>
+      <ns0:shortName>Olba Healthcare</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Exchange offer commenced; EGM called for shareholder vote&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed a Form CB notification of an exchange offer under Rule 802. The company is convening an extraordinary general meeting of shareholders to approve the transaction.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Extraordinary general meeting of shareholders&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2131622/000114036126027727/0001140361-26-027727-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;CB · prefill_form:CB · filed 2026-07-07&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · TMC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1798562/000110465926081046/primary_doc.xml</link>
@@ -9506,23 +9522,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-16&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/822632/000119312526283078/0001193125-26-283078-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WBGSX&lt;/b&gt; · 425 · prefill_form:425 · filed 2026-06-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · IQMX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2113060/000121390026072155/ea0296006-8k425_real.htm</link>
-      <guid isPermaLink="false">0001213900-26-072155</guid>
-      <pubDate>Thu, 25 Jun 2026 16:34:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <ns0:headline>SPAC shareholders approve business combination; 1:1 ADS exchange</ns0:headline>
-      <ns0:shortName>IQM Quantum Computers Oyj</ns0:shortName>
-      <description>&lt;p&gt;&lt;b&gt;SPAC shareholders approve business combination; 1:1 ADS exchange&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;IQM Quantum Computers Oyj&amp;#39;s business combination with SPAC Real Asset Acquisition Corp. (RAAQ) was approved by RAAQ shareholders. Each RAAQ Class A ordinary share will be exchanged for one American depositary share of IQM. The merger is expected to close shortly, subject to customary conditions.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Real Asset Acquisition Corp. (RAAQ)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-02-22&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2113060/000121390026072155/0001213900-26-072155-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IQMX&lt;/b&gt; · 425 · Business Services (7372) · prefill_form:425 · filed 2026-06-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
