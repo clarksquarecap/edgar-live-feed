@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 20:51:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 20:57:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ESI 🤝 Merger
+Acquired by Solstice for $10 cash + 0.5 shares; $14.5B total
+15% prem · $14.5 billion deal · cash+stk · close H1 2027
+Mcap $11B · EV $13B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1590714/000121390026076011/ea0297225-425_solstice.htm</link>
+      <guid isPermaLink="false">0001213900-26-076011</guid>
+      <pubDate>Tue, 07 Jul 2026 15:57:57 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NUVL 🎯 Tender
 Acquired by GSK for $124/share cash; HSR waiting period expires July 9
@@ -471,27 +482,6 @@ Mcap $180K · EV $460K · Healthcare</title>
       <pubDate>Mon, 06 Jul 2026 16:02:55 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CETX 🤝 Merger
-Acquires Plant Engineering Services for $3.5M cash + up to $1.75M earnout
-$3,500,000 deal · cash · close 2026-07-01
-Mcap $3M · EV $14M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1435064/000149315226032187/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-032187</guid>
-      <pubDate>Mon, 06 Jul 2026 15:56:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BIYA 📤 Divestiture
-Sells Starfish Technology-FZE to Shengshi International for $1M cash
-1,000,000 deal
-Mcap $12M · EV $12M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1944712/000121390026075562/ea0297176-6k_baiya.htm</link>
-      <guid isPermaLink="false">0001213900-26-075562</guid>
-      <pubDate>Mon, 06 Jul 2026 15:55:46 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
