@@ -6,8 +6,26 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 21:04:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:12:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · OSPR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113481/000121390026076019/primary_doc.xml</link>
+      <guid isPermaLink="false">0001213900-26-076019</guid>
+      <pubDate>Tue, 07 Jul 2026 16:12:00 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>SCHEDULE 13D</category>
+      <ns0:headline>Discloses 26.18% beneficial ownership in SPAC post-IPO</ns0:headline>
+      <ns0:shortName>Osprey Acquisition Sponsor III</ns0:shortName>
+      <ns0:price>2.32</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Discloses 26.18% beneficial ownership in SPAC post-IPO&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed a Schedule 13D disclosing beneficial ownership of 10.74 million shares (26.18% of total share classes) in Osprey Acquisition Corp. III, as of the closing of the IPO on July 2, 2026. The shares consist of 486,000 Class A and 10,254,000 Class B ordinary shares. No activist agenda or transformative intent is stated.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 26.18&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-07&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.32 · Mkt cap $14.9M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2113481/000121390026076019/0001213900-26-076019-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OSPR, OSPRU&lt;/b&gt; · SCHEDULE 13D · Holding / Investment Offices (6770) · fresh_13d · filed 2026-07-07&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · AG</title>
       <link>https://www.sec.gov/Archives/edgar/data/1308648/000106299326003543/form6k.htm</link>
@@ -9491,24 +9509,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.36 · Mkt cap $1.23B · EV $13.18B · Fwd EV/EBITDA 10.1x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1071438/000129281426003614/0001292814-26-003614-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BAK&lt;/b&gt; · 6-K · Chemicals / Pharma (2860) · prefill_form:6-K · filed 2026-06-26&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · TIRXF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1782941/000135445726000623/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000623</guid>
-      <pubDate>Fri, 26 Jun 2026 11:39:13 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>25-NSE</category>
-      <ns0:headline>Forced Nasdaq delisting effective July 6, 2026</ns0:headline>
-      <ns0:shortName>TIAN RUIXIANG</ns0:shortName>
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective July 6, 2026&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Tian Ruixiang Holdings Ltd&amp;#39;s Class A Ordinary Shares will be delisted from Nasdaq effective July 6, 2026, following a final determination by Nasdaq Staff for non-compliance with Listing Rule 5550(a)(2). The company&amp;#39;s shares were suspended on March 5, 2026, and a hearing panel upheld the delisting decision on March 12, 2026. The determination became final on April 27, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Tian Ruixiang Holdings Ltd., together its subsidiaries, operates as an insurance broker in China. It distributes property and casualty insurance products, such as commercial property, liability, accidental, and automobile insurance; and health, life, and miscellaneous insurance products. Tian Ruixiang Holdings Ltd. was founded in 2010 and is headquartered in Beijing, China.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-26&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-07-06&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Mkt cap $40K · Financials / Insurance&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1782941/000135445726000623/0001354457-26-000623-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TIRXF&lt;/b&gt; · 25-NSE · Insurance Agents (6411) · prefill_form:25-NSE · filed 2026-06-26&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

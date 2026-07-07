@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 21:04:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:12:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OSPR 📍 Stake
+Discloses 26.18% beneficial ownership in SPAC post-IPO
+Mcap $15M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2113481/000121390026076019/primary_doc.xml</link>
+      <guid isPermaLink="false">0001213900-26-076019</guid>
+      <pubDate>Tue, 07 Jul 2026 16:12:00 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$AG 📤 Divestiture
 Sells San Martin Silver Mine for $90M cash; close Q4 2026
@@ -457,28 +466,6 @@ Mcap $79M · EV $111M · Utilities</title>
       <link>https://www.sec.gov/Archives/edgar/data/1681348/000149315226032197/form6-k.htm</link>
       <guid isPermaLink="false">0001493152-26-032197</guid>
       <pubDate>Mon, 06 Jul 2026 16:24:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DMLP 🤝 Merger
-Acquires 3,100 net royalty acres in Williston Basin for 850,000 common units
-stock · close 2026-07-31
-Mcap $1.2B · EV $1.2B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1172358/000143774926022814/dmlp20260706_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-022814</guid>
-      <pubDate>Mon, 06 Jul 2026 16:10:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PCMC 🤝 Merger
-Acquires Physicians Capital Management for 80% of pro forma equity; close Q3 2026
-stock
-Mcap $14M · EV $14M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1141964/000121465926008229/pcmc629262425.htm</link>
-      <guid isPermaLink="false">0001214659-26-008229</guid>
-      <pubDate>Mon, 06 Jul 2026 16:09:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
