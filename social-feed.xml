@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 00:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:05:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EBAY 🤝 Merger · Unsolicited
+Unsolicited $125/share bid from GameStop; HSR cleared, options may settle
+cash+stk
+Mcap $50B · EV $54B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1065088/000119312526296631/d123962d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-296631</guid>
+      <pubDate>Tue, 07 Jul 2026 05:05:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$ATLC 📍 Stake
 Executive Chairman David Hanna clarifies 42.1% stake, shared control
@@ -920,17 +931,6 @@ Mcap $313M · EV $312M · Financials</title>
       <pubDate>Mon, 06 Jul 2026 05:05:32 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SEER 🤝 Merger · Unsolicited
-Receives unsolicited $2.45/cash + CVR bid from CEO/Chair Farokhzad
-Omid Farokhzad · cash
-Mcap $89M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726445/000119312526295034/form_defa14a_8-k_of_prop.htm</link>
-      <guid isPermaLink="false">0001193125-26-295034</guid>
-      <pubDate>Mon, 06 Jul 2026 05:04:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
