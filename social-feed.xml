@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 13:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 13:12:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CCEL 📍 Stake
+Receives 13D/A from Camac Partners; 6.8% stake
+Mcap $29M · EV $37M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/862692/000149315226032265/primary_doc.xml</link>
+      <guid isPermaLink="false">0001493152-26-032265</guid>
+      <pubDate>Tue, 07 Jul 2026 08:12:32 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$OLPX 📉 Delisting · Forced
 Forced Nasdaq delisting effective July 7
@@ -570,26 +579,6 @@ Mcap $11B · EV $13B · Materials</title>
       <pubDate>Mon, 06 Jul 2026 08:16:26 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SOAR 🔎 Strat Review · Sale
-Pursues strategic merger transaction; targeted Q3 2026
-Mcap $6M · EV $3M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1853070/000149315226032092/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-032092</guid>
-      <pubDate>Mon, 06 Jul 2026 08:09:51 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>sale_process</category>
-    </item>
-    <item>
-      <title>$NELR 🤝 Merger · Preliminary
-Signs non-binding LOI to acquire Hong Kong AI photo restoration firm
-Mcap $27M · EV $27M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1941360/000168316826005290/neolara_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-005290</guid>
-      <pubDate>Mon, 06 Jul 2026 08:09:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
