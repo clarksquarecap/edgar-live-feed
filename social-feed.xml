@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 21:28:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:35:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$REAX 🤝 Merger
+Acquires RE/MAX Holdings for $13.80 cash or 5.150 shares per RMAX; vote Aug 14
+cash+stk</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2136387/000110465926081350/none-20260424xs4a.htm</link>
+      <guid isPermaLink="false">0001104659-26-081350</guid>
+      <pubDate>Tue, 07 Jul 2026 16:35:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MCHX 📍 Stake
 Acquires 2.7M shares via $4.9M convertible notes from Marchex for Archenia
@@ -507,47 +517,6 @@ Mcap $8M · EV $9M · Tech</title>
       <guid isPermaLink="false">0001493152-26-032207</guid>
       <pubDate>Mon, 06 Jul 2026 16:40:05 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$BBGI 📍 Stake
-Insider Bruce Beasley reports 8.1% stake in amended 13D
-Mcap $51M · EV $294M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1099160/000119312526296441/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-296441</guid>
-      <pubDate>Mon, 06 Jul 2026 16:33:07 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$CRNX 🤝 Merger
-Acquired by Vertex for $85/share cash; $10B equity value
-Vertex Pharmaceuticals · 101% prem · $10.0B deal · cash · close Q3 2026
-Mcap $4.5B · EV $3.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1658247/000114036126027647/ef20077393_formdefa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-027647</guid>
-      <pubDate>Mon, 06 Jul 2026 16:31:48 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PGY 🤝 Merger
-Filed DEFA14A supplementing merger proxy
-Mcap $1.5B · EV $1.2B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1883085/000188308526000040/pagayatechnologies2026defi.htm</link>
-      <guid isPermaLink="false">0001883085-26-000040</guid>
-      <pubDate>Mon, 06 Jul 2026 16:31:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GBTG 🤝 Merger
-Acquired by Long Lake for $9.50 cash; vote Aug 3
-cash · close Q3 2026
-Mcap $4.9B · EV $6.2B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1820872/000114036126027649/ny20072693x2_defm14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-027649</guid>
-      <pubDate>Mon, 06 Jul 2026 16:31:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
