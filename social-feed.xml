@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 20:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 20:14:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DEVSF 🤝 Merger
+Signs $6M SPA with EEME; advances $1.5M to Southern for BCA merger
+cash+stk
+Mcap $4M · EV $10M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1854480/000114036126027765/ef20077491_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-027765</guid>
+      <pubDate>Tue, 07 Jul 2026 15:13:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$ULCC 📤 Divestiture
+Sells 11 A321neo aircraft to Avolon; deliveries Q4 2026–H1 2027
+Mcap $1.8B · EV $6.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1670076/000167007626000073/fron-20260630.htm</link>
+      <guid isPermaLink="false">0001670076-26-000073</guid>
+      <pubDate>Tue, 07 Jul 2026 15:13:01 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$PDC 🤝 Merger · Preliminary
 Signs non-binding term sheet to acquire Alt5 Sigma Canada from AI Financial Corp
@@ -535,15 +555,6 @@ Acquired by CrossCountry Intermediate Holdco; stockholders approve merger</title
       <pubDate>Mon, 06 Jul 2026 15:14:06 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$IGC 🪙 Debt Restr.
-Converts $1.15M insider debt to equity at $0.27/share
-Mcap $28M · EV $29M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326205/000118518526002808/igc8k070626.htm</link>
-      <guid isPermaLink="false">0001185185-26-002808</guid>
-      <pubDate>Mon, 06 Jul 2026 15:12:44 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
