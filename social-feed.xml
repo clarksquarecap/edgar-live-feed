@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 12:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 12:33:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CGEH 📉 Delisting · Voluntary
+Uplists to Nasdaq Global Select Market under CEPL
+effective 2026-07-08
+Mcap $291M · EV $374M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1009759/000110465926080974/tm2619464d3_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-080974</guid>
+      <pubDate>Tue, 07 Jul 2026 07:33:59 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$AX 🤝 Merger
 Acquires Arc Technologies (fintech platform); close July 2026
@@ -610,25 +621,6 @@ Mcap $11M · Industrials</title>
       <pubDate>Mon, 06 Jul 2026 07:40:30 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MIDD 🪓 Spinoff
-Spins off Midera Food Processing (MFP) 1:1; begins trading July 7
-Mcap $7.9B · EV $9.6B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/769520/000119312526295648/d51635d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-295648</guid>
-      <pubDate>Mon, 06 Jul 2026 07:33:54 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$MSS 📤 Divestiture
-Sells two grocery store assets for $4.5M; close by Dec 31
-4,500,000 deal · close 2026-12-31
-Mcap $2M · EV $48M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1892292/000121390026075242/ea0296241-8k_maison.htm</link>
-      <guid isPermaLink="false">0001213900-26-075242</guid>
-      <pubDate>Mon, 06 Jul 2026 07:33:46 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
