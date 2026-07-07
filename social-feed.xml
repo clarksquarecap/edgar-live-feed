@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 07 Jul 2026 10:05:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 10:06:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VRTX 🤝 Merger
+Acquires Crinetics Pharmaceuticals for $85/share cash; close Q3 2026
+cash
+Mcap $134B · EV $123B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/875320/000119312526296710/d113650d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-296710</guid>
+      <pubDate>Tue, 07 Jul 2026 05:06:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EBAY 🤝 Merger · Unsolicited
 Unsolicited $125/share bid from GameStop; HSR cleared, options may settle
@@ -909,28 +920,6 @@ Mcap $1.7B · EV $5.8B · Industrials</title>
       <guid isPermaLink="false">0001764046-26-000085</guid>
       <pubDate>Mon, 06 Jul 2026 05:07:15 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BKHA 🤝 Merger
-Acquires Vesicor Therapeutics for $70M equity value; vote pending
-$70,000,000 deal · stock
-Mcap $49M · EV $51M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2000775/000182912626007231/blackhawk_s4a6.htm</link>
-      <guid isPermaLink="false">0001829126-26-007231</guid>
-      <pubDate>Mon, 06 Jul 2026 05:05:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SVAC 🤝 Merger
-Acquires General Fusion via SPAC merger; vote today
-~$1B valuation deal · close July 2026
-Mcap $313M · EV $312M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2074850/000110465926080461/tm2618668d6_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-080461</guid>
-      <pubDate>Mon, 06 Jul 2026 05:05:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
