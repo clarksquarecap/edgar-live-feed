@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 08 Jul 2026 10:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:18:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SHMD 📍 Stake
@@ -525,15 +525,6 @@ Mcap $6.7B · EV $8.5B · Cons Disc</title>
       <pubDate>Tue, 07 Jul 2026 05:45:14 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GETY 💥 Busted M&amp;A
-Terminates merger with Shutterstock; deal dead
-Mcap $384M · EV $2.3B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1898496/000121390026075721/ea029721801-8k_getty.htm</link>
-      <guid isPermaLink="false">0001213900-26-075721</guid>
-      <pubDate>Tue, 07 Jul 2026 05:12:50 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
