@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 08 Jul 2026 14:05:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 15:23:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🎯 Tender · GNK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926081696/tm2620046d1_sctota.htm</link>
+      <guid isPermaLink="false">0001104659-26-081696</guid>
+      <pubDate>Wed, 08 Jul 2026 10:23:22 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>SC TO-T/A</category>
+      <ns0:headline>Faces $27.34/share tender offer from Diana; expires July 10</ns0:headline>
+      <ns0:shortName>GENCO SHIPPING &amp; TRADING</ns0:shortName>
+      <ns0:price>25.16</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Faces $27.34/share tender offer from Diana; expires July 10&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Diana Shipping&amp;#39;s tender offer for all Genco shares not already owned by Diana at $27.34 per share implied value ($24.80 cash plus one Diana share valued at $2.54). As of June 26, 28.4% of outstanding shares not owned by Diana have been tendered. Offer expires July 10, 2026; Diana has $1.412B committed financing and the offer represents a 53% premium to Genco&amp;#39;s undisturbed price.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Genco Shipping &amp;amp; Trading Limited, together with its subsidiaries, engages in the ocean transportation of drybulk cargoes worldwide. It operates through two segments: major bulk and minor bulk fleet. The company owns and operates dry bulk vessels to transports iron ore, grains, coal, steel products, and other drybulk cargoes. It charters its vessels primarily to trading houses, including commodities traders; producers; and government-owned entities.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Diana Shipping Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $27.34 per share (implied: $24.80 cash + 1 Diana share valued at $2.54)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 53%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; July 10, 2026 (offer expiration)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Tender offer deadline July 10, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $25.16 · Mkt cap $1.09B · EV $1.36B · Fwd P/E 15.9x · Fwd EV/EBITDA 7.0x · Industrials / Marine Transportation&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1326200/000110465926081696/0001104659-26-081696-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GNK&lt;/b&gt; · SC TO-T/A · Water Transportation (4412) · prefill_form:SC TO-T · filed 2026-07-08&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · PLCE</title>
       <link>https://www.sec.gov/Archives/edgar/data/1041859/000183460026000013/primary_doc.xml</link>
@@ -9493,25 +9512,6 @@
 &lt;p&gt;&lt;i&gt;Px $15.47 · Mkt cap $4.04B · EV $3.80B · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1385849/000106299326003385/0001062993-26-003385-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UUUU&lt;/b&gt; · 8-K · Items 1.01, 2.03, 3.02, 5.07, 8.01, 9.01 · Mining — Nonmetallic (1400) · 8k_tier1:1.01,8.01 · filed 2026-06-26&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · TNMG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2013186/000121390026072686/ea0295927-6k_tnlmedi.htm</link>
-      <guid isPermaLink="false">0001213900-26-072686</guid>
-      <pubDate>Fri, 26 Jun 2026 16:20:25 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>6-K</category>
-      <ns0:headline>Forced Nasdaq delisting determination; hearing requested</ns0:headline>
-      <ns0:shortName>TNL Mediagene</ns0:shortName>
-      <ns0:price>0.4900</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting determination; hearing requested&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a staff determination from Nasdaq that its securities are subject to delisting due to bid price below $1 for 30 consecutive days and non-compliance with minimum stockholders&amp;#39; equity. The company is not eligible for a compliance period due to a prior reverse stock split and intends to request a hearing to appeal, which will automatically stay the suspension pending the Panel&amp;#39;s decision. The stock continues trading under TNMG on the Nasdaq Capital Market pending the hearing outcome.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; TNL Mediagene operates as a media company in Taiwan and Japan. The company operates The News Lens, a news site; Business Insider Japan and Business Insider Taiwan, a news site focused on developments inside and outside Japan and Taiwan in business, finance, politics, and technology; DIGIDAY JAPAN, a publication for Japanese and international digital marketing news; MASHING UP, a conference and event series; Modern Retail, a site for retail marketing; Becoming Aces, a site to promote young entrep…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-22&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.4900 · Mkt cap $1.2M · EV $19.6M · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2013186/000121390026072686/0001213900-26-072686-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TNMG, TNMWF&lt;/b&gt; · 6-K · Business Services (7310) · prefill_form:6-K · filed 2026-06-26&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

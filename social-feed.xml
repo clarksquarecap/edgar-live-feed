@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 08 Jul 2026 15:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 15:23:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNK 🎯 Tender
+Faces $27.34/share tender offer from Diana; expires July 10
+Diana Shipping · 53% prem · cash+stk
+Mcap $1.1B · EV $1.4B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926081696/tm2620046d1_sctota.htm</link>
+      <guid isPermaLink="false">0001104659-26-081696</guid>
+      <pubDate>Wed, 08 Jul 2026 10:23:22 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$PLCE 👀 Activist
 Receives 13D/A from Mithaq Capital boosting stake to 61.1%
@@ -571,16 +581,6 @@ Mcap $1.0B · EV $553M · Industrials</title>
       <pubDate>Tue, 07 Jul 2026 11:45:46 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$EQX 📤 Divestiture
-Sells 8.7M Versamet shares for C$130M; stake drops to 2.7%
-C$130,000,000 deal · close immediate
-Mcap $8.1B · EV $8.4B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1756607/000117184326004512/f6k_070726.htm</link>
-      <guid isPermaLink="false">0001171843-26-004512</guid>
-      <pubDate>Tue, 07 Jul 2026 10:18:58 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
