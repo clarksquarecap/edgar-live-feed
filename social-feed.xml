@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 08 Jul 2026 21:19:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:19:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AFJK 💥 Busted M&amp;A
+Terminates business combination with United Hydrogen; outside date passed
+Mcap $85M · EV $87M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1979005/000149315226032541/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-032541</guid>
+      <pubDate>Wed, 08 Jul 2026 16:19:42 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$IPCX 🤝 Merger
 Acquired by Air Water Ventures for $200M stock; vote pending
@@ -599,16 +608,6 @@ Mcap $2.4B · EV $2.1B · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1845815/000095010326010366/dp249790_defa14a.htm</link>
       <guid isPermaLink="false">0000950103-26-010366</guid>
       <pubDate>Tue, 07 Jul 2026 16:26:45 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$IRDM 🤝 Merger
-Acquired by Rocket Lab in definitive merger; signed June 28
-Mcap $5.7B · EV $7.4B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1418819/000110465926081335/tm2619278d14_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-081335</guid>
-      <pubDate>Tue, 07 Jul 2026 16:19:37 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
