@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 08 Jul 2026 10:05:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:12:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SHMD 📍 Stake
+Receives 13D/A from Anette Schmid group; stake rises to 40.25%
+Mcap $318M · EV $472M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1987240/000110465926081507/primary_doc.xml</link>
+      <guid isPermaLink="false">0001104659-26-081507</guid>
+      <pubDate>Wed, 08 Jul 2026 05:12:31 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$GAIN 📤 Divestiture
 Portfolio co SFEG sold to Enerpac; GAIN expects full debt repayment + capital gain
@@ -525,17 +534,6 @@ Mcap $384M · EV $2.3B · Comms</title>
       <guid isPermaLink="false">0001213900-26-075721</guid>
       <pubDate>Tue, 07 Jul 2026 05:12:50 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$VRTX 🤝 Merger
-Acquires Crinetics Pharmaceuticals for $85/share cash; close Q3 2026
-cash
-Mcap $134B · EV $123B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/875320/000119312526296710/d113650d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-296710</guid>
-      <pubDate>Tue, 07 Jul 2026 05:06:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
