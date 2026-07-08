@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 08 Jul 2026 13:35:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 13:59:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$AXTI 🔎 Strat Review · Portfolio Review
@@ -591,15 +591,6 @@ Forced Nasdaq delisting effective June 16; moves to OTC</title>
       <pubDate>Tue, 07 Jul 2026 10:05:49 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$TMC 📍 Stake
-Receives 13D/A from Allseas Group disclosing 15.4% stake
-Mcap $1.8B · EV $1.7B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1798562/000110465926081046/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-081046</guid>
-      <pubDate>Tue, 07 Jul 2026 08:56:40 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
