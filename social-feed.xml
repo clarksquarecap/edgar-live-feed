@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 08 Jul 2026 21:25:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:27:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CTHRQ 🔥 Insolvency · Ch. 11
+Sells assets to AJS Creations for $2.7M cash in 363 sale
+advisor: AJS Creations
+Mcap $20K · EV $220K · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1015155/000110465926081852/tm2620088d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-081852</guid>
+      <pubDate>Wed, 08 Jul 2026 16:26:52 -0500</pubDate>
+      <category>INSOLVENCY</category>
+      <category>chapter_11</category>
+    </item>
+    <item>
+      <title>$ESI 🤝 Merger
+Acquired by Solstice Advanced Materials; close H1 2027
+Mcap $11B · EV $13B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1590714/000121390026076455/ea0297422-425_solstice.htm</link>
+      <guid isPermaLink="false">0001213900-26-076455</guid>
+      <pubDate>Wed, 08 Jul 2026 16:26:06 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ATER 📤 Divestiture
 Receives Glass Lewis, ISS support for asset sale to Trademark Global; vote July 10
@@ -596,27 +617,6 @@ Mcap $21B · EV $19B · Comms</title>
       <link>https://www.sec.gov/Archives/edgar/data/1428439/000114036126027792/ef20077431_425.htm</link>
       <guid isPermaLink="false">0001140361-26-027792</guid>
       <pubDate>Tue, 07 Jul 2026 16:27:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RCICX 🤝 Merger
-Merger with BCPL vote rescheduled to Aug 14; 87% in favor
-BC Partners Lending</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1628040/000139834426011844/fp0099737-3_425.htm</link>
-      <guid isPermaLink="false">0001398344-26-011844</guid>
-      <pubDate>Tue, 07 Jul 2026 16:26:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PAYO 🤝 Merger
-Acquired by Nuvei for $2.75B cash; vote Aug-Sep 2026
-44% prem · cash · close mid-2027
-Mcap $2.4B · EV $2.1B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1845815/000095010326010366/dp249790_defa14a.htm</link>
-      <guid isPermaLink="false">0000950103-26-010366</guid>
-      <pubDate>Tue, 07 Jul 2026 16:26:45 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
