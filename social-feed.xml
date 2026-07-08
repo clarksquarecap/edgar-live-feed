@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 08 Jul 2026 20:34:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 20:40:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GNK 🎯 Tender · Unsolicited
+Faces unsolicited $24.80/share tender from Diana; board urges no tendering
+Diana Shipping · cash
+Mcap $1.1B · EV $1.4B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326200/000114036126027974/ef20077569_sc14d9a.htm</link>
+      <guid isPermaLink="false">0001140361-26-027974</guid>
+      <pubDate>Wed, 08 Jul 2026 15:40:06 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$GREE 📍 Stake
 Atlas Capital increases stake to 16.1% via Class B conversion
@@ -630,46 +641,6 @@ Mcap $30B · EV $33B · Industrials</title>
       <pubDate>Tue, 07 Jul 2026 15:43:53 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$UTL 🤝 Merger
-Narrows Aquarion acquisition to AWC-NH and Abenaki; secures $50M Tranche B loan
-cash
-Mcap $940M · EV $1.9B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/755001/000075500126000026/utl-20260630.htm</link>
-      <guid isPermaLink="false">0000755001-26-000026</guid>
-      <pubDate>Tue, 07 Jul 2026 15:36:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MGNX 📤 Divestiture
-Sells GMP manufacturing ops to Bora for $122.5M cash
-122,500,000 deal · close 2026-06-30
-Mcap $290M · EV $173M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1125345/000112534526000045/mgnx-20260630.htm</link>
-      <guid isPermaLink="false">0001125345-26-000045</guid>
-      <pubDate>Tue, 07 Jul 2026 15:36:16 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$TGLS 🌍 Re-domicile
-Reincorporates from Cayman Islands to Florida; effective July 7
-Mcap $2.0B · EV $2.1B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1534675/000149315226032342/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-032342</guid>
-      <pubDate>Tue, 07 Jul 2026 15:35:14 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$NUVL 🎯 Tender
-GSK tender offer at $124/share cash; supplemental disclosures added
-GlaxoSmithKline (GSK) · cash
-Mcap $9.8B · EV $8.5B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1861560/000119312526297541/d153608dsc14d9a.htm</link>
-      <guid isPermaLink="false">0001193125-26-297541</guid>
-      <pubDate>Tue, 07 Jul 2026 15:34:30 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
