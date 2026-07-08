@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 08 Jul 2026 21:27:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:33:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GCO ⚔️ Proxy
+Faces proxy contest; ISS recommends FOR all 9 nominees; AGM July 21
+Bradley Radoff
+Mcap $368M · EV $918M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/18498/000119312526298733/d862894ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-298733</guid>
+      <pubDate>Wed, 08 Jul 2026 16:33:11 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$CTHRQ 🔥 Insolvency · Ch. 11
 Sells assets to AJS Creations for $2.7M cash in 363 sale
@@ -566,57 +576,6 @@ cash+stk</title>
       <link>https://www.sec.gov/Archives/edgar/data/2136387/000110465926081350/none-20260424xs4a.htm</link>
       <guid isPermaLink="false">0001104659-26-081350</guid>
       <pubDate>Tue, 07 Jul 2026 16:35:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MCHX 📍 Stake
-Acquires 2.7M shares via $4.9M convertible notes from Marchex for Archenia
-Mcap $78M · EV $69M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1224133/000119312526297650/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-297650</guid>
-      <pubDate>Tue, 07 Jul 2026 16:28:46 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RMD 📤 Divestiture
-Sells MatrixCare to Frazier Healthcare for $490M cash
-$490 million deal
-Mcap $32B · EV $31B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/943819/000119312526297658/d88958d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-297658</guid>
-      <pubDate>Tue, 07 Jul 2026 16:28:19 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$TBH 🤝 Merger
-Completes reverse merger with HOD; HOD holders own 90.66% of pro forma common
-stock · close 2026-06-30
-Mcap $5.9B · EV $8.4B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1903595/000121390026076056/ea0297241-8k_house.htm</link>
-      <guid isPermaLink="false">0001213900-26-076056</guid>
-      <pubDate>Tue, 07 Jul 2026 16:27:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SVAC 🤝 Merger
-Acquires General Fusion; shareholder vote approved; close imminent
-Mcap $313M · EV $312M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2074850/000110465926081348/tm2619982d1_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-081348</guid>
-      <pubDate>Tue, 07 Jul 2026 16:27:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ROKU 🤝 Merger
-Acquired by Fox for $96 cash + 0.9693 Fox shares per share
-cash+stk
-Mcap $21B · EV $19B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1428439/000114036126027792/ef20077431_425.htm</link>
-      <guid isPermaLink="false">0001140361-26-027792</guid>
-      <pubDate>Tue, 07 Jul 2026 16:27:13 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
