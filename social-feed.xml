@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 08 Jul 2026 21:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 21:19:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IPCX 🤝 Merger
+Acquired by Air Water Ventures for $200M stock; vote pending
+$200,000,000 deal · stock
+Mcap $357M · EV $356M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2012318/000121390026076450/ea0297441-01.htm</link>
+      <guid isPermaLink="false">0001213900-26-076450</guid>
+      <pubDate>Wed, 08 Jul 2026 16:19:27 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VISN 📤 Divestiture
 Sells RUCKUS business to Belden for $1.846B cash; pro forma filed
@@ -600,26 +611,6 @@ Mcap $5.7B · EV $7.4B · Comms</title>
       <pubDate>Tue, 07 Jul 2026 16:19:37 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CDNA 📤 Divestiture
-Sells Lab Products business to Eurobio for $171.7M cash
-to Eurobio Scientific · close 2026-06-30
-Mcap $1.5B · EV $1.3B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1217234/000121723426000038/cdna-20260630.htm</link>
-      <guid isPermaLink="false">0001217234-26-000038</guid>
-      <pubDate>Tue, 07 Jul 2026 16:19:14 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GCO ⚔️ Proxy
-Faces Radoff proxy contest; ISS recommends all 9 directors; AGM July 21
-Bradley Radoff
-Mcap $368M · EV $918M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/18498/000119312526297633/d127538ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-297633</guid>
-      <pubDate>Tue, 07 Jul 2026 16:18:31 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
