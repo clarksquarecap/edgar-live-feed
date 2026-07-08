@@ -6,8 +6,50 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 08 Jul 2026 10:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:05:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GAIN 📤 Divestiture
+Portfolio co SFEG sold to Enerpac; GAIN expects full debt repayment + capital gain
+to Enerpac Tool Group
+Mcap $623M · EV $1.2B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1321741/000119312526297752/d168205d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-297752</guid>
+      <pubDate>Wed, 08 Jul 2026 05:05:30 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$AHT 📤 Divestiture
+Sells Marriott Fremont Silicon Valley for $53M cash; pays down $43.5M mortgage
+to SRE Acquisitions V · 53,000,000 deal · close 2026-07-01
+Mcap $21M · EV $2.8B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1232582/000123258226000166/aht-20260701.htm</link>
+      <guid isPermaLink="false">0001232582-26-000166</guid>
+      <pubDate>Wed, 08 Jul 2026 05:05:16 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$ESI 🤝 Merger
+Acquired by Solstice for $14.5B stock; creates specialty chemicals giant
+stock
+Mcap $11B · EV $13B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1590714/000110465926081376/tm2619788d7_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-081376</guid>
+      <pubDate>Wed, 08 Jul 2026 05:04:41 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$GRAF 🤝 Merger
+Acquires Big3 basketball league in $290M reverse merger; close Q4
+BIG3 HoldCo · close Q4 2026
+Mcap $310M · EV $310M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1897463/000110465926081480/tm2618666d2_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-081480</guid>
+      <pubDate>Wed, 08 Jul 2026 05:04:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CCXI 🤝 Merger
 Acquires Agility Robotics for ~$2.5B; SPAC merger
@@ -494,17 +536,6 @@ Mcap $134B · EV $123B · Healthcare</title>
       <pubDate>Tue, 07 Jul 2026 05:06:31 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$EBAY 🤝 Merger · Unsolicited
-Unsolicited $125/share bid from GameStop; HSR cleared, options may settle
-cash+stk
-Mcap $50B · EV $54B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1065088/000119312526296631/d123962d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-296631</guid>
-      <pubDate>Tue, 07 Jul 2026 05:05:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
