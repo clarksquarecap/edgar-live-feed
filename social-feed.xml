@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 14:40:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 15:28:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SNRY 🔎 Strat Review · Sale
@@ -587,16 +587,6 @@ Mcap $267M · EV $268M · Financials</title>
       <pubDate>Wed, 08 Jul 2026 10:29:41 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender
-Faces $27.34/share tender offer from Diana; expires July 10
-Diana Shipping · 53% prem · cash+stk
-Mcap $1.1B · EV $1.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926081696/tm2620046d1_sctota.htm</link>
-      <guid isPermaLink="false">0001104659-26-081696</guid>
-      <pubDate>Wed, 08 Jul 2026 10:23:22 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
