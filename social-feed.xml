@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 13:52:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 14:10:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$OFS 🤝 Merger
@@ -587,16 +587,6 @@ Mcap $1.1B · EV $1.4B · Industrials</title>
       <guid isPermaLink="false">0001104659-26-081696</guid>
       <pubDate>Wed, 08 Jul 2026 10:23:22 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$PLCE 👀 Activist
-Receives 13D/A from Mithaq Capital boosting stake to 61.1%
-Mithaq Capital SPC
-Mcap $71M · EV $700M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1041859/000183460026000013/primary_doc.xml</link>
-      <guid isPermaLink="false">0001834600-26-000013</guid>
-      <pubDate>Wed, 08 Jul 2026 09:05:40 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
