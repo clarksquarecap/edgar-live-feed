@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 13:33:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 13:40:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$TBRG 📉 Delisting · Forced
@@ -587,16 +587,6 @@ Mcap $71M · EV $700M · Cons Disc</title>
       <guid isPermaLink="false">0001834600-26-000013</guid>
       <pubDate>Wed, 08 Jul 2026 09:05:40 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$AXTI 🔎 Strat Review · Portfolio Review
-Subsidiary Tongmei withdraws STAR Market IPO; pivots to HK listing; $49M redemption triggered
-Mcap $3.7B · EV $3.7B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1051627/000143774926022984/axti20260629_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-022984</guid>
-      <pubDate>Wed, 08 Jul 2026 08:35:00 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
     </item>
   </channel>
 </rss>
