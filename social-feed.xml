@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 11:59:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 12:12:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MARA 🤝 Merger
+Acquires HIF's Texas power site for up to $600M milestone payments
+HIF USA · 600000000 deal · cash · close 2026-07-02
+Mcap $4.6B · EV $6.6B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1507605/000095014226002012/eh260804074_8k.htm</link>
+      <guid isPermaLink="false">0000950142-26-002012</guid>
+      <pubDate>Thu, 09 Jul 2026 07:12:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TSAT 👀 Activist
 Boosts stake in Telesat to 13.2%; activist filing
@@ -547,48 +558,6 @@ Mcap $3.5B · EV $7.9B · Real Estate</title>
       <pubDate>Wed, 08 Jul 2026 07:33:24 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$LNTO 🤝 Merger
-Completes reverse merger with Airtopia Adventure Parks
-Mcap $2M · Industrials</title>
-      <link>https://www.accessnewswire.com/newsroom/en/oil-gas-and-energy/lelantos-holdings-completes-reverse-merger-with-airtopia-adventure-parks-enterin-1186841</link>
-      <guid isPermaLink="false">OTC-527598</guid>
-      <pubDate>Wed, 08 Jul 2026 07:09:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TDAC 🤝 Merger
-F-4 filed for ProLogium de-SPAC merger; SEC review begins
-ProLogium Holding
-Mcap $254M · EV $255M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1926599/000110465926081579/tm2619975d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-081579</guid>
-      <pubDate>Wed, 08 Jul 2026 07:08:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PRME ⚖️ Litigation · Won
-Won arbitration vs Beam; PM647 AATD candidate cleared
-vs Beam Therapeutics
-Mcap $721M · EV $700M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1894562/000162828026047590/prme-20260706.htm</link>
-      <guid isPermaLink="false">0001628280-26-047590</guid>
-      <pubDate>Wed, 08 Jul 2026 07:08:45 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$AZTA 📤 Divestiture
-Sells B Medical to Thelema for $63M ($28M cash + $35M vendor loan)
-to Thelema S.à r.l. · 63,000,000 deal · close 2026-07-01
-Mcap $1.2B · EV $667M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933974/000162828026047591/azta-20260701.htm</link>
-      <guid isPermaLink="false">0001628280-26-047591</guid>
-      <pubDate>Wed, 08 Jul 2026 07:08:32 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
