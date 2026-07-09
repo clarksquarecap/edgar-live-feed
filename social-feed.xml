@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 21:25:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 21:31:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BENF 📍 Stake
+CEO Silk reports 7.5% stake
+Mcap $51M · EV $260M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1775734/000149315226032723/primary_doc.xml</link>
+      <guid isPermaLink="false">0001493152-26-032723</guid>
+      <pubDate>Thu, 09 Jul 2026 16:31:17 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$BZAI 📍 Stake
 Receives 13D/A from Lane Bess group; 10.4% stake
@@ -669,36 +678,6 @@ Mcap $368M · EV $918M · Cons Disc</title>
       <guid isPermaLink="false">0001193125-26-298733</guid>
       <pubDate>Wed, 08 Jul 2026 16:33:11 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$CTHRQ 🔥 Insolvency · Ch. 11
-Sells assets to AJS Creations for $2.7M cash in 363 sale
-advisor: AJS Creations
-Mcap $20K · EV $220K · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1015155/000110465926081852/tm2620088d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-081852</guid>
-      <pubDate>Wed, 08 Jul 2026 16:26:52 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$ESI 🤝 Merger
-Acquired by Solstice Advanced Materials; close H1 2027
-Mcap $11B · EV $13B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1590714/000121390026076455/ea0297422-425_solstice.htm</link>
-      <guid isPermaLink="false">0001213900-26-076455</guid>
-      <pubDate>Wed, 08 Jul 2026 16:26:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ATER 📤 Divestiture
-Receives Glass Lewis, ISS support for asset sale to Trademark Global; vote July 10
-Mcap $11M · EV $12M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1757715/000143774926023062/ater20260707_defa14a.htm</link>
-      <guid isPermaLink="false">0001437749-26-023062</guid>
-      <pubDate>Wed, 08 Jul 2026 16:25:57 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
