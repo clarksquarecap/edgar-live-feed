@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 20:38:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 20:44:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LPSN 🤝 Merger
+Acquired by SoundHound AI for ~$3.33/share stock; vote Aug 20
+22% prem · $42.8 million (aggregate consideration base) deal · stock
+Mcap $21M · EV $313M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1102993/000121390026076759/ea0297465-01.htm</link>
+      <guid isPermaLink="false">0001213900-26-076759</guid>
+      <pubDate>Thu, 09 Jul 2026 15:44:29 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ZONE 🤝 Merger
 Acquires 99% interest in JV with HST for up to $100M cash + equity
@@ -600,26 +611,6 @@ Mcap $1.1B · EV $1.4B · Industrials</title>
       <guid isPermaLink="false">0001104659-26-081818</guid>
       <pubDate>Wed, 08 Jul 2026 15:47:23 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$SDOT 🪙 Debt Restr.
-Settles $3.4M debt via 90k share issuance; 9% dilution
-Mcap $27M · EV $40M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1701756/000173112226000925/e7766_8-k.htm</link>
-      <guid isPermaLink="false">0001731122-26-000925</guid>
-      <pubDate>Wed, 08 Jul 2026 15:40:38 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender · Unsolicited
-Faces unsolicited $24.80/share tender from Diana; board urges no tendering
-Diana Shipping · cash
-Mcap $1.1B · EV $1.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000114036126027974/ef20077569_sc14d9a.htm</link>
-      <guid isPermaLink="false">0001140361-26-027974</guid>
-      <pubDate>Wed, 08 Jul 2026 15:40:06 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
