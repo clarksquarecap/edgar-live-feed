@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 10:54:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:12:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DCMDF 🤝 Merger
+Acquires Zavy Limited for cash; expands martech portfolio
+cash · close closed
+Mcap $76M · EV $245M · Industrials</title>
+      <link>https://financialpost.com/pmn/business-wire-news-releases-pmn/data-communications-management-corp-announces-acquisition-of-zavy-limited-a-saas-provider-of-social-media-insights-and-analytics</link>
+      <guid isPermaLink="false">OTC-527730</guid>
+      <pubDate>Thu, 09 Jul 2026 06:12:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SSTK 💥 Busted M&amp;A
 Merger with Getty Images terminated; CMA required editorial sale
@@ -571,17 +582,6 @@ Mcap $20M · EV $12M · Healthcare</title>
       <pubDate>Wed, 08 Jul 2026 06:37:19 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DFH 🤝 Merger · Unsolicited
-Proposes to acquire Beazer Homes for $32/share cash; 70% premium
-Beazer Homes USA · 70 prem · cash
-Mcap $1.5B · EV $3.2B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1825088/000162828026047583/dream-20260708.htm</link>
-      <guid isPermaLink="false">0001628280-26-047583</guid>
-      <pubDate>Wed, 08 Jul 2026 06:07:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
