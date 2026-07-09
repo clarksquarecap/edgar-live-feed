@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 21:18:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 21:24:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HQ 📍 Stake
+Receives 13D from Peak XV disclosing 20.3% stake
+Mcap $1.2B · EV $1.1B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2088256/000214171926000003/primary_doc.xml</link>
+      <guid isPermaLink="false">0002141719-26-000003</guid>
+      <pubDate>Thu, 09 Jul 2026 16:24:48 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$TRNR 🤝 Merger
 Acquires STEPR for up to $25.2M cash + convertible preferred; close Q4 2026
@@ -681,26 +690,6 @@ Mcap $11M · EV $12M · Cons Disc</title>
       <guid isPermaLink="false">0001437749-26-023062</guid>
       <pubDate>Wed, 08 Jul 2026 16:25:57 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AFJK 💥 Busted M&amp;A
-Terminates business combination with United Hydrogen; outside date passed
-Mcap $85M · EV $87M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1979005/000149315226032541/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-032541</guid>
-      <pubDate>Wed, 08 Jul 2026 16:19:42 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$IPCX 🤝 Merger
-Acquired by Air Water Ventures for $200M stock; vote pending
-$200,000,000 deal · stock
-Mcap $357M · EV $356M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2012318/000121390026076450/ea0297441-01.htm</link>
-      <guid isPermaLink="false">0001213900-26-076450</guid>
-      <pubDate>Wed, 08 Jul 2026 16:19:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
