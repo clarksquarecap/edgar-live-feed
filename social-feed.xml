@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 21:11:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 21:17:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EQR 🤝 Merger
+Acquires AvalonBay for 2.793 EQR shares/AVB share; vote Aug 12
+stock
+Mcap $26B · EV $35B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/906107/000114036126028129/ny20076479x2_s4a.htm</link>
+      <guid isPermaLink="false">0001140361-26-028129</guid>
+      <pubDate>Thu, 09 Jul 2026 16:17:16 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NHIC 🤝 Merger
 Merger with NewCleo; employee option exercise window open
@@ -668,26 +679,6 @@ Mcap $357M · EV $356M · Financials</title>
       <pubDate>Wed, 08 Jul 2026 16:19:27 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$VISN 📤 Divestiture
-Sells RUCKUS business to Belden for $1.846B cash; pro forma filed
-close 2026-07-01
-Mcap $2.7B · EV $279M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1517228/000119312526298682/visn-20260701.htm</link>
-      <guid isPermaLink="false">0001193125-26-298682</guid>
-      <pubDate>Wed, 08 Jul 2026 16:13:13 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CYRB 🔎 Strat Review · Strat Alts
-Foreclosure sale adjourned to Aug 4; evaluating strategic alternatives
-Mcap $404M · EV $430M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1851048/000185104826000011/cyrb8k.htm</link>
-      <guid isPermaLink="false">0001851048-26-000011</guid>
-      <pubDate>Wed, 08 Jul 2026 16:12:39 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
