@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 19:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 20:07:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SLP 🤝 Merger
+Acquired by Altaris for $18.50 cash per share; special meeting pending
+26% prem · $375,000,000 deal · cash
+Mcap $369M · EV $328M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1023459/000102345926000036/prem14a.htm</link>
+      <guid isPermaLink="false">0001023459-26-000036</guid>
+      <pubDate>Thu, 09 Jul 2026 15:07:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AMBIQ 🔥 Insolvency · Ch. 11
 Parent signs RSA with majority Green Note holders; Chapter 11 restructuring advances
@@ -516,26 +527,6 @@ Mcap $7.3B · EV $9.9B · Materials</title>
       <pubDate>Wed, 08 Jul 2026 15:10:15 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NGS 🌍 Re-domicile
-Redomesticates to Texas; effective July 20, de-staggered board
-Mcap $488M · EV $712M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1084991/000108499126000061/ngs-20260708.htm</link>
-      <guid isPermaLink="false">0001084991-26-000061</guid>
-      <pubDate>Wed, 08 Jul 2026 15:04:08 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$MSPR 📉 Delisting · Forced
-Forced OTC delisting to Expert Market effective July 17
-effective 2026-07-17
-Mcap $270K · EV $610M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1802450/000121390026076348/ea0297353-8k_msp.htm</link>
-      <guid isPermaLink="false">0001213900-26-076348</guid>
-      <pubDate>Wed, 08 Jul 2026 15:03:56 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
