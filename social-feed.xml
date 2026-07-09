@@ -6,8 +6,36 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 13:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 13:09:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CPBI 📍 Stake
+Receives 13D/A from Stilwell; stake at 9.7%
+Mcap $73M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1979332/000092189526001783/primary_doc.xml</link>
+      <guid isPermaLink="false">0000921895-26-001783</guid>
+      <pubDate>Thu, 09 Jul 2026 08:09:17 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$CPBI 👀 Activist
+Appoints Stilwell Group nominee to board; faces 10% buyback proposal
+Mcap $73M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1979332/000094337426000259/cpbi-20260708.htm</link>
+      <guid isPermaLink="false">0000943374-26-000259</guid>
+      <pubDate>Thu, 09 Jul 2026 08:09:05 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>settlement</category>
+    </item>
+    <item>
+      <title>$NWTG 🪙 Debt Restr.
+Exchanges $2.3M convertible notes for Series A Preferred; converts at $1.00
+Mcap $4M · EV $4M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934245/000149315226032613/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-032613</guid>
+      <pubDate>Thu, 09 Jul 2026 08:08:54 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$CSAN 📤 Divestiture
 Sells Mato Grosso land assets for R$1.85B; indirect share R$586M
