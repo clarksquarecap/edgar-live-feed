@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 20:45:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 20:51:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AIRI 🤝 Merger
+Acquired by Tenax Aerospace in reverse merger; existing holders get ~4% of combined co.
+stock
+Mcap $15M · EV $46M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1009891/000121390026076769/ea0297462-8k_airindus.htm</link>
+      <guid isPermaLink="false">0001213900-26-076769</guid>
+      <pubDate>Thu, 09 Jul 2026 15:51:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RDZN 🤝 Merger
 Acquires Riverside for up to £12M; 50% cash at close, 50% earn-out
@@ -615,24 +626,6 @@ Mcap $404M · EV $430M · Energy</title>
       <pubDate>Wed, 08 Jul 2026 16:12:39 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$BSTR 💥 Busted M&amp;A
-Original SPAC merger with CEPO terminated; renegotiating revised terms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2083583/000121390026076405/ea0297448-425_bstrhold.htm</link>
-      <guid isPermaLink="false">0001213900-26-076405</guid>
-      <pubDate>Wed, 08 Jul 2026 15:47:38 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender
-Faces increased $27.34/share tender offer from Diana Shipping (cash + stock)
-cash+stk
-Mcap $1.1B · EV $1.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926081818/tm2620046d3_sctota.htm</link>
-      <guid isPermaLink="false">0001104659-26-081818</guid>
-      <pubDate>Wed, 08 Jul 2026 15:47:23 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
