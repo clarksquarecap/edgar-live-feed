@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 09 Jul 2026 15:34:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 15:40:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SNRY 🔎 Strat Review · Sale
@@ -556,17 +556,6 @@ Mcap $10M · EV $276M · Cons Disc</title>
       <pubDate>Wed, 08 Jul 2026 13:21:38 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender · Unsolicited
-Faces $27.34/sh tender offer from Diana; expires July 10
-53% prem · cash+stk · close 2026-07-10
-Mcap $1.1B · EV $1.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926081697/tm2620046d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-081697</guid>
-      <pubDate>Wed, 08 Jul 2026 10:35:55 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
