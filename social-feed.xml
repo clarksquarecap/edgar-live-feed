@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 10 Jul 2026 13:29:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 13:35:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EVGN 📍 Stake
@@ -707,17 +707,6 @@ Mcap $50M · EV $246M · Financials</title>
       <pubDate>Thu, 09 Jul 2026 08:52:16 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TBRG 📉 Delisting · Forced
-Forced Nasdaq delisting effective ~July 19, 2026
-effective 2026-07-19
-Mcap $388M · EV $522M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1169445/000135445726000655/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000655</guid>
-      <pubDate>Thu, 09 Jul 2026 08:33:54 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
