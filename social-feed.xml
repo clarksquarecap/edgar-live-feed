@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 10 Jul 2026 20:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 20:18:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SVAC 📉 Delisting · Forced
+Forced delisting by Nasdaq effective July 10
+Mcap $313M · EV $312M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2074850/000135445726000666/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000666</guid>
+      <pubDate>Fri, 10 Jul 2026 15:18:17 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$BWLP 📤 Divestiture
 Sells BW Elm vessel for ~$64M cash; net gain ~$36M
@@ -805,39 +815,6 @@ Mcap $1.5B · EV $2.7B · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/58492/000005849226000364/legdefm14a.htm</link>
       <guid isPermaLink="false">0000058492-26-000364</guid>
       <pubDate>Thu, 09 Jul 2026 15:22:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BBBY 🤝 Merger
-Acquires The Container Store; closes merger
-cash+stk · close 2026-07-08
-Mcap $436M · EV $322M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1130713/000114036126028107/ef20077593_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-028107</guid>
-      <pubDate>Thu, 09 Jul 2026 15:16:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WSR 🤝 Merger
-Acquired by Ares for $19.00 cash; vote approved; close July 14
-Ares Real Estate funds · $1.7 billion deal · cash · close 2026-07-14
-Mcap $976M · EV $1.6B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1175535/000119312526299696/d323508d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-299696</guid>
-      <pubDate>Thu, 09 Jul 2026 15:15:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PULM 🤝 Merger
-Acquires Eos SENOLYTIX in all-stock merger; special meeting to vote
-stock
-Mcap $7M · EV $4M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574235/000149315226032682/forms-4.htm</link>
-      <guid isPermaLink="false">0001493152-26-032682</guid>
-      <pubDate>Thu, 09 Jul 2026 15:15:11 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
