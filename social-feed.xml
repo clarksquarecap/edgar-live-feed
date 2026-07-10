@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 10 Jul 2026 01:44:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:03:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BSTR 🤝 Merger
+Merger with CEPO; loan amended, revised terms under discussion</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2083583/000121390026076854/ea0297246-8k425_bstr.htm</link>
+      <guid isPermaLink="false">0001213900-26-076854</guid>
+      <pubDate>Fri, 10 Jul 2026 05:03:20 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$PCYO 📍 Stake
 Receives 13D/A from Maran Capital; 14.7% stake
@@ -619,37 +628,6 @@ Mcap $89M · Healthcare</title>
       <guid isPermaLink="false">0000921895-26-001781</guid>
       <pubDate>Thu, 09 Jul 2026 05:09:17 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$EPAC 🤝 Merger
-Acquires SFE Group for ~$472M cash + RSUs; close ≥Sep 1
-$472M (approx. $451.4M cash + $20.6M RSUs) deal · cash+stk
-Mcap $1.9B · EV $1.9B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/6955/000114036126027991/ef20077568_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-027991</guid>
-      <pubDate>Thu, 09 Jul 2026 05:02:50 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CYRB 🔎 Strat Review · Strat Alts
-Explores strategic alternatives; Paramount/Onfolio LOI to fund debt purchase
-advisor: Paramount Helium
-Mcap $404M · EV $430M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1851048/000185104826000013/cyrbshltr.htm</link>
-      <guid isPermaLink="false">0001851048-26-000013</guid>
-      <pubDate>Thu, 09 Jul 2026 05:02:43 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$VET 💧 Capital Return · Buyback
-TSX approves NCIB to repurchase up to 10% of public float</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1293135/000127956926000647/vermilion6k.htm</link>
-      <guid isPermaLink="false">0001279569-26-000647</guid>
-      <pubDate>Thu, 09 Jul 2026 05:02:20 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
