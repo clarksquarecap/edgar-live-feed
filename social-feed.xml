@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 10 Jul 2026 12:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:14:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NUVL 🎯 Tender
+Acquired by GSK for $124/share cash; HSR cleared
+GlaxoSmithKline (GSK) · cash
+Mcap $9.8B · EV $8.5B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1861560/000119312526300297/d101813dsc14d9a.htm</link>
+      <guid isPermaLink="false">0001193125-26-300297</guid>
+      <pubDate>Fri, 10 Jul 2026 07:14:01 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$MCFN 🤝 Merger
 Acquires Auddia Inc. for 1 Holdco share per Auddia share
@@ -661,17 +671,6 @@ Mcap $126M · EV $126M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2017526/000114036126028049/ef20077584_8k.htm</link>
       <guid isPermaLink="false">0001140361-26-028049</guid>
       <pubDate>Thu, 09 Jul 2026 07:19:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MARA 🤝 Merger
-Acquires HIF's Texas power site for up to $600M milestone payments
-HIF USA · 600000000 deal · cash · close 2026-07-02
-Mcap $4.6B · EV $6.6B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1507605/000095014226002012/eh260804074_8k.htm</link>
-      <guid isPermaLink="false">0000950142-26-002012</guid>
-      <pubDate>Thu, 09 Jul 2026 07:12:21 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
