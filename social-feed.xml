@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 10 Jul 2026 21:37:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 21:43:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CALC 📍 Stake
@@ -693,17 +693,6 @@ Mcap $256M · EV $262M · Utilities</title>
       <guid isPermaLink="false">0001999371-26-014664</guid>
       <pubDate>Thu, 09 Jul 2026 17:14:53 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RFAM 🤝 Merger
-Acquired by HCC Healthcare in $500M stock merger; vote pending
-HCC Healthcare Pte. · 500,000,000 deal · stock
-Mcap $138M · EV $138M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2091712/000182912626007473/rfacquisition3_425.htm</link>
-      <guid isPermaLink="false">0001829126-26-007473</guid>
-      <pubDate>Thu, 09 Jul 2026 16:37:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
