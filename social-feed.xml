@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 10 Jul 2026 21:24:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 21:30:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ATER 📤 Divestiture
+Sells substantially all assets to Trademark Global; vote adjourned to July 17
+Mcap $11M · EV $12M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1757715/000143774926023359/ater20260710_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-023359</guid>
+      <pubDate>Fri, 10 Jul 2026 16:30:57 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$LSTA 🎯 Tender
 Tender offer extended to July 16; 56% tendered at $4.00 + CVR
@@ -694,24 +703,6 @@ Mcap $51M · EV $260M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1775734/000149315226032723/primary_doc.xml</link>
       <guid isPermaLink="false">0001493152-26-032723</guid>
       <pubDate>Thu, 09 Jul 2026 16:31:17 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BZAI 📍 Stake
-Receives 13D/A from Lane Bess group; 10.4% stake
-Mcap $175M · EV $145M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1871638/000121390026076794/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-076794</guid>
-      <pubDate>Thu, 09 Jul 2026 16:25:04 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$HQ 📍 Stake
-Receives 13D from Peak XV disclosing 20.3% stake
-Mcap $1.2B · EV $1.1B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2088256/000214171926000003/primary_doc.xml</link>
-      <guid isPermaLink="false">0002141719-26-000003</guid>
-      <pubDate>Thu, 09 Jul 2026 16:24:48 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
