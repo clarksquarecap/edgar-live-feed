@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 10 Jul 2026 11:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:37:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GASS 👀 Activist
@@ -653,24 +653,6 @@ Mcap $4.6B · EV $6.6B · Tech</title>
       <pubDate>Thu, 09 Jul 2026 07:12:21 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TSAT 👀 Activist
-Boosts stake in Telesat to 13.2%; activist filing
-Mcap $669M · EV $3.8B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1845840/000119312526299127/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-299127</guid>
-      <pubDate>Thu, 09 Jul 2026 06:36:36 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$LION 📍 Stake
-Receives 13D/A from MHR Fund Management; 13% stake with voting pacts
-Mcap $4.3B · EV $8.3B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2052959/000119312526299128/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-299128</guid>
-      <pubDate>Thu, 09 Jul 2026 06:36:19 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
