@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 10 Jul 2026 10:04:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 10:11:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LPSN 🤝 Merger
+Acquired by SoundHound; vote Aug 20
+Mcap $21M · EV $313M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1102993/000119312526299956/d111213ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-299956</guid>
+      <pubDate>Fri, 10 Jul 2026 05:11:29 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CYCN 🤝 Merger
 Acquires Korsana Biosciences for ~1.4735 CYCN shares per Korsana share; $380M pre-closing financing
@@ -611,65 +621,6 @@ Mcap $76M · EV $245M · Industrials</title>
       <pubDate>Thu, 09 Jul 2026 06:12:31 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SSTK 💥 Busted M&amp;A
-Merger with Getty Images terminated; CMA required editorial sale
-Mcap $327M · EV $464M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1549346/000114036126028035/ef20077612_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-028035</guid>
-      <pubDate>Thu, 09 Jul 2026 05:11:30 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$CWLXF 🤝 Merger
-Acquired by Vireo Growth for 0.023052 Vireo shares per share; vote Aug 7
-stock · close Q3 2026
-Mcap $26M · EV $35M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/831609/000106299326003566/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-003566</guid>
-      <pubDate>Thu, 09 Jul 2026 05:11:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$EQX 🤝 Merger
-Acquires Orla Mining for 1.0x EQX share; vote July 22
-stock
-Mcap $8.1B · EV $8.4B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1756607/000117184326004544/f6k_070926.htm</link>
-      <guid isPermaLink="false">0001171843-26-004544</guid>
-      <pubDate>Thu, 09 Jul 2026 05:10:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VALE ⚔️ Proxy
-Faces Previ proxy contest; EGM July 22 for board/chairman election
-10% stake
-Mcap $65B · EV $82B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/917851/000129281426003715/vale20260708_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-003715</guid>
-      <pubDate>Thu, 09 Jul 2026 05:10:17 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$VBNK 🌍 Re-domicile
-Becomes holding company of VersaBank via 1-for-1 share exchange; vote pending</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2100848/000110465926082024/tm2533318-16_s4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-082024</guid>
-      <pubDate>Thu, 09 Jul 2026 05:09:52 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$SEER ⚔️ Proxy
-Faces proxy contest from Radoff-JEC Group; AGM July 28
-7.7% stake
-Mcap $89M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726445/000092189526001781/dfan14a09076074_07082026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001781</guid>
-      <pubDate>Thu, 09 Jul 2026 05:09:17 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
