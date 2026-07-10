@@ -6,8 +6,25 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 10 Jul 2026 20:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 20:37:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MLCO 📍 Stake
+Controlling shareholder group increases stake to 58.5%</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1381640/000119312526300964/primary_doc.xml</link>
+      <guid isPermaLink="false">0001193125-26-300964</guid>
+      <pubDate>Fri, 10 Jul 2026 15:37:43 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$ZVSA 🔎 Strat Review · Sale
+Explores strategic alternatives including sale, divestiture, going dark</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1859007/000149315226032851/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-032851</guid>
+      <pubDate>Fri, 10 Jul 2026 15:34:39 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>sale_process</category>
+    </item>
     <item>
       <title>$TLSS 🤝 Merger
 Acquires Patriot Glass Solutions for $4.75M in Series J preferred; close by Aug 4
@@ -743,47 +760,6 @@ Mcap $182M · EV $178M · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1956741/000121390026076740/ea0297471-8k_cleancore.htm</link>
       <guid isPermaLink="false">0001213900-26-076740</guid>
       <pubDate>Thu, 09 Jul 2026 15:38:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NYXH 📍 Stake
-Receives 14.55% stake notification from AIGH Capital
-Mcap $172M · EV $184M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1857190/000110465926082287/tm2620153d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-082287</guid>
-      <pubDate>Thu, 09 Jul 2026 15:37:27 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$CAE 📉 Delisting · Voluntary
-Transfers U.S. listing from NYSE to Nasdaq; last NYSE trade July 22
-effective 2026-07-23
-Mcap $8.3B · EV $10B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1173382/000117338226000029/coverform6-kxnasdaq.htm</link>
-      <guid isPermaLink="false">0001173382-26-000029</guid>
-      <pubDate>Thu, 09 Jul 2026 15:37:12 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-    </item>
-    <item>
-      <title>$NAAS 🤝 Merger
-Acquires China Newlink Holding for $15M in stock
-15000000 deal · stock
-Mcap $42M · EV $120M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1712178/000118518526002868/naas6k070926.htm</link>
-      <guid isPermaLink="false">0001185185-26-002868</guid>
-      <pubDate>Thu, 09 Jul 2026 15:37:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CCXI 🤝 Merger
-Merging with Agility Robotics; $2.5B valuation
-Mcap $1.1B · EV $1.1B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2074973/000121390026076743/ea0297553-425_churchill11.htm</link>
-      <guid isPermaLink="false">0001213900-26-076743</guid>
-      <pubDate>Thu, 09 Jul 2026 15:36:40 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
