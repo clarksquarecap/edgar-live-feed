@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 10 Jul 2026 20:19:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 20:25:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ORGN 🧊 Liquidation
+Seeks stockholder approval for dissolution; est. $0.61-$3.54/share distribution
+Mcap $5M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1802457/000180245726000036/originmaterials-specialmee.htm</link>
+      <guid isPermaLink="false">0001802457-26-000036</guid>
+      <pubDate>Fri, 10 Jul 2026 15:25:24 -0500</pubDate>
+      <category>LIQUIDATION</category>
+    </item>
     <item>
       <title>$NUMD 🤝 Merger
 Acquires Avid Gold for 4.5M Series A shares + $100K debt assumption; closed July 8
@@ -744,88 +753,6 @@ Mcap $1.1B · EV $1.1B · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2074973/000121390026076743/ea0297553-425_churchill11.htm</link>
       <guid isPermaLink="false">0001213900-26-076743</guid>
       <pubDate>Thu, 09 Jul 2026 15:36:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AVO 📍 Stake
-Receives 13D/A from Globalharvest; stake rises to 14.01%
-Mcap $1.2B · EV $1.4B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1802974/000089914026000707/primary_doc.xml</link>
-      <guid isPermaLink="false">0000899140-26-000707</guid>
-      <pubDate>Thu, 09 Jul 2026 15:24:30 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SITM 📍 Stake
-Discloses 11.9% SITM stake from asset sale consideration
-Mcap $16B · EV $15B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1451809/000090514826003216/primary_doc.xml</link>
-      <guid isPermaLink="false">0000905148-26-003216</guid>
-      <pubDate>Thu, 09 Jul 2026 15:24:25 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SECZ 📍 Stake
-Blockchain Capital files 13D; 6.0% stake</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2094496/000095010326010461/primary_doc.xml</link>
-      <guid isPermaLink="false">0000950103-26-010461</guid>
-      <pubDate>Thu, 09 Jul 2026 15:24:13 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SECZ 📍 Stake
-CEO files 13D disclosing 5.4% stake</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2094496/000095010326010462/primary_doc.xml</link>
-      <guid isPermaLink="false">0000950103-26-010462</guid>
-      <pubDate>Thu, 09 Jul 2026 15:24:07 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$MVO 🧊 Liquidation
-Final distribution of $0.593844/unit; due bills July 15-24; suspension July 27
-Mcap $10M · EV $9M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1371782/000110465926082260/tm2620157d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-082260</guid>
-      <pubDate>Thu, 09 Jul 2026 15:24:00 -0500</pubDate>
-      <category>LIQUIDATION</category>
-    </item>
-    <item>
-      <title>$BAYA 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 7; intends to appeal
-Mcap $56B · EV $93B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1969475/000149315226032688/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-032688</guid>
-      <pubDate>Thu, 09 Jul 2026 15:23:38 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$FREVS 📤 Divestiture
-Sells Franklin Crossing shopping center to Regency Centers affiliate for $27M cash
-$27,000,000 deal · close 2026-07-08
-Mcap $156M · EV $252M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/36840/000207709626000217/ea0297554-8k_firstreal.htm</link>
-      <guid isPermaLink="false">0002077096-26-000217</guid>
-      <pubDate>Thu, 09 Jul 2026 15:23:14 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$XFLT 👀 Activist
-Urges XFLT shareholders to vote AGAINST sub-adviser change; offers 1.3% fee, tender at NAV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026076731/ea0297532-dfan14a_octagon.htm</link>
-      <guid isPermaLink="false">0001213900-26-076731</guid>
-      <pubDate>Thu, 09 Jul 2026 15:22:50 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$LEG 🤝 Merger
-Acquired by Somnigroup for 0.1455 SGI shares per LEG share; vote Aug 20
-13.7% prem · stock
-Mcap $1.5B · EV $2.7B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/58492/000005849226000364/legdefm14a.htm</link>
-      <guid isPermaLink="false">0000058492-26-000364</guid>
-      <pubDate>Thu, 09 Jul 2026 15:22:23 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
