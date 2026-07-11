@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 11 Jul 2026 21:05:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 21:23:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CALC 📍 Stake
@@ -35,26 +35,6 @@ Mcap $29M · EV $16M · Healthcare</title>
       <guid isPermaLink="false">0001140361-26-028238</guid>
       <pubDate>Fri, 10 Jul 2026 16:24:17 -0500</pubDate>
       <category>TENDER_OFFER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CTSH ⚖️ Litigation · Settled
-Settles derivative action; court approval hearing Sept 14
-Mcap $21B · EV $20B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1058290/000105829026000025/ctsh-20260630.htm</link>
-      <guid isPermaLink="false">0001058290-26-000025</guid>
-      <pubDate>Fri, 10 Jul 2026 16:18:09 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$NSA 🤝 Merger
-Acquired by Public Storage; closing date set; declares dividend
-Mcap $3.5B · EV $7.9B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1618563/000110465926082722/tm2620251d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-082722</guid>
-      <pubDate>Fri, 10 Jul 2026 16:17:45 -0500</pubDate>
-      <category>MERGER</category>
       <category>definitive</category>
     </item>
   </channel>
