@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 11 Jul 2026 18:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 18:36:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CALC 📍 Stake
@@ -316,16 +316,6 @@ effective 2026-07-20</title>
       <pubDate>Fri, 10 Jul 2026 13:57:36 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$EHSI 🔎 Strat Review · Strat Alts
-Board authorizes strategic alternatives review; may sell assets or merge
-Mcap $29M · EV $26M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1089815/000143774926023293/ehsi20260710_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-023293</guid>
-      <pubDate>Fri, 10 Jul 2026 13:33:50 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
