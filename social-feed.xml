@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 11 Jul 2026 20:25:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 20:31:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CALC 📍 Stake
@@ -153,16 +153,6 @@ $4,750,000 deal · stock · close 2026-08-04</title>
       <pubDate>Fri, 10 Jul 2026 15:33:54 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SKIL 📤 Divestiture
-Sells Global Knowledge to Enduring Ventures for ~$13.4M
-close 2026-07-06
-Mcap $70M · EV $537M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1774675/000143774926023329/skil20260624_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-023329</guid>
-      <pubDate>Fri, 10 Jul 2026 15:26:09 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
