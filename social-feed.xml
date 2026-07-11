@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 11 Jul 2026 20:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 20:37:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CALC 📍 Stake
@@ -134,25 +134,6 @@ Controlling shareholder group increases stake to 58.5%</title>
       <guid isPermaLink="false">0001193125-26-300964</guid>
       <pubDate>Fri, 10 Jul 2026 15:37:43 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ZVSA 🔎 Strat Review · Sale
-Explores strategic alternatives including sale, divestiture, going dark</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1859007/000149315226032851/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-032851</guid>
-      <pubDate>Fri, 10 Jul 2026 15:34:39 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>sale_process</category>
-    </item>
-    <item>
-      <title>$TLSS 🤝 Merger
-Acquires Patriot Glass Solutions for $4.75M in Series J preferred; close by Aug 4
-$4,750,000 deal · stock · close 2026-08-04</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1463208/000149315226032853/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-032853</guid>
-      <pubDate>Fri, 10 Jul 2026 15:33:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
