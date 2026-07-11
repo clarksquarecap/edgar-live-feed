@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 11 Jul 2026 12:36:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 12:47:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CALC 📍 Stake
@@ -457,16 +457,6 @@ Mcap $6M · EV $4M · Industrials</title>
       <pubDate>Fri, 10 Jul 2026 08:03:49 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$NUVL 🎯 Tender
-Tender offer from GSK at $124/share cash; HSR condition satisfied
-cash
-Mcap $9.8B · EV $8.5B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1861560/000119312526300322/d308676dsctota.htm</link>
-      <guid isPermaLink="false">0001193125-26-300322</guid>
-      <pubDate>Fri, 10 Jul 2026 07:45:39 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
