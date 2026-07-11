@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 11 Jul 2026 19:05:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 19:22:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CALC 📍 Stake
@@ -265,36 +265,6 @@ Mcap $65B · EV $82B · Materials</title>
       <pubDate>Fri, 10 Jul 2026 14:57:41 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
       <category>director_removal</category>
-    </item>
-    <item>
-      <title>$PHUN 👀 Activist
-Faces Goldenwise activist campaign; open letter demands board refresh and governance changes
-6.6 stake
-Mcap $43M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1665300/000198938626000005/primary_doc.xml</link>
-      <guid isPermaLink="false">0001989386-26-000005</guid>
-      <pubDate>Fri, 10 Jul 2026 14:22:24 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$BDN 📤 Divestiture
-Sells Austin office building for $151M; net proceeds $146.1M
-$151.0 million deal · close July 9, 2026
-Mcap $532M · EV $3.1B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/790816/000079081626000022/bdn-20260710.htm</link>
-      <guid isPermaLink="false">0000790816-26-000022</guid>
-      <pubDate>Fri, 10 Jul 2026 14:22:17 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CPBI 👀 Activist
-Proposes mandatory 10% annual buyback when below book value
-406,874 shares stake
-Mcap $73M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1979332/000092189526001795/prec14a10318031_07022026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001795</guid>
-      <pubDate>Fri, 10 Jul 2026 14:21:58 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
