@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 11 Jul 2026 10:59:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 11:04:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CALC 📍 Stake
@@ -560,16 +560,6 @@ Mcap $319M · EV $188M · Energy</title>
       <guid isPermaLink="false">0001140361-26-028176</guid>
       <pubDate>Fri, 10 Jul 2026 06:19:31 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$INMD 🤝 Merger · Unsolicited
-Receives unsolicited acquisition proposal from Steel Partners Holdings
-Mcap $951M · EV $419M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1742692/000117891326003456/zk2635669.htm</link>
-      <guid isPermaLink="false">0001178913-26-003456</guid>
-      <pubDate>Fri, 10 Jul 2026 06:01:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
