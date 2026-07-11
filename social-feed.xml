@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 11 Jul 2026 11:04:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 11:22:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CALC 📍 Stake
@@ -551,15 +551,6 @@ Mcap $3.3B · EV $3.2B · Materials</title>
       <pubDate>Fri, 10 Jul 2026 06:49:20 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GASS 👀 Activist
-Faces activist TowerView requesting liquidation; 7.3% stake
-Mcap $319M · EV $188M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1328919/000114036126028176/primary_doc.xml</link>
-      <guid isPermaLink="false">0001140361-26-028176</guid>
-      <pubDate>Fri, 10 Jul 2026 06:19:31 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
