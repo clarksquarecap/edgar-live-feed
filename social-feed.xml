@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 11 Jul 2026 21:23:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 21:29:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CALC 📍 Stake
@@ -25,17 +25,6 @@ Mcap $11M · EV $12M · Cons Disc</title>
       <guid isPermaLink="false">0001437749-26-023359</guid>
       <pubDate>Fri, 10 Jul 2026 16:30:57 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$LSTA 🎯 Tender
-Tender offer extended to July 16; 56% tendered at $4.00 + CVR
-Kuva Labs · $36.5M cash + CVR deal · cash · close 2026-07-16
-Mcap $29M · EV $16M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126028238/ny20077391x1_sctota.htm</link>
-      <guid isPermaLink="false">0001140361-26-028238</guid>
-      <pubDate>Fri, 10 Jul 2026 16:24:17 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
