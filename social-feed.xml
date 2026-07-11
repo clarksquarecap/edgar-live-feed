@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 11 Jul 2026 20:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 20:20:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CALC 📍 Stake
@@ -183,27 +183,6 @@ Mcap $5M · Materials</title>
       <guid isPermaLink="false">0001802457-26-000036</guid>
       <pubDate>Fri, 10 Jul 2026 15:25:24 -0500</pubDate>
       <category>LIQUIDATION</category>
-    </item>
-    <item>
-      <title>$NUMD 🤝 Merger
-Acquires Avid Gold for 4.5M Series A shares + $100K debt assumption; closed July 8
-stock · close 2026-07-08
-Mcap $1M · EV $2M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1543637/000157587226000494/numd003_8k.htm</link>
-      <guid isPermaLink="false">0001575872-26-000494</guid>
-      <pubDate>Fri, 10 Jul 2026 15:18:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SVAC 📉 Delisting · Forced
-Forced delisting by Nasdaq effective July 10
-Mcap $313M · EV $312M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2074850/000135445726000666/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000666</guid>
-      <pubDate>Fri, 10 Jul 2026 15:18:17 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
