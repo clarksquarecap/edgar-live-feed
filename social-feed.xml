@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 13 Jul 2026 20:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 20:43:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ABG 👀 Activist
+Impactive Capital raises stake to 4.8% ($106M) in 13D/A
+Impactive Capital LP
+Mcap $3.9B · EV $9.3B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1144980/000092189526001801/primary_doc.xml</link>
+      <guid isPermaLink="false">0000921895-26-001801</guid>
+      <pubDate>Mon, 13 Jul 2026 15:43:27 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$SBEV 🪙 Debt Restr.
+Settles $2.8M debt for $302k; lender releases all obligations
+Mcap $2M · EV $8M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1553788/000173112226000933/e7772_8-k.htm</link>
+      <guid isPermaLink="false">0001731122-26-000933</guid>
+      <pubDate>Mon, 13 Jul 2026 15:42:01 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$PLTYF 🧊 Liquidation
 Plans liquidation and dissolution; final dividend $0.39/share
