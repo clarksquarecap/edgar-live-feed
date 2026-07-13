@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 13 Jul 2026 21:36:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 21:37:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Special Dividend · CPIX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1087294/000108729426000055/cpix-20260713.htm</link>
+      <guid isPermaLink="false">0001087294-26-000055</guid>
+      <pubDate>Mon, 13 Jul 2026 16:37:03 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>special_dividend</category>
+      <category>8-K</category>
+      <ns0:headline>Special dividend $1.50/share + $5M buyback; record 7/23, pay 7/31</ns0:headline>
+      <ns0:shortName>CUMBERLAND PHARMACEUTICALS</ns0:shortName>
+      <ns0:price>6.54</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Special dividend $1.50/share + $5M buyback; record 7/23, pay 7/31&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Declares a special cash dividend of $1.50 per share and authorizes a $5 million open-market share repurchase program. The dividend is payable on July 31, 2026 to shareholders of record as of July 23, 2026; the buyback replaces the prior $10M program. The capital return follows $100M cash received from the Apotex strategic transaction, with board members also establishing new share purchase plans.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cumberland Pharmaceuticals Inc., a specialty pharmaceutical company, focuses on the acquisition, development, and commercialization of prescription products. The company offers Acetadote, an injection for the treatment of acetaminophen poisoning; Caldolor, an injection for the treatment of pain and fever; Kristalose, a prescription laxative oral solution for the treatment of constipation; Sancuso, a transdermal patch for the prevention of nausea and vomiting in patients receiving chemotherapy tr…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 1.50&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-07-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Record date 7/23, payment 7/31&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $6.54 · Mkt cap $88.8M · EV $87.6M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1087294/000108729426000055/0001087294-26-000055-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CPIX&lt;/b&gt; · 8-K · Items 8.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-07-13&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>💔 Busted · SCII</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2076739/000121390026077669/ea0297805-8k_sc2acq.htm</link>
+      <guid isPermaLink="false">0001213900-26-077669</guid>
+      <pubDate>Mon, 13 Jul 2026 16:36:47 -0500</pubDate>
+      <category>BUSTED_MA</category>
+      <category>8-K</category>
+      <ns0:headline>Terminates LOI for payments tech acquisition; SPAC now targetless</ns0:headline>
+      <ns0:shortName>SC II Acquisition</ns0:shortName>
+      <ns0:price>10.07</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Terminates LOI for payments tech acquisition; SPAC now targetless&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Terminated its non-binding letter of intent with a payments technology company for a potential business combination, effective July 12, 2026. The SPAC no longer has a target and must find a new acquisition or face liquidation. No deal value or premium was disclosed as the LOI was non-binding.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SC II Acquisition Corp. focuses on effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. SC II Acquisition Corp was incorporated in 2025 and is headquartered in New York, New York.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; empty&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.07 · Mkt cap $251.7M · EV $250.8M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2076739/000121390026077669/0001213900-26-077669-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SCII, SCIIR, SCIIU&lt;/b&gt; · 8-K · Items 8.01 · Holding / Investment Offices (6770) · 8k_tier1:8.01 · filed 2026-07-13&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Unsolicited · DSX</title>
       <link>https://www.sec.gov/Archives/edgar/data/1318885/000091957426004412/p15030818-6k.htm</link>
@@ -9452,41 +9490,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-03-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q1 2027&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2134688/000110465926079973/0001104659-26-079973-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SYY&lt;/b&gt; · S-4 · prefill_form:S-4 · filed 2026-07-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · AB Private Credit Investors</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1634452/000119312526293141/d131806ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-293141</guid>
-      <pubDate>Thu, 02 Jul 2026 05:13:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFA14A</category>
-      <ns0:headline>Soliciting votes for Equitable/Corebridge merger; no changes to fees or portfolio</ns0:headline>
-      <ns0:shortName>AB Private Credit Investors</ns0:shortName>
-      <description>&lt;p&gt;&lt;b&gt;Soliciting votes for Equitable/Corebridge merger; no changes to fees or portfolio&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is soliciting client votes on proposals related to the merger of its parent Equitable with Corebridge. Proposals include re-election of directors, ratification of PWC as auditor, and approval of an updated advisory agreement. The merger is anticipated to close by year-end 2026; no changes to fees, portfolio management, or services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Corebridge&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026 year-end&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1634452/000119312526293141/0001193125-26-293141-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;DEFA14A · prefill_form:DEFA14A · filed 2026-07-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · SYY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/96021/000110465926079981/tm2619427d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-079981</guid>
-      <pubDate>Thu, 02 Jul 2026 05:06:00 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>425</category>
-      <ns0:headline>Spins off New Slider HoldCo; S-4 filed</ns0:headline>
-      <ns0:shortName>SYSCO</ns0:shortName>
-      <ns0:price>83.53</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Spins off New Slider HoldCo; S-4 filed&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Filed a Form S-4 with the SEC for the spin-off of its wholly-owned subsidiary New Slider HoldCo, Inc. to Sysco shareholders. The S-4 includes a preliminary prospectus for shares of New Slider HoldCo to be issued in connection with the merger agreement dated March 30, 2026. The registration statement has not yet been declared effective.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sysco Corporation, through its subsidiaries, engages in the marketing and distribution of various food and related products to the foodservice or food-away-from-home industry in the United States, Canada, the United Kingdom, France, and internationally. It operates through U.S. Foodservice Operations, International Foodservice Operations, SYGMA, and Other segments.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-03-30&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $83.53 · Mkt cap $39.94B · EV $53.44B · Fwd P/E 16.6x · Fwd EV/EBITDA 11.1x · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/96021/000110465926079981/0001104659-26-079981-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SYY&lt;/b&gt; · 425 · Wholesale — Nondurable (5140) · prefill_form:425 · filed 2026-07-02&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
