@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 10:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 10:09:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XTKG 📉 Delisting · Forced
+Forced Nasdaq delisting effective July 23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1754323/000135445726000683/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000683</guid>
+      <pubDate>Tue, 14 Jul 2026 05:09:26 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
+    <item>
+      <title>$ASNS 📉 Delisting · Forced
+Forced Nasdaq delisting effective July 23
+effective 2026-07-23
+Mcap $2M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1141284/000135445726000684/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000684</guid>
+      <pubDate>Tue, 14 Jul 2026 05:08:46 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$BHATF 📉 Delisting · Forced
 Forced Nasdaq delisting effective July 23, 2026
@@ -748,16 +768,6 @@ Mcap $4M · EV $2M · Comms</title>
       <guid isPermaLink="false">0001493152-26-032907</guid>
       <pubDate>Mon, 13 Jul 2026 05:16:09 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NYB 🤝 Merger
-Acquired by RF Acquisition Corp II in SPAC merger
-Mcap $25M · EV $33M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2100835/000182912626007519/nybholdingslimited_f4a.htm</link>
-      <guid isPermaLink="false">0001829126-26-007519</guid>
-      <pubDate>Mon, 13 Jul 2026 05:08:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
