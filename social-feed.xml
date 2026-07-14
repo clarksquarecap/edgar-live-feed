@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 10:07:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 10:08:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BHATF 📉 Delisting · Forced
+Forced Nasdaq delisting effective July 23, 2026
+effective 2026-07-23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1759136/000135445726000685/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000685</guid>
+      <pubDate>Tue, 14 Jul 2026 05:08:25 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
+    <item>
+      <title>$AREB 📉 Delisting · Forced
+Forced Nasdaq delisting effective July 23, 2026
+effective 2026-07-23</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648087/000135445726000686/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000686</guid>
+      <pubDate>Tue, 14 Jul 2026 05:07:45 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$ARI 🧊 Liquidation
 Dissolves and liquidates; special meeting to vote on plan</title>
@@ -738,25 +758,6 @@ Mcap $25M · EV $33M · Cons Stpl</title>
       <pubDate>Mon, 13 Jul 2026 05:08:33 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$HLX 🤝 Merger
-Acquires Hornbeck Offshore in stock merger; 10.27x ratio; combined co to trade as HOS
-stock
-Mcap $1.4B · EV $1.5B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866829/000114036126028245/ny20075253x2_s4a.htm</link>
-      <guid isPermaLink="false">0001140361-26-028245</guid>
-      <pubDate>Mon, 13 Jul 2026 05:08:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$XFLT ⚔️ Proxy
-Receives activist proxy materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026077291/ea0297618-dfan14a_octagon.htm</link>
-      <guid isPermaLink="false">0001213900-26-077291</guid>
-      <pubDate>Mon, 13 Jul 2026 05:07:12 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
