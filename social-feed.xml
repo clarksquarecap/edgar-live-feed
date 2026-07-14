@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 11:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:06:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$QBTS 📉 Delisting · Voluntary
+Voluntarily delists from NYSE; lists on Nasdaq July 27
+Mcap $8.4B · EV $7.8B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1907982/000190798226000099/qbts-20260714.htm</link>
+      <guid isPermaLink="false">0001907982-26-000099</guid>
+      <pubDate>Tue, 14 Jul 2026 06:06:04 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$NXTC 🤝 Merger
 Acquires Avere Therapeutics in reverse merger; Avere holders get ~98% of combined co.
@@ -841,15 +851,6 @@ Mcap $327M · EV $243M · Healthcare</title>
       <pubDate>Mon, 13 Jul 2026 06:11:53 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SEM 🌑 Going Dark
-Terminates SEC registration; 13 holders of record; going dark
-Mcap $2.0B · EV $5.4B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1320414/000110465926082845/tm2620118d1_1512g.htm</link>
-      <guid isPermaLink="false">0001104659-26-082845</guid>
-      <pubDate>Mon, 13 Jul 2026 06:04:34 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>

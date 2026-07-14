@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 11:04:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:06:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · QBTS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1907982/000190798226000099/qbts-20260714.htm</link>
+      <guid isPermaLink="false">0001907982-26-000099</guid>
+      <pubDate>Tue, 14 Jul 2026 06:06:04 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>8-K</category>
+      <ns0:headline>Voluntarily delists from NYSE; lists on Nasdaq July 27</ns0:headline>
+      <ns0:shortName>D-Wave Quantum</ns0:shortName>
+      <ns0:price>22.56</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Voluntarily delists from NYSE; lists on Nasdaq July 27&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Voluntarily delists its common stock from the NYSE, effective after market close on July 24, 2026, and will begin trading on Nasdaq on July 27, 2026, under the same ticker symbol QBTS. The company has met all Nasdaq listing requirements and expects a smooth transition with no disruption to trading activities.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; D-Wave Quantum Inc. engages in the development and delivery of quantum computing systems, software, and services worldwide. It provides Advantage and Advantage 2 quantum computers; Ocean, a suite of open-source tools; and Leap quantum cloud service, a cloud-based service that provides real-time access to quantum computers and quantum hybrid solvers; and secure access and data protection services, as well as Ocean software development kit (SDK), a Python-based SDK for developers to learn and buil…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; empty&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $22.56 · Mkt cap $8.36B · EV $7.82B · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1907982/000190798226000099/0001907982-26-000099-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QBTS&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Business Services (7374) · 8k_tier1:3.01,7.01 · filed 2026-07-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · NXTC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/tm2620428d1_8k.htm</link>
@@ -9445,22 +9464,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.6100 · Mkt cap $146.0M · EV $97.2M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/72444/000092189526001714/0000921895-26-001714-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VXRT&lt;/b&gt; · DFAN14A · Chemicals / Pharma (2836) · prefill_form:DFAN14A · filed 2026-07-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · Platinum SpinCo</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2134183/000119312526293551/d64087d1012g.htm</link>
-      <guid isPermaLink="false">0001193125-26-293551</guid>
-      <pubDate>Thu, 02 Jul 2026 08:15:59 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>10-12G</category>
-      <ns0:headline>Spin-off from Gentherm; merger with Modine's PT business</ns0:headline>
-      <ns0:shortName>Platinum SpinCo</ns0:shortName>
-      <description>&lt;p&gt;&lt;b&gt;Spin-off from Gentherm; merger with Modine&amp;#39;s PT business&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Files Form 10 registration for its common stock in connection with a spin-off from Gentherm Incorporated and a subsequent merger with Modine Manufacturing Company&amp;#39;s Performance Technologies business. The transaction, announced January 29, 2026, is structured as a Reverse Morris Trust. Gentherm shareholders will vote on the share issuance at a special meeting.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Modine Manufacturing Co.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-01-29&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2134183/000119312526293551/0001193125-26-293551-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;10-12G · Transportation Equipment (3714) · prefill_form:10-12G · filed 2026-07-02&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
