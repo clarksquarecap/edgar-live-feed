@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 11:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:19:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TRI 📤 Divestiture
+Sells 51% of Global Print to KKR for $500M; retains 49%
+$500 million deal · close Q4 2026
+Mcap $41B · EV $43B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1075124/000119312526302509/d85800d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-302509</guid>
+      <pubDate>Tue, 14 Jul 2026 06:18:58 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$LKSB 🤝 Merger
 Shareholders approve merger with Catalyst; close expected July 14
@@ -851,15 +861,6 @@ Spins off ADI Global Distribution; ADIG to trade Aug 4</title>
       <guid isPermaLink="false">0001213900-26-077351</guid>
       <pubDate>Mon, 13 Jul 2026 06:19:21 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$TCBK 🤝 Merger
-Acquired by First Hawaiian in two-step merger</title>
-      <link>https://www.sec.gov/Archives/edgar/data/356171/000110465926082856/tm2620283d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-082856</guid>
-      <pubDate>Mon, 13 Jul 2026 06:18:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
