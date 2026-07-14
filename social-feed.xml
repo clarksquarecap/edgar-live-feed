@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 21:34:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:40:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LIMN 📍 Stake
+Report 14.3% stake; received 3.4M shares + convertible preferred in acquisition
+Mcap $6M · EV $6M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1971387/000110465926083585/primary_doc.xml</link>
+      <guid isPermaLink="false">0001104659-26-083585</guid>
+      <pubDate>Tue, 14 Jul 2026 16:40:20 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$CPBI 👀 Activist
 Urges CPBI to boost buybacks; files preliminary proxy
@@ -500,36 +509,6 @@ Mcap $369M · EV $4.5B · Tech</title>
       <guid isPermaLink="false">0001493152-26-033090</guid>
       <pubDate>Mon, 13 Jul 2026 16:49:18 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$CPIX 💧 Capital Return · Special Div
-Special dividend $1.50/share + $5M buyback; record 7/23, pay 7/31
-Mcap $89M · EV $88M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1087294/000108729426000055/cpix-20260713.htm</link>
-      <guid isPermaLink="false">0001087294-26-000055</guid>
-      <pubDate>Mon, 13 Jul 2026 16:37:03 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$SCII 💥 Busted M&amp;A
-Terminates LOI for payments tech acquisition; SPAC now targetless
-Mcap $252M · EV $251M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2076739/000121390026077669/ea0297805-8k_sc2acq.htm</link>
-      <guid isPermaLink="false">0001213900-26-077669</guid>
-      <pubDate>Mon, 13 Jul 2026 16:36:47 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$DSX 🤝 Merger · Unsolicited
-Extends tender offer for Genco to July 24; $27.34/sh (cash+stock)
-53% prem · cash+stk
-Mcap $262M · EV $614M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1318885/000091957426004412/p15030818-6k.htm</link>
-      <guid isPermaLink="false">0000919574-26-004412</guid>
-      <pubDate>Mon, 13 Jul 2026 16:36:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
