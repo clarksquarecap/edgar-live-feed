@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 20:12:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 20:13:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RPAY 👀 Activist
+Appoints Parthenon Capital partner to board under cooperation agreement
+Mcap $321M · EV $675M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1720592/000119312526303158/rpay-20260713.htm</link>
+      <guid isPermaLink="false">0001193125-26-303158</guid>
+      <pubDate>Tue, 14 Jul 2026 15:13:41 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>cooperation_agreement</category>
+    </item>
+    <item>
+      <title>$SEER ⚔️ Proxy
+Faces proxy contest from Radoff-JEC; AGM July 28
+Mcap $89M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1726445/000119312526303160/d167846ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-303160</guid>
+      <pubDate>Tue, 14 Jul 2026 15:12:20 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$SEER ⚔️ Proxy
 Faces proxy contest from Radoff &amp; Torok; AGM July 28
@@ -624,16 +643,6 @@ Mcap $280K · Materials</title>
       <guid isPermaLink="false">OTC-528082</guid>
       <pubDate>Mon, 13 Jul 2026 15:15:41 -0500</pubDate>
       <category>LIQUIDATION</category>
-    </item>
-    <item>
-      <title>$BACC 🤝 Merger
-Merging with Blockfusion; earnout up to 9.25M shares; board to 7
-Mcap $308M · EV $308M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2059654/000118518526002915/bacc8ka1071226.htm</link>
-      <guid isPermaLink="false">0001185185-26-002915</guid>
-      <pubDate>Mon, 13 Jul 2026 15:12:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
