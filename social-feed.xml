@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 10:58:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:04:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NXTC 🤝 Merger
+Acquires Avere Therapeutics in reverse merger; Avere holders get ~98% of combined co.
+stock
+Mcap $8M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1661059/000110465926083327/tm2620428d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-083327</guid>
+      <pubDate>Tue, 14 Jul 2026 06:04:12 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EBAY 🤝 Merger · Unsolicited
 Unsolicited bid from GameStop; board rejects, Cohen vows shareholder vote
@@ -839,15 +850,6 @@ Mcap $2.0B · EV $5.4B · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-082845</guid>
       <pubDate>Mon, 13 Jul 2026 06:04:34 -0500</pubDate>
       <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$HITI 📜 Rights Issue
-Adopts poison pill with 20% trigger; protects cannabis licenses
-Mcap $201M · EV $268M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847409/000127956926000663/hightide6k.htm</link>
-      <guid isPermaLink="false">0001279569-26-000663</guid>
-      <pubDate>Mon, 13 Jul 2026 05:58:30 -0500</pubDate>
-      <category>RIGHTS_ISSUE</category>
     </item>
   </channel>
 </rss>
