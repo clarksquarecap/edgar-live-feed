@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 07:18:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 10:05:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ARI 🧊 Liquidation
+Dissolves and liquidates; special meeting to vote on plan</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1467760/000119312526302255/d119099dprem14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-302255</guid>
+      <pubDate>Tue, 14 Jul 2026 05:05:46 -0500</pubDate>
+      <category>LIQUIDATION</category>
+    </item>
     <item>
       <title>$LIFFF 🤝 Merger · Preliminary
 Gains exclusive option to acquire Renard mine; C$12M fee
@@ -757,17 +765,6 @@ Faces proxy contest from Octagon over sub-adviser; vote July 30</title>
       <guid isPermaLink="false">0001213900-26-077306</guid>
       <pubDate>Mon, 13 Jul 2026 05:05:55 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$LSTA 🤝 Merger
-Acquired by Kuva Labs for $4.00/sh + up to $3 CVR; offer extended to July 16
-cash
-Mcap $29M · EV $16M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126028257/ef20077863_sc14d9a.htm</link>
-      <guid isPermaLink="false">0001140361-26-028257</guid>
-      <pubDate>Mon, 13 Jul 2026 05:05:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
