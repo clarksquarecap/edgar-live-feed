@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 11:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 11:12:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ADIG 🪓 Spinoff
+Spin-off from Resideo on track for Aug 3; targets $6B revenue by 2030
+Mcap $49M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2105139/000121390026077774/ea0297748-8k_adiglobal.htm</link>
+      <guid isPermaLink="false">0001213900-26-077774</guid>
+      <pubDate>Tue, 14 Jul 2026 06:12:24 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$QBTS 📉 Delisting · Voluntary
 Voluntarily delists from NYSE; lists on Nasdaq July 27
@@ -838,17 +847,6 @@ Acquired by First Hawaiian in two-step merger</title>
       <link>https://www.sec.gov/Archives/edgar/data/356171/000110465926082856/tm2620283d1_8k.htm</link>
       <guid isPermaLink="false">0001104659-26-082856</guid>
       <pubDate>Mon, 13 Jul 2026 06:18:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VHIBF 🤝 Merger
-Acquires Novari Health for $43.6M cash+stock; earnout up to $5M
-cash+stk
-Mcap $327M · EV $243M · Healthcare</title>
-      <link>https://www.nasdaq.com/press-release/vitalhub-announces-acquisition-novari-health-inc-2025-07-07</link>
-      <guid isPermaLink="false">OTC-528000</guid>
-      <pubDate>Mon, 13 Jul 2026 06:11:53 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
