@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 21:18:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:25:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WLFC 🤝 Merger
+Acquires 12 aircraft + 13 engines for $379.3M cash; close Q3
+$379,300,000 deal · cash · close Q3 2026
+Mcap $1.6B · EV $3.9B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1018164/000101816426000058/wlfc-20260710.htm</link>
+      <guid isPermaLink="false">0001018164-26-000058</guid>
+      <pubDate>Tue, 14 Jul 2026 16:25:30 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OAKUU 🔎 Strat Review · Strat Alts
 Extension to Mar 2027 approved; 1.27M shares redeemed, trust nearly empty</title>
@@ -507,15 +518,6 @@ empty</title>
       <pubDate>Mon, 13 Jul 2026 16:33:06 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$LPAA 🔎 Strat Review
-Extends combination deadline to Jan 2027; $230M redeemed
-Mcap $312M · EV $312M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2015502/000121390026077654/ea0297864-8k_launch.htm</link>
-      <guid isPermaLink="false">0001213900-26-077654</guid>
-      <pubDate>Mon, 13 Jul 2026 16:19:39 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
     </item>
   </channel>
 </rss>
