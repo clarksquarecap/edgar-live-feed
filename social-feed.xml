@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 21:04:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:12:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SGST 🤝 Merger
@@ -518,25 +518,6 @@ Mcap $10B · EV $8.8B · Healthcare</title>
       <pubDate>Mon, 13 Jul 2026 16:18:10 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SSTK 💥 Busted M&amp;A
-Terminates Getty Images merger; plans strategic review
-Mcap $327M · EV $464M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1549346/000114036126028338/ef20077918_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-028338</guid>
-      <pubDate>Mon, 13 Jul 2026 16:11:22 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$TAVI 🤝 Merger · Preliminary
-Non-binding LOI for business combination with Vita Inclinata
-Mcap $170M · EV $48M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2020385/000121390026077643/ea0297873-8k425_tavia.htm</link>
-      <guid isPermaLink="false">0001213900-26-077643</guid>
-      <pubDate>Mon, 13 Jul 2026 16:11:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
