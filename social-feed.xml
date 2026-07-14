@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 10:12:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 10:17:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GSHD ⚖️ Litigation · Settled
+Settles derivative suit; Pre-IPO Holders get board majority nomination, veto</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1726978/000172697826000051/gshd-20260708.htm</link>
+      <guid isPermaLink="false">0001726978-26-000051</guid>
+      <pubDate>Tue, 14 Jul 2026 05:17:23 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$MLEC 🔥 Insolvency
 Receives winding up petition over $2.3M disputed legal fees; hearing Nov 3
@@ -798,15 +807,6 @@ Mcap $72B · EV $100B · Industrials</title>
       <guid isPermaLink="false">0001260221-26-000044</guid>
       <pubDate>Mon, 13 Jul 2026 05:46:45 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$TDIC 📍 Stake
-CEO/Chairlady acquires 23.81% stake via $3.75/sh private placement
-Mcap $4M · EV $2M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2041338/000149315226032907/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-032907</guid>
-      <pubDate>Mon, 13 Jul 2026 05:16:09 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
