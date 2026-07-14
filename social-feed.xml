@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 20:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:04:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SGST 🤝 Merger
@@ -537,26 +537,6 @@ Mcap $170M · EV $48M · Financials</title>
       <pubDate>Mon, 13 Jul 2026 16:11:10 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$SKYX 📍 Stake
-Insider Dov Shiff boosts stake to 11.5% with 235,712-share purchase
-Mcap $171M · EV $189M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1598981/000149315226033062/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-033062</guid>
-      <pubDate>Mon, 13 Jul 2026 16:04:45 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ASNS 📉 Delisting · Forced
-Forced Nasdaq delisting effective ~July 23; OTCQB trading continues
-effective ~July 23, 2026
-Mcap $2M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1141284/000121390026077619/ea029772801-8k_actelis.htm</link>
-      <guid isPermaLink="false">0001213900-26-077619</guid>
-      <pubDate>Mon, 13 Jul 2026 16:04:26 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
