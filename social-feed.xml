@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 12:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 12:38:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RWAY 💧 Capital Return · Buyback
+Adviser/affiliates commit to buy up to 10% of stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1653384/000119312526302607/rway-20260714.htm</link>
+      <guid isPermaLink="false">0001193125-26-302607</guid>
+      <pubDate>Tue, 14 Jul 2026 07:38:41 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$DIOD 🤝 Merger
 Acquires Elevate Semiconductor for $250M cash; earnout up to $50M
@@ -800,26 +809,6 @@ Mcap $83M · EV $85M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1845550/000121390026077375/ea0295449-8k425_plum3.htm</link>
       <guid isPermaLink="false">0001213900-26-077375</guid>
       <pubDate>Mon, 13 Jul 2026 07:44:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GPRO 🪙 Debt Restr.
-Raises $20M via secured notes + warrants to CEO; credit lines amended
-Mcap $120M · EV $168M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1500435/000162828026047943/gpro-20260709.htm</link>
-      <guid isPermaLink="false">0001628280-26-047943</guid>
-      <pubDate>Mon, 13 Jul 2026 07:38:15 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$HVII 🤝 Merger
-Acquires ONE Nuclear Energy for $1B stock; ticker ONEN
-1000000000 deal · stock
-Mcap $272M · EV $272M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1846416/000149315226032942/forms-4a.htm</link>
-      <guid isPermaLink="false">0001493152-26-032942</guid>
-      <pubDate>Mon, 13 Jul 2026 07:31:15 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
