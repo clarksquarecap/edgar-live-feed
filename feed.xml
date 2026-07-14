@@ -6,8 +6,24 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 15:50:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 20:06:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · BBASX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097545/000092963826002599/primary_doc.xml</link>
+      <guid isPermaLink="false">0000929638-26-002599</guid>
+      <pubDate>Tue, 14 Jul 2026 15:06:00 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>SCHEDULE 13D</category>
+      <ns0:headline>Receives 13D from Brown Brothers Harriman; 40.9% stake</ns0:headline>
+      <ns0:shortName>AMG BBH Asset-Backed Credit Fund</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D from Brown Brothers Harriman; 40.9% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Brown Brothers Harriman &amp;amp; Co. and its affiliate Brown Brothers Harriman Credit Partners, LLC filed a Schedule 13D disclosing beneficial ownership of 40.9% of the Class S Units of AMG BBH Asset-Backed Credit Fund, LLC. The securities were acquired for investment purposes. The reporting persons may acquire additional securities or dispose of them.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Brown Brothers Harriman &amp;amp; Co.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 40.9&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; empty&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-14&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2097545/000092963826002599/0000929638-26-002599-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BBASX&lt;/b&gt; · SCHEDULE 13D · fresh_13d · filed 2026-07-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧭 Domicile · XPRO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1575828/000087666126000619/primary_doc.xml</link>
@@ -9436,26 +9452,6 @@
 &lt;p&gt;&lt;i&gt;Px $114.86 · Mkt cap $49.41B · EV $52.75B · Fwd P/E 17.6x · Fwd EV/EBITDA 13.7x · Consumer Discretionary / Broadline Retail&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1065088/000119312526294482/0001193125-26-294482-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EBAY&lt;/b&gt; · 425 · Business Services (7389) · prefill_form:425 · filed 2026-07-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🎯 Tender · Definitive · LSTA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126027435/ef20077296_sc14d9a.htm</link>
-      <guid isPermaLink="false">0001140361-26-027435</guid>
-      <pubDate>Thu, 02 Jul 2026 15:11:18 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>definitive</category>
-      <category>SC 14D9/A</category>
-      <ns0:headline>Acquired by Kuva Labs for $4.00/sh + CVR up to $3.00; supplemental disclosures</ns0:headline>
-      <ns0:shortName>LISATA THERAPEUTICS</ns0:shortName>
-      <ns0:price>3.35</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Kuva Labs for $4.00/sh + CVR up to $3.00; supplemental disclosures&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is being acquired by Kuva Labs Inc. via a tender offer at $4.00 per share plus one contingent value right (CVR) entitling holders to up to $3.00 per share in additional cash payments upon achievement of milestones. This amendment to the Schedule 14D-9 supplements the board&amp;#39;s recommendation in response to stockholder demand letters, providing additional details about the board&amp;#39;s strategic review process and discussions with other potential acquirers. The tender offer remains pending with no change to the offer terms.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lisata Therapeutics, Inc., a clinical-stage pharmaceutical company, engages in the discovery, development, and commercialization of therapies for the treatment of solid tumors and other diseases. Its investigational product is certepetide, which is in Phase 2 clinical studies for the treatment of solid tumors, such as metastatic pancreatic ductal adenocarcinoma, cholangiocarcinoma, appendiceal cancer, and colon cancer and glioblastoma multiforme in combination with range of anti-cancer regimens.…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Kuva Labs Inc. (via Kuva Acquisition Corp.)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $4.00 + CVR up to $3.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-10&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.35 · Mkt cap $30.6M · EV $17.3M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/320017/000114036126027435/0001140361-26-027435-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LSTA&lt;/b&gt; · SC 14D9/A · Chemicals / Pharma (2834) · prefill_form:SC 14D9 · filed 2026-07-02&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
