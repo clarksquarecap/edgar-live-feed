@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 12:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 12:51:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FBNC 🤝 Merger
+Acquires First Carolina Bancshares for $166M stock+cash
+cash+stk</title>
+      <link>https://www.sec.gov/Archives/edgar/data/811589/000081158926000149/fbnc-20260714.htm</link>
+      <guid isPermaLink="false">0000811589-26-000149</guid>
+      <pubDate>Tue, 14 Jul 2026 07:51:47 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RWAY 💧 Capital Return · Buyback
 Adviser/affiliates commit to buy up to 10% of stock</title>
@@ -781,26 +791,6 @@ Mcap $3M · EV $1M · Cons Disc</title>
       <pubDate>Mon, 13 Jul 2026 08:04:57 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$ATER 📤 Divestiture
-Sells brand portfolio to Trademark Global for $18M ($0.85-$1.14/sh); vote July 17
-$18,000,000 deal
-Mcap $11M · EV $12M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1757715/000143774926023382/ater20260712_defa14a.htm</link>
-      <guid isPermaLink="false">0001437749-26-023382</guid>
-      <pubDate>Mon, 13 Jul 2026 07:51:36 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$EWTX 📤 Divestiture
-Sells muscular dystrophy program to Servier for $1.55B cash + $1.1B milestones
-1,550,000,000 deal · close 2026-07-10
-Mcap $4.9B · EV $4.4B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1710072/000110465926082902/tm2620181d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-082902</guid>
-      <pubDate>Mon, 13 Jul 2026 07:45:17 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
