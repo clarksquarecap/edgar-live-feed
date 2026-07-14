@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 14 Jul 2026 20:14:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 20:20:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MVO 📉 Delisting · Voluntary
+Voluntary NYSE delisting effective July 14
+Mcap $10M · EV $9M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1371782/000110465926083506/tm2620157d2_25.htm</link>
+      <guid isPermaLink="false">0001104659-26-083506</guid>
+      <pubDate>Tue, 14 Jul 2026 15:20:26 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$GEG 📍 Stake
 Faces 13D/A from Northern Right Capital; PIK conversion forbearance to July 2027
@@ -643,15 +653,6 @@ Mcap $27B · EV $37B · Real Estate</title>
       <pubDate>Mon, 13 Jul 2026 15:21:38 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$PLTYF 🧊 Liquidation
-Approves liquidation and dissolution; final cash dividend
-Mcap $280K · Materials</title>
-      <link>https://www.otcmarkets.com/stock/PLTYF/news/528082</link>
-      <guid isPermaLink="false">OTC-528082</guid>
-      <pubDate>Mon, 13 Jul 2026 15:15:41 -0500</pubDate>
-      <category>LIQUIDATION</category>
     </item>
   </channel>
 </rss>
