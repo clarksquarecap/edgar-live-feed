@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 22:16:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 23:22:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MTA 📍 Stake
@@ -485,15 +485,6 @@ Mcap $43M · Tech</title>
       <guid isPermaLink="false">0001989386-26-000008</guid>
       <pubDate>Tue, 14 Jul 2026 18:51:42 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$MFP 📍 Stake
-Receives 13D from Garden Investment Management disclosing 7.5% stake
-Mcap $4.0B · EV $10.0B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2088281/000121390026078067/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-078067</guid>
-      <pubDate>Tue, 14 Jul 2026 18:21:52 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
