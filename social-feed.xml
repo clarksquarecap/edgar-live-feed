@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 20:55:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:59:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SGRP 📉 Delisting · Forced
+Forced Nasdaq delisting effective July 23; appeal deadline July 21
+effective 2026-07-23
+Mcap $21M · EV $47M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1004989/000143774926023636/sgrp20260702_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-023636</guid>
+      <pubDate>Wed, 15 Jul 2026 15:59:02 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$RCICX 🤝 Merger
 Acquired by BC Partners Lending Corp; vote Aug 14</title>
@@ -457,16 +468,6 @@ Extension to Mar 2027 approved; 1.27M shares redeemed, trust nearly empty</title
       <pubDate>Tue, 14 Jul 2026 16:18:52 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$SGST 🤝 Merger
-Acquires SSGT III in all-stock merger; close Q4 2026
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1852575/000119312526303338/sstvi-20260714.htm</link>
-      <guid isPermaLink="false">0001193125-26-303338</guid>
-      <pubDate>Tue, 14 Jul 2026 15:58:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
