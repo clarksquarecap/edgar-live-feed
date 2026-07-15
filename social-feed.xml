@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 10:13:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:21:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$VEEE 🤝 Merger
@@ -458,24 +458,6 @@ Mcap $6M · Financials</title>
       <pubDate>Tue, 14 Jul 2026 05:25:50 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$GGR 📍 Stake
-Gold Sino / Yin family discloses 51.4% beneficial ownership after inheritance
-Mcap $78M · EV $380M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1886190/000119312526302440/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-302440</guid>
-      <pubDate>Tue, 14 Jul 2026 05:19:28 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$GSHD ⚖️ Litigation · Settled
-Settles derivative suit; Pre-IPO Holders get board majority nomination, veto</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726978/000172697826000051/gshd-20260708.htm</link>
-      <guid isPermaLink="false">0001726978-26-000051</guid>
-      <pubDate>Tue, 14 Jul 2026 05:17:23 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>
