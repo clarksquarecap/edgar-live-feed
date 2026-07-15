@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 12:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 12:18:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$QH 💧 Capital Return · Recap
+Terminates ADR program; 32,000:1 share consolidation; ordinary shares trade on Nasdaq July 17
+Mcap $23M · EV $33M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1781193/000121390026078134/ea0297627-6k_quhuo.htm</link>
+      <guid isPermaLink="false">0001213900-26-078134</guid>
+      <pubDate>Wed, 15 Jul 2026 07:18:07 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
     <item>
       <title>$RYAM 📍 Stake
 Receives 13D/A from AIP increasing stake to 5.04%
@@ -386,27 +396,6 @@ $250M base + up to $50M earnout deal · cash</title>
       <link>https://www.sec.gov/Archives/edgar/data/29002/000119312526302584/diod-20260710.htm</link>
       <guid isPermaLink="false">0001193125-26-302584</guid>
       <pubDate>Tue, 14 Jul 2026 07:18:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$REAX 🤝 Merger
-Receives HSR clearance for RE/MAX acquisition
-RE/MAX Holdings
-Mcap $459M · EV $396M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1862461/000110465926083354/tm2620420d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-083354</guid>
-      <pubDate>Tue, 14 Jul 2026 07:17:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VYNE 🤝 Merger
-Acquired by Yarrow Bioscience; S-4 filed
-Mcap $22M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1566044/000110465926083359/tm2620382d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-083359</guid>
-      <pubDate>Tue, 14 Jul 2026 07:17:18 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
