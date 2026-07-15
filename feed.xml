@@ -6,8 +6,26 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 20:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:23:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · EDGM</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1652958/000168316826005551/edgemode_8k.htm</link>
+      <guid isPermaLink="false">0001683168-26-005551</guid>
+      <pubDate>Wed, 15 Jul 2026 15:23:21 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>8-K</category>
+      <ns0:headline>Enters leakout agreement with convertible noteholders; limits conversion to 30%/15% per 30 days</ns0:headline>
+      <ns0:shortName>Edgemode</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Enters leakout agreement with convertible noteholders; limits conversion to 30%/15% per 30 days&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a leakout agreement with lenders holding ~$1.65M in convertible promissory notes. The agreement limits conversion, assignment, or transfer to 30% of each lender&amp;#39;s balance per 30-day period (15% if stock closes below $0.003). Supersedes the prior standstill agreement and remains in effect through December 31, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; EdgeMode, Inc., through its subsidiary, engages in the data center and energy infrastructure development. It designs, builds, and operates digital infrastructure for high-performance computing. The company was founded in 2020 and is headquartered in Fort Lauderdale, Florida.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1,646,136&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Leakout agreement effective through Dec 31, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Mkt cap $12.2M · EV $15.2M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1652958/000168316826005551/0001683168-26-005551-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EDGM&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Health Services (8082) · 8k_tier1:8.01 · filed 2026-07-15&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · HUN</title>
       <link>https://www.sec.gov/Archives/edgar/data/1307954/000110465926083890/tm2620556d1_425.htm</link>
@@ -9423,21 +9441,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.2700 · Mkt cap $488.9M · EV $431.4M · Fwd EV/EBITDA 5.2x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/EULIF/news/527098'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EULIF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-07-03&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · MAIFF</title>
-      <link>https://www.thewhig.com/newsfile/303802-mining-americas-inc-begins-trading-on-the-tsx</link>
-      <guid isPermaLink="false">OTC-527086</guid>
-      <pubDate>Fri, 03 Jul 2026 06:11:45 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>OTC</category>
-      <ns0:headline>Graduates to TSX; TSXV delisting effective today</ns0:headline>
-      <description>&lt;p&gt;&lt;b&gt;Graduates to TSX; TSXV delisting effective today&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Mining Americas Inc. (TSX: MAI) announced that its common shares have been delisted from the TSX Venture Exchange and commenced trading on the Toronto Stock Exchange effective July 3, 2026, under the same symbol MAI. The graduation to the senior exchange is effective immediately, providing increased liquidity and visibility.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-03&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/MAIFF/news/527086'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MAIFF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-07-03&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
