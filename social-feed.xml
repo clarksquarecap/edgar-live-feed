@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 11:42:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 12:06:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RYAM 📍 Stake
+Receives 13D/A from AIP increasing stake to 5.04%
+Mcap $488M · EV $1.2B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597672/000095010326010634/primary_doc.xml</link>
+      <guid isPermaLink="false">0000950103-26-010634</guid>
+      <pubDate>Wed, 15 Jul 2026 07:06:13 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$SNTI 🤝 Merger
 Acquired by Celadon affiliate for CVRs tied to SENTI-202 milestones
@@ -398,17 +407,6 @@ Mcap $22M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1566044/000110465926083359/tm2620382d2_425.htm</link>
       <guid isPermaLink="false">0001104659-26-083359</guid>
       <pubDate>Tue, 14 Jul 2026 07:17:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RMAX 🤝 Merger
-Receives HSR early termination for Real Brokerage merger
-The Real Brokerage
-Mcap $239M · EV $101M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1581091/000110465926083350/tm2620413d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-083350</guid>
-      <pubDate>Tue, 14 Jul 2026 07:04:14 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
