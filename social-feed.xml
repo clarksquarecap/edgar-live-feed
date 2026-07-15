@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 11:04:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:11:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NPRFF 🤝 Merger · Preliminary
+LOI to acquire Artesian Fusion bottling assets for ~$1.5M
+~$1,500,000 deal · cash+stk+contingent
+Mcap $30M · Cons Stpl</title>
+      <link>https://www.accessnewswire.com/newsroom/en/food-and-beverage-products/nepra-foods-enters-letter-of-intent-to-acquire-idaho-bottling-and-water-1162847</link>
+      <guid isPermaLink="false">OTC-528339</guid>
+      <pubDate>Wed, 15 Jul 2026 06:11:06 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$CASIF ⚖️ Litigation · Won
 Wins HKIAC arbitration vs Juventas; awarded &gt;RMB 100M
@@ -407,16 +418,6 @@ Mcap $49M · Financials</title>
       <guid isPermaLink="false">0001213900-26-077774</guid>
       <pubDate>Tue, 14 Jul 2026 06:12:24 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$QBTS 📉 Delisting · Voluntary
-Voluntarily delists from NYSE; lists on Nasdaq July 27
-Mcap $8.4B · EV $7.8B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1907982/000190798226000099/qbts-20260714.htm</link>
-      <guid isPermaLink="false">0001907982-26-000099</guid>
-      <pubDate>Tue, 14 Jul 2026 06:06:04 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
