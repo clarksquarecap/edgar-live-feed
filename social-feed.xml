@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 20:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:13:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$QTEX 📉 Delisting · Forced
+Warrants delisted from Nasdaq; effective July 15
+Mcap $67M · EV $64M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1837493/000135445726000695/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000695</guid>
+      <pubDate>Wed, 15 Jul 2026 15:06:18 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$XFLT ⚔️ Proxy
 Faces Octagon proxy contest over sub-adviser vote; meeting July 30</title>
@@ -400,24 +410,6 @@ Mcap $321M · EV $675M · Financials</title>
       <pubDate>Tue, 14 Jul 2026 15:13:41 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
       <category>cooperation_agreement</category>
-    </item>
-    <item>
-      <title>$SEER ⚔️ Proxy
-Faces proxy contest from Radoff-JEC; AGM July 28
-Mcap $89M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726445/000119312526303160/d167846ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-303160</guid>
-      <pubDate>Tue, 14 Jul 2026 15:12:20 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$SEER ⚔️ Proxy
-Faces proxy contest from Radoff &amp; Torok; AGM July 28
-Mcap $89M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726445/000119312526303168/d167909ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-303168</guid>
-      <pubDate>Tue, 14 Jul 2026 15:12:04 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
