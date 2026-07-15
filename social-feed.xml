@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 20:13:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:20:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MDV 🤝 Merger
+Acquired by Global Net Lease; stockholder vote Aug 10
+stock
+Mcap $180M · EV $485M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645873/000114036126028532/ef20077991_425.htm</link>
+      <guid isPermaLink="false">0001140361-26-028532</guid>
+      <pubDate>Wed, 15 Jul 2026 15:20:05 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$QTEX 📉 Delisting · Forced
 Warrants delisted from Nasdaq; effective July 15
@@ -391,25 +402,6 @@ Mcap $10M · EV $9M · Energy</title>
       <pubDate>Tue, 14 Jul 2026 15:20:26 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$GEG 📍 Stake
-Faces 13D/A from Northern Right Capital; PIK conversion forbearance to July 2027
-Mcap $69M · EV $48M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1831096/000101359426000736/primary_doc.xml</link>
-      <guid isPermaLink="false">0001013594-26-000736</guid>
-      <pubDate>Tue, 14 Jul 2026 15:14:28 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RPAY 👀 Activist
-Appoints Parthenon Capital partner to board under cooperation agreement
-Mcap $321M · EV $675M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1720592/000119312526303158/rpay-20260713.htm</link>
-      <guid isPermaLink="false">0001193125-26-303158</guid>
-      <pubDate>Tue, 14 Jul 2026 15:13:41 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>cooperation_agreement</category>
     </item>
   </channel>
 </rss>
