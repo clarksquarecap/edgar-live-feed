@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 21:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:46:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MTA 📍 Stake
+Increases Metalla Royalty stake to 13.5% via open market purchases</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1722606/000110465926083957/primary_doc.xml</link>
+      <guid isPermaLink="false">0001104659-26-083957</guid>
+      <pubDate>Wed, 15 Jul 2026 16:46:35 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$RLYB 🤝 Merger
 Acquires Avenzo Therapeutics for $300M stock; combined co to trade as AVZO
@@ -501,15 +509,6 @@ Chairman Smith increases beneficial ownership to 56.5% via warrant/note conversi
       <link>https://www.sec.gov/Archives/edgar/data/948708/000143774926023580/primary_doc.xml</link>
       <guid isPermaLink="false">0001437749-26-023580</guid>
       <pubDate>Tue, 14 Jul 2026 17:10:36 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$LIMN 📍 Stake
-Report 14.3% stake; received 3.4M shares + convertible preferred in acquisition
-Mcap $6M · EV $6M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1971387/000110465926083585/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-083585</guid>
-      <pubDate>Tue, 14 Jul 2026 16:40:20 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
