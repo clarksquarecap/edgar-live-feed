@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 13:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:10:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$QIND 🪙 Debt Restr.
+Enters forbearance on $1.675M convertible notes; 19-month plan
+Mcap $1M · EV $19M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1393781/000149315226033297/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-033297</guid>
+      <pubDate>Wed, 15 Jul 2026 08:09:58 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>forbearance</category>
+    </item>
     <item>
       <title>$RUBI 📤 Divestiture
 Sells megayacht for €30-35M; redeploys to tanker core
@@ -376,17 +386,6 @@ Mcap $2.0B · EV $4.3B · Materials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1307954/000119312526302658/d59922d425.htm</link>
       <guid isPermaLink="false">0001193125-26-302658</guid>
       <pubDate>Tue, 14 Jul 2026 08:23:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FLYX 🤝 Merger
-Acquires Jet.AI aviation assets for 7.1M shares; closes July 13
-stock · close 2026-07-13
-Mcap $73M · EV $439M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1843973/000119312526302638/flyx-20260713.htm</link>
-      <guid isPermaLink="false">0001193125-26-302638</guid>
-      <pubDate>Tue, 14 Jul 2026 08:04:03 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
