@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 10:07:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:13:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VEEE 🤝 Merger
+Acquired by USFM for 10% of pro forma stock; CVRs for legacy assets
+stock
+Mcap $3M · EV $290K · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1855509/000173112226000941/e7782_425.htm</link>
+      <guid isPermaLink="false">0001731122-26-000941</guid>
+      <pubDate>Wed, 15 Jul 2026 05:13:37 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CCIX 🧊 Liquidation
 Liquidates; redeems public shares at ~$10.89; last trade July 27
@@ -465,85 +476,6 @@ Settles derivative suit; Pre-IPO Holders get board majority nomination, veto</ti
       <pubDate>Tue, 14 Jul 2026 05:17:23 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$MLEC 🔥 Insolvency
-Receives winding up petition over $2.3M disputed legal fees; hearing Nov 3
-advisor: Linklaters LLP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1937737/000121390026077714/ea0297914-6k_moolec.htm</link>
-      <guid isPermaLink="false">0001213900-26-077714</guid>
-      <pubDate>Tue, 14 Jul 2026 05:12:44 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>other</category>
-    </item>
-    <item>
-      <title>$SAFX 🤝 Merger
-Acquires DevvStream and Southern Energy in stock merger; vote pending
-stock
-Mcap $155M · EV $409M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2019793/000121390026077712/ea0294087-02.htm</link>
-      <guid isPermaLink="false">0001213900-26-077712</guid>
-      <pubDate>Tue, 14 Jul 2026 05:11:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CPTAF 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 23</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1967478/000135445726000681/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000681</guid>
-      <pubDate>Tue, 14 Jul 2026 05:10:56 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$SNBRQ 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 23</title>
-      <link>https://www.sec.gov/Archives/edgar/data/827187/000135445726000682/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000682</guid>
-      <pubDate>Tue, 14 Jul 2026 05:10:17 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$XTKG 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 23</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1754323/000135445726000683/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000683</guid>
-      <pubDate>Tue, 14 Jul 2026 05:09:26 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$ASNS 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 23
-effective 2026-07-23
-Mcap $2M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1141284/000135445726000684/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000684</guid>
-      <pubDate>Tue, 14 Jul 2026 05:08:46 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$BHATF 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 23, 2026
-effective 2026-07-23</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1759136/000135445726000685/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000685</guid>
-      <pubDate>Tue, 14 Jul 2026 05:08:25 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$AREB 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 23, 2026
-effective 2026-07-23</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1648087/000135445726000686/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000686</guid>
-      <pubDate>Tue, 14 Jul 2026 05:07:45 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
