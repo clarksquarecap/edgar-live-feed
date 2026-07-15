@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 20:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:21:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HUN 🤝 Merger
+Merging with Olin; stockholder vote Aug 25
+stock
+Mcap $2.0B · EV $4.3B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1307954/000110465926083890/tm2620556d1_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-083890</guid>
+      <pubDate>Wed, 15 Jul 2026 15:21:10 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$TCBK 🤝 Merger
+Acquired by First Hawaiian for 2.095 FHI shares per share
+stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/356171/000110465926083893/tm2620289d8_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-083893</guid>
+      <pubDate>Wed, 15 Jul 2026 15:20:16 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MDV 🤝 Merger
 Acquired by Global Net Lease; stockholder vote Aug 10
@@ -383,25 +404,6 @@ Mcap $3.5B · EV $7.9B · Real Estate</title>
       <pubDate>Tue, 14 Jul 2026 15:30:37 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$WKEY ✂️ Carve-out
-WISeSat SPAC merger files F-4; to trade as SAIQ
-Mcap $58M · EV $44M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026077968/ea0297965-425_wisekey.htm</link>
-      <guid isPermaLink="false">0001213900-26-077968</guid>
-      <pubDate>Tue, 14 Jul 2026 15:20:54 -0500</pubDate>
-      <category>CARVE_OUT</category>
-    </item>
-    <item>
-      <title>$MVO 📉 Delisting · Voluntary
-Voluntary NYSE delisting effective July 14
-Mcap $10M · EV $9M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1371782/000110465926083506/tm2620157d2_25.htm</link>
-      <guid isPermaLink="false">0001104659-26-083506</guid>
-      <pubDate>Tue, 14 Jul 2026 15:20:26 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
