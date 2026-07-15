@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 21:12:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:20:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SSM 🌍 Re-domicile
+Redomiciles to Delaware via Luxembourg; shareholder vote pending</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2083142/000117184326004694/s4_071426.htm</link>
+      <guid isPermaLink="false">0001171843-26-004694</guid>
+      <pubDate>Wed, 15 Jul 2026 16:20:00 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$RPAY 👀 Activist
 Adds Sadek to board under Parthenon Capital cooperation agreement
@@ -497,15 +505,6 @@ Mcap $1.6B · EV $3.9B · Industrials</title>
       <pubDate>Tue, 14 Jul 2026 16:25:30 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$OAKUU 🔎 Strat Review · Strat Alts
-Extension to Mar 2027 approved; 1.27M shares redeemed, trust nearly empty</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1945422/000121390026078015/ea0298045-8k_oakwoods.htm</link>
-      <guid isPermaLink="false">0001213900-26-078015</guid>
-      <pubDate>Tue, 14 Jul 2026 16:18:52 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
