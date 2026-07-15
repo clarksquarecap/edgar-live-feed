@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 10:27:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:33:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CASIF ⚖️ Litigation · Won
+Wins HKIAC arbitration vs Juventas; awarded &gt;RMB 100M
+vs Juventas Co.
+Mcap $3M · EV $25M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1962738/000110465926083702/tm2620566d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-083702</guid>
+      <pubDate>Wed, 15 Jul 2026 05:33:53 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
     <item>
       <title>$VEEE 🤝 Merger
 Acquired by USFM for 10% of pro forma stock; CVRs for legacy assets
@@ -428,16 +439,6 @@ Mcap $50B · EV $54B · Cons Disc</title>
       <pubDate>Tue, 14 Jul 2026 05:57:59 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$GMTL 🔎 Strat Review · Portfolio Review
-Assesses options for 7 non-core tungsten projects; focus on flagships
-Mcap $506M · EV $496M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2039972/000165495426006635/a1701m.htm</link>
-      <guid isPermaLink="false">0001654954-26-006635</guid>
-      <pubDate>Tue, 14 Jul 2026 05:32:59 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
     </item>
   </channel>
 </rss>
