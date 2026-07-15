@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 17:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:06:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XFLT ⚔️ Proxy
+Faces Octagon proxy contest over sub-adviser vote; meeting July 30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026078317/ea0298044-dfan14a_octagon.htm</link>
+      <guid isPermaLink="false">0001213900-26-078317</guid>
+      <pubDate>Wed, 15 Jul 2026 15:06:04 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$DMB ⚔️ Proxy
 Faces Saba proxy contest; director nomination and declassification vote Aug 27</title>
@@ -410,14 +418,6 @@ Mcap $89M · Healthcare</title>
       <guid isPermaLink="false">0001193125-26-303168</guid>
       <pubDate>Tue, 14 Jul 2026 15:12:04 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$BBASX 📍 Stake
-Receives 13D from Brown Brothers Harriman; 40.9% stake</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2097545/000092963826002599/primary_doc.xml</link>
-      <guid isPermaLink="false">0000929638-26-002599</guid>
-      <pubDate>Tue, 14 Jul 2026 15:06:00 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
