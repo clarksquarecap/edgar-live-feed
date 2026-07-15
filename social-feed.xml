@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 15 Jul 2026 21:22:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 21:29:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GCTK 🤝 Merger
+Acquires Lokahi Therapeutics in reverse merger; target gets 90% of combined entity
+stock · close closed</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506983/000149315226033395/form425.htm</link>
+      <guid isPermaLink="false">0001493152-26-033395</guid>
+      <pubDate>Wed, 15 Jul 2026 16:29:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VVOS 📍 Stake
 Receives 13D from V-Co Investors group; 19.9% stake
@@ -492,28 +502,6 @@ Mcap $73M · Financials</title>
       <pubDate>Tue, 14 Jul 2026 16:31:47 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
       <category>public_letter</category>
-    </item>
-    <item>
-      <title>$HWBK 🤝 Merger
-Regulatory approvals cleared for FBI acquisition; vote pending
-FSC Bancshares · empty · close Q3 2026
-Mcap $268M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/893847/000089384726000081/hwbk-20260710.htm</link>
-      <guid isPermaLink="false">0000893847-26-000081</guid>
-      <pubDate>Tue, 14 Jul 2026 16:25:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WLFC 🤝 Merger
-Acquires 12 aircraft + 13 engines for $379.3M cash; close Q3
-$379,300,000 deal · cash · close Q3 2026
-Mcap $1.6B · EV $3.9B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1018164/000101816426000058/wlfc-20260710.htm</link>
-      <guid isPermaLink="false">0001018164-26-000058</guid>
-      <pubDate>Tue, 14 Jul 2026 16:25:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
