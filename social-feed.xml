@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 16 Jul 2026 20:55:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:02:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$JFB 🤝 Merger
+Amends merger with Xtend AI Robotics; cash condition lowered to $60M, outside date Oct 31
+Mcap $73M · EV $71M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024306/000149315226033563/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-033563</guid>
+      <pubDate>Thu, 16 Jul 2026 16:02:16 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ARRY 🤝 Merger
 Acquires Affordable Wire Management for up to $203M; HSR pending
@@ -566,17 +576,6 @@ Terminates SEC registration; 190 holders of record</title>
       <guid isPermaLink="false">0001903596-26-000275</guid>
       <pubDate>Wed, 15 Jul 2026 16:08:09 -0500</pubDate>
       <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$SGRP 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 23; appeal deadline July 21
-effective 2026-07-23
-Mcap $21M · EV $47M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1004989/000143774926023636/sgrp20260702_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-023636</guid>
-      <pubDate>Wed, 15 Jul 2026 15:59:02 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
