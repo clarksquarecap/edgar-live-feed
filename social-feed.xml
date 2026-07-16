@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 16 Jul 2026 11:32:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 11:39:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ABUS 💧 Capital Return · Buyback
+Plans up to $230M share repurchases; may include Dutch auction
+Mcap $901M · EV $809M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1447028/000117184326004708/f8k_071626.htm</link>
+      <guid isPermaLink="false">0001171843-26-004708</guid>
+      <pubDate>Thu, 16 Jul 2026 06:39:26 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$ATAI 🤝 Merger
 Acquired by Eli Lilly for $6.75 cash + up to $2.50 CVR per share
@@ -549,27 +559,6 @@ Mcap $488M · EV $1.2B · Materials</title>
       <guid isPermaLink="false">0000950103-26-010634</guid>
       <pubDate>Wed, 15 Jul 2026 07:06:13 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SNTI 🤝 Merger
-Acquired by Celadon affiliate for CVRs tied to SENTI-202 milestones
-Mcap $30M · EV $40M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1854270/000162828026048248/snti-20260714.htm</link>
-      <guid isPermaLink="false">0001628280-26-048248</guid>
-      <pubDate>Wed, 15 Jul 2026 06:36:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SNTI 🤝 Merger
-Acquired by Celadon affiliate for CVRs up to $60M; vote pending
-close Q3 2026
-Mcap $30M · EV $40M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1854270/000162828026048249/snti2026entryintomerger202.htm</link>
-      <guid isPermaLink="false">0001628280-26-048249</guid>
-      <pubDate>Wed, 15 Jul 2026 06:35:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
