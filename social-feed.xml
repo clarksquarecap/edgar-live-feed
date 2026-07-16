@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 16 Jul 2026 21:17:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:24:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NNDM ⚔️ Proxy
+Nominates director slate at Nano Dimension; special meeting
+Mcap $314M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1643303/000092189526001824/dfan14a13459002_07162026.htm</link>
+      <guid isPermaLink="false">0000921895-26-001824</guid>
+      <pubDate>Thu, 16 Jul 2026 16:24:22 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$DMB ⚔️ Proxy
 Faces Saba Capital proxy contest; director nomination and board declassification on ballot
@@ -580,23 +589,6 @@ stock · close closed</title>
       <pubDate>Wed, 15 Jul 2026 16:29:11 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$VVOS 📍 Stake
-Receives 13D from V-Co Investors group; 19.9% stake
-Mcap $7M · EV $17M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1716166/000110465926083931/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-083931</guid>
-      <pubDate>Wed, 15 Jul 2026 16:22:17 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SSM 🌍 Re-domicile
-Redomiciles to Delaware via Luxembourg; shareholder vote pending</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2083142/000117184326004694/s4_071426.htm</link>
-      <guid isPermaLink="false">0001171843-26-004694</guid>
-      <pubDate>Wed, 15 Jul 2026 16:20:00 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
