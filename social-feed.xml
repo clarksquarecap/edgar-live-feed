@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 16 Jul 2026 21:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:17:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DMB ⚔️ Proxy
+Faces Saba Capital proxy contest; director nomination and board declassification on ballot
+8.5% stake</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1565381/000090266426003135/p26-1513prrn14a.htm</link>
+      <guid isPermaLink="false">0000902664-26-003135</guid>
+      <pubDate>Thu, 16 Jul 2026 16:17:14 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$XTND 🤝 Merger
 Acquires JFB Construction and Xtend Reality via stock merger; to list as XTND on NYSE
@@ -588,25 +597,6 @@ Redomiciles to Delaware via Luxembourg; shareholder vote pending</title>
       <guid isPermaLink="false">0001171843-26-004694</guid>
       <pubDate>Wed, 15 Jul 2026 16:20:00 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$RPAY 👀 Activist
-Adds Sadek to board under Parthenon Capital cooperation agreement
-9.38% stake
-Mcap $321M · EV $675M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1720592/000121390026078374/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-078374</guid>
-      <pubDate>Wed, 15 Jul 2026 16:12:58 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>cooperation_agreement</category>
-    </item>
-    <item>
-      <title>$CMCT 🪙 Debt Restr.
-Maturity default on $97.1M Kaiser Plaza mortgage; evaluating restructuring options</title>
-      <link>https://www.sec.gov/Archives/edgar/data/908311/000090831126000077/cmct-20260709.htm</link>
-      <guid isPermaLink="false">0000908311-26-000077</guid>
-      <pubDate>Wed, 15 Jul 2026 16:12:29 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
