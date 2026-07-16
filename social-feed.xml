@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 16 Jul 2026 13:36:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 13:42:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$USCB 📍 Stake
+Receives 13D/A from Patriot Financial Partners; 1.7% stake</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1901637/000092708926000122/primary_doc.xml</link>
+      <guid isPermaLink="false">0000927089-26-000122</guid>
+      <pubDate>Thu, 16 Jul 2026 08:42:47 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$EC 🤝 Merger
 CVM approves subsidiary's tender offer; new deadline July 22
@@ -557,15 +565,6 @@ Mcap $3.9B · EV $3.1B · Healthcare</title>
       <pubDate>Wed, 15 Jul 2026 09:00:12 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$DFNS 💥 Busted M&amp;A
-SPAC subsidiary terminates LOI with payments tech target
-Mcap $8M · EV $200M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1787518/000121390026078163/ea0298097-8k_t3defense.htm</link>
-      <guid isPermaLink="false">0001213900-26-078163</guid>
-      <pubDate>Wed, 15 Jul 2026 08:36:09 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
