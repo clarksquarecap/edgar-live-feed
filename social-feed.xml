@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 16 Jul 2026 20:04:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 20:10:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WFF 💧 Capital Return · Recap
+Approves dual-class recap; 100-vote Class A shares created; authorized shares to 100T
+Mcap $12M · EV $10M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1980210/000121390026078704/ea0298260-6k_wfhold.htm</link>
+      <guid isPermaLink="false">0001213900-26-078704</guid>
+      <pubDate>Thu, 16 Jul 2026 15:10:55 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
     <item>
       <title>$DMRC 👀 Activist
 Ocho Investments (5.9% stake) pushes for board changes, financing
@@ -596,24 +606,6 @@ Mcap $180M · EV $485M · Real Estate</title>
       <pubDate>Wed, 15 Jul 2026 15:20:05 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$QTEX 📉 Delisting · Forced
-Warrants delisted from Nasdaq; effective July 15
-Mcap $67M · EV $64M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1837493/000135445726000695/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000695</guid>
-      <pubDate>Wed, 15 Jul 2026 15:06:18 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$XFLT ⚔️ Proxy
-Faces Octagon proxy contest over sub-adviser vote; meeting July 30</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026078317/ea0298044-dfan14a_octagon.htm</link>
-      <guid isPermaLink="false">0001213900-26-078317</guid>
-      <pubDate>Wed, 15 Jul 2026 15:06:04 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
