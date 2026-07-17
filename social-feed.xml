@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 10:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:26:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BHR 📤 Divestiture
@@ -575,26 +575,6 @@ Pursues dual-primary listing on HKEX; expected within year</title>
       <guid isPermaLink="false">0001193125-26-305371</guid>
       <pubDate>Thu, 16 Jul 2026 05:40:13 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$IRIX ⚔️ Proxy
-Board reveals insider-led withhold campaign; SEC violations alleged
-Mcap $19M · EV $25M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1006045/000119312526305344/d101758d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-305344</guid>
-      <pubDate>Thu, 16 Jul 2026 05:21:05 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>withhold_campaign</category>
-    </item>
-    <item>
-      <title>$ASPI 🪙 Debt Restr.
-Exchanges $109.2M QLE notes for 23.2M shares (17.8% dilution)
-Mcap $577M · EV $558M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1921865/000147793226004337/aspi_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-004337</guid>
-      <pubDate>Thu, 16 Jul 2026 05:20:47 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>debt_for_equity_swap</category>
     </item>
   </channel>
 </rss>
