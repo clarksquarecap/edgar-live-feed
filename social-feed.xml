@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 10:07:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:13:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BHR 📤 Divestiture
@@ -626,44 +626,6 @@ Mcap $1.6B · EV $5.2B · Industrials</title>
       <pubDate>Thu, 16 Jul 2026 05:17:42 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$NXPL 🤝 Merger
-Acquires Scott's Pharmacy for $1.5M cash; close Q4 2026
-1,500,000 deal · cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1058307/000143774926023651/nxpl20260714_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-023651</guid>
-      <pubDate>Thu, 16 Jul 2026 05:11:12 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LPG 💧 Capital Return · Special Div
-Declares $1.00/share special dividend; sells VLGC for $81.8M</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1596993/000159699326000031/lpg-20260716x8k.htm</link>
-      <guid isPermaLink="false">0001596993-26-000031</guid>
-      <pubDate>Thu, 16 Jul 2026 05:09:55 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$NOTVQ 🔥 Insolvency · Ch. 11
-Prepackaged Ch11 plan confirmed; equity canceled, no recovery
-Mcap $660K · EV $473M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/720154/000162828026048369/notv-20260714.htm</link>
-      <guid isPermaLink="false">0001628280-26-048369</guid>
-      <pubDate>Thu, 16 Jul 2026 05:09:10 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$ISCO 📤 Divestiture
-Sells Lifeline Cell Technology to ATCC for $25M cash; close Q3 2026
-$25,000,000 deal</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1355790/000168316826005555/intlstemcell_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-005555</guid>
-      <pubDate>Thu, 16 Jul 2026 05:08:53 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
