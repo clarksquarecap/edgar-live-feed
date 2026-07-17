@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 20:16:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 20:23:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GIPR 💧 Capital Return · Recap
+Amends preferred unit terms to allow 1:1 common conversion; aims to regain Nasdaq listing
+Mcap $910K · EV $89M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1651721/000119312526307839/gipr-20260716.htm</link>
+      <guid isPermaLink="false">0001193125-26-307839</guid>
+      <pubDate>Fri, 17 Jul 2026 15:23:14 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
     <item>
       <title>$EYPT ⚖️ Litigation · Settled
 Settles False Claims Act case with DOJ for $4.68M; enters CIA
@@ -584,15 +594,6 @@ Mcap $6.8B · EV $8.7B · Industrials</title>
       <guid isPermaLink="false">0001628280-26-048464</guid>
       <pubDate>Thu, 16 Jul 2026 15:31:37 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$CPAC 🎯 Tender
-Faces mandatory tender offer from Holcim; OPA pending
-Mcap $991M · EV $1.4B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1221029/000121390026078711/ea029822801-6k_cementos.htm</link>
-      <guid isPermaLink="false">0001213900-26-078711</guid>
-      <pubDate>Thu, 16 Jul 2026 15:18:45 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
