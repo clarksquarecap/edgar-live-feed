@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 21:04:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:11:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$INVE 📤 Divestiture
+Sells IoT Business to Trackonomy for $50M in preferred stock; vote pending
+to Trackonomy Systems · $50,000,000 deal
+Mcap $68M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1036044/000119312526307972/d103630dprem14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-307972</guid>
+      <pubDate>Fri, 17 Jul 2026 16:11:16 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CABR 📉 Delisting · Forced
 Forced Nasdaq delisting determination; hearing requested by July 22
@@ -579,27 +589,6 @@ Faces Saba Capital proxy contest; director nomination and board declassification
       <guid isPermaLink="false">0000902664-26-003135</guid>
       <pubDate>Thu, 16 Jul 2026 16:17:14 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$XTND 🤝 Merger
-Acquires JFB Construction and Xtend Reality via stock merger; to list as XTND on NYSE
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2111860/000119312526306234/d121457ds4a.htm</link>
-      <guid isPermaLink="false">0001193125-26-306234</guid>
-      <pubDate>Thu, 16 Jul 2026 16:10:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$D 🤝 Merger
-Acquired by NextEra Energy; S-4 filed July 9
-empty
-Mcap $61B · EV $119B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000119312526306223/d124121d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-306223</guid>
-      <pubDate>Thu, 16 Jul 2026 16:09:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
