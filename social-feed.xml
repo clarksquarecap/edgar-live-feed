@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 21:21:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:28:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WKEY 🌍 Re-domicile
+Redomiciles to BVI via merger; EGM Sept 9
+Mcap $58M · EV $44M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026079268/ea0298401-425_wisekey.htm</link>
+      <guid isPermaLink="false">0001213900-26-079268</guid>
+      <pubDate>Fri, 17 Jul 2026 16:28:00 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$EBAY 👀 Activist
 GameStop raises eBay stake to 9.8% via put/call settlement
@@ -637,26 +646,6 @@ Mcap $1.3B · EV $2.1B · Industrials</title>
       <pubDate>Thu, 16 Jul 2026 16:31:16 -0500</pubDate>
       <category>GOING_PRIVATE</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$JSPR 🤝 Merger
-Acquires Kira in all-stock deal; $132M PIPE, out-licenses assets to Mirador
-Kira Pharmaceuticals · stock · close Completed
-Mcap $19M · EV $6M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1788028/000121390026078781/ea0298316-8k_jasper.htm</link>
-      <guid isPermaLink="false">0001213900-26-078781</guid>
-      <pubDate>Thu, 16 Jul 2026 16:24:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NNDM ⚔️ Proxy
-Nominates director slate at Nano Dimension; special meeting
-Mcap $314M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1643303/000092189526001824/dfan14a13459002_07162026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001824</guid>
-      <pubDate>Thu, 16 Jul 2026 16:24:22 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
