@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 21:12:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:18:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XFLT 👀 Activist
+Faces proxy contest from Octagon over subadvisor replacement; vote July 30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026079259/ea0298433-01_defa14a.htm</link>
+      <guid isPermaLink="false">0001213900-26-079259</guid>
+      <pubDate>Fri, 17 Jul 2026 16:18:44 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$AFBI 🤝 Merger
 Regulatory approvals received for merger with Fidelity BancShares; close Q3 2026
@@ -608,15 +616,6 @@ Mcap $314M · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1643303/000092189526001824/dfan14a13459002_07162026.htm</link>
       <guid isPermaLink="false">0000921895-26-001824</guid>
       <pubDate>Thu, 16 Jul 2026 16:24:22 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$DMB ⚔️ Proxy
-Faces Saba Capital proxy contest; director nomination and board declassification on ballot
-8.5% stake</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1565381/000090266426003135/p26-1513prrn14a.htm</link>
-      <guid isPermaLink="false">0000902664-26-003135</guid>
-      <pubDate>Thu, 16 Jul 2026 16:17:14 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
