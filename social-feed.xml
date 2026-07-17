@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 20:08:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 20:14:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DXLG 🤝 Merger
+Board withdraws support for FBB merger; recommends AGAINST issuance proposal
+FBB Holdings I · stock
+Mcap $34M · EV $231M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/813298/000119312526307826/d76201dprem14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-307826</guid>
+      <pubDate>Fri, 17 Jul 2026 15:14:20 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OGN 🤝 Merger
 Discloses $700M synergy estimate in Sun Pharma merger; special meeting July 23</title>
@@ -553,46 +564,6 @@ Mcap $991M · EV $1.4B · Materials</title>
       <guid isPermaLink="false">0001213900-26-078711</guid>
       <pubDate>Thu, 16 Jul 2026 15:18:45 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$CMMB 📍 Stake
-Receives 13D from HBM disclosing 12.5% stake; merger with Scipher underway
-Mcap $20M · EV $12M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1534248/000110465926084244/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-084244</guid>
-      <pubDate>Thu, 16 Jul 2026 15:12:05 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$PHUN 👀 Activist
-Faces Goldenwise Capital activist campaign; rejects board seat demands
-6.9% stake
-Mcap $43M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1665300/000119312526306095/phun-20260716.htm</link>
-      <guid isPermaLink="false">0001193125-26-306095</guid>
-      <pubDate>Thu, 16 Jul 2026 15:11:47 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$VPRB ⚖️ Litigation · Settled
-Settles patent litigation with R.J. Reynolds for $14.9M
-vs R.J. Reynolds Vapor
-Mcap $5M · EV $3M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1376231/000121390026078703/ea0297413-8k_vprbrands.htm</link>
-      <guid isPermaLink="false">0001213900-26-078703</guid>
-      <pubDate>Thu, 16 Jul 2026 15:11:31 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$WFF 💧 Capital Return · Recap
-Approves dual-class recap; 100-vote Class A shares created; authorized shares to 100T
-Mcap $12M · EV $10M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1980210/000121390026078704/ea0298260-6k_wfhold.htm</link>
-      <guid isPermaLink="false">0001213900-26-078704</guid>
-      <pubDate>Thu, 16 Jul 2026 15:10:55 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
