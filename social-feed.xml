@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 08:36:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:04:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LSTA 🎯 Tender
+Tender offer extended to July 20; $4.00 + CVR; 64.7% tendered
+Kuva Labs · cash
+Mcap $29M · EV $16M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126028733/ny20077391x2_sctota.htm</link>
+      <guid isPermaLink="false">0001140361-26-028733</guid>
+      <pubDate>Fri, 17 Jul 2026 05:04:48 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$LIANY 🧊 Liquidation
 Winds down operations; pays $4.80/share special dividend; delists from Nasdaq</title>
@@ -604,14 +614,6 @@ Mcap $29B · EV $40B · Utilities</title>
       <guid isPermaLink="false">0001292814-26-003764</guid>
       <pubDate>Thu, 16 Jul 2026 05:06:40 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SIGY 🌑 Going Dark
-Terminates SEC registration; 120 holders; going dark</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1642159/000149315226033421/form15-12g.htm</link>
-      <guid isPermaLink="false">0001493152-26-033421</guid>
-      <pubDate>Thu, 16 Jul 2026 05:04:48 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>
