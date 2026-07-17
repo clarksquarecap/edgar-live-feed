@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 21:29:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:35:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DMB ⚔️ Proxy
+Nominates Paul Kazarian for DMB board; seeks declassification
+8.5% stake</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1565381/000090266426003159/p26-1530defc14a.htm</link>
+      <guid isPermaLink="false">0000902664-26-003159</guid>
+      <pubDate>Fri, 17 Jul 2026 16:35:33 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$BYND 🪙 Debt Restr.
 Discusses amending 2030 note indenture to allow 2027 note repurchase
@@ -623,48 +632,6 @@ Mcap $242M · EV $273M · Tech</title>
       <guid isPermaLink="false">0002093315-26-000015</guid>
       <pubDate>Thu, 16 Jul 2026 18:28:46 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$DSGR 📦 Going Private
-Acquired by LKCM Headwater affiliates for $35.00 cash; going private
-cash
-Mcap $1.3B · EV $2.1B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/703604/000119312526306263/d131211d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-306263</guid>
-      <pubDate>Thu, 16 Jul 2026 16:31:53 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$NXTC 🤝 Merger
-Acquires Avere Therapeutics; definitive merger signed July 14
-Mcap $8M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1661059/000110465926084319/tm2620692d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-084319</guid>
-      <pubDate>Thu, 16 Jul 2026 16:31:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MTNB 🤝 Merger
-Acquired by GH Power in reverse merger; ~9% stake in combined co.
-stock · close Q4 2026
-Mcap $5M · EV $4M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1582554/000149315226033590/form425.htm</link>
-      <guid isPermaLink="false">0001493152-26-033590</guid>
-      <pubDate>Thu, 16 Jul 2026 16:31:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DSGR 📦 Going Private
-Acquired by LKCM Headwater/CEO for $35.00 cash per share; go-private
-cash · close 2026-12-31
-Mcap $1.3B · EV $2.1B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/703604/000119312526306265/d131211ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-306265</guid>
-      <pubDate>Thu, 16 Jul 2026 16:31:16 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
