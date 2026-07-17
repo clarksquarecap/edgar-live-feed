@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 19:58:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 20:04:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WFRD 🤝 Merger
+Acquires NCS Multistage for 0.5537 WFRD shares or mixed election
+NCS Multistage Holdings · 35.42% prem · stock
+Mcap $6.0B · EV $6.6B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1603923/000110465926084612/tm2619101-3_s4a.htm</link>
+      <guid isPermaLink="false">0001104659-26-084612</guid>
+      <pubDate>Fri, 17 Jul 2026 15:04:13 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TACT 👀 Activist
 Faces 13D from Poplar Point; 15.2% stake; seeks strategic review of casino printer business
@@ -574,16 +585,6 @@ stock</title>
       <pubDate>Thu, 16 Jul 2026 15:04:16 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$ATAI 🤝 Merger
-Acquired by Eli Lilly for $6.75 cash + up to $2.50 CVR per share; close Q3 2026
-Eli Lilly and · cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2081043/000114036126028713/ef20078121_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-028713</guid>
-      <pubDate>Thu, 16 Jul 2026 15:03:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
