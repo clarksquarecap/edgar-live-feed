@@ -6,8 +6,47 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 10:05:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:07:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BHR 📤 Divestiture
+Sells 3 hotels for $437.5M cash; agrees to sell Pier House for $190M
+$437.5M (completed) + $190M (pending) deal
+Mcap $141M · EV $1.6B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574085/000157408526000116/bhr-20260713.htm</link>
+      <guid isPermaLink="false">0001574085-26-000116</guid>
+      <pubDate>Fri, 17 Jul 2026 05:06:47 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$BN 🌍 Re-domicile
+Shareholders approve corporate simplification; new parent BN
+Mcap $98B · EV $468B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1001085/000110465926084374/tm2620706d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-084374</guid>
+      <pubDate>Fri, 17 Jul 2026 05:06:30 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
+    <item>
+      <title>$BNT 🤝 Merger
+Acquired by Brookfield Corp (BN) in 1:1 share exchange; vote passed
+stock · close year-end 2026
+Mcap $15B · EV $14B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1837429/000110465926084375/tm2620676d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-084375</guid>
+      <pubDate>Fri, 17 Jul 2026 05:06:19 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MMYT ✂️ Carve-out
+IPOs subsidiary MMT India on BSE/NSE; retains majority control
+Mcap $5.1B · EV $5.8B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1495153/000119312526306686/drhp_-_mmyt-6k-2026-july.htm</link>
+      <guid isPermaLink="false">0001193125-26-306686</guid>
+      <pubDate>Fri, 17 Jul 2026 05:06:06 -0500</pubDate>
+      <category>CARVE_OUT</category>
+    </item>
     <item>
       <title>$SNY ⚖️ Litigation · Won
 FDA approves subcutaneous Sarclisa Escena for multiple myeloma
@@ -624,16 +663,6 @@ $25,000,000 deal</title>
       <link>https://www.sec.gov/Archives/edgar/data/1355790/000168316826005555/intlstemcell_8k.htm</link>
       <guid isPermaLink="false">0001683168-26-005555</guid>
       <pubDate>Thu, 16 Jul 2026 05:08:53 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AXIA 📤 Divestiture
-Sells 49% stake in 4 transmission SPEs to GEBBRAS for BRL 451.4M
-BRL 451.4 million deal · close 2026-07-15
-Mcap $29B · EV $40B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1439124/000129281426003764/axia20260715_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-003764</guid>
-      <pubDate>Thu, 16 Jul 2026 05:06:40 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>
