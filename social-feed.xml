@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 20:24:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 20:36:39 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IPEX 🤝 Merger
+Amends GOWell merger: earnout at 80% EBITDA, expense cap $9M
+Mcap $126M · EV $126M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2028355/000121390026079198/ea0298139-8k425_inflection5.htm</link>
+      <guid isPermaLink="false">0001213900-26-079198</guid>
+      <pubDate>Fri, 17 Jul 2026 15:36:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RNAZ 📍 Stake
 Receives 13D/A from CK Life Sciences/DEFJ converting preferred to common, stake to 9.99%
@@ -594,15 +604,6 @@ Sells Forafric Portugal to Farid Rehmani for $1.4M cash
       <guid isPermaLink="false">0001493152-26-033535</guid>
       <pubDate>Thu, 16 Jul 2026 15:43:24 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GTES 🌍 Re-domicile
-Redomiciles to Bermuda via scheme; effective July 20
-Mcap $6.8B · EV $8.7B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1718512/000162828026048464/gtes-20260716.htm</link>
-      <guid isPermaLink="false">0001628280-26-048464</guid>
-      <pubDate>Thu, 16 Jul 2026 15:31:37 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
