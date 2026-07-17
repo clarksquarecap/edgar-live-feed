@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 11:53:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 12:05:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ELVR 📤 Divestiture
+Sells Ewoyaa Project in Ghana for A$87M net proceeds
+A$87 million (net proceeds) deal
+Mcap $1.4B · EV $1.4B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1739016/000114036126028767/ef20078139_6k.htm</link>
+      <guid isPermaLink="false">0001140361-26-028767</guid>
+      <pubDate>Fri, 17 Jul 2026 07:05:29 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$LSTA 🎯 Tender
 Acquired by Kuva Labs for $4.00/share + CVRs; tender extended to July 20
@@ -525,15 +535,6 @@ Mcap $504M · EV $562M · Healthcare</title>
       <pubDate>Thu, 16 Jul 2026 07:35:54 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$VOD 📍 Stake
-Receives 19.87% stake notification from Niel family group
-Mcap $30B · EV $81B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/839923/000165495426006683/a6515m.htm</link>
-      <guid isPermaLink="false">0001654954-26-006683</guid>
-      <pubDate>Thu, 16 Jul 2026 07:04:37 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
