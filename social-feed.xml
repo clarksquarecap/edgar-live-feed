@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 11:35:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 11:41:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$LSTA 🎯 Tender
@@ -544,16 +544,6 @@ Mcap $1.3B · EV $2.7B · Industrials</title>
       <guid isPermaLink="false">0000912562-26-000141</guid>
       <pubDate>Thu, 16 Jul 2026 06:51:53 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ABUS 💧 Capital Return · Buyback
-Plans up to $230M share repurchases; may include Dutch auction
-Mcap $901M · EV $809M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1447028/000117184326004708/f8k_071626.htm</link>
-      <guid isPermaLink="false">0001171843-26-004708</guid>
-      <pubDate>Thu, 16 Jul 2026 06:39:26 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
