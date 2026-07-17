@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 10:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 10:19:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BHR 📤 Divestiture
@@ -595,37 +595,6 @@ Mcap $577M · EV $558M · Materials</title>
       <pubDate>Thu, 16 Jul 2026 05:20:47 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
       <category>debt_for_equity_swap</category>
-    </item>
-    <item>
-      <title>$VACI 🤝 Merger
-Acquires NorthStar Earth &amp; Space in SPAC business combination
-empty
-Mcap $319M · EV $318M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2080023/000121390026078454/ea0290232-04.htm</link>
-      <guid isPermaLink="false">0001213900-26-078454</guid>
-      <pubDate>Thu, 16 Jul 2026 05:19:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WF 🤝 Merger
-Acquires Tongyang Life via exchange offer
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1264136/000119312526305352/d112553dcb.htm</link>
-      <guid isPermaLink="false">0001193125-26-305352</guid>
-      <pubDate>Thu, 16 Jul 2026 05:19:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AZUL 📉 Delisting · Voluntary
-Voluntarily delists from NYSE American; uplisted to NYSE effective July 9
-Mcap $1.6B · EV $5.2B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1432364/000129281426003772/azul20260615_25.htm</link>
-      <guid isPermaLink="false">0001292814-26-003772</guid>
-      <pubDate>Thu, 16 Jul 2026 05:17:42 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
