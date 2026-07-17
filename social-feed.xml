@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 17 Jul 2026 18:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 18:50:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RBKB 🏛️ Demutualization
@@ -582,15 +582,6 @@ Kenneth R. Lehman</title>
       <guid isPermaLink="false">0001170549-26-000002</guid>
       <pubDate>Thu, 16 Jul 2026 14:37:12 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$AFB 📍 Stake
-Receives 13D from Karpus Management disclosing 12.56% stake
-Mcap $138M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1162027/000107261326000587/primary_doc.xml</link>
-      <guid isPermaLink="false">0001072613-26-000587</guid>
-      <pubDate>Thu, 16 Jul 2026 13:47:18 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
