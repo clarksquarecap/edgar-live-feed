@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 18 Jul 2026 20:08:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 20:20:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$STTK 📍 Stake
@@ -275,46 +275,6 @@ Mcap $910K · EV $89M · Real Estate</title>
       <pubDate>Fri, 17 Jul 2026 15:23:14 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$EYPT ⚖️ Litigation · Settled
-Settles False Claims Act case with DOJ for $4.68M; enters CIA
-Mcap $1.1B · EV $893M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314102/000119312526307792/eypt-20260713.htm</link>
-      <guid isPermaLink="false">0001193125-26-307792</guid>
-      <pubDate>Fri, 17 Jul 2026 15:16:40 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$CRH 🤝 Merger
-Secures $2.5B term loan for Arcosa acquisition; bridge cut to $3.25B
-Mcap $71B · EV $89B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/849395/000162828026048660/crh-20260717.htm</link>
-      <guid isPermaLink="false">0001628280-26-048660</guid>
-      <pubDate>Fri, 17 Jul 2026 15:16:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$EVGN 👀 Activist
-Faces activist campaign demanding removal of all directors except CEO
-Mcap $5M · EV $5M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574565/000117891326003516/zk2635697.htm</link>
-      <guid isPermaLink="false">0001178913-26-003516</guid>
-      <pubDate>Fri, 17 Jul 2026 15:15:24 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$DXLG 🤝 Merger
-Board withdraws support for FBB merger; recommends AGAINST issuance proposal
-FBB Holdings I · stock
-Mcap $34M · EV $231M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/813298/000119312526307826/d76201dprem14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-307826</guid>
-      <pubDate>Fri, 17 Jul 2026 15:14:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
