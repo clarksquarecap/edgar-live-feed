@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 18 Jul 2026 08:37:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 10:06:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$STTK 📍 Stake
@@ -574,76 +574,6 @@ Mcap $26M · EV $29M · Financials</title>
       <guid isPermaLink="false">0001213900-26-078905</guid>
       <pubDate>Fri, 17 Jul 2026 05:32:56 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$BHR 📤 Divestiture
-Sells 3 hotels for $437.5M cash; agrees to sell Pier House for $190M
-$437.5M (completed) + $190M (pending) deal
-Mcap $141M · EV $1.6B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000157408526000116/bhr-20260713.htm</link>
-      <guid isPermaLink="false">0001574085-26-000116</guid>
-      <pubDate>Fri, 17 Jul 2026 05:06:47 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BN 🌍 Re-domicile
-Shareholders approve corporate simplification; new parent BN
-Mcap $98B · EV $468B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1001085/000110465926084374/tm2620706d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-084374</guid>
-      <pubDate>Fri, 17 Jul 2026 05:06:30 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$BNT 🤝 Merger
-Acquired by Brookfield Corp (BN) in 1:1 share exchange; vote passed
-stock · close year-end 2026
-Mcap $15B · EV $14B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1837429/000110465926084375/tm2620676d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-084375</guid>
-      <pubDate>Fri, 17 Jul 2026 05:06:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MMYT ✂️ Carve-out
-IPOs subsidiary MMT India on BSE/NSE; retains majority control
-Mcap $5.1B · EV $5.8B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1495153/000119312526306686/drhp_-_mmyt-6k-2026-july.htm</link>
-      <guid isPermaLink="false">0001193125-26-306686</guid>
-      <pubDate>Fri, 17 Jul 2026 05:06:06 -0500</pubDate>
-      <category>CARVE_OUT</category>
-    </item>
-    <item>
-      <title>$SNY ⚖️ Litigation · Won
-FDA approves subcutaneous Sarclisa Escena for multiple myeloma
-Mcap $102B · EV $119B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1121404/000119312526306689/d106024d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-306689</guid>
-      <pubDate>Fri, 17 Jul 2026 05:05:49 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$PTNM 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 16; to trade OTC
-effective 2026-07-16
-Mcap $239M · EV $240M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2046573/000149315226033631/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-033631</guid>
-      <pubDate>Fri, 17 Jul 2026 05:05:30 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$LSTA 🎯 Tender
-Tender offer extended to July 20; $4.00 + CVR; 64.7% tendered
-Kuva Labs · cash
-Mcap $29M · EV $16M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126028733/ny20077391x2_sctota.htm</link>
-      <guid isPermaLink="false">0001140361-26-028733</guid>
-      <pubDate>Fri, 17 Jul 2026 05:04:48 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
