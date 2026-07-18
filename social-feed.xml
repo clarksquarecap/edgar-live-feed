@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 18 Jul 2026 10:06:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 10:36:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$STTK 📍 Stake
@@ -554,26 +554,6 @@ Substantial issuer bid for up to $70M at $20.40/share; 13.8% of shares</title>
       <pubDate>Fri, 17 Jul 2026 05:57:59 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$IPGP 🤝 Merger
-Acquires Lumibird Medical for €300M cash + €50M earnout; close Q4 2026
-€300M base + up to €50M earnout deal · cash
-Mcap $4.4B · EV $3.6B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1111928/000111192826000142/ipgp-20260716.htm</link>
-      <guid isPermaLink="false">0001111928-26-000142</guid>
-      <pubDate>Fri, 17 Jul 2026 05:33:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FORL 💥 Busted M&amp;A
-Terminates XYDD merger; pursues Data443 business combination
-Mcap $26M · EV $29M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1936255/000121390026078905/ea0298297-8k_four.htm</link>
-      <guid isPermaLink="false">0001213900-26-078905</guid>
-      <pubDate>Fri, 17 Jul 2026 05:32:56 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
