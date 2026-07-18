@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 18 Jul 2026 15:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 15:36:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$STTK 📍 Stake
@@ -399,16 +399,6 @@ Receives 13D from sponsor disclosing 25.3% stake</title>
       <guid isPermaLink="false">0001185185-26-003007</guid>
       <pubDate>Fri, 17 Jul 2026 11:51:04 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$LDXC 🤝 Merger
-Acquired by Alpha Investment for cash; 90% control
-cash · close 2026-07-13</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1985554/000168316826005596/londax_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-005596</guid>
-      <pubDate>Fri, 17 Jul 2026 10:31:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
