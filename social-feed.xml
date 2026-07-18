@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 18 Jul 2026 20:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 20:26:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$STTK 📍 Stake
@@ -256,25 +256,6 @@ Mcap $126M · EV $126M · Financials</title>
       <pubDate>Fri, 17 Jul 2026 15:36:36 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$RNAZ 📍 Stake
-Receives 13D/A from CK Life Sciences/DEFJ converting preferred to common, stake to 9.99%
-Mcap $8M · EV $138M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829635/000110465926084636/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-084636</guid>
-      <pubDate>Fri, 17 Jul 2026 15:24:03 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$GIPR 💧 Capital Return · Recap
-Amends preferred unit terms to allow 1:1 common conversion; aims to regain Nasdaq listing
-Mcap $910K · EV $89M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1651721/000119312526307839/gipr-20260716.htm</link>
-      <guid isPermaLink="false">0001193125-26-307839</guid>
-      <pubDate>Fri, 17 Jul 2026 15:23:14 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
