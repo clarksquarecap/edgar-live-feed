@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 18 Jul 2026 10:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 11:00:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$STTK 📍 Stake
@@ -545,15 +545,6 @@ Mcap $29M · EV $16M · Healthcare</title>
       <guid isPermaLink="false">0001140361-26-028761</guid>
       <pubDate>Fri, 17 Jul 2026 06:04:08 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$DCBO 💧 Capital Return · Self-tender
-Substantial issuer bid for up to $70M at $20.40/share; 13.8% of shares</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829959/000119312526306725/d155461d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-306725</guid>
-      <pubDate>Fri, 17 Jul 2026 05:57:59 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
