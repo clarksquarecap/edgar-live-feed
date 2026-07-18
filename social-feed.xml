@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 18 Jul 2026 13:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 14:26:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$STTK 📍 Stake
@@ -426,14 +426,6 @@ Mcap $89M · Healthcare</title>
       <guid isPermaLink="false">0000921895-26-001827</guid>
       <pubDate>Fri, 17 Jul 2026 09:30:05 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$AIEV 🌍 Re-domicile
-Reincorporates in Nevada from Delaware; effective June 23</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1912582/000121390026078968/ea0295709-8k_thunder.htm</link>
-      <guid isPermaLink="false">0001213900-26-078968</guid>
-      <pubDate>Fri, 17 Jul 2026 09:23:57 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
