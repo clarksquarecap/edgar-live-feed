@@ -6,8 +6,24 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 20 Jul 2026 20:23:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 20:37:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · FFAI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1805521/000135445726000706/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000706</guid>
+      <pubDate>Mon, 20 Jul 2026 15:37:14 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <ns0:headline>Warrants forced delisted by Nasdaq; effective July 20</ns0:headline>
+      <ns0:shortName>FARADAY FUTURE INTELLIGENT ELECTRIC</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Warrants forced delisted by Nasdaq; effective July 20&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Faraday Future Intelligent Electric Inc.&amp;#39;s warrants (FFAIW) were forced delisted by Nasdaq via Form 25 under Rule 12d2-2(a)(2) due to non-compliance. The delisting is effective immediately. The warrants will likely trade on OTC markets.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; empty&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1805521/000135445726000706/0001354457-26-000706-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FFAI, FFAIW&lt;/b&gt; · 25-NSE · Transportation Equipment (3711) · prefill_form:25-NSE · filed 2026-07-20&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · CBRL</title>
       <link>https://www.sec.gov/Archives/edgar/data/1067294/000110465926085071/tm2620848d1_8k.htm</link>
@@ -9256,25 +9272,6 @@
 &lt;p&gt;&lt;i&gt;Px $9.88 · Mkt cap $8.12B · EV $8.40B · Fwd P/E 8.0x · Fwd EV/EBITDA 3.8x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1756607/000117184326004544/0001171843-26-004544-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EQX&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-07-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚔️ Proxy Contest · VALE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/917851/000129281426003715/vale20260708_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-003715</guid>
-      <pubDate>Thu, 09 Jul 2026 05:10:17 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>6-K</category>
-      <ns0:headline>Faces Previ proxy contest; EGM July 22 for board/chairman election</ns0:headline>
-      <ns0:shortName>Vale</ns0:shortName>
-      <ns0:price>14.99</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Faces Previ proxy contest; EGM July 22 for board/chairman election&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Vale faces a proxy contest from reference shareholder Previ (pension fund) after board chairman Daniel Stieler resigned. At the July 22 EGM, shareholders will vote on a replacement board member (Previ nominee José Maurício Pereira Coelho vs management nominee Ieda Gomes) and a new chairman (Previ-backed Manuel Lino Silva de Sousa Oliveira vs current vice chairman Marcelo Gasparino). Previ holds ~10% of Vale&amp;#39;s capital.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Vale S.A., together with its subsidiaries, produces iron ore and nickel in Brazil, Asia, the Middle East, North Africa, Europe, the Americas, and Oceania. The company operates in two segments, Iron Ore Solutions and Vale Base Metals. It extracts, produces, and distributes iron ore, iron ore pellets, briquettes, nickel, copper, other ferrous products, and by-products, including gold, silver, cobalt, platinum-group metals, and other base metals, as well as low-carbon critical minerals.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Previ&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-07-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; EGM on July 22, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $14.99 · Mkt cap $65.00B · EV $82.23B · Fwd P/E 7.9x · Fwd EV/EBITDA 5.4x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/917851/000129281426003715/0001292814-26-003715-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VALE&lt;/b&gt; · 6-K · Metal Mining (1000) · prefill_form:6-K · filed 2026-07-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
