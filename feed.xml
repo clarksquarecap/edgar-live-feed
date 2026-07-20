@@ -6,8 +6,26 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 20 Jul 2026 20:50:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 20:57:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · NFBK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1493225/000135445726000710/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000710</guid>
+      <pubDate>Mon, 20 Jul 2026 15:57:15 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <ns0:headline>Forced Nasdaq delisting effective July 20</ns0:headline>
+      <ns0:shortName>Northfield Bancorp</ns0:shortName>
+      <ns0:price>15.34</ns0:price>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective July 20&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Nasdaq filed Form 25-NSE to remove Northfield Bancorp&amp;#39;s common stock from listing under Rule 12d2-2(a)(3) for failure to meet listing standards. The delisting is effective immediately. Shares will trade on OTC markets.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Northfield Bancorp, Inc. operates as the bank holding company for Northfield Bank that provides a range of banking services primarily to individuals and corporate customers. It offers deposit accounts, including transaction, money market savings, certificates of deposit, passbook and statement savings deposit accounts.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $15.34 · Mkt cap $620.6M · Fwd P/E 10.6x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1493225/000135445726000710/0001354457-26-000710-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NFBK&lt;/b&gt; · 25-NSE · Depository Institutions (6035) · prefill_form:25-NSE · filed 2026-07-20&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🏛️ Insolvency · Chapter 11 · SGMOQ</title>
       <link>https://www.sec.gov/Archives/edgar/data/1001233/000119312526309012/d125683d8k.htm</link>
@@ -9251,24 +9269,6 @@
 &lt;p&gt;&lt;i&gt;Px $12.02 · Mkt cap $4.58B · EV $6.63B · Fwd P/E 13.6x · Fwd EV/EBITDA 9.6x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1507605/000095014226002012/0000950142-26-002012-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MARA&lt;/b&gt; · 8-K · Items 1.01, 2.01, 7.01, 9.01 · Non-Depository Credit (6199) · 8k_tier1:1.01,2.01,7.01 · filed 2026-07-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · TSAT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1845840/000119312526299127/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-299127</guid>
-      <pubDate>Thu, 09 Jul 2026 06:36:36 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>SCHEDULE 13D/A</category>
-      <ns0:headline>Boosts stake in Telesat to 13.2%; activist filing</ns0:headline>
-      <ns0:shortName>Telesat</ns0:shortName>
-      <ns0:price>43.94</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Boosts stake in Telesat to 13.2%; activist filing&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Telesat Corporation, a satellite operator, provides mission-critical communications solutions to support the requirements of satellite users in Canada, the United States, Asia, Australia, Latin America, the Caribbean, Europe, the Middle East, and Africa. It operates through Geostationary (GEO) and Low Earth Orbit (LEO) segments.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 13.2&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; empty&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-09&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $43.94 · Mkt cap $668.7M · EV $3.77B · Fwd EV/EBITDA 48.4x · Communication Services / Diversified Telecommunication Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1845840/000119312526299127/0001193125-26-299127-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TSAT&lt;/b&gt; · SCHEDULE 13D/A · Communications (4899) · fresh_13d · filed 2026-07-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
