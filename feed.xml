@@ -6,8 +6,25 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 20 Jul 2026 21:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:15:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · DTSQ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2017950/000149315226033932/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-033932</guid>
+      <pubDate>Mon, 20 Jul 2026 16:15:34 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>8-K</category>
+      <ns0:headline>Forced Nasdaq delisting; appeal filed, suspension stayed pending hearing</ns0:headline>
+      <ns0:shortName>DT Cloud Star Acquisition</ns0:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting; appeal filed, suspension stayed pending hearing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a delist determination letter from Nasdaq for failing to maintain minimum MVLS of $50M and minimum 400 total shareholders. The company has timely appealed, which stays the suspension; without an appeal, trading would have been suspended July 24. A prior extension for the shareholder requirement until October 5, 2026 is no longer eligible due to this determination.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; empty&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Appeal hearing pending; suspension stayed&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2017950/000149315226033932/0001493152-26-033932-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DTSQ, DTSQR, DTSQU&lt;/b&gt; · 8-K · Items 3.01, 9.01 · Holding / Investment Offices (6770) · 8k_tier1:3.01 · filed 2026-07-20&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💔 Busted · CDAQF</title>
       <link>https://www.sec.gov/Archives/edgar/data/1851909/000149315226033934/form8-k.htm</link>
@@ -9247,25 +9264,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.53 · Mkt cap $49.7M · EV $246.3M · Fwd P/E 6.0x · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1487918/000148791826000068/0001487918-26-000068-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OFS, OFSSH, OFSSO&lt;/b&gt; · DEFA14A · prefill_form:DEFA14A · filed 2026-07-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · TBRG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1169445/000135445726000655/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000655</guid>
-      <pubDate>Thu, 09 Jul 2026 08:33:54 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>25-NSE</category>
-      <ns0:headline>Forced Nasdaq delisting effective ~July 19, 2026</ns0:headline>
-      <ns0:shortName>TruBridge</ns0:shortName>
-      <ns0:price>26.24</ns0:price>
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective ~July 19, 2026&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Faces forced delisting from Nasdaq as the exchange filed Form 25-NSE to remove its common stock under Rule 12d2-2(a)(3). The delisting becomes effective 10 days after filing, around July 19, 2026. Shares will likely trade on OTC markets thereafter.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; TruBridge, Inc. provides healthcare solutions and services for community hospitals, clinics, and other healthcare systems in the United States and internationally. The company operates in two segments, Financial Health and Patient Care. It offers revenue cycle management (RCM) products, including patient liability estimate, eligibility verification, claim scrubbing and submission, remittance management, denial/audit management, and contract management services; RCM services, such as accounts rec…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-07-19&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Delisting effective date&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $26.24 · Mkt cap $388.5M · EV $521.5M · Fwd P/E 8.6x · Fwd EV/EBITDA 6.5x · Health Care / Health Care Technology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1169445/000135445726000655/0001354457-26-000655-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TBRG&lt;/b&gt; · 25-NSE · Business Services (7371) · prefill_form:25-NSE · filed 2026-07-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
