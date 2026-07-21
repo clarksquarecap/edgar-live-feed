@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 19:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:21:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CPBI 👀 Activist
+Urges CPBI shareholders to vote for sustained share repurchases
+Mcap $78M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1979332/000092189526001845/dfan14a10318031_07212026.htm</link>
+      <guid isPermaLink="false">0000921895-26-001845</guid>
+      <pubDate>Tue, 21 Jul 2026 14:21:37 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$AREB 🪙 Debt Restr.
 Exchanges $330K debt for 1.65M shares with Streeterville Capital
@@ -640,16 +649,6 @@ Mcap $5M · EV $5M · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-079584</guid>
       <pubDate>Mon, 20 Jul 2026 14:51:20 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$GTII 🔥 Insolvency · Receivership
-Receiver files comprehensive status report and going-forward plan; receivership continues
-Mcap $2M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/356590/000149315226033896/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-033896</guid>
-      <pubDate>Mon, 20 Jul 2026 14:20:25 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>receivership</category>
     </item>
   </channel>
 </rss>
