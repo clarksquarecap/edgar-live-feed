@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 21:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:27:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PASG 🤝 Merger
+Acquires Remix Therapeutics; $100M concurrent financing; Remix holders ~65% pro forma
+stock
+Mcap $15M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1787297/000114036126029162/ny20077915x1_s4.htm</link>
+      <guid isPermaLink="false">0001140361-26-029162</guid>
+      <pubDate>Tue, 21 Jul 2026 16:27:25 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RBKB 🏛️ Demutualization
 Completes second-step conversion; 8.88M shares at $10.00
@@ -605,35 +616,6 @@ Mcap $500M · EV $316M · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-085114</guid>
       <pubDate>Mon, 20 Jul 2026 16:34:31 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RDGT 📍 Stake
-Receives 13D/A from Lingtao Kong; stake rises to 3.2%
-Mcap $170K · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1856084/000121390026079699/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-079699</guid>
-      <pubDate>Mon, 20 Jul 2026 16:26:41 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SGRP 📍 Stake
-ReposiTrak discloses 31.4% stake; acquired via services agreement
-Mcap $21M · EV $47M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1004989/000143774926023888/primary_doc.xml</link>
-      <guid isPermaLink="false">0001437749-26-023888</guid>
-      <pubDate>Mon, 20 Jul 2026 16:26:20 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$UROY 🤝 Merger
-Acquired by New URC (Sweetwater Investors) via arrangement; 99.43% approval
-stock · close 2026-07-27
-Mcap $405M · EV $307M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1711570/000149315226033941/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-033941</guid>
-      <pubDate>Mon, 20 Jul 2026 16:24:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
