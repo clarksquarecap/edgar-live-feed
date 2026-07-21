@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 20:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:40:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FFBC 🤝 Merger
+Acquires Finward Bancorp for 1.35x shares; close Q4 2026
+stock
+Mcap $3.7B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/708955/000110465926085424/tm2620858d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-085424</guid>
+      <pubDate>Tue, 21 Jul 2026 15:40:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FACT 💥 Busted M&amp;A
 Terminates PAD business combination; will seek new target
@@ -605,16 +616,6 @@ Mcap $282M · EV $282M · Financials</title>
       <pubDate>Mon, 20 Jul 2026 15:47:21 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$AHCO 📤 Divestiture
-Sells diabetes business to Cardinal Health for $235M cash
-235000000 deal
-Mcap $1.4B · EV $3.3B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1725255/000110465926085086/tm2620877d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-085086</guid>
-      <pubDate>Mon, 20 Jul 2026 15:40:00 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
