@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 20:38:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:39:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FACT 💥 Busted M&amp;A
+Terminates PAD business combination; will seek new target
+Mcap $259M · EV $258M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2028935/000121390026080046/ea0298685-8k_fact2acq.htm</link>
+      <guid isPermaLink="false">0001213900-26-080046</guid>
+      <pubDate>Tue, 21 Jul 2026 15:39:48 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
+    <item>
+      <title>$MIAX ⚖️ Litigation · Won
+Wins patent litigation vs Nasdaq; all claims dismissed with prejudice
+Mcap $4.0B · EV $3.4B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1438472/000162828026049014/miax-20260720.htm</link>
+      <guid isPermaLink="false">0001628280-26-049014</guid>
+      <pubDate>Tue, 21 Jul 2026 15:39:23 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
+    <item>
+      <title>$FNWD 🤝 Merger
+Acquired by First Financial for 1.35x stock; close Q4 2026
+First Financial Bancorp · stock
+Mcap $159M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/919864/000119312526310393/d155212d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-310393</guid>
+      <pubDate>Tue, 21 Jul 2026 15:39:03 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CRNX 🤝 Merger
 Acquired by Vertex for $85.00 cash/share; vote pending
@@ -585,15 +615,6 @@ Mcap $1.4B · EV $3.3B · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-085086</guid>
       <pubDate>Mon, 20 Jul 2026 15:40:00 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$2367423D 💧 Capital Return · Special Div
-Declares $0.62/sh return of capital (7.5% NAV); 43% NAV returned in 4 months</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1655887/000119312526308994/d171794d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-308994</guid>
-      <pubDate>Mon, 20 Jul 2026 15:39:33 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
     </item>
   </channel>
 </rss>
