@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 20:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:38:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CRNX 🤝 Merger
+Acquired by Vertex for $85.00 cash/share; vote pending
+cash
+Mcap $8.8B · EV $7.6B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/000114036126029134/ny20077458x1_prem14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-029134</guid>
+      <pubDate>Tue, 21 Jul 2026 15:38:47 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AWI 💧 Capital Return · Buyback
 Increases buyback authorization by $800M to $2.5B; extends to 2029
@@ -583,27 +594,6 @@ Declares $0.62/sh return of capital (7.5% NAV); 43% NAV returned in 4 months</ti
       <pubDate>Mon, 20 Jul 2026 15:39:33 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$TMRC 🤝 Merger
-Merger with TMRC for 3.8M USAR shares; CEO transition
-stock
-Mcap $59M · EV $57M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1445942/000121390026079640/ea0298554-425_usarare.htm</link>
-      <guid isPermaLink="false">0001213900-26-079640</guid>
-      <pubDate>Mon, 20 Jul 2026 15:37:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FFAI 📉 Delisting · Forced
-Warrants forced delisted by Nasdaq; effective July 20
-Mcap $33M · EV $166M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1805521/000135445726000706/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000706</guid>
-      <pubDate>Mon, 20 Jul 2026 15:37:14 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
