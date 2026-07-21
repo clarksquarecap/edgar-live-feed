@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 20:18:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:24:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$UCFI 📉 Delisting · Forced
+Forced Nasdaq delisting; trading halted, appeal due July 23
+Mcap $288M · EV $259M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1901203/000121390026080024/ea0298572-8k_cnhealthy.htm</link>
+      <guid isPermaLink="false">0001213900-26-080024</guid>
+      <pubDate>Tue, 21 Jul 2026 15:24:18 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$ISSC 🤝 Merger
 Acquires Aydin Displays for $24.5M cash
@@ -539,46 +549,6 @@ Mcap $33M · EV $166M · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/1805521/000135445726000706/primary_doc.xml</link>
       <guid isPermaLink="false">0001354457-26-000706</guid>
       <pubDate>Mon, 20 Jul 2026 15:37:14 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$CBRL 📤 Divestiture
-Divests MSBC business, closes 16 stores; $77M sale-leaseback of 26 properties
-close Completed
-Mcap $1.2B · EV $2.3B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1067294/000110465926085071/tm2620848d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-085071</guid>
-      <pubDate>Mon, 20 Jul 2026 15:23:20 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$FINW 🤝 Merger
-Acquires Tallied card tech platform; $4M integration costs
-Tallied Technologies · cash
-Mcap $189M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1856365/000185636526000090/finw-20260720.htm</link>
-      <guid isPermaLink="false">0001856365-26-000090</guid>
-      <pubDate>Mon, 20 Jul 2026 15:22:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GAUZ 🪙 Debt Restr.
-Proposes debt settlement under Israeli Insolvency Law; $7M PIPE led by CEO
-Mcap $7M · EV $69M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1781446/000121390026079623/ea0298584-6k_gauzy.htm</link>
-      <guid isPermaLink="false">0001213900-26-079623</guid>
-      <pubDate>Mon, 20 Jul 2026 15:22:36 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$EOSE 📉 Delisting · Forced
-Forced delisting of Rights by Nasdaq effective July 20
-Mcap $1.6B · EV $2.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1805077/000135445726000704/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000704</guid>
-      <pubDate>Mon, 20 Jul 2026 15:22:10 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
     </item>
