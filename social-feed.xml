@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 21:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:34:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TRXA 🔎 Strat Review · Sale
+Engages Post Oak Group for M&amp;A advisory; formal sale process
+Mcap $30M · EV $31M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437750/000147793226004431/trex_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-004431</guid>
+      <pubDate>Tue, 21 Jul 2026 16:34:48 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>sale_process</category>
+    </item>
     <item>
       <title>$GOW 🤝 Merger
 Business combination with Inflection Point Acquisition Corp. V; proxy filed
@@ -635,15 +645,6 @@ Mcap $43M · Tech</title>
       <guid isPermaLink="false">0001989386-26-000010</guid>
       <pubDate>Mon, 20 Jul 2026 20:59:25 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$CBIO 📍 Stake
-Receives 13D/A from Fairmount Funds disclosing 16.5% stake
-Mcap $500M · EV $316M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1253689/000110465926085114/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-085114</guid>
-      <pubDate>Mon, 20 Jul 2026 16:34:31 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
