@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 11:03:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:12:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$AUB 📤 Divestiture
@@ -719,36 +719,6 @@ cash+stk</title>
       <pubDate>Mon, 20 Jul 2026 06:19:58 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DXLG 🤝 Merger
-Board recommends voting against FullBeauty merger; vote pending
-empty
-Mcap $34M · EV $231M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/813298/000119312526308318/d158154ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-308318</guid>
-      <pubDate>Mon, 20 Jul 2026 06:12:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SLAI 📍 Stake
-Controlling shareholder Law Man San Vincent reports 93.9% voting power; ADS ratio changed to 1:700
-Mcap $7M · EV $7M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1517496/000110465926084857/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-084857</guid>
-      <pubDate>Mon, 20 Jul 2026 06:06:32 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$DXLG 🤝 Merger
-Board recommends voting AGAINST FullBeauty merger; cites dilution, debt concerns
-empty
-Mcap $34M · EV $231M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/813298/000119312526308313/d158154ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-308313</guid>
-      <pubDate>Mon, 20 Jul 2026 06:05:09 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>
