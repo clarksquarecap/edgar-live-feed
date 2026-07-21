@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 10:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:13:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EC 🤝 Merger
+Resumes tender offer for 25% of Brava Energia; auction Aug 5
+Mcap $33B · EV $70B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1444406/000129281426003822/ec20260720_6k1.htm</link>
+      <guid isPermaLink="false">0001292814-26-003822</guid>
+      <pubDate>Tue, 21 Jul 2026 05:06:59 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AXIN 🤝 Merger
 Merging with Terra Quantum in $3.5B SPAC deal; Nasdaq ticker TQ
@@ -742,62 +752,6 @@ $2.5 billion deal · stock</title>
       <pubDate>Mon, 20 Jul 2026 05:50:56 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TXNM 🤝 Merger
-Extends merger deadline to May 2027; waives $175M termination fee; $400M term loan to unwind PIPE
-empty
-Mcap $6.3B · EV $12B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1108426/000110842626000042/pnm-20260717.htm</link>
-      <guid isPermaLink="false">0001108426-26-000042</guid>
-      <pubDate>Mon, 20 Jul 2026 05:10:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ATDS 🤝 Merger · Preliminary
-Proposed SPAC merger with FORL; $2M note to XYDD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1068689/000149315226033828/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-033828</guid>
-      <pubDate>Mon, 20 Jul 2026 05:09:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$ALM 📉 Delisting · Voluntary
-Voluntarily delists from TSX effective July 31; continues on Nasdaq
-effective 2026-07-31</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1670061/000149315226033811/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-033811</guid>
-      <pubDate>Mon, 20 Jul 2026 05:07:53 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-    </item>
-    <item>
-      <title>$DRC 🤝 Merger
-Merges with Ribbon Acquisition Corp; DRC holders to own ~86%
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2086412/000121390026079365/ea0254217-19.htm</link>
-      <guid isPermaLink="false">0001213900-26-079365</guid>
-      <pubDate>Mon, 20 Jul 2026 05:07:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$XFLT ⚔️ Proxy
-Urges XFLT shareholders to vote AGAINST new sub-adviser; meeting July 30</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026079315/ea0298457-dfan14a_octagon.htm</link>
-      <guid isPermaLink="false">0001213900-26-079315</guid>
-      <pubDate>Mon, 20 Jul 2026 05:06:55 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$FLEX 🪓 Spinoff
-Spins off Cloud &amp; Power Infrastructure segment; target close Q1 2027</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526308088/d81863ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-308088</guid>
-      <pubDate>Mon, 20 Jul 2026 05:06:34 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
