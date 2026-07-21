@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 21:14:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:14:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RACD 📍 Stake
+Sponsor discloses 17% stake; SPAC post-IPO
+Mcap $94M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2137777/000213778626000012/primary_doc.xml</link>
+      <guid isPermaLink="false">0002137786-26-000012</guid>
+      <pubDate>Tue, 21 Jul 2026 16:14:51 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$DCBO 💧 Capital Return · Self-tender
+Offers to repurchase up to 3.43M shares at $20.40; expires Aug 26
+Mcap $493M · EV $514M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829959/000119312526310543/d114443d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-310543</guid>
+      <pubDate>Tue, 21 Jul 2026 16:14:30 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$MTNB 🤝 Merger
 Filed 425 merger communication
@@ -605,15 +624,6 @@ Mcap $42M · EV $42M · Financials</title>
       <pubDate>Mon, 20 Jul 2026 16:15:34 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$CDAQF 💥 Busted M&amp;A
-Terminates merger with Key Mining; to liquidate and redeem public shares
-Mcap $60M · EV $61M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1851909/000149315226033934/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-033934</guid>
-      <pubDate>Mon, 20 Jul 2026 16:14:04 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
