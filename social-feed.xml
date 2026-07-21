@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 21:06:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:07:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ZSTK 📍 Stake
+CEO Reis-Faria exercises warrants, boosts stake to 37.5%
+Mcap $4M · EV $6M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1790169/000091228226001007/primary_doc.xml</link>
+      <guid isPermaLink="false">0000912282-26-001007</guid>
+      <pubDate>Tue, 21 Jul 2026 16:07:52 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$RDGT 💧 Capital Return · Recap
+Issues 100K super-voting Series A Preferred to Chair for $100; 100 votes/share
+Mcap $190K · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1856084/000121390026080089/ea0298300-6k_ridgetech.htm</link>
+      <guid isPermaLink="false">0001213900-26-080089</guid>
+      <pubDate>Tue, 21 Jul 2026 16:07:01 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
+    <item>
+      <title>$EQH 🤝 Merger
+Acquired by Corebridge; supplements proxy; vote July 30
+Corebridge Financial
+Mcap $14B · EV $12B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1333986/000095014226002137/eh260809035_425-eqh.htm</link>
+      <guid isPermaLink="false">0000950142-26-002137</guid>
+      <pubDate>Tue, 21 Jul 2026 16:06:49 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CRBD 🤝 Merger
 Merging with Equitable Holdings; vote July 30
@@ -573,15 +603,6 @@ Mcap $60M · EV $61M · Financials</title>
       <guid isPermaLink="false">0001493152-26-033934</guid>
       <pubDate>Mon, 20 Jul 2026 16:14:04 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$JSPR 📍 Stake
-Velan Capital increases stake to 9.88% in 13D/A
-Mcap $19M · EV $6M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1788028/000092189526001834/primary_doc.xml</link>
-      <guid isPermaLink="false">0000921895-26-001834</guid>
-      <pubDate>Mon, 20 Jul 2026 16:06:44 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
