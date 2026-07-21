@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 12:14:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 12:21:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$UTZ 📦 Going Private
+Acquired by Intersnack Group for $14.25/share cash; 91% premium; close Q4 2026
+91% prem · ~$2.9B enterprise value deal · cash</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1739566/000119312526309597/d157266ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-309597</guid>
+      <pubDate>Tue, 21 Jul 2026 07:21:21 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ENRD 🤝 Merger
 Acquires Flipturn for ~$38.4M in ADSs + $33M earnout; close Q3 2026
@@ -659,15 +669,6 @@ Mcap $50B · EV $54B · Cons Disc</title>
       <pubDate>Mon, 20 Jul 2026 07:35:16 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$GLXZ 🤝 Merger
-Merger outside date passes; evaluating options with Evolution</title>
-      <link>https://www.sec.gov/Archives/edgar/data/13156/000119312526308385/d101970d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-308385</guid>
-      <pubDate>Mon, 20 Jul 2026 07:15:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
