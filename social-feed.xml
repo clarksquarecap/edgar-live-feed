@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 12:29:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 12:39:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CVKD 🔎 Strat Review · Strat Alts
+Launches structured partnering process for cardiac critical care assets</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1937993/000121390026079824/ea0298669-8k_cadrenal.htm</link>
+      <guid isPermaLink="false">0001213900-26-079824</guid>
+      <pubDate>Tue, 21 Jul 2026 07:39:25 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+    </item>
     <item>
       <title>$UTZ 📦 Going Private
 Acquired by Intersnack for $14.25/share cash; 91% premium; $2.9B EV
@@ -687,17 +696,6 @@ Reduces debt to AXA; initial base cut to $16.7M, full base to $22.3M</title>
       <guid isPermaLink="false">OTC-528782</guid>
       <pubDate>Mon, 20 Jul 2026 07:43:26 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$EBAY 🤝 Merger · Unsolicited
-Faces unsolicited $56B cash-and-stock bid from GameStop; Cohen hints at proxy fight
-$56 billion deal · cash+stk
-Mcap $50B · EV $54B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1065088/000119312526308408/d120615d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-308408</guid>
-      <pubDate>Mon, 20 Jul 2026 07:35:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
