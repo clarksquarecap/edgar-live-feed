@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 13:14:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CCRN 📉 Delisting · Forced
+Forced Nasdaq delisting effective July 21
+Mcap $409M · EV $306M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1141103/000135445726000712/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000712</guid>
+      <pubDate>Tue, 21 Jul 2026 08:21:42 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$IEP 📤 Divestiture
 Sells Pep Boys to Mavis for $700M cash; retains real estate, AAMCO
@@ -606,15 +616,6 @@ Mcap $6.4B · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/750577/000119312526308486/d63138d8k.htm</link>
       <guid isPermaLink="false">0001193125-26-308486</guid>
       <pubDate>Mon, 20 Jul 2026 08:21:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PSNL 🤝 Merger
-Acquired by Tempus AI; stockholder vote pending</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1527753/000119312526308488/d68794d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-308488</guid>
-      <pubDate>Mon, 20 Jul 2026 08:21:14 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
