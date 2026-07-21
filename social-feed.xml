@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 11:21:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:27:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SLAI 📉 Delisting · Forced
+Forced NYSE delisting; trading suspended July 16; expects OTC Markets quote
+Mcap $7M · EV $7M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1517496/000110465926085225/tm2620962d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-085225</guid>
+      <pubDate>Tue, 21 Jul 2026 06:27:46 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$AUB 📤 Divestiture
 Sells Bearing Insurance Group; $32.3M pre-tax gain</title>
@@ -696,17 +706,6 @@ Acquires Caarapó mill from Raízen for ~$148M cash
       <link>https://www.sec.gov/Archives/edgar/data/1499505/000149950526000077/acquisitionofcaarapmill.htm</link>
       <guid isPermaLink="false">0001499505-26-000077</guid>
       <pubDate>Mon, 20 Jul 2026 06:33:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ZWS 🤝 Merger
-Acquires Intellihot, tankless water heater leader; close early Q3
-close Q3 2026
-Mcap $8.0B · EV $8.2B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1439288/000162828026048756/zws-20260720.htm</link>
-      <guid isPermaLink="false">0001628280-26-048756</guid>
-      <pubDate>Mon, 20 Jul 2026 06:26:51 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
