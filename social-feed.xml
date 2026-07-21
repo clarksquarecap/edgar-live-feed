@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 10:56:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 11:03:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AUB 📤 Divestiture
+Sells Bearing Insurance Group; $32.3M pre-tax gain</title>
+      <link>https://www.sec.gov/Archives/edgar/data/883948/000110465926085221/aub-20260721x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-085221</guid>
+      <pubDate>Tue, 21 Jul 2026 06:03:31 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$AMX 🤝 Merger
 Acquires WOW Peru from Liberty Latin America; INDECOPI approval pending
@@ -741,26 +749,6 @@ Mcap $34M · EV $231M · Cons Disc</title>
       <guid isPermaLink="false">0001193125-26-308313</guid>
       <pubDate>Mon, 20 Jul 2026 06:05:09 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$LXP 🤝 Merger
-Acquired by Leopard REIT for $61.20/share cash; go-shop through Aug 28
-cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/910108/000110465926084849/tm2620850d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-084849</guid>
-      <pubDate>Mon, 20 Jul 2026 05:59:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LXP 🤝 Merger
-Acquired by Brookfield/CPP for $61.20 cash; go-shop until Aug 28
-12.3% (30-day VWAP) prem · $5.2B deal · cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/910108/000110465926084850/tm2620850d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-084850</guid>
-      <pubDate>Mon, 20 Jul 2026 05:58:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
