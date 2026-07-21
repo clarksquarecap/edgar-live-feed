@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 21 Jul 2026 19:57:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:09:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SRXH 💧 Capital Return · Buyback
+Declares $0.05/shr special dividend; authorizes up to $20M buyback (50% of float)
+Mcap $31M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1471727/000149315226034081/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-034081</guid>
+      <pubDate>Tue, 21 Jul 2026 15:09:41 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$NOEM 🤝 Merger · Preliminary
 Shareholders approve SPAC extension; negotiating definitive merger with critical mineral target
@@ -591,65 +601,6 @@ Mcap $89M · Healthcare</title>
       <pubDate>Mon, 20 Jul 2026 15:12:55 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$CREG 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 21; OTCQB trading under CREG
-effective 2026-07-21
-Mcap $4M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/721693/000121390026079598/ea0298568-8k_smart.htm</link>
-      <guid isPermaLink="false">0001213900-26-079598</guid>
-      <pubDate>Mon, 20 Jul 2026 15:06:24 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$MRAI 🪙 Debt Restr.
-Restructures debt with JGB Capital and AXA; cuts near-term payments by $26.4M
-Mcap $57M · EV $86M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1844392/000121390026079599/ea0298569-8k_marpai.htm</link>
-      <guid isPermaLink="false">0001213900-26-079599</guid>
-      <pubDate>Mon, 20 Jul 2026 15:06:08 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$PUSA 🤝 Merger
-Amends merger with Autonomous Power; earn-out shares 55M, fully vested
-stock
-Mcap $78M · EV $42M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2009312/000149315226033903/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-033903</guid>
-      <pubDate>Mon, 20 Jul 2026 15:06:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$INMD 🤝 Merger · Preliminary
-Evaluating two buyout proposals: insider group and Steel Partners
-Mcap $951M · EV $419M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1742692/000117891326003540/zk2635711.htm</link>
-      <guid isPermaLink="false">0001178913-26-003540</guid>
-      <pubDate>Mon, 20 Jul 2026 15:05:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$XFLT 👀 Activist
-Faces Octagon activist campaign to block sub-adviser change; vote July 30
-Mcap $265M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026079602/ea0298515-dfan14a_octagon.htm</link>
-      <guid isPermaLink="false">0001213900-26-079602</guid>
-      <pubDate>Mon, 20 Jul 2026 15:04:02 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$ORGN 🧊 Liquidation
-Dissolution vote set for Aug 12; est. $0.61-$3.54/share
-Mcap $5M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1802457/000180245726000052/originmaterials-specialmee.htm</link>
-      <guid isPermaLink="false">0001802457-26-000052</guid>
-      <pubDate>Mon, 20 Jul 2026 15:03:33 -0500</pubDate>
-      <category>LIQUIDATION</category>
     </item>
   </channel>
 </rss>
