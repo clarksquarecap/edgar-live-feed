@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 19:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:13:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BLFS 🤝 Merger
+Acquired by Repligen for $11.25 cash + 0.1442 shares per share
+cash+stk
+Mcap $1.4B · EV $1.3B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/834365/000119312526312409/d150236d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-312409</guid>
+      <pubDate>Wed, 22 Jul 2026 15:13:09 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ORLA 🤝 Merger
 Acquired by Equinox Gold; 99.91% vote approval; close July 31
@@ -722,27 +733,6 @@ Mcap $1M · EV $5M · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-080011</guid>
       <pubDate>Tue, 21 Jul 2026 15:17:25 -0500</pubDate>
       <category>LIQUIDATION</category>
-    </item>
-    <item>
-      <title>$PSNL 🤝 Merger
-Acquires Personalis for $16.25/share cash + stock; exchange ratio 0.3356
-cash+stk
-Mcap $1.4B · EV $1.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1527753/000119312526310289/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-310289</guid>
-      <pubDate>Tue, 21 Jul 2026 15:10:50 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SRXH 💧 Capital Return · Buyback
-Declares $0.05/shr special dividend; authorizes up to $20M buyback (50% of float)
-Mcap $31M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1471727/000149315226034081/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-034081</guid>
-      <pubDate>Tue, 21 Jul 2026 15:09:41 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
