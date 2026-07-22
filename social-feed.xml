@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 20:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:42:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NG 🤝 Merger
+Acquires 100% of Donlin Gold from Paulson in all-share deal
+Paulson &amp; affiliates · stock
+Mcap $2.5B · EV $2.3B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926085844/tm2619701d12_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-085844</guid>
+      <pubDate>Wed, 22 Jul 2026 15:42:54 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ONAR ⚖️ Litigation · Settled
 Settles $1.5M note lawsuit with Feinberg Trust; 18% interest, quarterly payments
@@ -714,58 +725,6 @@ Mcap $4M · EV $9M · Industrials</title>
       <guid isPermaLink="false">0001836875-26-000061</guid>
       <pubDate>Tue, 21 Jul 2026 15:46:54 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$FFBC 🤝 Merger
-Acquires Finward Bancorp for 1.35x shares; close Q4 2026
-stock
-Mcap $3.7B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/708955/000110465926085424/tm2620858d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-085424</guid>
-      <pubDate>Tue, 21 Jul 2026 15:40:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FACT 💥 Busted M&amp;A
-Terminates PAD business combination; will seek new target
-Mcap $259M · EV $258M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028935/000121390026080046/ea0298685-8k_fact2acq.htm</link>
-      <guid isPermaLink="false">0001213900-26-080046</guid>
-      <pubDate>Tue, 21 Jul 2026 15:39:48 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$MIAX ⚖️ Litigation · Won
-Wins patent litigation vs Nasdaq; all claims dismissed with prejudice
-Mcap $4.0B · EV $3.4B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1438472/000162828026049014/miax-20260720.htm</link>
-      <guid isPermaLink="false">0001628280-26-049014</guid>
-      <pubDate>Tue, 21 Jul 2026 15:39:23 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$FNWD 🤝 Merger
-Acquired by First Financial for 1.35x stock; close Q4 2026
-First Financial Bancorp · stock
-Mcap $159M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/919864/000119312526310393/d155212d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-310393</guid>
-      <pubDate>Tue, 21 Jul 2026 15:39:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CRNX 🤝 Merger
-Acquired by Vertex for $85.00 cash/share; vote pending
-cash
-Mcap $8.8B · EV $7.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1658247/000114036126029134/ny20077458x1_prem14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-029134</guid>
-      <pubDate>Tue, 21 Jul 2026 15:38:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
