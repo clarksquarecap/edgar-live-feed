@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 10:06:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:11:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NDRA 🤝 Merger
+Acquired by ASP Isotopes in merger; Nasdaq listing planned
+Mcap $7M · EV $7M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1681682/000147793226004434/aspi_425.htm</link>
+      <guid isPermaLink="false">0001477932-26-004434</guid>
+      <pubDate>Wed, 22 Jul 2026 05:11:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BEP 🤝 Merger
 Merges with BEPC to form BEP Inc.; 1:1 exchange; vote Oct 14
@@ -619,27 +629,6 @@ Mcap $29M · EV $16M · Healthcare</title>
       <guid isPermaLink="false">0001140361-26-029022</guid>
       <pubDate>Tue, 21 Jul 2026 05:19:29 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$EC 🤝 Merger
-Resumes tender offer for 25% of Brava Energia; auction Aug 5
-Mcap $33B · EV $70B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1444406/000129281426003822/ec20260720_6k1.htm</link>
-      <guid isPermaLink="false">0001292814-26-003822</guid>
-      <pubDate>Tue, 21 Jul 2026 05:06:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AXIN 🤝 Merger
-Merging with Terra Quantum in $3.5B SPAC deal; Nasdaq ticker TQ
-Terra Quantum AG · $3.5 billion deal · cash+stk · close H2 2026
-Mcap $280M · EV $280M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2057030/000121390026079739/ea0298517-425_axiom1.htm</link>
-      <guid isPermaLink="false">0001213900-26-079739</guid>
-      <pubDate>Tue, 21 Jul 2026 05:06:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
