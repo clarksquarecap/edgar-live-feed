@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 12:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 12:33:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PAG 📦 Going Private
+Receives going-private proposal from Penske Corp/Mitsui group for cash
+cash
+Mcap $13B · EV $22B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1019849/000119312526311372/primary_doc.xml</link>
+      <guid isPermaLink="false">0001193125-26-311372</guid>
+      <pubDate>Wed, 22 Jul 2026 07:33:06 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$GLXZ 💧 Capital Return · Buyback
 Authorizes $4M buyback after $5.2M termination fee
@@ -601,16 +611,6 @@ Mcap $6M · EV $4M · Healthcare</title>
       <pubDate>Tue, 21 Jul 2026 07:39:25 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$UTZ 📦 Going Private
-Acquired by Intersnack for $14.25/share cash; 91% premium; $2.9B EV
-91% prem · $2.9 billion deal · cash · close Q4 2026
-Mcap $660M · EV $2.3B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1739566/000119312526309598/d104828ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-309598</guid>
-      <pubDate>Tue, 21 Jul 2026 07:29:10 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
   </channel>
 </rss>
