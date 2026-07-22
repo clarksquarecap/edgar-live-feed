@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 20:52:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:58:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HSCS 🤝 Merger
+Acquired by Fortitude Mining in all-stock merger
+stock
+Mcap $8M · EV $8M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026080435/ea0298945-defa14a_heart.htm</link>
+      <guid isPermaLink="false">0001213900-26-080435</guid>
+      <pubDate>Wed, 22 Jul 2026 15:58:05 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NCSM 🤝 Merger
 Acquired by Weatherford for $57.39/share stock (or $47.34 cash+stock); consent pending
@@ -771,16 +782,6 @@ Mcap $265M · Financial Serv</title>
       <guid isPermaLink="false">0001213900-26-080084</guid>
       <pubDate>Tue, 21 Jul 2026 15:59:51 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$FNWD 🤝 Merger
-Acquired by First Financial Bank; merger announced
-Mcap $159M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/919864/000119312526310467/d84944d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-310467</guid>
-      <pubDate>Tue, 21 Jul 2026 15:53:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
