@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 12:40:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 12:46:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PLMUF 🤝 Merger
+Acquires Tactical Resources; 4.45x exchange ratio; close July 28
+stock · close 2026-07-28</title>
+      <link>https://www.businesswire.com/news/home/20260722923536/en/Tactical-Resources-Announces-Exchange-Ratio-for-Business-Combination-with-Plum-Acquisition-Corp.-III</link>
+      <guid isPermaLink="false">OTC-529117</guid>
+      <pubDate>Wed, 22 Jul 2026 07:46:18 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$UTZ 🤝 Merger
 Acquired by Intersnack Group for $14.25 cash per share
@@ -613,16 +623,6 @@ Mcap $409M · EV $306M · Healthcare</title>
       <pubDate>Tue, 21 Jul 2026 08:21:42 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$IEP 📤 Divestiture
-Sells Pep Boys to Mavis for $700M cash; retains real estate, AAMCO
-to Mavis Tire Supply · $700 million deal · close coming months
-Mcap $5.1B · EV $11B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/813762/000110465926085237/tm2620847d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-085237</guid>
-      <pubDate>Tue, 21 Jul 2026 07:43:05 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
