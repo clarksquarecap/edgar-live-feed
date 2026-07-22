@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 20:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:19:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AVNS 🤝 Merger
+Acquired by AIP for $25 cash; vote approved; close by July 27
+cash · close 2026-07-27
+Mcap $1.2B · EV $1.2B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1606498/000160649826000096/avns-20260722.htm</link>
+      <guid isPermaLink="false">0001606498-26-000096</guid>
+      <pubDate>Wed, 22 Jul 2026 15:15:20 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BIDU 🌍 Re-domicile
 Applies for dual-primary listing on HKEX; proposes 10% buyback
@@ -713,36 +724,6 @@ Mcap $288M · EV $259M · Cons Stpl</title>
       <pubDate>Tue, 21 Jul 2026 15:24:18 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$ISSC 🤝 Merger
-Acquires Aydin Displays for $24.5M cash
-$24,500,000 deal · cash · close 2026-07-21
-Mcap $332M · EV $380M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/836690/000110465926085413/tm2620924d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-085413</guid>
-      <pubDate>Tue, 21 Jul 2026 15:18:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GIPR 📤 Divestiture
-Sells Vacaville net-lease property for $2.475M cash
-$2,475,000 deal · close 2026-07-15
-Mcap $720K · EV $89M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1651721/000119312526310331/gipr-20260715.htm</link>
-      <guid isPermaLink="false">0001193125-26-310331</guid>
-      <pubDate>Tue, 21 Jul 2026 15:17:38 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$RBOT 🧊 Liquidation
-Liquidates via assignment for benefit of creditors; dissolution approved
-Mcap $1M · EV $5M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1812173/000121390026080011/ea0298707-8k_vicarious.htm</link>
-      <guid isPermaLink="false">0001213900-26-080011</guid>
-      <pubDate>Tue, 21 Jul 2026 15:17:25 -0500</pubDate>
-      <category>LIQUIDATION</category>
     </item>
   </channel>
 </rss>
