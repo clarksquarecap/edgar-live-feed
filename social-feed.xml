@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 20:59:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:05:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$UTZ 🤝 Merger
@@ -786,34 +786,6 @@ Mcap $14B · EV $32B · Financials</title>
       <pubDate>Tue, 21 Jul 2026 16:06:37 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ZSTK 📍 Stake
-Receives 13D from Michael Heinrich / Zero Gravity Labs disclosing 30.2% stake
-Mcap $4M · EV $6M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1790169/000091228226001003/primary_doc.xml</link>
-      <guid isPermaLink="false">0000912282-26-001003</guid>
-      <pubDate>Tue, 21 Jul 2026 16:00:34 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NNDM 👀 Activist
-Settles with Murchinson; 3 directors resign, 3 appointed, change in control
-Mcap $320M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1643303/000119312526310479/nndm-20260717.htm</link>
-      <guid isPermaLink="false">0001193125-26-310479</guid>
-      <pubDate>Tue, 21 Jul 2026 16:00:14 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>cooperation_agreement</category>
-    </item>
-    <item>
-      <title>$XFLT ⚔️ Proxy
-Faces proxy contest over sub-adviser change; vote July 30
-Mcap $265M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026080084/ea0298744-01_defa14a.htm</link>
-      <guid isPermaLink="false">0001213900-26-080084</guid>
-      <pubDate>Tue, 21 Jul 2026 15:59:51 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
