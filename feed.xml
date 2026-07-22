@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 10:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:13:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · Debt For Equity Swap · NEXT-ChemX Corporation</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657045/000149315226034145/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-034145</guid>
+      <pubDate>Wed, 22 Jul 2026 05:13:50 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>debt_for_equity_swap</category>
+      <category>8-K</category>
+      <scanner:headline>Debt-for-equity swap gives two investors 58% voting control</scanner:headline>
+      <scanner:shortName>NEXT-ChemX Corporation</scanner:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Debt-for-equity swap gives two investors 58% voting control&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;NEXT-ChemX issued 80,000 Series B Preferred shares to two accredited investors in exchange for cancellation of $400,000 of secured debt. The investors now hold 58% of voting power, resulting in a change of control. The company was in default on notes totaling $1.61M and extended maturities on other convertible notes to December 31, 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ann Mollicone and Arastou Mahjoory&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $400,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 58%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; debt cancellation&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-07-17&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1657045/000149315226034145/0001493152-26-034145-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;8-K · Items 1.01, 3.02, 3.03, 5.01, 9.01 · Chemicals / Pharma (2890) · 8k_tier1:1.01,3.03,5.01 · filed 2026-07-22&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙 Debt Restr. · Out Of Court Restructuring · BAK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426003842/bak20260721_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-003842</guid>
+      <pubDate>Wed, 22 Jul 2026 05:12:43 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>out_of_court_restructuring</category>
+      <category>6-K</category>
+      <scanner:headline>Elliott-led bondholders propose R$50B debt restructuring; Braskem rejects dilution terms</scanner:headline>
+      <scanner:shortName>BRASKEM SA</scanner:shortName>
+      <scanner:price>2.32</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Elliott-led bondholders propose R$50B debt restructuring; Braskem rejects dilution terms&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Bondholders including Elliott Management presented Braskem with two restructuring proposals: one involving DIP financing with potential debt-to-equity conversion that would dilute controlling shareholders below 10%, and another extending maturities with full asset collateral. Braskem rejected both as &amp;#39;far from acceptable&amp;#39; but continues negotiations. A court granted a 60-day stay of enforcement actions to facilitate mediation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Braskem S.A., together with its subsidiaries, engages in the manufacture, sale, import, and export of chemicals, petrochemicals, and fuels in Brazil. The company supplies electricity and other inputs to second-generation producers; sells utilities, such as steam, water, compressed air and industrial gases; industrial services; and engages in the production, supply, and sale of electric energy and gas.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Elliott Management and other bondholders&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 60-day court stay expires; next proposal expected&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.32 · Mkt cap $824.6M · EV $12.86B · Fwd EV/EBITDA 7.5x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1071438/000129281426003842/0001292814-26-003842-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BAK&lt;/b&gt; · 6-K · Chemicals / Pharma (2860) · prefill_form:6-K · filed 2026-07-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · NDRA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1681682/000147793226004434/aspi_425.htm</link>
@@ -9510,45 +9547,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.8500 · Mkt cap $9.7M · EV $10.4M · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1394108/000147793226004250/0001477932-26-004250-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SUIC&lt;/b&gt; · 8-K · Items 1.01, 2.01, 5.01, 5.02, 9.01 · Chemicals / Pharma (2860) · 8k_tier1:1.01,2.01,5.01 · filed 2026-07-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · NOTVQ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/720154/000135445726000660/0001354457-26-000660-index.htm</link>
-      <guid isPermaLink="false">0001354457-26-000660</guid>
-      <pubDate>Fri, 10 Jul 2026 13:21:10 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>25-NSE</category>
-      <scanner:headline>Forced Nasdaq delisting effective July 20; stock suspended June 11</scanner:headline>
-      <scanner:shortName>Inotiv</scanner:shortName>
-      <scanner:price>0.0100</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective July 20; stock suspended June 11&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Nasdaq determined to delist Inotiv common stock effective July 20, 2026. The company did not appeal the Staff&amp;#39;s delist determination letter. The stock was suspended on June 11, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Inotiv, Inc. provides nonclinical and analytical drug discovery and development services to the pharmaceutical and medical device industries in the United States, the Netherlands, and internationally. The company operates through two segments, Discovery and Safety Assessment (DSA) and Research Models and Services (RMS).&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-07-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Delisting effective July 20, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $660K · EV $473.2M · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/720154/000135445726000660/0001354457-26-000660-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NOTVQ&lt;/b&gt; · 25-NSE · Engineering / Accounting (8731) · prefill_form:25-NSE · filed 2026-07-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · GOCOQ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1808220/000135445726000659/0001354457-26-000659-index.htm</link>
-      <guid isPermaLink="false">0001354457-26-000659</guid>
-      <pubDate>Fri, 10 Jul 2026 13:03:24 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>25-NSE</category>
-      <scanner:headline>Forced Nasdaq delisting effective July 20; stock suspended June 16</scanner:headline>
-      <scanner:shortName>GoHealth</scanner:shortName>
-      <scanner:price>0.3900</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective July 20; stock suspended June 16&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;GoHealth&amp;#39;s Class A common stock will be delisted from Nasdaq effective July 20, 2026, after Nasdaq staff determined the company no longer qualified for listing under Rules 5101, 5110(b), and IM-5101-1. The company did not appeal the delisting determination, and trading was suspended on June 16, 2026. The stock will continue trading on OTC markets under the ticker GOCOQ.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; GoHealth, Inc. operates as a health insurance marketplace and Medicare-focused digital health company in the United States. The company offers Medicare plans, including Medicare advantage, Medicare supplement, prescription drug plans, and special needs plans. It also operates a technology platform that leverages machine-learning algorithms of insurance purchasing behavior to reimagine the process of matching a health plan for a consumer’s specific needs.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; empty&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Delisting effective July 20, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.3900 · Mkt cap $6.2M · EV $583.5M · Financials / Insurance&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1808220/000135445726000659/0001354457-26-000659-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GOCOQ&lt;/b&gt; · 25-NSE · Insurance Agents (6411) · prefill_form:25-NSE · filed 2026-07-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
