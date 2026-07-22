@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 13:18:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 13:24:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EMPG 📉 Delisting · Forced
@@ -707,16 +707,6 @@ Mcap $76M · EV $75M · Financials</title>
       <pubDate>Tue, 21 Jul 2026 09:46:01 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CCRN 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 21
-Mcap $409M · EV $306M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1141103/000135445726000712/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000712</guid>
-      <pubDate>Tue, 21 Jul 2026 08:21:42 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
