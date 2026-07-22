@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 12:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 12:08:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$PAG 📦 Going Private
@@ -633,26 +633,6 @@ Mcap $660M · EV $2.3B · Cons Stpl</title>
       <pubDate>Tue, 21 Jul 2026 07:21:21 -0500</pubDate>
       <category>GOING_PRIVATE</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ENRD 🤝 Merger
-Acquires Flipturn for ~$38.4M in ADSs + $33M earnout; close Q3 2026
-stock
-Mcap $152B · EV $143B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2095096/000149315226034002/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-034002</guid>
-      <pubDate>Tue, 21 Jul 2026 07:03:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CLIK 🪓 Spinoff
-Plans spin-off of logistics division; standalone listing
-Mcap $13M · EV $15M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2020027/000149315226034006/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-034006</guid>
-      <pubDate>Tue, 21 Jul 2026 07:03:25 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
