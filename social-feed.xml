@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 11:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:32:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MGY 🤝 Merger
+Funds WildFire Intermediate acquisition with $1.27B equity + $500M notes
+cash
+Mcap $4.6B · EV $4.9B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1698990/000110465926085611/tm2620557d5_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-085611</guid>
+      <pubDate>Wed, 22 Jul 2026 06:32:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NG 🤝 Merger
 Acquired by New NovaGold in all-share deal; Paulson contributes Donlin stake
@@ -612,16 +623,6 @@ Mcap $13M · EV $15M · Industrials</title>
       <guid isPermaLink="false">0001493152-26-034006</guid>
       <pubDate>Tue, 21 Jul 2026 07:03:25 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$SLAI 📉 Delisting · Forced
-Forced NYSE delisting; trading suspended July 16; expects OTC Markets quote
-Mcap $7M · EV $7M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1517496/000110465926085225/tm2620962d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-085225</guid>
-      <pubDate>Tue, 21 Jul 2026 06:27:46 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
