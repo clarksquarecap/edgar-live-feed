@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 12:39:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 12:40:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$UTZ 🤝 Merger
+Acquired by Intersnack Group for $14.25 cash per share
+cash · close H2 2026
+Mcap $660M · EV $2.3B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1739566/000119312526311373/d152441d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-311373</guid>
+      <pubDate>Wed, 22 Jul 2026 07:40:06 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$APXT 🤝 Merger
 Acquires TECfusions for $4B all-stock; combined co to trade as TECF
@@ -612,16 +623,6 @@ Mcap $5.1B · EV $11B · Industrials</title>
       <guid isPermaLink="false">0001104659-26-085237</guid>
       <pubDate>Tue, 21 Jul 2026 07:43:05 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CVKD 🔎 Strat Review · Strat Alts
-Launches structured partnering process for cardiac critical care assets
-Mcap $6M · EV $4M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1937993/000121390026079824/ea0298669-8k_cadrenal.htm</link>
-      <guid isPermaLink="false">0001213900-26-079824</guid>
-      <pubDate>Tue, 21 Jul 2026 07:39:25 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
