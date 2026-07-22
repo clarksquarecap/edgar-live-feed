@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 06:41:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:04:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BIP 🤝 Merger
+Merges with BIPC into BIP Inc. via 1:1 exchange; vote Oct 14
+stock · close Q4 2026
+Mcap $18B · EV $114B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1406234/000117184326004805/f6k_072126.htm</link>
+      <guid isPermaLink="false">0001171843-26-004805</guid>
+      <pubDate>Wed, 22 Jul 2026 05:04:57 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ORBN 🤝 Merger
 Acquired by Gesa Credit Union for ~$43-$45/share cash
@@ -618,24 +629,6 @@ Mcap $280M · EV $280M · Financials</title>
       <pubDate>Tue, 21 Jul 2026 05:06:17 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NNDM ⚔️ Proxy
-Settles proxy contest with Nano Dimension; 3 directors appointed
-Mcap $314M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1643303/000092189526001842/dfan14a13459002_07212026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001842</guid>
-      <pubDate>Tue, 21 Jul 2026 05:04:34 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$FLEX 🪓 Spinoff
-Spins off cloud and power infrastructure segment; 65-75% growth, early 2027
-Mcap $44B · EV $46B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526309205/d109245ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-309205</guid>
-      <pubDate>Tue, 21 Jul 2026 05:04:09 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
