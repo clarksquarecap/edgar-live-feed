@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 20:28:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:34:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NG 🤝 Merger
+Acquired by New NovaGold in 1:1 stock swap; Paulson contributes Donlin interests
+stock
+Mcap $2.5B · EV $2.3B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926085830/tm2619701d3_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-085830</guid>
+      <pubDate>Wed, 22 Jul 2026 15:34:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DOMO 📤 Divestiture
 Sells AI and Data Platform Business to Progress for ~$400M cash
@@ -725,37 +736,6 @@ Mcap $8.8B · EV $7.6B · Healthcare</title>
       <pubDate>Tue, 21 Jul 2026 15:38:47 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$AWI 💧 Capital Return · Buyback
-Increases buyback authorization by $800M to $2.5B; extends to 2029
-Mcap $6.5B · EV $7.0B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/7431/000119312526310382/awi-20260721.htm</link>
-      <guid isPermaLink="false">0001193125-26-310382</guid>
-      <pubDate>Tue, 21 Jul 2026 15:32:35 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$TGL 🤝 Merger
-Acquires 80% of Cigar Secret for RM2.5M (~$612k); close by Aug 31
-Cigar Secret Sdn. Bhd. · 611955 deal · cash · close 2026-08-31
-Mcap $6M · EV $3M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1905956/000121390026080028/ea0298752-8k_treasure.htm</link>
-      <guid isPermaLink="false">0001213900-26-080028</guid>
-      <pubDate>Tue, 21 Jul 2026 15:32:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DKI 💧 Capital Return · Recap
-EGM: 10,000x authorized share increase, 7.5x Class B voting rights, reverse split up to 3,000:1
-Mcap $6M · EV $4M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2058584/000149315226034094/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-034094</guid>
-      <pubDate>Tue, 21 Jul 2026 15:31:43 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
