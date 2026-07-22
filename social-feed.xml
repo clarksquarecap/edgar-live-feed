@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 10:43:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 11:07:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NG 🤝 Merger
+Acquired by New NovaGold in all-share deal; Paulson contributes Donlin stake
+stock · close Q4 2026
+Mcap $2.5B · EV $2.3B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926085601/tm2619701d5_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-085601</guid>
+      <pubDate>Wed, 22 Jul 2026 06:07:34 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TEL 🤝 Merger
 Acquires Astrodyne TDI for $1.4B cash; close by year-end
@@ -611,15 +622,6 @@ Mcap $7M · EV $7M · Tech</title>
       <pubDate>Tue, 21 Jul 2026 06:27:46 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$AUB 📤 Divestiture
-Sells Bearing Insurance Group; $32.3M pre-tax gain
-Mcap $6.0B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/883948/000110465926085221/aub-20260721x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-085221</guid>
-      <pubDate>Tue, 21 Jul 2026 06:03:31 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
