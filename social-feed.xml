@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 15:43:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 16:24:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MAJI 🤝 Merger
+Acquires Island 40 Group for $12.75M cash+preferred stock
+$12.75 million deal · cash+stk
+Mcap $430K · EV $1M · Healthcare</title>
+      <link>https://au.marketscreener.com/news/nextel-medical-corp-amends-previously-announced-acquisition-to-acquire-island-40-group-and-full-sub-ce7f51d9dc8df525</link>
+      <guid isPermaLink="false">OTC-529166</guid>
+      <pubDate>Wed, 22 Jul 2026 11:24:45 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TOPS 📤 Divestiture
 Decides to sell M/Y Para Bellvm; exits megayacht sector
@@ -686,15 +697,6 @@ Mcap $504M · EV $503M · Cons Disc</title>
       <pubDate>Tue, 21 Jul 2026 11:38:45 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$CPBI 👀 Activist
-Proposes mandatory 10% annual buyback when stock below book value; vote Aug 25
-Mcap $78M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1979332/000092189526001843/defc14a10318031_07212026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001843</guid>
-      <pubDate>Tue, 21 Jul 2026 11:19:18 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
