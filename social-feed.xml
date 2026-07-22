@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 22 Jul 2026 21:05:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:11:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BHR 👀 Activist
+Faces Al Shams activist campaign; Blackwells backs self-management plan
+Mcap $146M · EV $1.6B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574085/000110465926085884/tm2621136d1_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-085884</guid>
+      <pubDate>Wed, 22 Jul 2026 16:11:51 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$UTZ 🤝 Merger
 Acquired by Rice family/UM Partners in merger; 47.5% combined stake disclosed
@@ -743,47 +752,6 @@ Mcap $2M · EV $810K · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1582554/000149315226034108/form425.htm</link>
       <guid isPermaLink="false">0001493152-26-034108</guid>
       <pubDate>Tue, 21 Jul 2026 16:14:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ZSTK 📍 Stake
-CEO Reis-Faria exercises warrants, boosts stake to 37.5%
-Mcap $4M · EV $6M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1790169/000091228226001007/primary_doc.xml</link>
-      <guid isPermaLink="false">0000912282-26-001007</guid>
-      <pubDate>Tue, 21 Jul 2026 16:07:52 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RDGT 💧 Capital Return · Recap
-Issues 100K super-voting Series A Preferred to Chair for $100; 100 votes/share
-Mcap $190K · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1856084/000121390026080089/ea0298300-6k_ridgetech.htm</link>
-      <guid isPermaLink="false">0001213900-26-080089</guid>
-      <pubDate>Tue, 21 Jul 2026 16:07:01 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-    </item>
-    <item>
-      <title>$EQH 🤝 Merger
-Acquired by Corebridge; supplements proxy; vote July 30
-Corebridge Financial
-Mcap $14B · EV $12B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1333986/000095014226002137/eh260809035_425-eqh.htm</link>
-      <guid isPermaLink="false">0000950142-26-002137</guid>
-      <pubDate>Tue, 21 Jul 2026 16:06:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CRBD 🤝 Merger
-Merging with Equitable Holdings; vote July 30
-stock
-Mcap $14B · EV $32B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1889539/000114036126029153/ef20078276_425.htm</link>
-      <guid isPermaLink="false">0001140361-26-029153</guid>
-      <pubDate>Tue, 21 Jul 2026 16:06:37 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
