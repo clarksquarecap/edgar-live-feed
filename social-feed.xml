@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 12:16:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 12:28:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BPOP 💧 Capital Return · Buyback
@@ -791,16 +791,6 @@ Mcap $13B · EV $22B · Cons Disc</title>
       <guid isPermaLink="false">0001193125-26-311372</guid>
       <pubDate>Wed, 22 Jul 2026 07:33:06 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$GLXZ 💧 Capital Return · Buyback
-Authorizes $4M buyback after $5.2M termination fee
-Mcap $40M · EV $74M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/13156/000119312526311363/d89579d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-311363</guid>
-      <pubDate>Wed, 22 Jul 2026 07:26:31 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
