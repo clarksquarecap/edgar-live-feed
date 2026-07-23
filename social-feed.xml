@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 13:00:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 13:06:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AXTA 🤝 Merger
+Amends merger with AkzoNobel; annual director re-election after 3 years
+Akzo Nobel
+Mcap $6.9B · EV $9.5B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1616862/000119312526313418/d135458d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-313418</guid>
+      <pubDate>Thu, 23 Jul 2026 08:06:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CNTN 📤 Divestiture
 Sells Gravitas Life Sciences to Gravitas Collective for $3.5M note + milestones
@@ -760,27 +771,6 @@ Mcap $115M · Healthcare</title>
       <guid isPermaLink="false">0000921895-26-001851</guid>
       <pubDate>Wed, 22 Jul 2026 08:12:21 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$TGCB 📤 Divestiture
-Sells VigilAigent to Intrusion; $3.5M ARR
-to Intrusion Inc. (INTZ) · close 2026-06-29
-Mcap $3M · Tech</title>
-      <link>https://www.morningstar.com/news/accesswire/1184351msn/intrusion-inc-announces-acquisition-of-vigilaigent-to-create-an-ai-native-cybersecurity-platform</link>
-      <guid isPermaLink="false">OTC-529127</guid>
-      <pubDate>Wed, 22 Jul 2026 08:06:13 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$RGEN 🤝 Merger
-Acquires BioLife Solutions for $11.25 cash + 0.1442 shares per share
-cash+stk · close Q4 2026
-Mcap $7.7B · EV $7.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/730272/000119312526311411/d141685d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-311411</guid>
-      <pubDate>Wed, 22 Jul 2026 08:05:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
