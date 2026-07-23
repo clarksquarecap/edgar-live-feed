@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 20:58:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 21:05:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AUUD 🤝 Merger
+Acquired by McCarthy Finney in reverse merger; vote late Aug
+stock
+Mcap $6M · EV $5M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1554818/000168316826005735/auddia_8k.htm</link>
+      <guid isPermaLink="false">0001683168-26-005735</guid>
+      <pubDate>Thu, 23 Jul 2026 16:05:57 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OPTT 🤝 Merger
 Acquires subsea tech assets from Columbia Power for 10.98M shares valued at $2.9M
@@ -572,27 +583,6 @@ Mcap $146M · EV $1.6B · Real Estate</title>
       <guid isPermaLink="false">0001104659-26-085884</guid>
       <pubDate>Wed, 22 Jul 2026 16:11:51 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$UTZ 🤝 Merger
-Acquired by Rice family/UM Partners in merger; 47.5% combined stake disclosed
-empty
-Mcap $1.2B · EV $2.8B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1739566/000110465926085854/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-085854</guid>
-      <pubDate>Wed, 22 Jul 2026 15:59:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DVLT 🤝 Merger
-Secures $833K bridge loan to fund NYIAX merger
-Mcap $315M · EV $323M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1682149/000110465926085856/tm2621112d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-085856</guid>
-      <pubDate>Wed, 22 Jul 2026 15:58:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
