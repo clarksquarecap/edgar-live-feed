@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 10:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:13:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TJGC 💧 Capital Return · Recap
+Proposes dual-class share structure; EGM Aug 6
+Mcap $50M · EV $52M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969928/000118518526003098/tjgc6k072126.htm</link>
+      <guid isPermaLink="false">0001185185-26-003098</guid>
+      <pubDate>Thu, 23 Jul 2026 05:13:36 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
+    <item>
+      <title>$KB 💧 Capital Return · Self-tender
+KRW 700B self-tender via trust; shares to be cancelled
+Mcap $42B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1445930/000119312526313202/d172178d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-313202</guid>
+      <pubDate>Thu, 23 Jul 2026 05:12:43 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$BBCQ 🤝 Merger
 Amends Pasqal merger; LTIP revised to 10% of post-close shares
@@ -764,16 +784,6 @@ Mcap $61B · EV $66B · Tech</title>
       <pubDate>Wed, 22 Jul 2026 05:43:26 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BAK 🪙 Debt Restr.
-Elliott-led bondholders propose R$50B debt restructuring; Braskem rejects dilution terms
-Mcap $825M · EV $13B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426003842/bak20260721_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-003842</guid>
-      <pubDate>Wed, 22 Jul 2026 05:12:43 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>out_of_court_restructuring</category>
     </item>
   </channel>
 </rss>
