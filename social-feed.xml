@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 20:33:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:40:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FSEA 🤝 Merger
+Acquired by Cambridge Financial Group for $17.25 cash; vote Aug 27
+47% prem · $80.9M deal · cash · close Q3 2026
+Mcap $74M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1943802/000119312526314200/d155500ddefm14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-314200</guid>
+      <pubDate>Thu, 23 Jul 2026 15:40:41 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BHR 👀 Activist
 Faces Al Shams activist campaign over $480M termination fee; demands annual meeting vote
@@ -667,47 +678,6 @@ Mcap $2.5B · EV $2.3B · Materials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926085844/tm2619701d12_defa14a.htm</link>
       <guid isPermaLink="false">0001104659-26-085844</guid>
       <pubDate>Wed, 22 Jul 2026 15:42:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ONAR ⚖️ Litigation · Settled
-Settles $1.5M note lawsuit with Feinberg Trust; 18% interest, quarterly payments
-Mcap $230K · EV $6M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1682265/000147793226004451/onar_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-004451</guid>
-      <pubDate>Wed, 22 Jul 2026 15:35:48 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$INM 🤝 Merger
-Acquires Mentari Therapeutics; merger pending
-Mcap $7M · EV $2M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1728328/000121390026080423/ea0298834-425_inmed.htm</link>
-      <guid isPermaLink="false">0001213900-26-080423</guid>
-      <pubDate>Wed, 22 Jul 2026 15:35:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CELU 📉 Delisting · Forced
-Warrants forced delisted from Nasdaq
-Mcap $23M · EV $92M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1752828/000135445726000719/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000719</guid>
-      <pubDate>Wed, 22 Jul 2026 15:34:54 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$NG 🤝 Merger
-Acquired by New NovaGold in 1:1 stock swap; Paulson contributes Donlin interests
-stock
-Mcap $2.5B · EV $2.3B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926085830/tm2619701d3_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-085830</guid>
-      <pubDate>Wed, 22 Jul 2026 15:34:36 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
