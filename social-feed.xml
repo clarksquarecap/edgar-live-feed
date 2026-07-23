@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 12:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 12:35:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ESQ 🤝 Merger
+Acquires Signature Bancorporation; closing set for Aug 1, 2026
+empty · close 2026-08-01
+Mcap $991M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1531031/000110465926086092/esq-20260723x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-086092</guid>
+      <pubDate>Thu, 23 Jul 2026 07:35:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BPOP 💧 Capital Return · Buyback
 Authorizes $1B buyback; raises quarterly dividend to $0.90
@@ -781,16 +792,6 @@ Mcap $463M · EV $462M · Financials</title>
       <pubDate>Wed, 22 Jul 2026 07:39:24 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$PAG 📦 Going Private
-Receives going-private proposal from Penske Corp/Mitsui group for cash
-cash
-Mcap $13B · EV $22B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1019849/000119312526311372/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-311372</guid>
-      <pubDate>Wed, 22 Jul 2026 07:33:06 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
   </channel>
 </rss>
