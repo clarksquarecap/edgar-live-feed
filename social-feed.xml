@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 12:41:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 12:47:39 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HFFG 🤝 Merger
+Acquires Searay Foods for CAD$47.9M (5x EBITDA); cash+stock; close Q3 2026
+CAD$47,921,740 deal · cash+stk
+Mcap $86M · EV $298M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1680873/000168087326000051/hffg-20260717.htm</link>
+      <guid isPermaLink="false">0001680873-26-000051</guid>
+      <pubDate>Thu, 23 Jul 2026 07:47:39 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GENRF 📉 Delisting · Voluntary
 Voluntarily delists from TSXV; lists on CSE effective July 23
@@ -792,16 +803,6 @@ Mcap $2M · EV $3M · Tech</title>
       <pubDate>Wed, 22 Jul 2026 07:52:32 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$PLMUF 🤝 Merger
-Acquires Tactical Resources; 4.45x exchange ratio; close July 28
-stock · close 2026-07-28</title>
-      <link>https://www.businesswire.com/news/home/20260722923536/en/Tactical-Resources-Announces-Exchange-Ratio-for-Business-Combination-with-Plum-Acquisition-Corp.-III</link>
-      <guid isPermaLink="false">OTC-529117</guid>
-      <pubDate>Wed, 22 Jul 2026 07:46:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
