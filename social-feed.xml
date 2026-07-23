@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 21:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 21:21:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XFLT ⚔️ Proxy
+Vote FOR King Street sub-advisor; special meeting pending
+Mcap $266M · Financial Serv</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026080997/ea0299095-01_defa14a.htm</link>
+      <guid isPermaLink="false">0001213900-26-080997</guid>
+      <pubDate>Thu, 23 Jul 2026 16:21:21 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$CWCPBDC 📍 Stake
 Issues 11,287 shares to UAW Trust at $877.09/share; stake now 99%</title>
@@ -582,47 +591,6 @@ Mcap $13M · EV $44M · Industrials</title>
       <pubDate>Wed, 22 Jul 2026 16:25:31 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$PAG 🤝 Merger · Unsolicited
-Receives $210/share unsolicited take-private bid from Penske Corp &amp; Mitsui
-cash
-Mcap $13B · EV $22B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1019849/000162828026049230/pag-20260722.htm</link>
-      <guid isPermaLink="false">0001628280-26-049230</guid>
-      <pubDate>Wed, 22 Jul 2026 16:18:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$CYCN 🤝 Merger
-Acquires Korsana Biosciences for ~1.4735 shares per Korsana share; $380M pre-closing financing
-stock
-Mcap $16M · EV $13M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1755237/000119312526312558/d111069ds4a.htm</link>
-      <guid isPermaLink="false">0001193125-26-312558</guid>
-      <pubDate>Wed, 22 Jul 2026 16:18:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DRC 🤝 Merger
-Merging with Ribbon SPAC; DRC holders to own ~86% of Pubco
-Ribbon Acquisition · stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2086412/000121390026080459/ea0254217-21.htm</link>
-      <guid isPermaLink="false">0001213900-26-080459</guid>
-      <pubDate>Wed, 22 Jul 2026 16:18:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DREM 🌑 Going Dark
-Terminates SEC registration; 77 holders of record
-Mcap $330K · EV $3M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1518336/000166357726000232/dream_form15a.htm</link>
-      <guid isPermaLink="false">0001663577-26-000232</guid>
-      <pubDate>Wed, 22 Jul 2026 16:18:05 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>
