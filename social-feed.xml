@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 11:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 11:09:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VC 💧 Capital Return · ASR
+Repurchases $200M of common stock via ASR; settlement Q4 2026
+Mcap $2.8B · EV $2.6B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1111335/000111133526000045/vc-20260723.htm</link>
+      <guid isPermaLink="false">0001111335-26-000045</guid>
+      <pubDate>Thu, 23 Jul 2026 06:09:29 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>accelerated_share_repurchase</category>
+    </item>
     <item>
       <title>$COLD 📤 Divestiture
 Plans sale of two automated facilities; $305-320M impairment
@@ -811,17 +821,6 @@ Mcap $4.6B · EV $4.9B · Energy</title>
       <link>https://www.sec.gov/Archives/edgar/data/1698990/000110465926085611/tm2620557d5_8k.htm</link>
       <guid isPermaLink="false">0001104659-26-085611</guid>
       <pubDate>Wed, 22 Jul 2026 06:32:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NG 🤝 Merger
-Acquired by New NovaGold in all-share deal; Paulson contributes Donlin stake
-stock · close Q4 2026
-Mcap $2.5B · EV $2.3B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926085601/tm2619701d5_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-085601</guid>
-      <pubDate>Wed, 22 Jul 2026 06:07:34 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
