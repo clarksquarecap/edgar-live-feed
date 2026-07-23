@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 20:13:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:15:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VREOF 🤝 Merger
+Acquires Cannabist's cannabis assets in 5 states for up to $35M cash+debt
+up to $35,000,000 deal · cash+debt · close 2026-2027
+Mcap $449M · EV $727M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1771706/000110465926086256/tm2621146d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-086256</guid>
+      <pubDate>Thu, 23 Jul 2026 15:14:23 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$SGRP 📉 Delisting · Forced
+Forced Nasdaq delisting effective July 23; trades OTCQB under SGRP
+Mcap $7M · EV $34M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1004989/000143774926024308/sgrp20260722_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-024308</guid>
+      <pubDate>Thu, 23 Jul 2026 15:13:51 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$CRSF 💧 Capital Return
 Repurchases 20M shares from Partum for $1.5M loan assignment
@@ -724,16 +745,6 @@ Mcap $1.2B · EV $1.2B · Healthcare</title>
       <pubDate>Wed, 22 Jul 2026 15:15:20 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BIDU 🌍 Re-domicile
-Applies for dual-primary listing on HKEX; proposes 10% buyback
-Mcap $37B · EV $37B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1329099/000119312526312395/d17254d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-312395</guid>
-      <pubDate>Wed, 22 Jul 2026 15:14:26 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>dual_primary_listing</category>
     </item>
   </channel>
 </rss>
