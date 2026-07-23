@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 20:15:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:25:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RNAZ 📍 Stake
+Receives 13D/A from CK Life Sciences; 9.9% stake after conversion
+Mcap $8M · EV $138M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829635/000110465926086266/primary_doc.xml</link>
+      <guid isPermaLink="false">0001104659-26-086266</guid>
+      <pubDate>Thu, 23 Jul 2026 15:25:08 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$VREOF 🤝 Merger
 Acquires Cannabist's cannabis assets in 5 states for up to $35M cash+debt
@@ -734,17 +743,6 @@ Mcap $7.9B · EV $9.8B · Industrials</title>
       <pubDate>Wed, 22 Jul 2026 15:25:42 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$AVNS 🤝 Merger
-Acquired by AIP for $25 cash; vote approved; close by July 27
-cash · close 2026-07-27
-Mcap $1.2B · EV $1.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1606498/000160649826000096/avns-20260722.htm</link>
-      <guid isPermaLink="false">0001606498-26-000096</guid>
-      <pubDate>Wed, 22 Jul 2026 15:15:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
