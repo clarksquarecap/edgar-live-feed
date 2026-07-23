@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 12:48:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 12:54:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CNTN 📤 Divestiture
@@ -792,36 +792,6 @@ Mcap $7.7B · EV $7.6B · Healthcare</title>
       <pubDate>Wed, 22 Jul 2026 07:59:36 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$PSIG 💧 Capital Return · Recap
-Proposes 160x increase in authorized shares to 10B; vote Aug 18
-Mcap $19M · EV $10M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1997201/000121390026080211/ea0298667-01.htm</link>
-      <guid isPermaLink="false">0001213900-26-080211</guid>
-      <pubDate>Wed, 22 Jul 2026 07:53:07 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-    </item>
-    <item>
-      <title>$KCA-UN 🤝 Merger
-Acquires Nth Cycle; combined co to trade as NTH; close Q4 2026
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2102713/000119312526311391/d140185d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-311391</guid>
-      <pubDate>Wed, 22 Jul 2026 07:52:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DAIC 💧 Capital Return · Recap
-Raises $6M via convertible preferred; investors gain board control
-Mcap $2M · EV $3M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026080210/ea0298826-8k_cidhold.htm</link>
-      <guid isPermaLink="false">0001213900-26-080210</guid>
-      <pubDate>Wed, 22 Jul 2026 07:52:32 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
