@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 21:06:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 21:13:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SAFT 🤝 Merger
+Acquired by Mapfre for $105/share cash; close Q1 2027
+44% prem · $1.54 billion deal · cash
+Mcap $1.1B · EV $1.1B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1172052/000110465926086335/tm2621207d4_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-086335</guid>
+      <pubDate>Thu, 23 Jul 2026 16:13:03 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OVV 📤 Divestiture
 Sells Anadarko assets for $2.82B cash; Q2 results beat
@@ -583,15 +594,6 @@ Mcap $330K · EV $3M · Cons Disc</title>
       <guid isPermaLink="false">0001663577-26-000232</guid>
       <pubDate>Wed, 22 Jul 2026 16:18:05 -0500</pubDate>
       <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$BHR 👀 Activist
-Faces Al Shams activist campaign; Blackwells backs self-management plan
-Mcap $146M · EV $1.6B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000110465926085884/tm2621136d1_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-085884</guid>
-      <pubDate>Wed, 22 Jul 2026 16:11:51 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
