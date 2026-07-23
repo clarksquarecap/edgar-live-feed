@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 11:57:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 12:04:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CNTMF 📤 Divestiture
@@ -791,26 +791,6 @@ Mcap $40M · EV $74M · Cons Disc</title>
       <pubDate>Wed, 22 Jul 2026 07:26:31 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$PAG 📦 Going Private
-Proposes $210/share take-private of Penske Automotive
-$11.0B deal · cash
-Mcap $13B · EV $22B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1019849/000119312526311337/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-311337</guid>
-      <pubDate>Wed, 22 Jul 2026 07:02:45 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$MKDW 🤝 Merger
-Acquires Landvision Inc. for undisclosed terms; financials filed
-Mcap $57M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1991332/000149315226034175/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-034175</guid>
-      <pubDate>Wed, 22 Jul 2026 07:02:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
