@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 10:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:12:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BBCQ 🤝 Merger
+Amends Pasqal merger; LTIP revised to 10% of post-close shares
+Pasqal Holding SAS
+Mcap $394M · EV $393M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2088295/000121390026080575/ea0298596-8k425_bleichro2.htm</link>
+      <guid isPermaLink="false">0001213900-26-080575</guid>
+      <pubDate>Thu, 23 Jul 2026 05:12:07 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BAM 🤝 Merger
 Acquires Aypa Power for ~$7B EV ($3B equity) from Blackstone
@@ -763,16 +774,6 @@ Mcap $825M · EV $13B · Materials</title>
       <pubDate>Wed, 22 Jul 2026 05:12:43 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
       <category>out_of_court_restructuring</category>
-    </item>
-    <item>
-      <title>$NDRA 🤝 Merger
-Acquired by ASP Isotopes in merger; Nasdaq listing planned
-Mcap $7M · EV $7M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1681682/000147793226004434/aspi_425.htm</link>
-      <guid isPermaLink="false">0001477932-26-004434</guid>
-      <pubDate>Wed, 22 Jul 2026 05:11:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
