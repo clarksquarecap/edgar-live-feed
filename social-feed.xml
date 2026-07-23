@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 23 Jul 2026 16:44:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 16:57:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$NVVE 📉 Delisting · Forced
@@ -749,16 +749,6 @@ Mcap $5.2B · EV $4.8B · Materials</title>
       <pubDate>Wed, 22 Jul 2026 13:19:07 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$GSK ⚖️ Litigation · Won
-FDA approves Jideytro for ROS1+ NSCLC; ahead of PDUFA date
-Mcap $101B · EV $121B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1131399/000165495426006789/a4747n.htm</link>
-      <guid isPermaLink="false">0001654954-26-006789</guid>
-      <pubDate>Wed, 22 Jul 2026 11:56:04 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
