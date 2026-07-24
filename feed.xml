@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 24 Jul 2026 20:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 20:30:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · QBTS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1907982/000190798226000114/form25.htm</link>
+      <guid isPermaLink="false">0001907982-26-000114</guid>
+      <pubDate>Fri, 24 Jul 2026 15:30:51 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>25</category>
+      <scanner:headline>Voluntarily delists from NYSE effective July 24</scanner:headline>
+      <scanner:shortName>D-Wave Quantum</scanner:shortName>
+      <scanner:price>17.10</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Voluntarily delists from NYSE effective July 24&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Voluntarily delisted its common stock from the New York Stock Exchange effective July 24, 2026. The company filed Form 25 under Rule 12d2-2(c) to withdraw its listing and registration. Shares will trade on the OTC market going forward.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; D-Wave Quantum Inc. engages in the development and delivery of quantum computing systems, software, and services worldwide. It provides Advantage and Advantage 2 quantum computers; Ocean, a suite of open-source tools; and Leap quantum cloud service, a cloud-based service that provides real-time access to quantum computers and quantum hybrid solvers; and secure access and data protection services, as well as Ocean software development kit (SDK), a Python-based SDK for developers to learn and buil…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $17.10 · Mkt cap $6.33B · EV $5.79B · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1907982/000190798226000114/0001907982-26-000114-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QBTS&lt;/b&gt; · 25 · Business Services (7374) · prefill_form:25 · filed 2026-07-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚱️ Liquidation · ELME</title>
       <link>https://www.sec.gov/Archives/edgar/data/104894/000010489426000091/elme-20260723.htm</link>
@@ -9563,26 +9582,6 @@
 &lt;p&gt;&lt;i&gt;Mkt cap $12.2M · EV $15.2M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1652958/000168316826005551/0001683168-26-005551-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EDGM&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Health Services (8082) · 8k_tier1:8.01 · filed 2026-07-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · HUN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1307954/000110465926083890/tm2620556d1_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-083890</guid>
-      <pubDate>Wed, 15 Jul 2026 15:21:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Merging with Olin; stockholder vote Aug 25</scanner:headline>
-      <scanner:shortName>Huntsman</scanner:shortName>
-      <scanner:price>11.13</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Merging with Olin; stockholder vote Aug 25&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;425&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Huntsman Corporation manufactures and sells diversified organic chemical products worldwide. The company operates in three segments: Polyurethanes, Performance Products, and Advanced Materials. The Polyurethanes segment offers polyurethane chemicals, including methyl diphenyl diisocyanate, polyether and polyester polyols, and thermoplastic polyurethane; and aniline, benzene, nitrobenzene and other co-products.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Olin Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder vote on August 25, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $11.13 · Mkt cap $1.95B · EV $4.29B · Fwd EV/EBITDA 10.4x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1307954/000110465926083890/0001104659-26-083890-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HUN&lt;/b&gt; · 425 · Chemicals / Pharma (2800) · prefill_form:425 · filed 2026-07-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

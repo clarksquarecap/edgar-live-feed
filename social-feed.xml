@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 24 Jul 2026 20:24:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 20:30:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$QBTS 📉 Delisting · Voluntary
+Voluntarily delists from NYSE effective July 24
+Mcap $6.3B · EV $5.8B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1907982/000190798226000114/form25.htm</link>
+      <guid isPermaLink="false">0001907982-26-000114</guid>
+      <pubDate>Fri, 24 Jul 2026 15:30:51 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$ELME 🧊 Liquidation
 Sells Riverside Apartments for $250M; updates liquidation plan
@@ -826,15 +836,6 @@ Mcap $1.1B · EV $1.4B · Industrials</title>
       <pubDate>Thu, 23 Jul 2026 15:31:54 -0500</pubDate>
       <category>TENDER_OFFER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$RNAZ 📍 Stake
-Receives 13D/A from CK Life Sciences; 9.9% stake after conversion
-Mcap $8M · EV $138M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829635/000110465926086266/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-086266</guid>
-      <pubDate>Thu, 23 Jul 2026 15:25:08 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
