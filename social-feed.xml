@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 24 Jul 2026 20:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 20:15:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NOTE 🪙 Debt Restr.
+Extends forbearance on subordinated convertible debt to Aug 22
+Mcap $3M · EV $122M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823466/000119312526316071/d137191d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-316071</guid>
+      <pubDate>Fri, 24 Jul 2026 15:15:57 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>forbearance</category>
+    </item>
     <item>
       <title>$KBON 📍 Stake
 Discloses 21.6% beneficial ownership in Karbon Capital Partners Corp.
@@ -747,37 +757,6 @@ Mcap $8M · EV $138M · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-086266</guid>
       <pubDate>Thu, 23 Jul 2026 15:25:08 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$VREOF 🤝 Merger
-Acquires Cannabist's cannabis assets in 5 states for up to $35M cash+debt
-up to $35,000,000 deal · cash+debt · close 2026-2027
-Mcap $449M · EV $727M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1771706/000110465926086256/tm2621146d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-086256</guid>
-      <pubDate>Thu, 23 Jul 2026 15:14:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SGRP 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 23; trades OTCQB under SGRP
-Mcap $7M · EV $34M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1004989/000143774926024308/sgrp20260722_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-024308</guid>
-      <pubDate>Thu, 23 Jul 2026 15:13:51 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$CRSF 💧 Capital Return
-Repurchases 20M shares from Partum for $1.5M loan assignment
-Mcap $49M · EV $50M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/924396/000149315226034401/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-034401</guid>
-      <pubDate>Thu, 23 Jul 2026 15:13:38 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>share_repurchase</category>
     </item>
   </channel>
 </rss>
