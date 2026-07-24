@@ -6,8 +6,24 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 24 Jul 2026 16:47:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 17:22:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · CHASE GENERAL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/15357/000110465926086601/csgn-20260720x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-086601</guid>
+      <pubDate>Fri, 24 Jul 2026 12:22:03 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>8-K</category>
+      <scanner:headline>Subsidiary defaults on $500k secured debt; lender threatens remedies</scanner:headline>
+      <scanner:shortName>CHASE GENERAL</scanner:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Subsidiary defaults on $500k secured debt; lender threatens remedies&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Chase General Corp&amp;#39;s subsidiary Dye Candy Company received a notice of default on a $500,000 secured debt after missing a principal payment due July 17, 2026. The lender intends to pursue remedies if not paid in full. The company is evaluating the notice and discussing a potential resolution with the lender.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 500000&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Discussions with lender; potential forbearance or restructuring&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/15357/000110465926086601/0001104659-26-086601-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;8-K · Items 2.04, 9.01 · Food &amp;amp; Kindred (2060) · 8k_tier1:2.04 · filed 2026-07-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · GDTC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1873093/000149315226034520/0001493152-26-034520-index.htm</link>
@@ -9575,26 +9591,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.2400 · Mkt cap $30.5M · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/NPRFF/news/528339'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NPRFF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-07-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · CASIF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1962738/000110465926083702/tm2620566d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-083702</guid>
-      <pubDate>Wed, 15 Jul 2026 05:33:53 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>6-K</category>
-      <scanner:headline>Wins HKIAC arbitration vs Juventas; awarded &gt;RMB 100M</scanner:headline>
-      <scanner:shortName>CASI Pharmaceuticals</scanner:shortName>
-      <scanner:price>0.1400</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Wins HKIAC arbitration vs Juventas; awarded &amp;gt;RMB 100M&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Won the HKIAC arbitration against Juventas. The tribunal rejected all of Juventas&amp;#39;s breach allegations, found Juventas wrongfully terminated the agreements, and awarded CASI well over RMB 100 million in wasted costs, interest, and legal costs. The award is final and binding.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CASI Pharmaceuticals, Inc., a biopharmaceutical company, develops and commercializes therapeutics and pharmaceutical products in the People’s Republic of China, the United States, and internationally. It offers EVOMELA, a Melphalan injection for use as a conditioning treatment prior to stem cell transplantation and as a palliative treatment for patients with multiple myeloma.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Juventas Co., Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; &amp;gt;RMB 100M&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-15&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1400 · Mkt cap $3.0M · EV $24.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1962738/000110465926083702/0001104659-26-083702-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CASIF&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-07-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
