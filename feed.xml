@@ -6,8 +6,28 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 24 Jul 2026 11:52:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 12:04:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🎯 Tender · Definitive · LPRO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1806201/000119312526315160/d206835dsc14d9a.htm</link>
+      <guid isPermaLink="false">0001193125-26-315160</guid>
+      <pubDate>Fri, 24 Jul 2026 07:04:26 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>definitive</category>
+      <category>SC 14D9/A</category>
+      <scanner:headline>Acquired by ANV Group for $3.15/share cash; HSR cleared, TDI approved</scanner:headline>
+      <scanner:shortName>Open Lending</scanner:shortName>
+      <scanner:price>3.13</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by ANV Group for $3.15/share cash; HSR cleared, TDI approved&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is being acquired by ANV Group Holdings Ltd. via a tender offer at $3.15 per share in cash. The HSR waiting period expired on July 23, 2026, and the Texas Department of Insurance has non-disapproved the merger. The offer remains subject to other closing conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Open Lending Corporation provides lending enablement and risk analytics solutions to credit unions, regional banks, finance companies, and captive finance companies of automakers in the United States. The company offers lenders protection platform (LPP), which is a cloud-based automotive lending enablement platform that provides loan analytics solutions and automated issuance of credit default insurance with third-party insurance providers.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ANV Group Holdings Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 3.15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Other closing conditions pending&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.13 · Mkt cap $370.4M · EV $282.1M · Fwd P/E 19.0x · Fwd EV/EBITDA 9.1x · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1806201/000119312526315160/0001193125-26-315160-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LPRO&lt;/b&gt; · SC 14D9/A · Non-Depository Credit (6141) · prefill_form:SC 14D9 · filed 2026-07-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Special Dividend · AREC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1590715/000165495426006850/arec_8k.htm</link>
@@ -9576,21 +9596,6 @@
 &lt;p&gt;&lt;i&gt;Px $81.58 · Mkt cap $4.03B · EV $9.99B · Fwd P/E 13.6x · Fwd EV/EBITDA 5.8x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2088281/000121390026078067/0001213900-26-078067-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MFP, MFPVV&lt;/b&gt; · SCHEDULE 13D · Industrial Machinery (3580) · fresh_13d · filed 2026-07-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · BBASX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2097545/000119312526303495/0001193125-26-303495-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-303495</guid>
-      <pubDate>Tue, 14 Jul 2026 17:10:49 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Discloses 59.1% stake in AMG BBH Asset-Backed Credit Fund</scanner:headline>
-      <scanner:shortName>AMG BBH Asset-Backed Credit Fund</scanner:shortName>
-      <description>&lt;p&gt;&lt;b&gt;Discloses 59.1% stake in AMG BBH Asset-Backed Credit Fund&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;AMG New York Holdings Corp. filed a Schedule 13D disclosing beneficial ownership of 59.1% of the Class S units, and 100% of Class I and Class M units of AMG BBH Asset-Backed Credit Fund, LLC. The units were acquired for investment purposes. The filer may acquire additional units or tender for repurchase in quarterly offers.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 59.1&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2097545/000119312526303495/0001193125-26-303495-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BBASX&lt;/b&gt; · SCHEDULE 13D · fresh_13d · filed 2026-07-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
