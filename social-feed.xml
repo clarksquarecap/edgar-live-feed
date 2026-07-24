@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 24 Jul 2026 20:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 20:38:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VSEE 🪙 Debt Restr.
+Settles default with ADI/M2B; issues 1M shares + convertible notes
+Mcap $4M · EV $5M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1864531/000118518526003124/vsee8k072426.htm</link>
+      <guid isPermaLink="false">0001185185-26-003124</guid>
+      <pubDate>Fri, 24 Jul 2026 15:38:13 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$QBTS 📉 Delisting · Voluntary
 Voluntarily delists from NYSE effective July 24
@@ -805,37 +814,6 @@ Mcap $74M · Financials</title>
       <pubDate>Thu, 23 Jul 2026 15:40:41 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BHR 👀 Activist
-Faces Al Shams activist campaign over $480M termination fee; demands annual meeting vote
-9.55 stake
-Mcap $146M · EV $1.6B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000139834426012572/primary_doc.xml</link>
-      <guid isPermaLink="false">0001398344-26-012572</guid>
-      <pubDate>Thu, 23 Jul 2026 15:33:39 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$CHSN 💧 Capital Return · Recap
-Seeks Class A approval to boost Class B voting power to 80x; EGM Aug 24
-Mcap $440K · EV $5M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1825349/000121390026080901/ea0298858-6k_chanson.htm</link>
-      <guid isPermaLink="false">0001213900-26-080901</guid>
-      <pubDate>Thu, 23 Jul 2026 15:32:16 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-    </item>
-    <item>
-      <title>$GNK 🎯 Tender · Unsolicited
-Board evaluating Diana's revised $24.80 cash + 1 share proposal; recommends not tendering
-Diana Shipping · cash+stk
-Mcap $1.1B · EV $1.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000114036126029428/ef20078433_sc14d9a.htm</link>
-      <guid isPermaLink="false">0001140361-26-029428</guid>
-      <pubDate>Thu, 23 Jul 2026 15:31:54 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
