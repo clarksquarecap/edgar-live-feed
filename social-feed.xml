@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 24 Jul 2026 21:09:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 21:16:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RIME 🪙 Debt Restr.
+Settles $1.93M debt via up to 5M shares; court-approved equity swap
+Mcap $7M · EV $9M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/923601/000149315226034615/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-034615</guid>
+      <pubDate>Fri, 24 Jul 2026 16:16:55 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$OTLK ⚖️ Litigation · Won
 FDA approves LYTENAVA for wet AMD; first ophthalmic bevacizumab
@@ -867,46 +876,6 @@ Mcap $266M · Financial Serv</title>
       <guid isPermaLink="false">0001213900-26-080997</guid>
       <pubDate>Thu, 23 Jul 2026 16:21:21 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$CWCPBDC 📍 Stake
-Issues 11,287 shares to UAW Trust at $877.09/share; stake now 99%</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1841514/000110465926086334/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-086334</guid>
-      <pubDate>Thu, 23 Jul 2026 16:14:21 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$REXR 🔎 Strat Review · Portfolio Review
-Plans $1.5-$2.0B asset dispositions; authorizes $1B buyback
-Mcap $8.2B · EV $12B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1571283/000157128326000037/rexr-20260723.htm</link>
-      <guid isPermaLink="false">0001571283-26-000037</guid>
-      <pubDate>Thu, 23 Jul 2026 16:13:50 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
-    </item>
-    <item>
-      <title>$PICS 🤝 Merger
-Acquires Kovr; final Central Bank approval received
-Kovr Participações
-Mcap $1.6B · EV $944M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1841644/000121390026080986/ea0299107-6k_picsnv.htm</link>
-      <guid isPermaLink="false">0001213900-26-080986</guid>
-      <pubDate>Thu, 23 Jul 2026 16:13:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SAFT 🤝 Merger
-Acquired by Mapfre for $105/share cash; close Q1 2027
-44% prem · $1.54 billion deal · cash
-Mcap $1.1B · EV $1.1B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1172052/000110465926086335/tm2621207d4_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-086335</guid>
-      <pubDate>Thu, 23 Jul 2026 16:13:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
