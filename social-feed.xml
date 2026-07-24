@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 24 Jul 2026 10:13:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 10:13:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NIU 📍 Stake
+Receives 13D/A; Glory Achievement Fund raises stake to 41.9% with $2.1M buys
+Mcap $201M · EV $66M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1744781/000110465926086437/primary_doc.xml</link>
+      <guid isPermaLink="false">0001104659-26-086437</guid>
+      <pubDate>Fri, 24 Jul 2026 05:13:41 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$PCSC 🤝 Merger
 Completes business combination with Freenome; trades as FRNM
@@ -775,16 +784,6 @@ Mcap $78B · EV $93B · Industrials</title>
       <pubDate>Thu, 23 Jul 2026 05:13:57 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TJGC 💧 Capital Return · Recap
-Proposes dual-class share structure; EGM Aug 6
-Mcap $50M · EV $52M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1969928/000118518526003098/tjgc6k072126.htm</link>
-      <guid isPermaLink="false">0001185185-26-003098</guid>
-      <pubDate>Thu, 23 Jul 2026 05:13:36 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
