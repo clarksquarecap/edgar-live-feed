@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 24 Jul 2026 01:28:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 10:07:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NEUP 🤝 Merger
+Acquired by Scancell for stock + CVRs; ~11.1% of combined co
+Scancell Holdings · $24.6M deal · stock · close February 2027
+Mcap $21M · EV $2M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1191070/000121390026081054/ea0298914-8k_neuphoria.htm</link>
+      <guid isPermaLink="false">0001213900-26-081054</guid>
+      <pubDate>Fri, 24 Jul 2026 05:07:43 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ARTV 📍 Stake
 Receives 13D/A from RA Capital; stake now 37.9%
@@ -638,26 +649,6 @@ Mcap $394M · EV $393M · Financials</title>
       <pubDate>Thu, 23 Jul 2026 05:12:07 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BAM 🤝 Merger
-Acquires Aypa Power for ~$7B EV ($3B equity) from Blackstone
-$7 billion enterprise value deal · cash
-Mcap $74B · EV $80B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1937926/000117184326004839/f8k_072226.htm</link>
-      <guid isPermaLink="false">0001171843-26-004839</guid>
-      <pubDate>Thu, 23 Jul 2026 05:06:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SNOA 🌍 Re-domicile
-Reincorporating to Nevada; vote adjourned to Aug 19
-Mcap $6M · EV $4M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1367083/000168316826005718/sonoma_defa14a.htm</link>
-      <guid isPermaLink="false">0001683168-26-005718</guid>
-      <pubDate>Thu, 23 Jul 2026 05:05:08 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
