@@ -6,8 +6,30 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 24 Jul 2026 10:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 10:13:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PCSC 🤝 Merger
+Completes business combination with Freenome; trades as FRNM
+stock · close 2026-07-20
+Mcap $123M · EV $123M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2017526/000114036126029471/ef20078324_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-029471</guid>
+      <pubDate>Fri, 24 Jul 2026 05:13:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$WF 🤝 Merger
+Acquires Tongyang Life Insurance via share exchange; close Aug 11
+stock · close 2026-08-11
+Mcap $15B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1264136/000119312526314969/d141659d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-314969</guid>
+      <pubDate>Fri, 24 Jul 2026 05:11:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SKM 🤝 Merger
 Acquires SKHNPS shares; closing July 31
@@ -763,27 +785,6 @@ Mcap $50M · EV $52M · Comms</title>
       <pubDate>Thu, 23 Jul 2026 05:13:36 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$KB 💧 Capital Return · Self-tender
-KRW 700B self-tender via trust; shares to be cancelled
-Mcap $42B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1445930/000119312526313202/d172178d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-313202</guid>
-      <pubDate>Thu, 23 Jul 2026 05:12:43 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-    </item>
-    <item>
-      <title>$BBCQ 🤝 Merger
-Amends Pasqal merger; LTIP revised to 10% of post-close shares
-Pasqal Holding SAS
-Mcap $394M · EV $393M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2088295/000121390026080575/ea0298596-8k425_bleichro2.htm</link>
-      <guid isPermaLink="false">0001213900-26-080575</guid>
-      <pubDate>Thu, 23 Jul 2026 05:12:07 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
