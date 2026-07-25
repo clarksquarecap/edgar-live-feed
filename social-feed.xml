@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 25 Jul 2026 14:24:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 19:28:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GOSS 📍 Stake
@@ -422,59 +422,6 @@ Mcap $5M · EV $19M · Cons Stpl</title>
       <pubDate>Fri, 24 Jul 2026 15:07:02 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BBASX 📍 Stake
-Receives 13D/A from AMG New York Holdings Corp. increasing stake to 59.7%</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2097545/000119312526315913/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-315913</guid>
-      <pubDate>Fri, 24 Jul 2026 14:20:06 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NGS 🌍 Re-domicile
-Redomiciled from Colorado to Texas; effective July 20
-Mcap $491M · EV $715M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1084991/000108499126000070/ngs-20260720.htm</link>
-      <guid isPermaLink="false">0001084991-26-000070</guid>
-      <pubDate>Fri, 24 Jul 2026 14:08:02 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$GDTC 📍 Stake
-Chairman increases stake to 24.3% via 200K share purchase
-Mcap $10M · EV $9M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1873093/000149315226034520/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-034520</guid>
-      <pubDate>Fri, 24 Jul 2026 11:47:06 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$LSTA 💥 Busted M&amp;A
-Kuva Labs merger dead; $2M termination fee; strategic review launched
-Mcap $19M · EV $6M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126029541/ef20078724_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-029541</guid>
-      <pubDate>Fri, 24 Jul 2026 11:17:25 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$SUIG 🌍 Re-domicile
-Reincorporates to Delaware via statutory conversion; vote Aug 28
-Mcap $81M · EV $76M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1425355/000165495426006865/suig_prer14a.htm</link>
-      <guid isPermaLink="false">0001654954-26-006865</guid>
-      <pubDate>Fri, 24 Jul 2026 10:59:44 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$AVXL ⚔️ Proxy
-Seeks to elect 6 nominees to replace Anavex board; AGM pending
-Mcap $230M · EV $98M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314052/000082043426000007/prec14a.htm</link>
-      <guid isPermaLink="false">0000820434-26-000007</guid>
-      <pubDate>Fri, 24 Jul 2026 10:19:05 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
