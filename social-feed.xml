@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 28 Jul 2026 12:50:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:56:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GMEX 🤝 Merger
@@ -645,25 +645,6 @@ Mcap $35M · EV $232M · Cons Disc</title>
       <pubDate>Mon, 27 Jul 2026 07:58:45 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$WLDS 📍 Stake
-Receives 13D from J.B.D Innovation / Nissim disclosing 24.82% stake
-Mcap $8M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1887673/000121390026081589/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-081589</guid>
-      <pubDate>Mon, 27 Jul 2026 07:52:30 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$KUST 📤 Divestiture
-Sells video-solutions division to Cycurion for $6.1M; close Sep 15
-to Cycurion, Inc. (CYCU) · close 2026-09-15
-Mcap $850K · EV $2M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1342958/000149315226034719/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-034719</guid>
-      <pubDate>Mon, 27 Jul 2026 07:51:42 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
