@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 28 Jul 2026 21:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 21:37:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$NPRFF 🤝 Merger
@@ -746,38 +746,6 @@ Mcap $218M · EV $113M · Tech</title>
       <guid isPermaLink="false">0000921895-26-001877</guid>
       <pubDate>Mon, 27 Jul 2026 17:42:59 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BBBY 🤝 Merger
-Acquires F9 Brands for $7M cash + 18.1M shares + real estate + earnout
-cash+stk
-Mcap $402M · EV $289M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1130713/000114036126029774/ef20078728_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-029774</guid>
-      <pubDate>Mon, 27 Jul 2026 16:32:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VMC ⚖️ Litigation · Lost
-Loses NAFTA arbitration; negligible damages awarded
-vs Mexico
-Mcap $36B · EV $41B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1396009/000114036126029775/ef20078709_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-029775</guid>
-      <pubDate>Mon, 27 Jul 2026 16:31:57 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
-    </item>
-    <item>
-      <title>$NXL 📉 Delisting · Forced
-Forced Nasdaq delisting effective August 4; hearing requested
-Mcap $10M · EV $8M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1527352/000182912626007891/nexalintec_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-007891</guid>
-      <pubDate>Mon, 27 Jul 2026 16:31:25 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
