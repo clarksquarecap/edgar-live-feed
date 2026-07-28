@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 28 Jul 2026 12:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:44:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SITKF 🤝 Merger
+Acquires Clear Creek Property from Victoria Gold receiver for $6M cash + 5% NSR royalty
+6,000,000 deal · cash
+Mcap $276M · EV $244M · Materials</title>
+      <link>https://www.prrecordgazette.com/newsfile/306854-sitka-gold-to-accelerate-acquisition-of-100-interest-in-the-clear-creek-property-at-its-rc-gold-project-yukon</link>
+      <guid isPermaLink="false">OTC-529700</guid>
+      <pubDate>Tue, 28 Jul 2026 07:44:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$LPL 📤 Divestiture
 Sells automotive LCD module business to Top Run Total Solution for KRW 104.1B; close Sept 30
@@ -642,39 +653,6 @@ Mcap $850K · EV $2M · Tech</title>
       <guid isPermaLink="false">0001493152-26-034719</guid>
       <pubDate>Mon, 27 Jul 2026 07:51:42 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$RNW 🤝 Merger · Unsolicited
-Receives revised $7.02/share cash bid from CPPIB-led consortium
-cash
-Mcap $2.2B · EV $10.0B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1848763/000119312526316968/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-316968</guid>
-      <pubDate>Mon, 27 Jul 2026 07:39:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$LXFR 🤝 Merger
-Acquired by Wynnchurch Capital for $17.37 cash per share; scheme of arrangement
-cash
-Mcap $449M · EV $503M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1096056/000207709626000223/ea0299296-8k_luxfer.htm</link>
-      <guid isPermaLink="false">0002077096-26-000223</guid>
-      <pubDate>Mon, 27 Jul 2026 07:38:48 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LXFR 🤝 Merger
-Acquired by Wynnchurch for $17.37 cash per share; 30.7% premium
-Wynnchurch Capital · 30.7% prem · cash
-Mcap $449M · EV $503M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1096056/000207709626000225/ea0299296-8k_luxfer.htm</link>
-      <guid isPermaLink="false">0002077096-26-000225</guid>
-      <pubDate>Mon, 27 Jul 2026 07:38:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
