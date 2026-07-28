@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 28 Jul 2026 20:29:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 20:30:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$T 🤝 Merger
+Acquires EchoStar spectrum licenses for $23B cash; closes
+$23 billion deal · cash · close 2026-07-28
+Mcap $167B · EV $334B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/732717/000119312526321053/d142142d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-321053</guid>
+      <pubDate>Tue, 28 Jul 2026 15:29:34 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AMS 🪙 Debt Restr.
 Forbearance with Fifth Third through June 2027; forced asset sale process
@@ -739,16 +750,6 @@ Mcap $78M · Financials</title>
       <guid isPermaLink="false">0000921895-26-001873</guid>
       <pubDate>Mon, 27 Jul 2026 15:37:33 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$HSCS 🤝 Merger
-Amends merger agreement with Fortitude Mining; clarifies redemption mechanics
-Mcap $8M · EV $8M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026081830/ea0299240-8k_heart.htm</link>
-      <guid isPermaLink="false">0001213900-26-081830</guid>
-      <pubDate>Mon, 27 Jul 2026 15:29:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
