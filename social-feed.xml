@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 28 Jul 2026 10:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 10:18:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$JNJ ⚖️ Litigation · Settled
@@ -735,47 +735,6 @@ Mcap $273M · EV $272M · Financials</title>
       <pubDate>Mon, 27 Jul 2026 05:18:55 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$FBRX 🤝 Merger
-Acquired by argenx for $77.00/share cash; tender offer imminent
-argenx BV · cash
-Mcap $1.3B · EV $1.3B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1419041/000119312526316766/d31466d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-316766</guid>
-      <pubDate>Mon, 27 Jul 2026 05:13:09 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PFSA 🤝 Merger · Preliminary
-Acquires private diagnostics company via non-binding term sheet
-Mcap $320K · EV $12M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1859807/000121390026081560/ea0298832-8k_profusa.htm</link>
-      <guid isPermaLink="false">0001213900-26-081560</guid>
-      <pubDate>Mon, 27 Jul 2026 05:13:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$NIMU 🤝 Merger
-Acquires Gravitics Inc. in stock merger
-stock
-Mcap $14M · EV $15M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/720762/000149315226034666/forms-4a.htm</link>
-      <guid isPermaLink="false">0001493152-26-034666</guid>
-      <pubDate>Mon, 27 Jul 2026 05:12:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FLEX 🪓 Spinoff
-Spinning off CPI business as SpinCo; proxy vote pending
-Mcap $43B · EV $45B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526316764/d173291ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-316764</guid>
-      <pubDate>Mon, 27 Jul 2026 05:12:07 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
