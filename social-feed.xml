@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 28 Jul 2026 13:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:28:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$WETH 💧 Capital Return · Special Div
@@ -652,26 +652,6 @@ Mcap $4M · EV $201M · Energy</title>
       <guid isPermaLink="false">0001171843-26-004884</guid>
       <pubDate>Mon, 27 Jul 2026 08:49:28 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GNK 🤝 Merger · Unsolicited
-Unsolicited $27.34/share bid from Diana; tender expired, offer open
-Diana Shipping · 53 prem · cash+stk
-Mcap $1.1B · EV $1.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926086890/tm2621318d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-086890</guid>
-      <pubDate>Mon, 27 Jul 2026 08:25:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$GNK 💥 Busted M&amp;A
-Tender offer from Diana Shipping expires; no shares accepted
-Mcap $1.1B · EV $1.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926086886/tm2621318d1_sctota.htm</link>
-      <guid isPermaLink="false">0001104659-26-086886</guid>
-      <pubDate>Mon, 27 Jul 2026 08:25:13 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
