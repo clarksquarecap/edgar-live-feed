@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 28 Jul 2026 13:53:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:40:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$WETH 💧 Capital Return · Special Div
@@ -634,15 +634,6 @@ Mcap $55M · EV $50M · Materials</title>
       <pubDate>Mon, 27 Jul 2026 09:48:33 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>uplisting</category>
-    </item>
-    <item>
-      <title>$APEX 🌑 Going Dark
-Terminates SEC registration; 12 holders of record; effective July 27
-Mcap $124M · EV $122M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2069858/000121390026081632/ea0299334-1515d_apex.htm</link>
-      <guid isPermaLink="false">0001213900-26-081632</guid>
-      <pubDate>Mon, 27 Jul 2026 09:36:39 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>
