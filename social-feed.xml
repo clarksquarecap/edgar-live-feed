@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 28 Jul 2026 11:00:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 11:06:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VBNK 🌍 Re-domicile
+Calls special meeting to approve reincorporation to Delaware; vote Sept 16
+Mcap $648M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1690639/000169063926000046/a6-kxspecialmeeting2026.htm</link>
+      <guid isPermaLink="false">0001690639-26-000046</guid>
+      <pubDate>Tue, 28 Jul 2026 06:06:21 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$SHG 🤝 Merger · Rumor
 Evaluates acquisition of Lotte Insurance; no decision yet
@@ -720,28 +729,6 @@ Mcap $69M · EV $149M · Tech</title>
       <pubDate>Mon, 27 Jul 2026 06:11:52 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$EXE 🤝 Merger
-Acquires Twin Eagle for $1.25B cash; close Q3 2026
-$1.25 billion deal · cash
-Mcap $22B · EV $25B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/895126/000089512626000039/exe-20260727.htm</link>
-      <guid isPermaLink="false">0000895126-26-000039</guid>
-      <pubDate>Mon, 27 Jul 2026 06:05:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SAFX 🤝 Merger
-Acquires DevvStream and Southern Energy in stock merger; vote Sept 10
-stock · close Q4 2026
-Mcap $145M · EV $398M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2019793/000121390026081567/ea0294087-04.htm</link>
-      <guid isPermaLink="false">0001213900-26-081567</guid>
-      <pubDate>Mon, 27 Jul 2026 06:05:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
