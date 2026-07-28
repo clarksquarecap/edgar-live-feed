@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 28 Jul 2026 21:22:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 21:30:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FIRY ⚖️ Litigation · Won
+Wins $719M false-advertising judgment vs Papaya Gaming
+Mcap $130M · EV $74M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801661/000180166126000080/sklz-20260727.htm</link>
+      <guid isPermaLink="false">0001801661-26-000080</guid>
+      <pubDate>Tue, 28 Jul 2026 16:30:05 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
     <item>
       <title>$ASH 👀 Activist
 Settles with Ancora; adds 2 directors, capital allocation committee
@@ -735,37 +745,6 @@ Mcap $10M · EV $8M · Healthcare</title>
       <pubDate>Mon, 27 Jul 2026 16:31:25 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$OPFI 🤝 Merger
-Acquires BNCCORP for $19.375 cash + 1.90 OPFI shares per BNCC share
-cash+stk
-Mcap $770M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1818502/000119312526318282/d207829ds4.htm</link>
-      <guid isPermaLink="false">0001193125-26-318282</guid>
-      <pubDate>Mon, 27 Jul 2026 16:24:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$KPLT 🤝 Merger
-Acquires Aaron's and CCF Holdings; vote Aug 6
-Mcap $33M · EV $110M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1785424/000095010326011212/dp250642_425.htm</link>
-      <guid isPermaLink="false">0000950103-26-011212</guid>
-      <pubDate>Mon, 27 Jul 2026 16:24:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ATII 🤝 Merger
-Files amended S-4 for Forge Nano merger; SEC review ongoing
-Mcap $316M · EV $315M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028516/000110465926087145/tm264900d17_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-087145</guid>
-      <pubDate>Mon, 27 Jul 2026 16:24:09 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
