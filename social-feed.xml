@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 28 Jul 2026 20:50:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 20:58:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XFLT ⚔️ Proxy
+Faces proxy contest; proposes 12.5% tender at 98% NAV
+Mcap $266M · Financial Serv</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026082317/ea0299542-02_defa14a.htm</link>
+      <guid isPermaLink="false">0001213900-26-082317</guid>
+      <pubDate>Tue, 28 Jul 2026 15:58:02 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$XFLT 💧 Capital Return · Self-tender
 Proposes liquidity plan with up to 12.5% NAV tender; vote July 30
@@ -718,15 +727,6 @@ Mcap $266M · Financial Serv</title>
       <pubDate>Mon, 27 Jul 2026 16:04:40 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$SLMT 📍 Stake
-Receives 13D from BREA Holdings group; 6.2% stake
-Mcap $43M · EV $24M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1939965/000092189526001875/primary_doc.xml</link>
-      <guid isPermaLink="false">0000921895-26-001875</guid>
-      <pubDate>Mon, 27 Jul 2026 15:52:20 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
