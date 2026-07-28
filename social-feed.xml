@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 28 Jul 2026 14:46:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:52:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$ATALF 🤝 Merger
@@ -634,16 +634,6 @@ Mcap $324M · EV $291M · Healthcare</title>
       <pubDate>Mon, 27 Jul 2026 11:05:39 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SRCRF 🔎 Strat Review
-Pursues Nasdaq listing via ADS program; expects 20:1 ratio
-Mcap $55M · EV $50M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1467093/000175392626001234/g085818_6k.htm</link>
-      <guid isPermaLink="false">0001753926-26-001234</guid>
-      <pubDate>Mon, 27 Jul 2026 09:48:33 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>uplisting</category>
     </item>
   </channel>
 </rss>
