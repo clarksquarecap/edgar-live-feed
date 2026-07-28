@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 28 Jul 2026 20:37:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 20:43:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LSTA 💥 Busted M&amp;A
+Tender offer terminated; Kuva Labs failed to secure financing
+Mcap $19M · EV $6M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126029893/ny20077391x3_sctota.htm</link>
+      <guid isPermaLink="false">0001140361-26-029893</guid>
+      <pubDate>Tue, 28 Jul 2026 15:43:54 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$TRST 📍 Stake
 Receives 13D from HoldCo Asset Management; 5.1% stake
@@ -697,58 +706,6 @@ Mcap $43M · EV $24M · Comms</title>
       <guid isPermaLink="false">0000921895-26-001875</guid>
       <pubDate>Mon, 27 Jul 2026 15:52:20 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SLS ⚖️ Litigation · Lost
-Lost arbitration vs 3D Medicines; claims dismissed, $1M fee
-Mcap $2.2B · EV $2.1B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1390478/000110465926087110/tm2621415d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-087110</guid>
-      <pubDate>Mon, 27 Jul 2026 15:39:55 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
-    </item>
-    <item>
-      <title>$TALO 🤝 Merger
-Acquires 50% stake in Block 29 Mexico from Repsol; $30M at FID + $20M carry
-cash
-Mcap $2.5B · EV $3.5B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1724965/000119312526318158/d151426d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-318158</guid>
-      <pubDate>Mon, 27 Jul 2026 15:39:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$HPSLBDC 🎯 Tender · Unsolicited
-Board rejects Cox Capital's unsolicited tender at $18.40 (25% discount to NAV)
--25% prem · $10.1M deal · cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1838126/000162828026049827/hlend-20260727.htm</link>
-      <guid isPermaLink="false">0001628280-26-049827</guid>
-      <pubDate>Mon, 27 Jul 2026 15:38:40 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$FVN 🤝 Merger
-Shareholders approve merger with MicroTouch; 3.76M shares tendered for ~$10.97 redemption
-empty
-Mcap $83M · EV $82M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2010653/000182912626007886/futurevision2_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-007886</guid>
-      <pubDate>Mon, 27 Jul 2026 15:38:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$OCG 📤 Divestiture
-Sells International Exchange to Spring Harvest for HK$1M cash
-to Spring Harvest Holdings · HK$1,000,000 deal
-Mcap $3M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1776067/000121390026081832/ea0299368-6k_oriental.htm</link>
-      <guid isPermaLink="false">0001213900-26-081832</guid>
-      <pubDate>Mon, 27 Jul 2026 15:38:17 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
