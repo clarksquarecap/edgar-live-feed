@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 21:22:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:23:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LRHC 🪙 Debt Restr.
+Exchanges $10M note for preferred stock; cures Nasdaq equity deficiency
+Mcap $2M · EV $13M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1879403/000121390026082895/ea0299302-8k_larosa.htm</link>
+      <guid isPermaLink="false">0001213900-26-082895</guid>
+      <pubDate>Wed, 29 Jul 2026 16:23:05 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$MOBX 🤝 Merger
+Acquires Vision Aerial for $3M cash + $12M stock (collar $2-$3)
+$15M deal · cash+stk
+Mcap $26M · EV $30M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1855467/000149315226035249/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-035249</guid>
+      <pubDate>Wed, 29 Jul 2026 16:22:49 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$BCAR 🤝 Merger
+Shareholders approve merger with Exascale Labs; close pending
+Mcap $230M · EV $229M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2065779/000182912626008044/dboralarcacq1_425.htm</link>
+      <guid isPermaLink="false">0001829126-26-008044</guid>
+      <pubDate>Wed, 29 Jul 2026 16:22:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FLEX 🪓 Spinoff
 Spinning off CPI segment; tax-free distribution in Q1 2027
@@ -752,27 +782,6 @@ Mcap $130M · EV $74M · Comms</title>
       <pubDate>Tue, 28 Jul 2026 16:30:05 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$ASH 👀 Activist
-Settles with Ancora; adds 2 directors, capital allocation committee
-Ancora Holdings
-Mcap $3.0B · EV $4.2B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1674862/000119312526321247/ash-20260727.htm</link>
-      <guid isPermaLink="false">0001193125-26-321247</guid>
-      <pubDate>Tue, 28 Jul 2026 16:22:52 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$AXTA 🤝 Merger
-Merger of equals with AkzoNobel; vote August 5
-Akzo Nobel · stock
-Mcap $6.9B · EV $9.5B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1616862/000119312526321270/d219577d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-321270</guid>
-      <pubDate>Tue, 28 Jul 2026 16:22:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
