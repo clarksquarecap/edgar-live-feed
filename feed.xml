@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 20:33:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:40:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · PBAM</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1705284/000119312526323834/pbam-20260729.htm</link>
+      <guid isPermaLink="false">0001193125-26-323834</guid>
+      <pubDate>Wed, 29 Jul 2026 15:40:36 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>8-K</category>
+      <scanner:headline>Uplists to Nasdaq Global Select Market; trading starts July 30</scanner:headline>
+      <scanner:shortName>Private Bancorp of America</scanner:shortName>
+      <scanner:price>82.50</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Uplists to Nasdaq Global Select Market; trading starts July 30&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced its Form 10 registration was declared effective and Nasdaq approved listing of its common stock on the Global Select Market. The stock will commence trading on Nasdaq on July 30, 2026 under the same ticker PBAM, after 13 years on OTCQX. No shareholder action required.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Private Bancorp of America, Inc. operates as the bank holding company for CalPrivate Bank that provides banking products and services to individuals and businesses in California. The company offers checking and savings, mobile deposit, money market, certificate of deposit, and retirement accounts; lending services, including commercial real estate loans, commercial and industrial loans, and government-guaranteed lending programs; ATM and debit cards, and credit cards; and safe deposit boxes.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-07-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; July 30, 2026 trading start&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $82.50 · Mkt cap $465.2M · Fwd P/E 9.1x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1705284/000119312526323834/0001193125-26-323834-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PBAM&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Depository Institutions (6021) · 8k_tier1:7.01 · filed 2026-07-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · CMBT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1604481/000091957426004669/0000919574-26-004669-index.htm</link>
@@ -9560,25 +9579,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.52 · Mkt cap $13.2M · EV $15.1M · Industrials / Professional Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2020027/000149315226034006/0001493152-26-034006-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CLIK&lt;/b&gt; · 6-K · Business Services (7361) · prefill_form:6-K · filed 2026-07-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · SLAI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1517496/000110465926085225/tm2620962d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-085225</guid>
-      <pubDate>Tue, 21 Jul 2026 06:27:46 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>6-K</category>
-      <scanner:headline>Forced NYSE delisting; trading suspended July 16; expects OTC Markets quote</scanner:headline>
-      <scanner:shortName>SOLAI</scanner:shortName>
-      <scanner:price>3.72</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Forced NYSE delisting; trading suspended July 16; expects OTC Markets quote&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a delisting notice from NYSE due to average global market cap below $15M over 30 consecutive trading days. Trading in its ADSs was suspended on July 16, 2026. The company may appeal the determination and expects its ADSs or underlying shares to be quoted on OTC Markets.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; InvalidIdentifier&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-16&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.72 · Mkt cap $6.9M · EV $7.0M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1517496/000110465926085225/0001104659-26-085225-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SLAI&lt;/b&gt; · 6-K · Non-Depository Credit (6199) · prefill_form:6-K · filed 2026-07-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
