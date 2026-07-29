@@ -6,8 +6,40 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 20:10:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:11:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MDXG 🤝 Merger · Preliminary
+Plans to acquire Sanara MedTech
+Mcap $649M · EV $507M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1376339/000137633926000074/mdxg-20260729.htm</link>
+      <guid isPermaLink="false">0001376339-26-000074</guid>
+      <pubDate>Wed, 29 Jul 2026 15:11:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
+    <item>
+      <title>$MDV 🤝 Merger
+Acquired by Global Net Lease; stock consideration; vote Aug 10
+stock
+Mcap $189M · EV $494M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1645873/000114036126030042/ef20078960_425.htm</link>
+      <guid isPermaLink="false">0001140361-26-030042</guid>
+      <pubDate>Wed, 29 Jul 2026 15:11:06 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$SMTI 🤝 Merger
+Acquired by MiMedx for $35/sh cash+stock; vote pending
+cash+stk
+Mcap $244M · EV $279M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/714256/000137633926000073/spur425.htm</link>
+      <guid isPermaLink="false">0001376339-26-000073</guid>
+      <pubDate>Wed, 29 Jul 2026 15:10:59 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MTNB 🤝 Merger
 Acquired by GH Power in reverse merger; 9% pro forma ownership
@@ -730,27 +762,6 @@ Mcap $11M · EV $28M · Cons Stpl</title>
       <guid isPermaLink="false">0001213900-26-082261</guid>
       <pubDate>Tue, 28 Jul 2026 15:12:16 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$QRVO 🤝 Merger
-Merger with Skyworks on track; regulatory approvals progressing
-Skyworks Solutions · close Calendar 2026
-Mcap $7.9B · EV $8.3B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1604778/000000412726000048/q326earningsreleaseform8-k.htm</link>
-      <guid isPermaLink="false">0000004127-26-000048</guid>
-      <pubDate>Tue, 28 Jul 2026 15:11:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TDAC 🤝 Merger
-Secures $50M committed capital from existing investors for SPAC merger; pre-money $3.8B
-Mcap $253M · EV $254M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1926599/000119312526320984/d114525d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-320984</guid>
-      <pubDate>Tue, 28 Jul 2026 15:11:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
