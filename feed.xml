@@ -6,8 +6,25 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 11:12:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:19:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · FLEX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866374/000086637426000027/flex-20260729.htm</link>
+      <guid isPermaLink="false">0000866374-26-000027</guid>
+      <pubDate>Wed, 29 Jul 2026 06:19:07 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>8-K</category>
+      <scanner:headline>Spins off cloud &amp; power infrastructure; names leadership for both companies</scanner:headline>
+      <scanner:shortName>FLEX</scanner:shortName>
+      <scanner:price>118.51</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Spins off cloud &amp;amp; power infrastructure; names leadership for both companies&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;8-K&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Flex Ltd. provides technology innovation, supply chain, and manufacturing solutions to data center, communications, enterprise, consumer, automotive, healthcare, industrial, and power industries in the Americas, Asia, and Europe. The company operates through three segments: Integrated Technology Solutions (ITS), Regulated Manufacturing Solutions (RMS), and Cloud and Power Infrastructure (CPI).&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $118.51 · Mkt cap $43.42B · EV $45.50B · Fwd P/E 29.0x · Fwd EV/EBITDA 17.2x · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/866374/000086637426000027/0000866374-26-000027-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FLEX&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Electronic Equipment (3672) · 8k_tier1:8.01 · filed 2026-07-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · PBT</title>
       <link>https://www.sec.gov/Archives/edgar/data/319654/000121390026082517/ea029960902-425_pbt.htm</link>
@@ -9558,25 +9575,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.9500 · Mkt cap $5.2M · EV $-4.6M · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1802457/000180245726000052/0001802457-26-000052-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ORGN&lt;/b&gt; · DEFM14A · Chemicals / Pharma (2860) · prefill_form:DEFM14A · filed 2026-07-20&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · EVGN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574565/000121390026079584/0001213900-26-079584-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-079584</guid>
-      <pubDate>Mon, 20 Jul 2026 14:51:20 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Increases stake in Evogene to 16.81% via ADS purchases</scanner:headline>
-      <scanner:shortName>Evogene</scanner:shortName>
-      <scanner:price>0.5000</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Increases stake in Evogene to 16.81% via ADS purchases&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;L.I.A. Pure Capital Ltd. and related parties increased their beneficial ownership in Evogene Ltd. to 2,228,100 ordinary shares/ADSs (16.81% of class) through additional ADS purchases. The original Schedule 13D was filed on July 10, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Evogene Ltd., together with its subsidiaries, operates as a computational biology company in Israel, the United States, Europe, and Africa. It operates through three segments: Agriculture, Human Health, and Industrial Applications. The company engages in the agricultural activities, including seed traits and ag-chemicals activities; and design novel small molecules for drug development by utilizing ChemPass AI, a computational generative AI engine.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 16.81&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-20&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.5000 · Mkt cap $5.1M · EV $4.5M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1574565/000121390026079584/0001213900-26-079584-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EVGN&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2870) · fresh_13d · filed 2026-07-20&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
