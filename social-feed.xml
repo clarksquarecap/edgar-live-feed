@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 20:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:47:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WTRG 🤝 Merger
+Acquired by American Water; 3 states OK, TX settlement; close Q1 2027
+Mcap $12B · EV $20B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/78128/000119312526324103/d152711d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-324103</guid>
+      <pubDate>Wed, 29 Jul 2026 15:47:06 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$PBAM 📉 Delisting · Voluntary
 Uplists to Nasdaq Global Select Market; trading starts July 30
@@ -768,26 +778,6 @@ Mcap $266M · Financial Serv</title>
       <pubDate>Tue, 28 Jul 2026 15:50:48 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$LPSN 🤝 Merger
-Acquired by SoundHound AI for ~$3.33/share; vote Aug 20
-22% prem · cash+stk
-Mcap $18M · EV $311M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1102993/000110299326000054/a425filing7_28a.htm</link>
-      <guid isPermaLink="false">0001102993-26-000054</guid>
-      <pubDate>Tue, 28 Jul 2026 15:44:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LSTA 💥 Busted M&amp;A
-Tender offer terminated; Kuva Labs failed to secure financing
-Mcap $19M · EV $6M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126029893/ny20077391x3_sctota.htm</link>
-      <guid isPermaLink="false">0001140361-26-029893</guid>
-      <pubDate>Tue, 28 Jul 2026 15:43:54 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
