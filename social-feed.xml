@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 20:54:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:00:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$HFRO 📍 Stake
@@ -778,25 +778,6 @@ Mcap $1.3B · EV $1.3B · Healthcare</title>
       <pubDate>Tue, 28 Jul 2026 16:14:05 -0500</pubDate>
       <category>TENDER_OFFER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$UUUU 🤝 Merger
-Acquires Australian Strategic Materials; scheme vote Aug 12
-Mcap $2.9B · EV $2.7B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1385849/000106299326003884/form8k.htm</link>
-      <guid isPermaLink="false">0001062993-26-003884</guid>
-      <pubDate>Tue, 28 Jul 2026 15:58:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$XFLT ⚔️ Proxy
-Faces proxy contest; proposes 12.5% tender at 98% NAV
-Mcap $266M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026082317/ea0299542-02_defa14a.htm</link>
-      <guid isPermaLink="false">0001213900-26-082317</guid>
-      <pubDate>Tue, 28 Jul 2026 15:58:02 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
