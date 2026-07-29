@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 20:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:10:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MTNB 🤝 Merger
+Acquired by GH Power in reverse merger; 9% pro forma ownership
+stock · close Q4 2026
+Mcap $2M · EV $390K · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1582554/000149315226035183/form425.htm</link>
+      <guid isPermaLink="false">0001493152-26-035183</guid>
+      <pubDate>Wed, 29 Jul 2026 15:10:50 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SPOK 📤 Divestiture
 Sells narrowband spectrum licenses for $8M cash
@@ -738,35 +749,6 @@ Mcap $253M · EV $254M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1926599/000119312526320984/d114525d425.htm</link>
       <guid isPermaLink="false">0001193125-26-320984</guid>
       <pubDate>Tue, 28 Jul 2026 15:11:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LGL 📍 Stake
-Gabelli ups LGL stake to 34.8% via rights offering at $6.90
-Mcap $43M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/61004/000080724926000058/primary_doc.xml</link>
-      <guid isPermaLink="false">0000807249-26-000058</guid>
-      <pubDate>Tue, 28 Jul 2026 15:05:16 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$DYNC 👀 Activist
-Faces activist campaign from Bulldog Investors; letter to board
-Bulldog Investors, LLP · 3.64 stake
-Mcap $239M · EV $239M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028699/000139834426012888/primary_doc.xml</link>
-      <guid isPermaLink="false">0001398344-26-012888</guid>
-      <pubDate>Tue, 28 Jul 2026 15:05:01 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$EXE 🤝 Merger
-Acquires Twin Eagle Holdings; creates integrated natural gas leader
-Mcap $22B · EV $25B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/895126/000089512626000046/exe-20260728.htm</link>
-      <guid isPermaLink="false">0000895126-26-000046</guid>
-      <pubDate>Tue, 28 Jul 2026 15:04:42 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
