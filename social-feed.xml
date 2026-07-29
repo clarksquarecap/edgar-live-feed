@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 20:22:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:23:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CHDN 🔎 Strat Review · Portfolio Review
+Exploring sale of 8 regional gaming properties
+Mcap $6.2B · EV $11B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/20212/000002021226000056/chdn-20260729.htm</link>
+      <guid isPermaLink="false">0000020212-26-000056</guid>
+      <pubDate>Wed, 29 Jul 2026 15:23:03 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>portfolio_review</category>
+    </item>
     <item>
       <title>$ALGN 👀 Activist
 Adds 3 directors, launches strategic review, ups buyback to $400M-$500M after Elliott engagement
@@ -734,28 +744,6 @@ Mcap $10M · EV $30M · Healthcare</title>
       <guid isPermaLink="false">0001437749-26-024677</guid>
       <pubDate>Tue, 28 Jul 2026 15:29:14 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$RACC 🤝 Merger
-Acquires OHB Pediatrics for stock; vote pending
-stock · close H2 2026
-Mcap $100M · EV $100M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2118032/000213564826000011/primary_doc.xml</link>
-      <guid isPermaLink="false">0002135648-26-000011</guid>
-      <pubDate>Tue, 28 Jul 2026 15:22:50 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$INGR 🤝 Merger
-Acquires Tate &amp; Lyle for all-cash; shareholder vote passed
-cash · close H2 2027
-Mcap $6.4B · EV $7.3B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1046257/000104625726000230/ingr-20260728.htm</link>
-      <guid isPermaLink="false">0001046257-26-000230</guid>
-      <pubDate>Tue, 28 Jul 2026 15:22:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
