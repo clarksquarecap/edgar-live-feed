@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 21:30:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:36:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CBZ 🤝 Merger
+Acquired by Grant Thornton Advisors for $55.00 cash per share
+54% prem · $5B deal · cash
+Mcap $2.4B · EV $4.4B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/944148/000119312526324268/d127027ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-324268</guid>
+      <pubDate>Wed, 29 Jul 2026 16:36:29 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ARAY 🪙 Debt Restr.
 Issues $55M Series A Preferred; converts $40M debt, cancels warrants
@@ -748,28 +759,6 @@ Mcap $94M · EV $85M · Industrials</title>
       <guid isPermaLink="false">0001214659-26-009123</guid>
       <pubDate>Tue, 28 Jul 2026 19:29:17 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NPRFF 🤝 Merger
-Acquires Tsceminicum Bottling assets for cash + 1.5M shares + earn-out
-cash+stk · close 2026-07-31
-Mcap $25M · Cons Stpl</title>
-      <link>https://www.stocktitan.net/news/NPRFF/nepra-foods-executes-definitive-agreement-to-acquire-idaho-beverage-t6q035jtczym.html</link>
-      <guid isPermaLink="false">OTC-529777</guid>
-      <pubDate>Tue, 28 Jul 2026 16:31:09 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SKYT 🤝 Merger
-Acquired by IonQ; regulatory approval received; closing imminent
-empty
-Mcap $1.6B · EV $1.8B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819974/000119312526321272/d152570d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-321272</guid>
-      <pubDate>Tue, 28 Jul 2026 16:30:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
