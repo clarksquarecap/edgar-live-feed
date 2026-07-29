@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 20:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:13:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VYNE 📍 Stake
+Receives 13D from AI Biotechnology; 6.02% stake post-merger
+Mcap $19M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1566044/000119312526323654/primary_doc.xml</link>
+      <guid isPermaLink="false">0001193125-26-323654</guid>
+      <pubDate>Wed, 29 Jul 2026 15:13:11 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$SNYR 🔎 Strat Review · Strat Alts
+Evaluates strategic alternatives after Costco drops FOCUSfactor (58% rev)
+Mcap $3M · EV $30M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1562733/000121390026082791/ea0299706-8k_synergy.htm</link>
+      <guid isPermaLink="false">0001213900-26-082791</guid>
+      <pubDate>Wed, 29 Jul 2026 15:12:28 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+    </item>
+    <item>
+      <title>$XNCR ⚖️ Litigation · Settled
+Settles Ultomiris royalty dispute with Alexion for $105M cash
+Mcap $1.5B · EV $1.1B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326732/000132673226000049/xncr-20260729.htm</link>
+      <guid isPermaLink="false">0001326732-26-000049</guid>
+      <pubDate>Wed, 29 Jul 2026 15:12:18 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$MDXG 🤝 Merger · Preliminary
 Plans to acquire Sanara MedTech
@@ -752,16 +781,6 @@ Mcap $9.5B · EV $9.3B · Tech</title>
       <pubDate>Tue, 28 Jul 2026 15:13:25 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$COOT 📤 Divestiture
-Sells oilseed crushing business to Trusha Realty for $1 + liabilities
-to Trusha Realty Pte. · close 2026-07-27
-Mcap $11M · EV $28M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1959994/000121390026082261/ea0296461-6k_australian.htm</link>
-      <guid isPermaLink="false">0001213900-26-082261</guid>
-      <pubDate>Tue, 28 Jul 2026 15:12:16 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
