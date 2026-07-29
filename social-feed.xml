@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 20:23:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:29:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FLEX 🪓 Spinoff
+Spinning off Cloud &amp; Power Infrastructure segment as independent public company
+Mcap $43B · EV $45B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526323827/d157333ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-323827</guid>
+      <pubDate>Wed, 29 Jul 2026 15:29:16 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$CHDN 🔎 Strat Review · Portfolio Review
 Exploring sale of 8 regional gaming properties
@@ -735,15 +744,6 @@ Mcap $167B · EV $334B · Comms</title>
       <pubDate>Tue, 28 Jul 2026 15:29:34 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$AMS 🪙 Debt Restr.
-Forbearance with Fifth Third through June 2027; forced asset sale process
-Mcap $10M · EV $30M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/744825/000143774926024677/asha20260728_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-024677</guid>
-      <pubDate>Tue, 28 Jul 2026 15:29:14 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
