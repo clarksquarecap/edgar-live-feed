@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 20:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 20:04:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SPOK 📤 Divestiture
+Sells narrowband spectrum licenses for $8M cash
+$8,000,000 deal · close 2026-07-20
+Mcap $228M · EV $217M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1289945/000128994526000047/spok-20260729.htm</link>
+      <guid isPermaLink="false">0001289945-26-000047</guid>
+      <pubDate>Wed, 29 Jul 2026 15:04:13 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$PUSA 🤝 Merger
 Acquires Powerus for 83.3% of combined entity; exchange ratio 599.18
@@ -757,16 +767,6 @@ Mcap $22B · EV $25B · Energy</title>
       <link>https://www.sec.gov/Archives/edgar/data/895126/000089512626000046/exe-20260728.htm</link>
       <guid isPermaLink="false">0000895126-26-000046</guid>
       <pubDate>Tue, 28 Jul 2026 15:04:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RFIL 🤝 Merger
-Merger proxy materials filed; vote pending
-Mcap $132M · EV $152M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/740664/000143774926024662/rfil20260723_defa14a.htm</link>
-      <guid isPermaLink="false">0001437749-26-024662</guid>
-      <pubDate>Tue, 28 Jul 2026 15:04:00 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
