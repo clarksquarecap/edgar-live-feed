@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 21:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:14:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VBNK 🤝 Merger
+Acquires VersaBank via 1-for-1 share exchange; vote Sep 16
+stock · close Q3 2026</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2100848/000110465926088225/tm2533318-18_s4a.htm</link>
+      <guid isPermaLink="false">0001104659-26-088225</guid>
+      <pubDate>Wed, 29 Jul 2026 16:14:57 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FLEX 🪓 Spinoff
 Spins off Cloud &amp; Power Infra segment; CEO Advaithi to lead SpinCo, Hartung to become Flex CEO
@@ -746,47 +756,6 @@ Mcap $49M · EV $26M · Financials</title>
       <guid isPermaLink="false">0001477932-26-004566</guid>
       <pubDate>Tue, 28 Jul 2026 16:21:37 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$VYNE 🤝 Merger
-Acquires Pre-Merger Yarrow for 0.7171 shares each; $17.3M special dividend paid to VYNE holders
-$272.9M (Pre-Merger Yarrow valuation) deal · stock · close 2026-07-27
-Mcap $19M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1566044/000110465926087601/tm2620687d3_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-087601</guid>
-      <pubDate>Tue, 28 Jul 2026 16:14:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$IONQ 🤝 Merger
-Acquires SkyWater Technology; regulatory approval received; close July 31
-close 2026-07-31
-Mcap $13B · EV $11B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1824920/000119312526321221/ionq-20260728.htm</link>
-      <guid isPermaLink="false">0001193125-26-321221</guid>
-      <pubDate>Tue, 28 Jul 2026 16:14:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VBNK 🌍 Re-domicile
-Reorganizing into Delaware holding company; special meeting Sept 16
-Mcap $648M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1690639/000110465926087595/tm2533318d20_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-087595</guid>
-      <pubDate>Tue, 28 Jul 2026 16:14:21 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$FBRX 🎯 Tender · Preliminary
-Acquired by argenx via tender offer for all shares
-Mcap $1.3B · EV $1.3B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1419041/000110465926087593/tm2621326d3_sctoc.htm</link>
-      <guid isPermaLink="false">0001104659-26-087593</guid>
-      <pubDate>Tue, 28 Jul 2026 16:14:05 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
