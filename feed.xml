@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 11:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:06:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💔 Busted · DAIC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026082509/ea0299621-8k_cidhold.htm</link>
+      <guid isPermaLink="false">0001213900-26-082509</guid>
+      <pubDate>Wed, 29 Jul 2026 06:06:23 -0500</pubDate>
+      <category>BUSTED_MA</category>
+      <category>8-K</category>
+      <scanner:headline>Lead investor terminates preferred stock purchase; company disputes</scanner:headline>
+      <scanner:shortName>CID Holdco</scanner:shortName>
+      <scanner:price>1.01</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Lead investor terminates preferred stock purchase; company disputes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;CID HoldCo&amp;#39;s securities purchase agreement with investors for Series AA and Series B convertible preferred stock was terminated by the lead investor on July 27, 2026, citing alleged breaches of closing conditions. The company disputes the termination and is evaluating its rights and remedies, while also exploring options for its creditors. The transactions will not be consummated unless the parties otherwise agree.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CID HoldCo, Inc. develops an asset tracking platform that push the limits of near real-time precision-based location technology. The company’s platform leverages the technologies, including the patented passive and active RFID tracking solutions, low power edge camera platforms utilizing artificial intelligence, enabling users to give accuracy to all mapping technologies. It serves various industries, including construction, military, mining, retail, warehousing, and manufacturing.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; lead investor&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Company evaluating legal remedies and creditor options&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.01 · Mkt cap $1.2M · EV $2.5M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2033770/000121390026082509/0001213900-26-082509-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DAIC, DAICW&lt;/b&gt; · 8-K · Items 1.02, 9.01 · Business Services (7373) · 8k_tier1:1.02 · filed 2026-07-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · PBT</title>
       <link>https://www.sec.gov/Archives/edgar/data/319654/000121390026082512/ea029960901-425_pbt.htm</link>
@@ -9557,23 +9576,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $1.7M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/356590/000149315226033896/0001493152-26-033896-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GTII&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Engineering / Accounting (8741) · 8k_tier1:8.01 · filed 2026-07-20&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · XTND</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2111860/000149315226033875/form425.htm</link>
-      <guid isPermaLink="false">0001493152-26-033875</guid>
-      <pubDate>Mon, 20 Jul 2026 11:46:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Merger with JFB advances; second amended S-4 filed; close Q3 2026</scanner:headline>
-      <scanner:shortName>Xtend AI Robotics</scanner:shortName>
-      <description>&lt;p&gt;&lt;b&gt;Merger with JFB advances; second amended S-4 filed; close Q3 2026&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Xtend AI Robotics and JFB Construction Holdings filed a second amended S-4 for their proposed business combination. The combined company will be renamed XTEND AI Robotics and trade on NYSE under XTND, with closing expected in Q3 2026. The filing reflects continued progress through SEC review.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; JFB Construction Holdings&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; SEC effectiveness and stockholder vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2111860/000149315226033875/0001493152-26-033875-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;XTND&lt;/b&gt; · 425 · Transportation Equipment (3760) · prefill_form:425 · filed 2026-07-20&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

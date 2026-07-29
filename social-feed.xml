@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 11:05:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:06:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DAIC 💥 Busted M&amp;A
+Lead investor terminates preferred stock purchase; company disputes
+Mcap $1M · EV $3M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026082509/ea0299621-8k_cidhold.htm</link>
+      <guid isPermaLink="false">0001213900-26-082509</guid>
+      <pubDate>Wed, 29 Jul 2026 06:06:23 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$PBT 🤝 Merger
 Combined with Blackbeard's US Land Guild in $2.2B deal; 59% ownership
@@ -722,15 +731,6 @@ Mcap $2.7B · EV $3.0B · Tech</title>
       <guid isPermaLink="false">0001193125-26-318891</guid>
       <pubDate>Tue, 28 Jul 2026 06:53:52 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$VBNK 🌍 Re-domicile
-Calls special meeting to approve reincorporation to Delaware; vote Sept 16
-Mcap $648M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1690639/000169063926000046/a6-kxspecialmeeting2026.htm</link>
-      <guid isPermaLink="false">0001690639-26-000046</guid>
-      <pubDate>Tue, 28 Jul 2026 06:06:21 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
