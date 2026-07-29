@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 29 Jul 2026 21:15:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:22:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FLEX 🪓 Spinoff
+Spinning off CPI segment; tax-free distribution in Q1 2027
+Mcap $43B · EV $45B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526324240/d121542ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-324240</guid>
+      <pubDate>Wed, 29 Jul 2026 16:22:05 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$BRTM 📍 Stake
 Sponsor files 13D on 28.8% stake in SPAC
@@ -764,15 +773,6 @@ Mcap $6.9B · EV $9.5B · Materials</title>
       <pubDate>Tue, 28 Jul 2026 16:22:22 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$FINS ⚔️ Proxy
-Faces proxy contest from Trevor Montano; seeks board seat and adviser termination
-Mcap $49M · EV $26M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1745059/000147793226004566/angeloak_prec14a.htm</link>
-      <guid isPermaLink="false">0001477932-26-004566</guid>
-      <pubDate>Tue, 28 Jul 2026 16:21:37 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
