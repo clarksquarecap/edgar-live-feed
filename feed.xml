@@ -6,8 +6,23 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 16:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:24:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · VISTASL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1919369/000119312526325428/0001193125-26-325428-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-325428</guid>
+      <pubDate>Thu, 30 Jul 2026 11:24:07 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Receives 13D/A from Vista entities; stake rises to 13.8%</scanner:headline>
+      <scanner:shortName>VISTA CREDIT STRATEGIC LENDING</scanner:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Vista entities; stake rises to 13.8%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Schedule 13D/A from Vista VCSL Feeder Fund, VEP Group, and Robert F. Smith, reporting an increase in aggregate beneficial ownership to 13.8% (VEP Group) and 10.93% (Feeder). The increase resulted from a $6.23M capital call drawdown at $19.13/share (325,656 shares) and reinvestment of 83.232 shares via the distribution reinvestment plan. Remaining uncalled capital commitment is $10.39M. No activist agenda is disclosed.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Vista VCSL Feeder Fund, L.P. et al.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 13.80&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1919369/000119312526325428/0001193125-26-325428-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VISTASL&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-07-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · OVRLBDC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1965934/000101143826000448/0001011438-26-000448-index.htm</link>
@@ -9547,25 +9562,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.4700 · Mkt cap $1.9M · EV $2.1M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1999261/000121390026080116/0001213900-26-080116-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;STWI&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7374) · fresh_13d · filed 2026-07-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · GLXZ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/13156/000119312526310570/d138634d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-310570</guid>
-      <pubDate>Tue, 21 Jul 2026 16:27:53 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>8-K</category>
-      <scanner:headline>Merger with Evolution terminated; $5.2M fee due</scanner:headline>
-      <scanner:shortName>Galaxy Gaming</scanner:shortName>
-      <scanner:price>1.50</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Merger with Evolution terminated; $5.2M fee due&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Galaxy Gaming&amp;#39;s merger with Evolution Malta Holding Limited was terminated by Evolution on July 21, 2026. Under the merger agreement, Evolution must pay Galaxy a termination fee of $5,234,678 within two business days. Galaxy stated it remains focused on independent growth.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Galaxy Gaming, Inc., a gaming company, engages in the design, development, acquisition, assembly, marketing and licensing of proprietary casino table games, side bets, and associated technology, platforms and systems for the casino and iGaming industries. The company’s proprietary table games comprise side bets, which are proprietary features and wagering options added to public domain games, such as baccarat, pai gow poker, craps, and blackjack table games under the 21+3, Lucky Ladies, and Bonu…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Evolution Malta Holding Limited&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 5234678&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Termination fee payment due within 2 business days&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.50 · Mkt cap $39.8M · EV $73.7M · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/13156/000119312526310570/0001193125-26-310570-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GLXZ&lt;/b&gt; · 8-K · Items 1.02, 7.01, 9.01 · Amusement / Recreation (7900) · 8k_tier1:1.02,7.01 · filed 2026-07-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

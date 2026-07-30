@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 16:17:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:24:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VISTASL 📍 Stake
+Receives 13D/A from Vista entities; stake rises to 13.8%</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1919369/000119312526325428/primary_doc.xml</link>
+      <guid isPermaLink="false">0001193125-26-325428</guid>
+      <pubDate>Thu, 30 Jul 2026 11:24:07 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$OVRLBDC 📍 Stake
 ADIA boosts stake to 55.9% with $22.9M purchase at $24.59/share</title>
@@ -764,15 +772,6 @@ Mcap $3M · EV $5M · Industrials</title>
       <guid isPermaLink="false">0001493152-26-035138</guid>
       <pubDate>Wed, 29 Jul 2026 11:48:23 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$PPT 📍 Stake
-Receives 13D/A from Sit Investment Associates; stake rises to 30.1%
-Mcap $1.6B · EV $2.0B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/827773/000089710126000340/primary_doc.xml</link>
-      <guid isPermaLink="false">0000897101-26-000340</guid>
-      <pubDate>Wed, 29 Jul 2026 11:19:16 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
