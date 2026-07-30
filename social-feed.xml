@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 21:38:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 22:04:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GROY 📍 Stake
+Tether Global Investments files 13D/A; 14.4% stake in GROY
+Mcap $664M · EV $648M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1834026/000110465926088829/primary_doc.xml</link>
+      <guid isPermaLink="false">0001104659-26-088829</guid>
+      <pubDate>Thu, 30 Jul 2026 17:04:49 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$SAN 🤝 Merger
 Acquires remaining 10% of Santander Brazil for 0.4056 SAN shares/unit; €1.9B
@@ -670,16 +679,6 @@ Mcap $341M · EV $458M · Healthcare</title>
       <guid isPermaLink="false">0000947871-26-000732</guid>
       <pubDate>Wed, 29 Jul 2026 17:47:23 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$PSYCF 🔎 Strat Review · Strat Alts
-Launches strategic review; special committee formed
-Mcap $3M · EV $2M · Cons Stpl</title>
-      <link>https://hk.marketscreener.com/news/psyched-wellness-launches-strategic-review-to-unlock-shareholder-value-ce7f51d3dc8ff720</link>
-      <guid isPermaLink="false">OTC-529964</guid>
-      <pubDate>Wed, 29 Jul 2026 17:00:09 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
