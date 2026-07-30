@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 20:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:17:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AVB 🤝 Merger
+Merges with Equity Residential to form Vivmark Residential; ticker VMRK
+stock
+Mcap $27B · EV $37B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915912/000110465926088691/tm2617036d5_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-088691</guid>
+      <pubDate>Thu, 30 Jul 2026 15:17:04 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VREOF 🤝 Merger
 Acquires Planet 13 for 0.0154 Vireo shares per share; vote pending
@@ -725,65 +736,6 @@ Mcap $65M · EV $47M · Cons Stpl</title>
       <guid isPermaLink="false">0001493152-26-035192</guid>
       <pubDate>Wed, 29 Jul 2026 15:19:39 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PRQR 📍 Stake
-Receives 13D/A from Van Herk Investments; 10.9% stake
-Mcap $248M · EV $173M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1612940/000110465926088126/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-088126</guid>
-      <pubDate>Wed, 29 Jul 2026 15:13:30 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$VYNE 📍 Stake
-Receives 13D from AI Biotechnology; 6.02% stake post-merger
-Mcap $19M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1566044/000119312526323654/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-323654</guid>
-      <pubDate>Wed, 29 Jul 2026 15:13:11 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SNYR 🔎 Strat Review · Strat Alts
-Evaluates strategic alternatives after Costco drops FOCUSfactor (58% rev)
-Mcap $3M · EV $30M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1562733/000121390026082791/ea0299706-8k_synergy.htm</link>
-      <guid isPermaLink="false">0001213900-26-082791</guid>
-      <pubDate>Wed, 29 Jul 2026 15:12:28 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$XNCR ⚖️ Litigation · Settled
-Settles Ultomiris royalty dispute with Alexion for $105M cash
-Mcap $1.5B · EV $1.1B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326732/000132673226000049/xncr-20260729.htm</link>
-      <guid isPermaLink="false">0001326732-26-000049</guid>
-      <pubDate>Wed, 29 Jul 2026 15:12:18 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$MDXG 🤝 Merger · Preliminary
-Plans to acquire Sanara MedTech
-Mcap $649M · EV $507M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1376339/000137633926000074/mdxg-20260729.htm</link>
-      <guid isPermaLink="false">0001376339-26-000074</guid>
-      <pubDate>Wed, 29 Jul 2026 15:11:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$MDV 🤝 Merger
-Acquired by Global Net Lease; stock consideration; vote Aug 10
-stock
-Mcap $189M · EV $494M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1645873/000114036126030042/ef20078960_425.htm</link>
-      <guid isPermaLink="false">0001140361-26-030042</guid>
-      <pubDate>Wed, 29 Jul 2026 15:11:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
