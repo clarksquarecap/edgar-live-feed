@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 20:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:28:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EA 📦 Going Private
@@ -716,26 +716,6 @@ Mcap $43B · EV $45B · Tech</title>
       <guid isPermaLink="false">0001193125-26-323827</guid>
       <pubDate>Wed, 29 Jul 2026 15:29:16 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$CHDN 🔎 Strat Review · Portfolio Review
-Exploring sale of 8 regional gaming properties
-Mcap $6.2B · EV $11B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/20212/000002021226000056/chdn-20260729.htm</link>
-      <guid isPermaLink="false">0000020212-26-000056</guid>
-      <pubDate>Wed, 29 Jul 2026 15:23:03 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
-    </item>
-    <item>
-      <title>$ALGN 👀 Activist
-Adds 3 directors, launches strategic review, ups buyback to $400M-$500M after Elliott engagement
-Mcap $13B · EV $12B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1097149/000109714926000056/algn-20260729.htm</link>
-      <guid isPermaLink="false">0001097149-26-000056</guid>
-      <pubDate>Wed, 29 Jul 2026 15:22:14 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>cooperation_agreement</category>
     </item>
   </channel>
 </rss>
