@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 13:00:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 13:07:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CPBI 💧 Capital Return · Buyback
+10% share repurchase program approved; regulatory submission pending
+Mcap $78M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1979332/000094337426000338/cpbi-20260728.htm</link>
+      <guid isPermaLink="false">0000943374-26-000338</guid>
+      <pubDate>Thu, 30 Jul 2026 08:07:00 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$ZDPY 📤 Divestiture
 Sells all assets to management-led BPB for $7M; special dividend $0.35-$0.45
@@ -773,28 +783,6 @@ Mcap $390K · EV $5M · Cons Disc</title>
       <pubDate>Wed, 29 Jul 2026 08:24:16 -0500</pubDate>
       <category>INSOLVENCY</category>
       <category>other</category>
-    </item>
-    <item>
-      <title>$TIPT 🤝 Merger
-Acquires Universal Shield Insurance Group for $100M cash; close Q1 2027
-$100 million deal · cash
-Mcap $678M · EV $971M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1393726/000139372626000047/tipt-20260728.htm</link>
-      <guid isPermaLink="false">0001393726-26-000047</guid>
-      <pubDate>Wed, 29 Jul 2026 08:06:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$HSCS 🤝 Merger
-Acquired by Fortitude Mining in all-stock merger; preliminary proxy filed
-stock
-Mcap $8M · EV $8M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026082579/ea0299627-8k_heart.htm</link>
-      <guid isPermaLink="false">0001213900-26-082579</guid>
-      <pubDate>Wed, 29 Jul 2026 08:05:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
