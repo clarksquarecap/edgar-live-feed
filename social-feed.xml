@@ -6,8 +6,47 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 10:06:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 10:09:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ULIT 🤝 Merger
+Business combination with Constellation Acquisition Corp I; Nasdaq listing</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026082961/ea0299773-425_constell1.htm</link>
+      <guid isPermaLink="false">0001213900-26-082961</guid>
+      <pubDate>Thu, 30 Jul 2026 05:09:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$PBT 🤝 Merger · Unsolicited
+Receives unsolicited merger proposal from SoftVest (13.3% holder); vote pending
+SoftVest Advisors
+Mcap $1.3B · EV $1.3B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/319654/000121390026083017/ea029961602-425_soft.htm</link>
+      <guid isPermaLink="false">0001213900-26-083017</guid>
+      <pubDate>Thu, 30 Jul 2026 05:06:47 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
+    <item>
+      <title>$NG 🤝 Merger
+Proposed transaction announced July 22; soliciting shareholder support
+Mcap $2.5B · EV $2.3B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926088383/tm2619701d15_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-088383</guid>
+      <pubDate>Thu, 30 Jul 2026 05:06:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$FLEX 🪓 Spinoff
+Spinning off Cloud &amp; Power Infrastructure segment; tax-free distribution
+Mcap $43B · EV $45B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526324418/d87134ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-324418</guid>
+      <pubDate>Thu, 30 Jul 2026 05:06:29 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$ATAI 🤝 Merger
 Acquired by Eli Lilly for $6.75 cash + up to $2.50 CVR per share; vote pending
@@ -756,49 +795,6 @@ Mcap $465M · EV $464M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2079253/000121390026082490/ea0299618-425_apex.htm</link>
       <guid isPermaLink="false">0001213900-26-082490</guid>
       <pubDate>Wed, 29 Jul 2026 05:15:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RDAC 🤝 Merger
-Extends business combination deadline to Aug 15 with $111K promissory notes
-HZJL Cayman Limited
-Mcap $36M · EV $37M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2018145/000121390026082432/ea0299452-8k_rising.htm</link>
-      <guid isPermaLink="false">0001213900-26-082432</guid>
-      <pubDate>Wed, 29 Jul 2026 05:08:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ORLA 🤝 Merger
-Acquired by Equinox Gold for 1.00 EQX share + $0.0001 cash; close July 31
-stock · close July 31, 2026
-Mcap $3.4B · EV $3.3B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1680056/000127956926000709/orlamining6k.htm</link>
-      <guid isPermaLink="false">0001279569-26-000709</guid>
-      <pubDate>Wed, 29 Jul 2026 05:07:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BAK 🪙 Debt Restr.
-Engages creditors for capital restructuring; court stay in place
-Mcap $841M · EV $13B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426003950/bak20260728_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-003950</guid>
-      <pubDate>Wed, 29 Jul 2026 05:07:04 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>out_of_court</category>
-    </item>
-    <item>
-      <title>$WSTN 🤝 Merger
-Acquires First Choice Healthcare for ~$650M equity value; SPAC merger
-~$650,000,000 deal · stock
-Mcap $82M · EV $82M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2076192/000121390026082414/ea0299262-8k425_westin.htm</link>
-      <guid isPermaLink="false">0001213900-26-082414</guid>
-      <pubDate>Wed, 29 Jul 2026 05:06:19 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
