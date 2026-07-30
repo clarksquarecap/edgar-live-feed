@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 21:03:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 21:09:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PUSA 🤝 Merger
+Files S-4 for Powerus acquisition; close expected summer 2026
+Mcap $62M · EV $25M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2009312/000149315226035493/form425.htm</link>
+      <guid isPermaLink="false">0001493152-26-035493</guid>
+      <pubDate>Thu, 30 Jul 2026 16:09:37 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$KVAC 📉 Delisting · Forced
 Forced Nasdaq delisting effective Aug 3; will trade OTC
@@ -653,15 +663,6 @@ stock · close Q3 2026</title>
       <pubDate>Wed, 29 Jul 2026 16:14:57 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$FLEX 🪓 Spinoff
-Spins off Cloud &amp; Power Infra segment; CEO Advaithi to lead SpinCo, Hartung to become Flex CEO
-Mcap $43B · EV $45B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526324195/d122202ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-324195</guid>
-      <pubDate>Wed, 29 Jul 2026 16:07:04 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
