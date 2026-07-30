@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 11:54:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 12:00:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GIL 📤 Divestiture
@@ -846,17 +846,6 @@ Mcap $4M · EV $4M · Energy</title>
       <pubDate>Wed, 29 Jul 2026 07:08:52 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CNL 📉 Delisting · Voluntary
-Delists from NYSE American Aug 10; lists on Nasdaq Aug 11
-effective 2026-08-10
-Mcap $1.2B · EV $1.1B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1953575/000127956926000712/collectivemining6k.htm</link>
-      <guid isPermaLink="false">0001279569-26-000712</guid>
-      <pubDate>Wed, 29 Jul 2026 06:56:05 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
