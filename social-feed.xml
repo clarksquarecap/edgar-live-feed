@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 11:05:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 11:12:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CROX 💧 Capital Return · Buyback
+Increases buyback authorization by $1.5B to $2.0B
+Mcap $6.6B · EV $8.2B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1334036/000133403626000050/crox-20260730.htm</link>
+      <guid isPermaLink="false">0001334036-26-000050</guid>
+      <pubDate>Thu, 30 Jul 2026 06:12:59 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$TOP 👀 Activist
 Faces activist 13D from Junli Yang seeking control; 17.1% stake
@@ -847,25 +857,6 @@ Mcap $43B · EV $45B · Tech</title>
       <guid isPermaLink="false">0000866374-26-000027</guid>
       <pubDate>Wed, 29 Jul 2026 06:19:07 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$PBT 🤝 Merger
-Proposed combination with US Land Guild; unitholder vote required
-Mcap $1.3B · EV $1.3B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/319654/000121390026082517/ea029960902-425_pbt.htm</link>
-      <guid isPermaLink="false">0001213900-26-082517</guid>
-      <pubDate>Wed, 29 Jul 2026 06:12:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DAIC 💥 Busted M&amp;A
-Lead investor terminates preferred stock purchase; company disputes
-Mcap $1M · EV $3M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026082509/ea0299621-8k_cidhold.htm</link>
-      <guid isPermaLink="false">0001213900-26-082509</guid>
-      <pubDate>Wed, 29 Jul 2026 06:06:23 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
