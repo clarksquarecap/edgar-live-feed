@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 20:18:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:20:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EA 📦 Going Private
+Acquired by PIF/Silver Lake/Affinity consortium; close Aug 4
+close August 4, 2026
+Mcap $52B · EV $51B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/712515/000114036126030255/ef20078929_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-030255</guid>
+      <pubDate>Thu, 30 Jul 2026 15:20:30 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$LCCC 🤝 Merger
 Extends merger with CPRO Korea to Sep 1; $67.5K payment, 5.1M shares redeemed
@@ -726,37 +736,6 @@ Mcap $13B · EV $12B · Healthcare</title>
       <pubDate>Wed, 29 Jul 2026 15:22:14 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
       <category>cooperation_agreement</category>
-    </item>
-    <item>
-      <title>$SMHI 🔎 Strat Review · Strat Alts
-Launches strategic alternatives review; sale, merger, or asset sales possible
-Mcap $216M · EV $506M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1690334/000169033426000021/smhi-20260729.htm</link>
-      <guid isPermaLink="false">0001690334-26-000021</guid>
-      <pubDate>Wed, 29 Jul 2026 15:20:16 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$PDC ⚖️ Litigation · Settled
-Settled shareholder lawsuit for JPY20M (~$122k); attachments withdrawn
-vs Shareholder plaintiffs
-Mcap $25M · EV $25M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1944399/000121390026082803/ea0299660-6k_perpetuals.htm</link>
-      <guid isPermaLink="false">0001213900-26-082803</guid>
-      <pubDate>Wed, 29 Jul 2026 15:19:55 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$WNW 📤 Divestiture
-Sells Mahao BVI to Li Dong for $100; closed July 9
-close 2026-07-09
-Mcap $65M · EV $47M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1787803/000149315226035192/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-035192</guid>
-      <pubDate>Wed, 29 Jul 2026 15:19:39 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
