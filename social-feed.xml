@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 11:33:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 11:40:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ICE 🤝 Merger
+Acquires MarketAxess for $167/share cash; vote pending
+MarketAxess Holdings · cash
+Mcap $87B · EV $108B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1571949/000119312526324914/d116245ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-324914</guid>
+      <pubDate>Thu, 30 Jul 2026 06:40:05 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DRS 🤝 Merger
 Acquires Raft for $450M; expands multi-domain AI capabilities
@@ -846,17 +857,6 @@ Mcap $2.6B · EV $2.6B · Materials</title>
       <guid isPermaLink="false">0001171843-26-004980</guid>
       <pubDate>Wed, 29 Jul 2026 06:49:29 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$PCSA 🤝 Merger
-Acquires Vidya Therapeutics in reverse merger; PIPE investors to own 52.6% post-close
-stock · close 2026-07-28
-Mcap $8M · EV $7M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1533743/000149315226035099/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-035099</guid>
-      <pubDate>Wed, 29 Jul 2026 06:37:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
