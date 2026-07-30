@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 21:10:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 21:16:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SOUL 🤝 Merger
+BVI court approves asset sale condition for SWB Holdings merger
+Mcap $352M · EV $355M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2025608/000149315226035496/form425.htm</link>
+      <guid isPermaLink="false">0001493152-26-035496</guid>
+      <pubDate>Thu, 30 Jul 2026 16:16:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TCX 🪙 Debt Restr.
 Buys out $150M preferred stake for $3M + $5M loan; resolves breach
@@ -656,33 +666,6 @@ Mcap $43B · EV $45B · Tech</title>
       <guid isPermaLink="false">0001193125-26-324240</guid>
       <pubDate>Wed, 29 Jul 2026 16:22:05 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$BRTM 📍 Stake
-Sponsor files 13D on 28.8% stake in SPAC
-Mcap $196B · EV $236B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2131350/000119312526324204/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-324204</guid>
-      <pubDate>Wed, 29 Jul 2026 16:15:45 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$2639151D 🏛️ Demutualization
-Completes mutual-to-stock conversion and IPO; OTCQB listing July 30</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2114521/000110465926088239/tm2621574d2_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-088239</guid>
-      <pubDate>Wed, 29 Jul 2026 16:15:28 -0500</pubDate>
-      <category>DEMUTUALIZATION</category>
-    </item>
-    <item>
-      <title>$VBNK 🤝 Merger
-Acquires VersaBank via 1-for-1 share exchange; vote Sep 16
-stock · close Q3 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2100848/000110465926088225/tm2533318-18_s4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-088225</guid>
-      <pubDate>Wed, 29 Jul 2026 16:14:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
