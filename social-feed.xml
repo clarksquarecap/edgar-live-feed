@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 21:24:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 21:30:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XFLT 👀 Activist
+Faces Octagon activist campaign; special meeting on sub-adviser change adjourned to Aug 6
+Mcap $266M · Financial Serv</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026083434/ea0299793-dfan14a_octagon.htm</link>
+      <guid isPermaLink="false">0001213900-26-083434</guid>
+      <pubDate>Thu, 30 Jul 2026 16:30:56 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$SOUL 🤝 Merger
 BVI court approves asset sale condition for SWB combination
@@ -649,15 +658,6 @@ Mcap $2.4B · EV $4.4B · Industrials</title>
       <pubDate>Wed, 29 Jul 2026 16:36:29 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ARAY 🪙 Debt Restr.
-Issues $55M Series A Preferred; converts $40M debt, cancels warrants
-Mcap $29M · EV $173M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1138723/000143774926024904/aray20260729_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-024904</guid>
-      <pubDate>Wed, 29 Jul 2026 16:29:59 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
