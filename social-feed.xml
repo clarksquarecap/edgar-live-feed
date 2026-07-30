@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 11:46:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 11:54:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GIL 📤 Divestiture
+Sells HanesBrands Australia for ~$490M; close H2 2026
+Mcap $9.5B · EV $14B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1061894/000106189426000017/form6-kpressreleaseq22026.htm</link>
+      <guid isPermaLink="false">0001061894-26-000017</guid>
+      <pubDate>Thu, 30 Jul 2026 06:54:04 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$MKTX 🤝 Merger
 Acquired by ICE for $167 cash/share; vote pending
@@ -848,26 +857,6 @@ Mcap $1.2B · EV $1.1B · Materials</title>
       <pubDate>Wed, 29 Jul 2026 06:56:05 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$ITMSF 🤝 Merger
-Acquires PCI Geomatics for $11M cash; accretive to revenue, EBITDA
-PCI Geomatics Group · $11 million deal · cash
-Mcap $56M · EV $39M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1285170/000117184326004979/f6k_072926.htm</link>
-      <guid isPermaLink="false">0001171843-26-004979</guid>
-      <pubDate>Wed, 29 Jul 2026 06:49:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AAUC 💥 Busted M&amp;A
-Terminates arrangement with Zijin Gold; receives $295M strategic investment
-Mcap $2.6B · EV $2.6B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1993344/000117184326004980/f6k_072926.htm</link>
-      <guid isPermaLink="false">0001171843-26-004980</guid>
-      <pubDate>Wed, 29 Jul 2026 06:49:29 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
