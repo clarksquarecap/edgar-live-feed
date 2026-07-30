@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 13:13:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 13:19:39 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · LPRO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1806201/000135445726000741/0001354457-26-000741-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000741</guid>
+      <pubDate>Thu, 30 Jul 2026 08:19:39 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <scanner:headline>Forced Nasdaq delisting effective July 30</scanner:headline>
+      <scanner:shortName>Open Lending</scanner:shortName>
+      <scanner:price>3.13</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective July 30&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Nasdaq filed Form 25-NSE to remove Open Lending Corp&amp;#39;s common stock from listing due to failure to meet listing standards. The delisting is effective as of July 30, 2026. The stock will trade on OTC markets.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Open Lending Corporation provides lending enablement and risk analytics solutions to credit unions, regional banks, finance companies, and captive finance companies of automakers in the United States. The company offers lenders protection platform (LPP), which is a cloud-based automotive lending enablement platform that provides loan analytics solutions and automated issuance of credit default insurance with third-party insurance providers.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.13 · Mkt cap $370.4M · EV $282.1M · Fwd P/E 19.0x · Fwd EV/EBITDA 9.1x · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1806201/000135445726000741/0001354457-26-000741-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LPRO&lt;/b&gt; · 25-NSE · Non-Depository Credit (6141) · prefill_form:25-NSE · filed 2026-07-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · HLX</title>
       <link>https://www.sec.gov/Archives/edgar/data/866829/000114036126030150/ny20075253x4_s4a.htm</link>
@@ -9551,23 +9570,6 @@
 &lt;p&gt;&lt;i&gt;Px $4.91 · Mkt cap $15.4M · EV $-12.2M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1787297/000114036126029162/0001140361-26-029162-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PASG&lt;/b&gt; · S-4 · Chemicals / Pharma (2836) · prefill_form:S-4 · filed 2026-07-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🏦 Demutual. · RBKB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1751783/000175178326000032/rbkb-20260721x8k.htm</link>
-      <guid isPermaLink="false">0001751783-26-000032</guid>
-      <pubDate>Tue, 21 Jul 2026 16:21:20 -0500</pubDate>
-      <category>DEMUTUALIZATION</category>
-      <category>8-K</category>
-      <scanner:headline>Completes second-step conversion; 8.88M shares at $10.00</scanner:headline>
-      <scanner:shortName>Rhinebeck Bancorp</scanner:shortName>
-      <scanner:price>17.65</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Completes second-step conversion; 8.88M shares at $10.00&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Completed its second-step conversion from a two-tier mutual holding company (MHC) to a fully-public stock holding company. The company sold 8,880,210 shares at $10.00 per share, and existing public shares were converted at an exchange ratio of 1.3978, resulting in 15,638,237 total shares outstanding. The MHC ceased to exist upon closing.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Rhinebeck Bancorp, Inc. operates as the bank holding company for Rhinebeck Bank that provides banking and financial products and services to consumer and commercial customers in the Hudson Valley region of New York, the United States. The company offers deposits, including non-interest-bearing demand, interest-bearing demand, money market, commercial and personal checking, individual retirement, and savings accounts, as well as certificates of deposit.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Px $17.65 · Mkt cap $190.7M · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1751783/000175178326000032/0001751783-26-000032-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RBKB&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Depository Institutions (6036) · 8k_tier1:8.01 · filed 2026-07-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
