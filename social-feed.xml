@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 21:32:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 21:38:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SAN 🤝 Merger
+Acquires remaining 10% of Santander Brazil for 0.4056 SAN shares/unit; €1.9B
+15% prem · €1,908 million deal · stock
+Mcap $197B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/891478/000095010326011481/dp250874_6k.htm</link>
+      <guid isPermaLink="false">0000950103-26-011481</guid>
+      <pubDate>Thu, 30 Jul 2026 16:38:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BFC 🤝 Merger
 Acquires PSB Holdings for 0.3470x BFC shares; vote Sept 2
@@ -669,17 +680,6 @@ Mcap $3M · EV $2M · Cons Stpl</title>
       <pubDate>Wed, 29 Jul 2026 17:00:09 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$CBZ 🤝 Merger
-Acquired by Grant Thornton Advisors for $55.00 cash per share
-54% prem · $5B deal · cash
-Mcap $2.4B · EV $4.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/944148/000119312526324268/d127027ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-324268</guid>
-      <pubDate>Wed, 29 Jul 2026 16:36:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
