@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 30 Jul 2026 20:28:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:34:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EQH 🤝 Merger
+Acquired by Corebridge Financial; stockholder vote approved; close by year-end 2026
+Mcap $14B · EV $12B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1333986/000095014226002208/eh260814972_425.htm</link>
+      <guid isPermaLink="false">0000950142-26-002208</guid>
+      <pubDate>Thu, 30 Jul 2026 15:34:34 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EA 📦 Going Private
 Acquired by PIF/Silver Lake/Affinity consortium; close Aug 4
@@ -644,78 +654,6 @@ Mcap $465M · Financials</title>
       <pubDate>Wed, 29 Jul 2026 15:40:36 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$CMBT 📍 Stake
-Controlling shareholder CMB reports 61.6% stake in 13D/A
-Mcap $4.5B · EV $9.4B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1604481/000091957426004669/primary_doc.xml</link>
-      <guid isPermaLink="false">0000919574-26-004669</guid>
-      <pubDate>Wed, 29 Jul 2026 15:33:21 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$PCOR 🤝 Merger
-Acquires DroneDeploy for $845M cash; close by end of 2026
-$845,000,000 deal · cash
-Mcap $7.4B · EV $6.9B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1611052/000119312526323800/d119085d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-323800</guid>
-      <pubDate>Wed, 29 Jul 2026 15:32:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$QTWO 💧 Capital Return · Buyback
-Authorizes $350M share repurchase; total capacity ~$375M
-Mcap $3.7B · EV $3.7B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1410384/000141038426000051/qtwo-20260729.htm</link>
-      <guid isPermaLink="false">0001410384-26-000051</guid>
-      <pubDate>Wed, 29 Jul 2026 15:32:10 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$GFL 🤝 Merger · Unsolicited
-Receives unsolicited take-private interest; board forms special committee
-multiple parties · close H2 2026
-Mcap $14B · EV $20B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1780232/000110465926088156/tm2619744d2_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-088156</guid>
-      <pubDate>Wed, 29 Jul 2026 15:30:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$HUN 🤝 Merger
-Acquired by Olin; shareholder vote Aug 25
-empty
-Mcap $2.2B · EV $4.6B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1307954/000119312526323828/d169556d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-323828</guid>
-      <pubDate>Wed, 29 Jul 2026 15:30:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SMTI 🤝 Merger
-Acquired by MiMedx for $33 cash + 0.4735 shares (~$35 total)
-MiMedx Group · cash+stk
-Mcap $244M · EV $279M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/714256/000149315226035198/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-035198</guid>
-      <pubDate>Wed, 29 Jul 2026 15:29:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FLEX 🪓 Spinoff
-Spinning off Cloud &amp; Power Infrastructure segment as independent public company
-Mcap $43B · EV $45B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526323827/d157333ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-323827</guid>
-      <pubDate>Wed, 29 Jul 2026 15:29:16 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
