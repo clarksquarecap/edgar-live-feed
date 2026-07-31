@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 31 Jul 2026 01:31:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 01:50:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SCTX 📍 Stake
@@ -707,26 +707,6 @@ Mcap $151M · EV $142M · Materials</title>
       <guid isPermaLink="false">OTC-529993</guid>
       <pubDate>Wed, 29 Jul 2026 22:38:27 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PBT 🤝 Merger
-Acquired by New PBT (SoftVest) in stock-for-assets combination; unitholders get 59.3% of newco
-stock
-Mcap $1.3B · EV $1.3B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/319654/000121390026083008/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-083008</guid>
-      <pubDate>Wed, 29 Jul 2026 20:45:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NCO 📍 Stake
-Receives 13D from sponsor for 21.1% stake
-Mcap $7.6B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2116230/000192998026000394/primary_doc.xml</link>
-      <guid isPermaLink="false">0001929980-26-000394</guid>
-      <pubDate>Wed, 29 Jul 2026 20:45:41 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
