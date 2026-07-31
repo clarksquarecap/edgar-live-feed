@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 31 Jul 2026 21:46:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 22:10:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MAXXF 📤 Divestiture
@@ -793,15 +793,6 @@ Mcap $18M · EV $17M · Materials</title>
       <pubDate>Thu, 30 Jul 2026 17:11:27 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GROY 📍 Stake
-Tether Global Investments files 13D/A; 14.4% stake in GROY
-Mcap $664M · EV $648M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1834026/000110465926088829/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-088829</guid>
-      <pubDate>Thu, 30 Jul 2026 17:04:49 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
