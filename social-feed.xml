@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 31 Jul 2026 19:56:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 20:02:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VACI 🤝 Merger
+Acquired by SPAC VACI; files amended F-4
+Mcap $318M · EV $316M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080023/000121390026083941/ea0290232-06.htm</link>
+      <guid isPermaLink="false">0001213900-26-083941</guid>
+      <pubDate>Fri, 31 Jul 2026 15:02:52 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MOD 🪓 Spinoff
 Spins off Performance Technologies to merge with Gentherm; close by year-end
@@ -711,15 +721,6 @@ Mcap $40M · EV $88M · Healthcare</title>
       <pubDate>Thu, 30 Jul 2026 15:07:48 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$KNOP 👀 Activist
-Faces activist letter from Astaris Capital; 8.1% stake
-Mcap $354M · EV $1.3B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1564180/000091957426004689/primary_doc.xml</link>
-      <guid isPermaLink="false">0000919574-26-004689</guid>
-      <pubDate>Thu, 30 Jul 2026 15:01:25 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
