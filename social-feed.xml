@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 31 Jul 2026 20:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 20:25:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PERF 📦 Going Private
+Acquired by ProjectNY for $2.00 cash; EGM vote pending
+cash
+Mcap $197M · EV $36M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1899830/000110465926089222/tm2621676-1_sc13e3.htm</link>
+      <guid isPermaLink="false">0001104659-26-089222</guid>
+      <pubDate>Fri, 31 Jul 2026 15:25:44 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$EQR 🤝 Merger
 Pro forma financials filed for AvalonBay merger; 51% ownership to AVB holders
@@ -677,16 +687,6 @@ Mcap $14B · EV $12B · Financials</title>
       <pubDate>Thu, 30 Jul 2026 15:34:34 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$EA 📦 Going Private
-Acquired by PIF/Silver Lake/Affinity consortium; close Aug 4
-close August 4, 2026
-Mcap $52B · EV $51B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/712515/000114036126030255/ef20078929_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-030255</guid>
-      <pubDate>Thu, 30 Jul 2026 15:20:30 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
   </channel>
 </rss>
