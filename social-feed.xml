@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 31 Jul 2026 16:45:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 17:03:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$OP 🤝 Merger
@@ -696,15 +696,6 @@ Mcap $244M · EV $279M · Healthcare</title>
       <pubDate>Thu, 30 Jul 2026 12:54:33 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MYCB 🌑 Going Dark
-Terminates SEC registration; 230 holders; effective July 30
-Mcap $2M · EV $2M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1556801/000164033426001259/jrvs_1512g.htm</link>
-      <guid isPermaLink="false">0001640334-26-001259</guid>
-      <pubDate>Thu, 30 Jul 2026 11:59:51 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>
