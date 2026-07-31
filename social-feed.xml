@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 31 Jul 2026 20:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 20:09:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SBXD 🤝 Merger
+Extends deadline to Apr 15, 2027 for Parataxis merger; vote Aug 11
+empty · close April 15, 2027
+Mcap $276M · EV $277M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2015947/000110465926089196/tm2621778d1_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-089196</guid>
+      <pubDate>Fri, 31 Jul 2026 15:09:41 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CLGN 📍 Stake
 Loewenbaum group reports 25%+ stake in 13D/A
@@ -728,27 +739,6 @@ Mcap $1.8B · EV $1.7B · Healthcare</title>
       <guid isPermaLink="false">0001217234-26-000045</guid>
       <pubDate>Thu, 30 Jul 2026 15:09:44 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ETSY 📤 Divestiture
-Sells Depop to eBay for $1.4B cash
-$1.4 billion deal · close 2026-07-30
-Mcap $8.1B · EV $9.8B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1370637/000137063726000071/etsy-20260730.htm</link>
-      <guid isPermaLink="false">0001370637-26-000071</guid>
-      <pubDate>Thu, 30 Jul 2026 15:09:24 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PLNH 🤝 Merger
-Acquired by Vireo Growth for 0.0154 Vireo shares per share
-stock
-Mcap $40M · EV $88M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1813452/000110465926088663/tm2621363d3_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-088663</guid>
-      <pubDate>Thu, 30 Jul 2026 15:07:48 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
