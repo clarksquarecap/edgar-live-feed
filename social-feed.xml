@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 31 Jul 2026 10:47:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:08:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AAUC 💥 Busted M&amp;A
+Terminated prior transaction; board commits to 20% women by 2027
+Mcap $2.6B · EV $2.6B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1993344/000110465926088964/tm2621782d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-088964</guid>
+      <pubDate>Fri, 31 Jul 2026 06:08:33 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$HSBC 📤 Divestiture
 Sells AUD36B Australian loan portfolio to Blackstone for ~US$25B cash
@@ -661,47 +670,6 @@ Mcap $6.6B · EV $8.2B · Cons Disc</title>
       <pubDate>Thu, 30 Jul 2026 06:12:59 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$TOP 👀 Activist
-Faces activist 13D from Junli Yang seeking control; 17.1% stake
-Mcap $99M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1848275/000121390026083036/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-083036</guid>
-      <pubDate>Thu, 30 Jul 2026 06:05:55 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$EXE 🤝 Merger
-Acquires Twin Eagle for $1.25B cash; HSR/Canada/FERC pending
-Twin Eagle N.A. · $1.25 billion deal · cash
-Mcap $22B · EV $25B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/895126/000110465926088451/tm2621424d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-088451</guid>
-      <pubDate>Thu, 30 Jul 2026 06:05:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MGRX 🤝 Merger
-Acquired by Nuclea Energy in reverse merger; Nuclea holders get ~96% equity
-stock
-Mcap $9M · EV $10M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1938046/000149315226035323/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-035323</guid>
-      <pubDate>Thu, 30 Jul 2026 06:04:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VWAV 🤝 Merger
-Extends share purchase closing deadline to Dec 31, 2026
-Mcap $83M · EV $97M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2038439/000173112226000987/e7812_8-k.htm</link>
-      <guid isPermaLink="false">0001731122-26-000987</guid>
-      <pubDate>Thu, 30 Jul 2026 06:04:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
