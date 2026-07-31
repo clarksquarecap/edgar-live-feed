@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 31 Jul 2026 20:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 20:10:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CREV 🔥 Insolvency
+Faces winding-up petition; provisional liquidators appointed; hearing Oct 19
+advisor: UMB Bank, National Association (OIC)</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1960208/000149315226035627/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-035627</guid>
+      <pubDate>Fri, 31 Jul 2026 15:09:58 -0500</pubDate>
+      <category>INSOLVENCY</category>
+      <category>other</category>
+    </item>
     <item>
       <title>$SBXD 🤝 Merger
 Extends deadline to Apr 15, 2027 for Parataxis merger; vote Aug 11
@@ -709,36 +719,6 @@ Mcap $449M · EV $727M · Healthcare</title>
       <pubDate>Thu, 30 Jul 2026 15:10:54 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CAPR ⚖️ Litigation · Lost
-FDA advisory committee votes 9-3 against Deramiocel effectiveness; PDUFA Aug 22
-Mcap $380M · EV $117M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1133869/000110465926088667/capr-20260729x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-088667</guid>
-      <pubDate>Thu, 30 Jul 2026 15:10:25 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
-    </item>
-    <item>
-      <title>$TEM 🤝 Merger
-Acquires Personalis for $16.25/share (~$1.5B EV); close late Q4 2026/early 2027
-cash
-Mcap $7.5B · EV $8.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1717115/000119312526326083/tem-20260730.htm</link>
-      <guid isPermaLink="false">0001193125-26-326083</guid>
-      <pubDate>Thu, 30 Jul 2026 15:10:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CDNA 📤 Divestiture
-Sells Lab Products business to Eurobio Scientific; $113M gain
-Mcap $1.8B · EV $1.7B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1217234/000121723426000045/cdna-20260730.htm</link>
-      <guid isPermaLink="false">0001217234-26-000045</guid>
-      <pubDate>Thu, 30 Jul 2026 15:09:44 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
