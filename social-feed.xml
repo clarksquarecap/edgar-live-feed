@@ -6,8 +6,36 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 31 Jul 2026 20:02:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 20:03:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CLGN 📍 Stake
+Loewenbaum group reports 25%+ stake in 13D/A
+Mcap $6M · EV $4M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1631487/000110465926089193/primary_doc.xml</link>
+      <guid isPermaLink="false">0001104659-26-089193</guid>
+      <pubDate>Fri, 31 Jul 2026 15:03:50 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$HGBL 📤 Divestiture
+Winds down Specialty Lending segment; expects material non-cash charge
+Mcap $40M · EV $34M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/849145/000119312526328342/hgbl-20260731.htm</link>
+      <guid isPermaLink="false">0001193125-26-328342</guid>
+      <pubDate>Fri, 31 Jul 2026 15:03:21 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>wind_down</category>
+    </item>
+    <item>
+      <title>$EVGN ⚔️ Proxy
+Faces proxy contest from Pure Capital Slate; AGM Sept 4
+Mcap $6M · EV $5M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574565/000117891326003741/zk2635808.htm</link>
+      <guid isPermaLink="false">0001178913-26-003741</guid>
+      <pubDate>Fri, 31 Jul 2026 15:03:08 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$VACI 🤝 Merger
 Acquired by SPAC VACI; files amended F-4
