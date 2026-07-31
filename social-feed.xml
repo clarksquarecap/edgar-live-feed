@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 31 Jul 2026 11:08:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 11:16:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$PSQH 📤 Divestiture
@@ -660,26 +660,6 @@ Mcap $4.3B · EV $7.8B · Utilities</title>
       <pubDate>Thu, 30 Jul 2026 06:20:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MLM 🤝 Merger
-Acquires Lhoist North America; expands Specialties platform
-Mcap $34B · EV $40B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916076/000119312526324863/mlm-20260730.htm</link>
-      <guid isPermaLink="false">0001193125-26-324863</guid>
-      <pubDate>Thu, 30 Jul 2026 06:13:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CROX 💧 Capital Return · Buyback
-Increases buyback authorization by $1.5B to $2.0B
-Mcap $6.6B · EV $8.2B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1334036/000133403626000050/crox-20260730.htm</link>
-      <guid isPermaLink="false">0001334036-26-000050</guid>
-      <pubDate>Thu, 30 Jul 2026 06:12:59 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
