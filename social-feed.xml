@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 31 Jul 2026 21:25:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 21:32:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ALIS 🤝 Merger
+Acquires Goodvision AI Inc. via merger; investor presentation filed
+empty
+Mcap $86M · EV $85M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2026767/000149315226035689/form425.htm</link>
+      <guid isPermaLink="false">0001493152-26-035689</guid>
+      <pubDate>Fri, 31 Jul 2026 16:32:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AMZN 🤝 Merger
 Acquires Globalstar for $90/share cash/stock; 40% cash cap, election prorated
@@ -772,37 +783,6 @@ Mcap $197B · Financials</title>
       <pubDate>Thu, 30 Jul 2026 16:38:55 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BFC 🤝 Merger
-Acquires PSB Holdings for 0.3470x BFC shares; vote Sept 2
-80.6 prem · stock
-Mcap $1.7B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1746109/000110465926088816/tm2620547-3_s4.htm</link>
-      <guid isPermaLink="false">0001104659-26-088816</guid>
-      <pubDate>Thu, 30 Jul 2026 16:31:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BSBR 🎯 Tender · Preliminary
-Parent Santander offers 0.4056 shares/ADS for minority; 15% premium
-Banco Santander · 15% prem · €1,908 million deal · stock
-Mcap $20B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1471055/000095010326011482/dp250946_425.htm</link>
-      <guid isPermaLink="false">0000950103-26-011482</guid>
-      <pubDate>Thu, 30 Jul 2026 16:31:33 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$XFLT 👀 Activist
-Faces Octagon activist campaign; special meeting on sub-adviser change adjourned to Aug 6
-Mcap $266M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026083434/ea0299793-dfan14a_octagon.htm</link>
-      <guid isPermaLink="false">0001213900-26-083434</guid>
-      <pubDate>Thu, 30 Jul 2026 16:30:56 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
