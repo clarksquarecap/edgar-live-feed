@@ -6,8 +6,45 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 31 Jul 2026 21:04:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 21:05:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NNBR 📍 Stake
+Receives 13D/A from Legion Partners; 6.5% stake
+Mcap $180M · EV $509M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918541/000092189526001915/primary_doc.xml</link>
+      <guid isPermaLink="false">0000921895-26-001915</guid>
+      <pubDate>Fri, 31 Jul 2026 16:05:13 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$BDMD 📍 Stake
+Receives 13D from ExcelFin SPAC / Grand Fortune Capital disclosing 31.4% stake
+Mcap $32M · EV $51M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1982444/000168316826005875/primary_doc.xml</link>
+      <guid isPermaLink="false">0001683168-26-005875</guid>
+      <pubDate>Fri, 31 Jul 2026 16:04:56 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$PFSA 🤝 Merger
+Acquires G3 Vision Labs via option; $30M financing condition
+stock
+Mcap $320K · EV $12M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1859807/000121390026084064/ea0300017-8k_profusa.htm</link>
+      <guid isPermaLink="false">0001213900-26-084064</guid>
+      <pubDate>Fri, 31 Jul 2026 16:04:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$TMGI 💥 Busted M&amp;A
+Apache Creek Golf Course acquisition terminated; $200K deposit forfeited</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1434601/000168316826005872/tmgi_8k.htm</link>
+      <guid isPermaLink="false">0001683168-26-005872</guid>
+      <pubDate>Fri, 31 Jul 2026 16:04:13 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$FKWL ⚖️ Litigation · Lost
 Lost $3.7M damages ruling in Seoul court; evaluating appeal
