@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 01 Aug 2026 08:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 10:10:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MAXXF 📤 Divestiture
@@ -672,49 +672,6 @@ Mcap $43B · EV $45B · Tech</title>
       <guid isPermaLink="false">0001193125-26-326653</guid>
       <pubDate>Fri, 31 Jul 2026 05:14:28 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$REPL ⚖️ Litigation · Won
-Advisory committee votes 10-3 RP1 efficacy evaluable; FDA decision Aug 2
-Mcap $449M · EV $292M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1737953/000110465926088857/tm2621708d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-088857</guid>
-      <pubDate>Fri, 31 Jul 2026 05:08:18 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$BSBR 🤝 Merger · Preliminary
-Parent Banco Santander offers 0.4056 shares per unit/ADS; 15% premium
-15% prem · €1,908M deal · stock
-Mcap $20B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1471055/000129281426003980/bsbr20260730_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-003980</guid>
-      <pubDate>Fri, 31 Jul 2026 05:07:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$BSBR 🤝 Merger · Preliminary
-Acquired by Banco Santander via exchange offer for 0.4056 shares per Unit; 15% premium
-15% prem · €1,908 million deal · stock
-Mcap $20B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1471055/000129281426003984/bsbr20260730_425.htm</link>
-      <guid isPermaLink="false">0001292814-26-003984</guid>
-      <pubDate>Fri, 31 Jul 2026 05:06:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$ALOT 🤝 Merger
-Acquired by Arcline for $29.00 cash per share; vote Aug 25
-cash
-Mcap $223M · EV $257M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/8146/000119312526326441/d140981ddefm14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-326441</guid>
-      <pubDate>Fri, 31 Jul 2026 05:06:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
