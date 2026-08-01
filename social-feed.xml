@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 01 Aug 2026 20:43:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 20:49:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MAXXF 📤 Divestiture
@@ -228,27 +228,6 @@ Mcap $29B · EV $40B · Utilities</title>
       <guid isPermaLink="false">0001292814-26-004022</guid>
       <pubDate>Fri, 31 Jul 2026 15:55:32 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$USCMF 🤝 Merger
-Acquires Korn Kob Copper Project for 15M shares (~$1.8M)
-1582577 B.C. · 1,803,000 deal · stock · close Completed
-Mcap $3M · EV $2M · Materials</title>
-      <link>https://sa.marketscreener.com/news/us-critical-metals-corp-completes-acquisition-of-korn-kob-copper-project-in-arizona-ce7f50d8db8cf326</link>
-      <guid isPermaLink="false">OTC-530273</guid>
-      <pubDate>Fri, 31 Jul 2026 15:48:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ELSE 📉 Delisting · Forced
-Forced Nasdaq delisting effective July 31
-Mcap $27M · EV $17M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/351789/000135445726000746/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000746</guid>
-      <pubDate>Fri, 31 Jul 2026 15:47:59 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
