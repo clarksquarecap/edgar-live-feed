@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 01 Aug 2026 20:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 20:09:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MAXXF 📤 Divestiture
@@ -345,15 +345,6 @@ Mcap $276M · EV $277M · Financials</title>
       <pubDate>Fri, 31 Jul 2026 15:09:41 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CLGN 📍 Stake
-Loewenbaum group reports 25%+ stake in 13D/A
-Mcap $6M · EV $4M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1631487/000110465926089193/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-089193</guid>
-      <pubDate>Fri, 31 Jul 2026 15:03:50 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
