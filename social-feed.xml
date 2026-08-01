@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 01 Aug 2026 21:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 21:18:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MAXXF 📤 Divestiture
@@ -80,15 +80,6 @@ Mcap $230K · EV $6M · Comms</title>
       <pubDate>Fri, 31 Jul 2026 16:18:53 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$AVXL ⚔️ Proxy
-Faces PVG Group proxy contest; six dissident nominees
-Mcap $230M · EV $98M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314052/000173112226000998/e7819_prec14a.htm</link>
-      <guid isPermaLink="false">0001731122-26-000998</guid>
-      <pubDate>Fri, 31 Jul 2026 16:18:07 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
