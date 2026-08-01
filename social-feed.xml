@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 01 Aug 2026 12:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 12:51:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MAXXF 📤 Divestiture
@@ -479,24 +479,6 @@ Mcap $19B · EV $25B · Utilities</title>
       <pubDate>Fri, 31 Jul 2026 07:56:04 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CZWI 👀 Activist
-Faces board seat request from Schornack group; committee to evaluate
-Mcap $227M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1367859/000136785926000045/czwi-20260729.htm</link>
-      <guid isPermaLink="false">0001367859-26-000045</guid>
-      <pubDate>Fri, 31 Jul 2026 07:50:04 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$CNNE 📤 Divestiture
-Sells Watkins to KDSA for $90M cash; portfolio transformation
-Mcap $646M · EV $678M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1704720/000170472026000146/cnne-20260730.htm</link>
-      <guid isPermaLink="false">0001704720-26-000146</guid>
-      <pubDate>Fri, 31 Jul 2026 07:49:45 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
