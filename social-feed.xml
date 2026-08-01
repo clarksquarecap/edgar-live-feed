@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 01 Aug 2026 14:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 16:47:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MAXXF 📤 Divestiture
@@ -427,17 +427,6 @@ Receives $24M drawdown from ADQ; stake rises to 10.9%</title>
       <guid isPermaLink="false">0001011438-26-000451</guid>
       <pubDate>Fri, 31 Jul 2026 12:45:04 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$OP 🤝 Merger
-Merges with Titan Acquisition Corp in de-SPAC; vote pending
-stock
-Mcap $3.7B · EV $4.0B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2119416/000182912626008153/openpaydglobal_f4a.htm</link>
-      <guid isPermaLink="false">0001829126-26-008153</guid>
-      <pubDate>Fri, 31 Jul 2026 11:45:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
