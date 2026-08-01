@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 01 Aug 2026 10:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 11:13:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MAXXF 📤 Divestiture
@@ -593,25 +593,6 @@ Mcap $17M · EV $64M · Industrials</title>
       <pubDate>Fri, 31 Jul 2026 06:40:18 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$PSQH 📤 Divestiture
-Sells EveryLife to FreeHold Brands for $5.5M cash; close Sep 30
-close 2026-09-30
-Mcap $14M · EV $44M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847064/000110465926088966/tm2621695d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-088966</guid>
-      <pubDate>Fri, 31 Jul 2026 06:08:50 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AAUC 💥 Busted M&amp;A
-Terminated prior transaction; board commits to 20% women by 2027
-Mcap $2.6B · EV $2.6B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1993344/000110465926088964/tm2621782d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-088964</guid>
-      <pubDate>Fri, 31 Jul 2026 06:08:33 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
