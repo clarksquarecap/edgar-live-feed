@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 01 Aug 2026 18:14:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 18:25:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MAXXF 📤 Divestiture
@@ -401,16 +401,6 @@ Mcap $16M · EV $12M · Tech</title>
       <guid isPermaLink="false">0000912282-26-001018</guid>
       <pubDate>Fri, 31 Jul 2026 13:39:26 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$GCAN 🤝 Merger
-Acquired by Trafalgar Asset Mgmt; name change to Trafalgar Intl, 1:5 reverse split
-Mcap $210K · EV $480K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1695473/000149315226035596/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-035596</guid>
-      <pubDate>Fri, 31 Jul 2026 13:21:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
