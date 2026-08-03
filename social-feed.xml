@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 03 Aug 2026 10:17:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 10:18:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GME 🪙 Debt Restr.
+Exchanges $1.4B convertible notes for equity; close Sept 23
+Mcap $9.7B · EV $5.7B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326380/000132638026000042/gme-20260802.htm</link>
+      <guid isPermaLink="false">0001326380-26-000042</guid>
+      <pubDate>Mon, 03 Aug 2026 05:18:34 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$ATKR 🤝 Merger
+Acquired by Prysmian for $95.00 cash per share
+Prysmian S.p.A. · cash
+Mcap $2.5B · EV $2.9B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1666138/000166613826000016/atkr-20260803.htm</link>
+      <guid isPermaLink="false">0001666138-26-000016</guid>
+      <pubDate>Mon, 03 Aug 2026 05:18:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$QRVO 🤝 Merger
 Acquired by Skyworks; HSR cleared, awaiting China/Korea approvals
