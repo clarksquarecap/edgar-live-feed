@@ -6,8 +6,39 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 03 Aug 2026 10:10:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 10:11:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ELLO 👀 Activist
+Receives 13D/A from Nofar Energy; stake raised to 75% via share exchange
+O.Y. Nofar Energy · 75.0 stake
+Mcap $280M · EV $996M · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/946394/000117891326003747/primary_doc.xml</link>
+      <guid isPermaLink="false">0001178913-26-003747</guid>
+      <pubDate>Mon, 03 Aug 2026 05:11:25 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$FLUT 📉 Delisting · Voluntary
+Cancels secondary LSE listing; now solely NYSE-listed
+effective 2026-08-03
+Mcap $18B · EV $29B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1635327/000119312526329409/d231885d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-329409</guid>
+      <pubDate>Mon, 03 Aug 2026 05:11:00 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
+    <item>
+      <title>$TTE 📤 Divestiture
+Sells 85% interest in Marjoram gas field to INPEX for $350M
+350,000,000 deal
+Mcap $188B · EV $225B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/879764/000110465926089374/tm2621809d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-089374</guid>
+      <pubDate>Mon, 03 Aug 2026 05:10:28 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$IPX 🌍 Re-domicile
 Proposes redomiciliation to Texas; direct Nasdaq listing to replace ADS
