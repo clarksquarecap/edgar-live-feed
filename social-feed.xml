@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 12:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 12:39:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GFF 📤 Divestiture
+Sells AMES Australasia to JV for $181M cash + $49M PIK note; retains 49% stake
+230M deal · close 2026-07-31
+Mcap $4.1B · EV $5.5B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/50725/000162828026052181/gff-20260731.htm</link>
+      <guid isPermaLink="false">0001628280-26-052181</guid>
+      <pubDate>Tue, 04 Aug 2026 07:39:27 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$GALT 📍 Stake
 Uihlein converts $105.8M debt to equity, now owns 49.3% of GALT
@@ -913,16 +923,6 @@ Mcap $6.5B · EV $6.6B · Healthcare</title>
       <pubDate>Mon, 03 Aug 2026 07:41:20 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$VATE 🪙 Debt Restr.
-Pays interest in kind on $459.8M notes; extends Lancer note to Dec 2026
-Mcap $111M · EV $766M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1006837/000100683726000053/hchc-20260731.htm</link>
-      <guid isPermaLink="false">0001006837-26-000053</guid>
-      <pubDate>Mon, 03 Aug 2026 07:35:19 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>liability_management</category>
     </item>
   </channel>
 </rss>
