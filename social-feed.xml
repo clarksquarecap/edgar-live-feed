@@ -6,8 +6,30 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 20:40:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 20:42:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MEDS 🤝 Merger · Preliminary
+Acquires QOLPOM IP and Tollo Health; sellers to own 84.6% post-close
+stock
+Mcap $8M · EV $37M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030763/000149315226036005/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-036005</guid>
+      <pubDate>Tue, 04 Aug 2026 15:42:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
+    <item>
+      <title>$MKLY 🤝 Merger
+Merges with Space-Eyes in $638M SPAC deal; ticker CUAS
+$638M (pro forma equity) deal · stock · close Q4 2026
+Mcap $249M · EV $247M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2067592/000121390026085222/ea0300607-425_mckinley.htm</link>
+      <guid isPermaLink="false">0001213900-26-085222</guid>
+      <pubDate>Tue, 04 Aug 2026 15:40:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ALIS 🤝 Merger
 Secures $8M PIPE at $10/sh for Goodvision AI merger
@@ -850,16 +872,6 @@ Mcap $2.7B · EV $4.4B · Cons Disc</title>
       <pubDate>Mon, 03 Aug 2026 15:46:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TFX 📤 Divestiture
-Sells OEM Business to Montagu/Kohlberg for $1.5B cash; close completed
-$1,500,000,000 deal · close 2026-08-03
-Mcap $6.1B · EV $8.5B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/96943/000009694326000084/tfx-20260803.htm</link>
-      <guid isPermaLink="false">0000096943-26-000084</guid>
-      <pubDate>Mon, 03 Aug 2026 15:40:22 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
