@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 20:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 20:33:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AGX 🤝 Merger
+Acquires ValCor Communications for $8.3M cash/stock
+cash+stk · close 2026-07-31
+Mcap $8.3B · EV $7.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/100591/000110465926090398/agx-20260804x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-090398</guid>
+      <pubDate>Tue, 04 Aug 2026 15:33:25 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$LMB 🤝 Merger
 Acquires CYMCOR for $30M cash/debt
@@ -849,16 +860,6 @@ Mcap $360M · EV $360M · Financials</title>
       <pubDate>Mon, 03 Aug 2026 15:39:03 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$QVCAQ 🔥 Insolvency · Ch. 11
-Chapter 11 monthly operating report: $171M cash, $1.38B unsecured debt
-Mcap $280K · EV $6.2B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1355096/000110465926089808/tm2621891d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-089808</guid>
-      <pubDate>Mon, 03 Aug 2026 15:32:37 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
     </item>
   </channel>
 </rss>
