@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 12:39:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 12:46:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MXCT 📍 Stake
+Receives 13D from River Global on 0.8% stake; voting rights to Liontrust
+Mcap $115M · EV $25M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1287098/000148618026000003/primary_doc.xml</link>
+      <guid isPermaLink="false">0001486180-26-000003</guid>
+      <pubDate>Tue, 04 Aug 2026 07:46:01 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$GFF 📤 Divestiture
 Sells AMES Australasia to JV for $181M cash + $49M PIK note; retains 49% stake
@@ -910,17 +919,6 @@ Mcap $249M · EV $247M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2067592/000121390026084277/ea0300211-425_space.htm</link>
       <guid isPermaLink="false">0001213900-26-084277</guid>
       <pubDate>Mon, 03 Aug 2026 07:48:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LNTH 🤝 Merger
-Acquired by Curium for $102.50/sh cash + up to $12 CVR; close H1 2027
-Curium US Holdings · 38% to 60-day VWAP prem · up to $8.0 billion deal · cash
-Mcap $6.5B · EV $6.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1521036/000119312526329624/d148563ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-329624</guid>
-      <pubDate>Mon, 03 Aug 2026 07:41:20 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
