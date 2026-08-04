@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 13:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:30:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BSEM 📉 Delisting · Voluntary
+Files amended Form 10 for Nasdaq uplisting
+Mcap $55M · EV $45M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658678/000121390026084943/ea0300421-1012ba2_biostem.htm</link>
+      <guid isPermaLink="false">0001213900-26-084943</guid>
+      <pubDate>Tue, 04 Aug 2026 08:30:22 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$WKEY 🤝 Merger
 Swiss Takeover Board validates opting-out clause for merger with WISeKey Corp.
@@ -818,16 +828,6 @@ Mcap $29M · EV $30M · Tech</title>
       <pubDate>Mon, 03 Aug 2026 10:51:29 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CMTL 📤 Divestiture
-Sells Wavestream subsidiary; credit agreements amended for $10M advance
-Mcap $50M · EV $484M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/23197/000002319726000084/cmtl-20260730.htm</link>
-      <guid isPermaLink="false">0000023197-26-000084</guid>
-      <pubDate>Mon, 03 Aug 2026 08:27:56 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>subsidiary_sale</category>
     </item>
   </channel>
 </rss>
