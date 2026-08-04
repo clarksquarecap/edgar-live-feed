@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 20:33:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 20:40:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ALIS 🤝 Merger
+Secures $8M PIPE at $10/sh for Goodvision AI merger
+cash
+Mcap $86M · EV $85M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2026767/000149315226036007/form425.htm</link>
+      <guid isPermaLink="false">0001493152-26-036007</guid>
+      <pubDate>Tue, 04 Aug 2026 15:40:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$IFF 📤 Divestiture
 Sells Food Ingredients to CVC; retains 10% stake; close Q2 2027
@@ -849,27 +860,6 @@ Mcap $6.1B · EV $8.5B · Healthcare</title>
       <guid isPermaLink="false">0000096943-26-000084</guid>
       <pubDate>Mon, 03 Aug 2026 15:40:22 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$D 🤝 Merger
-Acquired by NextEra Energy; hearings Nov 17/Dec 8; close H2 2027
-Mcap $61B · EV $120B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000119312526330689/d149182d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-330689</guid>
-      <pubDate>Mon, 03 Aug 2026 15:39:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TACH 🤝 Merger
-Files amended F-4 for SPAC merger; implied equity &gt;$1B; close Q4 2026
-Titan Acquisition · $800 million deal · stock
-Mcap $360M · EV $360M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2009183/000182912626008275/openpayd_425.htm</link>
-      <guid isPermaLink="false">0001829126-26-008275</guid>
-      <pubDate>Mon, 03 Aug 2026 15:39:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
