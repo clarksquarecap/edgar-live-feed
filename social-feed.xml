@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 21:21:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:23:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VSEE 📉 Delisting · Forced
+Forced Nasdaq delisting effective Aug 6; bid price &lt;$0.10 for 10 days
+Mcap $4M · EV $5M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1864531/000118518526003262/vsee8k080426.htm</link>
+      <guid isPermaLink="false">0001185185-26-003262</guid>
+      <pubDate>Tue, 04 Aug 2026 16:23:12 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$HSCS 🤝 Merger
 Acquired by Fortitude Mining in all-stock merger; vote pending
@@ -772,15 +782,6 @@ Mcap $2.6B · EV $2.4B · Materials</title>
       <pubDate>Mon, 03 Aug 2026 16:23:27 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NG 🌍 Re-domicile
-Redomiciles to US via all-stock merger; newco valued at $4.2B
-Mcap $2.6B · EV $2.4B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926089874/tm2619701d22_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-089874</guid>
-      <pubDate>Mon, 03 Aug 2026 16:22:57 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
