@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 11:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 11:17:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BRN 📤 Divestiture
+Sells Hawaii real-estate interests for $1.77M cash; complete exit
+to David Johnston · $1,770,000 deal · close 2026-09-15
+Mcap $15M · EV $11M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/10048/000114036126031054/ef20079409_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-031054</guid>
+      <pubDate>Tue, 04 Aug 2026 06:17:01 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$EVFM 📍 Stake
 Receives 13D from HUB Cyber Security disclosing 9.99% stake
@@ -842,15 +852,6 @@ Mcap $5M · EV $12M · Industrials</title>
       <pubDate>Mon, 03 Aug 2026 07:03:31 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BCBP 🌍 Re-domicile
-Proposes reincorporation to Delaware and de-stagger board
-Mcap $173M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1228454/000119312526329536/d149798d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-329536</guid>
-      <pubDate>Mon, 03 Aug 2026 06:15:44 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
