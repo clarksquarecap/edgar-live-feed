@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 21:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:38:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ZSQR 🤝 Merger
+Acquires Paradox Data for up to $25M in Series A Preferred; close within 30 days
+$25,000,000 deal · stock · close 2026-08-30
+Mcap $265M · EV $260M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1759186/000118518526003263/zsqr8k080426.htm</link>
+      <guid isPermaLink="false">0001185185-26-003263</guid>
+      <pubDate>Tue, 04 Aug 2026 16:38:43 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ISBA 🤝 Merger
 Acquires Grand River Commerce for ~$52M cash/stock; vote Sept 18
@@ -746,25 +757,6 @@ Mcap $3M · EV $120M · Cons Stpl</title>
       <guid isPermaLink="false">0001062993-26-003983</guid>
       <pubDate>Mon, 03 Aug 2026 18:50:05 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$LTRN ✂️ Carve-out
-Creates Open-Medicine AI as separate entity; licenses withZeta.ai assets
-Mcap $34M · EV $27M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1763950/000149315226035864/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-035864</guid>
-      <pubDate>Mon, 03 Aug 2026 16:33:03 -0500</pubDate>
-      <category>CARVE_OUT</category>
-    </item>
-    <item>
-      <title>$SVRN 📤 Divestiture
-Sells vessel-owning Holdco to Sezali; retires Series C Preferred and $5M debt
-close 2026-07-31
-Mcap $12M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1869467/000091957426004742/p15043250_6-k.htm</link>
-      <guid isPermaLink="false">0000919574-26-004742</guid>
-      <pubDate>Mon, 03 Aug 2026 16:32:48 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
