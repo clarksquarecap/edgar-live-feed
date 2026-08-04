@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 10:45:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:51:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EVFM 📍 Stake
+Receives 13D from HUB Cyber Security disclosing 9.99% stake
+Mcap $1M · EV $57M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1618835/000121390026084888/primary_doc.xml</link>
+      <guid isPermaLink="false">0001213900-26-084888</guid>
+      <pubDate>Tue, 04 Aug 2026 05:51:33 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$ACR 🤝 Merger
 Acquires ACC for 2.61882 ACR shares/ACC share; close Aug 6
@@ -881,17 +890,6 @@ Mcap $311M · EV $342M · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1903508/000162828026051520/pphc-20260803.htm</link>
       <guid isPermaLink="false">0001628280-26-051520</guid>
       <pubDate>Mon, 03 Aug 2026 06:02:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SUPN 🤝 Merger
-Acquired by Indivior for 1.5401 shares per SUPN; combined co to trade as SUPN
-stock · close within 6 months
-Mcap $2.6B · EV $2.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1356576/000110465926089427/tm2622009d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-089427</guid>
-      <pubDate>Mon, 03 Aug 2026 05:49:15 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
