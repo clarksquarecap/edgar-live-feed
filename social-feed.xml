@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 20:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 20:10:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LPSN 🤝 Merger
+Acquired by SoundHound AI; special meeting Aug 20
+empty
+Mcap $22M · EV $314M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1102993/000110299326000065/a425filing8_04.htm</link>
+      <guid isPermaLink="false">0001102993-26-000065</guid>
+      <pubDate>Tue, 04 Aug 2026 15:10:35 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$IHS 🤝 Merger
 Shareholders approve MTN Group merger; close pending
@@ -768,44 +779,6 @@ Mcap $6M · EV $4M · Healthcare</title>
       <pubDate>Mon, 03 Aug 2026 15:15:32 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MYE 📍 Stake
-Gabelli group reports 13.4% stake in Myers Industries
-Mcap $1.3B · EV $1.6B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/69488/000080724926000059/primary_doc.xml</link>
-      <guid isPermaLink="false">0000807249-26-000059</guid>
-      <pubDate>Mon, 03 Aug 2026 15:09:17 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NVNI 📉 Delisting · Forced
-Forced Nasdaq delisting effective Aug 6; hearing stays suspension
-Mcap $11M · EV $19M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1965143/000121390026084602/ea0300108-6k_nvni.htm</link>
-      <guid isPermaLink="false">0001213900-26-084602</guid>
-      <pubDate>Mon, 03 Aug 2026 15:08:17 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$TDAC 🤝 Merger
-Gets $50M committed PIPE from existing shareholders for TDAC merger
-Mcap $275M · EV $276M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1926599/000119312526330513/d169000d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-330513</guid>
-      <pubDate>Mon, 03 Aug 2026 15:08:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$XFLT 👀 Activist
-Solicits AGAINST sub-adviser replacement at XFLT; proposes fee cut, tender, term trust
-Mcap $286M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026084601/ea0300229-dfan14a_octagon.htm</link>
-      <guid isPermaLink="false">0001213900-26-084601</guid>
-      <pubDate>Mon, 03 Aug 2026 15:07:49 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
