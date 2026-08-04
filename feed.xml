@@ -6,8 +6,28 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 10:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:13:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · PLD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1045609/000110465926089980/tm2621154d2_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-089980</guid>
+      <pubDate>Tue, 04 Aug 2026 05:13:42 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires SEGRO for ~£14B in stock+cash; partial cash alt.</scanner:headline>
+      <scanner:shortName>Prologis</scanner:shortName>
+      <scanner:price>144.15</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Acquires SEGRO for ~£14B in stock+cash; partial cash alt.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announces recommended offer to acquire SEGRO plc. SEGRO shareholders will receive 0.0920 Prologis shares per SEGRO share, with a partial cash alternative of up to 258 pence cash plus 0.0690 Prologis shares. Total consideration values SEGRO at approximately £14.0 billion. The combination is expected to close in first half of 2027, subject to regulatory and shareholder approvals. Prologis will seek a secondary listing on LSE.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Prologis, Inc. is a self-administered and self-managed REIT and is the sole general partner of Prologis, L.P. through which it holds substantially all of its assets. We operate Prologis, Inc. and Prologis, L.P. as one enterprise and, therefore, our discussion and analysis refer to Prologis, Inc. and its consolidated subsidiaries, including Prologis, L.P.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; SEGRO plc&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms paid for SEGRO:&lt;/b&gt; 0.0920 PLD shares per SEGRO share; cash alt up to 258p + 0.0690 PLD shares&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; £14.0 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; first half of 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote and regulatory approvals&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $144.15 · Mkt cap $134.50B · EV $174.29B · Fwd P/E 41.6x · Fwd EV/EBITDA 25.5x · Real Estate / Industrial REITs&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1045609/000110465926089980/0001104659-26-089980-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PLD, PLDGP&lt;/b&gt; · 8-K · Items 1.01, 2.03, 3.02, 8.01, 9.01 · Holding / Investment Offices (6798) · 8k_tier1:1.01,8.01 · filed 2026-08-04&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💔 Busted · LSTA</title>
       <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126031028/ef20079399_8k.htm</link>
@@ -9500,25 +9520,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Kira Sheinerman&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 51.56&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1734005/000121390026081416/0001213900-26-081416-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;APM, NIKI&lt;/b&gt; · SCHEDULE 13D · Instruments / Medical Devices (3829) · fresh_13d · filed 2026-07-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · VSEE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1864531/000118518526003124/vsee8k072426.htm</link>
-      <guid isPermaLink="false">0001185185-26-003124</guid>
-      <pubDate>Fri, 24 Jul 2026 15:38:13 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>8-K</category>
-      <scanner:headline>Settles default with ADI/M2B; issues 1M shares + convertible notes</scanner:headline>
-      <scanner:shortName>VSEE HEALTH</scanner:shortName>
-      <scanner:price>0.0800</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Settles default with ADI/M2B; issues 1M shares + convertible notes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into a Settlement Agreement with ADI Funding LLC and M2B Funding Corp. to resolve a default dispute. The company will repay a $271,739 note, pay $50,000 cash, issue 1,000,000 shares of common stock, and issue convertible promissory notes totaling $175,000. The settlement avoids litigation and provides for conversion at 75% of VWAP.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VSee Health, Inc. provides telehealth care solutions in the United States. The company offers iDoc Telehealth solutions that treat and coordinate care for acutely ill patients in the neurointensive care, cardiac intensive care, and intensive care units for stroke, spinal cord, brain trauma, and other neurological conditions.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ADI Funding LLC and M2B Funding Corp.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-21&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0800 · Mkt cap $4.0M · EV $4.8M · Health Care / Health Care Technology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1864531/000118518526003124/0001185185-26-003124-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VSEE, VSEEW&lt;/b&gt; · 8-K · Items 1.01, 3.02 · Health Services (8000) · 8k_tier1:1.01 · filed 2026-07-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
