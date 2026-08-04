@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 10:13:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:19:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BSP 🤝 Merger
+Acquires Airtable for $1.285B EV / ~$2.25B equity; all-cash; close later 2026
+cash
+Mcap $23B · EV $27B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2004711/000200471126000009/bsp-20260804x6k.htm</link>
+      <guid isPermaLink="false">0002004711-26-000009</guid>
+      <pubDate>Tue, 04 Aug 2026 05:19:44 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$PLD 🤝 Merger
 Acquires SEGRO for ~£14B in stock+cash; partial cash alt.
@@ -837,48 +848,6 @@ Mcap $27B · EV $55B · Comms</title>
       <pubDate>Mon, 03 Aug 2026 05:25:13 -0500</pubDate>
       <category>INSOLVENCY</category>
       <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$SWKS 🤝 Merger
-Clears HSR hurdle for Qorvo acquisition; FTC timing agreement expires
-stock
-Mcap $9.5B · EV $9.3B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/4127/000110465926089397/tm2621905d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-089397</guid>
-      <pubDate>Mon, 03 Aug 2026 05:19:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GME 🪙 Debt Restr.
-Exchanges $1.4B convertible notes for equity; close Sept 23
-Mcap $9.7B · EV $5.7B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326380/000132638026000042/gme-20260802.htm</link>
-      <guid isPermaLink="false">0001326380-26-000042</guid>
-      <pubDate>Mon, 03 Aug 2026 05:18:34 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$ATKR 🤝 Merger
-Acquired by Prysmian for $95.00 cash per share
-Prysmian S.p.A. · cash
-Mcap $2.5B · EV $2.9B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1666138/000166613826000016/atkr-20260803.htm</link>
-      <guid isPermaLink="false">0001666138-26-000016</guid>
-      <pubDate>Mon, 03 Aug 2026 05:18:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$QRVO 🤝 Merger
-Acquired by Skyworks; HSR cleared, awaiting China/Korea approvals
-Skyworks Solutions · stock
-Mcap $7.9B · EV $8.3B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1604778/000110465926089400/tm2621905d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-089400</guid>
-      <pubDate>Mon, 03 Aug 2026 05:17:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
