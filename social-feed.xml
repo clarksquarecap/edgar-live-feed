@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 20:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 20:31:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LMB 🤝 Merger
+Acquires CYMCOR for $30M cash/debt
+$30,000,000 deal · cash · close 2026-08-04
+Mcap $873M · EV $934M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1606163/000162828026052611/lmb-20260804.htm</link>
+      <guid isPermaLink="false">0001628280-26-052611</guid>
+      <pubDate>Tue, 04 Aug 2026 15:31:48 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$XWEL 📍 Stake
 Chairman files 13D disclosing 6.9% stake; supports sale of XpresSpa/XpresTest
@@ -848,24 +859,6 @@ Mcap $280K · EV $6.2B · Cons Disc</title>
       <pubDate>Mon, 03 Aug 2026 15:32:37 -0500</pubDate>
       <category>INSOLVENCY</category>
       <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$SONO 👀 Activist
-Faces Coliseum Capital 13D; 15.3% stake, board member Shackelton
-Mcap $1.7B · EV $1.5B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314727/000119312526330596/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-330596</guid>
-      <pubDate>Mon, 03 Aug 2026 15:25:20 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$MSBB 🌑 Going Dark
-Voluntarily deregisters SEC reporting; Form 15 to be filed Aug 10
-Mcap $19M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1967306/000094337426000346/msbb-20260803.htm</link>
-      <guid isPermaLink="false">0000943374-26-000346</guid>
-      <pubDate>Mon, 03 Aug 2026 15:25:08 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>
