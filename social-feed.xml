@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 12:51:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 12:59:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MXCT 📍 Stake
@@ -868,37 +868,6 @@ Mcap $16M · EV $16M · Tech</title>
       <pubDate>Mon, 03 Aug 2026 08:01:54 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SNBRQ 🔥 Insolvency · Ch. 11
-Sells all assets for $529.5M cash; stock cancelled
-advisor: Sleep Country Canada
-Mcap $690K · EV $953M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/827187/000095010326011603/dp251018_8k.htm</link>
-      <guid isPermaLink="false">0000950103-26-011603</guid>
-      <pubDate>Mon, 03 Aug 2026 07:55:42 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$BLRK 🤝 Merger
-Acquires Yellow.ai for $300M stock; close H2 2026
-$300,000,000 deal · stock
-Mcap $233M · EV $232M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2081532/000121390026084282/ea0299624-8k425_bluerock.htm</link>
-      <guid isPermaLink="false">0001213900-26-084282</guid>
-      <pubDate>Mon, 03 Aug 2026 07:55:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SNBRQ 🌑 Going Dark
-Terminates SEC registration; 267 holders of record
-Mcap $690K · EV $953M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/827187/000095010326011604/dp250753_1512g.htm</link>
-      <guid isPermaLink="false">0000950103-26-011604</guid>
-      <pubDate>Mon, 03 Aug 2026 07:54:58 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>
