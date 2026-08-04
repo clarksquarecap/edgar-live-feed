@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 12:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 12:13:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$REAX 🤝 Merger
+Acquires REMAX for 5.15 shares/REMAX share; election deadline Aug 18
+RE/MAX Holdings · stock
+Mcap $355M · EV $292M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1862461/000110465926090088/tm2622068d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-090088</guid>
+      <pubDate>Tue, 04 Aug 2026 07:13:56 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$STIM 👀 Activist
 Reaches cooperation agreement with Jorey Chernett; board seat to be appointed
@@ -891,17 +902,6 @@ Mcap $2M · Healthcare</title>
       <pubDate>Mon, 03 Aug 2026 07:16:34 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$BOW 🤝 Merger
-Acquired by American Family Mutual for $34.00/share cash; vote pending
-cash
-Mcap $1.0B · EV $1.1B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2002473/000162828026051540/bow-20260802.htm</link>
-      <guid isPermaLink="false">0001628280-26-051540</guid>
-      <pubDate>Mon, 03 Aug 2026 07:10:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
