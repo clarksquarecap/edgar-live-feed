@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 20:56:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:09:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$NEXCF 🤝 Merger
@@ -802,25 +802,6 @@ Mcap $10B · EV $8.8B · Healthcare</title>
       <pubDate>Mon, 03 Aug 2026 16:15:28 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$RIO 📤 Divestiture
-Sells Dampier Seawater Desalination Plant to Yindjibarndi WaterCo
-Mcap $166B · EV $186B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/863064/000086306426000037/form6k2026july.htm</link>
-      <guid isPermaLink="false">0000863064-26-000037</guid>
-      <pubDate>Mon, 03 Aug 2026 16:08:25 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GBCS 🎯 Tender
-Tender offer at $5.75 cash per share by Black Pearl Equities
-cash
-Mcap $17M · EV $33M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/727346/000092189526001928/sctota14815002_07302026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001928</guid>
-      <pubDate>Mon, 03 Aug 2026 16:07:40 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
