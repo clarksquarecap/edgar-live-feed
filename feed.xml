@@ -6,8 +6,26 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 13:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 15:32:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · SLAI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1517496/000087666126000659/0000876661-26-000659-index.htm</link>
+      <guid isPermaLink="false">0000876661-26-000659</guid>
+      <pubDate>Tue, 04 Aug 2026 10:32:11 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <scanner:headline>Forced NYSE delisting effective Aug 17</scanner:headline>
+      <scanner:shortName>SOLAI</scanner:shortName>
+      <scanner:price>0.5500</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Forced NYSE delisting effective Aug 17&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;SOLAI Ltd&amp;#39;s ADSs are being delisted from the NYSE due to failure to maintain a $15M average global market cap. Trading was suspended on July 16, 2026, and the delisting becomes effective August 17, 2026. The company did not appeal the decision.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SOLAI Limited operates as a technology-driven crypto currency infrastructure company. It operates cryptocurrency mining machines that perform blockchain computations, as well as data centers that provide rack space, utility, and cloud services, such as virtual services, virtual storage and data backup services to third-party cryptocurrency mining companies. The company was formerly known as BIT Mining Limited and changed its name to SOLAI Limited in October 2025.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $0.5500 · Mkt cap $6.9M · EV $7.0M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1517496/000087666126000659/0000876661-26-000659-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SLAI, SLAIY&lt;/b&gt; · 25-NSE · Non-Depository Credit (6199) · prefill_form:25-NSE · filed 2026-08-04&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · WTG</title>
       <link>https://www.sec.gov/Archives/edgar/data/2053927/000182912626008307/wintergreenacq_s4a3.htm</link>
@@ -9517,25 +9535,6 @@
 &lt;p&gt;&lt;i&gt;Px $118.51 · Mkt cap $43.42B · EV $45.50B · Fwd P/E 29.0x · Fwd EV/EBITDA 17.2x · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/866374/000119312526316764/0001193125-26-316764-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FLEX&lt;/b&gt; · DEFA14A · Electronic Equipment (3672) · prefill_form:DEFA14A · filed 2026-07-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · ONFO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1825452/000165495426006885/onfo_8k.htm</link>
-      <guid isPermaLink="false">0001654954-26-006885</guid>
-      <pubDate>Mon, 27 Jul 2026 05:05:56 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>8-K</category>
-      <scanner:headline>Busts acquisition of Paramount Helium; mutual consent, no penalties</scanner:headline>
-      <scanner:shortName>Onfolio Holdings</scanner:shortName>
-      <scanner:price>0.0900</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Busts acquisition of Paramount Helium; mutual consent, no penalties&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Terminated its binding LOI to acquire Paramount Helium, LLC, by mutual consent. No termination penalties or further financial obligations; each party bears its own costs. The LOI was dated July 7, 2026, and the termination agreement was signed July 21, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Onfolio Holdings, Inc. acquires and develops internet businesses. The company operates through two segments, Business to Business (B2B) and Business to Consumers (B2C). It provides website management, digital services, advertising, and content placement on its websites; and product and digital product sales on various sites, as well as marketing services. Onfolio Holdings, Inc. was founded in 2019 and is based in Wilmington, Delaware.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Paramount Helium, LLC&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-21&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0900 · Mkt cap $620K · EV $3.6M · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1825452/000165495426006885/0001654954-26-006885-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ONFO, ONFOP, ONFOW&lt;/b&gt; · 8-K · Items 1.02, 7.01, 9.01 · Business Services (7374) · 8k_tier1:1.02,7.01 · filed 2026-07-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
