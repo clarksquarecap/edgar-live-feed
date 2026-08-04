@@ -6,8 +6,26 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 10:06:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:13:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💔 Busted · LSTA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126031028/ef20079399_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-031028</guid>
+      <pubDate>Tue, 04 Aug 2026 05:13:30 -0500</pubDate>
+      <category>BUSTED_MA</category>
+      <category>8-K</category>
+      <scanner:headline>Sues Kuva Labs for breach of merger agreement; cuts 72% of workforce</scanner:headline>
+      <scanner:shortName>LISATA THERAPEUTICS</scanner:shortName>
+      <scanner:price>1.04</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Sues Kuva Labs for breach of merger agreement; cuts 72% of workforce&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed a lawsuit against Kuva Labs and its subsidiary for breach of the March 6, 2026 merger agreement, seeking damages for lost stockholder benefits. The board also approved a 72% workforce reduction to reduce costs and pursue strategic options. The company estimates $1.2M in severance costs.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lisata Therapeutics, Inc., a clinical-stage pharmaceutical company, engages in the discovery, development, and commercialization of therapies for the treatment of solid tumors and other diseases. Its investigational product is certepetide, which is in Phase 2 clinical studies for the treatment of solid tumors, such as metastatic pancreatic ductal adenocarcinoma, cholangiocarcinoma, appendiceal cancer, and colon cancer and glioblastoma multiforme in combination with range of anti-cancer regimens.…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Kuva Labs Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.04 · Mkt cap $9.5M · EV $-3.8M · Fwd EV/EBITDA 0.0x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/320017/000114036126031028/0001140361-26-031028-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LSTA&lt;/b&gt; · 8-K · Items 2.05, 5.02, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:2.05,8.01 · filed 2026-08-04&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · LNTH</title>
       <link>https://www.sec.gov/Archives/edgar/data/1521036/000119312526331138/d167446d8k.htm</link>
@@ -9501,25 +9519,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.0800 · Mkt cap $4.0M · EV $4.8M · Health Care / Health Care Technology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1864531/000118518526003124/0001185185-26-003124-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VSEE, VSEEW&lt;/b&gt; · 8-K · Items 1.01, 3.02 · Health Services (8000) · 8k_tier1:1.01 · filed 2026-07-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · QBTS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1907982/000190798226000114/form25.htm</link>
-      <guid isPermaLink="false">0001907982-26-000114</guid>
-      <pubDate>Fri, 24 Jul 2026 15:30:51 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>25</category>
-      <scanner:headline>Voluntarily delists from NYSE effective July 24</scanner:headline>
-      <scanner:shortName>D-Wave Quantum</scanner:shortName>
-      <scanner:price>17.10</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Voluntarily delists from NYSE effective July 24&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Voluntarily delisted its common stock from the New York Stock Exchange effective July 24, 2026. The company filed Form 25 under Rule 12d2-2(c) to withdraw its listing and registration. Shares will trade on the OTC market going forward.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; D-Wave Quantum Inc. engages in the development and delivery of quantum computing systems, software, and services worldwide. It provides Advantage and Advantage 2 quantum computers; Ocean, a suite of open-source tools; and Leap quantum cloud service, a cloud-based service that provides real-time access to quantum computers and quantum hybrid solvers; and secure access and data protection services, as well as Ocean software development kit (SDK), a Python-based SDK for developers to learn and buil…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-24&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $17.10 · Mkt cap $6.33B · EV $5.79B · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1907982/000190798226000114/0001907982-26-000114-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QBTS&lt;/b&gt; · 25 · Business Services (7374) · prefill_form:25 · filed 2026-07-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
