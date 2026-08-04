@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 21:16:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:21:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HSCS 🤝 Merger
+Acquired by Fortitude Mining in all-stock merger; vote pending
+stock
+Mcap $8M · EV $11M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026085275/ea0300641-defa14a_heart.htm</link>
+      <guid isPermaLink="false">0001213900-26-085275</guid>
+      <pubDate>Tue, 04 Aug 2026 16:21:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$LPBB 🤝 Merger
 Acquires NuCube Energy; S-4 confidentially submitted
@@ -770,28 +781,6 @@ Mcap $2.6B · EV $2.4B · Materials</title>
       <guid isPermaLink="false">0001104659-26-089874</guid>
       <pubDate>Mon, 03 Aug 2026 16:22:57 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$LGMK 🤝 Merger
-Acquired by Langham Project for $1.31 cash; vote pending
-cash
-Mcap $460K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1566826/000121390026084705/ea0300342-8k425_logicmar.htm</link>
-      <guid isPermaLink="false">0001213900-26-084705</guid>
-      <pubDate>Mon, 03 Aug 2026 16:16:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SEII 🤝 Merger
-Acquires Light Across via share exchange; 80% of post-deal shares to Light Across holders
-stock · close 2026-08-02
-Mcap $860K · EV $2M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/819926/000147793226004679/seii_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-004679</guid>
-      <pubDate>Mon, 03 Aug 2026 16:16:07 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
