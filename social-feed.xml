@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 10:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:26:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$REZI 🪓 Spinoff
+Spins off ADI Global Distribution; 1 ADIG per 2 REZI shares
+Mcap $5.5B · EV $9.0B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1740332/000121390026084874/ea0300189-8k_resideo.htm</link>
+      <guid isPermaLink="false">0001213900-26-084874</guid>
+      <pubDate>Tue, 04 Aug 2026 05:26:50 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$SEII 📍 Stake
 CFO Johnny Chen acquires 11.5% stake (724M shares) via share exchange
@@ -856,16 +865,6 @@ Mcap $10B · EV $10B · Healthcare</title>
       <pubDate>Mon, 03 Aug 2026 05:31:30 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$ECHO 🔥 Insolvency · Ch. 11
-Hughes Satellite files Chapter 11 to restructure debt
-Mcap $27B · EV $55B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1415404/000141540426000038/sats-20260728x8k.htm</link>
-      <guid isPermaLink="false">0001415404-26-000038</guid>
-      <pubDate>Mon, 03 Aug 2026 05:25:13 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
     </item>
   </channel>
 </rss>
