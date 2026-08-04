@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 04 Aug 2026 21:23:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:29:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CBZ 🤝 Merger
+Acquired by Grant Thornton Advisors; B&amp;I to spin off to New Mountain Capital
+Mcap $2.9B · EV $4.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/944148/000119312526333130/d147980ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-333130</guid>
+      <pubDate>Tue, 04 Aug 2026 16:29:14 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VSEE 📉 Delisting · Forced
 Forced Nasdaq delisting effective Aug 6; bid price &lt;$0.10 for 10 days
@@ -733,55 +743,6 @@ Mcap $12M · Industrials</title>
       <guid isPermaLink="false">0000919574-26-004742</guid>
       <pubDate>Mon, 03 Aug 2026 16:32:48 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$LULU 📍 Stake
-Receives 13D/A from founder Wilson with 8.4% stake
-Mcap $13B · EV $14B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1397187/000119312526330833/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-330833</guid>
-      <pubDate>Mon, 03 Aug 2026 16:25:28 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$MTAK 📍 Stake
-Discloses 26% beneficial ownership in MTAK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2133136/000121390026084729/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-084729</guid>
-      <pubDate>Mon, 03 Aug 2026 16:25:01 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NG 🤝 Merger
-Acquires Donlin Gold stake from Paulson for 35% of $4.2B combined entity; redomiciles to US
-Paulson Advisors · stock
-Mcap $2.6B · EV $2.4B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926089858/tm2619701d18_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-089858</guid>
-      <pubDate>Mon, 03 Aug 2026 16:24:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NG 🤝 Merger
-Acquires Paulson's 40% Donlin Gold stake for shares; Paulson gets 40% of combined co.
-Paulson &amp; · stock
-Mcap $2.6B · EV $2.4B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926089864/tm2619701d20_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-089864</guid>
-      <pubDate>Mon, 03 Aug 2026 16:23:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NG 🤝 Merger
-Acquires 40% Donlin Gold stake from Paulson Advisers
-Mcap $2.6B · EV $2.4B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926089869/tm2619701d21_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-089869</guid>
-      <pubDate>Mon, 03 Aug 2026 16:23:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
