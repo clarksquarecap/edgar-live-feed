@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 10:12:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:13:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SAN 🤝 Merger
@@ -727,15 +727,6 @@ Mcap $135B · EV $174B · Real Estate</title>
       <pubDate>Tue, 04 Aug 2026 05:13:42 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$LSTA 💥 Busted M&amp;A
-Sues Kuva Labs for breach of merger agreement; cuts 72% of workforce
-Mcap $9M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126031028/ef20079399_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-031028</guid>
-      <pubDate>Tue, 04 Aug 2026 05:13:30 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
