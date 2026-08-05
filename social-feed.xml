@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 11:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 11:18:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GTE 📤 Divestiture
+Sells Colombia/Ecuador assets to Maurel &amp; Prom for $1.33B total consideration
+$1.33 billion deal · close 2026-12-31
+Mcap $242M · EV $738M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1273441/000110465926090719/tm2622187d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-090719</guid>
+      <pubDate>Wed, 05 Aug 2026 06:18:27 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$BCO 🤝 Merger
 Acquires NCR Atleos; vote passed, regulatory clearances in US/Brazil/India; close early Q1 2027
@@ -698,16 +708,6 @@ Mcap $16M · Healthcare</title>
       <pubDate>Tue, 04 Aug 2026 06:34:32 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BRN 📤 Divestiture
-Sells Hawaii real-estate interests for $1.77M cash; complete exit
-to David Johnston · $1,770,000 deal · close 2026-09-15
-Mcap $15M · EV $11M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/10048/000114036126031054/ef20079409_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-031054</guid>
-      <pubDate>Tue, 04 Aug 2026 06:17:01 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
