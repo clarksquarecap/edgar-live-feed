@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 12:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 12:14:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$AIIR 💧 Capital Return · Self-tender
@@ -685,16 +685,6 @@ Mcap $43M · EV $41M · Tech</title>
       <pubDate>Tue, 04 Aug 2026 07:14:50 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ASPI ✂️ Carve-out
-Carves out Renergen via reverse merger with ENDRA; will own ~89%
-Mcap $635M · EV $616M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1921865/000119312526331596/aspi-20260804.htm</link>
-      <guid isPermaLink="false">0001193125-26-331596</guid>
-      <pubDate>Tue, 04 Aug 2026 07:14:32 -0500</pubDate>
-      <category>CARVE_OUT</category>
-      <category>reverse_merger</category>
     </item>
   </channel>
 </rss>
