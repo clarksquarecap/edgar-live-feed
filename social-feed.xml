@@ -6,8 +6,30 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 20:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 20:14:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EC 🤝 Merger
+Acquires 25% of Brava Energia at R$23/share; settlement Aug 17
+cash · close 2026-08-17
+Mcap $34B · EV $71B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1444406/000129281426004064/ec20260805_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004064</guid>
+      <pubDate>Wed, 05 Aug 2026 15:14:13 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$OPFI 🤝 Merger
+Acquires BNCCORP for $19.375 cash + 1.90 OPFI shares per BNCC share; vote Sept 17
+cash+stk
+Mcap $838M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818502/000119312526335050/d207829ds4a.htm</link>
+      <guid isPermaLink="false">0001193125-26-335050</guid>
+      <pubDate>Wed, 05 Aug 2026 15:13:29 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$LPSN 🤝 Merger
 Acquired by SoundHound AI; vote Aug 20
@@ -639,26 +661,6 @@ Mcap $5.5B · EV $9.0B · Industrials</title>
       <guid isPermaLink="false">0001104659-26-090354</guid>
       <pubDate>Tue, 04 Aug 2026 15:14:21 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$WLDS 👀 Activist
-Faces activist campaign from Nissim group; court blocks $3.285M private placement
-17.42% stake
-Mcap $6M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1887673/000121390026085176/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-085176</guid>
-      <pubDate>Tue, 04 Aug 2026 15:14:10 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$SWDR 📤 Divestiture
-Sells 41.5% stake in 120 affordable housing properties to Apollo for $1.02B
-$1.02 billion deal · close closed
-Mcap $5.4B · EV $20B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1711929/000119312526332741/ck0001711929-20260803.htm</link>
-      <guid isPermaLink="false">0001193125-26-332741</guid>
-      <pubDate>Tue, 04 Aug 2026 15:13:45 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
