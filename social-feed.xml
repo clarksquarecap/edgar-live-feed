@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 10:49:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:56:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SC 🤝 Merger
@@ -630,15 +630,6 @@ Mcap $15M · EV $11M · Energy</title>
       <guid isPermaLink="false">0001140361-26-031054</guid>
       <pubDate>Tue, 04 Aug 2026 06:17:01 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$EVFM 📍 Stake
-Receives 13D from HUB Cyber Security disclosing 9.99% stake
-Mcap $1M · EV $57M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1618835/000121390026084888/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-084888</guid>
-      <pubDate>Tue, 04 Aug 2026 05:51:33 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
