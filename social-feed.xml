@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 10:13:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:19:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SC 🤝 Merger
+Acquires Webster Financial; Fed approval received; close Aug 20
+close 2026-08-20
+Mcap $257M · EV $1.1B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/811830/000095010326011922/dp250449_8k.htm</link>
+      <guid isPermaLink="false">0000950103-26-011922</guid>
+      <pubDate>Wed, 05 Aug 2026 05:19:43 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SAN 🤝 Merger
 Acquires Webster Financial; Fed approval received; close Aug 20
@@ -705,28 +716,6 @@ Mcap $860K · EV $2M · Comms</title>
       <guid isPermaLink="false">0001477932-26-004693</guid>
       <pubDate>Tue, 04 Aug 2026 05:20:25 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BSP 🤝 Merger
-Acquires Airtable for $1.285B EV / ~$2.25B equity; all-cash; close later 2026
-cash
-Mcap $23B · EV $27B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2004711/000200471126000009/bsp-20260804x6k.htm</link>
-      <guid isPermaLink="false">0002004711-26-000009</guid>
-      <pubDate>Tue, 04 Aug 2026 05:19:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PLD 🤝 Merger
-Acquires SEGRO for ~£14B in stock+cash; partial cash alt.
-£14.0 billion deal · cash+stk
-Mcap $135B · EV $174B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1045609/000110465926089980/tm2621154d2_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-089980</guid>
-      <pubDate>Tue, 04 Aug 2026 05:13:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
