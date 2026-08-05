@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 20:39:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 20:46:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AFRI 📤 Divestiture
+Sells 68% stake in Forafric Maroc to Cap Holding for ~$38M + debt relief
+to Cap Holding SA · close Completed
+Mcap $283M · EV $443M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1903870/000149315226036191/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-036191</guid>
+      <pubDate>Wed, 05 Aug 2026 15:45:59 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CAPC 💥 Busted M&amp;A
 LOI with eBliss terminated; no definitive agreement
@@ -730,49 +740,6 @@ Mcap $552M · EV $485M · Financials</title>
       <pubDate>Tue, 04 Aug 2026 15:49:00 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>negotiated_repurchase</category>
-    </item>
-    <item>
-      <title>$ITGR 📦 Going Private
-Acquired by KKR for $127 cash per share; vote pending
-cash
-Mcap $4.2B · EV $5.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1114483/000095010326011881/dp251220_8k.htm</link>
-      <guid isPermaLink="false">0000950103-26-011881</guid>
-      <pubDate>Tue, 04 Aug 2026 15:42:31 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$MEDS 🤝 Merger · Preliminary
-Acquires QOLPOM IP and Tollo Health; sellers to own 84.6% post-close
-stock
-Mcap $8M · EV $37M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2030763/000149315226036005/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-036005</guid>
-      <pubDate>Tue, 04 Aug 2026 15:42:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$MKLY 🤝 Merger
-Merges with Space-Eyes in $638M SPAC deal; ticker CUAS
-$638M (pro forma equity) deal · stock · close Q4 2026
-Mcap $249M · EV $247M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2067592/000121390026085222/ea0300607-425_mckinley.htm</link>
-      <guid isPermaLink="false">0001213900-26-085222</guid>
-      <pubDate>Tue, 04 Aug 2026 15:40:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ALIS 🤝 Merger
-Secures $8M PIPE at $10/sh for Goodvision AI merger
-cash
-Mcap $86M · EV $85M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2026767/000149315226036007/form425.htm</link>
-      <guid isPermaLink="false">0001493152-26-036007</guid>
-      <pubDate>Tue, 04 Aug 2026 15:40:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
