@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 10:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:11:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OMEX 🤝 Merger
+Acquired by AOM in stock merger; existing holders retain ~6.6%
+American Ocean Minerals · stock
+Mcap $44M · EV $8M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/798528/000119312526333491/d104064ds4a.htm</link>
+      <guid isPermaLink="false">0001193125-26-333491</guid>
+      <pubDate>Wed, 05 Aug 2026 05:11:40 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$STRS 📍 Stake
 Oasis Management increases stake to 8.4% in open market trades
@@ -714,26 +725,6 @@ Mcap $9M · Healthcare</title>
       <guid isPermaLink="false">0001140361-26-031028</guid>
       <pubDate>Tue, 04 Aug 2026 05:13:30 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$LNTH 🤝 Merger
-Acquired by Curium for $102.50/share cash + up to $12 CVR
-Curium US Holdings · cash
-Mcap $6.6B · EV $6.7B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1521036/000119312526331138/d167446d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-331138</guid>
-      <pubDate>Tue, 04 Aug 2026 05:06:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ABVC 🪓 Spinoff
-Postpones BioKey spinoff distribution; ratio 0.169464 per share
-Mcap $26M · EV $31M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1173313/000121390026084846/ea0300449-8k_abvcbio.htm</link>
-      <guid isPermaLink="false">0001213900-26-084846</guid>
-      <pubDate>Tue, 04 Aug 2026 05:06:15 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
