@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 21:25:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 21:31:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ETD ⚔️ Proxy
+Faces Bergeron proxy contest; 6 director nominees
+5.0% stake
+Mcap $608M · EV $595M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/896156/000092189526001971/dfan14a14857002_08052026.htm</link>
+      <guid isPermaLink="false">0000921895-26-001971</guid>
+      <pubDate>Wed, 05 Aug 2026 16:31:44 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$CATL 📍 Stake
 Discloses 22.2% stake in Catalyst Acquisition Corp.</title>
@@ -865,38 +875,6 @@ Mcap $265M · EV $260M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1759186/000118518526003263/zsqr8k080426.htm</link>
       <guid isPermaLink="false">0001185185-26-003263</guid>
       <pubDate>Tue, 04 Aug 2026 16:38:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ISBA 🤝 Merger
-Acquires Grand River Commerce for ~$52M cash/stock; vote Sept 18
-~$52.0M deal · cash+stk
-Mcap $307M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/842517/000110465926090506/tm2621180-4_s4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-090506</guid>
-      <pubDate>Tue, 04 Aug 2026 16:31:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NDRA 🤝 Merger
-Acquired by Noble Africa LLC in reverse merger; ASPI to own 89%
-close 2H 2026
-Mcap $5M · EV $5M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1681682/000119312526333141/aspi_425_augshareholderl.htm</link>
-      <guid isPermaLink="false">0001193125-26-333141</guid>
-      <pubDate>Tue, 04 Aug 2026 16:29:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CBZ 🤝 Merger
-Acquired by Grant Thornton Advisors; B&amp;I to spin off to New Mountain Capital
-Mcap $2.9B · EV $4.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/944148/000119312526333130/d147980ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-333130</guid>
-      <pubDate>Tue, 04 Aug 2026 16:29:14 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
