@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 12:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 12:34:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GLRE 📍 Stake
+Repurchases 106K shares from Einhorn Trust at $16.14; new Oct 30 repurchase agreement
+Mcap $552M · EV $485M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1385613/000092963826002882/primary_doc.xml</link>
+      <guid isPermaLink="false">0000929638-26-002882</guid>
+      <pubDate>Wed, 05 Aug 2026 07:34:02 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$MDRR 📤 Divestiture
+Sells Ashley Plaza Shopping Center for $16.3M
+16275000 deal · close 2026-07-31
+Mcap $19M · EV $46M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1654595/000110465926090763/mdrr-20260731x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-090763</guid>
+      <pubDate>Wed, 05 Aug 2026 07:33:24 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$GRAF 🤝 Merger
 Merging with Big3 basketball league in $322M SPAC deal; close fall 2026
@@ -676,15 +695,6 @@ Mcap $4.1B · EV $5.5B · Industrials</title>
       <guid isPermaLink="false">0001628280-26-052181</guid>
       <pubDate>Tue, 04 Aug 2026 07:39:27 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GALT 📍 Stake
-Uihlein converts $105.8M debt to equity, now owns 49.3% of GALT
-Mcap $200M · EV $326M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1133416/000114036126031060/primary_doc.xml</link>
-      <guid isPermaLink="false">0001140361-26-031060</guid>
-      <pubDate>Tue, 04 Aug 2026 07:33:24 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
