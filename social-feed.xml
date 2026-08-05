@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 20:30:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 20:36:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ASA 👀 Activist
+Faces Merk exempt solicitation opposing Saba's BDC repurposing plan
+1.7% stake
+Mcap $3M · EV $120M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1230869/000121390026085709/ea0300721-px14a6g_alexander.htm</link>
+      <guid isPermaLink="false">0001213900-26-085709</guid>
+      <pubDate>Wed, 05 Aug 2026 15:36:41 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$QMCI 📍 Stake
 Receives 13D/A from Harland Group; 11.1% stake
@@ -723,38 +733,6 @@ Mcap $86M · EV $85M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2026767/000149315226036007/form425.htm</link>
       <guid isPermaLink="false">0001493152-26-036007</guid>
       <pubDate>Tue, 04 Aug 2026 15:40:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$IFF 📤 Divestiture
-Sells Food Ingredients to CVC; retains 10% stake; close Q2 2027
-to CVC Capital Partners
-Mcap $21B · EV $27B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/51253/000005125326000028/iff-20260804.htm</link>
-      <guid isPermaLink="false">0000051253-26-000028</guid>
-      <pubDate>Tue, 04 Aug 2026 15:33:47 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AGX 🤝 Merger
-Acquires ValCor Communications for $8.3M cash/stock
-cash+stk · close 2026-07-31
-Mcap $8.3B · EV $7.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/100591/000110465926090398/agx-20260804x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-090398</guid>
-      <pubDate>Tue, 04 Aug 2026 15:33:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LMB 🤝 Merger
-Acquires CYMCOR for $30M cash/debt
-$30,000,000 deal · cash · close 2026-08-04
-Mcap $873M · EV $934M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1606163/000162828026052611/lmb-20260804.htm</link>
-      <guid isPermaLink="false">0001628280-26-052611</guid>
-      <pubDate>Tue, 04 Aug 2026 15:31:48 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
