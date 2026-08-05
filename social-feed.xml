@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 10:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:25:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SC 🤝 Merger
@@ -698,24 +698,6 @@ Mcap $5.5B · EV $9.0B · Industrials</title>
       <guid isPermaLink="false">0001213900-26-084874</guid>
       <pubDate>Tue, 04 Aug 2026 05:26:50 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$SEII 📍 Stake
-CFO Johnny Chen acquires 11.5% stake (724M shares) via share exchange
-Mcap $860K · EV $2M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/819926/000147793226004692/primary_doc.xml</link>
-      <guid isPermaLink="false">0001477932-26-004692</guid>
-      <pubDate>Tue, 04 Aug 2026 05:20:51 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SEII 📍 Stake
-Receives 13D from CEO Huang Ximing disclosing 65.6% stake
-Mcap $860K · EV $2M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/819926/000147793226004693/primary_doc.xml</link>
-      <guid isPermaLink="false">0001477932-26-004693</guid>
-      <pubDate>Tue, 04 Aug 2026 05:20:25 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
