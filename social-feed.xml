@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 12:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 12:14:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AIIR 💧 Capital Return · Self-tender
+Repurchases 5M shares from Harraden Circle; EGM Aug 24
+Mcap $1.1B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097725/000119312526333918/6-k_egm.htm</link>
+      <guid isPermaLink="false">0001193125-26-333918</guid>
+      <pubDate>Wed, 05 Aug 2026 07:14:27 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$ASPI 🤝 Merger · Preliminary
 Proposed merger with ENDRA Life Sciences; S-4 filing pending
@@ -685,28 +695,6 @@ Mcap $635M · EV $616M · Materials</title>
       <pubDate>Tue, 04 Aug 2026 07:14:32 -0500</pubDate>
       <category>CARVE_OUT</category>
       <category>reverse_merger</category>
-    </item>
-    <item>
-      <title>$IRHO 🤝 Merger
-Merger with Electra; TapFin selects EVE-Ai
-Electra Vehicles · empty
-Mcap $293M · EV $293M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2051985/000121390026084913/ea0300328-8k425_iron2.htm</link>
-      <guid isPermaLink="false">0001213900-26-084913</guid>
-      <pubDate>Tue, 04 Aug 2026 07:14:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$REAX 🤝 Merger
-Acquires REMAX for 5.15 shares/REMAX share; election deadline Aug 18
-RE/MAX Holdings · stock
-Mcap $355M · EV $292M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1862461/000110465926090088/tm2622068d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-090088</guid>
-      <pubDate>Tue, 04 Aug 2026 07:13:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
