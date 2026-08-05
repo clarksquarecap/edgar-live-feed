@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 15:19:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 15:37:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LVPA 🤝 Merger · Preliminary
+Signs LOI to acquire Yihang for stock
+stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/831378/000147793226004721/lvpa_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-004721</guid>
+      <pubDate>Wed, 05 Aug 2026 10:37:57 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$PALX 🤝 Merger
 Acquires Vega Links for 4.47M shares; closed July 31
@@ -690,16 +700,6 @@ Mcap $103M · Financials</title>
       <guid isPermaLink="false">0000921895-26-001942</guid>
       <pubDate>Tue, 04 Aug 2026 12:53:43 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SLAI 📉 Delisting · Forced
-Forced NYSE delisting effective Aug 17
-Mcap $7M · EV $7M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1517496/000087666126000659/primary_doc.xml</link>
-      <guid isPermaLink="false">0000876661-26-000659</guid>
-      <pubDate>Tue, 04 Aug 2026 10:32:11 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
