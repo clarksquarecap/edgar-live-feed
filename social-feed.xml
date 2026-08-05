@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 20:47:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 20:53:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XFLT ⚔️ Proxy
+Contested vote on King Street sub-advisory; ISS/GL support FOR
+Mcap $285M · Financial Serv</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026085732/ea0300768-01_defa14a.htm</link>
+      <guid isPermaLink="false">0001213900-26-085732</guid>
+      <pubDate>Wed, 05 Aug 2026 15:53:45 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$LB 🌍 Re-domicile
 Board approves redomicile to Texas corporation
@@ -760,27 +769,6 @@ Mcap $309M · EV $309M · Financials</title>
       <pubDate>Tue, 04 Aug 2026 16:15:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NEXCF 🤝 Merger
-Acquires ARway for 0.5141 Nextech shares/ARway share; conditions satisfied
-stock
-Mcap $17M · EV $20M · Tech</title>
-      <link>https://au.marketscreener.com/news/nextech3d-ai-provides-update-on-acquisition-of-remaining-arway-shares-ce7f50ded08bf521</link>
-      <guid isPermaLink="false">OTC-530565</guid>
-      <pubDate>Tue, 04 Aug 2026 15:49:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GLRE 💧 Capital Return
-Repurchases shares from Einhorn trust to cap ownership
-Mcap $552M · EV $485M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1385613/000138561326000097/glre-20260804.htm</link>
-      <guid isPermaLink="false">0001385613-26-000097</guid>
-      <pubDate>Tue, 04 Aug 2026 15:49:00 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>negotiated_repurchase</category>
     </item>
   </channel>
 </rss>
