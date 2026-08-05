@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 21:10:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 21:16:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EMPD ⚔️ Proxy
+Faces proxy contest from ATG Capital; AGM September 23
+Mcap $83M · EV $121M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826005994/empery_prec14a.htm</link>
+      <guid isPermaLink="false">0001683168-26-005994</guid>
+      <pubDate>Wed, 05 Aug 2026 16:16:20 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+      <category>ATG Capital</category>
+    </item>
     <item>
       <title>$GHC 📤 Divestiture
 Sells Dublin Business School to China Chunlai for $127.5M
@@ -848,17 +858,6 @@ Mcap $8M · EV $11M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026085275/ea0300641-defa14a_heart.htm</link>
       <guid isPermaLink="false">0001213900-26-085275</guid>
       <pubDate>Tue, 04 Aug 2026 16:21:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LPBB 🤝 Merger
-Acquires NuCube Energy; S-4 confidentially submitted
-empty
-Mcap $309M · EV $309M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2023676/000121390026085263/ea0300613-425_launchtwo.htm</link>
-      <guid isPermaLink="false">0001213900-26-085263</guid>
-      <pubDate>Tue, 04 Aug 2026 16:15:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
