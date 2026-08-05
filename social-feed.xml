@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 12:40:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 12:46:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FLZH 🤝 Merger · Preliminary
+Acquires 51% of Bongo for ~$25.7M (60% cash, 40% stock); target close Sept 15
+Bongo Holdings Pte · $25.7 million deal · cash+stk
+Mcap $63M · EV $130M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1706524/000121390026085414/ea0300599-8k_flash.htm</link>
+      <guid isPermaLink="false">0001213900-26-085414</guid>
+      <pubDate>Wed, 05 Aug 2026 07:46:57 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$GLRE 📍 Stake
 Repurchases 106K shares from Einhorn Trust at $16.14; new Oct 30 repurchase agreement
@@ -676,15 +687,6 @@ Mcap $57M · EV $43M · Tech</title>
       <pubDate>Tue, 04 Aug 2026 08:11:25 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MXCT 📍 Stake
-Receives 13D from River Global on 0.8% stake; voting rights to Liontrust
-Mcap $115M · EV $25M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1287098/000148618026000003/primary_doc.xml</link>
-      <guid isPermaLink="false">0001486180-26-000003</guid>
-      <pubDate>Tue, 04 Aug 2026 07:46:01 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
