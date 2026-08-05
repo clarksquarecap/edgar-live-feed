@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 19:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 20:05:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VBNK 🌍 Re-domicile
+Reorganizes into Delaware holding company; vote Sept 16
+Mcap $621M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1690639/000110465926091067/tm2533318d23_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-091067</guid>
+      <pubDate>Wed, 05 Aug 2026 15:05:08 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$NEXA 🤝 Merger · Preliminary
 Boliden in talks to acquire controlling stake from Votorantim
@@ -690,16 +699,6 @@ Mcap $22M · EV $314M · Tech</title>
       <link>https://www.sec.gov/Archives/edgar/data/1102993/000110299326000065/a425filing8_04.htm</link>
       <guid isPermaLink="false">0001102993-26-000065</guid>
       <pubDate>Tue, 04 Aug 2026 15:10:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$IHS 🤝 Merger
-Shareholders approve MTN Group merger; close pending
-Mcap $2.8B · EV $5.5B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1876183/000110465926090340/tm2621831d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-090340</guid>
-      <pubDate>Tue, 04 Aug 2026 15:03:41 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
