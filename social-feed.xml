@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 05 Aug 2026 13:31:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:43:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CPAC 🎯 Tender
+Holcim requests extension for mandatory tender offer
+Mcap $1.0B · EV $1.4B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1221029/000121390026085440/ea0300671-6k_cementos.htm</link>
+      <guid isPermaLink="false">0001213900-26-085440</guid>
+      <pubDate>Wed, 05 Aug 2026 08:43:40 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>mandatory</category>
+    </item>
     <item>
       <title>$ETD 👀 Activist
 Faces board nomination from Bergeron; 5% stake
@@ -699,16 +709,6 @@ Mcap $160M · EV $256M · Real Estate</title>
       <guid isPermaLink="false">0002077096-26-000233</guid>
       <pubDate>Tue, 04 Aug 2026 08:49:25 -0500</pubDate>
       <category>LIQUIDATION</category>
-    </item>
-    <item>
-      <title>$KUST 📤 Divestiture
-Sells video solutions division to Cycurion for up to $7.1M cash, note, earnout
-up to $7,100,000 deal · close 2026-08-03
-Mcap $910K · EV $2M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1342958/000149315226035942/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-035942</guid>
-      <pubDate>Tue, 04 Aug 2026 08:43:03 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
