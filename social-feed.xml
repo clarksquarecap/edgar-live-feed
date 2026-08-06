@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 12:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 12:38:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AQB 🔎 Strat Review · Strat Alts
+Expands strategic review of Ohio property to power infrastructure
+Mcap $5M · EV $8M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1603978/000160397826000086/aqb-20260806x8k.htm</link>
+      <guid isPermaLink="false">0001603978-26-000086</guid>
+      <pubDate>Thu, 06 Aug 2026 07:38:35 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+    </item>
     <item>
       <title>$VYST 🤝 Merger
 Acquires 50% of r3alm for 8.37M shares convertible
@@ -963,36 +973,6 @@ Mcap $63M · EV $130M · Industrials</title>
       <pubDate>Wed, 05 Aug 2026 07:46:57 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$GLRE 📍 Stake
-Repurchases 106K shares from Einhorn Trust at $16.14; new Oct 30 repurchase agreement
-Mcap $552M · EV $485M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1385613/000092963826002882/primary_doc.xml</link>
-      <guid isPermaLink="false">0000929638-26-002882</guid>
-      <pubDate>Wed, 05 Aug 2026 07:34:02 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$MDRR 📤 Divestiture
-Sells Ashley Plaza Shopping Center for $16.3M
-16275000 deal · close 2026-07-31
-Mcap $19M · EV $46M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1654595/000110465926090763/mdrr-20260731x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-090763</guid>
-      <pubDate>Wed, 05 Aug 2026 07:33:24 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GRAF 🤝 Merger
-Merging with Big3 basketball league in $322M SPAC deal; close fall 2026
-BIG3 HoldCo · $322 million deal
-Mcap $313M · EV $313M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1897463/000110465926090759/tm2618324d18_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-090759</guid>
-      <pubDate>Wed, 05 Aug 2026 07:32:50 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
