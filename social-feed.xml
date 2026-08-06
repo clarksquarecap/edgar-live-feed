@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 21:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 21:26:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RZLV 🤝 Merger · Unsolicited
+Reaffirms strategic case for Commerce.com combination after Q2 miss
+Mcap $1.1B · EV $1.1B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1920294/000119312526338451/6-k_august_6_2026.htm</link>
+      <guid isPermaLink="false">0001193125-26-338451</guid>
+      <pubDate>Thu, 06 Aug 2026 16:25:45 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
+    <item>
+      <title>$CMRC 🤝 Merger · Unsolicited
+Faces renewed acquisition push from Rezolve after Q2 miss
+Rezolve Ai
+Mcap $281M · EV $291M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1626450/000119312526338450/425_august_6_2026.htm</link>
+      <guid isPermaLink="false">0001193125-26-338450</guid>
+      <pubDate>Thu, 06 Aug 2026 16:25:23 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$CYCN 🤝 Merger
 Acquires Korsana Biosciences in merger; combined co to list on Nasdaq
@@ -824,25 +845,6 @@ Mcap $608M · EV $595M · Cons Disc</title>
       <guid isPermaLink="false">0000921895-26-001971</guid>
       <pubDate>Wed, 05 Aug 2026 16:31:44 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$CATL 📍 Stake
-Discloses 22.2% stake in Catalyst Acquisition Corp.</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2104391/000121390026085791/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-085791</guid>
-      <pubDate>Wed, 05 Aug 2026 16:25:39 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$VREOF 🤝 Merger
-Acquires FarmaceuticalRx entities for ~$139.5M in stock
-$139.5 million (estimated for FRX; FRX2 value not disclosed) deal · stock
-Mcap $485M · EV $764M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1771706/000110465926091266/tm2621363d5_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-091266</guid>
-      <pubDate>Wed, 05 Aug 2026 16:25:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
