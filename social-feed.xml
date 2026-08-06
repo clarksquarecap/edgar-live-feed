@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 21:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 21:33:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DXLG 🎯 Tender · Unsolicited
+Faces $0.84/share cash tender from Zodiac/Camac
+cash
+Mcap $31M · EV $228M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/813298/000119312526338473/sch14d9_amendment_4_aug_.htm</link>
+      <guid isPermaLink="false">0001193125-26-338473</guid>
+      <pubDate>Thu, 06 Aug 2026 16:33:20 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$RZLV 🤝 Merger · Unsolicited
 Reaffirms strategic case for Commerce.com combination after Q2 miss
@@ -805,46 +816,6 @@ Mcap $883M · EV $351M · Healthcare</title>
       <pubDate>Wed, 05 Aug 2026 17:15:19 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$EZRA 📤 Divestiture
-Sells Altruis Benefit Consulting for $11M cash; targets close Sep 24
-11000000 deal · close 2026-09-24
-Mcap $2M · EV $7M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1812727/000149315226036223/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-036223</guid>
-      <pubDate>Wed, 05 Aug 2026 16:32:43 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$NTCL 💧 Capital Return · Recap
-Issues 100K Class B shares to CEO entity; voting control 77.93%
-Mcap $3M · EV $5M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1927578/000110465926091285/tm2622258d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-091285</guid>
-      <pubDate>Wed, 05 Aug 2026 16:32:26 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-    </item>
-    <item>
-      <title>$BLRK 🤝 Merger
-Acquires Yellow.ai in de-SPAC merger
-Mcap $231M · EV $231M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2081532/000121390026085814/ea0300646-425_bluerock.htm</link>
-      <guid isPermaLink="false">0001213900-26-085814</guid>
-      <pubDate>Wed, 05 Aug 2026 16:31:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ETD ⚔️ Proxy
-Faces Bergeron proxy contest; 6 director nominees
-5.0% stake
-Mcap $608M · EV $595M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/896156/000092189526001971/dfan14a14857002_08052026.htm</link>
-      <guid isPermaLink="false">0000921895-26-001971</guid>
-      <pubDate>Wed, 05 Aug 2026 16:31:44 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
