@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 11:11:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 11:13:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TFX 📤 Divestiture
+Completes sale of OEM business; $250M ASR and $250M Q2 buyback
+Mcap $6.1B · EV $8.5B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/96943/000009694326000091/tfx-20260806.htm</link>
+      <guid isPermaLink="false">0000096943-26-000091</guid>
+      <pubDate>Thu, 06 Aug 2026 06:13:37 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$VITL 🪙 Debt Restr.
+Waives FCCR breach; secures $185M new credit facilities
+Mcap $524M · EV $527M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1579733/000119312526336692/vitl-20260803.htm</link>
+      <guid isPermaLink="false">0001193125-26-336692</guid>
+      <pubDate>Thu, 06 Aug 2026 06:11:40 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>covenant_waiver</category>
+    </item>
     <item>
       <title>$VISN 💧 Capital Return · Special Div
 Declares $5.00/share special dividend; ex-date Aug 28
@@ -947,35 +966,6 @@ Mcap $242M · EV $738M · Energy</title>
       <link>https://www.sec.gov/Archives/edgar/data/1273441/000110465926090719/tm2622187d1_8k.htm</link>
       <guid isPermaLink="false">0001104659-26-090719</guid>
       <pubDate>Wed, 05 Aug 2026 06:18:27 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BCO 🤝 Merger
-Acquires NCR Atleos; vote passed, regulatory clearances in US/Brazil/India; close early Q1 2027
-Mcap $4.9B · EV $7.9B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/78890/000007889026000054/bco-20260805.htm</link>
-      <guid isPermaLink="false">0000078890-26-000054</guid>
-      <pubDate>Wed, 05 Aug 2026 06:12:21 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GTE 📤 Divestiture
-Sells Colombia/Ecuador assets to Maurel &amp; Prom for $1.33B
-to Maurel &amp; Prom Andina · $1.33 billion deal
-Mcap $242M · EV $738M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1273441/000110465926090711/tm2622187d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-090711</guid>
-      <pubDate>Wed, 05 Aug 2026 06:12:04 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SR 📤 Divestiture
-Sells Spire Marketing and Storage; $254.6M after-tax gain
-Mcap $4.7B · EV $13B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1126956/000119312526333825/sr-20260805.htm</link>
-      <guid isPermaLink="false">0001193125-26-333825</guid>
-      <pubDate>Wed, 05 Aug 2026 06:11:38 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>
