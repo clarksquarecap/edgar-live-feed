@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 20:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:13:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VOYA 👀 Activist
+Faces 'No Confidence' campaign from TCIM; demands strategic review
+4.5% stake
+Mcap $9.1B · EV $15B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1535929/000114036126031675/ny20078175x2_dfan14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-031675</guid>
+      <pubDate>Thu, 06 Aug 2026 15:13:07 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$SACH 🤝 Merger
 Acquired by IRG via asset contribution; combined co to be IRGT
@@ -967,16 +977,6 @@ Mcap $838M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1818502/000119312526335050/d207829ds4a.htm</link>
       <guid isPermaLink="false">0001193125-26-335050</guid>
       <pubDate>Wed, 05 Aug 2026 15:13:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LPSN 🤝 Merger
-Acquired by SoundHound AI; vote Aug 20
-Mcap $22M · EV $314M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1102993/000110299326000073/a425filing8_05-emplcomm.htm</link>
-      <guid isPermaLink="false">0001102993-26-000073</guid>
-      <pubDate>Wed, 05 Aug 2026 15:12:50 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
