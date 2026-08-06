@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 20:28:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:29:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HCAT 📤 Divestiture
+Sells VitalWare to Med-Metrix for $147M cash; repays credit facility
+close 2026-07-31
+Mcap $177M · EV $238M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1636422/000163642226000091/hcat-20260731.htm</link>
+      <guid isPermaLink="false">0001636422-26-000091</guid>
+      <pubDate>Thu, 06 Aug 2026 15:29:45 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$EC 🤝 Merger
 Absorbs Parque Solar Portón del Sol; bondholders vote Aug 18
@@ -881,17 +891,6 @@ Mcap $14M · EV $17M · Financials</title>
       <guid isPermaLink="false">0001193125-26-335146</guid>
       <pubDate>Wed, 05 Aug 2026 15:30:12 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ALOT 🤝 Merger
-HSR waiting period expired; shareholder vote pending
-cash
-Mcap $224M · EV $257M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/8146/000119312526335139/d20284d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-335139</guid>
-      <pubDate>Wed, 05 Aug 2026 15:29:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
