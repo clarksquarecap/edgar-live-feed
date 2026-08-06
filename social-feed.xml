@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 20:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:57:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PSQL 🤝 Merger
+Acquired by Bleichroeder SPAC; F-4 effective, vote Aug 25</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2122325/000121390026086203/ea0300995-425_bleichroeder2.htm</link>
+      <guid isPermaLink="false">0001213900-26-086203</guid>
+      <pubDate>Thu, 06 Aug 2026 15:57:58 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RNW 🤝 Merger · Unsolicited
 Reaffirms $7.02/share cash bid as best and final
@@ -846,56 +855,6 @@ Mcap $9.6B · EV $14B · Cons Stpl</title>
       <pubDate>Wed, 05 Aug 2026 16:02:17 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$VNOM 📤 Divestiture
-Sells mineral/royalty interests to Viper for 3.65M OpCo units + Class B shares
-3,654,979 OpCo units + equivalent Class B shares deal · close September 2026
-Mcap $8.1B · EV $15B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2074176/000110465926091192/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-091192</guid>
-      <pubDate>Wed, 05 Aug 2026 15:55:22 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AVX 🪙 Debt Restr.
-Retires $6.8M convertible debt; amends remaining note
-Mcap $24M · EV $20M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1826397/000149315226036201/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-036201</guid>
-      <pubDate>Wed, 05 Aug 2026 15:54:50 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$THRM 🤝 Merger
-Acquires Modine's Performance Technologies business; vote pending
-Modine Manufacturing · stock
-Mcap $1.3B · EV $1.4B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/903129/000119312526335329/d52416ds4a.htm</link>
-      <guid isPermaLink="false">0001193125-26-335329</guid>
-      <pubDate>Wed, 05 Aug 2026 15:54:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RACC 🤝 Merger
-Acquires Oak Hill Bio for $175M cash; to trade as OAKH on Nasdaq
-cash · close end of 2026
-Mcap $223M · EV $223M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2118032/000119312526335338/d263737d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-335338</guid>
-      <pubDate>Wed, 05 Aug 2026 15:53:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$XFLT ⚔️ Proxy
-Contested vote on King Street sub-advisory; ISS/GL support FOR
-Mcap $285M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026085732/ea0300768-01_defa14a.htm</link>
-      <guid isPermaLink="false">0001213900-26-085732</guid>
-      <pubDate>Wed, 05 Aug 2026 15:53:45 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
