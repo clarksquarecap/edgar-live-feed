@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 11:46:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 11:59:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VTRS 📤 Divestiture
+Sells global rights to Tyrvaya
+Mcap $21B · EV $33B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1792044/000179204426000037/vtrs-20260806.htm</link>
+      <guid isPermaLink="false">0001792044-26-000037</guid>
+      <pubDate>Thu, 06 Aug 2026 06:59:08 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$REAX 🤝 Merger
 Acquires RE/MAX Holdings; votes Aug 14
@@ -963,16 +972,6 @@ Mcap $635M · EV $616M · Materials</title>
       <pubDate>Wed, 05 Aug 2026 07:08:20 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$RMBS 💧 Capital Return · ASR
-Initiates $100M ASR with Mizuho; initial ~796K shares
-Mcap $11B · EV $10B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/917273/000119312526333887/d122300d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-333887</guid>
-      <pubDate>Wed, 05 Aug 2026 06:56:00 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>accelerated_share_repurchase</category>
     </item>
   </channel>
 </rss>
