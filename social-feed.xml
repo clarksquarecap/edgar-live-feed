@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 20:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:39:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CSBA 👀 Activist
+Stilwell takes 9.9% stake in CSB Financial
+Mcap $18M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114521/000092189526001979/primary_doc.xml</link>
+      <guid isPermaLink="false">0000921895-26-001979</guid>
+      <pubDate>Thu, 06 Aug 2026 15:39:16 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$UEIC 💧 Capital Return · Special Div
 Declares $0.24/share special dividend; record Aug 24
@@ -917,54 +926,6 @@ Mcap $283M · EV $443M · Cons Stpl</title>
       <guid isPermaLink="false">0001493152-26-036191</guid>
       <pubDate>Wed, 05 Aug 2026 15:45:59 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CAPC 💥 Busted M&amp;A
-LOI with eBliss terminated; no definitive agreement
-Mcap $4M · EV $4M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/814926/000149315226036185/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-036185</guid>
-      <pubDate>Wed, 05 Aug 2026 15:38:30 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$NTZ 📤 Divestiture
-Sells industrial asset; binding offer received
-Mcap $14M · EV $114M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/900391/000119312526335291/ntz_1q2026_finresults.htm</link>
-      <guid isPermaLink="false">0001193125-26-335291</guid>
-      <pubDate>Wed, 05 Aug 2026 15:37:53 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CRTO 🌍 Re-domicile
-Redomiciles to Delaware via 1:1 share exchange; vote Dec 15</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2144230/000162828026053407/criteo-sx4.htm</link>
-      <guid isPermaLink="false">0001628280-26-053407</guid>
-      <pubDate>Wed, 05 Aug 2026 15:37:35 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>cross-border merger</category>
-    </item>
-    <item>
-      <title>$MDV 🤝 Merger
-Acquired by Global Net Lease for 1.975 GNL shares (~$18.82/share); vote Aug 10
-17% prem · $535M enterprise value deal · stock · close mid-August 2026
-Mcap $175M · EV $480M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1645873/000110465926091142/tm2622247d3_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-091142</guid>
-      <pubDate>Wed, 05 Aug 2026 15:37:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ASA 👀 Activist
-Faces Merk exempt solicitation opposing Saba's BDC repurposing plan
-1.7% stake
-Mcap $3M · EV $120M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1230869/000121390026085709/ea0300721-px14a6g_alexander.htm</link>
-      <guid isPermaLink="false">0001213900-26-085709</guid>
-      <pubDate>Wed, 05 Aug 2026 15:36:41 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
