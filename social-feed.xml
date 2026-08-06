@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 21:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 21:08:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IRDM 🤝 Merger
+Acquired by Rocket Lab for $27 cash + stock collar; close mid-2027
+cash+stk
+Mcap $5.1B · EV $6.7B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1418819/000110465926092108/tm2621287d2_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-092108</guid>
+      <pubDate>Thu, 06 Aug 2026 16:08:40 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EOSE 📍 Stake
 Receives 13D/A from Cerberus raising stake to 37.8%
@@ -845,36 +856,6 @@ Mcap $11M · EV $10M · Tech</title>
       <pubDate>Wed, 05 Aug 2026 16:09:26 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NDRA 🤝 Merger
-Acquired by ASP Isotopes in merger; S-4 to be filed
-Mcap $5M · EV $5M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1681682/000119312526335463/aspi_425_citiconference.htm</link>
-      <guid isPermaLink="false">0001193125-26-335463</guid>
-      <pubDate>Wed, 05 Aug 2026 16:08:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$INVE 📤 Divestiture
-Sells IoT business to Trackonomy; CEO to resign post-close
-to Trackonomy Systems
-Mcap $64M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1036044/000119312526335455/d171720ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-335455</guid>
-      <pubDate>Wed, 05 Aug 2026 16:08:22 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$DAR 💧 Capital Return · Buyback
-Doubles buyback authorization to $1B
-Mcap $9.6B · EV $14B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916540/000091654026000021/dar-20260805.htm</link>
-      <guid isPermaLink="false">0000916540-26-000021</guid>
-      <pubDate>Wed, 05 Aug 2026 16:02:17 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
