@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 10:18:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 10:20:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AXIA 🌑 Going Dark
+Voluntarily delists from NYSE; files Form 15F to deregister
+Mcap $30B · EV $41B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1439124/000129281426004079/axia20260805_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004079</guid>
+      <pubDate>Thu, 06 Aug 2026 05:20:06 -0500</pubDate>
+      <category>GOING_DARK</category>
+    </item>
     <item>
       <title>$TAK ⚖️ Litigation · Won
 FDA approves first-in-class orexin agonist ORZEYFUL for NT1
@@ -896,17 +905,6 @@ Mcap $621M · Financials</title>
       <guid isPermaLink="false">0001690639-26-000050</guid>
       <pubDate>Wed, 05 Aug 2026 06:02:28 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$SC 🤝 Merger
-Acquires Webster Financial; Fed approval received; close Aug 20
-close 2026-08-20
-Mcap $257M · EV $1.1B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/811830/000095010326011922/dp250449_8k.htm</link>
-      <guid isPermaLink="false">0000950103-26-011922</guid>
-      <pubDate>Wed, 05 Aug 2026 05:19:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
