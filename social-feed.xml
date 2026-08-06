@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 20:29:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:31:39 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BEEP 🤝 Merger · Unsolicited
+Receives preliminary non-binding buyout proposal from Bombe
+Bombe Asset Management
+Mcap $75M · EV $284M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847874/000149315226036341/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-036341</guid>
+      <pubDate>Thu, 06 Aug 2026 15:31:39 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$HCAT 📤 Divestiture
 Sells VitalWare to Med-Metrix for $147M cash; repays credit facility
@@ -882,15 +893,6 @@ Mcap $3M · EV $120M · Cons Stpl</title>
       <guid isPermaLink="false">0001213900-26-085709</guid>
       <pubDate>Wed, 05 Aug 2026 15:36:41 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$QMCI 📍 Stake
-Receives 13D/A from Harland Group; 11.1% stake
-Mcap $14M · EV $17M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1101433/000119312526335146/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-335146</guid>
-      <pubDate>Wed, 05 Aug 2026 15:30:12 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
