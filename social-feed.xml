@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 12:11:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 12:18:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AXIA 💧 Capital Return · Recap
+Redeems PNC preferred shares at R$53.71; record Aug 7, pay Aug 24
+Mcap $30B · EV $41B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1439124/000129281426004093/axia20260806_6k1.htm</link>
+      <guid isPermaLink="false">0001292814-26-004093</guid>
+      <pubDate>Thu, 06 Aug 2026 07:18:27 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
     <item>
       <title>$TCPC 📤 Divestiture
 Sells 95% of continuation vehicle to Pantheon for $152M; launches strategic review
@@ -962,16 +972,6 @@ Mcap $313M · EV $313M · Financials</title>
       <pubDate>Wed, 05 Aug 2026 07:32:50 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$AIIR 💧 Capital Return · Self-tender
-Repurchases 5M shares from Harraden Circle; EGM Aug 24
-Mcap $1.1B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2097725/000119312526333918/6-k_egm.htm</link>
-      <guid isPermaLink="false">0001193125-26-333918</guid>
-      <pubDate>Wed, 05 Aug 2026 07:14:27 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
