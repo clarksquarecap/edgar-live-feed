@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 11:13:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 11:20:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TARS 🤝 Merger
+Acquires Alkeus for $450M up-front cash+stock; up to $800M with milestones
+Alkeus Pharmaceuticals · $450M up-front (plus up to $350M milestones) deal · cash+stk · close 2026
+Mcap $2.6B · EV $2.3B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819790/000181979026000060/tars-20260731.htm</link>
+      <guid isPermaLink="false">0001819790-26-000060</guid>
+      <pubDate>Thu, 06 Aug 2026 06:20:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TFX 📤 Divestiture
 Completes sale of OEM business; $250M ASR and $250M Q2 buyback
@@ -928,45 +939,6 @@ Mcap $446M · EV $1.1B · Financials</title>
       <pubDate>Wed, 05 Aug 2026 06:31:24 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$LOGC 🤝 Merger
-Acquires gChem for $850M EV; rights offering backstopped at $9/unit
-$850 million deal · cash · close end of 2026
-Mcap $446M · EV $1.1B · Financials</title>
-      <link>https://finance.yahoo.com/markets/stocks/articles/contextlogic-acquire-gchem-850-million-110000852.html</link>
-      <guid isPermaLink="false">OTC-530623</guid>
-      <pubDate>Wed, 05 Aug 2026 06:19:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TRI 📤 Divestiture
-Sells 51% stake in Global Print to KKR for ~$500M cash
-Mcap $47B · EV $50B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1075124/000119312526333835/d125343d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-333835</guid>
-      <pubDate>Wed, 05 Aug 2026 06:19:03 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PLTYF 🌑 Going Dark
-Terminates SEC registration; 17 holders of record
-Mcap $280K · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1433309/000110465926090723/tm2622296d1_1512g.htm</link>
-      <guid isPermaLink="false">0001104659-26-090723</guid>
-      <pubDate>Wed, 05 Aug 2026 06:18:39 -0500</pubDate>
-      <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$GTE 📤 Divestiture
-Sells Colombia/Ecuador assets to Maurel &amp; Prom for $1.33B total consideration
-$1.33 billion deal · close 2026-12-31
-Mcap $242M · EV $738M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1273441/000110465926090719/tm2622187d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-090719</guid>
-      <pubDate>Wed, 05 Aug 2026 06:18:27 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
