@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 00:50:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 01:08:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RMT 📍 Stake
@@ -878,16 +878,6 @@ Mcap $157M · EV $382M · Real Estate</title>
       <guid isPermaLink="false">0000902664-26-003314</guid>
       <pubDate>Tue, 04 Aug 2026 20:30:37 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BEEP 🤝 Merger · Unsolicited
-Receives preliminary take-private proposal from Bombe Asset Management
-Mcap $75M · EV $284M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847874/000149315226036078/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-036078</guid>
-      <pubDate>Tue, 04 Aug 2026 20:06:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
