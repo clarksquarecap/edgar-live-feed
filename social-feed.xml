@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 11:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 11:11:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VISN 💧 Capital Return · Special Div
+Declares $5.00/share special dividend; ex-date Aug 28
+Mcap $2.8B · EV $342M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1517228/000119312526336699/visn-20260804.htm</link>
+      <guid isPermaLink="false">0001193125-26-336699</guid>
+      <pubDate>Thu, 06 Aug 2026 06:11:22 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>special_dividend</category>
+    </item>
     <item>
       <title>$FBRX 🎯 Tender
 Tender offer from argenx at $77.00 cash per share
@@ -967,16 +977,6 @@ Mcap $4.7B · EV $13B · Utilities</title>
       <guid isPermaLink="false">0001193125-26-333825</guid>
       <pubDate>Wed, 05 Aug 2026 06:11:38 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PRTX 🤝 Merger
-Merger outside date extended to Dec 31, 2026
-SilverBox Corp IV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2079180/000110465926090713/tm2622195d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-090713</guid>
-      <pubDate>Wed, 05 Aug 2026 06:10:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
