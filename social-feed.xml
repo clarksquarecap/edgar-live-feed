@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 20:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:25:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VOYA ⚔️ Proxy
+Faces no confidence referendum from TOMS Capital
+4,055,700 shares (economic exposure) stake
+Mcap $9.1B · EV $15B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1535929/000114036126031676/ny20078175x3_dfan14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-031676</guid>
+      <pubDate>Thu, 06 Aug 2026 15:25:54 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$DOCN 📍 Stake
 Receives 13D/A from Access Industries; stake 15.86%
@@ -945,36 +955,6 @@ Mcap $224M · EV $257M · Tech</title>
       <pubDate>Wed, 05 Aug 2026 15:26:11 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ONT 🔎 Strat Review · Strat Alts
-Launches board-led strategic review; explores sale or other alternatives
-Mcap $826M · EV $1.2B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1643615/000119312526335022/ont-20260805.htm</link>
-      <guid isPermaLink="false">0001193125-26-335022</guid>
-      <pubDate>Wed, 05 Aug 2026 15:19:37 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$CXW 📤 Divestiture
-Sells 4 detention facilities to federal partner for $2.2B cash
-$2.2 billion deal
-Mcap $3.0B · EV $4.2B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1070985/000119312526335025/d173726d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-335025</guid>
-      <pubDate>Wed, 05 Aug 2026 15:19:31 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CXW 📤 Divestiture
-Sells two facilities to DHS for $734M cash
-$734 million deal · close completed
-Mcap $3.0B · EV $4.2B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1070985/000119312526335068/d174637d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-335068</guid>
-      <pubDate>Wed, 05 Aug 2026 15:19:07 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
