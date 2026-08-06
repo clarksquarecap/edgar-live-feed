@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 10:56:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 11:03:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DAN 🤝 Merger
+Acquires Eaton Mobility via split-off; close Q1 2027
+Mcap $3.0B · EV $4.1B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/26780/000119312526336664/d125905d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-336664</guid>
+      <pubDate>Thu, 06 Aug 2026 06:03:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SUNS 🤝 Merger
 Acquires Southern Realty Trust for 1.45 shares + $0.05 cash per share
@@ -977,25 +987,6 @@ Mcap $274M · EV $273M · Financials</title>
       <pubDate>Wed, 05 Aug 2026 06:03:23 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$INMD 🤝 Merger · Unsolicited
-Special committee evaluating unsolicited proposals; no deal yet
-Mcap $883M · EV $351M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1742692/000117891326003831/zk2635833.htm</link>
-      <guid isPermaLink="false">0001178913-26-003831</guid>
-      <pubDate>Wed, 05 Aug 2026 06:03:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$VBNK 🌍 Re-domicile
-Reorganizes into Versa Bancorp (Delaware); vote Sept 16
-Mcap $621M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1690639/000169063926000050/a6-kxsx4effective.htm</link>
-      <guid isPermaLink="false">0001690639-26-000050</guid>
-      <pubDate>Wed, 05 Aug 2026 06:02:28 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
