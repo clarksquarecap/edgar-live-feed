@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 20:16:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 20:18:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DOCN 📍 Stake
+Receives 13D/A from Access Industries; stake 15.86%
+Mcap $15B · EV $16B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1582961/000119312526337970/primary_doc.xml</link>
+      <guid isPermaLink="false">0001193125-26-337970</guid>
+      <pubDate>Thu, 06 Aug 2026 15:18:47 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$RMD 📤 Divestiture
 Sells MatrixCare business; close expected Q1 FY2027
@@ -966,27 +975,6 @@ Mcap $3.0B · EV $4.2B · Industrials</title>
       <guid isPermaLink="false">0001193125-26-335068</guid>
       <pubDate>Wed, 05 Aug 2026 15:19:07 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ETSY 💧 Capital Return · Buyback
-Authorizes $2B share repurchase; cuts 220 jobs (12% workforce)
-Mcap $8.2B · EV $9.9B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1370637/000137063726000079/etsy-20260803.htm</link>
-      <guid isPermaLink="false">0001370637-26-000079</guid>
-      <pubDate>Wed, 05 Aug 2026 15:17:59 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$BLBD 🤝 Merger
-Acquires Detroit Chassis assets for $7M; partners with Ford on F-53/F-59 chassis
-$7,000,000 plus assumption of liabilities deal · cash · close Q1 2027
-Mcap $2.5B · EV $2.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1589526/000158952626000044/blbd-20260731.htm</link>
-      <guid isPermaLink="false">0001589526-26-000044</guid>
-      <pubDate>Wed, 05 Aug 2026 15:16:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
