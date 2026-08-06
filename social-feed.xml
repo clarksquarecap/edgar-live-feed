@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 06 Aug 2026 13:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:13:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$VOYA 👀 Activist
@@ -949,28 +949,6 @@ Mcap $608M · EV $595M · Cons Disc</title>
       <guid isPermaLink="false">0001193805-26-001025</guid>
       <pubDate>Wed, 05 Aug 2026 08:25:07 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$FUNR 🤝 Merger · Preliminary
-Acquires WE Green Energo in reverse merger; $76M stock, $30M PIPE
-WE Green Energo GmbH · 76,000,000 deal · stock
-Mcap $37M · Cons Stpl</title>
-      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=92236</link>
-      <guid isPermaLink="false">OTC-530576</guid>
-      <pubDate>Wed, 05 Aug 2026 08:06:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$WBS 🤝 Merger
-Acquired by Banco Santander; Fed approved; close Aug 20
-close 2026-08-20
-Mcap $13B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/801337/000080133726000025/wbs-20260804.htm</link>
-      <guid isPermaLink="false">0000801337-26-000025</guid>
-      <pubDate>Wed, 05 Aug 2026 08:05:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
