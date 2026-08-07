@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 20:59:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:01:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$L 📍 Stake
+Receives 13D/A from Andrew Tisch; stake rises to 7.3%
+Mcap $24B · EV $33B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/60086/000114036126031842/primary_doc.xml</link>
+      <guid isPermaLink="false">0001140361-26-031842</guid>
+      <pubDate>Fri, 07 Aug 2026 16:01:47 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$L 📍 Stake
+James Tisch raises stake to 8.4% via trust distribution
+Mcap $24B · EV $33B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/60086/000114036126031845/primary_doc.xml</link>
+      <guid isPermaLink="false">0001140361-26-031845</guid>
+      <pubDate>Fri, 07 Aug 2026 15:59:58 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$XIII 📍 Stake
 Sponsor discloses 25.47% stake in 13D</title>
@@ -658,15 +676,6 @@ Mcap $5.1B · EV $6.7B · Comms</title>
       <pubDate>Thu, 06 Aug 2026 16:08:40 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$EOSE 📍 Stake
-Receives 13D/A from Cerberus raising stake to 37.8%
-Mcap $1.4B · EV $2.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1805077/000101143826000469/primary_doc.xml</link>
-      <guid isPermaLink="false">0001011438-26-000469</guid>
-      <pubDate>Thu, 06 Aug 2026 16:01:41 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
