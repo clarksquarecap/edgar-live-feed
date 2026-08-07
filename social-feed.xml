@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 12:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 12:22:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$TLK 🪓 Spinoff
@@ -723,26 +723,6 @@ Mcap $3M · EV $4M · Industrials</title>
       <pubDate>Thu, 06 Aug 2026 07:31:57 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$AXIA 💧 Capital Return · Recap
-Redeems R$2B (6.14%) of PNC at R$53.71; conversion to common optional
-Mcap $30B · EV $41B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1439124/000129281426004092/axia20260806_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004092</guid>
-      <pubDate>Thu, 06 Aug 2026 07:18:45 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-    </item>
-    <item>
-      <title>$AXIA 💧 Capital Return · Recap
-Redeems PNC preferred shares at R$53.71; record Aug 7, pay Aug 24
-Mcap $30B · EV $41B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1439124/000129281426004093/axia20260806_6k1.htm</link>
-      <guid isPermaLink="false">0001292814-26-004093</guid>
-      <pubDate>Thu, 06 Aug 2026 07:18:27 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
