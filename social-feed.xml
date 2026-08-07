@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 21:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:17:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AXIA 🌑 Going Dark
+Files Form 15F to deregister; ADRs trade on OTC
+Mcap $30B · EV $41B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1439124/000129281426004142/axia20270807_6k1.htm</link>
+      <guid isPermaLink="false">0001292814-26-004142</guid>
+      <pubDate>Fri, 07 Aug 2026 16:17:53 -0500</pubDate>
+      <category>GOING_DARK</category>
+    </item>
     <item>
       <title>$NUTR 📉 Delisting · Forced
 Forced Nasdaq delisting effective Aug 12; moves to OTC
@@ -660,46 +669,6 @@ Mcap $15M · EV $14M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1755237/000119312526338459/d173945d425.htm</link>
       <guid isPermaLink="false">0001193125-26-338459</guid>
       <pubDate>Thu, 06 Aug 2026 16:24:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DV 🤝 Merger
-Acquired by Neptune BidCo in definitive merger
-Neptune BidCo US
-Mcap $1.8B · EV $1.8B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819928/000110465926092121/tm2621904d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-092121</guid>
-      <pubDate>Thu, 06 Aug 2026 16:17:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AHT 📤 Divestiture
-Sells Hyatt Regency Long Island for $26.5M cash
-close 2026-07-31
-Mcap $21M · EV $2.8B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1232582/000123258226000172/aht-20260731.htm</link>
-      <guid isPermaLink="false">0001232582-26-000172</guid>
-      <pubDate>Thu, 06 Aug 2026 16:17:38 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ELPC 📤 Divestiture
-Sells 23.03% stake in Dona Francisca to Gerdau for R$150.7M cash
-R$150,719,205.75 deal · close 2026-08-06</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1041792/000129281426004115/elp20260806_6k1.htm</link>
-      <guid isPermaLink="false">0001292814-26-004115</guid>
-      <pubDate>Thu, 06 Aug 2026 16:17:12 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$DV 🤝 Merger
-Acquired by Nielsen in definitive merger; close Q1 2027
-Mcap $1.8B · EV $1.8B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819928/000110465926092124/tm2621904d4_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-092124</guid>
-      <pubDate>Thu, 06 Aug 2026 16:16:50 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
