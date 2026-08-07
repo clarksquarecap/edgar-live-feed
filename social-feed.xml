@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 11:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:14:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SKM 🤝 Merger · Rumor
+Confirms KKR reviewing ~W1tn AI data center investment; no decision
+Mcap $14B · EV $20B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1015650/000119312526339139/d49977d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-339139</guid>
+      <pubDate>Fri, 07 Aug 2026 06:14:43 -0500</pubDate>
+      <category>MERGER</category>
+      <category>rumor_response</category>
+    </item>
     <item>
       <title>$JBS 📤 Divestiture
 Sells 25% stake in ANZ protein business to Indonesia sovereign fund for $2.5B
@@ -760,45 +770,6 @@ Mcap $2.6B · EV $2.3B · Healthcare</title>
       <pubDate>Thu, 06 Aug 2026 06:20:00 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TFX 📤 Divestiture
-Completes sale of OEM business; $250M ASR and $250M Q2 buyback
-Mcap $6.1B · EV $8.5B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/96943/000009694326000091/tfx-20260806.htm</link>
-      <guid isPermaLink="false">0000096943-26-000091</guid>
-      <pubDate>Thu, 06 Aug 2026 06:13:37 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$VITL 🪙 Debt Restr.
-Waives FCCR breach; secures $185M new credit facilities
-Mcap $524M · EV $527M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1579733/000119312526336692/vitl-20260803.htm</link>
-      <guid isPermaLink="false">0001193125-26-336692</guid>
-      <pubDate>Thu, 06 Aug 2026 06:11:40 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>covenant_waiver</category>
-    </item>
-    <item>
-      <title>$VISN 💧 Capital Return · Special Div
-Declares $5.00/share special dividend; ex-date Aug 28
-Mcap $2.8B · EV $342M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1517228/000119312526336699/visn-20260804.htm</link>
-      <guid isPermaLink="false">0001193125-26-336699</guid>
-      <pubDate>Thu, 06 Aug 2026 06:11:22 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$FBRX 🎯 Tender
-Tender offer from argenx at $77.00 cash per share
-argenx SE · $2.2 billion deal · cash · close Q3 2026
-Mcap $1.9B · EV $1.8B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1419041/000114036126031504/ny20079488x1_sctot.htm</link>
-      <guid isPermaLink="false">0001140361-26-031504</guid>
-      <pubDate>Thu, 06 Aug 2026 06:09:37 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
