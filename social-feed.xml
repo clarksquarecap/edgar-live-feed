@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 11:44:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:50:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ECTHF 🤝 Merger
+Acquires Xenica Materials; secures exclusive Rice FJH license for MXenes
+Xenica Materials Pty</title>
+      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=92320</link>
+      <guid isPermaLink="false">OTC-530996</guid>
+      <pubDate>Fri, 07 Aug 2026 06:50:50 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ECTHF 🤝 Merger
 Acquires Terrajoule; gains exclusive Rice U PFAS remediation licence
@@ -714,17 +724,6 @@ Mcap $21B · EV $33B · Healthcare</title>
       <guid isPermaLink="false">0001792044-26-000037</guid>
       <pubDate>Thu, 06 Aug 2026 06:59:08 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$REAX 🤝 Merger
-Acquires RE/MAX Holdings; votes Aug 14
-close H2 2026
-Mcap $355M · EV $292M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1862461/000110465926091651/tm2622068d3_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-091651</guid>
-      <pubDate>Thu, 06 Aug 2026 06:46:36 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
