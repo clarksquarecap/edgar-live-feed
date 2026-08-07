@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 12:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 12:34:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HTCR 📤 Divestiture
+Sells 51% stake in Vietnam JV to Luvina for ¥29M (~$184K)
+JPY 29,000,000 (~$184,093) deal · close 2026-08-14
+Mcap $4M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1892322/000149315226036487/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-036487</guid>
+      <pubDate>Fri, 07 Aug 2026 07:34:52 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$TLK 🪓 Spinoff
 Spins off Wholesale Fiber Business Phase 2 to TIF
@@ -712,17 +722,6 @@ Mcap $5M · EV $8M · Healthcare</title>
       <pubDate>Thu, 06 Aug 2026 07:38:35 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$VYST 🤝 Merger
-Acquires 50% of r3alm for 8.37M shares convertible
-stock
-Mcap $3M · EV $4M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1308027/000149315226036272/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-036272</guid>
-      <pubDate>Thu, 06 Aug 2026 07:31:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
