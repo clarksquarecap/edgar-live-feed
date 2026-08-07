@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 20:17:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:23:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AXIA 💧 Capital Return · Recap
+Redeems 6.14% PNC shares at R$53.71; ADSs move to OTC Pink
+Mcap $30B · EV $41B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1439124/000129281426004137/axia20260807_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004137</guid>
+      <pubDate>Fri, 07 Aug 2026 15:23:54 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
     <item>
       <title>$CRBD 📍 Stake
 Nippon Life to raise stake to ~30% via 10b5-1 plan
@@ -716,15 +726,6 @@ Mcap $9.1B · EV $15B · Financials</title>
       <guid isPermaLink="false">0001140361-26-031676</guid>
       <pubDate>Thu, 06 Aug 2026 15:25:54 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$DOCN 📍 Stake
-Receives 13D/A from Access Industries; stake 15.86%
-Mcap $15B · EV $16B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1582961/000119312526337970/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-337970</guid>
-      <pubDate>Thu, 06 Aug 2026 15:18:47 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
