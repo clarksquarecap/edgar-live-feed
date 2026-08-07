@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 10:09:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:15:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$INVE 📤 Divestiture
+Sells IoT Business to Trackonomy for $50M in Series C Preferred; vote Sept 10
+to Trackonomy Systems · $50,000,000 deal
+Mcap $64M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1036044/000119312526338993/d103630ddefm14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-338993</guid>
+      <pubDate>Fri, 07 Aug 2026 05:15:18 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$ZD 📤 Divestiture
 Sells Connectivity division for $1.216B cash
@@ -817,26 +827,6 @@ Mcap $53B · EV $86B · Healthcare</title>
       <pubDate>Thu, 06 Aug 2026 05:18:52 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$YPF 📤 Divestiture
-Sells Chachahuén cluster to Energía Mendocina &amp; Compañía Andina for $200M
-US$200 million deal
-Mcap $20B · EV $29B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/904851/000155485526001716/MainDocument.htm</link>
-      <guid isPermaLink="false">0001554855-26-001716</guid>
-      <pubDate>Thu, 06 Aug 2026 05:13:19 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$YPF 📤 Divestiture
-Sells Mendoza Non-Operated cluster to San Benito for $205M
-US$205 million deal
-Mcap $20B · EV $29B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/904851/000155485526001718/MainDocument.htm</link>
-      <guid isPermaLink="false">0001554855-26-001718</guid>
-      <pubDate>Thu, 06 Aug 2026 05:12:56 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
