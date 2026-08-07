@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 20:54:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:57:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Settled · FGBI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1408534/000140853426000069/fgbi-20260807.htm</link>
+      <guid isPermaLink="false">0001408534-26-000069</guid>
+      <pubDate>Fri, 07 Aug 2026 15:57:32 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+      <category>8-K</category>
+      <scanner:headline>Bank subsidiary settles FDIC/OFI consent order; Tier 1 leverage must hit 9% (now 7.09%)</scanner:headline>
+      <scanner:shortName>First Guaranty Bancshares</scanner:shortName>
+      <scanner:price>9.53</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Bank subsidiary settles FDIC/OFI consent order; Tier 1 leverage must hit 9% (now 7.09%)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Bank consented to a consent order with the FDIC and OFI effective Aug 7, 2026. The order requires Tier 1 leverage ratio &amp;gt;=9% (currently 7.09%) and total risk-based capital &amp;gt;=14% (currently 16.21%), restricts dividends, and mandates credit and oversight actions. The bank has submitted a capital plan to address the shortfall.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; First Guaranty Bancshares, Inc. operates as the holding company for First Guaranty Bank that provides commercial banking services in Louisiana and Texas. It offers various deposit products, such as personal and business checking, savings, money market, and demand deposits accounts, as well as time deposits to consumers, small businesses, and municipalities.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; FDIC and OFI&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-07&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $9.53 · Mkt cap $159.6M · Fwd P/E 22.7x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1408534/000140853426000069/0001408534-26-000069-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FGBI, FGBIP&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Depository Institutions (6035) · 8k_tier1:8.01 · filed 2026-08-07&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>💔 Busted · DJT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849635/000143774926026597/djt20260804_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-026597</guid>
+      <pubDate>Fri, 07 Aug 2026 15:55:22 -0500</pubDate>
+      <category>BUSTED_MA</category>
+      <category>8-K</category>
+      <scanner:headline>Mutually terminates business combination with Yorkville SPAC and Crypto.com</scanner:headline>
+      <scanner:shortName>Trump Media &amp; Technology</scanner:shortName>
+      <scanner:price>10.34</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Mutually terminates business combination with Yorkville SPAC and Crypto.com&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Trump Media and parties mutually terminated the business combination agreement with Yorkville Acquisition Corp. and Crypto.com, citing market conditions. The proposed digital asset treasury structure and ETF servicing partnership are also discontinued.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Trump Media &amp;amp; Technology Group Corp. engages in social media and streaming services in the United States. It operates Truth Social, a social media platform for free expression; and Truth+, a streaming platform focusing on family-friendly live TV channels and on-demand content. The company also offers Truth.Fi, a financial service and FinTech brand that incorporates America First investment vehicles; and a digital asset strategy including a bitcoin treasury. Trump Media &amp;amp; Technology Group Corp.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Yorkville Acquisition Corp. and Crypto.com&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.34 · Mkt cap $2.86B · EV $2.81B · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1849635/000143774926026597/0001437749-26-026597-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DJT, DJTWW&lt;/b&gt; · 8-K · Items 1.02, 9.01 · Business Services (7370) · 8k_tier1:1.02 · filed 2026-08-07&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Unsolicited · RNW</title>
       <link>https://www.sec.gov/Archives/edgar/data/1848763/000119312526340359/copy_of_6k_cppib_bafo_7_.htm</link>
@@ -9514,38 +9552,6 @@
 &lt;p&gt;Filed an amended registration statement (F-4/A) in connection with a proposed merger or acquisition. (headline only — full text not retrieved)&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2048740/000121390026083235/0001213900-26-083235-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;F-4/A · Transportation Equipment (3711) · prefill_form:F-4 · filed 2026-07-30&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🌑 Going Dark · MYCB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1556801/000164033426001259/jrvs_1512g.htm</link>
-      <guid isPermaLink="false">0001640334-26-001259</guid>
-      <pubDate>Thu, 30 Jul 2026 11:59:51 -0500</pubDate>
-      <category>GOING_DARK</category>
-      <category>15-12G</category>
-      <scanner:headline>Terminates SEC registration; 230 holders; effective July 30</scanner:headline>
-      <scanner:shortName>My City Builders</scanner:shortName>
-      <scanner:price>0.1100</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Terminates SEC registration; 230 holders; effective July 30&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Voluntarily terminated its registration under Section 12(g) of the Securities Exchange Act of 1934, effective July 30, 2026. The company had approximately 230 holders of record. It will no longer file periodic reports with the SEC but may continue trading on the OTC markets.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; My City Builders, Inc., together with its subsidiaries, operates in the real estate sector in the United States. It acquires, develops, leases, and sells real estate housing properties to low-income individuals and families. The company was formerly known as iMine Corporation and changed its name to My City Builders, Inc. in April 2023. My City Builders, Inc. was founded in 2022 and is based in Miami, Florida. My City Builders, Inc. operates as a subsidiary of Rac Merger, Llc.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1100 · Mkt cap $2.0M · EV $2.4M · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1556801/000164033426001259/0001640334-26-001259-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MYCB&lt;/b&gt; · 15-12G · Real Estate (6500) · prefill_form:15-12G · filed 2026-07-30&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · VISTASL</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1919369/000119312526325428/0001193125-26-325428-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-325428</guid>
-      <pubDate>Thu, 30 Jul 2026 11:24:07 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Receives 13D/A from Vista entities; stake rises to 13.8%</scanner:headline>
-      <scanner:shortName>VISTA CREDIT STRATEGIC LENDING</scanner:shortName>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Vista entities; stake rises to 13.8%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D/A from Vista VCSL Feeder Fund, VEP Group, and Robert F. Smith, reporting an increase in aggregate beneficial ownership to 13.8% (VEP Group) and 10.93% (Feeder). The increase resulted from a $6.23M capital call drawdown at $19.13/share (325,656 shares) and reinvestment of 83.232 shares via the distribution reinvestment plan. Remaining uncalled capital commitment is $10.39M. No activist agenda is disclosed.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Vista VCSL Feeder Fund, L.P. et al.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 13.80&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1919369/000119312526325428/0001193125-26-325428-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VISTASL&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-07-30&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
