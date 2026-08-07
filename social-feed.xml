@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 20:09:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:11:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AIFC 📤 Divestiture
+Sells ALT 5 Sigma Canada for $12M note + 11.55M Prime shares
+to Prime Delta · close 2026-08-03
+Mcap $57M · EV $87M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/862861/000149315226036566/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-036566</guid>
+      <pubDate>Fri, 07 Aug 2026 15:11:59 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$TWG 💧 Capital Return · Recap
 Shareholders approve recap: Class B gets 100 votes/share; consolidation up to 250:1
@@ -739,17 +749,6 @@ Mcap $9.1B · EV $15B · Financials</title>
       <guid isPermaLink="false">0001140361-26-031675</guid>
       <pubDate>Thu, 06 Aug 2026 15:13:07 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$SACH 🤝 Merger
-Acquired by IRG via asset contribution; combined co to be IRGT
-stock
-Mcap $41M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1682220/000168222026000058/sach-q22026resultsxdefa14a.htm</link>
-      <guid isPermaLink="false">0001682220-26-000058</guid>
-      <pubDate>Thu, 06 Aug 2026 15:11:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
