@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 21:02:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:09:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ANY 🌍 Re-domicile
+Continues from Ontario to British Columbia; vote Aug 24
+Mcap $15M · EV $12M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1591956/000106299326004102/formdefa14a.htm</link>
+      <guid isPermaLink="false">0001062993-26-004102</guid>
+      <pubDate>Fri, 07 Aug 2026 16:08:59 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$BBAIX 📍 Stake
 BBH raises stake to 47.27% of Class S units</title>
@@ -682,17 +691,6 @@ Mcap $52B · EV $55B · Materials</title>
       <guid isPermaLink="false">0001193125-26-338406</guid>
       <pubDate>Thu, 06 Aug 2026 16:09:31 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$IRDM 🤝 Merger
-Acquired by Rocket Lab for $27 cash + stock collar; close mid-2027
-cash+stk
-Mcap $5.1B · EV $6.7B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1418819/000110465926092108/tm2621287d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-092108</guid>
-      <pubDate>Thu, 06 Aug 2026 16:08:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
