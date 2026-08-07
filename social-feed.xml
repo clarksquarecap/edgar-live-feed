@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 19:49:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:07:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LPSN 🤝 Merger
+Glass Lewis recommends FOR SoundHound AI merger; vote Aug 20
+22 prem · cash+stk · close H2 2026
+Mcap $22M · EV $314M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1102993/000110299326000082/a425filing8_07-pressrelease.htm</link>
+      <guid isPermaLink="false">0001102993-26-000082</guid>
+      <pubDate>Fri, 07 Aug 2026 15:07:25 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$YYAI 👀 Activist
 Stifano takes 9.5% stake; demands governance review, critical minerals pivot
@@ -718,25 +729,6 @@ Mcap $41M · Real Estate</title>
       <pubDate>Thu, 06 Aug 2026 15:11:19 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$STVN 📤 Divestiture
-Completes divestiture of Balda C. Brewer subsidiary
-Mcap $5.6B · EV $6.0B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1849853/000119312526337907/transcript_aug_4_2026.htm</link>
-      <guid isPermaLink="false">0001193125-26-337907</guid>
-      <pubDate>Thu, 06 Aug 2026 15:04:15 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AXIA 💧 Capital Return · Self-tender
-R$2B redemption at R$53.71/share; opt-in Aug 12-14
-Mcap $30B · EV $41B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1439124/000129281426004105/axia20260806_6k2.htm</link>
-      <guid isPermaLink="false">0001292814-26-004105</guid>
-      <pubDate>Thu, 06 Aug 2026 15:03:55 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
