@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 21:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:25:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BATL 💧 Capital Return · Recap
+Repurchases $19M preferred from Gen IV, converts remainder to common
+Mcap $30M · EV $364M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1282648/000110465926092788/batl-20260807x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-092788</guid>
+      <pubDate>Fri, 07 Aug 2026 16:25:24 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
     <item>
       <title>$SQFT 💧 Capital Return · Self-tender
 Offers 5.5 common shares per Series D preferred share
@@ -678,27 +688,6 @@ Mcap $1.1B · EV $1.1B · Tech</title>
       <pubDate>Thu, 06 Aug 2026 16:25:45 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$CMRC 🤝 Merger · Unsolicited
-Faces renewed acquisition push from Rezolve after Q2 miss
-Rezolve Ai
-Mcap $281M · EV $291M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1626450/000119312526338450/425_august_6_2026.htm</link>
-      <guid isPermaLink="false">0001193125-26-338450</guid>
-      <pubDate>Thu, 06 Aug 2026 16:25:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$CYCN 🤝 Merger
-Acquires Korsana Biosciences in merger; combined co to list on Nasdaq
-Mcap $15M · EV $14M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1755237/000119312526338459/d173945d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-338459</guid>
-      <pubDate>Thu, 06 Aug 2026 16:24:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
