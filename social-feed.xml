@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 21:25:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:31:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FINS ⚔️ Proxy
+Faces proxy contest from Trevor Montano; AGM Sept 25
+Mcap $418M · EV $544M · Financial Serv</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1745059/000199937126017441/fins-defc14a_092526.htm</link>
+      <guid isPermaLink="false">0001999371-26-017441</guid>
+      <pubDate>Fri, 07 Aug 2026 16:31:44 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$BATL 💧 Capital Return · Recap
 Repurchases $19M preferred from Gen IV, converts remainder to common
@@ -677,16 +686,6 @@ Mcap $31M · EV $228M · Cons Disc</title>
       <guid isPermaLink="false">0001193125-26-338473</guid>
       <pubDate>Thu, 06 Aug 2026 16:33:20 -0500</pubDate>
       <category>TENDER_OFFER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$RZLV 🤝 Merger · Unsolicited
-Reaffirms strategic case for Commerce.com combination after Q2 miss
-Mcap $1.1B · EV $1.1B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1920294/000119312526338451/6-k_august_6_2026.htm</link>
-      <guid isPermaLink="false">0001193125-26-338451</guid>
-      <pubDate>Thu, 06 Aug 2026 16:25:45 -0500</pubDate>
-      <category>MERGER</category>
       <category>unsolicited</category>
     </item>
   </channel>
