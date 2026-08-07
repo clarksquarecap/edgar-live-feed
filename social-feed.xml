@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 21:32:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:38:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$FOX 🤝 Merger
@@ -655,58 +655,6 @@ Mcap $7.7B · EV $8.6B · Healthcare</title>
       <guid isPermaLink="false">0001193125-26-338651</guid>
       <pubDate>Thu, 06 Aug 2026 17:58:34 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SAGT 📍 Stake
-CEO raises stake to 41.78% via 300K share purchase
-Mcap $15M · EV $15M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2029138/000121390026086254/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-086254</guid>
-      <pubDate>Thu, 06 Aug 2026 16:35:15 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$HKIT 🤝 Merger
-Acquires Ju Fu for $20M: $14M cash + 4M shares
-Ju Fu Limited · 20,000,000 deal · cash+stk · close 2026-08-11
-Mcap $24M · EV $5M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1742341/000121390026086241/ea0300954-6k_hitek.htm</link>
-      <guid isPermaLink="false">0001213900-26-086241</guid>
-      <pubDate>Thu, 06 Aug 2026 16:34:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WSAT 🤝 Merger
-Acquired by Columbus Acquisition Corp in $250M stock merger
-250,000,000 deal · stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2101411/000121390026086250/ea0270467-12.htm</link>
-      <guid isPermaLink="false">0001213900-26-086250</guid>
-      <pubDate>Thu, 06 Aug 2026 16:34:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$COLA 🤝 Merger
-Extends outside date to Oct 31 for WISeSat.Space merger
-close Q4 2026
-Mcap $48M · EV $48M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028201/000121390026086249/ea0301005-8k425_columbus.htm</link>
-      <guid isPermaLink="false">0001213900-26-086249</guid>
-      <pubDate>Thu, 06 Aug 2026 16:33:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DXLG 🎯 Tender · Unsolicited
-Faces $0.84/share cash tender from Zodiac/Camac
-cash
-Mcap $31M · EV $228M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/813298/000119312526338473/sch14d9_amendment_4_aug_.htm</link>
-      <guid isPermaLink="false">0001193125-26-338473</guid>
-      <pubDate>Thu, 06 Aug 2026 16:33:20 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
