@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 10:56:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:02:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$JBS 📤 Divestiture
+Sells 25% stake in ANZ protein business to Indonesia sovereign fund for $2.5B
+Mcap $15B · EV $36B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1791942/000121390026086392/ea0301037-6k_jbs.htm</link>
+      <guid isPermaLink="false">0001213900-26-086392</guid>
+      <pubDate>Fri, 07 Aug 2026 06:02:24 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$TJGC 💧 Capital Return · Recap
 Adopts dual-class share structure; 476,667 shares become Class B
@@ -798,17 +807,6 @@ Mcap $3.0B · EV $4.1B · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/26780/000119312526336664/d125905d8k.htm</link>
       <guid isPermaLink="false">0001193125-26-336664</guid>
       <pubDate>Thu, 06 Aug 2026 06:03:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SUNS 🤝 Merger
-Acquires Southern Realty Trust for 1.45 shares + $0.05 cash per share
-cash+stk · close Q4 2026
-Mcap $104M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2012706/000182912626008416/sunriserealty_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-008416</guid>
-      <pubDate>Thu, 06 Aug 2026 05:56:21 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
