@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 12:34:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 12:41:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$HTCR 📤 Divestiture
@@ -702,26 +702,6 @@ Mcap $9.1B · EV $15B · Financials</title>
       <guid isPermaLink="false">0001140361-26-031549</guid>
       <pubDate>Thu, 06 Aug 2026 08:04:52 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$CICB 💧 Capital Return · Buyback
-Raises buyback cap to $130M (+$50M); cites deep discount to NAV
-Mcap $310M · EV $1.5B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1534254/000110465926091692/tm2622057d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-091692</guid>
-      <pubDate>Thu, 06 Aug 2026 07:39:02 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$AQB 🔎 Strat Review · Strat Alts
-Expands strategic review of Ohio property to power infrastructure
-Mcap $5M · EV $8M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1603978/000160397826000086/aqb-20260806x8k.htm</link>
-      <guid isPermaLink="false">0001603978-26-000086</guid>
-      <pubDate>Thu, 06 Aug 2026 07:38:35 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
