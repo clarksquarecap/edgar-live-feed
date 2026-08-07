@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 20:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:40:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FLEX 💧 Capital Return · Buyback
+Authorizes $2B share repurchase (~15% of cap)
+Mcap $45B · EV $48B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866374/000086637426000033/flex-20260805.htm</link>
+      <guid isPermaLink="false">0000866374-26-000033</guid>
+      <pubDate>Fri, 07 Aug 2026 15:40:59 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
+    <item>
+      <title>$ELVR 📤 Divestiture
+Sells Tabba Tabba pegmatite rights to Wildcat for A$16M cash+stock
+close Completed
+Mcap $982M · EV $981M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1739016/000114036126031827/ef20079718_6k.htm</link>
+      <guid isPermaLink="false">0001140361-26-031827</guid>
+      <pubDate>Fri, 07 Aug 2026 15:24:20 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$MRM 🪙 Debt Restr.
+Refinances JPY 275M bond into 10% loan; total debt JPY 475M
+Mcap $7M · EV $36M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819704/000119312526340282/d128721d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-340282</guid>
+      <pubDate>Fri, 07 Aug 2026 15:24:08 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$AXIA 💧 Capital Return · Recap
 Redeems 6.14% PNC shares at R$53.71; ADSs move to OTC Pink
@@ -604,128 +633,6 @@ Mcap $160M · Financials</title>
       <guid isPermaLink="false">0001408534-26-000064</guid>
       <pubDate>Thu, 06 Aug 2026 15:49:22 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CSBA 👀 Activist
-Stilwell takes 9.9% stake in CSB Financial
-Mcap $18M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2114521/000092189526001979/primary_doc.xml</link>
-      <guid isPermaLink="false">0000921895-26-001979</guid>
-      <pubDate>Thu, 06 Aug 2026 15:39:16 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$UEIC 💧 Capital Return · Special Div
-Declares $0.24/share special dividend; record Aug 24
-Mcap $60M · EV $64M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/101984/000010198426000109/ueic-20260802.htm</link>
-      <guid isPermaLink="false">0000101984-26-000109</guid>
-      <pubDate>Thu, 06 Aug 2026 15:35:31 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$VATE 📤 Divestiture
-Sells controlling stake in Broadcasting to CONX; retains 25%
-Mcap $103M · EV $758M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1006837/000100683726000061/vate-20260806.htm</link>
-      <guid isPermaLink="false">0001006837-26-000061</guid>
-      <pubDate>Thu, 06 Aug 2026 15:35:11 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GNL 🤝 Merger
-Acquires Modiv; vote Aug 10, close mid-Aug
-close mid-August 2026
-Mcap $1.8B · EV $4.2B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1526113/000110465926092041/tm2622247d2_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-092041</guid>
-      <pubDate>Thu, 06 Aug 2026 15:34:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$OSTX 🪙 Debt Restr.
-Settles Leonite note for $1.9M cash + 500k shares
-Mcap $71M · EV $73M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1795091/000121390026086150/ea0300848-8k_ostherapies.htm</link>
-      <guid isPermaLink="false">0001213900-26-086150</guid>
-      <pubDate>Thu, 06 Aug 2026 15:33:04 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>settlement</category>
-    </item>
-    <item>
-      <title>$IRTC 🤝 Merger
-Acquires VitalConnect for ~$287.5M; expands cardiac monitoring
-Vital Connect
-Mcap $4.1B · EV $4.3B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1388658/000138865826000070/irtc-20260731.htm</link>
-      <guid isPermaLink="false">0001388658-26-000070</guid>
-      <pubDate>Thu, 06 Aug 2026 15:32:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DJT 🤝 Merger
-Acquires TAE Technologies in stock merger
-stock
-Mcap $2.9B · EV $2.8B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1849635/000143774926026265/djt20260806_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-026265</guid>
-      <pubDate>Thu, 06 Aug 2026 15:32:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$HYFM 📤 Divestiture
-Sells Aurora Peat to Raven Holdings for $16M; reduces debt
-$16 million deal · close closed
-Mcap $8M · EV $163M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1695295/000143774926026270/hyfm20260729_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-026270</guid>
-      <pubDate>Thu, 06 Aug 2026 15:32:05 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BEEP 🤝 Merger · Unsolicited
-Receives preliminary non-binding buyout proposal from Bombe
-Bombe Asset Management
-Mcap $75M · EV $284M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847874/000149315226036341/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-036341</guid>
-      <pubDate>Thu, 06 Aug 2026 15:31:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$HCAT 📤 Divestiture
-Sells VitalWare to Med-Metrix for $147M cash; repays credit facility
-close 2026-07-31
-Mcap $177M · EV $238M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1636422/000163642226000091/hcat-20260731.htm</link>
-      <guid isPermaLink="false">0001636422-26-000091</guid>
-      <pubDate>Thu, 06 Aug 2026 15:29:45 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$EC 🤝 Merger
-Absorbs Parque Solar Portón del Sol; bondholders vote Aug 18
-Mcap $34B · EV $71B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1444406/000129281426004107/ec20260806_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004107</guid>
-      <pubDate>Thu, 06 Aug 2026 15:28:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VOYA ⚔️ Proxy
-Faces no confidence referendum from TOMS Capital
-4,055,700 shares (economic exposure) stake
-Mcap $9.1B · EV $15B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1535929/000114036126031676/ny20078175x3_dfan14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-031676</guid>
-      <pubDate>Thu, 06 Aug 2026 15:25:54 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
