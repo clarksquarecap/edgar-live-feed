@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 20:14:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:17:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CRBD 📍 Stake
+Nippon Life to raise stake to ~30% via 10b5-1 plan
+Mcap $14B · EV $32B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1889539/000119312526340229/primary_doc.xml</link>
+      <guid isPermaLink="false">0001193125-26-340229</guid>
+      <pubDate>Fri, 07 Aug 2026 15:17:14 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$ACR 📍 Stake
 Receives 13D from President Mark Fogel; 10.76% stake
@@ -716,47 +725,6 @@ Mcap $15B · EV $16B · Tech</title>
       <guid isPermaLink="false">0001193125-26-337970</guid>
       <pubDate>Thu, 06 Aug 2026 15:18:47 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RMD 📤 Divestiture
-Sells MatrixCare business; close expected Q1 FY2027
-Mcap $32B · EV $31B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/943819/000119312526337962/d158732d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-337962</guid>
-      <pubDate>Thu, 06 Aug 2026 15:16:46 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ARKO 🤝 Merger
-Acquires USPP via subsidiary for $205M cash + $30M stock
-U.S. Petroleum Partners · cash+stk
-Mcap $826M · EV $3.1B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1823794/000119312526337978/arko-20260806.htm</link>
-      <guid isPermaLink="false">0001193125-26-337978</guid>
-      <pubDate>Thu, 06 Aug 2026 15:16:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$APC 🤝 Merger
-Acquires U.S. Petroleum Partners for $205M cash + $30M stock
-$205M cash + inventory + $30M stock (escrow) deal · cash+stk
-Mcap $944M · EV $1.7B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2080921/000119312526337979/apc-20260806.htm</link>
-      <guid isPermaLink="false">0001193125-26-337979</guid>
-      <pubDate>Thu, 06 Aug 2026 15:16:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DFLI 🤝 Merger
-Acquires Dakota Lithium assets; lenders ease covenants
-Mcap $15M · EV $62M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847986/000149315226036337/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-036337</guid>
-      <pubDate>Thu, 06 Aug 2026 15:15:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
