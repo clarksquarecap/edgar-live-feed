@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 07 Aug 2026 20:57:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 20:59:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XIII 📍 Stake
+Sponsor discloses 25.47% stake in 13D</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2114229/000121390026086736/primary_doc.xml</link>
+      <guid isPermaLink="false">0001213900-26-086736</guid>
+      <pubDate>Fri, 07 Aug 2026 15:59:37 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$FGBI ⚖️ Litigation · Settled
 Bank subsidiary settles FDIC/OFI consent order; Tier 1 leverage must hit 9% (now 7.09%)
@@ -659,26 +667,6 @@ Mcap $1.4B · EV $2.4B · Industrials</title>
       <guid isPermaLink="false">0001011438-26-000469</guid>
       <pubDate>Thu, 06 Aug 2026 16:01:41 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$D 🤝 Merger
-Acquired by NextEra for 0.8138 NEE shares + $360M cash
-NextEra Energy · cash+stk
-Mcap $60B · EV $119B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000119312526338310/d178163d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-338310</guid>
-      <pubDate>Thu, 06 Aug 2026 15:58:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PSQL 🤝 Merger
-Acquired by Bleichroeder SPAC; F-4 effective, vote Aug 25</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2122325/000121390026086203/ea0300995-425_bleichroeder2.htm</link>
-      <guid isPermaLink="false">0001213900-26-086203</guid>
-      <pubDate>Thu, 06 Aug 2026 15:57:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
