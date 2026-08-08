@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 08 Aug 2026 21:26:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 21:32:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EVTL 📍 Stake
@@ -52,35 +52,6 @@ Mcap $652M · EV $684M · Financials</title>
       <guid isPermaLink="false">0000921895-26-002009</guid>
       <pubDate>Fri, 07 Aug 2026 17:09:05 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$FOX 🤝 Merger
-Acquires Roku for 0.9693 FOX shares + $96 cash/share
-cash+stk
-Mcap $25B · EV $29B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1754301/000119312526340535/d94663ds4.htm</link>
-      <guid isPermaLink="false">0001193125-26-340535</guid>
-      <pubDate>Fri, 07 Aug 2026 16:32:07 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$KCA-UN 🤝 Merger
-Submits draft S-4 for Nth Cycle merger</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2102713/000119312526340533/d155209d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-340533</guid>
-      <pubDate>Fri, 07 Aug 2026 16:32:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FINS ⚔️ Proxy
-Faces proxy contest from Trevor Montano; AGM Sept 25
-Mcap $418M · EV $544M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1745059/000199937126017441/fins-defc14a_092526.htm</link>
-      <guid isPermaLink="false">0001999371-26-017441</guid>
-      <pubDate>Fri, 07 Aug 2026 16:31:44 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
