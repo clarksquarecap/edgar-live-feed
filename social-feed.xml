@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 08 Aug 2026 20:22:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 20:28:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EVTL 📍 Stake
@@ -277,35 +277,6 @@ Mcap $45B · EV $48B · Tech</title>
       <pubDate>Fri, 07 Aug 2026 15:40:59 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$ELVR 📤 Divestiture
-Sells Tabba Tabba pegmatite rights to Wildcat for A$16M cash+stock
-close Completed
-Mcap $982M · EV $981M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1739016/000114036126031827/ef20079718_6k.htm</link>
-      <guid isPermaLink="false">0001140361-26-031827</guid>
-      <pubDate>Fri, 07 Aug 2026 15:24:20 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$MRM 🪙 Debt Restr.
-Refinances JPY 275M bond into 10% loan; total debt JPY 475M
-Mcap $7M · EV $36M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819704/000119312526340282/d128721d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-340282</guid>
-      <pubDate>Fri, 07 Aug 2026 15:24:08 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$AXIA 💧 Capital Return · Recap
-Redeems 6.14% PNC shares at R$53.71; ADSs move to OTC Pink
-Mcap $30B · EV $41B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1439124/000129281426004137/axia20260807_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004137</guid>
-      <pubDate>Fri, 07 Aug 2026 15:23:54 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
