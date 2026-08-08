@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 08 Aug 2026 20:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 20:46:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EVTL 📍 Stake
@@ -240,43 +240,6 @@ Mcap $608M · EV $595M · Cons Disc</title>
       <guid isPermaLink="false">0001437749-26-026594</guid>
       <pubDate>Fri, 07 Aug 2026 15:52:14 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$VRME 📍 Stake
-CEO Stedham crosses 5% ownership; 8.4% stake
-Mcap $9M · EV $6M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1104038/000089183926000327/primary_doc.xml</link>
-      <guid isPermaLink="false">0000891839-26-000327</guid>
-      <pubDate>Fri, 07 Aug 2026 15:45:46 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RPT 📍 Stake
-Rithm Capital increases stake to 17.1% via fee shares
-Mcap $94M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1614806/000110465926092724/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-092724</guid>
-      <pubDate>Fri, 07 Aug 2026 15:42:16 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ACR 📍 Stake
-Receives 13D from insider; 11.4% stake via ACC merger
-Mcap $104M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1332551/000121390026086681/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-086681</guid>
-      <pubDate>Fri, 07 Aug 2026 15:41:44 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$FLEX 💧 Capital Return · Buyback
-Authorizes $2B share repurchase (~15% of cap)
-Mcap $45B · EV $48B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866374/000086637426000033/flex-20260805.htm</link>
-      <guid isPermaLink="false">0000866374-26-000033</guid>
-      <pubDate>Fri, 07 Aug 2026 15:40:59 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
