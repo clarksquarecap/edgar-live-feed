@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 08 Aug 2026 21:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 21:26:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EVTL 📍 Stake
@@ -81,26 +81,6 @@ Mcap $418M · EV $544M · Financial Serv</title>
       <guid isPermaLink="false">0001999371-26-017441</guid>
       <pubDate>Fri, 07 Aug 2026 16:31:44 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$BATL 💧 Capital Return · Recap
-Repurchases $19M preferred from Gen IV, converts remainder to common
-Mcap $30M · EV $364M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1282648/000110465926092788/batl-20260807x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-092788</guid>
-      <pubDate>Fri, 07 Aug 2026 16:25:24 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-    </item>
-    <item>
-      <title>$SQFT 💧 Capital Return · Self-tender
-Offers 5.5 common shares per Series D preferred share
-Mcap $3M · EV $91M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1080657/000149315226036654/formsctoi.htm</link>
-      <guid isPermaLink="false">0001493152-26-036654</guid>
-      <pubDate>Fri, 07 Aug 2026 16:24:39 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
