@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 08 Aug 2026 20:46:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 20:57:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EVTL 📍 Stake
@@ -200,46 +200,6 @@ Sponsor discloses 25.47% stake in 13D</title>
       <guid isPermaLink="false">0001213900-26-086736</guid>
       <pubDate>Fri, 07 Aug 2026 15:59:37 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$FGBI ⚖️ Litigation · Settled
-Bank subsidiary settles FDIC/OFI consent order; Tier 1 leverage must hit 9% (now 7.09%)
-vs FDIC and OFI
-Mcap $160M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1408534/000140853426000069/fgbi-20260807.htm</link>
-      <guid isPermaLink="false">0001408534-26-000069</guid>
-      <pubDate>Fri, 07 Aug 2026 15:57:32 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$DJT 💥 Busted M&amp;A
-Mutually terminates business combination with Yorkville SPAC and Crypto.com
-Mcap $2.9B · EV $2.8B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1849635/000143774926026597/djt20260804_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-026597</guid>
-      <pubDate>Fri, 07 Aug 2026 15:55:22 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$RNW 🤝 Merger · Unsolicited
-Receives best and final $7.02/share cash bid from CPP/CEO consortium
-cash
-Mcap $2.2B · EV $10B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1848763/000119312526340359/copy_of_6k_cppib_bafo_7_.htm</link>
-      <guid isPermaLink="false">0001193125-26-340359</guid>
-      <pubDate>Fri, 07 Aug 2026 15:54:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$ETD ⚔️ Proxy
-Faces proxy contest from DGB Investments seeking CEO change
-Mcap $608M · EV $595M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/896156/000143774926026594/eth20260807_defa14a.htm</link>
-      <guid isPermaLink="false">0001437749-26-026594</guid>
-      <pubDate>Fri, 07 Aug 2026 15:52:14 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
