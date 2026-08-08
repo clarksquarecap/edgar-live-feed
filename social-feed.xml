@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 08 Aug 2026 21:09:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 21:14:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EVTL 📍 Stake
@@ -128,26 +128,6 @@ Mcap $30B · EV $41B · Utilities</title>
       <guid isPermaLink="false">0001292814-26-004142</guid>
       <pubDate>Fri, 07 Aug 2026 16:17:53 -0500</pubDate>
       <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$NUTR 📉 Delisting · Forced
-Forced Nasdaq delisting effective Aug 12; moves to OTC
-effective 2026-08-12
-Mcap $174M · EV $157M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2006468/000149315226036635/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-036635</guid>
-      <pubDate>Fri, 07 Aug 2026 16:09:54 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$GFF 📤 Divestiture
-Sells AMES North America to ONCAP; Australasia JV held for sale
-Mcap $4.1B · EV $5.5B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/50725/000162828026054906/gff-20260807.htm</link>
-      <guid isPermaLink="false">0001628280-26-054906</guid>
-      <pubDate>Fri, 07 Aug 2026 16:09:38 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
