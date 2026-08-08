@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 08 Aug 2026 18:27:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 20:11:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EVTL 📍 Stake
@@ -343,38 +343,6 @@ Mcap $57M · EV $87M · Financials</title>
       <guid isPermaLink="false">0001493152-26-036566</guid>
       <pubDate>Fri, 07 Aug 2026 15:11:59 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$TWG 💧 Capital Return · Recap
-Shareholders approve recap: Class B gets 100 votes/share; consolidation up to 250:1
-Mcap $34M · EV $32M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1978057/000121390026086646/ea0301100-6k_topwealth.htm</link>
-      <guid isPermaLink="false">0001213900-26-086646</guid>
-      <pubDate>Fri, 07 Aug 2026 15:09:54 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-    </item>
-    <item>
-      <title>$SQFT 🤝 Merger
-Acquires Conduit Pharmaceuticals via S-4 stock merger
-stock
-Mcap $3M · EV $91M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1080657/000149315226036562/forms-4.htm</link>
-      <guid isPermaLink="false">0001493152-26-036562</guid>
-      <pubDate>Fri, 07 Aug 2026 15:07:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LPSN 🤝 Merger
-Glass Lewis recommends FOR SoundHound AI merger; vote Aug 20
-22 prem · cash+stk · close H2 2026
-Mcap $22M · EV $314M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1102993/000110299326000082/a425filing8_07-pressrelease.htm</link>
-      <guid isPermaLink="false">0001102993-26-000082</guid>
-      <pubDate>Fri, 07 Aug 2026 15:07:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
