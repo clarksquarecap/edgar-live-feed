@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 08 Aug 2026 10:22:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 10:27:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EVTL 📍 Stake
@@ -587,27 +587,6 @@ Mcap $37M · EV $39M · Comms</title>
       <pubDate>Fri, 07 Aug 2026 05:32:24 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$YUM 📤 Divestiture
-Sells Pizza Hut China to Yum China for $1.2B cash; ex-China sale pending
-to Yum China Holdings · $1.2 billion (China transaction); $2.7 billion aggregate for both deal
-Mcap $42B · EV $54B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1041061/000110465926092305/tm2622152d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-092305</guid>
-      <pubDate>Fri, 07 Aug 2026 05:24:35 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BGI 📉 Delisting · Voluntary
-Voluntarily delists from NYSE American; OTCQB trading expected Aug 28
-effective 2026-08-27
-Mcap $10M · EV $129M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1179821/000119312526339049/d106749d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-339049</guid>
-      <pubDate>Fri, 07 Aug 2026 05:23:59 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
