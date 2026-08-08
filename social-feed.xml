@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 08 Aug 2026 13:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 13:33:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EVTL 📍 Stake
@@ -404,24 +404,6 @@ Mcap $13B · EV $16B · Materials</title>
       <pubDate>Fri, 07 Aug 2026 10:41:34 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$HWH 📍 Stake
-Insiders boost stake to 84.7% after 320k share transfer
-Mcap $11M · EV $10M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1897245/000149315226036495/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-036495</guid>
-      <pubDate>Fri, 07 Aug 2026 08:30:36 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$QVCAQ 🔄 Post-Reorg
-Emerges from Chapter 11; $1.24B takeback notes, $600M ABL
-Mcap $240K · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1355096/000110465926092423/tm2622253d3_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-092423</guid>
-      <pubDate>Fri, 07 Aug 2026 08:30:18 -0500</pubDate>
-      <category>POST_REORG</category>
     </item>
   </channel>
 </rss>
