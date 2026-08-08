@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 08 Aug 2026 13:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 13:09:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EVTL 📍 Stake
@@ -452,24 +452,6 @@ Mcap $20M · EV $97M · Industrials</title>
       <guid isPermaLink="false">0001140361-26-031765</guid>
       <pubDate>Fri, 07 Aug 2026 08:23:25 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SOCGM 💧 Capital Return · Recap
-Retires preferred stock for $31.135616/share cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/92108/000009210826000020/socalgas-20260806.htm</link>
-      <guid isPermaLink="false">0000092108-26-000020</guid>
-      <pubDate>Fri, 07 Aug 2026 08:09:04 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-    </item>
-    <item>
-      <title>$QVCCQ 🔄 Post-Reorg
-Emerges from Chapter 11; new debt structure
-Mcap $240K · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1254699/000110465926092407/tm2622253d2_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-092407</guid>
-      <pubDate>Fri, 07 Aug 2026 08:08:38 -0500</pubDate>
-      <category>POST_REORG</category>
     </item>
   </channel>
 </rss>
