@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 08 Aug 2026 13:09:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 13:27:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EVTL 📍 Stake
@@ -422,36 +422,6 @@ Mcap $240K · Cons Disc</title>
       <guid isPermaLink="false">0001104659-26-092423</guid>
       <pubDate>Fri, 07 Aug 2026 08:30:18 -0500</pubDate>
       <category>POST_REORG</category>
-    </item>
-    <item>
-      <title>$PAA 📤 Divestiture
-Sells Canadian NGL business to Keyera for ~$3.5B net proceeds
-$3.483B deal · close 2026-05-12
-Mcap $17B · EV $33B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1070423/000107042326000028/paa-20260807.htm</link>
-      <guid isPermaLink="false">0001070423-26-000028</guid>
-      <pubDate>Fri, 07 Aug 2026 08:24:09 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PAGP 📤 Divestiture
-Sells Canadian NGL business to Keyera for ~$3.5B
-3.483B deal
-Mcap $5.0B · EV $29B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1581990/000158199026000023/pagp-20260807.htm</link>
-      <guid isPermaLink="false">0001581990-26-000023</guid>
-      <pubDate>Fri, 07 Aug 2026 08:23:46 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CTRM 📤 Divestiture
-Sells M/V Magic Starlight to JV for $18.75M cash + 30% equity
-close 2026-08-06
-Mcap $20M · EV $97M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1720161/000114036126031765/ef20079551_6k.htm</link>
-      <guid isPermaLink="false">0001140361-26-031765</guid>
-      <pubDate>Fri, 07 Aug 2026 08:23:25 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
