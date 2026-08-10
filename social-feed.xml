@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 10 Aug 2026 20:26:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 20:27:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LOCL 📍 Stake
+Schwab ups stake to 84.4%; note/warrant conversion pending vote
+Mcap $22M · EV $553M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1840780/000090266426003370/primary_doc.xml</link>
+      <guid isPermaLink="false">0000902664-26-003370</guid>
+      <pubDate>Mon, 10 Aug 2026 15:27:29 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$LCII 🤝 Merger
+Acquired by Patrick Industries; HSR filed
+Mcap $3.1B · EV $4.2B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/763744/000076374426000082/lcii-20260810.htm</link>
+      <guid isPermaLink="false">0000763744-26-000082</guid>
+      <pubDate>Mon, 10 Aug 2026 15:27:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$PAL 🤝 Merger
 Acquires H&amp;A Auto Transport for ~$130M cash+stock + $22M earnout
