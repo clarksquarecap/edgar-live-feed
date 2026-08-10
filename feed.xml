@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 10 Aug 2026 17:38:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 20:05:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · CNL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1953575/000121390026087223/ea0299256-25_collective.htm</link>
+      <guid isPermaLink="false">0001213900-26-087223</guid>
+      <pubDate>Mon, 10 Aug 2026 15:05:37 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>25</category>
+      <scanner:headline>Voluntary delisting from NYSE American effective Aug 10</scanner:headline>
+      <scanner:shortName>Collective Mining</scanner:shortName>
+      <scanner:price>12.79</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Voluntary delisting from NYSE American effective Aug 10&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Voluntarily withdrew its common shares from listing on NYSE American, effective August 10, 2026. The company filed Form 25 to delist and deregister under Section 12(b).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Collective Mining Ltd. engages in the acquisition, exploration, and development of mineral properties located in Colombia. The company explores gold, silver, copper, and tungsten deposits. It holds 100% interest in its flagship project The Guayabales project consisting of exploration titles, exploration applications, and mining concession option agreements and a number of surface rights option agreements.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-08-10&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $12.79 · Mkt cap $1.14B · EV $1.03B · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1953575/000121390026087223/0001213900-26-087223-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CNL&lt;/b&gt; · 25 · Metal Mining (1040) · prefill_form:25 · filed 2026-08-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · Naples Soap</title>
       <link>https://www.sec.gov/Archives/edgar/data/1398172/000149315226036808/0001493152-26-036808-index.htm</link>
@@ -9537,24 +9556,6 @@
 &lt;p&gt;&lt;i&gt;Px $241.65 · Mkt cap $13.26B · EV $13.77B · Fwd P/E 30.1x · Fwd EV/EBITDA 19.3x · Industrials / Building Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/67347/000110465926089191/0001104659-26-089191-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MOD&lt;/b&gt; · 425 · Transportation Equipment (3714) · prefill_form:425 · filed 2026-07-31&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · ANY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1591956/000091228226001018/0000912282-26-001018-index.htm</link>
-      <guid isPermaLink="false">0000912282-26-001018</guid>
-      <pubDate>Fri, 31 Jul 2026 13:39:26 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Receives 13D from Endeavor Blockchain; 6.5% stake; seeks engagement</scanner:headline>
-      <scanner:shortName>Sphere 3D</scanner:shortName>
-      <scanner:price>2.40</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D from Endeavor Blockchain; 6.5% stake; seeks engagement&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D from Endeavor Blockchain, LLC and Joshua Kilgore, reporting beneficial ownership of 500,000 common shares (6.5% of outstanding). The shares were purchased between July 22-30, 2026 at prices from $1.54 to $2.45 per share, aggregate cost ~$988,384. The reporting persons intend to engage with management and board regarding value creation opportunities.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sphere 3D Corp. engages in the bitcoin mining business. The company is involved with bitcoin mining pool operators as its customers to provide a service to perform hash calculations for the mining pool operators. The company is based in Stamford, Connecticut.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Endeavor Blockchain, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.5&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.40 · Mkt cap $15.6M · EV $12.5M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1591956/000091228226001018/0000912282-26-001018-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ANY&lt;/b&gt; · SCHEDULE 13D · Non-Depository Credit (6199) · fresh_13d · filed 2026-07-31&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
