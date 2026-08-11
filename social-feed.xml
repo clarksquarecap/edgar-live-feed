@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 21:29:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:32:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ISPC ⚖️ Litigation · Settled
+Settles arbitration with WestPark for $97,500; claims dismissed with prejudice
+vs WestPark Capital
+Mcap $3M · EV $600K · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1558569/000121390026087877/ea0301317-8k_ispecimen.htm</link>
+      <guid isPermaLink="false">0001213900-26-087877</guid>
+      <pubDate>Tue, 11 Aug 2026 16:32:20 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$AUUD 🤝 Merger
 Acquired by McCarthy Finney in stock-for-stock merger; vote Sept 23
@@ -1000,15 +1011,6 @@ Mcap $295M · EV $294M · Financials</title>
       <pubDate>Mon, 10 Aug 2026 16:36:58 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MPT 🪙 Debt Restr.
-Closes $2.4B 9.25% secured notes due 2032; exchanges $1.5B unsecured
-Mcap $2.8B · EV $12B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1287865/000119312526342713/d135389d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-342713</guid>
-      <pubDate>Mon, 10 Aug 2026 16:30:49 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
