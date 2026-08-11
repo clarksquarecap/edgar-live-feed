@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 12:01:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:08:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CNL 📉 Delisting · Voluntary
+Voluntarily delists from NYSE American; lists on Nasdaq
+Mcap $1.1B · EV $1.0B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1953575/000127956926000765/collectivemining6k.htm</link>
+      <guid isPermaLink="false">0001279569-26-000765</guid>
+      <pubDate>Tue, 11 Aug 2026 07:08:10 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$EVGN 📍 Stake
 Director Recanati buys 5.7% stake, backs board in AGM contest
@@ -973,17 +983,6 @@ Mcap $1.2B · EV $1.1B · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-086947</guid>
       <pubDate>Mon, 10 Aug 2026 07:09:29 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$HZO 🤝 Merger
-Acquired by Safe Harbor Marinas for $53.00 cash/share
-cash
-Mcap $788M · EV $1.7B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1057060/000119312526341307/d135056ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-341307</guid>
-      <pubDate>Mon, 10 Aug 2026 07:05:48 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
