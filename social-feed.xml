@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 20:08:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 20:14:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SMTI 🤝 Merger
+Acquired by MIMEDX in transformational combination; close subject to conditions
+Mcap $314M · EV $349M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/714256/000149315226037133/form425.htm</link>
+      <guid isPermaLink="false">0001493152-26-037133</guid>
+      <pubDate>Tue, 11 Aug 2026 15:14:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TXMD 🔎 Strat Review · Strat Alts
 Continues strategic alternatives review; no timetable set
@@ -874,38 +884,6 @@ Mcap $11B · EV $12B · Real Estate</title>
       <link>https://www.sec.gov/Archives/edgar/data/1632970/000119312526342358/ahr-20260810.htm</link>
       <guid isPermaLink="false">0001193125-26-342358</guid>
       <pubDate>Mon, 10 Aug 2026 15:16:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$QRVO 🤝 Merger
-Acquired by Skyworks for $3.00B cash; financing secured
-Skyworks Solutions · cash
-Mcap $8.7B · EV $9.0B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1604778/000110465926093358/tm2622643d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-093358</guid>
-      <pubDate>Mon, 10 Aug 2026 15:14:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VOYA 👀 Activist
-Faces no-confidence referendum from TCIM; activist seeks strategic review
-4.5% stake
-Mcap $9.1B · EV $15B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1535929/000114036126032015/ny20078175x4_dfan14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-032015</guid>
-      <pubDate>Mon, 10 Aug 2026 15:14:36 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$VREX 🤝 Merger
-Acquired by Teledyne for $18.90 cash/share; close early 2027
-cash
-Mcap $523M · EV $830M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1681622/000110465926093359/tm2622593d3_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-093359</guid>
-      <pubDate>Mon, 10 Aug 2026 15:14:21 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
