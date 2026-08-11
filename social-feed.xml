@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 20:06:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 20:08:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TXMD 🔎 Strat Review · Strat Alts
+Continues strategic alternatives review; no timetable set
+Mcap $24M · EV $21M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/25743/000121390026087756/ea0298979-8k_therapeu.htm</link>
+      <guid isPermaLink="false">0001213900-26-087756</guid>
+      <pubDate>Tue, 11 Aug 2026 15:08:37 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+    </item>
     <item>
       <title>$PRLG 🤝 Merger
 Acquires Translational Development Acquisition Corp. in stock-for-stock merger
@@ -898,26 +908,6 @@ Mcap $523M · EV $830M · Healthcare</title>
       <pubDate>Mon, 10 Aug 2026 15:14:21 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DRTS 🤝 Merger
-Acquires Oramed via purchase agreement
-Mcap $1.2B · EV $1.1B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1871321/000121390026087224/ea0300791-6k_alpha.htm</link>
-      <guid isPermaLink="false">0001213900-26-087224</guid>
-      <pubDate>Mon, 10 Aug 2026 15:07:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CIB 📤 Divestiture
-Sells Banistmo to La Hipotecaria for $1.418B cash
-to Banco La Hipotecaria · USD 1.418 billion deal · close 2026-06-30
-Mcap $23B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2058897/000205889726000275/grupocibestsa6-kpr2q26.htm</link>
-      <guid isPermaLink="false">0002058897-26-000275</guid>
-      <pubDate>Mon, 10 Aug 2026 15:07:30 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
