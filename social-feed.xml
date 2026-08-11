@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 12:34:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:41:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OZSC 🤝 Merger
+Acquires Varon Corp, functional beverage platform
+Mcap $190K · EV $22M · Industrials</title>
+      <link>https://www.globenewswire.com/news-release/2026/01/21/3222792/0/en/OZSC-to-Acquire-Varon-Corp.html</link>
+      <guid isPermaLink="false">OTC-531322</guid>
+      <pubDate>Tue, 11 Aug 2026 07:41:05 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GBCS 🎯 Tender
 Tender offer extended to Aug 17; $5.75/share cash; 2.8M shares tendered
@@ -884,15 +894,6 @@ Mcap $167M · Financials</title>
       <pubDate>Mon, 10 Aug 2026 07:44:18 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$STRS 🌑 Going Dark
-Voluntarily deregisters with SEC; 259 holders
-Mcap $157M · EV $382M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/885508/000088550826000044/strs-form15.htm</link>
-      <guid isPermaLink="false">0000885508-26-000044</guid>
-      <pubDate>Mon, 10 Aug 2026 07:37:17 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>
