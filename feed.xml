@@ -6,8 +6,24 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 19:59:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 19:59:39 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · MIN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/826735/000089710126000351/0000897101-26-000351-index.htm</link>
+      <guid isPermaLink="false">0000897101-26-000351</guid>
+      <pubDate>Tue, 11 Aug 2026 14:59:39 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Receives 13D/A from Sit Investment Associates; stake now 29.9%</scanner:headline>
+      <scanner:shortName>ABERDEEN INTERMEDIATE INCOME FUND</scanner:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Sit Investment Associates; stake now 29.9%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Schedule 13D/A from Sit Investment Associates Inc and Sit Fixed Income Advisors II LLC, increasing their aggregate stake to 29.9% (34,000,521 shares). The amendment reflects continued buying over the past 60 days at prices between $2.42 and $2.49 per share.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Sit Investment Associates Inc&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 29.9&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-10&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/826735/000089710126000351/0000897101-26-000351-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MIN&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-08-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · ITMSF</title>
       <link>https://www.sec.gov/Archives/edgar/data/1285170/000149315226037103/form6-k.htm</link>
@@ -9556,25 +9572,6 @@
 &lt;p&gt;&lt;i&gt;Px $36.74 · Mkt cap $1.29B · EV $1.58B · Fwd P/E 17.7x · Fwd EV/EBITDA 10.8x · Materials / Containers and Packaging&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/69488/000080724926000059/0000807249-26-000059-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MYE&lt;/b&gt; · SCHEDULE 13D/A · Rubber / Plastics (3089) · fresh_13d · filed 2026-08-03&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · NVNI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1965143/000121390026084602/ea0300108-6k_nvni.htm</link>
-      <guid isPermaLink="false">0001213900-26-084602</guid>
-      <pubDate>Mon, 03 Aug 2026 15:08:17 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>6-K</category>
-      <scanner:headline>Forced Nasdaq delisting effective Aug 6; hearing stays suspension</scanner:headline>
-      <scanner:shortName>Nvni Group</scanner:shortName>
-      <scanner:price>1.09</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Aug 6; hearing stays suspension&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Nuvini Group received a final delisting determination from Nasdaq for failing to maintain $35M Market Value of Listed Securities. Trading would be suspended on August 6, 2026, but the company has requested a hearing, which automatically stays the suspension pending the Panel&amp;#39;s decision. Nuvini plans to present a compliance plan based on minimum stockholders&amp;#39; equity of $2.5M, anchored in a capital restructuring already underway.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nvni Group Limited, through its subsidiaries, operates in business-to-business software as a service (SaaS) market in Brazil and Latin America. It provides software subscription and licensing services, in which clients have access to software on multiple devices simultaneously; maintenance services, including technical support and technological evolution; and cloud computing, client, data analytics, and other services. Nvni Group Limited is headquartered in São Paulo, Brazil.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-03&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Nasdaq Hearings Panel decision&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.09 · Mkt cap $10.6M · EV $18.7M · Fwd EV/EBITDA 1.5x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1965143/000121390026084602/0001213900-26-084602-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NVNI, NVNIW&lt;/b&gt; · 6-K · Business Services (7372) · prefill_form:6-K · filed 2026-08-03&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
