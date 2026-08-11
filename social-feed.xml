@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 20:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 20:20:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NCMI 🤝 Merger
+Acquires Captivate Holdings for $275M cash; close H2 2026
+$275.0 million deal · cash
+Mcap $370M · EV $344M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1377630/000119312526344631/ncmi-20260810.htm</link>
+      <guid isPermaLink="false">0001193125-26-344631</guid>
+      <pubDate>Tue, 11 Aug 2026 15:20:17 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SMTI 🤝 Merger
 Acquired by MIMEDX in transformational combination; close subject to conditions
@@ -875,17 +886,6 @@ Mcap $18M · Financials</title>
       <guid isPermaLink="false">0000943374-26-000370</guid>
       <pubDate>Mon, 10 Aug 2026 15:23:02 -0500</pubDate>
       <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$AHR 🤝 Merger
-Acquires Kensington Portfolio (8 senior housing communities) for $873M
-$873,000,000 deal · cash
-Mcap $11B · EV $12B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1632970/000119312526342358/ahr-20260810.htm</link>
-      <guid isPermaLink="false">0001193125-26-342358</guid>
-      <pubDate>Mon, 10 Aug 2026 15:16:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
