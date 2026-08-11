@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 13:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:32:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$INCR 🤝 Merger
+Shareholders approve acquisition at EGM
+Mcap $55M · EV $99M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1857030/000149315226037022/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-037022</guid>
+      <pubDate>Tue, 11 Aug 2026 08:32:52 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$UMH 👀 Activist
 Demands strategic review and sale process at UMH; 5% stake
@@ -826,17 +836,6 @@ Mcap $5M · EV $5M · Industrials</title>
       <pubDate>Mon, 10 Aug 2026 08:44:49 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$BWMN 🤝 Merger
-Acquired by Bernhard Capital Partners for $43.00 cash/share; go-shop until Sep 13
-cash
-Mcap $477M · EV $716M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847590/000119312526341432/d69901ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-341432</guid>
-      <pubDate>Mon, 10 Aug 2026 08:31:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
