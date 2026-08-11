@@ -6,8 +6,30 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 21:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:05:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KAZR 🤝 Merger
+Acquired by Kaz Resources Group in all-stock reverse merger
+stock
+Mcap $30M · EV $33M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2031009/000121390026087848/ea0301400-425_skyline.htm</link>
+      <guid isPermaLink="false">0001213900-26-087848</guid>
+      <pubDate>Tue, 11 Aug 2026 16:05:07 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$NG 🤝 Merger
+Acquires Paulson's 40% Donlin Gold stake; appoints Endeavour, Macquarie as advisors
+Paulson Advisers · stock
+Mcap $2.6B · EV $2.4B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926094124/tm2619701d23_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-094124</guid>
+      <pubDate>Tue, 11 Aug 2026 16:02:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NG 🤝 Merger
 Acquires Donlin Gold; appoints Endeavour &amp; Macquarie as financing advisors
@@ -915,38 +937,6 @@ Mcap $14B · EV $24B · Cons Disc</title>
       <pubDate>Mon, 10 Aug 2026 16:11:06 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$FLOC 💧 Capital Return · Special Div
-Declares $0.14/share special dividend; payable Aug 31
-Mcap $911M · EV $2.3B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2035149/000119312526342622/floc-20260810.htm</link>
-      <guid isPermaLink="false">0001193125-26-342622</guid>
-      <pubDate>Mon, 10 Aug 2026 16:04:13 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$SAIH 🤝 Merger
-Acquires Canopy Wave for $60M in stock; to list as CWAV
-$60,000,000 deal · stock
-Mcap $38M · EV $38M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847075/000121390026087323/ea0301306-6k_saiheat.htm</link>
-      <guid isPermaLink="false">0001213900-26-087323</guid>
-      <pubDate>Mon, 10 Aug 2026 16:03:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VREX 🤝 Merger
-Acquired by Teledyne in definitive agreement; close early 2027
-Teledyne Technologies
-Mcap $523M · EV $830M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1681622/000168162226000066/schedule14a-announcementto.htm</link>
-      <guid isPermaLink="false">0001681622-26-000066</guid>
-      <pubDate>Mon, 10 Aug 2026 16:02:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
