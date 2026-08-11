@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 12:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:14:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TBPH 🤝 Merger
+Acquired by Zymeworks for $17.00 cash + CVR
+cash
+Mcap $877M · EV $518M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1583107/000110465926093784/tm2621435-1_prem14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-093784</guid>
+      <pubDate>Tue, 11 Aug 2026 07:14:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$JOBY 🤝 Merger
 Acquires Strix Holdings for $500M cash + stock
@@ -933,67 +944,6 @@ Mcap $157M · EV $382M · Real Estate</title>
       <guid isPermaLink="false">0000885508-26-000040</guid>
       <pubDate>Mon, 10 Aug 2026 07:18:55 -0500</pubDate>
       <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$TOMXF 🤝 Merger
-Acquires Silver-1 Mine in Ecuador for $540K cash + 5M shares
-1560287 B.C. · US$540,000 cash + 5,000,000 shares deal · cash+stk
-Mcap $7M · EV $3M · Materials</title>
-      <link>https://www.trinityonemetals.com/news-media/trinity-one-metals-enters-into-agreement-to-acquire-silver-1-historic-high-grade-silver-mine-in-southern-ecuador</link>
-      <guid isPermaLink="false">OTC-531146</guid>
-      <pubDate>Mon, 10 Aug 2026 07:12:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MCGA 💥 Busted M&amp;A
-Terminates proposed merger with Crypto.com and TMTG
-Mcap $241M · EV $241M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2064658/000110465926093049/tm2622603d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-093049</guid>
-      <pubDate>Mon, 10 Aug 2026 07:12:21 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$PARK 🤝 Merger
-Acquires Village Family Dental DSO for $39.1M cash+stock; close 2026
-$39.1M base, up to $46M deal · cash+stk
-Mcap $96M · EV $131M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2069604/000110465926093050/tm2622596d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-093050</guid>
-      <pubDate>Mon, 10 Aug 2026 07:12:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$EVLV ⚖️ Litigation · Settled
-Settles derivative litigation with governance reforms; no cash payment
-Mcap $1.1B · EV $1.1B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1805385/000180538526000040/nhic-20260806.htm</link>
-      <guid isPermaLink="false">0001805385-26-000040</guid>
-      <pubDate>Mon, 10 Aug 2026 07:10:34 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$OCS 🤝 Merger
-Acquires Privosegtor and ACT-02 from Accure for $3.8M cash + up to 2.05M shares
-cash+stk · close Q1 2027
-Mcap $729M · EV $455M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1953530/000119312526341298/project_axis_6-k.htm</link>
-      <guid isPermaLink="false">0001193125-26-341298</guid>
-      <pubDate>Mon, 10 Aug 2026 07:10:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DRTS 🌍 Re-domicile
-Registers for dual listing on TASE
-Mcap $1.2B · EV $1.1B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1871321/000121390026086947/ea0301309-6k_alpha.htm</link>
-      <guid isPermaLink="false">0001213900-26-086947</guid>
-      <pubDate>Mon, 10 Aug 2026 07:09:29 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
