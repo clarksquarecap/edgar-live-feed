@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 10:09:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 10:15:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RAASY 📦 Going Private
+Acquired by SpringX Holdings for $2.9641/ADS cash; vote pending
+cash
+Mcap $117M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1804583/000149315226036959/formsc13e3a.htm</link>
+      <guid isPermaLink="false">0001493152-26-036959</guid>
+      <pubDate>Tue, 11 Aug 2026 05:15:57 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$BMO 📤 Divestiture
 Sells 50% Moneris stake to Francisco Partners for ~$1B cash
@@ -865,38 +875,6 @@ Mcap $160M · EV $68M · Industrials</title>
       <guid isPermaLink="false">0001104659-26-092942</guid>
       <pubDate>Mon, 10 Aug 2026 05:19:58 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$PUSA 🤝 Merger
-Acquires Powerus in reverse merger; Powerus holders to own 83.3%
-stock
-Mcap $75M · EV $38M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2009312/000149315226036713/forms-4a.htm</link>
-      <guid isPermaLink="false">0001493152-26-036713</guid>
-      <pubDate>Mon, 10 Aug 2026 05:12:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PCYO ⚔️ Proxy
-Faces 5-director proxy contest from Maran Partners
-Maran Partners Fund, LP
-Mcap $255M · EV $260M · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/276720/000110465926092839/pcyo-20250831xdefa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-092839</guid>
-      <pubDate>Mon, 10 Aug 2026 05:12:05 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$ATAI 🤝 Merger
-Acquired by Eli Lilly for $6.75 cash + CVR (up to $2.50)
-Eli Lilly and · ~40% prem · cash · close Q3 2026
-Mcap $2.7B · EV $2.5B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2081043/000114036126031922/ny20078129x2_defm14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-031922</guid>
-      <pubDate>Mon, 10 Aug 2026 05:11:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
