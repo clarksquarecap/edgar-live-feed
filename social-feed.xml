@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 16:47:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 16:53:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BHM 📤 Divestiture
@@ -851,16 +851,6 @@ Mcap $1.1B · EV $1.0B · Materials</title>
       <pubDate>Mon, 10 Aug 2026 15:05:37 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$VSTD 💧 Capital Return · Recap
-Dual-class structure eliminated; all Class B converts to Class A
-Mcap $30K · EV $11M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1898604/000149315226036799/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-036799</guid>
-      <pubDate>Mon, 10 Aug 2026 11:50:27 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
