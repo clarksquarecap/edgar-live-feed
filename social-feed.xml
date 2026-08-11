@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 12:14:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:20:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$TBPH 🤝 Merger
@@ -914,36 +914,6 @@ Mcap $15M · EV $12M · Tech</title>
       <pubDate>Mon, 10 Aug 2026 07:24:21 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$ACHR 🤝 Merger
-Acquires Wisk, SkyGrid, Insitu from Boeing for 19.75% stock + $200M warrants
-stock
-Mcap $4.2B · EV $2.6B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1824502/000110465926093056/tm2622394d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-093056</guid>
-      <pubDate>Mon, 10 Aug 2026 07:20:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CXW 💧 Capital Return · ASR
-Launches $500M ASR; $255.8M authorization remains
-Mcap $3.0B · EV $4.2B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1070985/000119312526341335/d118761d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-341335</guid>
-      <pubDate>Mon, 10 Aug 2026 07:19:49 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>accelerated_share_repurchase</category>
-    </item>
-    <item>
-      <title>$STRS 🌑 Going Dark
-Terminates SEC registration; 259 holders of record
-Mcap $157M · EV $382M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/885508/000088550826000040/strs-form15.htm</link>
-      <guid isPermaLink="false">0000885508-26-000040</guid>
-      <pubDate>Mon, 10 Aug 2026 07:18:55 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>
