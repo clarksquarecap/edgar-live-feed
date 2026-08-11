@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 21:10:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:17:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ATEK 🤝 Merger
+Acquired by Athena Technology Acquisition Corp. II
+Mcap $94M · EV $96M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1882198/000121390026087854/ea0237057-15.htm</link>
+      <guid isPermaLink="false">0001213900-26-087854</guid>
+      <pubDate>Tue, 11 Aug 2026 16:17:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$PRKS 👀 Activist
 Raises PRKS stake to 60% in 24th 13D amendment
@@ -957,17 +967,6 @@ Mcap $50K · EV $4M · Tech</title>
       <guid isPermaLink="false">0001710495-26-000006</guid>
       <pubDate>Mon, 10 Aug 2026 16:23:36 -0500</pubDate>
       <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$PAG 🤝 Merger · Unsolicited
-Special committee retains Moelis &amp; Paul Weiss to review $210/sh take-private bid
-cash
-Mcap $14B · EV $24B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1019849/000162828026055334/pag-20260810.htm</link>
-      <guid isPermaLink="false">0001628280-26-055334</guid>
-      <pubDate>Mon, 10 Aug 2026 16:11:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
