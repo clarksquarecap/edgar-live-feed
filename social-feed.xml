@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 11 Aug 2026 21:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:38:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LPSN 🤝 Merger
+Special meeting Aug 20 to vote on acquisition
+Mcap $22M · EV $314M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1102993/000119312526345087/d160160ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-345087</guid>
+      <pubDate>Tue, 11 Aug 2026 16:38:49 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DAKT 📍 Stake
 Alta Fox raises stake in Daktronics to 4.4%
@@ -992,34 +1002,6 @@ Mcap $2.0B · EV $1.8B · Energy</title>
       <guid isPermaLink="false">0001011438-26-000481</guid>
       <pubDate>Mon, 10 Aug 2026 16:49:48 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$MBX 📍 Stake
-Receives 13D/A from Frazier Life Sciences; 10.8% stake
-Mcap $3.2B · EV $2.8B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1776111/000123191926000851/primary_doc.xml</link>
-      <guid isPermaLink="false">0001231919-26-000851</guid>
-      <pubDate>Mon, 10 Aug 2026 16:37:40 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$EWAV 📍 Stake
-Discloses 15.12% stake in East West Ave Acquisition Corp.</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2100704/000149315226036925/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-036925</guid>
-      <pubDate>Mon, 10 Aug 2026 16:37:27 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NHIC 🤝 Merger
-Merges with NewCleo in $2.5B de-SPAC; shareholders get NWCL shares; vote Sept 17
-stock · close Q4 2026
-Mcap $295M · EV $294M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2043699/000114036126032067/ny20079703x1_defm14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-032067</guid>
-      <pubDate>Mon, 10 Aug 2026 16:36:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
