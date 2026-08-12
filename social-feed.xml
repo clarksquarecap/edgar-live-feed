@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 02:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:07:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CZR 🤝 Merger
+Acquired by Fertitta Gaming for $31.00 cash/share; vote pending
+Fertitta Gaming Holdco · cash
+Mcap $6.1B · EV $31B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1590895/000119312526345336/d143368dprem14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-345336</guid>
+      <pubDate>Wed, 12 Aug 2026 05:07:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GRND 📍 Stake
 Receives 13D/A; Tiga group stake rises to 54.9% on buyback
@@ -951,36 +962,6 @@ Mcap $127B · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/927971/000119312526342827/d101541d6k.htm</link>
       <guid isPermaLink="false">0001193125-26-342827</guid>
       <pubDate>Tue, 11 Aug 2026 05:09:47 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$RY 📤 Divestiture
-Sells 50% Moneris stake to Francisco Partners for ~$1B cash
-~$2B deal · close Q1 FY2027
-Mcap $293B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1000275/000121465926009856/y8102646k.htm</link>
-      <guid isPermaLink="false">0001214659-26-009856</guid>
-      <pubDate>Tue, 11 Aug 2026 05:06:47 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$EDN 🤝 Merger
-Acquires 70% of MetroGAS + 5% of MetroENERGÍA from YPF for $780M
-US$780 million deal · cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1395213/000129281426004170/edn20260810_6k1.htm</link>
-      <guid isPermaLink="false">0001292814-26-004170</guid>
-      <pubDate>Tue, 11 Aug 2026 05:06:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$YPF 📤 Divestiture
-Sells MetroGAS and MetroENERGÍA stakes to EDENOR for $780M cash
-US$780 million deal
-Mcap $20B · EV $29B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/904851/000155485526001764/MainDocument.htm</link>
-      <guid isPermaLink="false">0001554855-26-001764</guid>
-      <pubDate>Tue, 11 Aug 2026 05:05:13 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>
