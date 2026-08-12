@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 21:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 21:37:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$D 🤝 Merger
@@ -554,26 +554,6 @@ Mcap $22M · EV $314M · Tech</title>
       <pubDate>Tue, 11 Aug 2026 16:38:49 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DAKT 📍 Stake
-Alta Fox raises stake in Daktronics to 4.4%
-Mcap $1.0B · EV $914M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/915779/000173491626000004/primary_doc.xml</link>
-      <guid isPermaLink="false">0001734916-26-000004</guid>
-      <pubDate>Tue, 11 Aug 2026 16:32:46 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ISPC ⚖️ Litigation · Settled
-Settles arbitration with WestPark for $97,500; claims dismissed with prejudice
-vs WestPark Capital
-Mcap $3M · EV $600K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1558569/000121390026087877/ea0301317-8k_ispecimen.htm</link>
-      <guid isPermaLink="false">0001213900-26-087877</guid>
-      <pubDate>Tue, 11 Aug 2026 16:32:20 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>
