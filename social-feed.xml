@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 12:32:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:47:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DAIC 📉 Delisting · Forced
+Faces forced Nasdaq delisting; appeal by Aug 13
+Mcap $990K · EV $2M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026088070/ea0301685-8k_cidhold.htm</link>
+      <guid isPermaLink="false">0001213900-26-088070</guid>
+      <pubDate>Wed, 12 Aug 2026 07:47:01 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$NEXN 🔎 Strat Review · Portfolio Review
 Evaluates strategic options for non-programmatic business lines
@@ -796,27 +806,6 @@ Mcap $5M · EV $4M · Comms</title>
       <pubDate>Tue, 11 Aug 2026 08:07:02 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$CURLF 🤝 Merger · Unsolicited
-Makes unsolicited offer for Aurora at $4.00/sh (0.3463 CURA + $0.75 cash)
-45 prem · cash+stk
-Mcap $2.2B · EV $3.2B · Healthcare</title>
-      <link>https://www.newswire.ca/news-releases/curaleaf-announces-intention-to-launch-take-over-bid-for-aurora-cannabis-to-solidify-its-position-as-the-global-cannabis-industry-leader-866793478.html</link>
-      <guid isPermaLink="false">OTC-531321</guid>
-      <pubDate>Tue, 11 Aug 2026 07:41:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$OZSC 🤝 Merger
-Acquires Varon Corp, functional beverage platform
-Mcap $190K · EV $22M · Industrials</title>
-      <link>https://www.globenewswire.com/news-release/2026/01/21/3222792/0/en/OZSC-to-Acquire-Varon-Corp.html</link>
-      <guid isPermaLink="false">OTC-531322</guid>
-      <pubDate>Tue, 11 Aug 2026 07:41:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
