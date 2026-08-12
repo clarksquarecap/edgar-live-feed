@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 16:17:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 16:29:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CLH 🤝 Merger
+Acquires EnviroServe for $470M cash; ~9x post-synergy EBITDA
+$470 million deal · cash · close H2 2026
+Mcap $16B · EV $19B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/822818/000082281826000037/clh-20260812.htm</link>
+      <guid isPermaLink="false">0000822818-26-000037</guid>
+      <pubDate>Wed, 12 Aug 2026 11:29:20 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$WTG 🤝 Merger
 Acquires KIKA Technology for $80M in stock; EGM vote pending
@@ -719,17 +730,6 @@ Mcap $35M · EV $851M · Real Estate</title>
       <guid isPermaLink="false">0001104659-26-093930</guid>
       <pubDate>Tue, 11 Aug 2026 11:47:26 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$VLN 📉 Delisting · Forced
-Warrants forced delisting effective Aug 24
-effective 2026-08-24
-Mcap $181M · EV $103M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1863006/000087666126000675/primary_doc.xml</link>
-      <guid isPermaLink="false">0000876661-26-000675</guid>
-      <pubDate>Tue, 11 Aug 2026 11:23:01 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
