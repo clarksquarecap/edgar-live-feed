@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 00:40:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 00:52:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GRND 📍 Stake
@@ -1002,15 +1002,6 @@ Mcap $1.9B · EV $3.4B · Healthcare</title>
       <guid isPermaLink="false">0000895345-26-000352</guid>
       <pubDate>Mon, 10 Aug 2026 20:38:43 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$GNK 💥 Busted M&amp;A
-Vessel sale to Star Bulk terminated; Diana's acquisition plan in doubt
-Mcap $1.1B · EV $1.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326200/000110465926093587/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-093587</guid>
-      <pubDate>Mon, 10 Aug 2026 19:49:34 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
