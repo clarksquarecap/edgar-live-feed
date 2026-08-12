@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 13:18:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:36:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BBAIX 📍 Stake
+Receives 13D/A from Brown Brothers Harriman; combined stake 61.4%</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097545/000092963826002994/primary_doc.xml</link>
+      <guid isPermaLink="false">0000929638-26-002994</guid>
+      <pubDate>Wed, 12 Aug 2026 08:36:41 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$DAIC 📉 Delisting · Forced
 Faces forced Nasdaq delisting; appeal by Aug 13
@@ -734,16 +742,6 @@ Mcap $2.2B · EV $10B · Utilities</title>
       <guid isPermaLink="false">0001193125-26-343627</guid>
       <pubDate>Tue, 11 Aug 2026 08:51:31 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$INCR 🤝 Merger
-Shareholders approve acquisition at EGM
-Mcap $55M · EV $99M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1857030/000149315226037022/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-037022</guid>
-      <pubDate>Tue, 11 Aug 2026 08:32:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
