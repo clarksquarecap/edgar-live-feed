@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 10:17:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:23:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SNN 📍 Stake
+Cevian raises stake to 14.2%
+Mcap $14B · EV $16B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/845982/000165495426007490/a3722q.htm</link>
+      <guid isPermaLink="false">0001654954-26-007490</guid>
+      <pubDate>Wed, 12 Aug 2026 05:23:38 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$RMCF 🔎 Strat Review · Strat Alts
 Exploring strategic alternatives; received third-party expressions of interest
@@ -911,68 +920,6 @@ Mcap $2.8B · EV $5.5B · Comms</title>
       <link>https://www.sec.gov/Archives/edgar/data/1876183/000110465926093688/ihs-20260811x6k.htm</link>
       <guid isPermaLink="false">0001104659-26-093688</guid>
       <pubDate>Tue, 11 Aug 2026 05:42:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$EROK 🤝 Merger
-Acquires Intrepid Ranch from Hydrosource for $78.2M
-Hydrosource Logistics · $78.2 million deal · close 2026-08-10
-Mcap $595M · EV $888M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2104882/000119312526343071/d179725d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-343071</guid>
-      <pubDate>Tue, 11 Aug 2026 05:22:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MDV 🤝 Merger
-Stockholders approve acquisition by Global Net Lease; close Aug 12
-stock · close 2026-08-12
-Mcap $175M · EV $480M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1645873/000164587326000075/cik0001645873-20260810.htm</link>
-      <guid isPermaLink="false">0001645873-26-000075</guid>
-      <pubDate>Tue, 11 Aug 2026 05:21:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SBLK 💥 Busted M&amp;A
-Terminates 16-vessel purchase from Diana
-Mcap $3.1B · EV $3.8B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1386716/000095015726000874/form6-k.htm</link>
-      <guid isPermaLink="false">0000950157-26-000874</guid>
-      <pubDate>Tue, 11 Aug 2026 05:21:48 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$FSM 🤝 Merger
-Acquires Bambadji gold project from Barrick/IAMGOLD for $200M cash
-Barrick and IAMGOLD · US$200 million deal · cash · close closed
-Mcap $2.9B · EV $2.5B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1341335/000110465926093594/tm2622798d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-093594</guid>
-      <pubDate>Tue, 11 Aug 2026 05:21:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$EDN 🤝 Merger · Preliminary
-Participates in competitive bidding for Metrogas</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1395213/000129281426004179/ednfs2q26_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004179</guid>
-      <pubDate>Tue, 11 Aug 2026 05:18:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$D 🤝 Merger
-Acquired by NextEra in all-stock merger; vote pending
-NextEra Energy
-Mcap $60B · EV $119B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000075330826000066/needated08x10x2026xdominio.htm</link>
-      <guid isPermaLink="false">0000753308-26-000066</guid>
-      <pubDate>Tue, 11 Aug 2026 05:17:36 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
