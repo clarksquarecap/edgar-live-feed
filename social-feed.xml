@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 21:24:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 21:30:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$D 🤝 Merger
+Acquired by NextEra; $1.78B bill credits promised; SCC review pending
+NextEra Energy
+Mcap $60B · EV $119B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715957/000119312526347195/d123809d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-347195</guid>
+      <pubDate>Wed, 12 Aug 2026 16:30:23 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$WHK 🤝 Merger
 Acquires Marcellus &amp; Haynesville mineral interests for $105M
@@ -563,17 +574,6 @@ Mcap $3M · EV $600K · Healthcare</title>
       <pubDate>Tue, 11 Aug 2026 16:32:20 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$AUUD 🤝 Merger
-Acquired by McCarthy Finney in stock-for-stock merger; vote Sept 23
-stock
-Mcap $7M · EV $6M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1554818/000168316826006211/auddia_defm14a.htm</link>
-      <guid isPermaLink="false">0001683168-26-006211</guid>
-      <pubDate>Tue, 11 Aug 2026 16:29:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
