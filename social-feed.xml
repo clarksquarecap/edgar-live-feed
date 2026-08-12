@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 11:21:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 11:28:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RDCM 💧 Capital Return · Buyback
+Plans $20-25M share repurchase program
+Mcap $169M · EV $64M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1016838/000121390026088035/ea0301737-6k_radcom.htm</link>
+      <guid isPermaLink="false">0001213900-26-088035</guid>
+      <pubDate>Wed, 12 Aug 2026 06:28:09 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$CYPH 🔎 Strat Review · Portfolio Review
 Launches strategic review of sirexatamab (spin-out vs partner)
@@ -858,26 +868,6 @@ Mcap $41M · EV $89M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1813452/000110465926093727/vreof-20251112x425.htm</link>
       <guid isPermaLink="false">0001104659-26-093727</guid>
       <pubDate>Tue, 11 Aug 2026 06:29:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BTAI 🪙 Debt Restr.
-Liquidity covenant cut to $3M; must repay Oaktree by Aug 21
-Mcap $29M · EV $112M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1720893/000110465926093710/tm2622818d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-093710</guid>
-      <pubDate>Tue, 11 Aug 2026 06:23:30 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$GTBIF 🤝 Merger
-Removes ownership caps on RYM warrants/notes; will consolidate RYM Oct 10
-RYTHM · close 2026-10-10
-Mcap $1.5B · EV $1.8B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1795139/000119312526343396/gtbif-20260810.htm</link>
-      <guid isPermaLink="false">0001193125-26-343396</guid>
-      <pubDate>Tue, 11 Aug 2026 06:23:07 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
