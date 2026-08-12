@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 16:52:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 17:57:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WCCP 🤝 Merger · Preliminary
+Enters binding LOI to acquire XLabs via share exchange; rebrands to War Labs Defense
+stock
+Mcap $9M · Financials</title>
+      <link>https://investor.wedbush.com/wedbush/article/acnnewswire-2026-7-27-wealthcraft-capital-to-acquire-less-lethal-conducted-energy-patent-portfolio-anchoring-the-war-labs-defense-technology-platform</link>
+      <guid isPermaLink="false">OTC-531534</guid>
+      <pubDate>Wed, 12 Aug 2026 12:57:59 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$CLH 🤝 Merger
 Acquires EnviroServe for $470M cash; ~9x post-synergy EBITDA
@@ -712,15 +723,6 @@ Mcap $37M · Cons Stpl</title>
       <pubDate>Tue, 11 Aug 2026 12:58:03 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$MKZR 📍 Stake
-Receives 13D/A from Robert Dixon; stake rises to 8.9%
-Mcap $3M · EV $179M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1550913/000158232826000013/primary_doc.xml</link>
-      <guid isPermaLink="false">0001582328-26-000013</guid>
-      <pubDate>Tue, 11 Aug 2026 12:57:48 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
