@@ -6,8 +6,40 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 10:07:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:14:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CNL 📉 Delisting · Voluntary
+Transfers listing to Nasdaq Global Select
+Mcap $1.1B · EV $1.0B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1953575/000121390026087988/ea0301488-6k_collective.htm</link>
+      <guid isPermaLink="false">0001213900-26-087988</guid>
+      <pubDate>Wed, 12 Aug 2026 05:14:14 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
+    <item>
+      <title>$IPEX 🤝 Merger
+Acquires GOWell; F-4 effective, vote Sept 3
+close Q3 2026
+Mcap $126M · EV $127M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2028355/000121390026087937/ea0301664-defa14a_inflect5.htm</link>
+      <guid isPermaLink="false">0001213900-26-087937</guid>
+      <pubDate>Wed, 12 Aug 2026 05:08:17 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$IPEX 🤝 Merger
+Acquires GOWell Energy for $300M stock; $70M PIPE; EGM vote
+$300,000,000 deal · stock
+Mcap $126M · EV $127M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2028355/000121390026087896/ea0301639-01.htm</link>
+      <guid isPermaLink="false">0001213900-26-087896</guid>
+      <pubDate>Wed, 12 Aug 2026 05:07:52 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CZR 🤝 Merger
 Acquired by Fertitta Gaming for $31.00 cash/share; vote pending
@@ -953,16 +985,6 @@ Mcap $117M · Tech</title>
       <guid isPermaLink="false">0001493152-26-036959</guid>
       <pubDate>Tue, 11 Aug 2026 05:15:57 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$BMO 📤 Divestiture
-Sells 50% Moneris stake to Francisco Partners for ~$1B cash
-$2.0B deal · close Q1 FY2027
-Mcap $127B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/927971/000119312526342827/d101541d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-342827</guid>
-      <pubDate>Tue, 11 Aug 2026 05:09:47 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
