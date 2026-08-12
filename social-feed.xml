@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 20:54:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 20:58:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XMAX 🤝 Merger
+Acquires 561,426 Aerora shares for $12M cash
+Aerora Technology Co. · 12003287.95 deal · cash · close 2026-08-10
+Mcap $594M · EV $590M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1473334/000149315226037394/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-037394</guid>
+      <pubDate>Wed, 12 Aug 2026 15:58:17 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DOMO 📤 Divestiture
 Sells business to Progress Software for $400M cash; retains NOLs
@@ -615,27 +626,6 @@ Mcap $2.6B · EV $2.4B · Materials</title>
       <pubDate>Tue, 11 Aug 2026 16:02:09 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MDXG 🤝 Merger
-Acquires Sanara MedTech for $33 cash + 0.4735 MDXG shares/share
-cash+stk
-Mcap $622M · EV $504M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1376339/000137633926000082/mdxg-20260729.htm</link>
-      <guid isPermaLink="false">0001376339-26-000082</guid>
-      <pubDate>Tue, 11 Aug 2026 15:54:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CMBT 📤 Divestiture
-Sells Suezmax Bristol for ~$56.9M capital gain
-close Q4 2026
-Mcap $4.7B · EV $9.7B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1604481/000091957426004935/p15047752_6k.htm</link>
-      <guid isPermaLink="false">0000919574-26-004935</guid>
-      <pubDate>Tue, 11 Aug 2026 15:54:22 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
