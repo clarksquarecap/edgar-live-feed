@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 10:56:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 11:09:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$TE 🔎 Strat Review · Portfolio Review
@@ -891,36 +891,6 @@ Mcap $48M · EV $86M · Industrials</title>
       <pubDate>Tue, 11 Aug 2026 06:20:52 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$REFI 🤝 Merger
-Acquired by Chicago Atlantic BDC; N-14 filed
-Mcap $261M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1867949/000121390026087484/ea0301176-8k425_chicago.htm</link>
-      <guid isPermaLink="false">0001213900-26-087484</guid>
-      <pubDate>Tue, 11 Aug 2026 06:06:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$IESC 🤝 Merger
-Acquires DBM Global for $650M cash+stock
-$650,000,000 deal · cash+stk · close Q1 2027
-Mcap $15B · EV $15B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1048268/000149315226036976/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-036976</guid>
-      <pubDate>Tue, 11 Aug 2026 06:06:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AVXL ⚔️ Proxy
-Faces PVG Group proxy contest; AGM Sept 24
-Mcap $314M · EV $187M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314052/000173112226001038/e7840_defc14a.htm</link>
-      <guid isPermaLink="false">0001731122-26-001038</guid>
-      <pubDate>Tue, 11 Aug 2026 06:06:07 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
