@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 12:11:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:20:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EAT 💧 Capital Return · Buyback
@@ -817,17 +817,6 @@ Mcap $17M · EV $34M · Real Estate</title>
       <guid isPermaLink="false">OTC-531320</guid>
       <pubDate>Tue, 11 Aug 2026 07:26:46 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$TBPH 🤝 Merger
-Acquired by Zymeworks for $17.00 cash + CVR
-cash
-Mcap $877M · EV $518M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1583107/000110465926093784/tm2621435-1_prem14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-093784</guid>
-      <pubDate>Tue, 11 Aug 2026 07:14:36 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
