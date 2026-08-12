@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 20:44:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 20:48:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WHG 📍 Stake
+Receives 13D/A from GAMCO; group holds ~6.8% stake
+Mcap $163M · EV $151M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1165002/000080724926000066/primary_doc.xml</link>
+      <guid isPermaLink="false">0000807249-26-000066</guid>
+      <pubDate>Wed, 12 Aug 2026 15:48:16 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$BNED 🤝 Merger
 Proxy supplement for acquisition vote
@@ -639,43 +648,6 @@ Mcap $2.4B · EV $2.1B · Financials</title>
       <pubDate>Tue, 11 Aug 2026 15:52:07 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$LILA 📍 Stake
-Malone raises stake to 14.1% of Class A shares
-Mcap $1.7B · EV $10B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1712184/000093779726000018/primary_doc.xml</link>
-      <guid isPermaLink="false">0000937797-26-000018</guid>
-      <pubDate>Tue, 11 Aug 2026 15:45:40 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$HWH 📍 Stake
-Chairman/CEO awarded 1.48M shares; stake rises to 27.1%
-Mcap $11M · EV $10M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1897245/000149315226037149/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-037149</guid>
-      <pubDate>Tue, 11 Aug 2026 15:45:17 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$DUOT 📤 Divestiture
-Sells rail unit DTI to Sandbank Acosta for $5.4M note
-$5,435,403 deal · close 2026-08-05
-Mcap $280M · EV $252M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1396536/000107997326001029/duot_8k.htm</link>
-      <guid isPermaLink="false">0001079973-26-001029</guid>
-      <pubDate>Tue, 11 Aug 2026 15:45:02 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SNYR 🪙 Debt Restr.
-Receives default notice on $17.6M term loan; forbearance terminated
-Mcap $2M · EV $30M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1562733/000121390026087826/ea0301649-8k_synergy.htm</link>
-      <guid isPermaLink="false">0001213900-26-087826</guid>
-      <pubDate>Tue, 11 Aug 2026 15:44:35 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
