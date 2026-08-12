@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 21:14:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 21:20:39 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ULIT 🤝 Merger
+Acquired by Constellation Acquisition Corp. I in $500M de-SPAC merger; Nasdaq listing under ULIT
+$500,000,000 deal · stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026088478/ea0291220-03.htm</link>
+      <guid isPermaLink="false">0001213900-26-088478</guid>
+      <pubDate>Wed, 12 Aug 2026 16:20:39 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$KPLT 📍 Stake
 Exercises warrants for 645K shares (12.98%); preferred repurchased
@@ -551,38 +561,6 @@ Mcap $7.0B · EV $6.6B · Cons Disc</title>
       <guid isPermaLink="false">0001953643-26-000002</guid>
       <pubDate>Tue, 11 Aug 2026 16:20:51 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ONAR 🤝 Merger · Preliminary
-Extends Advertise Purple LOI to Sep 28; cash raised to $12.825M
-$12,825,000 deal · cash · close 2026-09-28
-Mcap $1M · EV $7M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1682265/000147793226004882/onar_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-004882</guid>
-      <pubDate>Tue, 11 Aug 2026 16:18:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$DSX 🤝 Merger · Unsolicited
-Terminates Star Bulk vessel sale; Genco bid of $24.80+share stands
-cash+stk
-Mcap $299M · EV $632M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1318885/000091957426004938/p15047793_6-k.htm</link>
-      <guid isPermaLink="false">0000919574-26-004938</guid>
-      <pubDate>Tue, 11 Aug 2026 16:17:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$ATEK 🤝 Merger
-Acquired by Athena Technology Acquisition Corp. II
-Mcap $94M · EV $96M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1882198/000121390026087854/ea0237057-15.htm</link>
-      <guid isPermaLink="false">0001213900-26-087854</guid>
-      <pubDate>Tue, 11 Aug 2026 16:17:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
