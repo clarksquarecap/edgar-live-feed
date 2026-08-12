@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 10:14:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:16:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ALLT 💧 Capital Return · Buyback
+$40M share repurchase program approved
+Mcap $392M · EV $304M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1365767/000117891326004043/zk2635897.htm</link>
+      <guid isPermaLink="false">0001178913-26-004043</guid>
+      <pubDate>Wed, 12 Aug 2026 05:16:11 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$CNL 📉 Delisting · Voluntary
 Transfers listing to Nasdaq Global Select
@@ -975,16 +985,6 @@ Mcap $830K · EV $25M · Healthcare</title>
       <guid isPermaLink="false">0001185185-26-003370</guid>
       <pubDate>Tue, 11 Aug 2026 05:16:19 -0500</pubDate>
       <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$RAASY 📦 Going Private
-Acquired by SpringX Holdings for $2.9641/ADS cash; vote pending
-cash
-Mcap $117M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1804583/000149315226036959/formsc13e3a.htm</link>
-      <guid isPermaLink="false">0001493152-26-036959</guid>
-      <pubDate>Tue, 11 Aug 2026 05:15:57 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
   </channel>
 </rss>
