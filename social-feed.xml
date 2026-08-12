@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 12:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:32:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NEXN 🔎 Strat Review · Portfolio Review
+Evaluates strategic options for non-programmatic business lines
+Mcap $584M · EV $519M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849396/000117891326004053/zk2635922.htm</link>
+      <guid isPermaLink="false">0001178913-26-004053</guid>
+      <pubDate>Wed, 12 Aug 2026 07:32:43 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>portfolio_review</category>
+    </item>
     <item>
       <title>$EAT 💧 Capital Return · Buyback
 Adds $718M to buyback; $750M total authority
@@ -807,16 +817,6 @@ Mcap $190K · EV $22M · Industrials</title>
       <pubDate>Tue, 11 Aug 2026 07:41:05 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GBCS 🎯 Tender
-Tender offer extended to Aug 17; $5.75/share cash; 2.8M shares tendered
-Black Pearl Equities · cash · close 2026-08-17
-Mcap $17M · EV $34M · Real Estate</title>
-      <link>https://uk.marketscreener.com/news/black-pearl-extends-tender-offer-for-all-outstanding-shares-of-selectis-health-inc-ce7859dbd980fe2d</link>
-      <guid isPermaLink="false">OTC-531320</guid>
-      <pubDate>Tue, 11 Aug 2026 07:26:46 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
