@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 12 Aug 2026 20:48:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 20:54:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DOMO 📤 Divestiture
+Sells business to Progress Software for $400M cash; retains NOLs
+$400 million deal
+Mcap $177M · EV $286M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505952/000110465926094949/tm2621515-1_prem14c.htm</link>
+      <guid isPermaLink="false">0001104659-26-094949</guid>
+      <pubDate>Wed, 12 Aug 2026 15:54:13 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$WHG 📍 Stake
 Receives 13D/A from GAMCO; group holds ~6.8% stake
@@ -626,28 +636,6 @@ Mcap $4.7B · EV $9.7B · Energy</title>
       <guid isPermaLink="false">0000919574-26-004935</guid>
       <pubDate>Tue, 11 Aug 2026 15:54:22 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$VRME 🤝 Merger
-Acquires OpenWorld Ltd in stock-for-stock merger
-stock
-Mcap $9M · EV $6M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1104038/000121465926009911/vm810262s4a4.htm</link>
-      <guid isPermaLink="false">0001214659-26-009911</guid>
-      <pubDate>Tue, 11 Aug 2026 15:53:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PAYO 🤝 Merger
-Acquired by Nuvei for $7.40 cash/share; vote Sept 14
-cash
-Mcap $2.4B · EV $2.1B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1845815/000110465926094105/tm2619600-2_defm14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-094105</guid>
-      <pubDate>Tue, 11 Aug 2026 15:52:07 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
