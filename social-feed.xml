@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 10:14:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:17:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SMTC 📤 Divestiture
+Sells cellular module business to Compal for $62M cash
+to Compal Electronics · $62 million deal · close Q4 FY2027
+Mcap $13B · EV $13B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/88941/000119312526347716/d123711d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-347716</guid>
+      <pubDate>Thu, 13 Aug 2026 05:17:17 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$SAIH 🤝 Merger
 Acquires Canopy Wave for $60M stock; EGM Aug 26
@@ -523,26 +533,6 @@ Mcap $14B · EV $16B · Healthcare</title>
       <guid isPermaLink="false">0001654954-26-007490</guid>
       <pubDate>Wed, 12 Aug 2026 05:23:38 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RMCF 🔎 Strat Review · Strat Alts
-Exploring strategic alternatives; received third-party expressions of interest
-Mcap $6M · EV $14M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1616262/000121390026087922/ea0301684-8k_rocky.htm</link>
-      <guid isPermaLink="false">0001213900-26-087922</guid>
-      <pubDate>Wed, 12 Aug 2026 05:17:09 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$ALLT 💧 Capital Return · Buyback
-$40M share repurchase program approved
-Mcap $392M · EV $304M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1365767/000117891326004043/zk2635897.htm</link>
-      <guid isPermaLink="false">0001178913-26-004043</guid>
-      <pubDate>Wed, 12 Aug 2026 05:16:11 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
