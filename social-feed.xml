@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 21:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:40:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LIEN 🤝 Merger
+Acquires REFI in all-stock NAV-for-NAV merger
+stock
+Mcap $221M · EV $273M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1843162/000121390026089244/ea0302088-425_chicago.htm</link>
+      <guid isPermaLink="false">0001213900-26-089244</guid>
+      <pubDate>Thu, 13 Aug 2026 16:40:03 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$IYRI 🤝 Merger
 Adviser NEOS acquired by Goldman Sachs; fund shareholders to vote on new advisory agreement</title>
@@ -682,58 +693,6 @@ Mcap $5.8B · EV $8.5B · Healthcare</title>
       <guid isPermaLink="false">0000898432-26-000654</guid>
       <pubDate>Wed, 12 Aug 2026 17:07:08 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$D 🤝 Merger
-Acquired by NextEra; $1.78B bill credits promised; SCC review pending
-NextEra Energy
-Mcap $60B · EV $119B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000119312526347195/d123809d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-347195</guid>
-      <pubDate>Wed, 12 Aug 2026 16:30:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WHK 🤝 Merger
-Acquires Marcellus &amp; Haynesville mineral interests for $105M
-105,000,000 deal · cash · close 2026-09-25
-Mcap $608M · EV $847M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1921603/000119312526347160/whk-20260812.htm</link>
-      <guid isPermaLink="false">0001193125-26-347160</guid>
-      <pubDate>Wed, 12 Aug 2026 16:24:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ARAI 🪙 Debt Restr.
-Floor Price Trigger; $962.5K/mo mandatory repayments to Streeterville
-Mcap $14M · EV $15M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1818274/000149315226037434/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-037434</guid>
-      <pubDate>Wed, 12 Aug 2026 16:22:05 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>floor_price_trigger</category>
-    </item>
-    <item>
-      <title>$CAE 🔎 Strat Review · Sale
-Strategic review of Flightscape progressing; strong interest
-Mcap $8.7B · EV $11B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1173382/000117338226000040/cae_q1fy27xcoverform6-k.htm</link>
-      <guid isPermaLink="false">0001173382-26-000040</guid>
-      <pubDate>Wed, 12 Aug 2026 16:21:42 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>sale_process</category>
-    </item>
-    <item>
-      <title>$ULIT 🤝 Merger
-Acquired by Constellation Acquisition Corp. I in $500M de-SPAC merger; Nasdaq listing under ULIT
-$500,000,000 deal · stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026088478/ea0291220-03.htm</link>
-      <guid isPermaLink="false">0001213900-26-088478</guid>
-      <pubDate>Wed, 12 Aug 2026 16:20:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
