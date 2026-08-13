@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 10:24:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:30:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CBSTQ 📤 Divestiture
+Sells Maryland cannabis ops for up to $13.75M cash; real estate buyer assumes debt
+up to $13.75M cash + debt assumption deal
+Mcap $490K · EV $423M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1776738/000114036126032617/ef20080128_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-032617</guid>
+      <pubDate>Thu, 13 Aug 2026 05:30:09 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$PLMUF 🤝 Merger
 Merges with Tactical Resources; Nasdaq approval; close July 28
@@ -568,15 +578,6 @@ Mcap $1.5B · EV $2.1B · Tech</title>
       <pubDate>Wed, 12 Aug 2026 05:56:48 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>portfolio_review</category>
-    </item>
-    <item>
-      <title>$EIC 🌍 Re-domicile
-Converts to Delaware Statutory Trust effective Aug 24
-Mcap $229M · EV $314M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1754836/000110465926094331/tm2622860d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-094331</guid>
-      <pubDate>Wed, 12 Aug 2026 05:26:34 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
