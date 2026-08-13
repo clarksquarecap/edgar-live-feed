@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 12:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 12:36:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$AACB 🧊 Liquidation
@@ -648,16 +648,6 @@ Mcap $990K · EV $2M · Tech</title>
       <pubDate>Wed, 12 Aug 2026 07:47:01 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$NEXN 🔎 Strat Review · Portfolio Review
-Evaluates strategic options for non-programmatic business lines
-Mcap $584M · EV $519M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1849396/000117891326004053/zk2635922.htm</link>
-      <guid isPermaLink="false">0001178913-26-004053</guid>
-      <pubDate>Wed, 12 Aug 2026 07:32:43 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
     </item>
   </channel>
 </rss>
