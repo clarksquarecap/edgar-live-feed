@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 15:59:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 16:05:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FER 📉 Delisting · Voluntary
+Delists from Euronext Amsterdam effective Sept 11
+effective 2026-09-11
+Mcap $48B · EV $57B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468522/000146852226000053/a6keuronextamsterdam130820.htm</link>
+      <guid isPermaLink="false">0001468522-26-000053</guid>
+      <pubDate>Thu, 13 Aug 2026 11:05:03 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$ECAT 📍 Stake
 Receives 13D/A from Saba Capital; stake now 14.75%</title>
@@ -678,17 +689,6 @@ Mcap $16B · EV $19B · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/822818/000082281826000037/clh-20260812.htm</link>
       <guid isPermaLink="false">0000822818-26-000037</guid>
       <pubDate>Wed, 12 Aug 2026 11:29:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WTG 🤝 Merger
-Acquires KIKA Technology for $80M in stock; EGM vote pending
-$80,000,000 deal · stock
-Mcap $76M · EV $75M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2053927/000182912626008666/wintergreenacq_s4a4.htm</link>
-      <guid isPermaLink="false">0001829126-26-008666</guid>
-      <pubDate>Wed, 12 Aug 2026 10:59:38 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
