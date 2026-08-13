@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 21:01:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:07:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SUIG 🌍 Re-domicile
+Reincorporation to Delaware up for shareholder vote Sept 4
+Mcap $69M · EV $66M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1425355/000114036126032857/ef20079987_defr14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-032857</guid>
+      <pubDate>Thu, 13 Aug 2026 16:07:53 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+      <category>statutory_conversion</category>
+    </item>
     <item>
       <title>$MRAI 📍 Stake
 Receives 13D from Mitchell/Benchmark disclosing 9.3% stake
@@ -655,17 +665,6 @@ Mcap $32M · EV $116M · Financials</title>
       <guid isPermaLink="false">0001104659-26-095005</guid>
       <pubDate>Wed, 12 Aug 2026 16:14:42 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SSAC 🤝 Merger
-Acquires Mobilewalla in stock merger; EGM vote
-stock
-Mcap $242M · EV $242M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2081300/000119312526347101/d144744ds4.htm</link>
-      <guid isPermaLink="false">0001193125-26-347101</guid>
-      <pubDate>Wed, 12 Aug 2026 16:05:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
