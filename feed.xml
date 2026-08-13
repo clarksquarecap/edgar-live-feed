@@ -6,8 +6,26 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 18:46:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 20:05:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · LIDR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818644/000135445726000785/0001354457-26-000785-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000785</guid>
+      <pubDate>Thu, 13 Aug 2026 15:05:08 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <scanner:headline>Warrants delisted from Nasdaq effective Aug 13</scanner:headline>
+      <scanner:shortName>AEye</scanner:shortName>
+      <scanner:price>1.29</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Warrants delisted from Nasdaq effective Aug 13&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Nasdaq filed Form 25 to delist AEye&amp;#39;s warrants (LIDRW) effective Aug 13, 2026, due to failure to meet listing standards. The warrants will no longer trade on Nasdaq.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; AEye, Inc., together with its subsidiaries, provides physical AI sensing solutions for vehicle autonomy, advanced driver-assistance systems (ADAS), robotic vision applications, and non-automotive applications in the United States, Europe, and the Asia Pacific. The company offers Apollo, an intelligent sensing lidar platform for ADAS and autonomous vehicles applications, as well as non-automotive market, including rail, construction, mining and agriculture, aerospace and defense, security and for…&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $1.29 · Mkt cap $61.4M · EV $-8.7M · Fwd EV/EBITDA 0.7x · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1818644/000135445726000785/0001354457-26-000785-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LIDR, LIDRW&lt;/b&gt; · 25-NSE · Transportation Equipment (3714) · prefill_form:25-NSE · filed 2026-08-13&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · EVGN</title>
       <link>https://www.sec.gov/Archives/edgar/data/1574565/000121390026088987/0001213900-26-088987-index.htm</link>
@@ -9559,26 +9577,6 @@
 &lt;p&gt;&lt;i&gt;Mkt cap $36.6M · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/FUNR/news/530576'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FUNR&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-08-05&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · WBS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/801337/000080133726000025/wbs-20260804.htm</link>
-      <guid isPermaLink="false">0000801337-26-000025</guid>
-      <pubDate>Wed, 05 Aug 2026 08:05:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquired by Banco Santander; Fed approved; close Aug 20</scanner:headline>
-      <scanner:shortName>WEBSTER FINANCIAL</scanner:shortName>
-      <scanner:price>77.95</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Banco Santander; Fed approved; close Aug 20&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Corporation to be acquired by Banco Santander, S.A. The Federal Reserve approved the transaction on August 4, 2026. Closing is expected on August 20, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Webster Financial Corporation operates as the bank holding company for Webster Bank, National Association that provides various financial products and services to businesses, individuals, and families in the United States. It operates through three segments: Commercial Banking, Healthcare Financial Services, and Consumer Banking.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Banco Santander, S.A.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-08-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing expected August 20, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $77.95 · Mkt cap $12.63B · Fwd P/E 11.0x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/801337/000080133726000025/0000801337-26-000025-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WBS, WBS-PF, WBS-PG&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Depository Institutions (6021) · 8k_tier1:8.01 · filed 2026-08-05&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
