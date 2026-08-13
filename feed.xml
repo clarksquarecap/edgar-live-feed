@@ -6,8 +6,25 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 21:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:20:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · IYRI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848758/000199937126017887/neos-defa14a_081326.htm</link>
+      <guid isPermaLink="false">0001999371-26-017887</guid>
+      <pubDate>Thu, 13 Aug 2026 16:20:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Adviser NEOS acquired by Goldman Sachs; fund shareholders to vote on new advisory agreement</scanner:headline>
+      <scanner:shortName>NEOS ETF</scanner:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Adviser NEOS acquired by Goldman Sachs; fund shareholders to vote on new advisory agreement&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Goldman Sachs has entered into an agreement to acquire Neos Investments LLC, parent of NEOS Investment Management, the investment adviser for the NEOS ETF Trust series. Fund shareholders will be asked to approve a new investment advisory agreement and election of trustees. Preliminary proxy statement expected to be filed on or about August 17, 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Goldman Sachs&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Preliminary proxy statement filing on or about August 17, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1848758/000199937126017887/0001999371-26-017887-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IYRI&lt;/b&gt; · DEFA14A · prefill_form:DEFA14A · filed 2026-08-13&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · OPLN</title>
       <link>https://www.sec.gov/Archives/edgar/data/1395942/000119312526349538/0001193125-26-349538-index.htm</link>
@@ -9557,24 +9574,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.9000 · Mkt cap $3.4M · EV $120.0M · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1230869/000121390026085709/0001213900-26-085709-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ASA&lt;/b&gt; · PX14A6G · prefill_form:PX14A6G · filed 2026-08-05&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · QMCI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1101433/000119312526335146/0001193125-26-335146-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-335146</guid>
-      <pubDate>Wed, 05 Aug 2026 15:30:12 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Receives 13D/A from Harland Group; 11.1% stake</scanner:headline>
-      <scanner:shortName>QUOTEMEDIA</scanner:shortName>
-      <scanner:price>0.1600</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Harland Group; 11.1% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; QuoteMedia, Inc. provides financial data, market research information, analytics, news feeds, and financial software solutions in the United States and internationally. The company offers data feed services; interactive content and data APIs, such as quote modules for market data and supplemental data coverage; real-time snap quotes, market indices, charts, stock screeners, fund screeners, news, watch lists, market statistics, financial calendars, wallboards, finance calculators, and investor re…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Harland Group LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 11.1&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-05&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1600 · Mkt cap $14.2M · EV $16.8M · Fwd EV/EBITDA 11.3x · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1101433/000119312526335146/0001193125-26-335146-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QMCI&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7389) · fresh_13d · filed 2026-08-05&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

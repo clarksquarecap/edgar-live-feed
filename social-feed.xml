@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 21:14:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:20:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IYRI 🤝 Merger
+Adviser NEOS acquired by Goldman Sachs; fund shareholders to vote on new advisory agreement</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848758/000199937126017887/neos-defa14a_081326.htm</link>
+      <guid isPermaLink="false">0001999371-26-017887</guid>
+      <pubDate>Thu, 13 Aug 2026 16:20:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OPLN 📍 Stake
 Receives 13D from Apax disclosing 6.9% stake
@@ -725,15 +734,6 @@ $500,000,000 deal · stock</title>
       <pubDate>Wed, 12 Aug 2026 16:20:39 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$KPLT 📍 Stake
-Exercises warrants for 645K shares (12.98%); preferred repurchased
-Mcap $32M · EV $116M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1785424/000110465926095005/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-095005</guid>
-      <pubDate>Wed, 12 Aug 2026 16:14:42 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
