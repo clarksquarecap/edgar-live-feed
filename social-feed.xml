@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 11:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:36:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$COLL 💧 Capital Return · ASR
+Executes $50M ASR with Jefferies; settlement Q4
+Mcap $1.2B · EV $1.7B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1267565/000110465926095464/tm2623090d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-095464</guid>
+      <pubDate>Thu, 13 Aug 2026 06:36:23 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>accelerated_share_repurchase</category>
+    </item>
     <item>
       <title>$AMBP 🔎 Strat Review · Sale
 Controlling shareholder AHSA launches potential sale process; Evercore advising
@@ -629,17 +639,6 @@ Mcap $9.5B · EV $11B · Cons Disc</title>
       <pubDate>Wed, 12 Aug 2026 07:11:30 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$PMA 🤝 Merger
-Acquires Meals Through Seasons for $510M in shares + notes
-510,000,000 deal · stock · close 2026-08-31
-Mcap $16M · EV $23M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1956166/000149315226037242/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-037242</guid>
-      <pubDate>Wed, 12 Aug 2026 06:34:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
