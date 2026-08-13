@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 20:05:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 20:12:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NUTX ⚖️ Litigation · Won
+Wins en banc ruling: ghost rates barred, bonus/incentive payments must be included in QPA
+Mcap $1.2B · EV $1.4B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1479681/000162828026056696/nutx-20260811.htm</link>
+      <guid isPermaLink="false">0001628280-26-056696</guid>
+      <pubDate>Thu, 13 Aug 2026 15:12:42 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
     <item>
       <title>$LIDR 📉 Delisting · Forced
 Warrants delisted from Nasdaq effective Aug 13
@@ -678,15 +688,6 @@ Mcap $476M · EV $481M · Financials</title>
       <pubDate>Wed, 12 Aug 2026 15:13:39 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$OTLK 🪙 Debt Restr.
-Flags going concern; cash $11.2M
-Mcap $211M · EV $231M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1649989/000110465926094848/tm2622278d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-094848</guid>
-      <pubDate>Wed, 12 Aug 2026 15:07:31 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
