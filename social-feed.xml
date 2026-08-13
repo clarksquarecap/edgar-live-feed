@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 20:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 20:34:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BLSM 📍 Stake
+Receives 13D from Cormorant disclosing 11.8% stake
+Mcap $490M · EV $654M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1839970/000092963826003026/primary_doc.xml</link>
+      <guid isPermaLink="false">0000929638-26-003026</guid>
+      <pubDate>Thu, 13 Aug 2026 15:34:36 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$SGLA 🤝 Merger
 Acquires Xing Da (60%) and Invent Fortune (100%) for 26.7M shares
@@ -613,70 +622,6 @@ Mcap $435M · EV $651M · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/1634117/000114036126032514/ny20076104x2_defa14a.htm</link>
       <guid isPermaLink="false">0001140361-26-032514</guid>
       <pubDate>Wed, 12 Aug 2026 15:44:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TALK 🤝 Merger
-Acquired by UHS; state approvals cleared; close Aug 17
-close 2026-08-17
-Mcap $869M · EV $778M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1803901/000095015726000882/form8-k.htm</link>
-      <guid isPermaLink="false">0000950157-26-000882</guid>
-      <pubDate>Wed, 12 Aug 2026 15:34:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AVB 🤝 Merger
-Shareholders approve merger with Equity Residential; 2.793 EQR/AVB; close Aug 17
-stock · close 2026-08-17
-Mcap $26B · EV $35B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/915912/000110465926094930/tm2622947d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-094930</guid>
-      <pubDate>Wed, 12 Aug 2026 15:34:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$EQR 🤝 Merger
-Acquires AvalonBay for 2.793 EQR shares/AVB; close Aug 17
-AvalonBay Communities · stock · close 2026-08-17
-Mcap $25B · EV $34B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/906107/000114036126032504/ef20080049_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-032504</guid>
-      <pubDate>Wed, 12 Aug 2026 15:34:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LPA 📤 Divestiture
-Sells Parque Logístico Lima Sur to FIBRA Prime for $145M
-$145.0 million deal
-Mcap $95M · EV $457M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1997711/000199771126000145/coverpage6-k_q22026.htm</link>
-      <guid isPermaLink="false">0001997711-26-000145</guid>
-      <pubDate>Wed, 12 Aug 2026 15:33:10 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$HUN 🤝 Merger
-Acquired by Olin in all-stock merger; vote Aug 25
-stock
-Mcap $1.8B · EV $4.2B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1307954/000119312526346934/d167916d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-346934</guid>
-      <pubDate>Wed, 12 Aug 2026 15:32:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ETST 🤝 Merger
-Acquires Meduvo LLC compounding pharmacy; expands to 34 states
-Mcap $30M · EV $28M · Healthcare</title>
-      <link>https://sa.marketscreener.com/news/earth-science-tech-inc-etst-expands-national-footprint-with-strategic-acquisition-of-california-ce7859d8de81f027</link>
-      <guid isPermaLink="false">OTC-531544</guid>
-      <pubDate>Wed, 12 Aug 2026 15:26:58 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
