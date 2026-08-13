@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 11:23:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:29:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IRDM 🤝 Merger
+Acquired by Rocket Lab in stock deal; HSR cleared, S-4 filed
+stock
+Mcap $5.1B · EV $6.7B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1418819/000175392626001465/g085864_425.htm</link>
+      <guid isPermaLink="false">0001753926-26-001465</guid>
+      <pubDate>Thu, 13 Aug 2026 06:29:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ALYAF 🔎 Strat Review · Strat Alts
 Retains Scotiabank for strategic review; exploring sale, merger, privatization
@@ -618,16 +629,6 @@ Mcap $16M · EV $23M · Industrials</title>
       <pubDate>Wed, 12 Aug 2026 06:34:04 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$RDCM 💧 Capital Return · Buyback
-Plans $20-25M share repurchase program
-Mcap $169M · EV $64M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1016838/000121390026088035/ea0301737-6k_radcom.htm</link>
-      <guid isPermaLink="false">0001213900-26-088035</guid>
-      <pubDate>Wed, 12 Aug 2026 06:28:09 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
