@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 13 Aug 2026 11:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 11:16:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CPAC 🎯 Tender
+Holcim tender offer: valuation entity selection voided
+Mcap $1.0B · EV $1.4B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1221029/000121390026088677/ea0301898-6k_cementos.htm</link>
+      <guid isPermaLink="false">0001213900-26-088677</guid>
+      <pubDate>Thu, 13 Aug 2026 06:16:24 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$BSP 🤝 Merger
 Acquires Airtable for $1.29B all-cash
@@ -590,16 +599,6 @@ Mcap $169M · EV $64M · Tech</title>
       <pubDate>Wed, 12 Aug 2026 06:28:09 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$CYPH 🔎 Strat Review · Portfolio Review
-Launches strategic review of sirexatamab (spin-out vs partner)
-Mcap $72M · EV $66M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1509745/000110465926094445/tm2620947d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-094445</guid>
-      <pubDate>Wed, 12 Aug 2026 06:15:52 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
     </item>
   </channel>
 </rss>
