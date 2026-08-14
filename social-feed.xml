@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 10:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:16:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LGMK 📦 Going Private
+Acquired by Langham Project for $1.31 cash/share; 256% premium
+256 prem · cash · close Q4 2026
+Mcap $630K · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1566826/000121390026089404/ea0301088-prem14a_logicmark.htm</link>
+      <guid isPermaLink="false">0001213900-26-089404</guid>
+      <pubDate>Fri, 14 Aug 2026 05:16:32 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$SA 🪓 Spinoff
 Distributes Courageous Lake net assets to shareholders
@@ -717,38 +727,6 @@ Mcap $13B · EV $13B · Tech</title>
       <guid isPermaLink="false">0001193125-26-347716</guid>
       <pubDate>Thu, 13 Aug 2026 05:17:17 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SAIH 🤝 Merger
-Acquires Canopy Wave for $60M stock; EGM Aug 26
-stock
-Mcap $38M · EV $38M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847075/000121390026088579/ea0301686-6k_saiheat.htm</link>
-      <guid isPermaLink="false">0001213900-26-088579</guid>
-      <pubDate>Thu, 13 Aug 2026 05:14:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RKLB 🤝 Merger
-Acquires Iridium for $27 cash + 0.24-0.40 RKLB/shr; vote pending
-Iridium Communications · cash+stk
-Mcap $49B · EV $46B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819994/000175392626001452/g085840_s4.htm</link>
-      <guid isPermaLink="false">0001753926-26-001452</guid>
-      <pubDate>Thu, 13 Aug 2026 05:13:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SYNA 🤝 Merger
-Acquired by onsemi; HSR cleared; close mid-2027
-Mcap $4.2B · EV $4.6B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/817720/000114036126032599/ef20080111_425.htm</link>
-      <guid isPermaLink="false">0001140361-26-032599</guid>
-      <pubDate>Thu, 13 Aug 2026 05:13:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
