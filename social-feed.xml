@@ -6,8 +6,39 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 20:44:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:49:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VATE 📍 Stake
+Receives 13D from Interim CEO Paul Voigt; 7.4% stake
+Mcap $103M · EV $758M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1006837/000162102026000003/primary_doc.xml</link>
+      <guid isPermaLink="false">0001621020-26-000003</guid>
+      <pubDate>Fri, 14 Aug 2026 15:49:16 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$RMAX 🤝 Merger
+Shareholders approve acquisition by Real; close in weeks
+Real Brokerage
+Mcap $195M · EV $57M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1581091/000110465926097249/tm2623229d2_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-097249</guid>
+      <pubDate>Fri, 14 Aug 2026 15:44:41 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$NG 🤝 Merger
+Acquires Paulson's 40% Donlin Gold stake in all-share deal; close Q4 2026
+Paulson Advisers · stock
+Mcap $2.6B · EV $2.4B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926097266/tm2619701d27_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-097266</guid>
+      <pubDate>Fri, 14 Aug 2026 15:44:25 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NG 🤝 Merger
 Acquires Paulson's 40% Donlin Gold stake in all-share deal
@@ -656,39 +687,6 @@ Mcap $58M · EV $87M · Financials</title>
       <guid isPermaLink="false">0001753926-26-001485</guid>
       <pubDate>Thu, 13 Aug 2026 15:49:53 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NEM ⚖️ Litigation · Settled
-Settles Nevada JV disputes with Barrick; contributes projects, pays $1.95B
-vs Barrick Mining
-Mcap $124B · EV $120B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1164727/000110465926095968/tm2623048d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-095968</guid>
-      <pubDate>Thu, 13 Aug 2026 15:48:56 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$THRM 🤝 Merger
-Merges with Modine's SpinCo; S-4 effective, proxy mailed
-Modine Manufacturing
-Mcap $1.3B · EV $1.4B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/903129/000119312526349354/d131186d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-349354</guid>
-      <pubDate>Thu, 13 Aug 2026 15:45:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DAN 🤝 Merger
-Acquires Eaton Mobility via split-off; close Q1 2027
-stock
-Mcap $3.0B · EV $4.1B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/26780/000119312526349388/d131127d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-349388</guid>
-      <pubDate>Thu, 13 Aug 2026 15:44:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
