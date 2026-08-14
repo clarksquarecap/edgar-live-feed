@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 12:36:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 12:49:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EGMCF 📤 Divestiture
+Sells Golden Arrow Property to Fairchild Gold; buyer vote passed, close June 2026
+Mcap $3M · EV $3M · Materials</title>
+      <link>https://www.fairchildgold.com/post/fairchild-gold-announces-results-of-its-special-meeting-to-approve-acquisition-of-golden-arrow-prope</link>
+      <guid isPermaLink="false">OTC-531823</guid>
+      <pubDate>Fri, 14 Aug 2026 07:49:51 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CRNX 🤝 Merger
 Vertex merger clears HSR; vote Aug 28
@@ -653,37 +662,6 @@ Mcap $13M · Industrials</title>
       <pubDate>Thu, 13 Aug 2026 08:03:46 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$PFLC 🤝 Merger
-Vote on Banner merger set for Aug 12
-Mcap $192M · Financials</title>
-      <link>https://ir.bankofthepacific.com/overview/default.aspx</link>
-      <guid isPermaLink="false">OTC-531675</guid>
-      <pubDate>Thu, 13 Aug 2026 07:43:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CSTUF 🤝 Merger
-Acquired by US Elemental in de-SPAC; S-4 amended, close H2 2026
-Jindalee Lithium · stock</title>
-      <link>https://kalkinemedia.com/au/news/announcements/jindalee-lithium-submits-amended-sec-form-s-4-to-progress-us-elemental-merger</link>
-      <guid isPermaLink="false">OTC-531672</guid>
-      <pubDate>Thu, 13 Aug 2026 07:43:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SNNC 🤝 Merger · Preliminary
-Enters LOI for reverse merger with GLP-1 clinical and genetic testing partners
-two strategic partners
-Mcap $1M · Comms</title>
-      <link>https://www.newswire.com/news/sibannac-inc-otcid-snnc-enters-into-non-binding-letter-of-intent-for-strategic</link>
-      <guid isPermaLink="false">OTC-531676</guid>
-      <pubDate>Thu, 13 Aug 2026 07:42:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
