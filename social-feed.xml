@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 20:49:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:56:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KCA-UN 🤝 Merger
+Acquires Nth Cycle; $585M EV, $230M trust + $100M PIPE
+stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2102713/000119312526352483/d357677d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-352483</guid>
+      <pubDate>Fri, 14 Aug 2026 15:56:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$APO 📍 Stake
 Receives 13D from LDB 2025 LLC disclosing 0.51% stake
@@ -687,15 +697,6 @@ Mcap $69M · EV $66M · Financials</title>
       <pubDate>Thu, 13 Aug 2026 16:07:53 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
       <category>statutory_conversion</category>
-    </item>
-    <item>
-      <title>$MRAI 📍 Stake
-Receives 13D from Mitchell/Benchmark disclosing 9.3% stake
-Mcap $58M · EV $87M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1844392/000175392626001485/primary_doc.xml</link>
-      <guid isPermaLink="false">0001753926-26-001485</guid>
-      <pubDate>Thu, 13 Aug 2026 15:49:53 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
