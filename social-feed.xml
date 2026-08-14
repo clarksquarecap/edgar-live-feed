@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 21:43:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:55:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BGLC 📍 Stake
@@ -768,38 +768,6 @@ Mcap $242M · EV $738M · Energy</title>
       <guid isPermaLink="false">0001013594-26-000888</guid>
       <pubDate>Thu, 13 Aug 2026 17:31:57 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$CIRC 🪙 Debt Restr.
-Settles SPP litigation; extinguishes $35M convertible note, issues 21.98M shares
-Mcap $63M · EV $571M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1605888/000121390026089264/ea0301845-8k_circle8.htm</link>
-      <guid isPermaLink="false">0001213900-26-089264</guid>
-      <pubDate>Thu, 13 Aug 2026 16:51:39 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>debt_for_equity_swap</category>
-    </item>
-    <item>
-      <title>$VIVK 🤝 Merger · Preliminary
-Signs IOI to acquire M2i Global via equity exchange; 30-day talks
-stock
-Mcap $890K · EV $32M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1450704/000182912626008777/vivakorinc_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-008777</guid>
-      <pubDate>Thu, 13 Aug 2026 16:51:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$LNTH 🤝 Merger
-Acquired by Curium in definitive merger; close H1 2027
-Curium US Holdings
-Mcap $6.6B · EV $6.7B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1521036/000119312526349639/d168705ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-349639</guid>
-      <pubDate>Thu, 13 Aug 2026 16:50:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
