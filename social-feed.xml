@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 11:28:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:34:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RLX 🤝 Merger
@@ -633,28 +633,6 @@ Mcap $1.2B · EV $1.7B · Healthcare</title>
       <pubDate>Thu, 13 Aug 2026 06:36:23 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>accelerated_share_repurchase</category>
-    </item>
-    <item>
-      <title>$AMBP 🔎 Strat Review · Sale
-Controlling shareholder AHSA launches potential sale process; Evercore advising
-advisor: Ardagh Holdings
-Mcap $3.0B · EV $7.2B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1845097/000110465926095457/ambp-20260813x6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-095457</guid>
-      <pubDate>Thu, 13 Aug 2026 06:30:12 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>sale_process</category>
-    </item>
-    <item>
-      <title>$IRDM 🤝 Merger
-Acquired by Rocket Lab in stock deal; HSR cleared, S-4 filed
-stock
-Mcap $5.1B · EV $6.7B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1418819/000175392626001465/g085864_425.htm</link>
-      <guid isPermaLink="false">0001753926-26-001465</guid>
-      <pubDate>Thu, 13 Aug 2026 06:29:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
