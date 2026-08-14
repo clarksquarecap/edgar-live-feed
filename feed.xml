@@ -6,8 +6,26 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 15:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:42:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · SA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1231346/000106299326004389/form6k.htm</link>
+      <guid isPermaLink="false">0001062993-26-004389</guid>
+      <pubDate>Fri, 14 Aug 2026 11:42:33 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>6-K</category>
+      <scanner:headline>Completes spin-out of Courageous Lake project to shareholders</scanner:headline>
+      <scanner:shortName>SEABRIDGE GOLD</scanner:shortName>
+      <scanner:price>32.17</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Completes spin-out of Courageous Lake project to shareholders&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed the spin-out of its Courageous Lake project to shareholders, distributing shares of the project as a separate entity. The distribution was completed in Q2 2026, and the company recognized gains on the distribution. Seabridge retains focus on its KSM and Bronson Corridor projects.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Seabridge Gold Inc., together with its subsidiaries, engages in the acquisition and exploration of gold properties in North America. It explores for gold, silver, copper, and molybdenum deposits. The company was formerly known as Seabridge Resources Inc. and changed its name to Seabridge Gold Inc. in June 2002. Seabridge Gold Inc. was incorporated in 1979 and is based in Toronto, Canada.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-13&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $32.17 · Mkt cap $3.50B · EV $3.80B · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1231346/000106299326004389/0001062993-26-004389-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SA&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-08-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · MGF</title>
       <link>https://www.sec.gov/Archives/edgar/data/811922/000089710126000355/0000897101-26-000355-index.htm</link>
@@ -9570,24 +9588,6 @@
 &lt;p&gt;&lt;i&gt;Px $37.70 · Mkt cap $19.1M · EV $-5.9M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1566044/000094787126000747/0000947871-26-000747-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VYNE, YARW&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2834) · fresh_13d · filed 2026-08-05&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · RMT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/912147/000106299326004045/0001062993-26-004045-index.htm</link>
-      <guid isPermaLink="false">0001062993-26-004045</guid>
-      <pubDate>Wed, 05 Aug 2026 19:50:48 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Receives 13D/A from Saba Capital; stake rises to 7.08%</scanner:headline>
-      <scanner:shortName>ROYCE MICRO-CAP</scanner:shortName>
-      <scanner:price>14.15</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Saba Capital; stake rises to 7.08%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Saba Capital Management, L.P. filed an amended Schedule 13D disclosing a 7.08% stake in Royce Micro-Cap Trust (RMT), up from a prior position. The filing indicates continued accumulation by the activist fund, which has a history of pushing for structural changes at closed-end funds. No specific agenda was stated in Item 4.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Riba Mundo Tecnología S.A. engages in the wholesale and retail trade of computers, peripheral equipment, computer programs, electronic and telecommunications equipment and their components and household appliances. It operates through Smartphones, Tablets, Headphones, and Others segments. The company sells TVs, game consoles, video games, ecosystems, and computer products.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Saba Capital Management, L.P.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.08&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $14.15 · Mkt cap $747.3M · EV $767.3M · EV/Sales 155.8x · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/912147/000106299326004045/0001062993-26-004045-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RMT&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-08-05&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
