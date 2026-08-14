@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 20:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:11:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$ADXPCFD 📍 Stake
@@ -692,16 +692,6 @@ Mcap $1.2B · EV $1.4B · Healthcare</title>
       <pubDate>Thu, 13 Aug 2026 15:12:42 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$LIDR 📉 Delisting · Forced
-Warrants delisted from Nasdaq effective Aug 13
-Mcap $61M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1818644/000135445726000785/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000785</guid>
-      <pubDate>Thu, 13 Aug 2026 15:05:08 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
