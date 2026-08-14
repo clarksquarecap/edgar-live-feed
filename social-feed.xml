@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 11:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:40:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ALOT 🤝 Merger
+Acquired by Arcline for $29.00/share cash; vote Aug 25
+208.5% prem · cash
+Mcap $224M · EV $257M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/8146/000119312526350412/d93740ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-350412</guid>
+      <pubDate>Fri, 14 Aug 2026 06:40:40 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RLX 🤝 Merger
 Acquires 51% of Western European distributor; board control
@@ -623,16 +634,6 @@ Mcap $3.0B · EV $1.5B · Financials</title>
       <pubDate>Thu, 13 Aug 2026 06:59:41 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$COLL 💧 Capital Return · ASR
-Executes $50M ASR with Jefferies; settlement Q4
-Mcap $1.2B · EV $1.7B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1267565/000110465926095464/tm2623090d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-095464</guid>
-      <pubDate>Thu, 13 Aug 2026 06:36:23 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>accelerated_share_repurchase</category>
     </item>
   </channel>
 </rss>
