@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 20:30:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:36:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MYSE 📉 Delisting · Forced
+Warrants delisted from Nasdaq effective Aug 14
+Mcap $12M · EV $10M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1648960/000135445726000791/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000791</guid>
+      <pubDate>Fri, 14 Aug 2026 15:36:00 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$LCLN 📍 Stake
 Insider group files 13D on 88.4% combined stake
@@ -657,35 +667,6 @@ Mcap $9M · EV $9M · Cons Stpl</title>
       <pubDate>Thu, 13 Aug 2026 15:42:08 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$PLQC 🤝 Merger
-Acquires Core + Financial Strategies ($317M AUM) and Core + Tax
-close end of August
-Mcap $182M · Financials</title>
-      <link>https://psbplains.com/wp-content/uploads/2023/12/PAC-Notification_-_Press-Release-8.17.2023.pdf</link>
-      <guid isPermaLink="false">OTC-531721</guid>
-      <pubDate>Thu, 13 Aug 2026 15:35:50 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MTNB 📍 Stake
-Receives 13D/A from Adam Stern; stake now 9.99%
-Mcap $2M · EV $720K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1582554/000092189526002111/primary_doc.xml</link>
-      <guid isPermaLink="false">0000921895-26-002111</guid>
-      <pubDate>Thu, 13 Aug 2026 15:34:59 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BLSM 📍 Stake
-Receives 13D from Cormorant disclosing 11.8% stake
-Mcap $490M · EV $654M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1839970/000092963826003026/primary_doc.xml</link>
-      <guid isPermaLink="false">0000929638-26-003026</guid>
-      <pubDate>Thu, 13 Aug 2026 15:34:36 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
