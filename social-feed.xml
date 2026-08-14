@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 15:45:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:07:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MGF 📍 Stake
@@ -631,25 +631,6 @@ Mcap $42M · EV $46M · Cons Disc</title>
       <pubDate>Thu, 13 Aug 2026 11:52:05 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$FER 📉 Delisting · Voluntary
-Delists from Euronext Amsterdam effective Sept 11
-effective 2026-09-11
-Mcap $48B · EV $57B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468522/000146852226000053/a6keuronextamsterdam130820.htm</link>
-      <guid isPermaLink="false">0001468522-26-000053</guid>
-      <pubDate>Thu, 13 Aug 2026 11:05:03 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-    </item>
-    <item>
-      <title>$ECAT 📍 Stake
-Receives 13D/A from Saba Capital; stake now 14.75%</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1864843/000106299326004252/primary_doc.xml</link>
-      <guid isPermaLink="false">0001062993-26-004252</guid>
-      <pubDate>Thu, 13 Aug 2026 10:59:12 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
