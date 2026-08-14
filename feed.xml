@@ -6,8 +6,25 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 16:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:44:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · TSEOQ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1519061/000110465926096792/tse-20260814x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-096792</guid>
+      <pubDate>Fri, 14 Aug 2026 11:44:27 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>8-K</category>
+      <scanner:headline>Triggers Section 1111 EGM; net assets ≤ half of share capital</scanner:headline>
+      <scanner:shortName>Trinseo</scanner:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Triggers Section 1111 EGM; net assets ≤ half of share capital&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Trinseo PLC&amp;#39;s net assets are half or less of its called-up share capital, triggering an extraordinary general meeting under Section 1111 of the Irish Companies Act. The EGM will be held on September 23, 2026, to consider measures to address the situation. No resolutions are proposed at this time.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Trinseo PLC provides specialty material solutions in the United States, Europe, the Asia-Pacific, and internationally. The company operates through four segments: Engineered Materials, Latex Binders, Polymer Solutions, and Americas Styrenics. The Engineered Materials segment offers rigid thermoplastic compounds and blends, soft thermoplastic elastomers, activated methyl methacrylates, and polymethyl methacrylates resins for consumer electronics, medical, footwear, automotive, wellness, and build…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; EGM on September 23, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Mkt cap $70K · EV $2.73B · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1519061/000110465926096792/0001104659-26-096792-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TSEOQ&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Chemicals / Pharma (2821) · 8k_tier1:8.01 · filed 2026-08-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧬 Spin-Off · SA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1231346/000106299326004389/form6k.htm</link>
@@ -9570,24 +9587,6 @@
 &lt;p&gt;&lt;i&gt;Px $10.21 · Mkt cap $391.4M · EV $390.1M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2088295/000121390026085816/0001213900-26-085816-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BBCQ, BBCQU, BBCQW&lt;/b&gt; · DEFM14A · Holding / Investment Offices (6770) · prefill_form:DEFM14A · filed 2026-08-06&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · VYNE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1566044/000094787126000747/0000947871-26-000747-index.htm</link>
-      <guid isPermaLink="false">0000947871-26-000747</guid>
-      <pubDate>Wed, 05 Aug 2026 20:14:35 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Discloses 9.97% stake via VYNE merger</scanner:headline>
-      <scanner:shortName>Yarrow Bioscience</scanner:shortName>
-      <scanner:price>37.70</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Discloses 9.97% stake via VYNE merger&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;OrbiMed Advisors filed a Schedule 13D disclosing a 9.97% aggregate stake in Yarrow Bioscience (VYNE) as of July 27, 2026, following the merger of a VYNE subsidiary with Yarrow. OrbiMed received 233,019 shares and warrants for 4,084,827 shares in connection with the merger.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.97&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-27&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $37.70 · Mkt cap $19.1M · EV $-5.9M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1566044/000094787126000747/0000947871-26-000747-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VYNE, YARW&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2834) · fresh_13d · filed 2026-08-05&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
