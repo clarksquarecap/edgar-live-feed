@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 10:16:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:23:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BAK 🪙 Debt Restr.
+Going concern flagged; negative equity R$13B
+Mcap $809M · EV $13B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426004244/bakitr2q26_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004244</guid>
+      <pubDate>Fri, 14 Aug 2026 05:23:56 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$LGMK 📦 Going Private
 Acquired by Langham Project for $1.31 cash/share; 256% premium
@@ -663,69 +672,6 @@ Mcap $490K · EV $423M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1776738/000114036126032617/ef20080128_8k.htm</link>
       <guid isPermaLink="false">0001140361-26-032617</guid>
       <pubDate>Thu, 13 Aug 2026 05:30:09 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PLMUF 🤝 Merger
-Merges with Tactical Resources; Nasdaq approval; close July 28
-stock · close 2026-07-28</title>
-      <link>https://tacticalresources.com/tactical-resources-and-plum-acquisition-corp-iii-announce-receipt-of-nasdaq-approval-transaction-expected-to-close-on-july-28-2026/</link>
-      <guid isPermaLink="false">OTC-531618</guid>
-      <pubDate>Thu, 13 Aug 2026 05:18:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AMBP 🔎 Strat Review · Sale
-Controlling shareholder launches sale process; Evercore retained
-advisor: unnamed third-party buyer
-Mcap $3.0B · EV $7.2B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1845097/000110465926095238/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-095238</guid>
-      <pubDate>Thu, 13 Aug 2026 05:18:00 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>sale_process</category>
-    </item>
-    <item>
-      <title>$ON 🤝 Merger
-HSR cleared for Synaptics acquisition
-Synaptics Incorporated · close mid-2027
-Mcap $32B · EV $33B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1097864/000114036126032594/ef20080111_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-032594</guid>
-      <pubDate>Thu, 13 Aug 2026 05:17:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SGMOQ 🔥 Insolvency · Ch. 11
-Sells Fabry program to PTC, platforms to Lilly for $163.55M cash + $100M milestones
-advisor: PTC Therapeutics and Eli Lilly
-Mcap $60M · EV $52M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1001233/000119312526347524/d125617d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-347524</guid>
-      <pubDate>Thu, 13 Aug 2026 05:17:33 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$SSAC 🤝 Merger
-Files S-4 for Mobilewalla business combination
-Mcap $242M · EV $242M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2081300/000119312526347537/d54170d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-347537</guid>
-      <pubDate>Thu, 13 Aug 2026 05:17:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SMTC 📤 Divestiture
-Sells cellular module business to Compal for $62M cash
-to Compal Electronics · $62 million deal · close Q4 FY2027
-Mcap $13B · EV $13B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/88941/000119312526347716/d123711d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-347716</guid>
-      <pubDate>Thu, 13 Aug 2026 05:17:17 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>
