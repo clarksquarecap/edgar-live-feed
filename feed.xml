@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 20:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:04:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · BBBY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1130713/000114036126033184/ef20080091_25.htm</link>
+      <guid isPermaLink="false">0001140361-26-033184</guid>
+      <pubDate>Fri, 14 Aug 2026 16:04:28 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>25</category>
+      <scanner:headline>Voluntarily delists from NYSE effective Aug 14</scanner:headline>
+      <scanner:shortName>NEIGHBORHOOD INTELLIGENCE</scanner:shortName>
+      <scanner:price>5.56</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Voluntarily delists from NYSE effective Aug 14&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Voluntarily withdrew its common stock and warrants from listing on the NYSE, effective August 14, 2026. The company filed Form 25 under Rule 12d2-2(c) for voluntary withdrawal.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Bed Bath &amp;amp; Beyond, Inc. operates as an e-commerce-focused retailer in the United States and Canada. The company offers furniture, bedding, and bath essentials; patio and outdoor furniture, area rugs, tabletop and cookware, décor, storage, jewelry, watches, and fashion; and other products under the Bed Bath &amp;amp; Beyond, buybuy BABY, Overstock, and Zulily brands. It also provides add-on services across platforms, including warranties, shipping insurance, and installation services.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-14&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.56 · Mkt cap $431.7M · EV $318.0M · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1130713/000114036126033184/0001140361-26-033184-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BBBY, BBBY-WT&lt;/b&gt; · 25 · Retail — Misc (5961) · prefill_form:25 · filed 2026-08-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · TBCV</title>
       <link>https://www.sec.gov/Archives/edgar/data/2140030/000121390026090217/0001213900-26-090217-index.htm</link>
@@ -9543,25 +9562,6 @@
 &lt;p&gt;&lt;i&gt;Px $6.23 · Mkt cap $310.2M · EV $1.46B · Fwd P/E 5.8x · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1534254/000110465926091692/0001104659-26-091692-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CICB, CICC, CION&lt;/b&gt; · 8-K · Items 2.02, 7.01, 9.01 · 8k_tier1:7.01 · filed 2026-08-06&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔎 Strategic Review · Formal Alternatives · AQB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1603978/000160397826000086/aqb-20260806x8k.htm</link>
-      <guid isPermaLink="false">0001603978-26-000086</guid>
-      <pubDate>Thu, 06 Aug 2026 07:38:35 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-      <category>8-K</category>
-      <scanner:headline>Expands strategic review of Ohio property to power infrastructure</scanner:headline>
-      <scanner:shortName>AQUABOUNTY TECHNOLOGIES</scanner:shortName>
-      <scanner:price>0.9900</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Expands strategic review of Ohio property to power infrastructure&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is expanding its strategic review of its Pioneer, Ohio property to include power infrastructure and energy development opportunities. The site offers 50 MW substation capacity, competitive electricity, and a 5.25M gpd groundwater permit, potentially attractive to data centers and energy developers. No assurance of any transaction.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; AquaBounty Technologies, Inc. operates as a land-based aquaculture company. The company was formerly known as Aqua Bounty Farms, Inc. and changed its name to AquaBounty Technologies, Inc. in June 2004. AquaBounty Technologies, Inc. was incorporated in 1991 and is headquartered in Harvard, Massachusetts.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-06&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.9900 · Mkt cap $5.1M · EV $8.5M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1603978/000160397826000086/0001603978-26-000086-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AQB&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Fishing (0900) · 8k_tier1:7.01 · filed 2026-08-06&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
