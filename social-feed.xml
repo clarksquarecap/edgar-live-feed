@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 11:11:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:16:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RLX 🤝 Merger
@@ -674,36 +674,6 @@ Mcap $7M · EV $7M · Healthcare</title>
       <guid isPermaLink="false">0001178913-26-004098</guid>
       <pubDate>Thu, 13 Aug 2026 06:17:04 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SLND 🪙 Debt Restr.
-Converts $150.86M surety debt to senior preferred shares
-Mcap $38M · EV $320M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1883814/000182912626008737/southland_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-008737</guid>
-      <pubDate>Thu, 13 Aug 2026 06:16:38 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>debt_for_equity_swap</category>
-    </item>
-    <item>
-      <title>$CPAC 🎯 Tender
-Holcim tender offer: valuation entity selection voided
-Mcap $1.0B · EV $1.4B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1221029/000121390026088677/ea0301898-6k_cementos.htm</link>
-      <guid isPermaLink="false">0001213900-26-088677</guid>
-      <pubDate>Thu, 13 Aug 2026 06:16:24 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$BSP 🤝 Merger
-Acquires Airtable for $1.29B all-cash
-cash
-Mcap $23B · EV $27B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2004711/000200471126000011/bsp-20260630x6k.htm</link>
-      <guid isPermaLink="false">0002004711-26-000011</guid>
-      <pubDate>Thu, 13 Aug 2026 06:14:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
