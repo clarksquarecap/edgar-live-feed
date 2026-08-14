@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 13:25:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:37:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EGMCF 📤 Divestiture
@@ -631,15 +631,6 @@ Mcap $101M · EV $104M · Financials</title>
       <pubDate>Thu, 13 Aug 2026 09:58:48 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$EWSB 📍 Stake
-Files 13D; 9.93% stake, board seat
-Mcap $7M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2013792/000094337426000385/primary_doc.xml</link>
-      <guid isPermaLink="false">0000943374-26-000385</guid>
-      <pubDate>Thu, 13 Aug 2026 08:35:19 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
