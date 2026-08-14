@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 14 Aug 2026 15:27:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:45:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MGF 📍 Stake
@@ -650,17 +650,6 @@ Receives 13D/A from Saba Capital; stake now 14.75%</title>
       <guid isPermaLink="false">0001062993-26-004252</guid>
       <pubDate>Thu, 13 Aug 2026 10:59:12 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ACB 🤝 Merger · Unsolicited
-Receives unsolicited $4.00/share bid from Curaleaf
-Curaleaf Holdings · cash+stk
-Mcap $172M · EV $106M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1683541/000119312526348364/d156067d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-348364</guid>
-      <pubDate>Thu, 13 Aug 2026 10:41:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
