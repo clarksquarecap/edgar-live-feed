@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 15 Aug 2026 21:06:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 21:12:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$POWW 📍 Stake
@@ -197,15 +197,6 @@ Spun off from MSG Sports; 1-for-2 distribution; NYSE: MSGR</title>
       <guid isPermaLink="false">0001193125-26-352589</guid>
       <pubDate>Fri, 14 Aug 2026 16:15:31 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$BRVE 📍 Stake
-Receives 13D from Andreessen Horowitz disclosing 11.4% stake
-Mcap $1.7B · EV $1.7B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2131524/000188947626000004/primary_doc.xml</link>
-      <guid isPermaLink="false">0001889476-26-000004</guid>
-      <pubDate>Fri, 14 Aug 2026 16:07:54 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
