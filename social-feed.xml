@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 15 Aug 2026 21:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 21:41:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$POWW 📍 Stake
@@ -52,53 +52,6 @@ Mcap $240K · Cons Disc</title>
       <guid isPermaLink="false">0001493152-26-038541</guid>
       <pubDate>Fri, 14 Aug 2026 17:27:18 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BGLC 📍 Stake
-CEO receives 338,709-share compensation award; stake now 11.5%
-Mcap $4M · EV $350K · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1737523/000152013826000354/primary_doc.xml</link>
-      <guid isPermaLink="false">0001520138-26-000354</guid>
-      <pubDate>Fri, 14 Aug 2026 16:37:05 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$CTVA 🪓 Spinoff
-Files amended Form 10 for Vylor seed spin-off
-Mcap $52B · EV $55B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526352659/d163420d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-352659</guid>
-      <pubDate>Fri, 14 Aug 2026 16:36:37 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$IHT 🔎 Strat Review · Strat Alts
-Pursuing reverse merger partner; positive discussions
-Mcap $15M · EV $25M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/82473/000149315226038529/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-038529</guid>
-      <pubDate>Fri, 14 Aug 2026 16:36:25 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$DSX 💥 Busted M&amp;A
-Withdraws offer for Genco after board demands $36.91/share
-Mcap $299M · EV $632M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1318885/000091957426005573/p15052431_6-k.htm</link>
-      <guid isPermaLink="false">0000919574-26-005573</guid>
-      <pubDate>Fri, 14 Aug 2026 16:36:11 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$XINRY 💧 Capital Return · Recap
-Cancels 45.9M shares surrendered by insiders
-Mcap $80K · EV $794M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1398453/000110465926097358/tm2623320d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-097358</guid>
-      <pubDate>Fri, 14 Aug 2026 16:36:00 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
