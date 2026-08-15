@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 15 Aug 2026 20:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:21:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$POWW 📍 Stake
@@ -416,25 +416,6 @@ Mcap $19M · EV $15M · Comms</title>
       <pubDate>Fri, 14 Aug 2026 15:26:50 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$SES 📉 Delisting · Forced
-NYSE delists SES WS warrants; trading suspended
-Mcap $227M · EV $71M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819142/000181914226000047/ses-20260813x8k.htm</link>
-      <guid isPermaLink="false">0001819142-26-000047</guid>
-      <pubDate>Fri, 14 Aug 2026 15:19:16 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$FRSX 💥 Busted M&amp;A
-Shareholders reject VisionWave exchange; deal terminated
-Mcap $6M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1691221/000149315226038332/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-038332</guid>
-      <pubDate>Fri, 14 Aug 2026 15:19:04 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
