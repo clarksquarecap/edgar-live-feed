@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 15 Aug 2026 20:32:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:38:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$POWW 📍 Stake
@@ -326,47 +326,6 @@ Mcap $2.6B · EV $2.4B · Materials</title>
       <pubDate>Fri, 14 Aug 2026 15:44:17 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$RMAX 🤝 Merger
-Acquired by Real Brokerage; shareholders approve
-The Real Brokerage
-Mcap $195M · EV $57M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1581091/000110465926097203/tm2623076d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-097203</guid>
-      <pubDate>Fri, 14 Aug 2026 15:38:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$REAX 🤝 Merger
-Securityholders approve merger with RE/MAX; 99% for
-RE/MAX Holdings
-Mcap $355M · EV $292M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1862461/000110465926097232/tm2623229d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-097232</guid>
-      <pubDate>Fri, 14 Aug 2026 15:37:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WBUY 🪙 Debt Restr.
-Settles $557K payables with 728K shares (12.28% dilution)
-Mcap $4M · EV $2M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1946703/000121390026090142/ea0302142-6k_webuy.htm</link>
-      <guid isPermaLink="false">0001213900-26-090142</guid>
-      <pubDate>Fri, 14 Aug 2026 15:36:41 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$MYSE 📉 Delisting · Forced
-Warrants delisted from Nasdaq effective Aug 14
-Mcap $12M · EV $10M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1648960/000135445726000791/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000791</guid>
-      <pubDate>Fri, 14 Aug 2026 15:36:00 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
