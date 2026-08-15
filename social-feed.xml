@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 15 Aug 2026 10:27:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 10:33:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$POWW 📍 Stake
@@ -714,16 +714,6 @@ Mcap $1M · EV $6M · Cons Disc</title>
       <pubDate>Fri, 14 Aug 2026 05:33:21 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GCDT 💧 Capital Return · Recap
-Recapitalizes with dual-class shares (50:1 voting); 6-for-1 consolidation
-Mcap $6M · EV $11M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1926293/000175392626001498/g085869_6k.htm</link>
-      <guid isPermaLink="false">0001753926-26-001498</guid>
-      <pubDate>Fri, 14 Aug 2026 05:33:11 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
