@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 15 Aug 2026 20:49:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 21:01:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$POWW 📍 Stake
@@ -235,46 +235,6 @@ Mcap $432M · EV $318M · Cons Disc</title>
       <pubDate>Fri, 14 Aug 2026 16:04:28 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$TBCV 📍 Stake
-Discloses 20.78% beneficial ownership in TBCV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2140030/000121390026090217/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-090217</guid>
-      <pubDate>Fri, 14 Aug 2026 15:58:33 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$LPSN 🤝 Merger
-Acquired by SoundHound AI; shareholder vote Aug 20
-stock
-Mcap $22M · EV $314M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1102993/000110299326000103/a425filing8_14-internalcomm.htm</link>
-      <guid isPermaLink="false">0001102993-26-000103</guid>
-      <pubDate>Fri, 14 Aug 2026 15:56:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$REEUF 🤝 Merger
-Acquires InoBat in business combination
-InoBat AS
-Mcap $112M · EV $121M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1889112/000110465926097288/tm2623239d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-097288</guid>
-      <pubDate>Fri, 14 Aug 2026 15:56:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$KCA-UN 🤝 Merger
-Acquires Nth Cycle; $585M EV, $230M trust + $100M PIPE
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2102713/000119312526352483/d357677d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-352483</guid>
-      <pubDate>Fri, 14 Aug 2026 15:56:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
