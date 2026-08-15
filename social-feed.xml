@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 15 Aug 2026 20:26:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:32:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$POWW 📍 Stake
@@ -367,45 +367,6 @@ Mcap $12M · EV $10M · Tech</title>
       <pubDate>Fri, 14 Aug 2026 15:36:00 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$LCLN 📍 Stake
-Insider group files 13D on 88.4% combined stake
-Mcap $893M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1925283/000119312526352320/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-352320</guid>
-      <pubDate>Fri, 14 Aug 2026 15:30:03 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ELME 📤 Divestiture
-Sells Bethesda community for $58M cash
-$58.0 million deal · close 2026-08-11
-Mcap $144M · EV $847M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/104894/000010489426000107/elme-20260811.htm</link>
-      <guid isPermaLink="false">0000104894-26-000107</guid>
-      <pubDate>Fri, 14 Aug 2026 15:27:57 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CSR 📤 Divestiture
-Sells 14 multifamily communities for $318.8M; potential $50-60M special distribution
-$318.8 million deal · close Completed
-Mcap $952M · EV $2.1B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/798359/000079835926000084/iret-20260811.htm</link>
-      <guid isPermaLink="false">0000798359-26-000084</guid>
-      <pubDate>Fri, 14 Aug 2026 15:27:48 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$XAGE 🪙 Debt Restr.
-Settles Puritan litigation; exchanges defaulted note &amp; warrant for $2.35M new convertible notes
-Mcap $550K · EV $640K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1842939/000143774926028011/xage20260805_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-028011</guid>
-      <pubDate>Fri, 14 Aug 2026 15:27:15 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>distressed_exchange</category>
     </item>
   </channel>
 </rss>
