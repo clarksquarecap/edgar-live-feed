@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 15 Aug 2026 12:09:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 12:27:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$POWW 📍 Stake
@@ -604,35 +604,6 @@ Mcap $3M · EV $2M · Industrials</title>
       <guid isPermaLink="false">0001437749-26-027834</guid>
       <pubDate>Fri, 14 Aug 2026 07:30:02 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$EXEL 📍 Stake
-Discloses 5.6% stake in Exelixis via 13D/A
-Mcap $13B · EV $11B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/939767/000090883426000419/primary_doc.xml</link>
-      <guid isPermaLink="false">0000908834-26-000419</guid>
-      <pubDate>Fri, 14 Aug 2026 07:23:42 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$PLCE 👀 Activist
-Receives 13D/A from Mithaq Capital; stake now 61.1%
-Mithaq Capital SPC
-Mcap $53M · EV $682M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1041859/000183460026000020/primary_doc.xml</link>
-      <guid isPermaLink="false">0001834600-26-000020</guid>
-      <pubDate>Fri, 14 Aug 2026 07:23:06 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$DEC 🤝 Merger · Preliminary
-Confirms preliminary talks to acquire Birch Resources
-Mcap $948M · EV $3.8B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1922446/000192244626000077/dec-20260814.htm</link>
-      <guid isPermaLink="false">0001922446-26-000077</guid>
-      <pubDate>Fri, 14 Aug 2026 07:22:45 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
