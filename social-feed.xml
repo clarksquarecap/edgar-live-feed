@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 15 Aug 2026 18:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:16:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$POWW 📍 Stake
@@ -461,16 +461,6 @@ Mcap $24M · EV $87M · Healthcare</title>
       <guid isPermaLink="false">0001171520-26-000229</guid>
       <pubDate>Fri, 14 Aug 2026 13:17:54 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$DTCKF 📉 Delisting · Forced
-Final Nasdaq delisting; shares on OTC under DTCKF
-Mcap $1M · EV $3M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1949478/000168316826006451/davis_6k.htm</link>
-      <guid isPermaLink="false">0001683168-26-006451</guid>
-      <pubDate>Fri, 14 Aug 2026 13:11:44 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
