@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 15 Aug 2026 18:21:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:33:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$POWW 📍 Stake
@@ -443,15 +443,6 @@ Sponsor group increases stake to 30.4%</title>
       <guid isPermaLink="false">0001193125-26-352107</guid>
       <pubDate>Fri, 14 Aug 2026 15:04:20 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$DMB 🎯 Tender
-Responds to tender offer with 'Stop, Look, Listen' letter
-Mcap $196M · EV $237M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1565381/000207184426001043/dmb_stoplooklistenletter4fin.htm</link>
-      <guid isPermaLink="false">0002071844-26-001043</guid>
-      <pubDate>Fri, 14 Aug 2026 13:29:37 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
