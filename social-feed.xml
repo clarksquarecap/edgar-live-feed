@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 15 Aug 2026 20:21:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:26:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$POWW 📍 Stake
@@ -406,16 +406,6 @@ Mcap $550K · EV $640K · Healthcare</title>
       <pubDate>Fri, 14 Aug 2026 15:27:15 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
       <category>distressed_exchange</category>
-    </item>
-    <item>
-      <title>$MSGM 💧 Capital Return · Recap
-Repurchases 904,395 shares to retire Class B; equal voting rights
-Mcap $19M · EV $15M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1821175/000149315226038359/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-038359</guid>
-      <pubDate>Fri, 14 Aug 2026 15:26:50 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
