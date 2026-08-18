@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 20:06:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:16:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BIDU 🌍 Re-domicile
+Converts to dual-primary HKEX listing; EGM Aug 26
+Mcap $35B · EV $35B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1329099/000119312526355431/d112854d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-355431</guid>
+      <pubDate>Tue, 18 Aug 2026 15:16:44 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+      <category>dual_primary_listing</category>
+    </item>
     <item>
       <title>$WRLD 👀 Activist
 Receives 13D/A from Prescott Group raising stake to ~70%
@@ -533,57 +543,6 @@ Mcap $118M · EV $119M · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/2046656/000121390026090767/ea0302148-6k_happy.htm</link>
       <guid isPermaLink="false">0001213900-26-090767</guid>
       <pubDate>Mon, 17 Aug 2026 15:22:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PFLC 🤝 Merger
-Acquired by Banner; all approvals received; close Sept 1
-close 2026-09-01
-Mcap $192M · Financials</title>
-      <link>https://www.stocktitan.net/news/BANR/banner-corporation-and-pacific-financial-corporation-set-closing-p2fz8jxrpsm7.html</link>
-      <guid isPermaLink="false">OTC-532048</guid>
-      <pubDate>Mon, 17 Aug 2026 15:14:36 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$APLM 📍 Stake
-CEO raises stake to 49.8% via $5.55M PIPE and note conversion
-Mcap $40M · EV $37M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1944885/000119312526354020/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-354020</guid>
-      <pubDate>Mon, 17 Aug 2026 15:08:02 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$PUSA 🤝 Merger
-Merges with Powerus; S-4 declared effective
-Mcap $75M · EV $38M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2009312/000149315226038731/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-038731</guid>
-      <pubDate>Mon, 17 Aug 2026 15:07:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$OPTT 🔎 Strat Review · Strat Alts
-Initiates strategic alternatives review; retains Bowen, Inc.
-Mcap $42M · EV $44M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1378140/000149315226038739/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-038739</guid>
-      <pubDate>Mon, 17 Aug 2026 15:07:20 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$PUSA 🤝 Merger
-Acquires Powerus; S-4 effective; close expected Q4
-close Q4 2026
-Mcap $75M · EV $38M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2009312/000149315226038735/form425.htm</link>
-      <guid isPermaLink="false">0001493152-26-038735</guid>
-      <pubDate>Mon, 17 Aug 2026 15:06:54 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
