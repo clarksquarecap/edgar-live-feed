@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 10:23:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:10:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CYPH 🤝 Merger
+Acquires Moria Mining assets for $33.3M in pre-funded warrant
+33333333 deal · stock · close 2026-08-17
+Mcap $72M · EV $66M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1509745/000110465926098120/tm2623453d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-098120</guid>
+      <pubDate>Tue, 18 Aug 2026 06:10:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CNXU 📍 Stake
 Director Sharpe reports 5.4% stake after warrant vesting
@@ -581,27 +592,6 @@ Mcap $6M · EV $4M · Comms</title>
       <pubDate>Mon, 17 Aug 2026 07:07:23 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$MAIR 🤝 Merger
-Acquires ebm-papst Mulfingen for €4.775B cash; close by Dec 31
-€4,775.0M deal · cash · close 2026-12-31
-Mcap $16B · EV $19B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2098430/000162828026057213/mair-20260815.htm</link>
-      <guid isPermaLink="false">0001628280-26-057213</guid>
-      <pubDate>Mon, 17 Aug 2026 06:06:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WILC 📉 Delisting · Voluntary
-Voluntary delisting from Nasdaq effective Aug 17
-Mcap $390M · EV $306M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1030997/000117891326004162/zk2635975.htm</link>
-      <guid isPermaLink="false">0001178913-26-004162</guid>
-      <pubDate>Mon, 17 Aug 2026 06:05:42 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
