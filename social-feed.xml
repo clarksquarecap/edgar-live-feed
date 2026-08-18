@@ -6,8 +6,41 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 20:27:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:32:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OPAD 📉 Delisting · Voluntary
+Voluntary delisting from NYSE; transfers to Nasdaq Aug 31
+effective 2026-08-31
+Mcap $20M · EV $101M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1825024/000119312526355453/d159544d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-355453</guid>
+      <pubDate>Tue, 18 Aug 2026 15:32:59 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
+    <item>
+      <title>$LAES 🤝 Merger
+Subscribes $10M in Pubco shares; BCA outside date extended to Oct 31
+WISeSat.Space Holdings · stock · close 2026-10-31
+Mcap $490M · EV $70M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1951222/000121390026091234/ea0302503-6k_sealsq.htm</link>
+      <guid isPermaLink="false">0001213900-26-091234</guid>
+      <pubDate>Tue, 18 Aug 2026 15:28:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$WKEY 🤝 Merger
+Sells SpaceAIQ stake in CAC SPAC merger; SEALSQ invests $10M; outside date Oct 31
+close 2026-10-31
+Mcap $57M · EV $43M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026091235/ea0302501-6k_wisekey.htm</link>
+      <guid isPermaLink="false">0001213900-26-091235</guid>
+      <pubDate>Tue, 18 Aug 2026 15:27:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CALM 🤝 Merger
 Proxy materials for acquisition
@@ -546,16 +579,6 @@ Mcap $66M · EV $38M · Healthcare</title>
       <pubDate>Mon, 17 Aug 2026 15:33:52 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces proxy contest from former CEO Garg seeking board removal
-Vishal Garg
-Mcap $515M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000162828026057388/betr-defa14anotice.htm</link>
-      <guid isPermaLink="false">0001628280-26-057388</guid>
-      <pubDate>Mon, 17 Aug 2026 15:32:11 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
