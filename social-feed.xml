@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 21:29:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:30:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MEGI 📍 Stake
+Saba Capital raises stake to 5.63% in MEGI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1855066/000106299326004497/primary_doc.xml</link>
+      <guid isPermaLink="false">0001062993-26-004497</guid>
+      <pubDate>Tue, 18 Aug 2026 16:30:30 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$CSAN 📉 Delisting · Voluntary
+Voluntary NYSE delisting of ADSs; last trade Sept 18
+effective 2026-09-18
+Mcap $2.5B · EV $16B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1430162/000155485526001883/MainDocument.htm</link>
+      <guid isPermaLink="false">0001554855-26-001883</guid>
+      <pubDate>Tue, 18 Aug 2026 16:30:08 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$BETR ⚔️ Proxy
 Garg Group launches consent solicitation to oust 5 directors
@@ -621,17 +640,6 @@ Mcap $185M · EV $134M · Healthcare</title>
       <pubDate>Mon, 17 Aug 2026 16:36:54 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$LPSN 🤝 Merger
-Acquired by SoundHound AI in all-stock deal; vote pending
-stock
-Mcap $22M · EV $314M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1102993/000119312526354307/d402891d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-354307</guid>
-      <pubDate>Mon, 17 Aug 2026 16:29:50 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
