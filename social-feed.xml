@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 20:32:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:39:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CMII 🤝 Merger
+Acquires Elroy Air in SPAC merger; to trade as IPXG
+Mcap $314M · EV $313M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2088805/000121390026091247/ea0302569-425_columbus2.htm</link>
+      <guid isPermaLink="false">0001213900-26-091247</guid>
+      <pubDate>Tue, 18 Aug 2026 15:39:35 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OPAD 📉 Delisting · Voluntary
 Voluntary delisting from NYSE; transfers to Nasdaq Aug 31
@@ -549,36 +559,6 @@ Mcap $251M · EV $379M · Cons Stpl</title>
       <guid isPermaLink="false">0001104659-26-097890</guid>
       <pubDate>Mon, 17 Aug 2026 15:41:53 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$FEMY 📍 Stake
-Takes 9.99% stake in Femasys via $12M PIPE
-Mcap $7M · EV $6M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1339005/000110465926097888/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-097888</guid>
-      <pubDate>Mon, 17 Aug 2026 15:35:11 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$GHI 📤 Divestiture
-Sells Vantage at Loveland for $23.6M net cash; redeems equity
-close 2026-08-13
-Mcap $135M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1059142/000119312526354147/ghi-20260817.htm</link>
-      <guid isPermaLink="false">0001193125-26-354147</guid>
-      <pubDate>Mon, 17 Aug 2026 15:34:12 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$DCGO 🤝 Merger
-Acquires Hicuity Health for 2% stock + 3.5% earnout
-stock
-Mcap $66M · EV $38M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1822359/000162828026057387/dcgo-20260816.htm</link>
-      <guid isPermaLink="false">0001628280-26-057387</guid>
-      <pubDate>Mon, 17 Aug 2026 15:33:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
