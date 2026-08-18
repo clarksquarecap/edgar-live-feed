@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 20:39:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:40:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · KPLT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1785424/000110465926098368/0001104659-26-098368-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-098368</guid>
+      <pubDate>Tue, 18 Aug 2026 15:40:46 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Receives 13D from Jones group disclosing 21.8% stake</scanner:headline>
+      <scanner:shortName>Katapult Holdings</scanner:shortName>
+      <scanner:price>8.00</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D from Jones group disclosing 21.8% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;William Allan Jones and related entities filed a Schedule 13D disclosing beneficial ownership of 18,502,578 shares (21.8%) of Katapult Holdings. The shares were acquired as consideration in the merger of CCF Holdings into Katapult, which closed on August 11, 2026. The reporting persons state the shares were acquired for investment purposes.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Katapult Holdings, Inc. operates a lease-to-own platform for nonprime consumers in the United States. The company’s platform integrates retailers and e-commerce platforms to enable non-prime customers to purchase everyday durable goods. It also offers Katapult Pay, a POS integrations and mobile app that allows consumers to leverage its virtual credit card technology to shop various durable goods merchants featured in app marketplace.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; William Allan Jones and affiliates&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 21.8&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-18&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $8.00 · Mkt cap $31.6M · EV $116.0M · Fwd EV/EBITDA 6.3x · Financials / Consumer Finance&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1785424/000110465926098368/0001104659-26-098368-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KPLT&lt;/b&gt; · SCHEDULE 13D · Business Services (7359) · fresh_13d · filed 2026-08-18&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙 Debt Restr. · NVNI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1965143/000121390026091245/ea0302441-6k_nvni.htm</link>
+      <guid isPermaLink="false">0001213900-26-091245</guid>
+      <pubDate>Tue, 18 Aug 2026 15:39:59 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>6-K</category>
+      <scanner:headline>Faces $12.1M debt acceleration; evaluating restructuring</scanner:headline>
+      <scanner:shortName>Nvni Group</scanner:shortName>
+      <scanner:price>1.04</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Faces $12.1M debt acceleration; evaluating restructuring&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received an acceleration notice from Amiens Technology Investments demanding $12,102,225.02 plus 18% default interest after Amiens filed a lawsuit alleging missed note payments and failure to perfect security interests. The company disputes the claims and is evaluating legal and strategic alternatives, including broader corporate and capital restructuring initiatives.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nvni Group Limited, through its subsidiaries, operates in business-to-business software as a service (SaaS) market in Brazil and Latin America. It provides software subscription and licensing services, in which clients have access to software on multiple devices simultaneously; maintenance services, including technical support and technological evolution; and cloud computing, client, data analytics, and other services. Nvni Group Limited is headquartered in São Paulo, Brazil.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Amiens Technology Investments LLC&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Company response to lawsuit; restructuring evaluation&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.04 · Mkt cap $10.4M · EV $18.5M · Fwd EV/EBITDA 1.3x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1965143/000121390026091245/0001213900-26-091245-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NVNI, NVNIW&lt;/b&gt; · 6-K · Business Services (7372) · prefill_form:6-K · filed 2026-08-18&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · CMII</title>
       <link>https://www.sec.gov/Archives/edgar/data/2088805/000121390026091247/ea0302569-425_columbus2.htm</link>
@@ -9540,45 +9578,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.45 · Mkt cap $74.5M · EV $37.9M · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2009312/000149315226036713/0001493152-26-036713-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PUSA&lt;/b&gt; · S-4/A · Amusement / Recreation (7997) · prefill_form:S-4 · filed 2026-08-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚔️ Proxy Contest · PCYO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/276720/000110465926092839/pcyo-20250831xdefa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-092839</guid>
-      <pubDate>Mon, 10 Aug 2026 05:12:05 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Faces 5-director proxy contest from Maran Partners</scanner:headline>
-      <scanner:shortName>PURE CYCLE</scanner:shortName>
-      <scanner:price>10.69</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Faces 5-director proxy contest from Maran Partners&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received notice from Maran Partners Fund nominating five individuals for election to the board at the 2027 Annual Meeting. The Nominating and Corporate Governance Committee will review the nominees; no shareholder action required now. The board will make its formal recommendation in the proxy statement.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Pure Cycle Corporation provides water and wastewater services in the United States. It operates in three segments: Water and Wastewater Resource Development, Land Development, and Single-Family Rental. The company engages in the wholesale water production, storage, treatment, and distribution systems; wastewater collection and treatment systems; development of land into master planned communities; and construction and leasing of single-family homes.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Maran Partners Fund, LP&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-07&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2027 Annual Meeting&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.69 · Mkt cap $254.7M · EV $260.4M · Utilities / Water Utilities&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/276720/000110465926092839/0001104659-26-092839-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PCYO&lt;/b&gt; · DEFA14A · Utilities (4941) · prefill_form:DEFA14A · filed 2026-08-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · ATAI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2081043/000114036126031922/ny20078129x2_defm14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-031922</guid>
-      <pubDate>Mon, 10 Aug 2026 05:11:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFM14A</category>
-      <scanner:headline>Acquired by Eli Lilly for $6.75 cash + CVR (up to $2.50)</scanner:headline>
-      <scanner:shortName>AtaiBeckley</scanner:shortName>
-      <scanner:price>7.25</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Eli Lilly for $6.75 cash + CVR (up to $2.50)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Agreed to be acquired by Eli Lilly and Company for $6.75 per share in cash plus one contingent value right (CVR) worth up to $2.50 per share upon achievement of clinical and regulatory milestones. The merger agreement was signed on July 15, 2026, and the special meeting to vote on the merger is scheduled for September 8, 2026. The cash consideration represents a premium of approximately 40% to the 30-day volume-weighted average trading price.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; AtaiBeckley Inc., a clinical-stage biopharmaceutical company, engages in the research, development, and commercialization of mental health treatments in the United States, Germany, and Canada. The company develops BPL-003, an intranasal formulation of the benzoate salt form of mebufotenin that is in Phase 2a and 2b clinical studies for treatment resistant depression (TRD) and alcohol use disorder; RL-007, an orally bioavailable compound, which is a pro-cognitive neuromodulator in Phase 2b trial …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Eli Lilly and Company&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; $6.75 cash + CVR (up to $2.50)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; ~40%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote on Sept 8, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.25 · Mkt cap $2.68B · EV $2.46B · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2081043/000114036126031922/0001140361-26-031922-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ATAI&lt;/b&gt; · DEFM14A · Chemicals / Pharma (2834) · prefill_form:DEFM14A · filed 2026-08-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
