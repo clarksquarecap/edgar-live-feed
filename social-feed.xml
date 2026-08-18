@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 21:08:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:14:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PTHS 🤝 Merger
+Proxy solicitation for acquisition
+Mcap $100M · EV $121M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1919246/000191924626000121/pths-2026defa14a.htm</link>
+      <guid isPermaLink="false">0001919246-26-000121</guid>
+      <pubDate>Tue, 18 Aug 2026 16:14:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BRVE 📍 Stake
 Receives 13D from OrbiMed with 17.2% stake
@@ -581,46 +591,6 @@ Mcap $11M · EV $10M · Comms</title>
       <guid isPermaLink="false">0001493152-26-038794</guid>
       <pubDate>Mon, 17 Aug 2026 16:17:38 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$NIMU 🤝 Merger
-Acquired by Gravitics; Gravitics holders to own 96.5% of combined co.
-stock
-Mcap $9M · EV $10M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/720762/000149315226038776/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-038776</guid>
-      <pubDate>Mon, 17 Aug 2026 16:09:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CARE ⚖️ Litigation · Won
-Won dismissal of Justice lawsuit with prejudice
-vs Justice Parties
-Mcap $703M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829576/000182957626000083/care-20260817.htm</link>
-      <guid isPermaLink="false">0001829576-26-000083</guid>
-      <pubDate>Mon, 17 Aug 2026 16:09:00 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$UOKAF 📉 Delisting · Forced
-Forced Nasdaq delisting final; appeals exhausted
-Mcap $390K · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1741534/000110465926097929/tm2623308d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-097929</guid>
-      <pubDate>Mon, 17 Aug 2026 16:08:46 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$ITXP 🌑 Going Dark
-Voluntary SEC deregistration; 22 holders of record</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2025878/000147793226005137/itxp_1515d.htm</link>
-      <guid isPermaLink="false">0001477932-26-005137</guid>
-      <pubDate>Mon, 17 Aug 2026 16:08:36 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>
