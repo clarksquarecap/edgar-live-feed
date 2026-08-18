@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 12:46:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 12:59:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DFH 🤝 Merger
+Acquires Beazer Homes; details $1.3B debt, $675M preferred financing
+Beazer Homes USA
+Mcap $1.3B · EV $3.1B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1825088/000162828026057552/dream-20260818.htm</link>
+      <guid isPermaLink="false">0001628280-26-057552</guid>
+      <pubDate>Tue, 18 Aug 2026 07:59:07 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TRUG 🤝 Merger
 Acquires Polymath Research for $140M reference in stock + preferred
@@ -575,26 +586,6 @@ Mcap $376M · EV $381M · Cons Disc</title>
       <guid isPermaLink="false">0001017386-26-000107</guid>
       <pubDate>Mon, 17 Aug 2026 08:08:10 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$IMCC 📤 Divestiture
-Sells European ops to Slil for C$3M advance + assumed liabilities
-to Slil.com Holding · C$3M advance + assumed liabilities up to C$9.4M deal · close 2026-09-30
-Mcap $770K · EV $11M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1792030/000117891326004168/zk2635876.htm</link>
-      <guid isPermaLink="false">0001178913-26-004168</guid>
-      <pubDate>Mon, 17 Aug 2026 07:57:09 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$TALK 📉 Delisting · Forced
-Forced Nasdaq delisting effective Aug 17, 2026
-Mcap $869M · EV $778M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1803901/000135445726000793/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000793</guid>
-      <pubDate>Mon, 17 Aug 2026 07:56:55 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
