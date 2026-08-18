@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 21:07:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:08:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BRVE 📍 Stake
+Receives 13D from OrbiMed with 17.2% stake
+Mcap $1.7B · EV $1.7B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2131524/000094787126000814/primary_doc.xml</link>
+      <guid isPermaLink="false">0000947871-26-000814</guid>
+      <pubDate>Tue, 18 Aug 2026 16:08:20 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$DAIC 🪙 Debt Restr.
 Faces foreclosure from LHT I after $1.06M default
@@ -612,16 +621,6 @@ Voluntary SEC deregistration; 22 holders of record</title>
       <guid isPermaLink="false">0001477932-26-005137</guid>
       <pubDate>Mon, 17 Aug 2026 16:08:36 -0500</pubDate>
       <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces consent solicitation to remove 5 directors; Garg Group claims &gt;50% support
-13.7% stake
-Mcap $515M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002221/prec14a00322betr_08172026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002221</guid>
-      <pubDate>Mon, 17 Aug 2026 16:08:24 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
