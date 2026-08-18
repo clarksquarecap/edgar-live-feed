@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 13:05:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:11:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SLE 🤝 Merger
+Acquired by Metaplanet for $134.6M (2,100 BTC + $2.5M); renamed Superplanet
+~$134.6M deal · cash · close Q4 2026
+Mcap $4M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1621672/000143774926028268/slgg20260818_defa14a.htm</link>
+      <guid isPermaLink="false">0001437749-26-028268</guid>
+      <pubDate>Tue, 18 Aug 2026 08:11:41 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$WEAV 🤝 Merger
 Acquired by Francisco Partners for $7.40/share cash; 34% premium
@@ -578,25 +589,6 @@ Mcap $10M · EV $129M · Cons Disc</title>
       <pubDate>Mon, 17 Aug 2026 10:06:36 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$DROP 🔥 Insolvency · Receivership
-Receivership control disputed; executives seek court relief
-Mcap $6M · Tech</title>
-      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=92492</link>
-      <guid isPermaLink="false">OTC-531999</guid>
-      <pubDate>Mon, 17 Aug 2026 08:08:42 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>receivership</category>
-    </item>
-    <item>
-      <title>$SCTH 💥 Busted M&amp;A
-Abandons spin-off of AI UltraProd; retains as permanent subsidiary
-Mcap $376M · EV $381M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703157/000101738626000107/scth_8k08172026.htm</link>
-      <guid isPermaLink="false">0001017386-26-000107</guid>
-      <pubDate>Mon, 17 Aug 2026 08:08:10 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
