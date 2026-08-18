@@ -6,8 +6,30 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 12:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 12:17:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CURLF 🤝 Merger · Unsolicited
+Hostile $4.00/sh bid for Aurora (0.3463 CURA + $0.75 cash)
+Aurora Cannabis · 45 prem · cash+stk · close 2026-12-01
+Mcap $2.2B · EV $3.2B · Healthcare</title>
+      <link>https://www.newswire.ca/news-releases/curaleaf-launches-take-over-bid-to-acquire-aurora-cannabis-invites-aurora-shareholders-to-tender-to-the-bid-855607577.html</link>
+      <guid isPermaLink="false">OTC-532145</guid>
+      <pubDate>Tue, 18 Aug 2026 07:17:50 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
+    <item>
+      <title>$NTWO 🤝 Merger
+Acquires Fort Robotics for $500M in stock
+stock
+Mcap $258M · EV $258M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2028027/000121390026090997/ea0301294-8k425_newbury2.htm</link>
+      <guid isPermaLink="false">0001213900-26-090997</guid>
+      <pubDate>Tue, 18 Aug 2026 07:16:29 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$HVII 🤝 Merger
 Acquires ONE Nuclear; combined co to list as ONEN
@@ -593,15 +615,6 @@ Mcap $1.1B · EV $1.4B · Industrials</title>
       <guid isPermaLink="false">0001104659-26-097576</guid>
       <pubDate>Mon, 17 Aug 2026 07:23:14 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$BETR 📍 Stake
-CEO Vishal Garg raises stake to 13.7% of Class A
-Mcap $515M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000119380526001102/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193805-26-001102</guid>
-      <pubDate>Mon, 17 Aug 2026 07:16:41 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
