@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 20:40:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:46:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FTRK 📉 Delisting · Forced
+Forced Nasdaq delisting; trading suspended Aug 18, OTC under FTRKF
+Mcap $6M · EV $4M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2027262/000149315226039027/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-039027</guid>
+      <pubDate>Tue, 18 Aug 2026 15:46:41 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$KPLT 📍 Stake
 Receives 13D from Jones group disclosing 21.8% stake
@@ -567,16 +577,6 @@ Mcap $2.5B · Financials</title>
       <pubDate>Mon, 17 Aug 2026 16:00:24 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$LMNR 📤 Divestiture
-Sells Windfall Farms vineyard for $15M all cash
-to Paul Rusnak · $15,000,000 deal · close 2026-09-14
-Mcap $251M · EV $379M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1342423/000110465926097890/tm2623417d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-097890</guid>
-      <pubDate>Mon, 17 Aug 2026 15:41:53 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
