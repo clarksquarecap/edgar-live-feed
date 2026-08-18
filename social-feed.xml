@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 18 Aug 2026 20:59:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:05:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SVVC 🧊 Liquidation
+Plans liquidation and dissolution; delists from OTCQB
+Mcap $60K · EV $50K · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1495584/000143774926028421/sccv20260817_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-028421</guid>
+      <pubDate>Tue, 18 Aug 2026 16:05:50 -0500</pubDate>
+      <category>LIQUIDATION</category>
+    </item>
     <item>
       <title>$BLSM 📍 Stake
 Receives 13D from OrbiMed with 8.9% stake
@@ -604,17 +613,6 @@ Mcap $515M · Financials</title>
       <guid isPermaLink="false">0000921895-26-002221</guid>
       <pubDate>Mon, 17 Aug 2026 16:08:24 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$BANR 🤝 Merger
-Acquires Pacific Financial; all approvals received; close Sept 1
-close 2026-09-01
-Mcap $2.5B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/946673/000094667326000179/banr-20260814.htm</link>
-      <guid isPermaLink="false">0000946673-26-000179</guid>
-      <pubDate>Mon, 17 Aug 2026 16:00:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
