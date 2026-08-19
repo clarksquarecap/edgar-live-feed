@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 19 Aug 2026 21:12:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:20:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OCFC 📍 Stake
+Receives 13D/A from Warburg Pincus; stake now 19.3%
+Mcap $1.9B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1004702/000114036126033762/primary_doc.xml</link>
+      <guid isPermaLink="false">0001140361-26-033762</guid>
+      <pubDate>Wed, 19 Aug 2026 16:20:26 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$OSRH 📉 Delisting · Forced
 Forced Nasdaq delisting effective Aug 26; appeal pending
@@ -646,26 +655,6 @@ Mcap $788M · EV $1.7B · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/1057060/000119312526355703/d414726ddefa14a.htm</link>
       <guid isPermaLink="false">0001193125-26-355703</guid>
       <pubDate>Tue, 18 Aug 2026 16:21:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BAOS 🤝 Merger · Preliminary
-Acquires 40% of Blue Intelligence Cloud Innovation Technology
-Mcap $1M · EV $180K · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1811216/000110465926098402/tm2622290d2_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-098402</guid>
-      <pubDate>Tue, 18 Aug 2026 16:15:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$PTHS 🤝 Merger
-Proxy solicitation for acquisition
-Mcap $100M · EV $121M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1919246/000191924626000121/pths-2026defa14a.htm</link>
-      <guid isPermaLink="false">0001919246-26-000121</guid>
-      <pubDate>Tue, 18 Aug 2026 16:14:36 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
