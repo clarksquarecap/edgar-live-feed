@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 19 Aug 2026 21:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:26:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RARE ⚖️ Litigation · Won
+Won FDA accelerated approval for GENGLYCOS in GSDIa
+Mcap $2.6B · EV $3.4B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1515673/000119312526357185/rare-20260819.htm</link>
+      <guid isPermaLink="false">0001193125-26-357185</guid>
+      <pubDate>Wed, 19 Aug 2026 16:26:31 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
     <item>
       <title>$OCFC 📍 Stake
 Receives 13D/A from Warburg Pincus; stake now 19.3%
@@ -637,26 +647,6 @@ Mcap $17M · EV $34M · Real Estate</title>
       <guid isPermaLink="false">0000921895-26-002251</guid>
       <pubDate>Tue, 18 Aug 2026 16:28:01 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$ANSC 🧊 Liquidation
-Redeems 100% of public shares; dissolves after failed SPAC merger
-Mcap $476M · EV $481M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1854149/000119312526355695/ansc-20260812.htm</link>
-      <guid isPermaLink="false">0001193125-26-355695</guid>
-      <pubDate>Tue, 18 Aug 2026 16:22:07 -0500</pubDate>
-      <category>LIQUIDATION</category>
-    </item>
-    <item>
-      <title>$HZO 🤝 Merger
-Acquired by Safe Harbor for $53.00 cash/share; vote pending
-cash
-Mcap $788M · EV $1.7B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1057060/000119312526355703/d414726ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-355703</guid>
-      <pubDate>Tue, 18 Aug 2026 16:21:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
