@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 19 Aug 2026 20:36:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:44:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DUOT 📤 Divestiture
+Sells rail tech subsidiary; refocuses on Edge Data Center/AI
+close Completed
+Mcap $280M · EV $252M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1396536/000107997326001150/duot_8k.htm</link>
+      <guid isPermaLink="false">0001079973-26-001150</guid>
+      <pubDate>Wed, 19 Aug 2026 15:44:32 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$UFI 📤 Divestiture
 Sells non-strategic real estate for $60M to cut debt
@@ -670,34 +680,6 @@ Mcap $6M · EV $4M · Comms</title>
       <pubDate>Tue, 18 Aug 2026 15:46:41 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$KPLT 📍 Stake
-Receives 13D from Jones group disclosing 21.8% stake
-Mcap $32M · EV $116M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1785424/000110465926098368/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-098368</guid>
-      <pubDate>Tue, 18 Aug 2026 15:40:46 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NVNI 🪙 Debt Restr.
-Faces $12.1M debt acceleration; evaluating restructuring
-Mcap $10M · EV $19M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1965143/000121390026091245/ea0302441-6k_nvni.htm</link>
-      <guid isPermaLink="false">0001213900-26-091245</guid>
-      <pubDate>Tue, 18 Aug 2026 15:39:59 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$CMII 🤝 Merger
-Acquires Elroy Air in SPAC merger; to trade as IPXG
-Mcap $314M · EV $313M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2088805/000121390026091247/ea0302569-425_columbus2.htm</link>
-      <guid isPermaLink="false">0001213900-26-091247</guid>
-      <pubDate>Tue, 18 Aug 2026 15:39:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
