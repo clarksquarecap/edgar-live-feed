@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 19 Aug 2026 12:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 12:16:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$UAMY 💧 Capital Return · Buyback
+Authorizes $100M buyback; cites undervaluation
+Mcap $941M · EV $933M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/101538/000110465926098593/tm2623553d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-098593</guid>
+      <pubDate>Wed, 19 Aug 2026 07:16:17 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$FBRX 🎯 Tender
 HSR cleared; $77.00/share cash tender from argenx
@@ -686,17 +696,6 @@ Mcap $258M · EV $258M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2028027/000121390026090997/ea0301294-8k425_newbury2.htm</link>
       <guid isPermaLink="false">0001213900-26-090997</guid>
       <pubDate>Tue, 18 Aug 2026 07:16:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$HVII 🤝 Merger
-Acquires ONE Nuclear; combined co to list as ONEN
-ONE Nuclear Energy · close H2 2026
-Mcap $274M · EV $273M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1846416/000149315226038895/form425.htm</link>
-      <guid isPermaLink="false">0001493152-26-038895</guid>
-      <pubDate>Tue, 18 Aug 2026 07:16:13 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
