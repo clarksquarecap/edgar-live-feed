@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 19 Aug 2026 21:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:34:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ISOU 📤 Divestiture
+Sells Utah uranium portfolio to DISA Uranium for 33% stake
+to DISA Technologies · close 2026-08-19
+Mcap $607M · EV $493M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1997377/000127956926000812/form6k.htm</link>
+      <guid isPermaLink="false">0001279569-26-000812</guid>
+      <pubDate>Wed, 19 Aug 2026 16:34:24 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$RARE ⚖️ Litigation · Won
 Won FDA accelerated approval for GENGLYCOS in GSDIa
@@ -608,45 +618,6 @@ Mcap $16M · Healthcare</title>
       <pubDate>Tue, 18 Aug 2026 16:36:27 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MEGI 📍 Stake
-Saba Capital raises stake to 5.63% in MEGI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1855066/000106299326004497/primary_doc.xml</link>
-      <guid isPermaLink="false">0001062993-26-004497</guid>
-      <pubDate>Tue, 18 Aug 2026 16:30:30 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$CSAN 📉 Delisting · Voluntary
-Voluntary NYSE delisting of ADSs; last trade Sept 18
-effective 2026-09-18
-Mcap $2.5B · EV $16B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1430162/000155485526001883/MainDocument.htm</link>
-      <guid isPermaLink="false">0001554855-26-001883</guid>
-      <pubDate>Tue, 18 Aug 2026 16:30:08 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Garg Group launches consent solicitation to oust 5 directors
-13.7 stake
-Mcap $515M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002250/prrn14a00322betr_08182026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002250</guid>
-      <pubDate>Tue, 18 Aug 2026 16:29:43 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$GBCS 🎯 Tender
-Tender offer extended to Aug 24; $5.75/share cash from Black Pearl
-Black Pearl Equities · cash
-Mcap $17M · EV $34M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/727346/000092189526002251/sctota14815002_08182026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002251</guid>
-      <pubDate>Tue, 18 Aug 2026 16:28:01 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
