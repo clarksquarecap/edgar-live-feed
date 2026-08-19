@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 19 Aug 2026 00:31:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 01:14:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SUJA 📍 Stake
+Receives 13D from Paine Schwartz; 62.8% stake
+Mcap $158M · EV $400M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934114/000114036126033641/primary_doc.xml</link>
+      <guid isPermaLink="false">0001140361-26-033641</guid>
+      <pubDate>Tue, 18 Aug 2026 20:14:02 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$ENHA 📍 Stake
 Receives 13D/A from Maximilian Martin; stake rises to 9.6%
@@ -663,15 +672,6 @@ Mcap $30M · EV $364M · Energy</title>
       <link>https://www.sec.gov/Archives/edgar/data/1282648/000114036126033457/primary_doc.xml</link>
       <guid isPermaLink="false">0001140361-26-033457</guid>
       <pubDate>Mon, 17 Aug 2026 20:32:28 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$BETR 👀 Activist
-Raises stake to 8.9% in Better Home &amp; Finance
-Mcap $515M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000090883426000440/primary_doc.xml</link>
-      <guid isPermaLink="false">0000908834-26-000440</guid>
-      <pubDate>Mon, 17 Aug 2026 20:08:17 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
