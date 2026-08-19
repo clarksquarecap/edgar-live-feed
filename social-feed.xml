@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 19 Aug 2026 07:07:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:05:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FBRX 🎯 Tender
+HSR cleared for $77/share tender offer from argenx
+argenx BV · cash
+Mcap $1.9B · EV $1.8B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419041/000114036126033652/ny20080630x1_sc14d9a.htm</link>
+      <guid isPermaLink="false">0001140361-26-033652</guid>
+      <pubDate>Wed, 19 Aug 2026 05:05:50 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$URAIF 🤝 Merger
 Acquires DomeCommand drone C2 IP for up to C$6.025M (C$25K cash + 30M shares)
@@ -654,27 +664,6 @@ Mcap $2.1B · EV $5.4B · Materials</title>
       <pubDate>Tue, 18 Aug 2026 05:06:30 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$HUN 🤝 Merger
-Merged into Olin; stockholder vote Aug 25
-stock
-Mcap $1.8B · EV $4.2B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1307954/000119312526354377/d273642d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-354377</guid>
-      <pubDate>Tue, 18 Aug 2026 05:04:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AVXL ⚔️ Proxy
-Faces PVG proxy contest for six board seats; AGM Sept 24
-PVG Asset Management · 0.36% stake
-Mcap $314M · EV $187M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226038835/formprrn14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-038835</guid>
-      <pubDate>Tue, 18 Aug 2026 05:04:00 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
