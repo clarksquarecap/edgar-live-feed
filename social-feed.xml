@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 19 Aug 2026 21:04:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:11:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Faces Garg Group consent solicitation to remove 5 directors
+26.8 stake
+Mcap $515M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000114036126033756/ef20080650_prec14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-033756</guid>
+      <pubDate>Wed, 19 Aug 2026 16:11:54 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$ETD 💧 Capital Return · Special Div
 Declares $3.00/share special dividend; $76M total
@@ -647,33 +657,6 @@ Mcap $100M · EV $121M · Healthcare</title>
       <pubDate>Tue, 18 Aug 2026 16:14:36 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BRVE 📍 Stake
-Receives 13D from OrbiMed with 17.2% stake
-Mcap $1.7B · EV $1.7B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2131524/000094787126000814/primary_doc.xml</link>
-      <guid isPermaLink="false">0000947871-26-000814</guid>
-      <pubDate>Tue, 18 Aug 2026 16:08:20 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$DAIC 🪙 Debt Restr.
-Faces foreclosure from LHT I after $1.06M default
-Mcap $990K · EV $2M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026091288/ea0302597-8k_cidhold.htm</link>
-      <guid isPermaLink="false">0001213900-26-091288</guid>
-      <pubDate>Tue, 18 Aug 2026 16:07:46 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$SVVC 🧊 Liquidation
-Plans liquidation and dissolution; delists from OTCQB
-Mcap $60K · EV $50K · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1495584/000143774926028421/sccv20260817_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-028421</guid>
-      <pubDate>Tue, 18 Aug 2026 16:05:50 -0500</pubDate>
-      <category>LIQUIDATION</category>
     </item>
   </channel>
 </rss>
