@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 19 Aug 2026 20:17:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:17:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CRNX 🤝 Merger
+Adds proxy disclosures for $10B Vertex merger; vote Aug 28
+Vertex Pharmaceuticals · ~$10B deal
+Mcap $9.0B · EV $7.8B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1658247/000114036126033738/ef20080494_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-033738</guid>
+      <pubDate>Wed, 19 Aug 2026 15:17:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$ARAY 🪙 Debt Restr.
+Secures TCW financing; covenant relief through Dec 2027
+Mcap $33M · EV $177M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1138723/000143774926028532/aray20260508_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-028532</guid>
+      <pubDate>Wed, 19 Aug 2026 15:17:18 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$AUPH ⚖️ Litigation · Settled
 Settles patent litigation with Teva; generic entry delayed to Dec 2036
@@ -635,27 +655,6 @@ Mcap $134M · EV $188M · Energy</title>
       <link>https://www.sec.gov/Archives/edgar/data/1006655/000110465926098332/tm2623236d2_8k.htm</link>
       <guid isPermaLink="false">0001104659-26-098332</guid>
       <pubDate>Tue, 18 Aug 2026 15:19:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VREOF 💧 Capital Return · Buyback
-Authorizes 16.75% share buyback via NCIB
-Mcap $485M · EV $764M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1771706/000110465926098337/tm2623495d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-098337</guid>
-      <pubDate>Tue, 18 Aug 2026 15:17:36 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$SGLA 🤝 Merger
-Acquires Invent Fortune for 36.5M shares in 3 tranches
-stock
-Mcap $413M · EV $416M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1433551/000149315226039006/form8-ka.htm</link>
-      <guid isPermaLink="false">0001493152-26-039006</guid>
-      <pubDate>Tue, 18 Aug 2026 15:17:08 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
