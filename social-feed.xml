@@ -6,8 +6,48 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 19 Aug 2026 20:15:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:17:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AUPH ⚖️ Litigation · Settled
+Settles patent litigation with Teva; generic entry delayed to Dec 2036
+vs Teva Pharmaceuticals
+Mcap $2.0B · EV $1.7B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1600620/000160062026000066/auph-20260819.htm</link>
+      <guid isPermaLink="false">0001600620-26-000066</guid>
+      <pubDate>Wed, 19 Aug 2026 15:17:01 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
+    <item>
+      <title>$G 🌍 Re-domicile
+Domesticates from Bermuda to Delaware; vote at special meeting
+Mcap $5.8B · EV $6.7B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1398659/000114036126033742/ny20078357x1_s4.htm</link>
+      <guid isPermaLink="false">0001140361-26-033742</guid>
+      <pubDate>Wed, 19 Aug 2026 15:16:28 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
+    <item>
+      <title>$SVAQ 🤝 Merger
+Merges with EigenQ; draft S-4 confidentially submitted to SEC
+Mcap $294M · EV $292M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085659/000121390026091671/ea0302725-425_silicon.htm</link>
+      <guid isPermaLink="false">0001213900-26-091671</guid>
+      <pubDate>Wed, 19 Aug 2026 15:16:12 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$AACB 📉 Delisting · Forced
+Forced Nasdaq delisting effective Aug 19
+Mcap $291M · EV $292M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2034334/000135445726000808/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000808</guid>
+      <pubDate>Wed, 19 Aug 2026 15:15:51 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$ITGR 🤝 Merger
 Acquired by KKR in pending take-private; proxy vote upcoming
@@ -618,16 +658,6 @@ Mcap $413M · EV $416M · Industrials</title>
       <pubDate>Tue, 18 Aug 2026 15:17:08 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BIDU 🌍 Re-domicile
-Converts to dual-primary HKEX listing; EGM Aug 26
-Mcap $35B · EV $35B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1329099/000119312526355431/d112854d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-355431</guid>
-      <pubDate>Tue, 18 Aug 2026 15:16:44 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>dual_primary_listing</category>
     </item>
   </channel>
 </rss>
