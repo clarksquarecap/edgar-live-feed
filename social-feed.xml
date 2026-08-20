@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 20:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:57:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RFAI 🤝 Merger
+Shareholders approve merger with Nanyang Biologics; redemptions pending
+Mcap $92M · EV $92M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2012807/000182912626009169/rfacquisition2_425.htm</link>
+      <guid isPermaLink="false">0001829126-26-009169</guid>
+      <pubDate>Thu, 20 Aug 2026 15:57:17 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CEPO 💥 Busted M&amp;A
 Terminates Blockstream merger; $15M termination fee
@@ -643,16 +653,6 @@ Mcap $48M · EV $48M · Financials</title>
       <pubDate>Wed, 19 Aug 2026 16:03:36 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$LGL 🌍 Re-domicile
-Redomesticates from Delaware to Nevada; effective Sept 1
-Mcap $92M · EV $50M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/61004/000143774926028548/lglg20260729_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-028548</guid>
-      <pubDate>Wed, 19 Aug 2026 15:51:04 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>redomestication</category>
     </item>
   </channel>
 </rss>
