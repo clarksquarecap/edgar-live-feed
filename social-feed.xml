@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 11:11:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:23:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$STMXF 🤝 Merger
@@ -591,27 +591,6 @@ Mcap $27M · EV $28M · Industrials</title>
       <pubDate>Wed, 19 Aug 2026 06:33:02 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SKHY 💧 Capital Return · Buyback
-Approves 40T Won treasury buyback for cancellation
-Mcap $854B · EV $806B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2120882/000119312526356133/d428222d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-356133</guid>
-      <pubDate>Wed, 19 Aug 2026 06:20:18 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$ACB 🤝 Merger · Unsolicited
-Faces unsolicited $4.00/share bid from Curaleaf
-Curaleaf Holdings · cash+stk
-Mcap $172M · EV $106M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1683541/000127956926000806/aurora_6k.htm</link>
-      <guid isPermaLink="false">0001279569-26-000806</guid>
-      <pubDate>Wed, 19 Aug 2026 06:20:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
