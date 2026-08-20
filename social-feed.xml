@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 18:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:43:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$OTTW 🤝 Merger
@@ -592,14 +592,6 @@ Mcap $196M · EV $237M · Financial Serv</title>
       <guid isPermaLink="false">0002071844-26-001097</guid>
       <pubDate>Wed, 19 Aug 2026 14:06:59 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$FMSMX 📍 Stake
-Receives 13D from FMR LLC; stake rises to 52.2%</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1949594/000031506626002262/primary_doc.xml</link>
-      <guid isPermaLink="false">0000315066-26-002262</guid>
-      <pubDate>Wed, 19 Aug 2026 13:42:59 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
