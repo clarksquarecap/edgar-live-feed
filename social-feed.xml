@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 20:36:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:37:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HEPA 📍 Stake
+Insider group led by Executive Chairman raises stake to 26.2%
+Mcap $2M · EV $1M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1583771/000149315226039484/primary_doc.xml</link>
+      <guid isPermaLink="false">0001493152-26-039484</guid>
+      <pubDate>Thu, 20 Aug 2026 15:37:21 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$ABT ⚖️ Litigation · Settled
+Settles NEC litigation for ~$670M; resolves Gill + 2,000 claims
+vs plaintiffs
+Mcap $198B · EV $226B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1800/000110465926099247/tm2623675d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-099247</guid>
+      <pubDate>Thu, 20 Aug 2026 15:37:01 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$CTVA 🪓 Spinoff
 Spins off seed business into Vylor; exchange offers consents secured
@@ -594,16 +614,6 @@ Mcap $280M · EV $252M · Tech</title>
       <link>https://www.sec.gov/Archives/edgar/data/1396536/000107997326001150/duot_8k.htm</link>
       <guid isPermaLink="false">0001079973-26-001150</guid>
       <pubDate>Wed, 19 Aug 2026 15:44:32 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$UFI 📤 Divestiture
-Sells non-strategic real estate for $60M to cut debt
-$60.0 million deal
-Mcap $120M · EV $195M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/100726/000010072626000010/ufi-20260819.htm</link>
-      <guid isPermaLink="false">0000100726-26-000010</guid>
-      <pubDate>Wed, 19 Aug 2026 15:36:25 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>
