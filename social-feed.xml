@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 20:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:50:39 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HTZ 👀 Activist
+Settles Cascia v. Farmer; amends voting pact with CK Amarillo
+CK Amarillo LP
+Mcap $809M · EV $21B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657853/000165785326000050/htz-20260820.htm</link>
+      <guid isPermaLink="false">0001657853-26-000050</guid>
+      <pubDate>Thu, 20 Aug 2026 15:50:39 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>settlement</category>
+    </item>
     <item>
       <title>$LPSN 🤝 Merger
 Merger vote adjourned to Sept 2; insufficient votes
@@ -644,16 +655,6 @@ Mcap $8M · EV $11M · Healthcare</title>
       <pubDate>Wed, 19 Aug 2026 15:50:45 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DUOT 📤 Divestiture
-Sells rail tech subsidiary; refocuses on Edge Data Center/AI
-close Completed
-Mcap $280M · EV $252M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1396536/000107997326001150/duot_8k.htm</link>
-      <guid isPermaLink="false">0001079973-26-001150</guid>
-      <pubDate>Wed, 19 Aug 2026 15:44:32 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
