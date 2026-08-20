@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 20:50:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:50:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CEPO 💥 Busted M&amp;A
+Terminates Blockstream merger; $15M termination fee
+Mcap $273M · EV $274M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2027708/000121390026092163/ea0302895-8k_cantor1.htm</link>
+      <guid isPermaLink="false">0001213900-26-092163</guid>
+      <pubDate>Thu, 20 Aug 2026 15:50:50 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$HTZ 👀 Activist
 Settles Cascia v. Farmer; amends voting pact with CK Amarillo
@@ -644,17 +653,6 @@ Mcap $92M · EV $50M · Tech</title>
       <pubDate>Wed, 19 Aug 2026 15:51:04 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
       <category>redomestication</category>
-    </item>
-    <item>
-      <title>$HSCS 🤝 Merger
-Fortitude invests $1M at 22% premium; merger consideration unchanged
-22 prem · cash · close H2 2026
-Mcap $8M · EV $11M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026091725/ea0302763-8k_heart.htm</link>
-      <guid isPermaLink="false">0001213900-26-091725</guid>
-      <pubDate>Wed, 19 Aug 2026 15:50:45 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
