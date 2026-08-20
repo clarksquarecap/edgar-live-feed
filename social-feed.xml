@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 21:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:24:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TECH 🤝 Merger
+Acquired by Merck KGaA for $73.00 cash/share; vote Sept 23
+~$11.45B deal · cash · close Q4 2026
+Mcap $11B · EV $11B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/842023/000114036126033911/ny20078105x2_defm14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-033911</guid>
+      <pubDate>Thu, 20 Aug 2026 16:24:04 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ELME 📤 Divestiture
 Sells Riverside Apartments for $250M; closing Sept 14
@@ -664,15 +675,6 @@ Mcap $2.6B · EV $3.4B · Healthcare</title>
       <pubDate>Wed, 19 Aug 2026 16:26:31 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$OCFC 📍 Stake
-Receives 13D/A from Warburg Pincus; stake now 19.3%
-Mcap $1.9B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1004702/000114036126033762/primary_doc.xml</link>
-      <guid isPermaLink="false">0001140361-26-033762</guid>
-      <pubDate>Wed, 19 Aug 2026 16:20:26 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
