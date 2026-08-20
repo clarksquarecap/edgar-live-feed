@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 21:04:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:17:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ETD ⚔️ Proxy
+Bergeron nominates slate at Ethan Allen; slams $3 special dividend
+5.0% stake
+Mcap $608M · EV $595M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/896156/000092189526002266/dfan14a14857002_08202026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002266</guid>
+      <pubDate>Thu, 20 Aug 2026 16:17:16 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$IEP 📤 Divestiture
 Sells Pep Boys to Mavis for ~$700M cash; retains real estate
@@ -632,27 +642,6 @@ Mcap $1.9B · Financials</title>
       <guid isPermaLink="false">0001140361-26-033762</guid>
       <pubDate>Wed, 19 Aug 2026 16:20:26 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$OSRH 📉 Delisting · Forced
-Forced Nasdaq delisting effective Aug 26; appeal pending
-effective 2026-08-26
-Mcap $15M · EV $42M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840425/000121390026091756/ea0302782-8k_osrhealth.htm</link>
-      <guid isPermaLink="false">0001213900-26-091756</guid>
-      <pubDate>Wed, 19 Aug 2026 16:12:12 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces Garg Group consent solicitation to remove 5 directors
-26.8 stake
-Mcap $515M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000114036126033756/ef20080650_prec14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-033756</guid>
-      <pubDate>Wed, 19 Aug 2026 16:11:54 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
