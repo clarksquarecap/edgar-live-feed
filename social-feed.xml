@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 10:02:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:08:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SKYE 🤝 Merger
+Acquires Redx Pharma; reverse split effective Aug 24
+Redx Pharma Limited · stock
+Mcap $19M · EV $2M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1516551/000162828026058121/skye20260819-defa14arevers.htm</link>
+      <guid isPermaLink="false">0001628280-26-058121</guid>
+      <pubDate>Thu, 20 Aug 2026 05:08:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AVXL ⚔️ Proxy
 Nominates 6-director slate at Anavex; seeks board control
@@ -542,88 +553,6 @@ Mcap $310K · EV $44M · Healthcare</title>
       <pubDate>Wed, 19 Aug 2026 05:14:39 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$KEN ⚖️ Litigation · Won
-Won $93M arbitration award payment from Peru
-vs Republic of Peru
-Mcap $3.3B · EV $5.9B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1611005/000117891326004189/zk2635987.htm</link>
-      <guid isPermaLink="false">0001178913-26-004189</guid>
-      <pubDate>Wed, 19 Aug 2026 05:07:23 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$EC 🤝 Merger
-Merger approval delayed: bondholders' first-call meetings fail; second-call required
-Mcap $34B · EV $71B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1444406/000129281426004290/ec20260818_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004290</guid>
-      <pubDate>Wed, 19 Aug 2026 05:06:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$KCA-UN 🤝 Merger
-SPAC merger with Nth Cycle; CEO interview on Bloomberg</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2102713/000119312526355801/d68626d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-355801</guid>
-      <pubDate>Wed, 19 Aug 2026 05:06:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LPSN 🤝 Merger
-Acquired by SoundHound AI; vote deadline Aug 19
-Mcap $22M · EV $314M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1102993/000119312526355908/d417319d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-355908</guid>
-      <pubDate>Wed, 19 Aug 2026 05:06:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$JBS 🤝 Merger · Unsolicited
-Proposes to acquire PPC minority for 2.086 JBS shares/share
-Pilgrim's Pride · stock
-Mcap $15B · EV $36B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1791942/000121390026091375/ea0302563-8k425_jbs.htm</link>
-      <guid isPermaLink="false">0001213900-26-091375</guid>
-      <pubDate>Wed, 19 Aug 2026 05:06:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$NXH 🤝 Merger
-Acquired in pending merger; proxy supplement filed
-Mcap $408M · EV $462M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1130713/000114036126033650/ny20079044x2_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-033650</guid>
-      <pubDate>Wed, 19 Aug 2026 05:06:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SKYE 🤝 Merger
-Acquires Redx Pharma; proxy vote pending
-Redx Pharma Limited
-Mcap $19M · EV $2M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1516551/000162828026057806/skye20260818-defa14anasdaq.htm</link>
-      <guid isPermaLink="false">0001628280-26-057806</guid>
-      <pubDate>Wed, 19 Aug 2026 05:06:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FBRX 🎯 Tender
-HSR cleared for $77/share tender offer from argenx
-argenx BV · cash
-Mcap $1.9B · EV $1.8B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1419041/000114036126033652/ny20080630x1_sc14d9a.htm</link>
-      <guid isPermaLink="false">0001140361-26-033652</guid>
-      <pubDate>Wed, 19 Aug 2026 05:05:50 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
