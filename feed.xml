@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 19 Aug 2026 22:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 00:15:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · PFSA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1859807/000121390026091840/0001213900-26-091840-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-091840</guid>
+      <pubDate>Wed, 19 Aug 2026 19:15:22 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Receives 13D from NorthView Sponsor I, LLC disclosing 49.9% stake</scanner:headline>
+      <scanner:shortName>Profusa</scanner:shortName>
+      <scanner:price>0.9500</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D from NorthView Sponsor I, LLC disclosing 49.9% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Schedule 13D from NorthView Sponsor I, LLC, which converted $1,292,521 of principal into 1,207,965 shares at $1.07/share, then a 1-for-4 reverse split left it with 301,991 shares, a 49.9% stake. The sponsor is a holding company controlled by officers/directors of Profusa. No activist agenda stated.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Profusa, Inc., a digital health technology company, develops bioengineered sensors for body to detect and continuously transmit clinical-grade data for personal and medical use in the United States. It offers the Lumee Oxygen Platform to monitor compromised tissue for peripheral artery disease, chronic wounds, and reconstructive surgery. The company researches and develops the Lumee Glucose Platform which is designed to monitor glucose levels in interstitial fluid. Profusa, Inc.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; NorthView Sponsor I, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 49.9&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-12&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.9500 · Mkt cap $180K · EV $12.3M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1859807/000121390026091840/0001213900-26-091840-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PFSA, NVACW&lt;/b&gt; · SCHEDULE 13D · Instruments / Medical Devices (3841) · fresh_13d · filed 2026-08-19&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · CYPH</title>
       <link>https://www.sec.gov/Archives/edgar/data/1509745/000208572626000002/0002085726-26-000002-index.htm</link>
@@ -9537,23 +9556,6 @@
 &lt;p&gt;&lt;i&gt;Px $48.67 · Mkt cap $20.20B · EV $28.80B · Fwd EV/EBITDA 4.0x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/904851/000155485526001764/0001554855-26-001764-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;YPF&lt;/b&gt; · 6-K · Petroleum Refining (2911) · prefill_form:6-K · filed 2026-08-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · Pasqal Holding SAS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2122325/000121390026087385/ea0301462-425_bleichroeder2.htm</link>
-      <guid isPermaLink="false">0001213900-26-087385</guid>
-      <pubDate>Tue, 11 Aug 2026 05:04:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquired by Bleichroeder Acquisition Corp. II; vote pending</scanner:headline>
-      <scanner:shortName>Pasqal Holding SAS</scanner:shortName>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Bleichroeder Acquisition Corp. II; vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Pasqal announced a world-first photonic-chip atom trapping milestone, but the key event is the pending business combination with Bleichroeder Acquisition Corp. II. The registration statement on Form F-4 was declared effective August 5, 2026, and the definitive proxy statement/prospectus was mailed to Bleichroeder shareholders as of August 4, 2026. Shareholder vote is pending.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Bleichroeder Acquisition Corp. II&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Bleichroeder shareholder vote on business combination&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2122325/000121390026087385/0001213900-26-087385-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;425 · Business Services (7374) · prefill_form:425 · filed 2026-08-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
