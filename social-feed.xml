@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 20:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:19:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VOYA ⚔️ Proxy
+Launches no-confidence referendum at Voya; seeks strategic review
+Mcap $9.1B · EV $15B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1535929/000114036126033879/ny20078175x6_prrn14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-033879</guid>
+      <pubDate>Thu, 20 Aug 2026 15:19:43 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$HOWL 📤 Divestiture
 Sells pre-clinical platforms to EMD for $28M + $5M milestone
@@ -571,76 +580,6 @@ Mcap $68M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1881592/000143774926028538/nsts20260814_prem14a.htm</link>
       <guid isPermaLink="false">0001437749-26-028538</guid>
       <pubDate>Wed, 19 Aug 2026 15:23:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CRNX 🤝 Merger
-Adds proxy disclosures for $10B Vertex merger; vote Aug 28
-Vertex Pharmaceuticals · ~$10B deal
-Mcap $9.0B · EV $7.8B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1658247/000114036126033738/ef20080494_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-033738</guid>
-      <pubDate>Wed, 19 Aug 2026 15:17:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ARAY 🪙 Debt Restr.
-Secures TCW financing; covenant relief through Dec 2027
-Mcap $33M · EV $177M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1138723/000143774926028532/aray20260508_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-028532</guid>
-      <pubDate>Wed, 19 Aug 2026 15:17:18 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$AUPH ⚖️ Litigation · Settled
-Settles patent litigation with Teva; generic entry delayed to Dec 2036
-vs Teva Pharmaceuticals
-Mcap $2.0B · EV $1.7B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1600620/000160062026000066/auph-20260819.htm</link>
-      <guid isPermaLink="false">0001600620-26-000066</guid>
-      <pubDate>Wed, 19 Aug 2026 15:17:01 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$G 🌍 Re-domicile
-Domesticates from Bermuda to Delaware; vote at special meeting
-Mcap $5.8B · EV $6.7B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1398659/000114036126033742/ny20078357x1_s4.htm</link>
-      <guid isPermaLink="false">0001140361-26-033742</guid>
-      <pubDate>Wed, 19 Aug 2026 15:16:28 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$SVAQ 🤝 Merger
-Merges with EigenQ; draft S-4 confidentially submitted to SEC
-Mcap $294M · EV $292M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2085659/000121390026091671/ea0302725-425_silicon.htm</link>
-      <guid isPermaLink="false">0001213900-26-091671</guid>
-      <pubDate>Wed, 19 Aug 2026 15:16:12 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AACB 📉 Delisting · Forced
-Forced Nasdaq delisting effective Aug 19
-Mcap $291M · EV $292M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2034334/000135445726000808/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000808</guid>
-      <pubDate>Wed, 19 Aug 2026 15:15:51 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$ITGR 🤝 Merger
-Acquired by KKR in pending take-private; proxy vote upcoming
-Mcap $4.2B · EV $5.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1114483/000095010326012647/dp252031_defa14a.htm</link>
-      <guid isPermaLink="false">0000950103-26-012647</guid>
-      <pubDate>Wed, 19 Aug 2026 15:15:34 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
