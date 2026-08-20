@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 21:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:48:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$ASPI 🪙 Debt Restr.
@@ -646,24 +646,6 @@ Mcap $442M · EV $415M · Tech</title>
       <pubDate>Wed, 19 Aug 2026 17:38:44 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$KNTK 📍 Stake
-Reports 18.9% stake in Kinetik
-Mcap $4.4B · EV $12B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1692787/000090514826003817/primary_doc.xml</link>
-      <guid isPermaLink="false">0000905148-26-003817</guid>
-      <pubDate>Wed, 19 Aug 2026 16:44:42 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$DLO 📍 Stake
-Reports 21.4% stake in dLocal
-Mcap $4.2B · EV $3.4B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1846832/000095014226002390/primary_doc.xml</link>
-      <guid isPermaLink="false">0000950142-26-002390</guid>
-      <pubDate>Wed, 19 Aug 2026 16:44:25 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
