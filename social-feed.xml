@@ -6,8 +6,49 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 20:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:36:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CTVA 🪓 Spinoff
+Spins off seed business into Vylor; exchange offers consents secured
+Mcap $52B · EV $55B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526359264/d422495d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-359264</guid>
+      <pubDate>Thu, 20 Aug 2026 15:36:08 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
+    <item>
+      <title>$VTIX 🔎 Strat Review · Strat Alts
+Special committee reviews defense acquisition targets
+Mcap $59M · EV $58M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1606242/000121390026092131/ea0302767-8k_virtuix.htm</link>
+      <guid isPermaLink="false">0001213900-26-092131</guid>
+      <pubDate>Thu, 20 Aug 2026 15:35:56 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+    </item>
+    <item>
+      <title>$D 🤝 Merger
+Acquired by NextEra; shareholder vote pending
+NextEra Energy
+Mcap $60B · EV $119B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715957/000119312526359256/d108882d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-359256</guid>
+      <pubDate>Thu, 20 Aug 2026 15:35:35 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$SNTI 🤝 Merger · Preliminary
+Merger with Celadon affiliate; CVR up to $60M
+Celadon Partners SPV 24 · cash
+Mcap $14M · EV $28M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1854270/000162828026058260/snti2026noteclosing2202608.htm</link>
+      <guid isPermaLink="false">0001628280-26-058260</guid>
+      <pubDate>Thu, 20 Aug 2026 15:35:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$BETR ⚔️ Proxy
 Adopts poison pill vs Garg's consent solicitation
@@ -563,15 +604,6 @@ Mcap $120M · EV $195M · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/100726/000010072626000010/ufi-20260819.htm</link>
       <guid isPermaLink="false">0000100726-26-000010</guid>
       <pubDate>Wed, 19 Aug 2026 15:36:25 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ADTX 📤 Divestiture
-Sells Pearsanta to MDNA Holdings; liabilities assumed + 2.5% royalty up to $2.5M
-Mcap $2K · EV $2M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726711/000121390026091703/ea0302612-8k_aditxt.htm</link>
-      <guid isPermaLink="false">0001213900-26-091703</guid>
-      <pubDate>Wed, 19 Aug 2026 15:35:58 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>
