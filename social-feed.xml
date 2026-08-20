@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 12:14:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:20:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$AGCI 🤝 Merger · Preliminary
@@ -591,16 +591,6 @@ Mcap $112M · EV $367M · Financials</title>
       <pubDate>Wed, 19 Aug 2026 07:22:43 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$UAMY 💧 Capital Return · Buyback
-Authorizes $100M buyback; cites undervaluation
-Mcap $941M · EV $933M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/101538/000110465926098593/tm2623553d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-098593</guid>
-      <pubDate>Wed, 19 Aug 2026 07:16:17 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
