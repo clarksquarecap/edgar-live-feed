@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 20:20:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:28:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RSG 📍 Stake
+Receives 13D/A: Cascade Investment boosts stake to 36.7%
+Mcap $64B · EV $78B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1060391/000110465926099242/primary_doc.xml</link>
+      <guid isPermaLink="false">0001104659-26-099242</guid>
+      <pubDate>Thu, 20 Aug 2026 15:28:33 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$GMM 🤝 Merger
 Acquires 5.06% stake in Qifei (Shanghai) Technology for $4.05M in shares
@@ -575,52 +584,6 @@ Mcap $14B · EV $12B · Tech</title>
       <guid isPermaLink="false">0001552781-26-000453</guid>
       <pubDate>Wed, 19 Aug 2026 15:28:44 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$OCLT 📍 Stake
-Sponsor discloses 33.5% stake in OceanLight Acquisition after IPO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2137679/000182912626009072/primary_doc.xml</link>
-      <guid isPermaLink="false">0001829126-26-009072</guid>
-      <pubDate>Wed, 19 Aug 2026 15:28:30 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$PLCI 📍 Stake
-Sponsor discloses 26.36% stake</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2122392/000182912626009073/primary_doc.xml</link>
-      <guid isPermaLink="false">0001829126-26-009073</guid>
-      <pubDate>Wed, 19 Aug 2026 15:28:15 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$FWAC 📍 Stake
-Acquires 30.8% stake in Futurewave Acquisition Corp for $2.58M</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2116105/000182912626009075/primary_doc.xml</link>
-      <guid isPermaLink="false">0001829126-26-009075</guid>
-      <pubDate>Wed, 19 Aug 2026 15:24:55 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$HHS 🤝 Merger
-Acquired by Star Equity for $5.00 cash or 0.50 preferred shares per share
-Star Equity Holdings · cash/stk elect
-Mcap $30M · EV $48M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/45919/000004591926000009/hhs-20260814.htm</link>
-      <guid isPermaLink="false">0000045919-26-000009</guid>
-      <pubDate>Wed, 19 Aug 2026 15:24:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NSTS 🤝 Merger
-Acquired by Brookfield Bancshares for $14.28 cash/share; vote pending
-12.9% prem · $73.662M deal · cash
-Mcap $68M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1881592/000143774926028538/nsts20260814_prem14a.htm</link>
-      <guid isPermaLink="false">0001437749-26-028538</guid>
-      <pubDate>Wed, 19 Aug 2026 15:23:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
