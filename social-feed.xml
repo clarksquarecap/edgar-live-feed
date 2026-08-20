@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 00:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 00:21:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SLXN 📍 Stake
+Increases Silexion stake to 25%; disputes note-conversion shares
+Mcap $820K · EV $390K · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2022416/000121390026091845/primary_doc.xml</link>
+      <guid isPermaLink="false">0001213900-26-091845</guid>
+      <pubDate>Wed, 19 Aug 2026 19:21:38 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$PFSA 📍 Stake
 Receives 13D from NorthView Sponsor I, LLC disclosing 49.9% stake
@@ -616,17 +625,6 @@ Mcap $221M · EV $201M · Cons Disc</title>
       <guid isPermaLink="false">0001628280-26-057810</guid>
       <pubDate>Tue, 18 Aug 2026 19:31:12 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$HSCS 🤝 Merger
-Acquires HeartSciences via Up-C merger; ratio 19.00, $2M cash
-cash+stk
-Mcap $8M · EV $11M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026091367/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-091367</guid>
-      <pubDate>Tue, 18 Aug 2026 19:18:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
