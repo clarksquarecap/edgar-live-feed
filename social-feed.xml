@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 20:28:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:35:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Adopts poison pill vs Garg's consent solicitation
+Vishal Garg / Garg
+Mcap $515M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000183585626000023/betr-defa14anotice21.htm</link>
+      <guid isPermaLink="false">0001835856-26-000023</guid>
+      <pubDate>Thu, 20 Aug 2026 15:35:05 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$GPI 👀 Activist
 Takes 9.7% stake, proposes board seat for Benjamin Hart
@@ -563,27 +573,6 @@ Mcap $2K · EV $2M · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-091703</guid>
       <pubDate>Wed, 19 Aug 2026 15:35:58 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$D 🤝 Merger
-Acquired by NextEra; $1.78B customer bill credits
-NextEra Energy
-Mcap $60B · EV $119B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000119312526356983/d848130d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-356983</guid>
-      <pubDate>Wed, 19 Aug 2026 15:34:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CCXI 🤝 Merger
-Acquires Agility Robotics in ~$2.5B SPAC merger; S-4 filed confidentially
-Mcap $925M · EV $925M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2074973/000121390026091699/ea0302753-425_churchill11.htm</link>
-      <guid isPermaLink="false">0001213900-26-091699</guid>
-      <pubDate>Wed, 19 Aug 2026 15:34:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
