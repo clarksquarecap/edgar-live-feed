@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 12:32:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:40:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SCSC 🤝 Merger
+Acquires MicroAge for $220.5M cash; close Sept 2026
+MicroAge Acquisition · cash · close September 2026
+Mcap $1.0B · EV $1.0B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/918965/000091896526000043/scsc-20260819.htm</link>
+      <guid isPermaLink="false">0000918965-26-000043</guid>
+      <pubDate>Thu, 20 Aug 2026 07:40:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$PPC 🤝 Merger · Unsolicited
 Receives unsolicited stock bid from JBS: 2.086 JBS shares per PPC share
@@ -583,15 +594,6 @@ Mcap $7M · Cons Disc</title>
       <pubDate>Wed, 19 Aug 2026 07:43:21 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$ANL 🌍 Re-domicile
-Redomiciles to Singapore from Cayman; ADSs trade under ANL
-Mcap $524M · EV $541M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1944552/000121390026091426/ea0299686-6k_adlai.htm</link>
-      <guid isPermaLink="false">0001213900-26-091426</guid>
-      <pubDate>Wed, 19 Aug 2026 07:35:37 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
