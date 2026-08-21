@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 21 Aug 2026 19:33:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:51:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PALX 📍 Stake
+Receives 13D/A from director Ogawa; stake 6.9% after VLI exchange
+Mcap $307M · EV $300M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1938569/000149315226039653/primary_doc.xml</link>
+      <guid isPermaLink="false">0001493152-26-039653</guid>
+      <pubDate>Fri, 21 Aug 2026 14:51:19 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$PHG 👀 Activist
 Raises Philips ownership cap to 22% from 20%
@@ -583,15 +592,6 @@ Mcap $64M · Tech</title>
       <guid isPermaLink="false">0001193125-26-359180</guid>
       <pubDate>Thu, 20 Aug 2026 15:10:16 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BSIN 📍 Stake
-Sage Road Capital discloses 4.9% stake in 13D/A
-Mcap $73M · EV $72M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/101594/000143774926028630/primary_doc.xml</link>
-      <guid isPermaLink="false">0001437749-26-028630</guid>
-      <pubDate>Thu, 20 Aug 2026 14:45:28 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
