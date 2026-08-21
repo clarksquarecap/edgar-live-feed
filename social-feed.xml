@@ -6,8 +6,36 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 21 Aug 2026 21:23:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:25:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SCOR 📍 Stake
+Holds 49.99% stake in comScore
+Mcap $106M · EV $223M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1158172/000114036126034034/primary_doc.xml</link>
+      <guid isPermaLink="false">0001140361-26-034034</guid>
+      <pubDate>Fri, 21 Aug 2026 16:25:09 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$APUS 🤝 Merger
+Acquires Apitox rights from FreeT
+Mcap $7M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1894525/000121390026092680/ea0303076-8k_apimeds.htm</link>
+      <guid isPermaLink="false">0001213900-26-092680</guid>
+      <pubDate>Fri, 21 Aug 2026 16:24:41 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MGRX 💥 Busted M&amp;A
+Terminates BCA with Nuclea Energy; PIPE condition unmet
+Mcap $9M · EV $9M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1938046/000149315226039724/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-039724</guid>
+      <pubDate>Fri, 21 Aug 2026 16:24:07 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$FOX 🤝 Merger
 Acquires Roku for 0.9693 FOXA shares + $96 cash per share
@@ -443,37 +471,6 @@ Mcap $17M · EV $26M · Cons Disc</title>
       <guid isPermaLink="false">0001493152-26-039534</guid>
       <pubDate>Thu, 20 Aug 2026 18:18:49 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ASPI 🪙 Debt Restr.
-Restructures ZAR230.5M loan; grants put option on 1.55M shares
-Mcap $635M · EV $616M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1921865/000147793226005196/aspi_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-005196</guid>
-      <pubDate>Thu, 20 Aug 2026 16:24:27 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$REAX 🤝 Merger
-Preliminary election results: cash prorated to ~$4.33 + 0.3535 shares; close Aug 24
-RE/MAX · cash/stk elect · close 2026-08-24
-Mcap $355M · EV $292M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1862461/000110465926099275/tm2623609d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-099275</guid>
-      <pubDate>Thu, 20 Aug 2026 16:24:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TECH 🤝 Merger
-Acquired by Merck KGaA for $73.00 cash/share; vote Sept 23
-~$11.45B deal · cash · close Q4 2026
-Mcap $11B · EV $11B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/842023/000114036126033911/ny20078105x2_defm14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-033911</guid>
-      <pubDate>Thu, 20 Aug 2026 16:24:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
