@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 20 Aug 2026 23:18:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 00:20:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CHTR 📍 Stake
+Enters Third Amended Stockholders Agreement with Cox and A/N
+Mcap $19B · EV $120B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1091667/000095014226002396/primary_doc.xml</link>
+      <guid isPermaLink="false">0000950142-26-002396</guid>
+      <pubDate>Thu, 20 Aug 2026 19:20:19 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$DOGZ 📍 Stake
 Receives 13D from Ming Kai Trading disclosing 35.67% stake
@@ -625,15 +634,6 @@ Mcap $820K · EV $390K · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/2022416/000121390026091845/primary_doc.xml</link>
       <guid isPermaLink="false">0001213900-26-091845</guid>
       <pubDate>Wed, 19 Aug 2026 19:21:38 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$PFSA 📍 Stake
-Receives 13D from NorthView Sponsor I, LLC disclosing 49.9% stake
-Mcap $180K · EV $12M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1859807/000121390026091840/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-091840</guid>
-      <pubDate>Wed, 19 Aug 2026 19:15:22 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
