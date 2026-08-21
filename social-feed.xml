@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 21 Aug 2026 20:55:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:02:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SDOT 🪙 Debt Restr.
+Settles $543K debentures via 67,936 shares at $8.00
+Mcap $17M · EV $30M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1701756/000173112226001123/e7883_8-k.htm</link>
+      <guid isPermaLink="false">0001731122-26-001123</guid>
+      <pubDate>Fri, 21 Aug 2026 16:02:32 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$DCBO 💧 Capital Return · Self-tender
 Raises issuer bid to $25.00/share; extends expiry to Sept 8
@@ -466,27 +475,6 @@ Mcap $5.1B · EV $11B · Industrials</title>
       <guid isPermaLink="false">0001104659-26-099264</guid>
       <pubDate>Thu, 20 Aug 2026 16:04:45 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$RFAI 🤝 Merger
-Acquires Nanyang Biologics; shareholder vote passes
-Nanyang Biologics Pte.
-Mcap $92M · EV $92M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2012807/000182912626009168/rfacquisition2_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-009168</guid>
-      <pubDate>Thu, 20 Aug 2026 15:57:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RFAI 🤝 Merger
-Shareholders approve merger with Nanyang Biologics; redemptions pending
-Mcap $92M · EV $92M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2012807/000182912626009169/rfacquisition2_425.htm</link>
-      <guid isPermaLink="false">0001829126-26-009169</guid>
-      <pubDate>Thu, 20 Aug 2026 15:57:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
