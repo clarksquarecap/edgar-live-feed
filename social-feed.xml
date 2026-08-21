@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 21 Aug 2026 10:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:13:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SLP 🤝 Merger
+Acquired by SP Evolution HoldCo II; vote Aug 27
+Mcap $371M · EV $321M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1023459/000102345926000058/simulationsplusinc-proxysu.htm</link>
+      <guid isPermaLink="false">0001023459-26-000058</guid>
+      <pubDate>Fri, 21 Aug 2026 05:13:38 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BSTR 💥 Busted M&amp;A
 Terminates merger with CEPO; pays $15M termination fee</title>
@@ -624,46 +634,6 @@ Mcap $14B · EV $20B · Financials</title>
       <guid isPermaLink="false">0001193125-26-357714</guid>
       <pubDate>Thu, 20 Aug 2026 05:16:36 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$SDOT 🪙 Debt Restr.
-Settles $271K debenture with 33,968 shares; July Note conversion price adjusted
-Mcap $17M · EV $30M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1701756/000173112226001106/e7876_8-k.htm</link>
-      <guid isPermaLink="false">0001731122-26-001106</guid>
-      <pubDate>Thu, 20 Aug 2026 05:10:05 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$AEG 📤 Divestiture
-Sells Aegon UK to Standard Life for GBP 2.0B; EGM Oct 8 for US move
-GBP 2.0 billion deal · close end of 2026
-Mcap $14B · EV $20B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/769218/000119312526357694/d131063d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-357694</guid>
-      <pubDate>Thu, 20 Aug 2026 05:09:14 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$NTWO 🤝 Merger
-Acquires Fort Robotics for $500M; lists as FROB on Nasdaq
-Mcap $258M · EV $258M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028027/000121390026091818/ea0302659-425_newbury2.htm</link>
-      <guid isPermaLink="false">0001213900-26-091818</guid>
-      <pubDate>Thu, 20 Aug 2026 05:08:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SKYE 🤝 Merger
-Acquires Redx Pharma; reverse split effective Aug 24
-Redx Pharma Limited · stock
-Mcap $19M · EV $2M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1516551/000162828026058121/skye20260819-defa14arevers.htm</link>
-      <guid isPermaLink="false">0001628280-26-058121</guid>
-      <pubDate>Thu, 20 Aug 2026 05:08:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
