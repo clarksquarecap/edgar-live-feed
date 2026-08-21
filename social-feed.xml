@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 21 Aug 2026 20:25:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:32:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NIMU 🤝 Merger
+Guarantees $1M loan for Gravitics to fund merger working capital
+Mcap $9M · EV $10M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/720762/000149315226039692/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-039692</guid>
+      <pubDate>Fri, 21 Aug 2026 15:32:41 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DXST 📍 Stake
 Receives 13D/A from Chairman Sun; stake 41.58%
@@ -570,24 +580,6 @@ Mcap $515M · Financials</title>
       <guid isPermaLink="false">0001835856-26-000023</guid>
       <pubDate>Thu, 20 Aug 2026 15:35:05 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$GPI 👀 Activist
-Takes 9.7% stake, proposes board seat for Benjamin Hart
-Mcap $3.1B · EV $8.7B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1031203/000090514826003844/primary_doc.xml</link>
-      <guid isPermaLink="false">0000905148-26-003844</guid>
-      <pubDate>Thu, 20 Aug 2026 15:28:46 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$RSG 📍 Stake
-Receives 13D/A: Cascade Investment boosts stake to 36.7%
-Mcap $64B · EV $78B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1060391/000110465926099242/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-099242</guid>
-      <pubDate>Thu, 20 Aug 2026 15:28:33 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
