@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 21 Aug 2026 00:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 00:26:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CHTR 📍 Stake
@@ -625,15 +625,6 @@ Mcap $417M · EV $2.0B · Real Estate</title>
       <link>https://www.sec.gov/Archives/edgar/data/1456772/000091957426005634/primary_doc.xml</link>
       <guid isPermaLink="false">0000919574-26-005634</guid>
       <pubDate>Wed, 19 Aug 2026 20:39:18 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SLXN 📍 Stake
-Increases Silexion stake to 25%; disputes note-conversion shares
-Mcap $820K · EV $390K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2022416/000121390026091845/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-091845</guid>
-      <pubDate>Wed, 19 Aug 2026 19:21:38 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
