@@ -6,8 +6,36 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 21 Aug 2026 10:06:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:07:39 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BSTR 💥 Busted M&amp;A
+Terminates merger with CEPO; pays $15M termination fee</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2083583/000121390026092250/ea0302679-8k425_bstr.htm</link>
+      <guid isPermaLink="false">0001213900-26-092250</guid>
+      <pubDate>Fri, 21 Aug 2026 05:07:39 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
+    <item>
+      <title>$LGO 🪙 Debt Restr.
+Restructures $82.2M debt; maturity extended to 2030
+Mcap $71M · EV $176M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1400438/000106299326004536/form6k.htm</link>
+      <guid isPermaLink="false">0001062993-26-004536</guid>
+      <pubDate>Fri, 21 Aug 2026 05:07:20 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$AERO ⚖️ Litigation · Won
+Wins Eleventh Circuit ruling; Delta JV antitrust immunity preserved
+vs Delta Air Lines
+Mcap $1.9B · EV $5.0B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1561861/000119312526359690/d180062d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-359690</guid>
+      <pubDate>Fri, 21 Aug 2026 05:06:46 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
     <item>
       <title>$BAK 🪙 Debt Restr.
 Prepares out-of-court restructuring of $10.3B debt
