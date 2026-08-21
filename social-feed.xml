@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 21 Aug 2026 20:40:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:47:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DCBO 💧 Capital Return · Self-tender
+Raises issuer bid to $25.00/share; extends expiry to Sept 8
+Mcap $510M · EV $531M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829959/000119312526361237/d109326d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-361237</guid>
+      <pubDate>Fri, 21 Aug 2026 15:47:14 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$BBAIX 📍 Stake
 Receives 13D/A from BBH; stake now 54.81%</title>
@@ -497,27 +507,6 @@ Mcap $809M · EV $21B · Industrials</title>
       <pubDate>Thu, 20 Aug 2026 15:50:39 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
       <category>settlement</category>
-    </item>
-    <item>
-      <title>$LPSN 🤝 Merger
-Merger vote adjourned to Sept 2; insufficient votes
-SoundHound AI
-Mcap $22M · EV $314M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1102993/000119312526359283/d127293d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-359283</guid>
-      <pubDate>Thu, 20 Aug 2026 15:44:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$JHX 📤 Divestiture
-Sells Fermacell European business to Holcim for €840M cash
-€840 million (~$980 million USD) deal · close H1 2027
-Mcap $16B · EV $21B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1159152/000162828026058265/jhx-20260820.htm</link>
-      <guid isPermaLink="false">0001628280-26-058265</guid>
-      <pubDate>Thu, 20 Aug 2026 15:43:52 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
