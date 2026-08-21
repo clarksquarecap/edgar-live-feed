@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 21 Aug 2026 20:15:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:23:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MMED 🤝 Merger
+Proxy supplement for pending acquisition vote
+Mcap $5.7B · EV $5.4B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2062583/000114036126034022/ny20073045x2_defa14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-034022</guid>
+      <pubDate>Fri, 21 Aug 2026 15:23:54 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$PFSA 🪙 Debt Restr.
 Exchanges $6.1M notes for preferred at $4.28; issues $714K convertible note
@@ -559,54 +569,6 @@ Mcap $64B · EV $78B · Industrials</title>
       <guid isPermaLink="false">0001104659-26-099242</guid>
       <pubDate>Thu, 20 Aug 2026 15:28:33 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$GMM 🤝 Merger
-Acquires 5.06% stake in Qifei (Shanghai) Technology for $4.05M in shares
-$4,050,000 deal · stock · close 2026-08-19
-Mcap $4M · EV $6M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1913749/000121390026092118/ea0302838-6k_global.htm</link>
-      <guid isPermaLink="false">0001213900-26-092118</guid>
-      <pubDate>Thu, 20 Aug 2026 15:20:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VCIG 🪓 Spinoff
-Spins off tech business into V Gallai; Nasdaq listing planned
-Mcap $2M · EV $5M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1930510/000121390026092120/ea0302880-6k_vciglobal.htm</link>
-      <guid isPermaLink="false">0001213900-26-092120</guid>
-      <pubDate>Thu, 20 Aug 2026 15:20:32 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$KCA-UN 🤝 Merger
-Nth Cycle lands up to $100M DOE grant; merger advances</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2102713/000119312526359211/d141905d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-359211</guid>
-      <pubDate>Thu, 20 Aug 2026 15:20:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RCICX 🤝 Merger
-Merged into BC Partners Lending Corp; vote July 7
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1628040/000139834426015088/fp0100557-2_425.htm</link>
-      <guid isPermaLink="false">0001398344-26-015088</guid>
-      <pubDate>Thu, 20 Aug 2026 15:20:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VOYA ⚔️ Proxy
-Launches no-confidence referendum at Voya; seeks strategic review
-Mcap $9.1B · EV $15B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1535929/000114036126033879/ny20078175x6_prrn14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-033879</guid>
-      <pubDate>Thu, 20 Aug 2026 15:19:43 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
