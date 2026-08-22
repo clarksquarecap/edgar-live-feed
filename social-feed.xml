@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 22 Aug 2026 10:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:12:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$WATR 📍 Stake
@@ -477,23 +477,6 @@ Mcap $371M · EV $321M · Healthcare</title>
       <pubDate>Fri, 21 Aug 2026 05:13:38 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BSTR 💥 Busted M&amp;A
-Terminates merger with CEPO; pays $15M termination fee</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2083583/000121390026092250/ea0302679-8k425_bstr.htm</link>
-      <guid isPermaLink="false">0001213900-26-092250</guid>
-      <pubDate>Fri, 21 Aug 2026 05:07:39 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$LGO 🪙 Debt Restr.
-Restructures $82.2M debt; maturity extended to 2030
-Mcap $71M · EV $176M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1400438/000106299326004536/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-004536</guid>
-      <pubDate>Fri, 21 Aug 2026 05:07:20 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
