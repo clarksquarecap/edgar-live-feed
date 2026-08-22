@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 22 Aug 2026 19:54:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:05:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$WATR 📍 Stake
@@ -278,34 +278,6 @@ Mcap $6M · EV $4M · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-099668</guid>
       <pubDate>Fri, 21 Aug 2026 15:06:03 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$MED 📍 Stake
-Receives 13D/A from Steamboat Capital; stake now 7.1%
-Mcap $120M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/910329/000121390026092590/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-092590</guid>
-      <pubDate>Fri, 21 Aug 2026 15:05:49 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RENX 📤 Divestiture
-Sells Norman Berry property for $2.6M cash via 50% JV
-Mcap $5M · EV $28M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1959023/000121390026092589/ea0302981-8k_renx.htm</link>
-      <guid isPermaLink="false">0001213900-26-092589</guid>
-      <pubDate>Fri, 21 Aug 2026 15:04:02 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$FBRX 🎯 Tender
-Tender offer at $77.00/share cash from argenx
-argenx BV · 1.58B deal · cash
-Mcap $1.9B · EV $1.8B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1419041/000114036126034011/ny20080630x2_sc14d9a.htm</link>
-      <guid isPermaLink="false">0001140361-26-034011</guid>
-      <pubDate>Fri, 21 Aug 2026 15:03:44 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
