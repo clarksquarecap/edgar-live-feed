@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 22 Aug 2026 11:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 11:56:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$WATR 📍 Stake
@@ -436,16 +436,6 @@ Mcap $250K · EV $10M · Tech</title>
       <pubDate>Fri, 21 Aug 2026 07:13:45 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$ABUS 💧 Capital Return · Self-tender
-Plans $230M modified Dutch auction tender at $5.00-$5.75/share
-Mcap $944M · EV $855M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1447028/000110465926099390/tm2623751d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-099390</guid>
-      <pubDate>Fri, 21 Aug 2026 06:54:57 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
