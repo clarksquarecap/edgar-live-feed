@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 22 Aug 2026 14:04:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:11:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$WATR 📍 Stake
@@ -334,16 +334,6 @@ Mcap $196M · EV $237M · Financial Serv</title>
       <guid isPermaLink="false">0002071844-26-001114</guid>
       <pubDate>Fri, 21 Aug 2026 13:22:09 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$NEOG 🤝 Merger
-Proxy supplement for pending acquisition
-Mcap $2.6B · EV $3.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/711377/000119312526360749/neogen_2026_proxy-add_ma.htm</link>
-      <guid isPermaLink="false">0001193125-26-360749</guid>
-      <pubDate>Fri, 21 Aug 2026 13:09:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
