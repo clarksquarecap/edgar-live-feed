@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 22 Aug 2026 20:52:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 21:03:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$WATR 📍 Stake
@@ -166,24 +166,6 @@ Mcap $20M · EV $10M · Healthcare</title>
       <guid isPermaLink="false">0001193125-26-361273</guid>
       <pubDate>Fri, 21 Aug 2026 16:04:48 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$CUE 📍 Stake
-CEO files 13D on 6.2% stake
-Mcap $103M · EV $89M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1645460/000172509226000015/primary_doc.xml</link>
-      <guid isPermaLink="false">0001725092-26-000015</guid>
-      <pubDate>Fri, 21 Aug 2026 16:03:02 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SDOT 🪙 Debt Restr.
-Settles $543K debentures via 67,936 shares at $8.00
-Mcap $17M · EV $30M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1701756/000173112226001123/e7883_8-k.htm</link>
-      <guid isPermaLink="false">0001731122-26-001123</guid>
-      <pubDate>Fri, 21 Aug 2026 16:02:32 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
