@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 22 Aug 2026 18:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 19:14:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$WATR 📍 Stake
@@ -315,16 +315,6 @@ Mcap $307M · EV $300M · Tech</title>
       <guid isPermaLink="false">0001493152-26-039653</guid>
       <pubDate>Fri, 21 Aug 2026 14:51:19 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$PHG 👀 Activist
-Raises Philips ownership cap to 22% from 20%
-19.03 stake
-Mcap $27B · EV $34B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/313216/000119312526360944/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-360944</guid>
-      <pubDate>Fri, 21 Aug 2026 14:09:23 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
