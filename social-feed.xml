@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 10:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:38:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BAK 🪙 Debt Restr.
@@ -795,26 +795,6 @@ Mcap $1.2B · EV $2.8B · Cons Stpl</title>
       <pubDate>Mon, 24 Aug 2026 05:51:16 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DTTLY 💧 Capital Return · Special Div
-Declares special dividend of 2,900 ZAR cents/share (~$435M) with scrip alternative
-Mcap $1.2B · EV $1.2B · Tech</title>
-      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=92627</link>
-      <guid isPermaLink="false">OTC-532705</guid>
-      <pubDate>Mon, 24 Aug 2026 05:33:48 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$LODE 📤 Divestiture
-Sells legacy mining assets to Mackay for $45M+; $20M cash + 2M shares
-to Mackay Precious Metals · &gt;$45M deal · close 2026-08-24
-Mcap $268M · EV $259M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1120970/000143774926028777/lode20260818_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-028777</guid>
-      <pubDate>Mon, 24 Aug 2026 05:33:38 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
