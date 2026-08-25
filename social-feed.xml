@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 20:10:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:12:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HODO 📍 Stake
+Receives 13D from Much Wow Ltd. for 10.1% stake
+Mcap $34M · EV $36M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1903595/000215171126000002/primary_doc.xml</link>
+      <guid isPermaLink="false">0002151711-26-000002</guid>
+      <pubDate>Tue, 25 Aug 2026 15:12:06 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$JAZZ ⚖️ Litigation · Won
 Won FDA approval for Ziihera in first-line HER2+ GEA
@@ -736,28 +745,6 @@ Mcap $9M · EV $14M · Industrials</title>
       <pubDate>Mon, 24 Aug 2026 15:18:58 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$LPSN 🤝 Merger
-Acquired by SoundHound AI in stock deal; proxy mailed July 9
-stock
-Mcap $22M · EV $314M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1102993/000110299326000135/a425filing8_24-internalcomm.htm</link>
-      <guid isPermaLink="false">0001102993-26-000135</guid>
-      <pubDate>Mon, 24 Aug 2026 15:11:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SKYE 🤝 Merger
-Acquires Redx Pharma; secures $22M ELOC with Redmile
-Redx Pharma Limited
-Mcap $19M · EV $2M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1516551/000162828026058615/skye20260824-defa14aeloc.htm</link>
-      <guid isPermaLink="false">0001628280-26-058615</guid>
-      <pubDate>Mon, 24 Aug 2026 15:11:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
