@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 10:02:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:08:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DXLG 🤝 Merger · Unsolicited
+Tender offer fails (23% tendered); Zodiac vows to oppose FBB merger, seek new deal
+cash
+Mcap $31M · EV $228M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/813298/000149315226039939/formsctota.htm</link>
+      <guid isPermaLink="false">0001493152-26-039939</guid>
+      <pubDate>Tue, 25 Aug 2026 05:08:38 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$MDXG 🤝 Merger
 Acquires Sanara MedTech for $33 cash + 0.4735 MDXG shares/share
@@ -709,16 +720,6 @@ Mcap $625M · EV $390M · Healthcare</title>
       <pubDate>Mon, 24 Aug 2026 05:11:45 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>lost</category>
-    </item>
-    <item>
-      <title>$SQFT 💧 Capital Return · Recap
-Exchanges 9.375% Series D preferred for 5.5 common shares each
-Mcap $3M · EV $91M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1080657/000149315226039741/formsctoia.htm</link>
-      <guid isPermaLink="false">0001493152-26-039741</guid>
-      <pubDate>Mon, 24 Aug 2026 05:03:35 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
