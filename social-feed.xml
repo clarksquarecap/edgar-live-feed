@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 21:26:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:41:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PARR 📤 Divestiture
+Exits Laramie Energy investment via $485M asset sale
+to third-party purchaser · close end of 2026
+Mcap $3.7B · EV $4.7B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/821483/000143774926028947/parr20260825_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-028947</guid>
+      <pubDate>Tue, 25 Aug 2026 16:41:26 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CPPKF 🤝 Merger
 Secures shareholder approval for San Manuel acquisition; ICA condition met
@@ -790,73 +800,6 @@ Mcap $255M · EV $396M · Utilities</title>
       <guid isPermaLink="false">0001696663-26-000001</guid>
       <pubDate>Mon, 24 Aug 2026 17:03:48 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$MITI 📍 Stake
-CEO discloses 7.1% stake via compensation grants
-Mcap $730K · EV $2M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/802257/000118518526003697/primary_doc.xml</link>
-      <guid isPermaLink="false">0001185185-26-003697</guid>
-      <pubDate>Mon, 24 Aug 2026 16:39:53 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ANY 🌍 Re-domicile
-Approves continuance to BC; rebrands as DarkHorse Technologies
-Mcap $15M · EV $12M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1591956/000106299326004571/form8k.htm</link>
-      <guid isPermaLink="false">0001062993-26-004571</guid>
-      <pubDate>Mon, 24 Aug 2026 16:39:34 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$JOB 📍 Stake
-Receives 13D/A from Star Equity disclosing 5.7% stake
-Mcap $21M · EV $5M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/40570/000191567326000034/primary_doc.xml</link>
-      <guid isPermaLink="false">0001915673-26-000034</guid>
-      <pubDate>Mon, 24 Aug 2026 16:33:09 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$VBNK 🌍 Re-domicile
-Reorganizes into Delaware holding company; vote Sept 16
-Mcap $621M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1690639/000110465926100370/tm2623832-1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-100370</guid>
-      <pubDate>Mon, 24 Aug 2026 16:32:27 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$RACC 🤝 Merger
-Acquires Oak Hill Bio in stock merger; $55M PIPE, $75M backstop
-stock
-Mcap $223M · EV $223M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2118032/000119312526363800/d149484ds4.htm</link>
-      <guid isPermaLink="false">0001193125-26-363800</guid>
-      <pubDate>Mon, 24 Aug 2026 16:32:07 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$HVII 🤝 Merger
-Shareholders approve merger with ONE Nuclear
-ONE Nuclear Energy
-Mcap $274M · EV $273M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1846416/000149315226039920/form425.htm</link>
-      <guid isPermaLink="false">0001493152-26-039920</guid>
-      <pubDate>Mon, 24 Aug 2026 16:31:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ARI 🧊 Liquidation
-Dissolution plan to shareholders; vote Sept 29
-Mcap $889M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1467760/000119312526363807/d119099ddefm14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-363807</guid>
-      <pubDate>Mon, 24 Aug 2026 16:31:39 -0500</pubDate>
-      <category>LIQUIDATION</category>
     </item>
   </channel>
 </rss>
