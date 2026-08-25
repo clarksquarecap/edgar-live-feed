@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 21:23:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:25:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ENSC 🤝 Merger
+Faces Nasdaq initial listing requirement after Cy acquisition
+Cy Biopharma
+Mcap $5M · EV $4M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1716947/000149315226040080/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-040080</guid>
+      <pubDate>Tue, 25 Aug 2026 16:25:42 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EMPD ⚔️ Proxy
 Faces proxy contest from ATG Capital; AGM Oct 14
@@ -816,25 +827,6 @@ Mcap $889M · Real Estate</title>
       <guid isPermaLink="false">0001193125-26-363807</guid>
       <pubDate>Mon, 24 Aug 2026 16:31:39 -0500</pubDate>
       <category>LIQUIDATION</category>
-    </item>
-    <item>
-      <title>$RGNX ⚖️ Litigation · Lost
-FDA clinical hold on RGX-121; BLA resubmission delayed
-Mcap $708M · EV $853M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1590877/000119312526363786/rgnx-20260824.htm</link>
-      <guid isPermaLink="false">0001193125-26-363786</guid>
-      <pubDate>Mon, 24 Aug 2026 16:25:42 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
-    </item>
-    <item>
-      <title>$BAK 🪙 Debt Restr.
-Files out-of-court reorganization; shares confidential info with noteholders
-Mcap $809M · EV $13B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426004326/bak20260824_6k2.htm</link>
-      <guid isPermaLink="false">0001292814-26-004326</guid>
-      <pubDate>Mon, 24 Aug 2026 16:25:12 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
