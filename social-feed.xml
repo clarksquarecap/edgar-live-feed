@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 13:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:21:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EUEV 🤝 Merger
+Acquired by EUROEV in $410M reverse merger; vote Sept 14
+EUROEV Holdings Limited · 410,000,000 deal · stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1853047/000109690626001289/huda_defm14a.htm</link>
+      <guid isPermaLink="false">0001096906-26-001289</guid>
+      <pubDate>Tue, 25 Aug 2026 08:21:48 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CVAT 📤 Divestiture
 Sells Alchemy Beverages to European Guarantee Services via tender offer
@@ -683,25 +693,6 @@ Mcap $244M · EV $188M · Materials</title>
       <pubDate>Mon, 24 Aug 2026 10:13:40 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BAK 🪙 Debt Restr.
-Files for extrajudicial reorganization to restructure $10.9B debt
-Mcap $809M · EV $13B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426004320/bak20260824_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004320</guid>
-      <pubDate>Mon, 24 Aug 2026 08:20:41 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$UTZ 📦 Going Private
-Taken private by Intersnack for $14.25/share cash; vote pending
-cash
-Mcap $1.2B · EV $2.8B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1739566/000119312526362085/d75151dsc13e3.htm</link>
-      <guid isPermaLink="false">0001193125-26-362085</guid>
-      <pubDate>Mon, 24 Aug 2026 08:20:31 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
   </channel>
 </rss>
