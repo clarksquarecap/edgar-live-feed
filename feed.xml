@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 10:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:12:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · FFAI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1805521/000121390026093183/ea0303217-8ka1_faraday.htm</link>
+      <guid isPermaLink="false">0001213900-26-093183</guid>
+      <pubDate>Tue, 25 Aug 2026 05:12:31 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>8-K/A</category>
+      <scanner:headline>Eliminates 237,615 potential warrants, cutting ~40% dilution</scanner:headline>
+      <scanner:shortName>FARADAY FUTURE INTELLIGENT ELECTRIC</scanner:shortName>
+      <scanner:price>4.93</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Eliminates 237,615 potential warrants, cutting ~40% dilution&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Reached an amendment with 2025 March Financing investors to terminate warrant obligations for ~237,615 shares, eliminating all remaining warrants from that round and avoiding nearly 40% of potential maximum dilution. The amendment also partially assigns investment commitments and optimizes remaining closings. This follows prior warrant terminations in December 2025, completing the full reset of the March 2025 financing warrants.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Faraday Future Intelligent Electric Inc., together with its subsidiaries, engages in the design, development, manufacture, engineering, distribution, and sale of electric vehicles and related products in the United States. The company operates in two segments: AI Electric Vehicle and Digital Assets. The company’s technology comprises variable platform architecture, propulsion system, Internet, autonomous driving, and intelligence system.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; 2025 March Financing investors&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $4.93 · Mkt cap $10.0M · EV $142.4M · Consumer Discretionary / Automobiles&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1805521/000121390026093183/0001213900-26-093183-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FFAI&lt;/b&gt; · 8-K/A · Items 7.01, 9.01 · Transportation Equipment (3711) · 8k_tier1:7.01 · filed 2026-08-25&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · VBNK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1690639/000110465926100462/tm2623832d2_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-100462</guid>
+      <pubDate>Tue, 25 Aug 2026 05:11:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Reorganizes into Versa Bancorp holding company</scanner:headline>
+      <scanner:shortName>VersaBank</scanner:shortName>
+      <scanner:price>19.59</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Reorganizes into Versa Bancorp holding company&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a Reorganization Agreement with Versa Bancorp, a newly formed Delaware corporation, to become its subsidiary. Shareholders will exchange their VersaBank common shares for exchangeable shares of VersaBank or shares of Versa Bancorp. The transaction is subject to shareholder and regulatory approvals, including Bank Act and U.S. Federal Reserve approvals.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VersaBank provides various banking products and services in Canada and the United States. The company operates through four segments: Digital Banking Canada, Digital Banking USA, DRTC (Cybersecurity), and Digital Meteor. It offers deposit products, such as guaranteed investment certificates, registered retirement savings plans, and tax-free savings accounts, as well as deposit insurance products.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Versa Bancorp&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder meeting and regulatory approvals&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $19.59 · Mkt cap $621.3M · Fwd P/E 15.5x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1690639/000110465926100462/0001104659-26-100462-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VBNK&lt;/b&gt; · 6-K · Depository Institutions (6029) · prefill_form:6-K · filed 2026-08-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · NYAX</title>
       <link>https://www.sec.gov/Archives/edgar/data/1901279/000117891326004245/zk2636006.htm</link>
@@ -9519,45 +9558,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.4600 · Mkt cap $9.2M · EV $9.3M · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1938046/000149315226037797/0001493152-26-037797-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MGRX&lt;/b&gt; · 425 · Health Services (8090) · prefill_form:425 · filed 2026-08-13&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · PLQC</title>
-      <link>https://psbplains.com/wp-content/uploads/2023/12/PAC-Notification_-_Press-Release-8.17.2023.pdf</link>
-      <guid isPermaLink="false">OTC-531721</guid>
-      <pubDate>Thu, 13 Aug 2026 15:35:50 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>OTC</category>
-      <scanner:headline>Acquires Core + Financial Strategies ($317M AUM) and Core + Tax</scanner:headline>
-      <scanner:shortName>Plains Acquisition</scanner:shortName>
-      <scanner:price>70.00</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Core + Financial Strategies ($317M AUM) and Core + Tax&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered definitive agreements to acquire Core + Financial Strategies, an independent wealth management firm with approximately $317 million in client assets, and Core + Tax Strategies, a tax preparation business. The acquisitions will be integrated into Plains State Bank and Plains Financial Services. Closing expected at end of August.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Plains Acquisition Corporation operates as a bank holding company for Plains State Bank that provides banking products and services for individual and small and medium-sized businesses in the United States. The company offers checking, savings, business, and money markets accounts; certificate of deposit; consumer and business credit cards; business term, SBA, commercial real estate, constriction, equipment, and other consumer related loans; treasury management services; and online and mobile ba…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Core + Financial Strategies; Core + Tax Strategies&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; end of August&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing expected end of August&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $70.00 · Mkt cap $181.9M · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/PLQC/news/531721'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PLQC&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-08-13&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · MTNB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1582554/000092189526002111/0000921895-26-002111-index.htm</link>
-      <guid isPermaLink="false">0000921895-26-002111</guid>
-      <pubDate>Thu, 13 Aug 2026 15:34:59 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Receives 13D/A from Adam Stern; stake now 9.99%</scanner:headline>
-      <scanner:shortName>Matinas BioPharma</scanner:shortName>
-      <scanner:price>0.2900</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Adam Stern; stake now 9.99%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D/A from Adam Stern, who now beneficially owns 2,972,524 shares (9.99%) after exercising warrants and converting preferred stock. The stake increase reflects warrant exercises at $0.35 per share and cashless exercises, with ownership blockers capping the reported percentage.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Matinas BioPharma Holdings, Inc., a clinical-stage biopharmaceutical company, identifies and develops pharmaceutical products using its lipid nanocrystal (LNC) platform technology. The company’s LNC delivery technology platform utilizes lipid nanocrystals for the delivery of small molecules, nucleic acids, gene therapies, vaccines, proteins, and peptides.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Adam Stern&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.99&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-13&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.2900 · Mkt cap $1.9M · EV $720K · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1582554/000092189526002111/0000921895-26-002111-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MTNB&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-08-13&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

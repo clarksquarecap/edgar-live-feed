@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 10:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:12:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FFAI 🪙 Debt Restr.
+Eliminates 237,615 potential warrants, cutting ~40% dilution
+Mcap $10M · EV $142M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1805521/000121390026093183/ea0303217-8ka1_faraday.htm</link>
+      <guid isPermaLink="false">0001213900-26-093183</guid>
+      <pubDate>Tue, 25 Aug 2026 05:12:31 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$VBNK 🤝 Merger
+Reorganizes into Versa Bancorp holding company
+stock
+Mcap $621M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1690639/000110465926100462/tm2623832d2_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-100462</guid>
+      <pubDate>Tue, 25 Aug 2026 05:11:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NYAX 🤝 Merger
 Acquires IPS Group for $350M cash; close Q4 2026
@@ -771,17 +791,6 @@ Mcap $911M · EV $1.8B · Energy</title>
       <pubDate>Mon, 24 Aug 2026 05:20:35 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$CTKB ⚖️ Litigation · Lost
-Loses $56.11M patent verdict; challenges doctrine of equivalents
-vs Beckman Coulter
-Mcap $625M · EV $390M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1831915/000119312526361705/d137695d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-361705</guid>
-      <pubDate>Mon, 24 Aug 2026 05:11:45 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
     </item>
   </channel>
 </rss>
