@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 20:34:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:42:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EDSA 📍 Stake
+Increases stake in Edesa Biotech to 9.99%
+Mcap $55M · EV $53M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1540159/000092189526002310/primary_doc.xml</link>
+      <guid isPermaLink="false">0000921895-26-002310</guid>
+      <pubDate>Tue, 25 Aug 2026 15:42:36 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$PZZA 📤 Divestiture
 Sells 28 Orlando restaurants to franchisee Wade Oney
@@ -805,37 +814,6 @@ Mcap $33B · EV $40B · Materials</title>
       <guid isPermaLink="false">0001493152-26-039879</guid>
       <pubDate>Mon, 24 Aug 2026 15:43:39 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$SBMT 🤝 Merger
-Acquires Jefferson County Metallurgical Complex; CVR vote pending
-cash+stk
-Mcap $244M · EV $188M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2067674/000153949726002341/n5138_x31-8k.htm</link>
-      <guid isPermaLink="false">0001539497-26-002341</guid>
-      <pubDate>Mon, 24 Aug 2026 15:42:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$USDE 🪙 Debt Restr.
-Restructures $6.9M SPAC notes into cash + warrants
-Mcap $178M · EV $166M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2080215/000121390026093069/ea0303125-8k_stablecoinx.htm</link>
-      <guid isPermaLink="false">0001213900-26-093069</guid>
-      <pubDate>Mon, 24 Aug 2026 15:35:21 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$ORKT 🤝 Merger
-Acquires Orbis for ~$600M stock; becomes VeVe Inc.
-600,000,000 deal · stock
-Mcap $6M · EV $5M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1979407/000149315226039874/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-039874</guid>
-      <pubDate>Mon, 24 Aug 2026 15:34:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
