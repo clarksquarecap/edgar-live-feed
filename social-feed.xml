@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 20:25:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:27:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MBRX 📍 Stake
+Receives 13D from CFO Jonathan Foster
+Mcap $12M · EV $5M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1659617/000143774926028927/primary_doc.xml</link>
+      <guid isPermaLink="false">0001437749-26-028927</guid>
+      <pubDate>Tue, 25 Aug 2026 15:27:03 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$HUMA 📉 Delisting · Voluntary
+Redeemable warrants delisted from Nasdaq
+Mcap $156M · EV $143M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1818382/000135445726000819/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000819</guid>
+      <pubDate>Tue, 25 Aug 2026 15:26:12 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$TECH 🤝 Merger
 Acquired by Merck KGaA; German cartel approval received
@@ -767,25 +786,6 @@ Mcap $6M · EV $5M · Tech</title>
       <pubDate>Mon, 24 Aug 2026 15:34:39 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GAUZ 🪙 Debt Restr.
-Schedules creditors' vote on debt settlement Aug 27; court hearing Sep 6
-Mcap $8M · EV $70M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1781446/000121390026093032/ea0303160-6k_gauzyltd.htm</link>
-      <guid isPermaLink="false">0001213900-26-093032</guid>
-      <pubDate>Mon, 24 Aug 2026 15:26:46 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces Garg consent solicitation to remove majority of directors
-Vishal Garg
-Mcap $515M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000162828026058649/betr-defa14anotice211.htm</link>
-      <guid isPermaLink="false">0001628280-26-058649</guid>
-      <pubDate>Mon, 24 Aug 2026 15:26:15 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
