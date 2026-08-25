@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 12:42:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:48:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VLY 🤝 Merger
+Acquires Providence Financial in merger; VLY survives
+stock
+Mcap $7.8B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/714310/000119312526364240/d149125d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-364240</guid>
+      <pubDate>Tue, 25 Aug 2026 07:48:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GBCS 🎯 Tender
 Tender offer extended to Aug 24; $5.75/share cash; 2.77M shares in
@@ -724,17 +735,6 @@ Mcap $1.2B · EV $1.6B · Cons Disc</title>
       <pubDate>Mon, 24 Aug 2026 07:55:30 -0500</pubDate>
       <category>MERGER</category>
       <category>rumor_response</category>
-    </item>
-    <item>
-      <title>$SRCGF 🤝 Merger
-Acquires RFN Holdings for $50K cash, 2M CNC shares, 10M shares, NSR
-RAB Capital · cash+stk
-Mcap $67M · EV $64M · Materials</title>
-      <link>https://www.globenewswire.com/news-release/2023/11/16/2781917/0/en/Spruce-Ridge-Resources-Ltd-Announces-Agreement-with-RAB-Capital-Holdings-to-Acquire-Nickel-Assets-in-Oregon.html</link>
-      <guid isPermaLink="false">OTC-532765</guid>
-      <pubDate>Mon, 24 Aug 2026 07:43:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
