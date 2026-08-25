@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 20:42:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:48:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OLN 🤝 Merger
+Shareholders approve all-stock merger of equals with Huntsman
+stock
+Mcap $2.1B · EV $5.4B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/74303/000119312526365252/d359151d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-365252</guid>
+      <pubDate>Tue, 25 Aug 2026 15:48:35 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EDSA 📍 Stake
 Increases stake in Edesa Biotech to 9.99%
@@ -804,16 +815,6 @@ Mcap $49B · EV $46B · Industrials</title>
       <pubDate>Mon, 24 Aug 2026 15:57:17 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MLM 👀 Activist
-Receives 13D from LNH; 15.4% stake, board seat
-LNA Holding SRL
-Mcap $33B · EV $40B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/916076/000149315226039879/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-039879</guid>
-      <pubDate>Mon, 24 Aug 2026 15:43:39 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
