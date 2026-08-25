@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 12:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:16:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GBCS 🎯 Tender
+Tender offer extended to Aug 24; $5.75/share cash; 2.77M shares in
+Black Pearl Equities · cash · close 2026-08-24
+Mcap $17M · EV $34M · Real Estate</title>
+      <link>https://www.prnewswire.com/news-releases/black-pearl-extends-tender-offer-for-all-outstanding-shares-of-selectis-health-inc-302854191.html</link>
+      <guid isPermaLink="false">OTC-532909</guid>
+      <pubDate>Tue, 25 Aug 2026 07:16:51 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$CBDW 🔎 Strat Review · Strat Alts
 Explores strategic alternatives for Lufkin biomass project; sale possible
@@ -756,16 +766,6 @@ Mcap $188M · EV $185M · Materials</title>
       <guid isPermaLink="false">OTC-532757</guid>
       <pubDate>Mon, 24 Aug 2026 07:24:32 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CETI 🤝 Merger
-Merges with Air Power USA in definitive agreement; $45M funding MOU
-Mcap $4M · EV $7M · Industrials</title>
-      <link>https://www.newswire.com/news/cyber-enviro-tech-announces-definitive-agreement-with-air-power-usa-to-advance</link>
-      <guid isPermaLink="false">OTC-532750</guid>
-      <pubDate>Mon, 24 Aug 2026 07:14:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
