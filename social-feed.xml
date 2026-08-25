@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 12:02:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:09:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CBDW 🔎 Strat Review · Strat Alts
+Explores strategic alternatives for Lufkin biomass project; sale possible
+Mcap $320K · EV $2M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1877461/000147793226005256/cbdw_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-005256</guid>
+      <pubDate>Tue, 25 Aug 2026 07:09:00 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+    </item>
     <item>
       <title>$WATR 🤝 Merger · Preliminary
 Signs LOI to acquire spring water brand for $100M (stock+cash)
@@ -754,16 +764,6 @@ Mcap $4M · EV $7M · Industrials</title>
       <link>https://www.newswire.com/news/cyber-enviro-tech-announces-definitive-agreement-with-air-power-usa-to-advance</link>
       <guid isPermaLink="false">OTC-532750</guid>
       <pubDate>Mon, 24 Aug 2026 07:14:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CSHR 🤝 Merger
-Calls EGM Sept 15 to vote on acquisition
-Mcap $766M · EV $902M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2087587/000121390026092804/ea0303148-6k_coinshares.htm</link>
-      <guid isPermaLink="false">0001213900-26-092804</guid>
-      <pubDate>Mon, 24 Aug 2026 07:07:11 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
