@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 13:08:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:15:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CVAT 📤 Divestiture
+Sells Alchemy Beverages to European Guarantee Services via tender offer
+Mcap $12M · EV $13M · Tech</title>
+      <link>https://www.otcmarkets.com/stock/CVAT/news/532938</link>
+      <guid isPermaLink="false">OTC-532938</guid>
+      <pubDate>Tue, 25 Aug 2026 08:15:28 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$VLY 🤝 Merger
 Acquires Providence Financial in merger; VLY survives
@@ -693,15 +702,6 @@ Mcap $1.2B · EV $2.8B · Cons Stpl</title>
       <guid isPermaLink="false">0001193125-26-362085</guid>
       <pubDate>Mon, 24 Aug 2026 08:20:31 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$OPTT 🪙 Debt Restr.
-Going concern qualification; net loss widened to $48.9M
-Mcap $42M · EV $44M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1378140/000149315226039793/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-039793</guid>
-      <pubDate>Mon, 24 Aug 2026 08:14:07 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
