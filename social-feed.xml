@@ -6,8 +6,49 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 20:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:19:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CYCN 🤝 Merger
+Sets Sept 4 record date for CVR distribution in Korsana merger
+Korsana Biosciences
+Mcap $15M · EV $14M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1755237/000119312526365150/d376250d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-365150</guid>
+      <pubDate>Tue, 25 Aug 2026 15:19:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$RPGL 🌍 Re-domicile
+Shareholders approve BVI-to-Cayman redomiciliation
+Mcap $2M · EV $1M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1912884/000121390026093524/ea0303278-6k_republic.htm</link>
+      <guid isPermaLink="false">0001213900-26-093524</guid>
+      <pubDate>Tue, 25 Aug 2026 15:18:51 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
+    <item>
+      <title>$LPSN 🤝 Merger
+Vote FOR SoundHound AI merger by Sept 1; special meeting Sept 2
+stock
+Mcap $22M · EV $314M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1102993/000110299326000140/a425filing8_25-pressrelease.htm</link>
+      <guid isPermaLink="false">0001102993-26-000140</guid>
+      <pubDate>Tue, 25 Aug 2026 15:18:41 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$BRUN 📉 Delisting · Forced
+Warrant delisted from Nasdaq effective Aug 25
+Mcap $1.1B · EV $1.3B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2090646/000135445726000818/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000818</guid>
+      <pubDate>Tue, 25 Aug 2026 15:18:34 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$INVE 👀 Activist
 Clarifies proportional voting with Identiv via governance supplement
@@ -744,17 +785,6 @@ Mcap $274M · EV $283M · Tech</title>
       <guid isPermaLink="false">0001193125-26-363607</guid>
       <pubDate>Mon, 24 Aug 2026 15:20:00 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NCL 📉 Delisting · Forced
-Forced delisting from NYSE American; moves to OTC under NCLX
-effective 2026-08-24
-Mcap $9M · EV $14M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1923780/000157587226000603/ncl125_8k.htm</link>
-      <guid isPermaLink="false">0001575872-26-000603</guid>
-      <pubDate>Mon, 24 Aug 2026 15:18:58 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
