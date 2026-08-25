@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 10:55:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:08:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NFGC 📉 Delisting · Voluntary
+Graduates to TSX; trading starts Aug 26
+effective 2026-08-26
+Mcap $640M · EV $610M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1840616/000106299326004585/form6k.htm</link>
+      <guid isPermaLink="false">0001062993-26-004585</guid>
+      <pubDate>Tue, 25 Aug 2026 06:08:11 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$BAK 🪙 Debt Restr.
 Files extrajudicial restructuring plan to address liquidity crisis
@@ -765,25 +776,6 @@ Mcap $55M · EV $99M · Healthcare</title>
       <pubDate>Mon, 24 Aug 2026 06:09:37 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$BTAI 🪙 Debt Restr.
-Must repay Oaktree debt or secure capital solution by Aug 28
-Mcap $29M · EV $112M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1720893/000110465926099900/tm2623861d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-099900</guid>
-      <pubDate>Mon, 24 Aug 2026 06:03:38 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$GSK ⚖️ Litigation · Won
-Japan approves Hibsago as first functional cure for CHB
-Mcap $104B · EV $124B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1131399/000165495426007800/a8443r.htm</link>
-      <guid isPermaLink="false">0001654954-26-007800</guid>
-      <pubDate>Mon, 24 Aug 2026 06:03:16 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
