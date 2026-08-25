@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 20:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:10:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$JAZZ ⚖️ Litigation · Won
+Won FDA approval for Ziihera in first-line HER2+ GEA
+Mcap $17B · EV $19B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1232524/000162828026058864/jazz-20260825.htm</link>
+      <guid isPermaLink="false">0001628280-26-058864</guid>
+      <pubDate>Tue, 25 Aug 2026 15:10:57 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
     <item>
       <title>$CPAC 🎯 Tender
 Faces tender offer from Holcim; equity value S/3.7B
@@ -746,26 +756,6 @@ Mcap $19M · EV $2M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1516551/000162828026058615/skye20260824-defa14aeloc.htm</link>
       <guid isPermaLink="false">0001628280-26-058615</guid>
       <pubDate>Mon, 24 Aug 2026 15:11:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TG 📍 Stake
-Receives 13D/A from Gabelli group; ~20.9% stake
-Mcap $267M · EV $311M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/850429/000080724926000074/primary_doc.xml</link>
-      <guid isPermaLink="false">0000807249-26-000074</guid>
-      <pubDate>Mon, 24 Aug 2026 15:04:40 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$DSGX 🤝 Merger
-Acquires Tai Software for $100M cash
-$100 million deal · cash
-Mcap $6.7B · EV $6.3B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1050140/000092963826003188/form6k.htm</link>
-      <guid isPermaLink="false">0000929638-26-003188</guid>
-      <pubDate>Mon, 24 Aug 2026 15:04:09 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
