@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 10:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:31:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BCCQ 🤝 Merger
+Acquires Ursa Major for $1.6B stock; de-SPAC merger
+Ursa Major Technologies · 1600000000 deal · stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2128045/000121390026093231/ea0303013-8k425_bleichroed3.htm</link>
+      <guid isPermaLink="false">0001213900-26-093231</guid>
+      <pubDate>Tue, 25 Aug 2026 05:31:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ACA 🤝 Merger
 Acquired by CRH Americas for $150.00 cash/share; vote Sept 4
@@ -794,25 +804,6 @@ Mcap $268M · EV $259M · Energy</title>
       <link>https://www.sec.gov/Archives/edgar/data/1120970/000143774926028777/lode20260818_8k.htm</link>
       <guid isPermaLink="false">0001437749-26-028777</guid>
       <pubDate>Mon, 24 Aug 2026 05:33:38 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$KLXE 📜 Rights Issue
-Rights offering: 1 right/share buys 3.885 sh at $1.49; expires Sep 23
-Mcap $41M · EV $368M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738827/000119312526361735/d454213d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-361735</guid>
-      <pubDate>Mon, 24 Aug 2026 05:27:49 -0500</pubDate>
-      <category>RIGHTS_ISSUE</category>
-    </item>
-    <item>
-      <title>$DOMO 📤 Divestiture
-Sells substantially all assets to Progress Software for $400M cash
-$400 million deal
-Mcap $177M · EV $286M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1505952/000110465926099866/tm2621515-3_defm14c.htm</link>
-      <guid isPermaLink="false">0001104659-26-099866</guid>
-      <pubDate>Mon, 24 Aug 2026 05:27:25 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>
