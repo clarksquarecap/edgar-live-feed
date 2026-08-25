@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 23:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:44:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SUJA 📍 Stake
+Receives 13D/A from Paine Schwartz; stake now 65.5%
+Mcap $158M · EV $400M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934114/000114036126034359/primary_doc.xml</link>
+      <guid isPermaLink="false">0001140361-26-034359</guid>
+      <pubDate>Tue, 25 Aug 2026 18:44:09 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$BETR 📍 Stake
 Discloses 8.9% stake in Better Home
@@ -800,15 +809,6 @@ Mcap $76M · EV $70M · Healthcare</title>
       <guid isPermaLink="false">0000921895-26-002298</guid>
       <pubDate>Mon, 24 Aug 2026 19:01:31 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$VBIO 📍 Stake
-Receives 13D/A from 3i, LP; stake now 9.9%
-Mcap $940K · EV $11M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1787740/000175392626001610/primary_doc.xml</link>
-      <guid isPermaLink="false">0001753926-26-001610</guid>
-      <pubDate>Mon, 24 Aug 2026 18:43:53 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
