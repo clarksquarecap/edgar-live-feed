@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 20:54:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:04:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TBPH 🤝 Merger
+Acquired by Zymeworks; shareholder vote pending
+Mcap $877M · EV $518M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1583107/000110465926100863/tm2623927d2_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-100863</guid>
+      <pubDate>Tue, 25 Aug 2026 16:04:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$XPOF 👀 Activist
 Takes 9.9% activist stake; seeks strategic discussions with board
@@ -815,26 +825,6 @@ Mcap $4.1B · EV $4.0B · Tech</title>
       <guid isPermaLink="false">0000921895-26-002296</guid>
       <pubDate>Mon, 24 Aug 2026 16:04:53 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$SUZ 📍 Stake
-Receives 13D from Suzano Holding group; 45.5% voting stake
-Mcap $10B · EV $25B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/909327/000199937126018562/primary_doc.xml</link>
-      <guid isPermaLink="false">0001999371-26-018562</guid>
-      <pubDate>Mon, 24 Aug 2026 16:04:23 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RKLB 🤝 Merger
-Acquires Iridium for $27 cash + stock; vote Sept 24
-Iridium Communications · cash+stk · close Q4 2026
-Mcap $49B · EV $46B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819994/000175392626001606/g085885_s4a.htm</link>
-      <guid isPermaLink="false">0001753926-26-001606</guid>
-      <pubDate>Mon, 24 Aug 2026 15:57:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
