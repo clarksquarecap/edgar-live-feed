@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 15:14:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:32:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OSRH 📉 Delisting · Forced
+Forced Nasdaq suspension effective Aug 26; hearing pending
+Mcap $15M · EV $42M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1840425/000121390026093379/ea0303318-8k_osrhealth.htm</link>
+      <guid isPermaLink="false">0001213900-26-093379</guid>
+      <pubDate>Tue, 25 Aug 2026 10:32:48 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$ZYME ⚖️ Litigation · Won
 FDA approves Ziihera for first-line GEA; earns $250M milestone
@@ -718,17 +728,6 @@ Mcap $630K · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1566826/000121390026092906/ea0302962-defm14a_logicmark.htm</link>
       <guid isPermaLink="false">0001213900-26-092906</guid>
       <pubDate>Mon, 24 Aug 2026 11:06:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SBMT 🤝 Merger
-Acquires Montana Tunnels Mine &amp; Mill from MTGF for $28.6M + CVRs
-Montana Goldfields · $28.6M cash + CVRs deal · cash+stk · close by Nov 30, 2026
-Mcap $244M · EV $188M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2067674/000153949726002333/n5138_x29-8k.htm</link>
-      <guid isPermaLink="false">0001539497-26-002333</guid>
-      <pubDate>Mon, 24 Aug 2026 10:31:26 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
