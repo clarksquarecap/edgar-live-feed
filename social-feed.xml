@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 21:04:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:10:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DV 🤝 Merger
+Acquired by Neptune BidCo for $13.60/share cash; close Q1 2027
+Neptune BidCo US · cash
+Mcap $1.8B · EV $1.8B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819928/000110465926100897/tm2621904d11_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-100897</guid>
+      <pubDate>Tue, 25 Aug 2026 16:10:47 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TBPH 🤝 Merger
 Acquired by Zymeworks; shareholder vote pending
@@ -815,16 +826,6 @@ Mcap $131M · EV $133M · Energy</title>
       <pubDate>Mon, 24 Aug 2026 16:11:31 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BILL 👀 Activist
-Receives 13D/A from Starboard Value; stake now 10.1%
-Starboard Value LP
-Mcap $4.1B · EV $4.0B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1786352/000092189526002296/primary_doc.xml</link>
-      <guid isPermaLink="false">0000921895-26-002296</guid>
-      <pubDate>Mon, 24 Aug 2026 16:04:53 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
