@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 21:41:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:07:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EDSA 📍 Stake
+Receives 13D/A from insider Nijhawan increasing stake to 16.31%
+Mcap $55M · EV $53M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1540159/000117184326005738/primary_doc.xml</link>
+      <guid isPermaLink="false">0001171843-26-005738</guid>
+      <pubDate>Tue, 25 Aug 2026 17:07:00 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$PARR 📤 Divestiture
 Exits Laramie Energy investment via $485M asset sale
@@ -790,15 +799,6 @@ Mcap $255M · EV $396M · Utilities</title>
       <link>https://www.sec.gov/Archives/edgar/data/1434728/000186279126000001/primary_doc.xml</link>
       <guid isPermaLink="false">0001862791-26-000001</guid>
       <pubDate>Mon, 24 Aug 2026 17:56:44 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$GWRS 📍 Stake
-Receives 13D/A from Cohn family; stake now 9.17%
-Mcap $255M · EV $396M · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1434728/000169666326000001/primary_doc.xml</link>
-      <guid isPermaLink="false">0001696663-26-000001</guid>
-      <pubDate>Mon, 24 Aug 2026 17:03:48 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
