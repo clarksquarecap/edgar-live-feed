@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 25 Aug 2026 11:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:14:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WLFC 🤝 Merger
+Closes $263M acquisition of 12 aircraft, 13 engines
+262900000 deal · cash · close 2026-08-24
+Mcap $1.4B · EV $3.8B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1018164/000101816426000072/wlfc-20260824.htm</link>
+      <guid isPermaLink="false">0001018164-26-000072</guid>
+      <pubDate>Tue, 25 Aug 2026 06:14:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NFGC 📉 Delisting · Voluntary
 Graduates to TSX; trading starts Aug 26
@@ -756,26 +767,6 @@ Mcap $172M · EV $106M · Healthcare</title>
       <pubDate>Mon, 24 Aug 2026 06:21:53 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$GARWF 📤 Divestiture
-Sells copper assets to Capstone for US$25M in shares
-to Capstone Copper · US$25,000,000 deal · close Q3 2026
-Mcap $14M · EV $13M · Materials</title>
-      <link>https://goldenarrowresources.com/news-releases/golden-arrow-resources-announces-us-25-million-sale-of-75-owned-copper-assets-at-san-pietro-project-secures-capital-and-retains/</link>
-      <guid isPermaLink="false">OTC-532720</guid>
-      <pubDate>Mon, 24 Aug 2026 06:09:58 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$INCR ⚖️ Litigation · Settled
-Settles war-damage claim for NIS 230M (~$77M) cash
-Mcap $55M · EV $99M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1857030/000149315226039774/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-039774</guid>
-      <pubDate>Mon, 24 Aug 2026 06:09:37 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>
