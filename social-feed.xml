@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 10:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:32:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PERF 📦 Going Private
+Acquired by ProjectNY for $2.00 cash/share; EGM vote pending
+cash
+Mcap $192M · EV $31M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1899830/000110465926101025/tm2623859-1_sc13e3a.htm</link>
+      <guid isPermaLink="false">0001104659-26-101025</guid>
+      <pubDate>Wed, 26 Aug 2026 05:32:45 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$BIDU 🌍 Re-domicile
 Converts secondary listing to primary on HKEX
@@ -692,26 +702,6 @@ Mcap $640M · EV $610M · Materials</title>
       <pubDate>Tue, 25 Aug 2026 06:08:11 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$BAK 🪙 Debt Restr.
-Files extrajudicial restructuring plan to address liquidity crisis
-Mcap $809M · EV $13B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426004344/bak20260824_6k4.htm</link>
-      <guid isPermaLink="false">0001292814-26-004344</guid>
-      <pubDate>Tue, 25 Aug 2026 05:31:46 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>out_of_court</category>
-    </item>
-    <item>
-      <title>$BCCQ 🤝 Merger
-Acquires Ursa Major for $1.6B stock; de-SPAC merger
-Ursa Major Technologies · 1600000000 deal · stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2128045/000121390026093231/ea0303013-8k425_bleichroed3.htm</link>
-      <guid isPermaLink="false">0001213900-26-093231</guid>
-      <pubDate>Tue, 25 Aug 2026 05:31:36 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
