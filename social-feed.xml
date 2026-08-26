@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 13:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:15:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AGIG 💧 Capital Return · Buyback
+Authorizes $5M buyback (~12% of float)
+Mcap $40M · EV $40M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1156041/000149315226040171/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-040171</guid>
+      <pubDate>Wed, 26 Aug 2026 08:15:30 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$KNOP 🤝 Merger
 Acquires Hedda Knutsen shuttle tanker for $113M
@@ -744,15 +754,6 @@ EUROEV Holdings Limited · 410,000,000 deal · stock</title>
       <pubDate>Tue, 25 Aug 2026 08:21:48 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CVAT 📤 Divestiture
-Sells Alchemy Beverages to European Guarantee Services via tender offer
-Mcap $12M · EV $13M · Tech</title>
-      <link>https://www.otcmarkets.com/stock/CVAT/news/532938</link>
-      <guid isPermaLink="false">OTC-532938</guid>
-      <pubDate>Tue, 25 Aug 2026 08:15:28 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
