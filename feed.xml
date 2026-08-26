@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 12:04:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:05:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · SNYR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1562733/000121390026093728/ea0303430-8k_synergy.htm</link>
+      <guid isPermaLink="false">0001213900-26-093728</guid>
+      <pubDate>Wed, 26 Aug 2026 07:05:36 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>8-K</category>
+      <scanner:headline>Term loan accelerated; $18.9M due immediately</scanner:headline>
+      <scanner:shortName>Synergy CHC</scanner:shortName>
+      <scanner:price>0.1700</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Term loan accelerated; $18.9M due immediately&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Notice of Acceleration from ACP Agency, LLC, its administrative agent, declaring all obligations under its Term Loan Credit Agreement immediately due and payable. As of August 21, 2026, approximately $18.9 million was due, exclusive of additional interest and fees. The acceleration follows previously disclosed Events of Default.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Synergy CHC Corp. provides consumer health care, beauty, and lifestyle products in the United States, Canada, Mexico, and internationally. It offers brain health nutritional supplements under the FOCUSfactor brand name; and lifestyle and wellness products and accessories, including tea, shakes, lollipops, supplements, apparel, and exercise accessories under the Flat Tummy brand name.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ACP Agency, LLC (lenders)&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Potential bankruptcy or restructuring&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.1700 · Mkt cap $2.5M · EV $29.9M · Fwd EV/EBITDA 5.3x · Consumer Staples / Personal Care Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1562733/000121390026093728/0001213900-26-093728-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SNYR&lt;/b&gt; · 8-K · Items 2.04 · Chemicals / Pharma (2833) · 8k_tier1:2.04 · filed 2026-08-26&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · VRME</title>
       <link>https://www.sec.gov/Archives/edgar/data/1104038/000121465926010859/p825262425.htm</link>
@@ -9551,25 +9570,6 @@
 &lt;p&gt;&lt;i&gt;Px $26.83 · Mkt cap $1.67B · EV $1.74B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2131524/000188947626000004/0001889476-26-000004-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BRVE&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2834) · fresh_13d · filed 2026-08-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · VWAV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2038439/000173112226001073/e7852_8k.htm</link>
-      <guid isPermaLink="false">0001731122-26-001073</guid>
-      <pubDate>Fri, 14 Aug 2026 16:05:30 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>8-K</category>
-      <scanner:headline>Terminates 51% Meteor Aerospace acquisition after due diligence; no penalties</scanner:headline>
-      <scanner:shortName>VisionWave Holdings</scanner:shortName>
-      <scanner:price>1.30</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Terminates 51% Meteor Aerospace acquisition after due diligence; no penalties&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Terminated its binding agreement to acquire 51% of Meteor Aerospace Ltd. at a $40M pre-money valuation, effective immediately following its due diligence review. No shares were issued, no consideration was paid or became payable, and no early termination penalties will be incurred.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VisionWave Holdings, Inc. engages in revolutionizing defence capabilities by integrating artificial intelligence (AI) and autonomous solutions across air, ground, and sea domains. The company focuses on radars, vision systems, and radio frequency sensing technologies. It serves military and homeland security sectors worldwide. The company was incorporated in 2024 and is based in Wilmington, Delaware.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Meteor Aerospace Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $40,000,000 (pre-money valuation of Meteor)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 51%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-29&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.30 · Mkt cap $37.8M · EV $52.0M · Industrials / Aerospace and Defense&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2038439/000173112226001073/0001731122-26-001073-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VWAV, VWAVW&lt;/b&gt; · 8-K · Items 1.02, 9.01 · Business Services (7372) · 8k_tier1:1.02 · filed 2026-08-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
