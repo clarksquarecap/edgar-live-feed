@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 10:12:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:18:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CZR 🤝 Merger
+Acquired by Fertitta Gaming for $31.00 cash/share; vote Sept 22
+Fertitta Gaming Holdco · ~$6.3B deal · cash · close 2026-2027
+Mcap $6.1B · EV $31B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1590895/000119312526365696/d143368ddefm14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-365696</guid>
+      <pubDate>Wed, 26 Aug 2026 05:18:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GIPR 📤 Divestiture
 Sells Fresenius + 6-property Dollar General portfolio; ~$4M to Loci
@@ -692,48 +703,6 @@ Mcap $7.1B · EV $8.6B · Industrials</title>
       <pubDate>Tue, 25 Aug 2026 05:19:23 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BRNS 🤝 Merger
-Acquired by Clywedog via scheme; exchange ratio 0.111; court Sept 1
-Clywedog Therapeutics · stock · close 2026-09-03
-Mcap $25M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1828185/000110465926100470/tm2623930d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-100470</guid>
-      <pubDate>Tue, 25 Aug 2026 05:13:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NEE 🤝 Merger
-Adds supplemental disclosures to Dominion merger proxy
-Dominion Energy
-Mcap $177B · EV $295B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/753308/000110465926100476/tm2623831d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-100476</guid>
-      <pubDate>Tue, 25 Aug 2026 05:13:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NVTS 🤝 Merger
-Acquires Claros for $232.8M cash+stock; close by year-end
-cash+stk
-Mcap $3.4B · EV $2.8B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1821769/000110465926100478/tm2623854d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-100478</guid>
-      <pubDate>Tue, 25 Aug 2026 05:12:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FFAI 🪙 Debt Restr.
-Eliminates 237,615 potential warrants, cutting ~40% dilution
-Mcap $10M · EV $142M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1805521/000121390026093183/ea0303217-8ka1_faraday.htm</link>
-      <guid isPermaLink="false">0001213900-26-093183</guid>
-      <pubDate>Tue, 25 Aug 2026 05:12:31 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
