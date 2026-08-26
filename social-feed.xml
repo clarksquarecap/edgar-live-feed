@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 21:04:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 21:04:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VOD 👀 Activist
+Builds 9.9% stake in Vodafone via equity derivatives
+Mcap $36B · EV $87B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/839923/000110465926101605/primary_doc.xml</link>
+      <guid isPermaLink="false">0001104659-26-101605</guid>
+      <pubDate>Wed, 26 Aug 2026 16:04:42 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$VMAR 🤝 Merger · Preliminary
+Signs LOI for reverse takeover; holders retain ~2.9%
+close 2026-12-31
+Mcap $4M · EV $25M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1813783/000110465926101613/tm2624118d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-101613</guid>
+      <pubDate>Wed, 26 Aug 2026 16:04:25 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$CHOW 💧 Capital Return · Recap
 Proposes 10:1 reverse split and dual-class structure; EGM Sept 14
@@ -617,16 +637,6 @@ Mcap $1.8B · EV $1.8B · Comms</title>
       <link>https://www.sec.gov/Archives/edgar/data/1819928/000110465926100897/tm2621904d11_defa14a.htm</link>
       <guid isPermaLink="false">0001104659-26-100897</guid>
       <pubDate>Tue, 25 Aug 2026 16:10:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TBPH 🤝 Merger
-Acquired by Zymeworks; shareholder vote pending
-Mcap $877M · EV $518M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1583107/000110465926100863/tm2623927d2_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-100863</guid>
-      <pubDate>Tue, 25 Aug 2026 16:04:26 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
