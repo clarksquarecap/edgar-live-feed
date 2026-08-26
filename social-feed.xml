@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 20:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 20:12:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SAIH 🤝 Merger
+Shareholders approve merger; name change to Canopy Wave Holdings
+Mcap $38M · EV $38M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847075/000121390026093961/ea0303477-6k_saiheat.htm</link>
+      <guid isPermaLink="false">0001213900-26-093961</guid>
+      <pubDate>Wed, 26 Aug 2026 15:12:49 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$YMT 🤝 Merger
 Acquires Qingdao hotel and Heilongjiang assets for $27M in shares
@@ -647,35 +657,6 @@ Mcap $1.1B · EV $1.3B · Tech</title>
       <pubDate>Tue, 25 Aug 2026 15:18:34 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$INVE 👀 Activist
-Clarifies proportional voting with Identiv via governance supplement
-19.9 stake
-Mcap $64M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1036044/000142050626001958/primary_doc.xml</link>
-      <guid isPermaLink="false">0001420506-26-001958</guid>
-      <pubDate>Tue, 25 Aug 2026 15:12:28 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$HODO 📍 Stake
-Receives 13D from Much Wow Ltd. for 10.1% stake
-Mcap $34M · EV $36M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1903595/000215171126000002/primary_doc.xml</link>
-      <guid isPermaLink="false">0002151711-26-000002</guid>
-      <pubDate>Tue, 25 Aug 2026 15:12:06 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$JAZZ ⚖️ Litigation · Won
-Won FDA approval for Ziihera in first-line HER2+ GEA
-Mcap $17B · EV $19B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1232524/000162828026058864/jazz-20260825.htm</link>
-      <guid isPermaLink="false">0001628280-26-058864</guid>
-      <pubDate>Tue, 25 Aug 2026 15:10:57 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
