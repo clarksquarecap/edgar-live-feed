@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 12:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:11:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KHC 📉 Delisting · Voluntary
+Transfers listing to NYSE; Nasdaq ends Sept 11, NYSE starts Sept 14
+effective 2026-09-14
+Mcap $30B · EV $46B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637459/000163745926000057/khc-20260824.htm</link>
+      <guid isPermaLink="false">0001637459-26-000057</guid>
+      <pubDate>Wed, 26 Aug 2026 07:11:57 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$SNYR 🪙 Debt Restr.
 Term loan accelerated; $18.9M due immediately
@@ -723,16 +734,6 @@ Mcap $17M · EV $34M · Real Estate</title>
       <guid isPermaLink="false">OTC-532909</guid>
       <pubDate>Tue, 25 Aug 2026 07:16:51 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$CBDW 🔎 Strat Review · Strat Alts
-Explores strategic alternatives for Lufkin biomass project; sale possible
-Mcap $320K · EV $2M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1877461/000147793226005256/cbdw_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-005256</guid>
-      <pubDate>Tue, 25 Aug 2026 07:09:00 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
