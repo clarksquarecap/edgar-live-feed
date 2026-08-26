@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 20:00:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 20:06:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$YMT 🤝 Merger
+Acquires Qingdao hotel and Heilongjiang assets for $27M in shares
+US$26.96M deal · stock
+Mcap $3M · EV $10M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1991605/000121390026093942/ea0303299-6k_yimutian.htm</link>
+      <guid isPermaLink="false">0001213900-26-093942</guid>
+      <pubDate>Wed, 26 Aug 2026 15:06:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SLE 📍 Stake
 Receives 13D from eSports Now for 9.9% stake
@@ -665,24 +676,6 @@ Mcap $17B · EV $19B · Healthcare</title>
       <pubDate>Tue, 25 Aug 2026 15:10:57 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$CPAC 🎯 Tender
-Faces tender offer from Holcim; equity value S/3.7B
-Mcap $1.0B · EV $1.4B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1221029/000121390026093506/ea030329201-6k_cementos.htm</link>
-      <guid isPermaLink="false">0001213900-26-093506</guid>
-      <pubDate>Tue, 25 Aug 2026 15:03:42 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$BWLP 📤 Divestiture
-Sells BW Birch vessel; ~$64M net cash, $37M gain
-Mcap $3.4B · EV $4.1B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1649313/000121390026093508/ea0303347-6k_bwlpg.htm</link>
-      <guid isPermaLink="false">0001213900-26-093508</guid>
-      <pubDate>Tue, 25 Aug 2026 15:03:19 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
