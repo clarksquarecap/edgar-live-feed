@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 21:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 21:23:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BBCQ 🤝 Merger
+Shareholders approve merger with Pasqal; 62.8% quorum, 21.5M votes for
+Pasqal Holding SAS
+Mcap $391M · EV $390M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2088295/000121390026094046/ea0303286-8k425_bleich2.htm</link>
+      <guid isPermaLink="false">0001213900-26-094046</guid>
+      <pubDate>Wed, 26 Aug 2026 16:23:40 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NHIC 🤝 Merger
 Merges with NewCleo; proxy mailed, vote pending
@@ -608,15 +619,6 @@ Mcap $5M · EV $4M · Healthcare</title>
       <pubDate>Tue, 25 Aug 2026 16:25:42 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$EMPD ⚔️ Proxy
-Faces proxy contest from ATG Capital; AGM Oct 14
-Mcap $83M · EV $121M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826006720/empery_prec14a.htm</link>
-      <guid isPermaLink="false">0001683168-26-006720</guid>
-      <pubDate>Tue, 25 Aug 2026 16:23:31 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
