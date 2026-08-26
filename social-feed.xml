@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 18:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:31:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SSEA 🤝 Merger
@@ -716,15 +716,6 @@ Mcap $43M · Tech</title>
       <guid isPermaLink="false">0001989386-26-000011</guid>
       <pubDate>Tue, 25 Aug 2026 14:00:50 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$ADAM 📍 Stake
-Receives 13D/A from Howard Amster; 4.9% stake
-Mcap $880M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1273685/000090485326000004/primary_doc.xml</link>
-      <guid isPermaLink="false">0000904853-26-000004</guid>
-      <pubDate>Tue, 25 Aug 2026 13:30:52 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
