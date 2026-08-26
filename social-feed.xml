@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 20:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 20:44:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CRAC 🤝 Merger
+Amends Carvix BCA; revises vote thresholds, exec comp
+Mcap $228M · EV $229M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2070887/000121390026094005/ea0303505-8k425_crown1.htm</link>
+      <guid isPermaLink="false">0001213900-26-094005</guid>
+      <pubDate>Wed, 26 Aug 2026 15:44:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VCTR 🤝 Merger
 Acquires First Eagle for ~$7.0B cash+stock; close Q1'27
@@ -631,15 +641,6 @@ Mcap $2.1B · EV $5.4B · Materials</title>
       <pubDate>Tue, 25 Aug 2026 15:48:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$EDSA 📍 Stake
-Increases stake in Edesa Biotech to 9.99%
-Mcap $55M · EV $53M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1540159/000092189526002310/primary_doc.xml</link>
-      <guid isPermaLink="false">0000921895-26-002310</guid>
-      <pubDate>Tue, 25 Aug 2026 15:42:36 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
