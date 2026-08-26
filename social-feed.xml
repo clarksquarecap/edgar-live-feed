@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 10:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:08:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BCCQ 🤝 Merger
+Merges with Ursa Major; NASDAQ: IPXX; close Q1 2027</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2128045/000121390026093693/ea030342004-425_bleichroed3.htm</link>
+      <guid isPermaLink="false">0001213900-26-093693</guid>
+      <pubDate>Wed, 26 Aug 2026 05:08:25 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$YYGH 🪙 Debt Restr.
 Eliminates $5.94M second tranche and cancels 11,284 warrants; repays $1.37M by year-end
@@ -769,17 +778,6 @@ Mcap $31M · EV $228M · Cons Disc</title>
       <pubDate>Tue, 25 Aug 2026 05:08:38 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$MDXG 🤝 Merger
-Acquires Sanara MedTech for $33 cash + 0.4735 MDXG shares/share
-cash+stk
-Mcap $622M · EV $504M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1376339/000121390026093177/ea0302105-01.htm</link>
-      <guid isPermaLink="false">0001213900-26-093177</guid>
-      <pubDate>Tue, 25 Aug 2026 05:02:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
