@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 19:42:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 20:00:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SLE 📍 Stake
+Receives 13D from eSports Now for 9.9% stake
+Mcap $4M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1621672/000143774926029005/primary_doc.xml</link>
+      <guid isPermaLink="false">0001437749-26-029005</guid>
+      <pubDate>Wed, 26 Aug 2026 15:00:04 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$SSEA 🤝 Merger
 Acquires SuperiorMed for $200M in stock
@@ -674,16 +683,6 @@ Mcap $3.4B · EV $4.1B · Energy</title>
       <guid isPermaLink="false">0001213900-26-093508</guid>
       <pubDate>Tue, 25 Aug 2026 15:03:19 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GRUSF 🤝 Merger · Preliminary
-Plans acquisition of PharmaCann NY license; JV with capital partner
-Mcap $109M · EV $132M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1463000/000127956926000827/grownrogue8k.htm</link>
-      <guid isPermaLink="false">0001279569-26-000827</guid>
-      <pubDate>Tue, 25 Aug 2026 14:57:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
