@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 21:11:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 21:17:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NHIC 🤝 Merger
+Merges with NewCleo; proxy mailed, vote pending
+Mcap $295M · EV $294M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2043699/000095010326012935/dp252330_425.htm</link>
+      <guid isPermaLink="false">0000950103-26-012935</guid>
+      <pubDate>Wed, 26 Aug 2026 16:17:13 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GETY 📍 Stake
 Koch and Getty family form 13D group; Koch holds 27.4%
@@ -607,25 +617,6 @@ Mcap $83M · EV $121M · Cons Disc</title>
       <guid isPermaLink="false">0001683168-26-006720</guid>
       <pubDate>Tue, 25 Aug 2026 16:23:31 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$LTHCF 📤 Divestiture
-Completes US$37.5M sale of Salinas lithium properties to PLS
-to PLS Group Limited · US$37.5 million deal · close 2026-08-25
-Mcap $88M · EV $80M · Materials</title>
-      <link>https://au.marketscreener.com/news/lithium-ionic-completes-us-37-5-million-sale-of-its-salinas-group-of-lithium-properties-to-pls-ce7858d8d188fe25</link>
-      <guid isPermaLink="false">OTC-532967</guid>
-      <pubDate>Tue, 25 Aug 2026 16:15:42 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CHTR 📍 Stake
-Receives 13D from Cox for 27.9% stake
-Mcap $19B · EV $120B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1091667/000110465926100879/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-100879</guid>
-      <pubDate>Tue, 25 Aug 2026 16:15:12 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
