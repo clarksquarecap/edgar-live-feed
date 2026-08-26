@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 10:09:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:12:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GIPR 📤 Divestiture
+Sells Fresenius + 6-property Dollar General portfolio; ~$4M to Loci
+close 2026-08-24
+Mcap $460K · EV $88M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1651721/000119312526365461/gipr-20260825.htm</link>
+      <guid isPermaLink="false">0001193125-26-365461</guid>
+      <pubDate>Wed, 26 Aug 2026 05:12:06 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$BAK 🪙 Debt Restr.
+Files extrajudicial reorganization; 39.6% creditor support
+Mcap $809M · EV $13B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426004349/bak20260825_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004349</guid>
+      <pubDate>Wed, 26 Aug 2026 05:10:37 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$NRIM 🤝 Merger
+Acquires PBCO Financial for 1.160x stock; ~$167M deal
+$167.3 million deal · stock
+Mcap $568M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1163370/000114036126034343/ny20080288x1_s4.htm</link>
+      <guid isPermaLink="false">0001140361-26-034343</guid>
+      <pubDate>Wed, 26 Aug 2026 05:10:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NIMU 🤝 Merger
 Acquires Gravitics Inc via merger; S-4/A filed
@@ -704,70 +734,6 @@ Mcap $10M · EV $142M · Cons Disc</title>
       <guid isPermaLink="false">0001213900-26-093183</guid>
       <pubDate>Tue, 25 Aug 2026 05:12:31 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$VBNK 🤝 Merger
-Reorganizes into Versa Bancorp holding company
-stock
-Mcap $621M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1690639/000110465926100462/tm2623832d2_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-100462</guid>
-      <pubDate>Tue, 25 Aug 2026 05:11:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NYAX 🤝 Merger
-Acquires IPS Group for $350M cash; close Q4 2026
-$350 million deal · cash
-Mcap $2.5B · EV $2.5B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1901279/000117891326004245/zk2636006.htm</link>
-      <guid isPermaLink="false">0001178913-26-004245</guid>
-      <pubDate>Tue, 25 Aug 2026 05:11:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BAK 🪙 Debt Restr.
-Files out-of-court restructuring for R$56.5B financial debt
-Mcap $809M · EV $13B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426004342/bak20260824_6k5.htm</link>
-      <guid isPermaLink="false">0001292814-26-004342</guid>
-      <pubDate>Tue, 25 Aug 2026 05:10:46 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$RGEN 🤝 Merger
-Acquires BioLife for 0.1442 RGEN shares + $11.25 cash/share
-BioLife Solutions · cash+stk
-Mcap $10B · EV $10B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/730272/000119312526363970/d127719ds4.htm</link>
-      <guid isPermaLink="false">0001193125-26-363970</guid>
-      <pubDate>Tue, 25 Aug 2026 05:10:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$D 🤝 Merger
-Faces shareholder suits over NextEra merger; vote Sept 3
-NextEra Energy
-Mcap $60B · EV $119B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000119312526364049/d943400d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-364049</guid>
-      <pubDate>Tue, 25 Aug 2026 05:09:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CURLF 🤝 Merger · Unsolicited
-Reiterates unsolicited bid; Aurora shares -35% vs Curaleaf +56%
-Aurora Cannabis
-Mcap $2.2B · EV $3.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1756770/000175677026000087/ax82426curaleafrespondstoa.htm</link>
-      <guid isPermaLink="false">0001756770-26-000087</guid>
-      <pubDate>Tue, 25 Aug 2026 05:09:48 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
