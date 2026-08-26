@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 21:10:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 21:11:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GETY 📍 Stake
+Koch and Getty family form 13D group; Koch holds 27.4%
+Mcap $112M · EV $2.2B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1898496/000119312526368887/primary_doc.xml</link>
+      <guid isPermaLink="false">0001193125-26-368887</guid>
+      <pubDate>Wed, 26 Aug 2026 16:11:09 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$DINO 💧 Capital Return · Buyback
 Authorizes $1.5B share repurchase program
@@ -617,38 +626,6 @@ Mcap $19B · EV $120B · Comms</title>
       <guid isPermaLink="false">0001104659-26-100879</guid>
       <pubDate>Tue, 25 Aug 2026 16:15:12 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$CBAN 🤝 Merger
-Acquires First Reliance for $19.75/sh cash or 0.94 CBAN shares; vote Oct 14
-29.5% prem · cash/stk elect · close Q4 2026
-Mcap $471M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/711669/000110465926100876/tm2622961-4_s4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-100876</guid>
-      <pubDate>Tue, 25 Aug 2026 16:11:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NBND 🌑 Going Dark · Voluntary
-Voluntarily deregisters with SEC; 426 holders
-Mcap $50K · EV $2M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1725911/000149315226040076/form15-12g.htm</link>
-      <guid isPermaLink="false">0001493152-26-040076</guid>
-      <pubDate>Tue, 25 Aug 2026 16:10:55 -0500</pubDate>
-      <category>GOING_DARK</category>
-      <category>voluntary</category>
-    </item>
-    <item>
-      <title>$DV 🤝 Merger
-Acquired by Neptune BidCo for $13.60/share cash; close Q1 2027
-Neptune BidCo US · cash
-Mcap $1.8B · EV $1.8B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819928/000110465926100897/tm2621904d11_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-100897</guid>
-      <pubDate>Tue, 25 Aug 2026 16:10:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
