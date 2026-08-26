@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 26 Aug 2026 11:58:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:04:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VRME 🤝 Merger
+Acquires OpenWorld; S-4 effective; vote Sept 24
+Open World · stock · close Q4 2026
+Mcap $9M · EV $6M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1104038/000121465926010859/p825262425.htm</link>
+      <guid isPermaLink="false">0001214659-26-010859</guid>
+      <pubDate>Wed, 26 Aug 2026 07:04:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SPKL 🤝 Merger
 Touts $752M ZincFive combination in SPACInsider podcast
@@ -713,17 +724,6 @@ Mcap $320K · EV $2M · Cons Stpl</title>
       <pubDate>Tue, 25 Aug 2026 07:09:00 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$WATR 🤝 Merger · Preliminary
-Signs LOI to acquire spring water brand for $100M (stock+cash)
-Second Spring Water · $100M base (plus contingent stock) deal · cash+stk
-Mcap $77M · EV $105M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2092314/000121390026093258/ea0303124-6k_air.htm</link>
-      <guid isPermaLink="false">0001213900-26-093258</guid>
-      <pubDate>Tue, 25 Aug 2026 07:02:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
