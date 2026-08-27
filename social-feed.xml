@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 21:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:36:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CMRC 👀 Activist
+Takes 6.5% activist stake in Commerce.com
+Mcap $281M · EV $291M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1626450/000092189526002350/primary_doc.xml</link>
+      <guid isPermaLink="false">0000921895-26-002350</guid>
+      <pubDate>Thu, 27 Aug 2026 16:36:33 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$ROIV ⚖️ Litigation · Won
 Won FDA approval for LISRAYA (brepocitinib) in dermatomyositis
@@ -611,23 +620,6 @@ Mcap $515M · Financials</title>
       <guid isPermaLink="false">0001140361-26-034478</guid>
       <pubDate>Wed, 26 Aug 2026 16:45:49 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$HEDCX 📍 Stake
-Receives 13D/A from Aksia; stake rises to 28.78%</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2063706/000110465926101648/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-101648</guid>
-      <pubDate>Wed, 26 Aug 2026 16:33:33 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ALLT 📍 Stake
-Receives 13D/A from QVT Financial; stake 11.72%
-Mcap $392M · EV $304M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1365767/000119312526368939/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-368939</guid>
-      <pubDate>Wed, 26 Aug 2026 16:33:12 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
