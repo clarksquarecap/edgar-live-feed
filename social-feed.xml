@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 20:36:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:38:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KRP 📍 Stake
+Receives 13D/A from Rivercrest Capital; 11.7% stake
+Mcap $1.4B · EV $2.0B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1657788/000149315226040406/primary_doc.xml</link>
+      <guid isPermaLink="false">0001493152-26-040406</guid>
+      <pubDate>Thu, 27 Aug 2026 15:38:36 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$AES 🤝 Merger
+CFIUS approval received for Horizon Parent merger
+Horizon Parent, L.P.
+Mcap $10B · EV $48B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/874761/000114036126034714/ef20081101_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-034714</guid>
+      <pubDate>Thu, 27 Aug 2026 15:36:45 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EC 🤝 Merger
 Absorbs Parque Solar Portón del Sol; bondholders vote Sept 4
@@ -556,17 +576,6 @@ Mcap $228M · EV $229M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2070887/000121390026094005/ea0303505-8k425_crown1.htm</link>
       <guid isPermaLink="false">0001213900-26-094005</guid>
       <pubDate>Wed, 26 Aug 2026 15:44:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VCTR 🤝 Merger
-Acquires First Eagle for ~$7.0B cash+stock; close Q1'27
-First Eagle Investments · cash+stk · close Q1 2027
-Mcap $7.0B · EV $7.9B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1570827/000110465926101536/tm2624030d2_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-101536</guid>
-      <pubDate>Wed, 26 Aug 2026 15:38:05 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
