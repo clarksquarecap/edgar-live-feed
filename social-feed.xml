@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 10:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:12:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KKR ⚖️ Litigation · Settled
+Settles $250M DOJ antitrust suit over HSR filings
+Mcap $97B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1404912/000114036126034520/ef20081051_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-034520</guid>
+      <pubDate>Thu, 27 Aug 2026 05:12:04 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$CYCN 🤝 Merger
 Approves Korsana reverse merger; redomestication fails
@@ -587,16 +597,6 @@ Mcap $6.1B · EV $31B · Cons Disc</title>
       <pubDate>Wed, 26 Aug 2026 05:18:22 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GIPR 📤 Divestiture
-Sells Fresenius + 6-property Dollar General portfolio; ~$4M to Loci
-close 2026-08-24
-Mcap $460K · EV $88M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1651721/000119312526365461/gipr-20260825.htm</link>
-      <guid isPermaLink="false">0001193125-26-365461</guid>
-      <pubDate>Wed, 26 Aug 2026 05:12:06 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
