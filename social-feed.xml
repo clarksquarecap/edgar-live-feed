@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 21:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:16:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XRPN 🤝 Merger
+Acquired by Evernorth Holdings in $230M stock merger; $10/share
+230,000,000 deal · stock
+Mcap $331M · EV $331M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044009/000119312526371516/d944435ddefm14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-371516</guid>
+      <pubDate>Thu, 27 Aug 2026 16:16:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SLND ⚖️ Litigation · Settled
 Settles WSCC surety dispute for $5M; expects $29M Q3 gain
@@ -560,25 +571,6 @@ Mcap $295M · EV $294M · Financials</title>
       <pubDate>Wed, 26 Aug 2026 16:17:13 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GETY 📍 Stake
-Koch and Getty family form 13D group; Koch holds 27.4%
-Mcap $112M · EV $2.2B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1898496/000119312526368887/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-368887</guid>
-      <pubDate>Wed, 26 Aug 2026 16:11:09 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$DINO 💧 Capital Return · Buyback
-Authorizes $1.5B share repurchase program
-Mcap $16B · EV $17B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1915657/000162828026059117/dino-20260826.htm</link>
-      <guid isPermaLink="false">0001628280-26-059117</guid>
-      <pubDate>Wed, 26 Aug 2026 16:10:41 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
