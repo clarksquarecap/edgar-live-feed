@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 20:48:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:08:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TACH 🤝 Merger · Preliminary
+Acquired by Titan Acquisition Corp in proposed de-SPAC
+Mcap $362M · EV $361M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2009183/000182912626009429/openpayd_425.htm</link>
+      <guid isPermaLink="false">0001829126-26-009429</guid>
+      <pubDate>Thu, 27 Aug 2026 16:08:16 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$SOWG 🤝 Merger
 Acquires Uranex and Magnis Tech for AUD 96.4M
@@ -550,36 +560,6 @@ Mcap $16B · EV $17B · Energy</title>
       <pubDate>Wed, 26 Aug 2026 16:10:41 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$VOD 👀 Activist
-Builds 9.9% stake in Vodafone via equity derivatives
-Mcap $36B · EV $87B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/839923/000110465926101605/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-101605</guid>
-      <pubDate>Wed, 26 Aug 2026 16:04:42 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$VMAR 🤝 Merger · Preliminary
-Signs LOI for reverse takeover; holders retain ~2.9%
-close 2026-12-31
-Mcap $4M · EV $25M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1813783/000110465926101613/tm2624118d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-101613</guid>
-      <pubDate>Wed, 26 Aug 2026 16:04:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$CHOW 💧 Capital Return · Recap
-Proposes 10:1 reverse split and dual-class structure; EGM Sept 14
-Mcap $13M · EV $11M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2041829/000149315226040258/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-040258</guid>
-      <pubDate>Wed, 26 Aug 2026 16:04:11 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
