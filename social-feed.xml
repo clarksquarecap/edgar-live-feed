@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 10:12:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:18:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NEXA 🤝 Merger
+Control sold to Boliden via 0.25-for-1 share exchange; cash tender for minorities
+Boliden AB · cash+stk · close Q1 2027
+Mcap $1.8B · EV $3.6B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1713930/000129281426004362/nexa20260826_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004362</guid>
+      <pubDate>Thu, 27 Aug 2026 05:18:50 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$KKR ⚖️ Litigation · Settled
 Settles $250M DOJ antitrust suit over HSR filings
@@ -586,17 +597,6 @@ Mcap $30M · EV $35M · Cons Disc</title>
       <pubDate>Wed, 26 Aug 2026 05:20:14 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$CZR 🤝 Merger
-Acquired by Fertitta Gaming for $31.00 cash/share; vote Sept 22
-Fertitta Gaming Holdco · ~$6.3B deal · cash · close 2026-2027
-Mcap $6.1B · EV $31B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1590895/000119312526365696/d143368ddefm14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-365696</guid>
-      <pubDate>Wed, 26 Aug 2026 05:18:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
