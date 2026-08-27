@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 10:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:11:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CYCN 🤝 Merger
+Approves Korsana reverse merger; redomestication fails
+Korsana Biosciences · stock
+Mcap $15M · EV $14M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1755237/000119312526369426/d264301d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-369426</guid>
+      <pubDate>Thu, 27 Aug 2026 05:11:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AVXL ⚔️ Proxy
 Faces 6-director proxy contest from PVG; AGM Sept 24
@@ -586,15 +597,6 @@ Mcap $460K · EV $88M · Real Estate</title>
       <guid isPermaLink="false">0001193125-26-365461</guid>
       <pubDate>Wed, 26 Aug 2026 05:12:06 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BAK 🪙 Debt Restr.
-Files extrajudicial reorganization; 39.6% creditor support
-Mcap $809M · EV $13B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426004349/bak20260825_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004349</guid>
-      <pubDate>Wed, 26 Aug 2026 05:10:37 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
