@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 13:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 13:19:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$TCVNF 🤝 Merger
@@ -565,27 +565,6 @@ Mcap $42M · EV $44M · Comms</title>
       <pubDate>Wed, 26 Aug 2026 08:21:44 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$AGIG 💧 Capital Return · Buyback
-Authorizes $5M buyback (~12% of float)
-Mcap $40M · EV $40M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1156041/000149315226040171/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-040171</guid>
-      <pubDate>Wed, 26 Aug 2026 08:15:30 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$KNOP 🤝 Merger
-Acquires Hedda Knutsen shuttle tanker for $113M
-$113.0 million deal · cash
-Mcap $369M · EV $1.3B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1564180/000110465926101087/knop-20260826x6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-101087</guid>
-      <pubDate>Wed, 26 Aug 2026 08:15:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
