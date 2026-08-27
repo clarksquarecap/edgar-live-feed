@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 12:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 12:08:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BIII 🤝 Merger
@@ -554,26 +554,6 @@ Mcap $30B · EV $46B · Cons Stpl</title>
       <pubDate>Wed, 26 Aug 2026 07:11:57 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$SNYR 🪙 Debt Restr.
-Term loan accelerated; $18.9M due immediately
-Mcap $2M · EV $30M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1562733/000121390026093728/ea0303430-8k_synergy.htm</link>
-      <guid isPermaLink="false">0001213900-26-093728</guid>
-      <pubDate>Wed, 26 Aug 2026 07:05:36 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$VRME 🤝 Merger
-Acquires OpenWorld; S-4 effective; vote Sept 24
-Open World · stock · close Q4 2026
-Mcap $9M · EV $6M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1104038/000121465926010859/p825262425.htm</link>
-      <guid isPermaLink="false">0001214659-26-010859</guid>
-      <pubDate>Wed, 26 Aug 2026 07:04:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
