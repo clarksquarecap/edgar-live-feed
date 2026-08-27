@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 21:23:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:29:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CDLR 🌍 Re-domicile
+Files F-4 for UK redomiciliation; 1:1 share exchange
+Mcap $2.3B · EV $3.9B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1978867/000197886726000102/a6-kxcadelerxpublicfilingb.htm</link>
+      <guid isPermaLink="false">0001978867-26-000102</guid>
+      <pubDate>Thu, 27 Aug 2026 16:29:43 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$TACT 👀 Activist
 Urges urgent BOHA strategic review; seeks new board directors
@@ -599,17 +608,6 @@ Mcap $515M · Financials</title>
       <guid isPermaLink="false">0000921895-26-002317</guid>
       <pubDate>Wed, 26 Aug 2026 16:29:44 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$LXFR 🤝 Merger
-Acquired by Wynnchurch for $17.37 cash/share; scheme vote pending
-cash
-Mcap $459M · EV $517M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1096056/000207709626000240/ea0303080-prem14a_luxfer.htm</link>
-      <guid isPermaLink="false">0002077096-26-000240</guid>
-      <pubDate>Wed, 26 Aug 2026 16:29:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
