@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 21:23:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:23:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TACT 👀 Activist
+Urges urgent BOHA strategic review; seeks new board directors
+5.1 stake
+Mcap $52M · EV $39M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1017303/000121465926010987/primary_doc.xml</link>
+      <guid isPermaLink="false">0001214659-26-010987</guid>
+      <pubDate>Thu, 27 Aug 2026 16:23:47 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$SOLS 💥 Busted M&amp;A
+Mutually terminates acquisition of Element Solutions
+Mcap $9.0B · EV $11B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2064953/000110465926102503/tm2620579d9_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-102503</guid>
+      <pubDate>Thu, 27 Aug 2026 16:23:42 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
+    <item>
+      <title>$AVXL ⚔️ Proxy
+Nominates 6-director slate at Anavex; AGM Sept 24
+0.36% stake
+Mcap $314M · EV $187M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226040438/formdefc14a.htm</link>
+      <guid isPermaLink="false">0001493152-26-040438</guid>
+      <pubDate>Thu, 27 Aug 2026 16:23:33 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$CBZ 🤝 Merger
 Acquired by Grant Thornton for $55.00 cash per share
@@ -579,17 +608,6 @@ Mcap $459M · EV $517M · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1096056/000207709626000240/ea0303080-prem14a_luxfer.htm</link>
       <guid isPermaLink="false">0002077096-26-000240</guid>
       <pubDate>Wed, 26 Aug 2026 16:29:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BBCQ 🤝 Merger
-Shareholders approve merger with Pasqal; 62.8% quorum, 21.5M votes for
-Pasqal Holding SAS
-Mcap $391M · EV $390M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2088295/000121390026094046/ea0303286-8k425_bleich2.htm</link>
-      <guid isPermaLink="false">0001213900-26-094046</guid>
-      <pubDate>Wed, 26 Aug 2026 16:23:40 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
