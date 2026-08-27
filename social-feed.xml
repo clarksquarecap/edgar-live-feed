@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 10:19:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:30:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BIDU 🌍 Re-domicile
+Converts to dual-primary listing on HKEX effective Sept 1
+Mcap $35B · EV $35B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1329099/000119312526369462/d117226d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-369462</guid>
+      <pubDate>Thu, 27 Aug 2026 05:30:31 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$SKM 📤 Divestiture
 Sells 37% stake in SK Horizon to KKR/IMM for ₩3.08T
@@ -596,26 +605,6 @@ Mcap $192M · EV $31M · Tech</title>
       <guid isPermaLink="false">0001104659-26-101025</guid>
       <pubDate>Wed, 26 Aug 2026 05:32:45 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$BIDU 🌍 Re-domicile
-Converts secondary listing to primary on HKEX
-Mcap $35B · EV $35B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1329099/000119312526365827/d174665d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-365827</guid>
-      <pubDate>Wed, 26 Aug 2026 05:26:45 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>primary_listing_conversion</category>
-    </item>
-    <item>
-      <title>$NCI 💧 Capital Return · Recap
-Issues super-voting Class B shares to CEO; 64% voting control
-Mcap $30M · EV $35M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1916331/000118518526003715/nci6k082526.htm</link>
-      <guid isPermaLink="false">0001185185-26-003715</guid>
-      <pubDate>Wed, 26 Aug 2026 05:20:14 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
