@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 12:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 12:14:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LGPS 🤝 Merger
+Acquires I-FLATZ for ¥612.7M; close Sept 30
+I-FLATZ Co. · JPY 612,692,000 deal · cash · close 2026-09-30
+Mcap $21M · EV $138M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2040290/000149315226040327/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-040327</guid>
+      <pubDate>Thu, 27 Aug 2026 07:14:54 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BIII 🤝 Merger
 Merges with Astrum Space; 100M shares to Astrum Holding
@@ -543,17 +554,6 @@ Mcap $14B · EV $20B · Financials</title>
       <guid isPermaLink="false">0001193125-26-365962</guid>
       <pubDate>Wed, 26 Aug 2026 07:24:37 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$KHC 📉 Delisting · Voluntary
-Transfers listing to NYSE; Nasdaq ends Sept 11, NYSE starts Sept 14
-effective 2026-09-14
-Mcap $30B · EV $46B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1637459/000163745926000057/khc-20260824.htm</link>
-      <guid isPermaLink="false">0001637459-26-000057</guid>
-      <pubDate>Wed, 26 Aug 2026 07:11:57 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
