@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 19:45:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:07:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NTRP 🪙 Debt Restr.
+Converts $3.5M debt to 12% Series B preferred
+Mcap $26M · EV $30M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/788611/000149315226040388/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-040388</guid>
+      <pubDate>Thu, 27 Aug 2026 15:07:03 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$NTZ 📉 Delisting · Forced
 Forced NYSE delisting; trading suspended Aug 26
@@ -571,26 +580,6 @@ Mcap $38M · EV $38M · Tech</title>
       <pubDate>Wed, 26 Aug 2026 15:12:49 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$YMT 🤝 Merger
-Acquires Qingdao hotel and Heilongjiang assets for $27M in shares
-US$26.96M deal · stock
-Mcap $3M · EV $10M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1991605/000121390026093942/ea0303299-6k_yimutian.htm</link>
-      <guid isPermaLink="false">0001213900-26-093942</guid>
-      <pubDate>Wed, 26 Aug 2026 15:06:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SLE 📍 Stake
-Receives 13D from eSports Now for 9.9% stake
-Mcap $4M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1621672/000143774926029005/primary_doc.xml</link>
-      <guid isPermaLink="false">0001437749-26-029005</guid>
-      <pubDate>Wed, 26 Aug 2026 15:00:04 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
