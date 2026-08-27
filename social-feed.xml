@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 21:29:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:30:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ROIV ⚖️ Litigation · Won
+Won FDA approval for LISRAYA (brepocitinib) in dermatomyositis
+Mcap $27B · EV $24B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1635088/000114036126034735/ef20081229_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-034735</guid>
+      <pubDate>Thu, 27 Aug 2026 16:30:22 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
+    <item>
+      <title>$ELAB 💥 Busted M&amp;A
+Terminates acquisition of 76% stake in Arizona machining co.
+Mcap $5M · EV $170K · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1840563/000121390026094443/ea0303620-8k_pmgc.htm</link>
+      <guid isPermaLink="false">0001213900-26-094443</guid>
+      <pubDate>Thu, 27 Aug 2026 16:30:17 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
+    <item>
+      <title>$HCWC 🤝 Merger
+Stockholders approve Host Digital merger; 1:35 reverse split
+stock · close Q3 2026
+Mcap $6M · EV $20M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1948864/000149315226040455/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-040455</guid>
+      <pubDate>Thu, 27 Aug 2026 16:29:56 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CDLR 🌍 Re-domicile
 Files F-4 for UK redomiciliation; 1:1 share exchange
@@ -598,16 +628,6 @@ Mcap $392M · EV $304M · Tech</title>
       <guid isPermaLink="false">0001193125-26-368939</guid>
       <pubDate>Wed, 26 Aug 2026 16:33:12 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces consent solicitation from founder Garg to remove 5 directors
-Vishal Garg
-Mcap $515M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002317/dfan14a14909002_08252026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002317</guid>
-      <pubDate>Wed, 26 Aug 2026 16:29:44 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
