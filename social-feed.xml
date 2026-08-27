@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 21:36:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:48:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CMRC 👀 Activist
@@ -611,15 +611,6 @@ Mcap $15M · EV $12M · Tech</title>
       <guid isPermaLink="false">0000912282-26-001163</guid>
       <pubDate>Wed, 26 Aug 2026 16:51:56 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces Garg Group consent solicitation to remove 5 directors
-Mcap $515M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000114036126034478/ef20081130_prer14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-034478</guid>
-      <pubDate>Wed, 26 Aug 2026 16:45:49 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
