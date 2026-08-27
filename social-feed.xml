@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 27 Aug 2026 20:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:21:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EZRA 📤 Divestiture
+Enters new LOI to sell Altruis assets after prior deal terminated
+Mcap $2M · EV $7M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1812727/000149315226040390/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-040390</guid>
+      <pubDate>Thu, 27 Aug 2026 15:21:32 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$KXIN 🤝 Merger
+Acquires Hongkong Taohaoche for 10M Class A shares; escrow tied to revenue targets
+stock
+Mcap $8M · EV $9M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1713539/000110465926102451/tm2624193d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-102451</guid>
+      <pubDate>Thu, 27 Aug 2026 15:19:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TACH 🤝 Merger
 Acquires OpenPayd Holdings in business combination
@@ -567,38 +587,6 @@ Mcap $71M · EV $53M · Cons Stpl</title>
       <link>https://www.sec.gov/Archives/edgar/data/1787803/000149315226040239/form6-k.htm</link>
       <guid isPermaLink="false">0001493152-26-040239</guid>
       <pubDate>Wed, 26 Aug 2026 15:21:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CIB 💧 Capital Return · Special Div
-Declares COP 1,271/share extraordinary dividend; ex-date Aug 27
-Mcap $23B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2058897/000205889726000297/grupocibestsaannouncesdeci.htm</link>
-      <guid isPermaLink="false">0002058897-26-000297</guid>
-      <pubDate>Wed, 26 Aug 2026 15:21:30 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$LPSN 🤝 Merger
-Acquired by SoundHound AI in stock deal; special meeting pending
-stock
-Mcap $22M · EV $314M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1102993/000110299326000146/a425filing8_26-stocktwits.htm</link>
-      <guid isPermaLink="false">0001102993-26-000146</guid>
-      <pubDate>Wed, 26 Aug 2026 15:21:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$IRDM 🤝 Merger
-Acquired by Rocket Lab for $27 cash + stock; vote Sept 24
-cash+stk
-Mcap $5.1B · EV $6.7B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1418819/000175392626001637/g085903_def14am.htm</link>
-      <guid isPermaLink="false">0001753926-26-001637</guid>
-      <pubDate>Wed, 26 Aug 2026 15:21:18 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
