@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 10:16:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:16:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · VNET</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1508475/000110465926102589/0001104659-26-102589-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-102589</guid>
+      <pubDate>Fri, 28 Aug 2026 05:16:53 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Receives 13D from PJ Millennium disclosing 11.4% stake</scanner:headline>
+      <scanner:shortName>VNET Group</scanner:shortName>
+      <scanner:price>7.92</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D from PJ Millennium disclosing 11.4% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Schedule 13D from PJ Millennium Limited Partnership, which reported beneficial ownership of 195,127,260 Class A ordinary shares, representing 11.4% of the company&amp;#39;s outstanding ordinary shares. The filing indicates a non-passive position, though no specific activist agenda is disclosed in the initial filing.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VNET Group, Inc., an investment holding company, provides data center hosting and related services in China. The company offers managed hosting services comprising managed retail services, such as colocation services that dedicate data center space to house customers’ servers and networking equipment, as well as allow customers to lease partial or entire cabinets for their servers; interconnectivity services that allow customers to connect their servers; and value-added services, including hybri…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; PJ Millennium Limited Partnership&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 11.4&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.92 · Mkt cap $2.25B · EV $6.23B · Fwd EV/EBITDA 9.9x · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1508475/000110465926102589/0001104659-26-102589-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VNET&lt;/b&gt; · SCHEDULE 13D · Business Services (7370) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>💔 Busted · ESI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1590714/000110465926102559/tm2624245d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-102559</guid>
+      <pubDate>Fri, 28 Aug 2026 05:16:41 -0500</pubDate>
+      <category>BUSTED_MA</category>
+      <category>8-K</category>
+      <scanner:headline>Mutually terminates merger with Solstice; no break fee</scanner:headline>
+      <scanner:shortName>Element Solutions</scanner:shortName>
+      <scanner:price>37.66</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Mutually terminates merger with Solstice; no break fee&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Element Solutions and Solstice Advanced Materials mutually terminated their merger agreement on August 27, 2026. Neither party will pay any termination fee. Both companies will continue as standalone entities.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Element Solutions Inc operates as a specialty chemicals technology company in the United States, China, and internationally. The company operates in two segments: MacDermid Alpha Electronics Solutions and Element Specialties. Its MacDermid Alpha Electronics Solutions segment provides assembly solutions, including surface mount technologies, pastes fluxes, thermal management materials, coatings, and other attachment materials; circuitry solutions, such as circuit board metallization, circuit form…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Solstice Advanced Materials Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $37.66 · Mkt cap $9.08B · EV $11.02B · Fwd P/E 20.2x · Fwd EV/EBITDA 16.2x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1590714/000110465926102559/0001104659-26-102559-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ESI&lt;/b&gt; · 8-K · Items 1.01, 1.02, 8.01, 9.01 · Chemicals / Pharma (2890) · 8k_tier1:1.01,1.02,8.01 · filed 2026-08-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🏛️ Insolvency · Chapter 11 · BTAI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1720893/000110465926102570/tm2624233d1_8k.htm</link>
@@ -9550,44 +9587,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $2.55 · Mkt cap $413.3M · EV $416.4M · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1433551/000149315226039006/0001493152-26-039006-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SGLA&lt;/b&gt; · 8-K/A · Items 1.01, 3.02, 9.01 · Wholesale — Durable (5090) · 8k_tier1:1.01 · filed 2026-08-18&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · Dual Primary Listing · BIDU</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1329099/000119312526355431/d112854d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-355431</guid>
-      <pubDate>Tue, 18 Aug 2026 15:16:44 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>dual_primary_listing</category>
-      <category>6-K</category>
-      <scanner:headline>Converts to dual-primary HKEX listing; EGM Aug 26</scanner:headline>
-      <scanner:shortName>Baidu</scanner:shortName>
-      <scanner:price>90.82</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Converts to dual-primary HKEX listing; EGM Aug 26&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is converting to a dual-primary listing on the Hong Kong Stock Exchange, with an EGM on August 26, 2026 to seek shareholder approval. The conversion is expected to become effective within this year, subject to shareholder and HKEX approval. The company also reported Q2 2026 results with revenue of RMB31.3 billion.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Baidu, Inc. provides internet content, value-added telecommunication-based, internet map, and online audio and video services in the People’s Republic of China. It operates in two segments, Baidu General Business and iQIYI. The Baidu General Business segment offers products and services for mobile ecosystem, AI cloud, and intelligent driving.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; EGM on August 26, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $90.82 · Mkt cap $35.32B · EV $35.42B · Fwd P/E 14.3x · Fwd EV/EBITDA 9.7x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1329099/000119312526355431/0001193125-26-355431-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BIDU, BAIDF&lt;/b&gt; · 6-K · Business Services (7370) · prefill_form:6-K · filed 2026-08-18&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · WRLD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/108385/000110465926098328/0001104659-26-098328-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-098328</guid>
-      <pubDate>Tue, 18 Aug 2026 15:06:48 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Receives 13D/A from Prescott Group raising stake to ~70%</scanner:headline>
-      <scanner:shortName>WORLD ACCEPTANCE</scanner:shortName>
-      <scanner:price>187.89</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Prescott Group raising stake to ~70%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Faces an increased activist stake from Prescott Group, which now reports aggregate beneficial ownership of approximately 70% of the company&amp;#39;s common stock. The group, led by Thomas W. Smith, filed Amendment No. 13 to its Schedule 13D, updating its ownership and purpose. Prescott has been an activist investor in WRLD since 2011.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; World Acceptance Corporation engages in consumer finance business in the United States. The company offers short-term small installment loans, medium-term larger installment loans, related credit insurance, and ancillary products and services to individuals. It also provides income tax return preparation and electronic filing services; and automobile club memberships to borrowers.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Prescott General Partners LLC (Thomas W. Smith)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 70&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-18&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $187.89 · Mkt cap $857.8M · EV $1.50B · Fwd P/E 16.5x · Financials / Consumer Finance&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/108385/000110465926098328/0001104659-26-098328-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WRLD&lt;/b&gt; · SCHEDULE 13D/A · Non-Depository Credit (6141) · fresh_13d · filed 2026-08-18&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

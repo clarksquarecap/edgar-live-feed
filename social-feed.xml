@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 10:16:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:16:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VNET 📍 Stake
+Receives 13D from PJ Millennium disclosing 11.4% stake
+Mcap $2.3B · EV $6.2B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1508475/000110465926102589/primary_doc.xml</link>
+      <guid isPermaLink="false">0001104659-26-102589</guid>
+      <pubDate>Fri, 28 Aug 2026 05:16:53 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$ESI 💥 Busted M&amp;A
+Mutually terminates merger with Solstice; no break fee
+Mcap $9.1B · EV $11B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1590714/000110465926102559/tm2624245d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-102559</guid>
+      <pubDate>Fri, 28 Aug 2026 05:16:41 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$BTAI 🔥 Insolvency · Ch. 11
 Files Chapter 11; stalking horse sale to Teva for $57.5M
