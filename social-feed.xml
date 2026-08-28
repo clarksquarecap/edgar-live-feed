@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 20:31:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:39:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AQN 📤 Divestiture
+Sells 64% Suralis stake to Toesca for $126.5M + $1.5M earnout
+Mcap $4.4B · EV $12B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1174169/000117416926000038/a6-kcondorfilingcover.htm</link>
+      <guid isPermaLink="false">0001174169-26-000038</guid>
+      <pubDate>Fri, 28 Aug 2026 15:39:18 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$OPAD 📉 Delisting · Voluntary
 Voluntarily delists from NYSE effective Aug 28
@@ -555,36 +564,6 @@ Mcap $391M · EV $390M · Financials</title>
       <pubDate>Thu, 27 Aug 2026 15:47:58 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$KRP 📍 Stake
-Receives 13D/A from Rivercrest Capital; 11.7% stake
-Mcap $1.4B · EV $2.0B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1657788/000149315226040406/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-040406</guid>
-      <pubDate>Thu, 27 Aug 2026 15:38:36 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$AES 🤝 Merger
-CFIUS approval received for Horizon Parent merger
-Horizon Parent, L.P.
-Mcap $10B · EV $48B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/874761/000114036126034714/ef20081101_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-034714</guid>
-      <pubDate>Thu, 27 Aug 2026 15:36:45 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$EC 🤝 Merger
-Absorbs Parque Solar Portón del Sol; bondholders vote Sept 4
-Mcap $34B · EV $71B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1444406/000129281426004373/ec20260827_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004373</guid>
-      <pubDate>Thu, 27 Aug 2026 15:36:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
