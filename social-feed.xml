@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 21:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:21:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IOTR 📍 Stake
+Receives 13D from Lianyi Holding for 34.12% stake
+Mcap $14M · EV $12M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1997637/000121390026095166/primary_doc.xml</link>
+      <guid isPermaLink="false">0001213900-26-095166</guid>
+      <pubDate>Fri, 28 Aug 2026 16:21:35 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$INDV 🤝 Merger
+Acquires Supernus for 1.5401 INDV/shr; $1B special dividend
+stock
+Mcap $4.6B · EV $4.9B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1625297/000110465926103278/tm2623753-1_s4.htm</link>
+      <guid isPermaLink="false">0001104659-26-103278</guid>
+      <pubDate>Fri, 28 Aug 2026 16:19:09 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Faces consent solicitation from former CEO Garg to remove 5 directors
+Vishal Garg
+Mcap $515M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000162828026059438/betr-defa14anotice2111.htm</link>
+      <guid isPermaLink="false">0001628280-26-059438</guid>
+      <pubDate>Fri, 28 Aug 2026 16:18:44 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$BOW 🤝 Merger
 Acquired by American Family for $34.00 cash/share; vote pending
