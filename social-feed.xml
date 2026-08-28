@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 21:21:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:30:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BOLD 🤝 Merger
+Amends Serapha merger; adds RSU conversion, pre-funded warrants
+Serapha Bio · stock
+Mcap $65M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1782303/000119312526374787/d111273d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-374787</guid>
+      <pubDate>Fri, 28 Aug 2026 16:30:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$IOTR 📍 Stake
 Receives 13D from Lianyi Holding for 34.12% stake
@@ -493,85 +504,6 @@ Mcap $281M · EV $291M · Tech</title>
       <guid isPermaLink="false">0000921895-26-002350</guid>
       <pubDate>Thu, 27 Aug 2026 16:36:33 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$ROIV ⚖️ Litigation · Won
-Won FDA approval for LISRAYA (brepocitinib) in dermatomyositis
-Mcap $27B · EV $24B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1635088/000114036126034735/ef20081229_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-034735</guid>
-      <pubDate>Thu, 27 Aug 2026 16:30:22 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$ELAB 💥 Busted M&amp;A
-Terminates acquisition of 76% stake in Arizona machining co.
-Mcap $5M · EV $170K · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840563/000121390026094443/ea0303620-8k_pmgc.htm</link>
-      <guid isPermaLink="false">0001213900-26-094443</guid>
-      <pubDate>Thu, 27 Aug 2026 16:30:17 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$HCWC 🤝 Merger
-Stockholders approve Host Digital merger; 1:35 reverse split
-stock · close Q3 2026
-Mcap $6M · EV $20M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1948864/000149315226040455/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-040455</guid>
-      <pubDate>Thu, 27 Aug 2026 16:29:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CDLR 🌍 Re-domicile
-Files F-4 for UK redomiciliation; 1:1 share exchange
-Mcap $2.3B · EV $3.9B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1978867/000197886726000102/a6-kxcadelerxpublicfilingb.htm</link>
-      <guid isPermaLink="false">0001978867-26-000102</guid>
-      <pubDate>Thu, 27 Aug 2026 16:29:43 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$TACT 👀 Activist
-Urges urgent BOHA strategic review; seeks new board directors
-5.1 stake
-Mcap $52M · EV $39M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1017303/000121465926010987/primary_doc.xml</link>
-      <guid isPermaLink="false">0001214659-26-010987</guid>
-      <pubDate>Thu, 27 Aug 2026 16:23:47 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$SOLS 💥 Busted M&amp;A
-Mutually terminates acquisition of Element Solutions
-Mcap $9.0B · EV $11B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2064953/000110465926102503/tm2620579d9_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-102503</guid>
-      <pubDate>Thu, 27 Aug 2026 16:23:42 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$AVXL ⚔️ Proxy
-Nominates 6-director slate at Anavex; AGM Sept 24
-0.36% stake
-Mcap $314M · EV $187M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226040438/formdefc14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-040438</guid>
-      <pubDate>Thu, 27 Aug 2026 16:23:33 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$CBZ 🤝 Merger
-Acquired by Grant Thornton for $55.00 cash per share
-Grant Thornton Advisors · cash · close Q4 2026
-Mcap $2.9B · EV $4.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/944148/000119312526371546/d181429dprem14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-371546</guid>
-      <pubDate>Thu, 27 Aug 2026 16:23:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
