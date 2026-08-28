@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 21:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:41:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ZTEK 📉 Delisting · Forced
+Forced Nasdaq delisting effective Sept 2; moves to OTCQX
+effective 2026-09-02
+Mcap $84M · EV $84M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1904501/000106299326004710/form6k.htm</link>
+      <guid isPermaLink="false">0001062993-26-004710</guid>
+      <pubDate>Fri, 28 Aug 2026 16:41:25 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$BMRA 📍 Stake
 Receives 10.03% 13D from B. Riley; investment intent
@@ -515,15 +526,6 @@ Mcap $7M · Financials</title>
       <pubDate>Thu, 27 Aug 2026 17:18:21 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CMRC 👀 Activist
-Takes 6.5% activist stake in Commerce.com
-Mcap $281M · EV $291M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1626450/000092189526002350/primary_doc.xml</link>
-      <guid isPermaLink="false">0000921895-26-002350</guid>
-      <pubDate>Thu, 27 Aug 2026 16:36:33 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
