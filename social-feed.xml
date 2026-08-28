@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 10:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:13:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CMII 🤝 Merger
+Acquires Elroy Air in SPAC merger; S-4 pending
+Mcap $314M · EV $313M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2088805/000121390026094582/ea0303778-425_inflection7.htm</link>
+      <guid isPermaLink="false">0001213900-26-094582</guid>
+      <pubDate>Fri, 28 Aug 2026 05:13:44 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BTGO 🤝 Merger
 Acquires NYDIG IF Holdings for $7M cash + $35.5M stock + earnouts
@@ -624,37 +634,6 @@ Mcap $1.8B · EV $3.6B · Materials</title>
       <pubDate>Thu, 27 Aug 2026 05:18:50 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$KKR ⚖️ Litigation · Settled
-Settles $250M DOJ antitrust suit over HSR filings
-Mcap $97B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1404912/000114036126034520/ef20081051_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-034520</guid>
-      <pubDate>Thu, 27 Aug 2026 05:12:04 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$CYCN 🤝 Merger
-Approves Korsana reverse merger; redomestication fails
-Korsana Biosciences · stock
-Mcap $15M · EV $14M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1755237/000119312526369426/d264301d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-369426</guid>
-      <pubDate>Thu, 27 Aug 2026 05:11:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AVXL ⚔️ Proxy
-Faces 6-director proxy contest from PVG; AGM Sept 24
-PVG Asset Management · 0.36% stake
-Mcap $314M · EV $187M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226040286/formprrn14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-040286</guid>
-      <pubDate>Thu, 27 Aug 2026 05:10:30 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
