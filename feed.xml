@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 21:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:50:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · SHAZ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2068385/000093583626000468/0000935836-26-000468-index.htm</link>
+      <guid isPermaLink="false">0000935836-26-000468</guid>
+      <pubDate>Fri, 28 Aug 2026 16:50:23 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Takes 21.1% stake via 5.4M shares + 2.67M warrants</scanner:headline>
+      <scanner:shortName>SharonAI Holdings</scanner:shortName>
+      <scanner:price>52.38</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Takes 21.1% stake via 5.4M shares + 2.67M warrants&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Situational Awareness LP disclosed a 21.1% stake in SharonAI Holdings Inc., comprising 5,396,127 Class A shares and prefunded warrants for 2,674,823 shares. The group includes the adviser, its GP, and principals. No specific agenda was stated in the initial 13D.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SharonAI Holdings Inc. operates as a computing company specializing in accelerated compute platforms, AI infrastructure, and cloud GPU environments. It operates through a hybrid model that combines deployment in data centers with the development of its data center facilities in strategic locations. Its platform integrates compute, storage, networking, and automation into a unified enterprise solution serving AI labs, hyperscale customers, research institutions, and regulated industries.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 21.1&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $52.38 · Mkt cap $1.85B · EV $1.89B · Fwd EV/EBITDA 13.4x · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2068385/000093583626000468/0000935836-26-000468-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SHAZ, SHAZW&lt;/b&gt; · SCHEDULE 13D · Business Services (7374) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💔 Busted · SEQC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm</link>
@@ -9560,22 +9579,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $16.60 · Mkt cap $34.11B · EV $71.01B · Fwd P/E 8.4x · Fwd EV/EBITDA 4.3x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1444406/000129281426004290/0001292814-26-004290-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EC&lt;/b&gt; · 6-K · Oil &amp;amp; Gas (1311) · prefill_form:6-K · filed 2026-08-19&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · KCA-UN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2102713/000119312526355801/d68626d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-355801</guid>
-      <pubDate>Wed, 19 Aug 2026 05:06:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>SPAC merger with Nth Cycle; CEO interview on Bloomberg</scanner:headline>
-      <scanner:shortName>Kensington Capital Acquisition Corp. VI</scanner:shortName>
-      <description>&lt;p&gt;&lt;b&gt;SPAC merger with Nth Cycle; CEO interview on Bloomberg&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is merging with Nth Cycle, a critical minerals refining company, via a SPAC business combination. Nth Cycle&amp;#39;s CEO discussed the deal on Bloomberg TV, highlighting US policy support and the company&amp;#39;s OYSTER refining technology. The merger is pending shareholder approval and a registration statement.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nth Cycle, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2102713/000119312526355801/0001193125-26-355801-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KCA-UN, KCAC-UN, KCAC-WT&lt;/b&gt; · 425 · Chemicals / Pharma (2810) · prefill_form:425 · filed 2026-08-19&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
