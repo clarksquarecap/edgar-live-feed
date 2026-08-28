@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 21:30:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:34:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BMRA 📍 Stake
+Receives 10.03% 13D from B. Riley; investment intent
+Mcap $5M · EV $4M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/73290/000121390026095193/primary_doc.xml</link>
+      <guid isPermaLink="false">0001213900-26-095193</guid>
+      <pubDate>Fri, 28 Aug 2026 16:34:30 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$PPC ⚖️ Litigation · Settled
+Settles derivative lawsuit; $31M to company
+vs JBS
+Mcap $6.6B · EV $9.4B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/802481/000080248126000059/ppc-20260828.htm</link>
+      <guid isPermaLink="false">0000802481-26-000059</guid>
+      <pubDate>Fri, 28 Aug 2026 16:31:13 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$BOLD 🤝 Merger
 Amends Serapha merger; adds RSU conversion, pre-funded warrants
