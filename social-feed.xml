@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 10:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:22:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$VNET 📍 Stake
@@ -662,36 +662,6 @@ Mcap $35B · EV $35B · Comms</title>
       <guid isPermaLink="false">0001193125-26-369462</guid>
       <pubDate>Thu, 27 Aug 2026 05:30:31 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$SKM 📤 Divestiture
-Sells 37% stake in SK Horizon to KKR/IMM for ₩3.08T
-₩3.08 trillion deal · close 2027-03-04
-Mcap $14B · EV $20B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1015650/000119312526369453/d120053d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-369453</guid>
-      <pubDate>Thu, 27 Aug 2026 05:19:21 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SKM 🪓 Spinoff
-Spins off SK Broadband's data center &amp; subsea cable businesses into SK Horizon
-Mcap $14B · EV $20B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1015650/000119312526369455/d121930d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-369455</guid>
-      <pubDate>Thu, 27 Aug 2026 05:19:09 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$NEXA 🤝 Merger
-Control sold to Boliden via 0.25-for-1 share exchange; cash tender for minorities
-Boliden AB · cash+stk · close Q1 2027
-Mcap $1.8B · EV $3.6B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1713930/000129281426004362/nexa20260826_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004362</guid>
-      <pubDate>Thu, 27 Aug 2026 05:18:50 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
