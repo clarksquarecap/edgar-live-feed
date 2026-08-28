@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 20:49:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:11:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CYRB 🪙 Debt Restr.
+Adjourns foreclosure sale to Nov 3; continues strategic review
+Mcap $404M · EV $430M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1851048/000185104826000017/cyrb8k20260825.htm</link>
+      <guid isPermaLink="false">0001851048-26-000017</guid>
+      <pubDate>Fri, 28 Aug 2026 16:11:23 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$XRPN 🤝 Merger
 Acquired by Armada SPAC; S-4 effective; vote Sept 30
@@ -553,35 +562,6 @@ Mcap $331M · EV $331M · Financials</title>
       <pubDate>Thu, 27 Aug 2026 16:16:36 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SLND ⚖️ Litigation · Settled
-Settles WSCC surety dispute for $5M; expects $29M Q3 gain
-vs Liberty Mutual, Zurich
-Mcap $38M · EV $320M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1883814/000182912626009431/southland_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-009431</guid>
-      <pubDate>Thu, 27 Aug 2026 16:08:37 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$CDLR 🌍 Re-domicile
-Redomiciles to UK via 1-for-1 share exchange; NYSE/OSE listing continues</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2063345/000110465926102494/tm2510458-5_f4.htm</link>
-      <guid isPermaLink="false">0001104659-26-102494</guid>
-      <pubDate>Thu, 27 Aug 2026 16:08:28 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$TACH 🤝 Merger · Preliminary
-Acquired by Titan Acquisition Corp in proposed de-SPAC
-Mcap $362M · EV $361M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2009183/000182912626009429/openpayd_425.htm</link>
-      <guid isPermaLink="false">0001829126-26-009429</guid>
-      <pubDate>Thu, 27 Aug 2026 16:08:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
