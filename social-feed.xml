@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 14:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:34:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WTG 🤝 Merger
+Acquired by Wintergreen SPAC for $80M stock; EGM vote pending
+Wintergreen Acquisition · $80,000,000 deal · stock
+Mcap $76M · EV $75M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2053927/000182912626009468/wintergreenacq_s4a5.htm</link>
+      <guid isPermaLink="false">0001829126-26-009468</guid>
+      <pubDate>Fri, 28 Aug 2026 09:34:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$WEGYF 📤 Divestiture
 Sells 1.4GW Alberta solar portfolio to Metka for CAD$217-346M cash
@@ -622,15 +633,6 @@ Saba demands shareholder list; plans proxy fight to oust manager at BPRE
       <pubDate>Thu, 27 Aug 2026 10:55:45 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
       <category>proxy_solicitation</category>
-    </item>
-    <item>
-      <title>$MKDW 📍 Stake
-CEO/Chairman enters concert party, consolidates 76.4% voting control
-Mcap $53M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1991332/000149315226040345/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-040345</guid>
-      <pubDate>Thu, 27 Aug 2026 09:32:14 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
