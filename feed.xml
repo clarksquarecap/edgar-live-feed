@@ -6,8 +6,24 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 21:41:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 21:43:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💔 Busted · SEQC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm</link>
+      <guid isPermaLink="false">0001213900-26-095141</guid>
+      <pubDate>Fri, 28 Aug 2026 16:43:20 -0500</pubDate>
+      <category>BUSTED_MA</category>
+      <category>8-K</category>
+      <scanner:headline>Terminates merger with Allegro Merger Corp.</scanner:headline>
+      <scanner:shortName>SeeQC</scanner:shortName>
+      <description>&lt;p&gt;&lt;b&gt;Terminates merger with Allegro Merger Corp.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;SeeQC and Allegro Merger Corp. mutually terminated their merger agreement effective Aug 25, 2026. Under the termination agreement, if SeeQC completes a Trigger Event (certain equity financing or business combination), it will pay up to $2M of Allegro&amp;#39;s documented expenses and issue $6M in SeeQC shares based on a $1.3B pre-money valuation. All claims are released, and SeeQC is free to pursue other transactions before the Oct 31, 2026 outside date.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Allegro Merger Corp.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Potential new transaction before Oct 31, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/0001213900-26-095141-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SEQC&lt;/b&gt; · 8-K · Items 1.02, 9.01 · Business Services (7374) · 8k_tier1:1.02 · filed 2026-08-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · ZTEK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1904501/000106299326004710/form6k.htm</link>
@@ -9560,26 +9576,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nth Cycle, Inc.&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2102713/000119312526355801/0001193125-26-355801-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KCA-UN, KCAC-UN, KCAC-WT&lt;/b&gt; · 425 · Chemicals / Pharma (2810) · prefill_form:425 · filed 2026-08-19&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · LPSN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1102993/000119312526355908/d417319d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-355908</guid>
-      <pubDate>Wed, 19 Aug 2026 05:06:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquired by SoundHound AI; vote deadline Aug 19</scanner:headline>
-      <scanner:shortName>LIVEPERSON</scanner:shortName>
-      <scanner:price>2.19</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by SoundHound AI; vote deadline Aug 19&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Shareholders vote on SoundHound AI&amp;#39;s proposed acquisition at a special meeting; proxy deadline is Aug 19. The definitive merger agreement is pending shareholder approval, with the S-4/proxy statement filed July 9, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; LivePerson, Inc. operates as a digital customer conversation in the United States, Canada, Latin America, South America, Europe, the Middle East, Africa, and the Asia-Pacific. It enables brands to leverage the LivePerson Platform’s intelligence engine to connect with consumers through an integrated suite of mobile and online business messaging technologies.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; SoundHound AI&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote on Aug 19, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.19 · Mkt cap $21.8M · EV $314.1M · Fwd EV/EBITDA 91.2x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1102993/000119312526355908/0001193125-26-355908-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LPSN&lt;/b&gt; · 425 · Business Services (7372) · prefill_form:425 · filed 2026-08-19&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
