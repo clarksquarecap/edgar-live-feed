@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 28 Aug 2026 15:52:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 15:58:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GRX 📍 Stake
@@ -631,16 +631,6 @@ Mcap $1.8B · EV $3.6B · Materials</title>
       <guid isPermaLink="false">0001140361-26-034601</guid>
       <pubDate>Thu, 27 Aug 2026 12:05:55 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$BPRE 👀 Activist
-Saba demands shareholder list; plans proxy fight to oust manager at BPRE
-5.12% stake</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1551047/000106299326004669/primary_doc.xml</link>
-      <guid isPermaLink="false">0001062993-26-004669</guid>
-      <pubDate>Thu, 27 Aug 2026 10:55:45 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>proxy_solicitation</category>
     </item>
   </channel>
 </rss>
