@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 29 Aug 2026 15:53:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:24:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$XPON 📍 Stake
@@ -285,15 +285,6 @@ Mcap $256M · EV $569M · Tech</title>
       <pubDate>Fri, 28 Aug 2026 15:05:31 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GOVB 📍 Stake
-Receives 13D from J. David Rosenberg with 5.1% stake
-Mcap $21M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1978811/000167873126000003/primary_doc.xml</link>
-      <guid isPermaLink="false">0001678731-26-000003</guid>
-      <pubDate>Fri, 28 Aug 2026 12:19:31 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
