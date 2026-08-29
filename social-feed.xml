@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 29 Aug 2026 11:51:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 12:09:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$XPON 📍 Stake
@@ -342,27 +342,6 @@ Mcap $7M · EV $7M · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-094703</guid>
       <pubDate>Fri, 28 Aug 2026 08:22:16 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$OSRH 📉 Delisting · Forced
-Nasdaq trading suspended Aug 26; Panel hearing Sept 29
-Mcap $15M · EV $42M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840425/000121390026094654/ea0303794-8k_osrhealth.htm</link>
-      <guid isPermaLink="false">0001213900-26-094654</guid>
-      <pubDate>Fri, 28 Aug 2026 07:04:15 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$BCAB 📉 Delisting · Forced
-Forced Nasdaq delisting effective Aug 31; OTC trading under BCAB
-effective 2026-08-31
-Mcap $5M · EV $10M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1826892/000153949726002373/n5620_x8-8k.htm</link>
-      <guid isPermaLink="false">0001539497-26-002373</guid>
-      <pubDate>Fri, 28 Aug 2026 07:04:06 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
