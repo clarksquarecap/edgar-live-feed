@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 29 Aug 2026 21:42:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 21:48:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$XPON 📍 Stake
@@ -34,14 +34,6 @@ Mcap $1.9B · EV $1.9B · Tech</title>
       <guid isPermaLink="false">0000935836-26-000468</guid>
       <pubDate>Fri, 28 Aug 2026 16:50:23 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SEQC 💥 Busted M&amp;A
-Terminates merger with Allegro Merger Corp.</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm</link>
-      <guid isPermaLink="false">0001213900-26-095141</guid>
-      <pubDate>Fri, 28 Aug 2026 16:43:20 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
