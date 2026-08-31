@@ -6,8 +6,28 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 31 Aug 2026 11:00:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:06:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Self Tender · GDEV</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848739/000110465926103543/tm2624191d1_sctoi.htm</link>
+      <guid isPermaLink="false">0001104659-26-103543</guid>
+      <pubDate>Mon, 31 Aug 2026 06:06:45 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+      <category>SC TO-I</category>
+      <scanner:headline>Offers $20M self-tender at $11.03/share (10% of shares)</scanner:headline>
+      <scanner:shortName>GDEV</scanner:shortName>
+      <scanner:price>11.59</scanner:price>
+      <description>&lt;p&gt;&lt;b&gt;Offers $20M self-tender at $11.03/share (10% of shares)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Commenced a cash tender offer to purchase up to $20,000,000 in value of its ordinary shares (up to 1,813,236 shares, ~10% of outstanding) at $11.03 per share, net to seller. The offer expires September 28, 2026, unless extended. No financing condition; funded from cash on hand.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; GDEV Inc. develops and publishes online games in the United States, Europe, Asia, and internationally. The company offers various games through mobile, social, and web-based platforms. It also provides franchise gaming in the role-playing game genre. The company was formerly known as Nexters Inc. and changed its name to GDEV Inc. in June 2023. GDEV Inc. was founded in 2010 and is headquartered in Limassol, Cyprus.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; $11.03&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $20,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10.0%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Expiration time September 28, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $11.59 · Mkt cap $217.1M · EV $105.2M · Fwd EV/EBITDA 1.0x · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1848739/000110465926103543/0001104659-26-103543-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GDEV, GDEVW&lt;/b&gt; · SC TO-I · Business Services (7371) · prefill_form:SC TO-I · filed 2026-08-31&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · KKR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1404912/000114036126034930/ef20081331_8k.htm</link>
@@ -9556,25 +9576,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $6.21 · Mkt cap $941.0M · EV $933.3M · Fwd P/E 43.7x · Fwd EV/EBITDA 38.1x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/101538/000110465926098593/0001104659-26-098593-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UAMY&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Primary Metals (3330) · 8k_tier1:7.01,8.01 · filed 2026-08-19&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🎯 Tender · FBRX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1419041/000114036126033676/ny20080629x1_sctota.htm</link>
-      <guid isPermaLink="false">0001140361-26-033676</guid>
-      <pubDate>Wed, 19 Aug 2026 06:51:17 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>SC TO-T/A</category>
-      <scanner:headline>HSR cleared; $77.00/share cash tender from argenx</scanner:headline>
-      <scanner:shortName>Forte Biosciences</scanner:shortName>
-      <scanner:price>76.61</scanner:price>
-      <description>&lt;p&gt;&lt;b&gt;HSR cleared; $77.00/share cash tender from argenx&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is the target of a third-party tender offer by Avena Merger Sub Inc. (wholly owned by argenx BV/argenx SE) to acquire all outstanding shares for $77.00 per share in cash. The HSR waiting period expired at 11:59 p.m. ET on August 18, 2026, satisfying the HSR Clearance Condition. The offer remains subject to the remaining conditions set forth in the Offer to Purchase.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Forte Biosciences, Inc. operates as a clinical-stage biopharmaceutical company in the United States. The company’s lead product candidate is the FB-102, a proprietary anti-CD122 monoclonal antibody therapeutic candidate for various autoimmune and autoimmune-related indications, such as celiac disease, vitiligo, alopecia areata, and type 1 diabetes. Forte Biosciences, Inc. is headquartered in Dallas, Texas.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; argenx SE (via Avena Merger Sub Inc.)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 77.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Tender offer expiration; remaining conditions&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $76.61 · Mkt cap $1.87B · EV $1.81B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1419041/000114036126033676/0001140361-26-033676-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FBRX&lt;/b&gt; · SC TO-T/A · Chemicals / Pharma (2834) · prefill_form:SC TO-T · filed 2026-08-19&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
