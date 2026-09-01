@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 21:47:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:53:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$DSGX 🤝 Merger
@@ -639,15 +639,6 @@ Mcap $47M · EV $84M · Cons Disc</title>
       <guid isPermaLink="false">0001193805-26-001164</guid>
       <pubDate>Mon, 31 Aug 2026 16:54:45 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$DFNS 💥 Busted M&amp;A
-Terminates 60% Project 35 acquisition; shares and $1.25M note returned
-Mcap $22M · EV $214M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1787518/000118518526003774/dfns8k082626.htm</link>
-      <guid isPermaLink="false">0001185185-26-003774</guid>
-      <pubDate>Mon, 31 Aug 2026 16:48:26 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
