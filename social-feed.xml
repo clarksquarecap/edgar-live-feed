@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 20:00:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:06:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$YTRA 🎯 Tender
+Faces $1.10/share unsolicited tender from Magna Holdings
+22000000 deal · cash · close 2026-09-17
+Mcap $51M · EV $66M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1516899/000121390026096205/ea0303988-01.htm</link>
+      <guid isPermaLink="false">0001213900-26-096205</guid>
+      <pubDate>Tue, 01 Sep 2026 15:06:53 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$NPHC 📍 Stake
 Receives 13D from Pure Raw Supplies for 100% Series B Preferred
@@ -735,16 +745,6 @@ Mcap $404M · EV $430M · Cons Disc</title>
       <guid isPermaLink="false">0000807249-26-000078</guid>
       <pubDate>Mon, 31 Aug 2026 15:09:06 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NEXR 🤝 Merger
-Acquires Fort Technology Inc
-Mcap $1M · EV $6M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1885408/000121390026095699/ea0302958-6k_nexera.htm</link>
-      <guid isPermaLink="false">0001213900-26-095699</guid>
-      <pubDate>Mon, 31 Aug 2026 15:05:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
