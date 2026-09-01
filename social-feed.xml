@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 20:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:39:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$UCB 📤 Divestiture
+Sells Navitas equipment finance business to Wafra for $2.0B cash
+$2.0 billion deal · close completed
+Mcap $4.4B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/857855/000085785526000084/ucbi-20260901.htm</link>
+      <guid isPermaLink="false">0000857855-26-000084</guid>
+      <pubDate>Tue, 01 Sep 2026 15:39:30 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$AHR 🤝 Merger
+Acquires six Kensington senior housing communities for $572M; two more pending
+$873 million deal · cash · close Q4 2026
+Mcap $11B · EV $12B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1632970/000119312526378483/ahr-20260901.htm</link>
+      <guid isPermaLink="false">0001193125-26-378483</guid>
+      <pubDate>Tue, 01 Sep 2026 15:39:20 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RMD 💧 Capital Return · ASR
 Launches $450M ASR; funded by MatrixCare sale proceeds
@@ -720,15 +741,6 @@ Mcap $68M · Financials</title>
       <pubDate>Mon, 31 Aug 2026 15:45:13 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$STRT 📍 Stake
-Reports 19.8% stake in STRT
-Mcap $325M · EV $245M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/933034/000080724926000079/primary_doc.xml</link>
-      <guid isPermaLink="false">0000807249-26-000079</guid>
-      <pubDate>Mon, 31 Aug 2026 15:39:15 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
