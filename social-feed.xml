@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 15:14:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:57:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NFJ 💧 Capital Return · Self-tender
+Tenders for up to 25% of shares at 99% NAV; expires Oct 5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1260563/000119312526377910/d68073dsctoi.htm</link>
+      <guid isPermaLink="false">0001193125-26-377910</guid>
+      <pubDate>Tue, 01 Sep 2026 10:57:26 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$CRK 📤 Divestiture
 Signs LOI to sell partial Haynesville interests to SOCAR for $1.65B cash
@@ -754,15 +763,6 @@ Mcap $3M · EV $11M · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-103720</guid>
       <pubDate>Mon, 31 Aug 2026 11:38:58 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$EFTY 📍 Stake
-Receives 13D from CEO's holding company disclosing 68.08% stake
-Mcap $302M · EV $298M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2058349/000121390026095550/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-095550</guid>
-      <pubDate>Mon, 31 Aug 2026 10:57:06 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
