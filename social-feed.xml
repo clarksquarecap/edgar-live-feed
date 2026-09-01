@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 21:00:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:06:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EFTY 🌍 Re-domicile
+Domesticates from Cayman to Nevada; AGM vote pending
+Mcap $302M · EV $298M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2058349/000121390026096278/ea0304009-s4a1_etoiles.htm</link>
+      <guid isPermaLink="false">0001213900-26-096278</guid>
+      <pubDate>Tue, 01 Sep 2026 16:06:28 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$LPSN 🤝 Merger
 Acquired by SoundHound AI in stock-for-stock merger
@@ -658,27 +667,6 @@ Mcap $74M · EV $7M · Healthcare</title>
       <guid isPermaLink="false">0001655566-26-000003</guid>
       <pubDate>Mon, 31 Aug 2026 16:08:18 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$GETY 🔎 Strat Review · Strat Alts
-Evaluates strategic financing alternatives; taps 30-day interest grace period
-Mcap $112M · EV $2.2B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1898496/000121390026095778/ea0304109-8k_getty.htm</link>
-      <guid isPermaLink="false">0001213900-26-095778</guid>
-      <pubDate>Mon, 31 Aug 2026 16:05:26 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$VCTR 🤝 Merger
-Acquires First Eagle for cash + 4.9% stock + conv. preferred
-cash+stk
-Mcap $7.0B · EV $7.9B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1570827/000110465926103938/tm2624030d7_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-103938</guid>
-      <pubDate>Mon, 31 Aug 2026 16:03:36 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
