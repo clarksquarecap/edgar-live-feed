@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 07:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:08:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EMPD ⚔️ Proxy
+Faces ATG Capital proxy contest; court allows 9 nominees
+Mcap $83M · EV $121M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826006845/empery_prer14a.htm</link>
+      <guid isPermaLink="false">0001683168-26-006845</guid>
+      <pubDate>Tue, 01 Sep 2026 05:08:44 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$URAIF 🤝 Merger
 Acquires DomeCommand AI drone C2 platform for C$25k + up to 30M shares
@@ -721,16 +730,6 @@ Mcap $17M · EV $34M · Real Estate</title>
       <guid isPermaLink="false">0000921895-26-002390</guid>
       <pubDate>Mon, 31 Aug 2026 05:59:00 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$GARWF 📤 Divestiture
-Sells San Pietro copper assets to Capstone for $25M; close Q3
-to Capstone Copper · close Q3 2026
-Mcap $14M · EV $13M · Materials</title>
-      <link>https://goldenarrowresources.com/news-releases/golden-arrow-announces-shareholder-approval-of-sale-of-copper-assets-at-san-pietro-project/</link>
-      <guid isPermaLink="false">OTC-533440</guid>
-      <pubDate>Mon, 31 Aug 2026 05:07:09 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
