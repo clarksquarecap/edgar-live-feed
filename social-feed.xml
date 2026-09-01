@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 20:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:22:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GBNY 🧊 Liquidation
+Dissolution payout $16.25-$16.35/share; record date Sept 15
+Mcap $34M · Financials</title>
+      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=92801</link>
+      <guid isPermaLink="false">OTC-533722</guid>
+      <pubDate>Tue, 01 Sep 2026 15:22:47 -0500</pubDate>
+      <category>LIQUIDATION</category>
+      <category>dissolution</category>
+    </item>
+    <item>
+      <title>$GPRO 🤝 Merger
+Acquired by Action Acquisitions in definitive merger
+Mcap $162M · EV $220M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1500435/000162828026059839/gpro-20260901.htm</link>
+      <guid isPermaLink="false">0001628280-26-059839</guid>
+      <pubDate>Tue, 01 Sep 2026 15:22:03 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GPRO 🤝 Merger
 Acquired by Starman Optical; $92M debt retired; close by year-end
