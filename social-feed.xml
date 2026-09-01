@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 21:13:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:21:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MEOH 📤 Divestiture
+Sells NZ gas entitlements; idles plants Q1 2027
+Mcap $4.5B · EV $7.7B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/886977/000162828026059919/nzupdate2026.htm</link>
+      <guid isPermaLink="false">0001628280-26-059919</guid>
+      <pubDate>Tue, 01 Sep 2026 16:21:23 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$SAFX 🤝 Merger
 Acquires Southern Energy and DevvStream; XCF holders retain 66.67%
@@ -680,26 +689,6 @@ Mcap $20M · EV $24M · Tech</title>
       <pubDate>Mon, 31 Aug 2026 16:28:04 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$OKE 💧 Capital Return · Recap
-Recapitalizes with $9B Apollo investment; new holding structure
-Mcap $60B · EV $93B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1039684/000119312526377023/d405989d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-377023</guid>
-      <pubDate>Mon, 31 Aug 2026 16:16:26 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces consent solicitation from ex-CEO to remove 5 directors
-Vishal Garg
-Mcap $515M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000162828026059624/defa14aaugust31pr.htm</link>
-      <guid isPermaLink="false">0001628280-26-059624</guid>
-      <pubDate>Mon, 31 Aug 2026 16:14:28 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
