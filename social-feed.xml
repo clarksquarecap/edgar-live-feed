@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 12:11:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:17:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CPK 📤 Divestiture
+Sells 49% stake in Florida Energy Pathway to NextEra
+close 2026-09-01
+Mcap $3.2B · EV $4.9B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/19745/000119312526377589/d641124d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-377589</guid>
+      <pubDate>Tue, 01 Sep 2026 07:17:16 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CETI 📤 Divestiture
 Divests Alvey Oil Field to Texas Coastal Energy for equity
@@ -717,15 +727,6 @@ Mcap $23B · EV $86B · Utilities</title>
       <pubDate>Mon, 31 Aug 2026 07:49:13 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CYD ✂️ Carve-out
-Renews MGP's HKEX listing application
-Mcap $1.8B · EV $1.5B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/932695/000119312526375503/mgps_refiling_in_aug_202.htm</link>
-      <guid isPermaLink="false">0001193125-26-375503</guid>
-      <pubDate>Mon, 31 Aug 2026 07:17:04 -0500</pubDate>
-      <category>CARVE_OUT</category>
     </item>
   </channel>
 </rss>
