@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 20:22:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:31:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SRCRF 📉 Delisting · Voluntary
+Delists from OTCQB; lists ADSs on NASDAQ under SGLD
+effective 2026-09-01
+Mcap $89M · EV $87M · Materials</title>
+      <link>https://www.theglobeandmail.com/investing/markets/stocks/SGN-X/pressreleases/4242383/scorpio-gold-announces-approval-to-list-american-depositary-shares-on-the-nasdaq-capital-market-under-the-symbol-sgld/</link>
+      <guid isPermaLink="false">OTC-533739</guid>
+      <pubDate>Tue, 01 Sep 2026 15:31:46 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$GBNY 🧊 Liquidation
 Dissolution payout $16.25-$16.35/share; record date Sept 15
@@ -707,23 +718,6 @@ Mcap $325M · EV $245M · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/933034/000080724926000079/primary_doc.xml</link>
       <guid isPermaLink="false">0000807249-26-000079</guid>
       <pubDate>Mon, 31 Aug 2026 15:39:15 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$PETZ 📍 Stake
-CEO Liu boosts stake to 49.1% via $3.56M purchase
-Mcap $12M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1684425/000121390026095704/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-095704</guid>
-      <pubDate>Mon, 31 Aug 2026 15:25:37 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SCAT 📍 Stake
-Sponsor files 13D disclosing 27.75% stake</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2133239/000192998026000515/primary_doc.xml</link>
-      <guid isPermaLink="false">0001929980-26-000515</guid>
-      <pubDate>Mon, 31 Aug 2026 15:25:18 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
