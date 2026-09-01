@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 11:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:05:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$KDP 📤 Divestiture
@@ -717,27 +717,6 @@ Mcap $1.8B · EV $1.5B · Industrials</title>
       <guid isPermaLink="false">0001193125-26-375503</guid>
       <pubDate>Mon, 31 Aug 2026 07:17:04 -0500</pubDate>
       <category>CARVE_OUT</category>
-    </item>
-    <item>
-      <title>$BCCQ 🤝 Merger
-Acquires Ursa Major in $2.3B SPAC merger
-Ursa Major Technologies · stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2128045/000121390026095373/ea030396904-425_bleich3.htm</link>
-      <guid isPermaLink="false">0001213900-26-095373</guid>
-      <pubDate>Mon, 31 Aug 2026 07:02:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$HSCS 🤝 Merger
-Acquired by Fortitude Mining in all-stock merger
-stock
-Mcap $8M · EV $11M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026095376/ea0303996-defa14a_heart.htm</link>
-      <guid isPermaLink="false">0001213900-26-095376</guid>
-      <pubDate>Mon, 31 Aug 2026 07:02:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
