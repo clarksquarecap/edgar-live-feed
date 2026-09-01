@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 21:29:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:35:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$DSGX 🤝 Merger
@@ -679,45 +679,6 @@ Mcap $1.7B · EV $1.5B · Healthcare</title>
       <guid isPermaLink="false">0001193125-26-377066</guid>
       <pubDate>Mon, 31 Aug 2026 16:40:48 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$SSM 🤝 Merger · Preliminary
-Enters non-binding LOI to combine with Sports One
-Mcap $4M · EV $10M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840416/000117184326005808/f8k_083126.htm</link>
-      <guid isPermaLink="false">0001171843-26-005808</guid>
-      <pubDate>Mon, 31 Aug 2026 16:34:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$CTVA 🪓 Spinoff
-Vylor issues $1.1B notes to fund seed spin-off
-Mcap $52B · EV $55B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526377055/ck0001755672-20260831.htm</link>
-      <guid isPermaLink="false">0001193125-26-377055</guid>
-      <pubDate>Mon, 31 Aug 2026 16:34:01 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$KYNB 🪙 Debt Restr.
-Cuts royalty financing cap to $65M; pays $42.6M upfront
-Mcap $32M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/921299/000119312526377059/kynb-20260831.htm</link>
-      <guid isPermaLink="false">0001193125-26-377059</guid>
-      <pubDate>Mon, 31 Aug 2026 16:33:44 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>liability_management</category>
-    </item>
-    <item>
-      <title>$IRHO 🤝 Merger
-Acquires Electra Vehicles in business combination
-Mcap $293M · EV $293M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2051985/000121390026095802/ea0304091-8k425_iron2.htm</link>
-      <guid isPermaLink="false">0001213900-26-095802</guid>
-      <pubDate>Mon, 31 Aug 2026 16:33:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
