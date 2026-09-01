@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 11:01:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:07:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TKC 🤝 Merger · Rumor
+In talks to acquire TOGG shares with Türkiye Wealth Fund
+Mcap $4.7B · EV $6.5B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1071321/000110465926104107/tm2624551d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-104107</guid>
+      <pubDate>Tue, 01 Sep 2026 06:07:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>rumor_response</category>
+    </item>
     <item>
       <title>$ENOV 🤝 Merger
 Acquires eCential Robotics for €176M cash + €35M earnout
@@ -719,37 +729,6 @@ Mcap $8.0B · EV $4.0B · Cons Disc</title>
       <pubDate>Mon, 31 Aug 2026 06:08:02 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
       <category>debt_for_equity_swap</category>
-    </item>
-    <item>
-      <title>$RNGR 🤝 Merger
-Acquires STEP's U.S. coiled tubing assets for $27.5M
-STEP Energy Services · cash+stk
-Mcap $387M · EV $432M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1699039/000162828026059460/rng-20260831.htm</link>
-      <guid isPermaLink="false">0001628280-26-059460</guid>
-      <pubDate>Mon, 31 Aug 2026 06:07:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RDHL 📤 Divestiture
-Sells 70% Talicia stake to Apotex for $18M cash + $35M milestones
-$18M + up to $35M milestones deal · close Completed
-Mcap $4M · EV $1M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1553846/000117891326004329/zk2636045.htm</link>
-      <guid isPermaLink="false">0001178913-26-004329</guid>
-      <pubDate>Mon, 31 Aug 2026 06:07:05 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GDEV 💧 Capital Return · Self-tender
-Offers $20M self-tender at $11.03/share (10% of shares)
-Mcap $217M · EV $105M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1848739/000110465926103543/tm2624191d1_sctoi.htm</link>
-      <guid isPermaLink="false">0001104659-26-103543</guid>
-      <pubDate>Mon, 31 Aug 2026 06:06:45 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
