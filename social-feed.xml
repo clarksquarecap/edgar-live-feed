@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 16:22:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:40:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SHEL 🤝 Merger
+Acquires ARC Resources; issues 228M new shares
+stock
+Mcap $248B · EV $292B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1306965/000117184326005830/f6k_090126.htm</link>
+      <guid isPermaLink="false">0001171843-26-005830</guid>
+      <pubDate>Tue, 01 Sep 2026 11:40:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TECK 🤝 Merger
 Merger with Anglo American: close timeline set to 11 trading days
@@ -764,15 +775,6 @@ Mcap $8.0B · EV $11B · Materials</title>
       <pubDate>Mon, 31 Aug 2026 12:08:49 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BPTSY 🪙 Debt Restr.
-Converts €1.4M debt to equity; extends cash runway to Q1 2027
-Mcap $3M · EV $11M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1768946/000110465926103720/tm2624379d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-103720</guid>
-      <pubDate>Mon, 31 Aug 2026 11:38:58 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
