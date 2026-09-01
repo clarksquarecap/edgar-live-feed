@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 12:47:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:53:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HKIT 🌍 Re-domicile
+Completes BVI continuation; renamed Biddance AI Systems
+Mcap $24M · EV $5M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1742341/000121390026095992/ea0304122-6k_biddance.htm</link>
+      <guid isPermaLink="false">0001213900-26-095992</guid>
+      <pubDate>Tue, 01 Sep 2026 07:53:55 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$AA 🤝 Merger
 Acquires South32's bauxite/alumina/smelter ops for $3.1B cash + 17M shares + CVR
@@ -727,17 +736,6 @@ Mcap $515M · Financials</title>
       <guid isPermaLink="false">0001628280-26-059475</guid>
       <pubDate>Mon, 31 Aug 2026 07:55:22 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$BEP 🤝 Merger
-Unitholders to exchange units for Canadian corporation shares; vote Oct 14
-stock
-Mcap $23B · EV $86B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1533232/000110465926103584/tm2624038d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-103584</guid>
-      <pubDate>Mon, 31 Aug 2026 07:49:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
