@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 20:47:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:53:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LPSN 🤝 Merger
+Acquired by SoundHound AI in stock-for-stock merger
+stock
+Mcap $22M · EV $314M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1102993/000110299326000152/a425filing9_01-stocktwits.htm</link>
+      <guid isPermaLink="false">0001102993-26-000152</guid>
+      <pubDate>Tue, 01 Sep 2026 15:53:50 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$PGXFF 📤 Divestiture
 Sells Golden Sidewalk &amp; Skinner properties to Kenorland for C$1M cash
@@ -728,48 +739,6 @@ Mcap $3.5B · EV $4.4B · Tech</title>
       <pubDate>Mon, 31 Aug 2026 15:54:37 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$HBT 🤝 Merger
-Acquires Tri-County Financial; $71.01 cash or 2.4589 HBT shares per share
-~$204.6M deal · cash/stk elect
-Mcap $1.3B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/775215/000110465926103890/tm2623547-1_s4.htm</link>
-      <guid isPermaLink="false">0001104659-26-103890</guid>
-      <pubDate>Mon, 31 Aug 2026 15:53:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TEM 🤝 Merger
-Acquires Personalis for stock (0.3356x) or $16.25 cash election
-cash+stk
-Mcap $12B · EV $12B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1717115/000119312526376895/d864810ds4.htm</link>
-      <guid isPermaLink="false">0001193125-26-376895</guid>
-      <pubDate>Mon, 31 Aug 2026 15:53:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AXTA 🤝 Merger
-Appoints three directors to combined board with AkzoNobel
-Mcap $8.0B · EV $11B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1616862/000119312526376850/d506233d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-376850</guid>
-      <pubDate>Mon, 31 Aug 2026 15:52:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WTRG 🤝 Merger
-PaPUC settlement reached in American Water merger
-Mcap $11B · EV $20B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/78128/000155278126000467/e26365_wtrg-8k.htm</link>
-      <guid isPermaLink="false">0001552781-26-000467</guid>
-      <pubDate>Mon, 31 Aug 2026 15:52:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
