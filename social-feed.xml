@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 20:06:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:15:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RRGB 📤 Divestiture
+Sells 116 restaurants to Evergreen, Op Burgers, Kuber for $96M cash
+96000000 deal · close Q4 2026
+Mcap $173M · EV $652M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1171759/000162828026059804/rrgb-20260826.htm</link>
+      <guid isPermaLink="false">0001628280-26-059804</guid>
+      <pubDate>Tue, 01 Sep 2026 15:15:23 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$YTRA 🎯 Tender
 Faces $1.10/share unsolicited tender from Magna Holdings
@@ -736,15 +746,6 @@ Mcap $78M · EV $82M · Financials</title>
       <pubDate>Mon, 31 Aug 2026 15:15:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NATH 📍 Stake
-Reports 10.8% stake in Nathan's Famous
-Mcap $404M · EV $430M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/69733/000080724926000078/primary_doc.xml</link>
-      <guid isPermaLink="false">0000807249-26-000078</guid>
-      <pubDate>Mon, 31 Aug 2026 15:09:06 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
