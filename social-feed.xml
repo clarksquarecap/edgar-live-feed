@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 01 Sep 2026 20:15:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:15:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RRGB 📤 Divestiture
@@ -736,16 +736,6 @@ Mcap $16B · EV $16B · Healthcare</title>
       <pubDate>Mon, 31 Aug 2026 15:15:54 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$IXAQF 🤝 Merger
-Acquires AERKOMM Inc. in merger; SAFE investment ≥$15M
-Mcap $78M · EV $82M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1852019/000110465926103877/tm2623922d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-103877</guid>
-      <pubDate>Mon, 31 Aug 2026 15:15:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
