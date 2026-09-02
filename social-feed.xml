@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 21:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:30:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$ATII 🤝 Merger
@@ -571,37 +571,6 @@ Mcap $362M · EV $361M · Financials</title>
       <pubDate>Wed, 02 Sep 2026 05:01:29 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DSGX 🤝 Merger
-Acquires Extensiv for $120M cash; adds 3PL WMS
-$120 million deal · cash
-Mcap $6.7B · EV $6.3B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1050140/000092963826003410/form6k.htm</link>
-      <guid isPermaLink="false">0000929638-26-003410</guid>
-      <pubDate>Tue, 01 Sep 2026 16:29:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NUR 📉 Delisting · Voluntary
-Voluntarily delists from CSE; final trade Sept 4
-effective 2026-09-04
-Mcap $27M · EV $36M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1680637/000175392626001683/g085917_6k.htm</link>
-      <guid isPermaLink="false">0001753926-26-001683</guid>
-      <pubDate>Tue, 01 Sep 2026 16:28:57 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-    </item>
-    <item>
-      <title>$ULIT 🤝 Merger · Preliminary
-Proposed SPAC merger with Constellation to form lithium company</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026096304/ea0304282-425_constellation1.htm</link>
-      <guid isPermaLink="false">0001213900-26-096304</guid>
-      <pubDate>Tue, 01 Sep 2026 16:28:48 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
