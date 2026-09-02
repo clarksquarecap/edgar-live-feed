@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 10:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:17:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AVXL ⚔️ Proxy
+Faces PVG proxy contest; 2026 AGM
+PVG Asset Management
+Mcap $314M · EV $187M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226041140/formdfan14a.htm</link>
+      <guid isPermaLink="false">0001493152-26-041140</guid>
+      <pubDate>Wed, 02 Sep 2026 05:17:46 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$QUMS 💥 Busted M&amp;A
 Terminates merger with SACH; will seek new target
@@ -614,16 +624,6 @@ Mcap $14B · EV $20B · Financials</title>
       <guid isPermaLink="false">0001171843-26-005821</guid>
       <pubDate>Tue, 01 Sep 2026 05:19:26 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$HHDS 💧 Capital Return · Self-tender
-Self-tender: up to 125M shares at $0.20/share (~$25M); expires Sep 29
-Mcap $71M · EV $170M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1661458/000110465926104051/tm2623323-1_sctoi.htm</link>
-      <guid isPermaLink="false">0001104659-26-104051</guid>
-      <pubDate>Tue, 01 Sep 2026 05:17:13 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
