@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 11:05:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:11:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BMTLF 🤝 Merger
+Acquires Prospector's non-Yukon projects for 29.4M shares; $4M financing closed
+Prospector Metals · stock
+Mcap $11M · EV $10M · Materials</title>
+      <link>https://investingnews.com/prospector-closes-subscription-receipt-financing-intended-for-lightning-resource-corp/</link>
+      <guid isPermaLink="false">OTC-533803</guid>
+      <pubDate>Wed, 02 Sep 2026 06:11:47 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CASIF 📤 Divestiture
 Sells Alesta equity stake to BioMarin for $5.9M cash
@@ -564,36 +575,6 @@ Mcap $43B · EV $84B · Cons Stpl</title>
       <guid isPermaLink="false">0001418135-26-000055</guid>
       <pubDate>Tue, 01 Sep 2026 06:34:30 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BCOW 🤝 Merger
-Shareholders approve merger with North Shore Bank; close Q4 2026
-Mcap $90M · Financials</title>
-      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=92771</link>
-      <guid isPermaLink="false">OTC-533531</guid>
-      <pubDate>Tue, 01 Sep 2026 06:08:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BTAI 🔥 Insolvency · Ch. 11
-Files Chapter 11; Nasdaq delisting effective Sept 8
-Mcap $29M · EV $112M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1720893/000110465926104106/tm2624539d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-104106</guid>
-      <pubDate>Tue, 01 Sep 2026 06:08:08 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$TKC 🤝 Merger · Rumor
-In talks to acquire TOGG shares with Türkiye Wealth Fund
-Mcap $4.7B · EV $6.5B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1071321/000110465926104107/tm2624551d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-104107</guid>
-      <pubDate>Tue, 01 Sep 2026 06:07:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>rumor_response</category>
     </item>
   </channel>
 </rss>
