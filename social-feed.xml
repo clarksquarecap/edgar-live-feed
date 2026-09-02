@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 10:08:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:10:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FULC 🤝 Merger
+Acquires Slate Medicines in merger; S-4 filed
+Mcap $285M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1680581/000119312526379106/d127837ds4.htm</link>
+      <guid isPermaLink="false">0001193125-26-379106</guid>
+      <pubDate>Wed, 02 Sep 2026 05:08:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$QRVO 🤝 Merger
+Extends Qorvo note exchange offer to Sept 11; merger on track for CY close
+close CY 2026
+Mcap $8.7B · EV $9.0B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1604778/000110465926104396/tm2624606d2_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-104396</guid>
+      <pubDate>Wed, 02 Sep 2026 05:08:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AEG 🌍 Re-domicile
 Redomiciliation to Delaware; EGM Oct 8
@@ -594,15 +615,6 @@ Mcap $71M · EV $170M · Real Estate</title>
       <pubDate>Tue, 01 Sep 2026 05:17:13 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$EMPD ⚔️ Proxy
-Faces ATG Capital proxy contest; court allows 9 nominees
-Mcap $83M · EV $121M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826006845/empery_prer14a.htm</link>
-      <guid isPermaLink="false">0001683168-26-006845</guid>
-      <pubDate>Tue, 01 Sep 2026 05:08:44 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
