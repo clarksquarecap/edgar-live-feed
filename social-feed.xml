@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 18:57:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:01:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$NPHC 📦 Going Private
@@ -593,15 +593,6 @@ Mcap $51M · EV $66M · Cons Disc</title>
       <guid isPermaLink="false">0001213900-26-096205</guid>
       <pubDate>Tue, 01 Sep 2026 15:06:53 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$NPHC 📍 Stake
-Receives 13D from Pure Raw Supplies for 100% Series B Preferred
-Mcap $720K · EV $13M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1119643/000149315226041007/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-041007</guid>
-      <pubDate>Tue, 01 Sep 2026 15:00:52 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
