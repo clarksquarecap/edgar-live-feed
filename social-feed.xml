@@ -6,8 +6,48 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 20:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:32:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GLMD 🤝 Merger
+Completes acquisition with earn-out consideration
+Mcap $3M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1595353/000149315226041239/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-041239</guid>
+      <pubDate>Wed, 02 Sep 2026 15:32:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$NANO 🤝 Merger
+Merges with Forge Nano in de-SPAC; S-4/A filed
+240000000 deal · stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2101833/000110465926104734/none-20260902xs4a.htm</link>
+      <guid isPermaLink="false">0001104659-26-104734</guid>
+      <pubDate>Wed, 02 Sep 2026 15:31:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$EGHA 🤝 Merger
+Acquires Hecate Energy; settles lender suit
+Mcap $213M · EV $213M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2052547/000110465926104743/tm2624704d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-104743</guid>
+      <pubDate>Wed, 02 Sep 2026 15:31:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$SSM 🤝 Merger · Preliminary
+Signs LOI to combine with Sports One; investors buy 19.9% stake
+Mcap $7M · EV $13M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1840416/000117184326005854/f425_090226.htm</link>
+      <guid isPermaLink="false">0001171843-26-005854</guid>
+      <pubDate>Wed, 02 Sep 2026 15:31:13 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$TECH 🤝 Merger
 Acquisition by Merck KGaA: German approval received; vote Sept 23
@@ -593,17 +633,6 @@ Mcap $32B · EV $31B · Healthcare</title>
       <pubDate>Tue, 01 Sep 2026 15:39:07 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>accelerated_share_repurchase</category>
-    </item>
-    <item>
-      <title>$SRCRF 📉 Delisting · Voluntary
-Delists from OTCQB; lists ADSs on NASDAQ under SGLD
-effective 2026-09-01
-Mcap $89M · EV $87M · Materials</title>
-      <link>https://www.theglobeandmail.com/investing/markets/stocks/SGN-X/pressreleases/4242383/scorpio-gold-announces-approval-to-list-american-depositary-shares-on-the-nasdaq-capital-market-under-the-symbol-sgld/</link>
-      <guid isPermaLink="false">OTC-533739</guid>
-      <pubDate>Tue, 01 Sep 2026 15:31:46 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
