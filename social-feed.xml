@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 21:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:10:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GPRO 🤝 Merger
+Acquired by Action Acquisitions for $1.14 cash + 0.1 share per share
+cash+stk
+Mcap $227M · EV $286M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1500435/000162828026060181/gpro-20260901.htm</link>
+      <guid isPermaLink="false">0001628280-26-060181</guid>
+      <pubDate>Wed, 02 Sep 2026 16:10:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$LPSN 🤝 Merger
 Stockholders approve SoundHound AI acquisition; close Sept 4
@@ -623,35 +634,6 @@ Mcap $3.1B · Financials</title>
       <pubDate>Tue, 01 Sep 2026 16:13:23 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$EMPD 👀 Activist
-Wins court ruling; nominees can stand for election at Empery
-16.3 stake
-Mcap $83M · EV $121M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000092189526002447/primary_doc.xml</link>
-      <guid isPermaLink="false">0000921895-26-002447</guid>
-      <pubDate>Tue, 01 Sep 2026 16:07:17 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$PAGS 💧 Capital Return · Buyback
-Authorizes $150M buyback; targets R$2B dividends 2027-28
-Mcap $2.5B · EV $2.6B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1712807/000155485526001939/MainDocument.htm</link>
-      <guid isPermaLink="false">0001554855-26-001939</guid>
-      <pubDate>Tue, 01 Sep 2026 16:06:43 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$EFTY 🌍 Re-domicile
-Domesticates from Cayman to Nevada; AGM vote pending
-Mcap $302M · EV $298M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2058349/000121390026096278/ea0304009-s4a1_etoiles.htm</link>
-      <guid isPermaLink="false">0001213900-26-096278</guid>
-      <pubDate>Tue, 01 Sep 2026 16:06:28 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
