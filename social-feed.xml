@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 20:47:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:53:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IYRI 🤝 Merger
+Acquired by Goldman Sachs Asset Management; vote by Nov 2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848758/000199937126019630/neos-defa14a_090226.htm</link>
+      <guid isPermaLink="false">0001999371-26-019630</guid>
+      <pubDate>Wed, 02 Sep 2026 15:53:04 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$HOPE 🤝 Merger
 Clears regulatory approvals to acquire SMBC MANUBANK's commercial banking unit
@@ -631,36 +640,6 @@ Mcap $22M · EV $314M · Tech</title>
       <pubDate>Tue, 01 Sep 2026 15:53:50 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$PGXFF 📤 Divestiture
-Sells Golden Sidewalk &amp; Skinner properties to Kenorland for C$1M cash
-to Kenorland Exploration · C$1,000,000 deal · close Q3 2026
-Mcap $1M · EV $1M · Materials</title>
-      <link>https://investingnews.com/prosper-gold-announces-agreement-to-sell-golden-sidewalk-project/</link>
-      <guid isPermaLink="false">OTC-533745</guid>
-      <pubDate>Tue, 01 Sep 2026 15:47:52 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$YUM 📤 Divestiture
-Sells Pizza Hut Ex-China to LongRange for $1.488B cash
-to LongRange Capital · close 2026-09-01
-Mcap $42B · EV $54B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1041061/000104106126000187/yum-20260901.htm</link>
-      <guid isPermaLink="false">0001041061-26-000187</guid>
-      <pubDate>Tue, 01 Sep 2026 15:47:46 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AIN 🔎 Strat Review · Portfolio Review
-Concludes strategic review, retains SLC facility, raises Q3 EPS guidance
-Mcap $1.7B · EV $2.0B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/819793/000162828026059864/ain-20260901.htm</link>
-      <guid isPermaLink="false">0001628280-26-059864</guid>
-      <pubDate>Tue, 01 Sep 2026 15:47:28 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
     </item>
   </channel>
 </rss>
