@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 20:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:24:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NOTE 📤 Divestiture
+Sells FrontierView to Oxford Economics for $6.4M cash + $3M earnout
+to Oxford Economics USA · 9.4M deal · close 2026-08-27
+Mcap $2M · EV $122M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1823466/000119312526380190/d111500d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-380190</guid>
+      <pubDate>Wed, 02 Sep 2026 15:24:36 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$VACI 🤝 Merger
+Approves merger with NorthStar Earth &amp; Space
+Mcap $330M · EV $329M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2080023/000121390026096704/ea0304381-8k425_viking1.htm</link>
+      <guid isPermaLink="false">0001213900-26-096704</guid>
+      <pubDate>Wed, 02 Sep 2026 15:17:50 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ARQQ 📉 Delisting · Forced
 Warrants delisted from Nasdaq
@@ -574,37 +594,6 @@ Mcap $89M · EV $87M · Materials</title>
       <pubDate>Tue, 01 Sep 2026 15:31:46 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$GBNY 🧊 Liquidation
-Dissolution payout $16.25-$16.35/share; record date Sept 15
-Mcap $34M · Financials</title>
-      <link>https://backend.otcmarkets.com/news-otcapi/news/document/content/id?id=92801</link>
-      <guid isPermaLink="false">OTC-533722</guid>
-      <pubDate>Tue, 01 Sep 2026 15:22:47 -0500</pubDate>
-      <category>LIQUIDATION</category>
-      <category>dissolution</category>
-    </item>
-    <item>
-      <title>$GPRO 🤝 Merger
-Acquired by Action Acquisitions in definitive merger
-Mcap $162M · EV $220M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1500435/000162828026059839/gpro-20260901.htm</link>
-      <guid isPermaLink="false">0001628280-26-059839</guid>
-      <pubDate>Tue, 01 Sep 2026 15:22:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GPRO 🤝 Merger
-Acquired by Starman Optical; $92M debt retired; close by year-end
-close Q4 2026
-Mcap $162M · EV $220M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1500435/000162828026059846/a20260901schedule14acomms.htm</link>
-      <guid isPermaLink="false">0001628280-26-059846</guid>
-      <pubDate>Tue, 01 Sep 2026 15:21:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
