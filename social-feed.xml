@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 13:37:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:43:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SQFT 💧 Capital Return · Self-tender
+Launches exchange offer: 5.5 common per Series D preferred; expires Oct 2
+Mcap $3M · EV $91M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1080657/000149315226041169/formsctoia.htm</link>
+      <guid isPermaLink="false">0001493152-26-041169</guid>
+      <pubDate>Wed, 02 Sep 2026 08:43:27 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$VOXR 🤝 Merger
 Acquires White Dam Gold Royalty for A$5M cash
@@ -589,16 +599,6 @@ Mcap $9.0B · EV $7.8B · Healthcare</title>
       <pubDate>Tue, 01 Sep 2026 08:54:14 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$GBCS 🎯 Tender
-Tender offer extended to Aug 24; $5.75/share; 2.77M shares tendered
-Black Pearl Equities · cash · close 2026-08-24
-Mcap $17M · EV $34M · Real Estate</title>
-      <link>https://www.prnewswire.com/news-releases/black-pearl-extends-tender-offer-for-all-outstanding-shares-of-selectis-health-inc-302854191.html</link>
-      <guid isPermaLink="false">OTC-533707</guid>
-      <pubDate>Tue, 01 Sep 2026 08:41:57 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
