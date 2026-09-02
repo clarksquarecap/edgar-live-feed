@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 20:40:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:45:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FORL 🤝 Merger
+Acquires Data443 in stock merger; $10/share reference value
+Data443 Risk Mitigation · stock
+Mcap $16M · EV $19M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936255/000149315226041247/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-041247</guid>
+      <pubDate>Wed, 02 Sep 2026 15:45:54 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SNTI 🤝 Merger
 Merger with Celadon progresses; $2M NSG notes; CVR up to $60M
@@ -639,16 +650,6 @@ Mcap $1.7B · EV $2.0B · Industrials</title>
       <pubDate>Tue, 01 Sep 2026 15:47:28 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>portfolio_review</category>
-    </item>
-    <item>
-      <title>$CCXI 🤝 Merger
-Acquires Agility Robotics in $2.5B SPAC merger; $600M raise
-Mcap $925M · EV $925M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2074973/000121390026096248/ea0304248-425_churchill11.htm</link>
-      <guid isPermaLink="false">0001213900-26-096248</guid>
-      <pubDate>Tue, 01 Sep 2026 15:45:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
