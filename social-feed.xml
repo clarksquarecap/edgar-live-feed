@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 21:10:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:17:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LBGJ 🌍 Re-domicile
+Proposes Cayman-to-BVI re-domiciliation; EGM Sept 21
+Mcap $50K · EV $7M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1896425/000149315226041259/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-041259</guid>
+      <pubDate>Wed, 02 Sep 2026 16:17:15 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$GPRO 🤝 Merger
 Acquired by Action Acquisitions for $1.14 cash + 0.1 share per share
@@ -612,28 +621,6 @@ Mcap $4.5B · EV $7.7B · Materials</title>
       <guid isPermaLink="false">0001628280-26-059919</guid>
       <pubDate>Tue, 01 Sep 2026 16:21:23 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SAFX 🤝 Merger
-Acquires Southern Energy and DevvStream; XCF holders retain 66.67%
-stock
-Mcap $148M · EV $402M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2019793/000149315226041052/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-041052</guid>
-      <pubDate>Tue, 01 Sep 2026 16:13:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FHB 🤝 Merger
-Acquires TriCo for 2.095 FHB shares/share (~$63.12, $2.0B)
-TriCo Bancshares · ~$2.0B deal · stock
-Mcap $3.1B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/36377/000110465926104366/tm2621888-1_s4.htm</link>
-      <guid isPermaLink="false">0001104659-26-104366</guid>
-      <pubDate>Tue, 01 Sep 2026 16:13:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
