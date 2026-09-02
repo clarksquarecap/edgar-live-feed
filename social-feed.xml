@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 20:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:40:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SNTI 🤝 Merger
+Merger with Celadon progresses; $2M NSG notes; CVR up to $60M
+Mcap $11M · EV $24M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1854270/000162828026060129/snti2026defa-14anasdaqdeli.htm</link>
+      <guid isPermaLink="false">0001628280-26-060129</guid>
+      <pubDate>Wed, 02 Sep 2026 15:40:24 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BATRA 📍 Stake
 Raises stake to 29.3% of Series A
@@ -639,37 +649,6 @@ Mcap $925M · EV $925M · Financials</title>
       <pubDate>Tue, 01 Sep 2026 15:45:47 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$UCB 📤 Divestiture
-Sells Navitas equipment finance business to Wafra for $2.0B cash
-$2.0 billion deal · close completed
-Mcap $4.4B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/857855/000085785526000084/ucbi-20260901.htm</link>
-      <guid isPermaLink="false">0000857855-26-000084</guid>
-      <pubDate>Tue, 01 Sep 2026 15:39:30 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AHR 🤝 Merger
-Acquires six Kensington senior housing communities for $572M; two more pending
-$873 million deal · cash · close Q4 2026
-Mcap $11B · EV $12B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1632970/000119312526378483/ahr-20260901.htm</link>
-      <guid isPermaLink="false">0001193125-26-378483</guid>
-      <pubDate>Tue, 01 Sep 2026 15:39:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RMD 💧 Capital Return · ASR
-Launches $450M ASR; funded by MatrixCare sale proceeds
-Mcap $32B · EV $31B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/943819/000119312526378487/d530283d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-378487</guid>
-      <pubDate>Tue, 01 Sep 2026 15:39:07 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>accelerated_share_repurchase</category>
     </item>
   </channel>
 </rss>
