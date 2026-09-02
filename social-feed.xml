@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 16:45:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:57:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PBLBX 📍 Stake
+Receives 13D from BlueArc disclosing 21.3% Class S stake</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2046200/000110465926104611/primary_doc.xml</link>
+      <guid isPermaLink="false">0001104659-26-104611</guid>
+      <pubDate>Wed, 02 Sep 2026 11:57:07 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$ECAT 👀 Activist
 Receives 13D/A from Saba Capital (13.67% stake) pushing for board changes and possible liquidation</title>
