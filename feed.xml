@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 11:53:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:12:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · NVDA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm</link>
+      <guid isPermaLink="false">0001045810-26-000078</guid>
+      <pubDate>Thu, 03 Sep 2026 07:12:14 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Hugging Face for ~$11.9B; close H1 2027</scanner:headline>
+      <scanner:shortName>NVIDIA</scanner:shortName>
+      <scanner:price>224.41</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>NVDA</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Hugging Face for ~$11.9B; close H1 2027&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a definitive agreement to acquire Hugging Face for approximately $11.9 billion payable to stockholders, plus an equity-based retention program of up to $1.0 billion for employees. The deal is expected to close in the first half of 2027, subject to customary closing conditions and regulatory approvals. NVIDIA committed to keeping Hugging Face&amp;#39;s platform open and supporting other silicon vendors.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; NVIDIA Corporation operates as a data center scale AI infrastructure company in the United States, Taiwan, China, Hong Kong, Europe, and internationally. It operates through Compute &amp;amp; Networking, and Graphics segments. The Compute &amp;amp; Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Hugging Face, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; ~$11.9B&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; H1 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Regulatory approvals&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $224.41 · Mkt cap $5.42T · EV $5.40T · Fwd P/E 22.6x · Fwd EV/EBITDA 17.9x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/0001045810-26-000078-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NVDA&lt;/b&gt; · 8-K · Items 8.01 · Electronic Equipment (3674) · 8k_tier1:8.01 · filed 2026-09-03&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · EQBK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1227500/000119312526381059/d152469d425.htm</link>
@@ -11745,26 +11769,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $0.3200 · Mkt cap $274.0M · EV $282.8M · Fwd P/E 9.3x · Fwd EV/EBITDA 13.1x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1682149/000119312526363607/0001193125-26-363607-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DVLT&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7389) · fresh_13d · filed 2026-08-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · NCL</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1923780/000157587226000603/ncl125_8k.htm</link>
-      <guid isPermaLink="false">0001575872-26-000603</guid>
-      <pubDate>Mon, 24 Aug 2026 15:18:58 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>8-K</category>
-      <scanner:headline>Forced delisting from NYSE American; moves to OTC under NCLX</scanner:headline>
-      <scanner:shortName>Northann</scanner:shortName>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>NCL</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Forced delisting from NYSE American; moves to OTC under NCLX&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received notice from NYSE American that it is not suitable for continued listing; trading suspended effective immediately. Company expects to begin quotation on OTC Markets under symbol NCLX as soon as August 24, 2026. Evaluating appeal to Listings Qualifications Panel.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Appeal decision to Listings Qualifications Panel&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1923780/000157587226000603/0001575872-26-000603-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NCL&lt;/b&gt; · 8-K · Items 3.01, 9.01 · Rubber / Plastics (3089) · 8k_tier1:3.01 · filed 2026-08-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
