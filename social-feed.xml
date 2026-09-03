@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 13:32:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 13:44:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$PLUN 🤝 Merger
@@ -614,16 +614,6 @@ Mcap $13B · EV $12B · Tech</title>
       <guid isPermaLink="false">0001361570-26-000017</guid>
       <pubDate>Wed, 02 Sep 2026 09:34:32 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SQFT 💧 Capital Return · Self-tender
-Launches exchange offer: 5.5 common per Series D preferred; expires Oct 2
-Mcap $3M · EV $91M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1080657/000149315226041169/formsctoia.htm</link>
-      <guid isPermaLink="false">0001493152-26-041169</guid>
-      <pubDate>Wed, 02 Sep 2026 08:43:27 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
