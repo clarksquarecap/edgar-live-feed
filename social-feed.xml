@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 14:32:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:39:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$APGE 📉 Delisting · Forced
+Forced Nasdaq delisting effective Sept 3, 2026
+Mcap $10B · EV $8.9B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974640/000135445726000853/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000853</guid>
+      <pubDate>Thu, 03 Sep 2026 09:39:01 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$EMPD 📍 Stake
 Receives 13D/A from Empery Asset Mgmt; stake up to 17.5%
@@ -634,15 +644,6 @@ Mcap $3M · EV $91M · Real Estate</title>
       <pubDate>Wed, 02 Sep 2026 09:41:03 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$DT 📍 Stake
-Takes 5% stake in Dynatrace; seeks engagement
-Mcap $13B · EV $12B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1773383/000136157026000017/primary_doc.xml</link>
-      <guid isPermaLink="false">0001361570-26-000017</guid>
-      <pubDate>Wed, 02 Sep 2026 09:34:32 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
