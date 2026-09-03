@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 13:32:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 14:02:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · BDN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/790816/000079081626000033/bdn-20260831.htm</link>
+      <guid isPermaLink="false">0000790816-26-000033</guid>
+      <pubDate>Thu, 03 Sep 2026 09:02:24 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells 3151 Market St property for $240M cash</scanner:headline>
+      <scanner:shortName>BRANDYWINE REALTY</scanner:shortName>
+      <scanner:price>3.02</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Real Estate</scanner:sector>
+      <scanner:ticker>BDN</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Sells 3151 Market St property for $240M cash&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Agreed to sell its 441,000 sq ft property at 3151 Market Street, Philadelphia for $240M ($544/sq ft) to an unrelated third party. The property is 4% leased and subject to a $57.3M mortgage repaid at closing; net proceeds ~$168M. Closing scheduled for Sept 30, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Brandywine Realty Trust is one of the largest, publicly traded, full-service, integrated real estate companies in the United States with a core focus in Philadelphia, PA and Austin, TX. Organized as a real estate investment trust (REIT), we own, develop, lease and manage an urban, town center and transit-oriented portfolio comprising 112 properties and 19.2 million square feet as of June 30, 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; unrelated third party&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $240 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing date&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.02 · Mkt cap $529.0M · EV $3.13B · Fwd EV/EBITDA 11.9x · Real Estate / Office REITs&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/790816/000079081626000033/0000790816-26-000033-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BDN&lt;/b&gt; · 8-K · Items 8.01 · Holding / Investment Offices (6798) · 8k_tier1:8.01 · filed 2026-09-03&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · PLUN</title>
       <link>https://www.sec.gov/Archives/edgar/data/2065661/000147793226005397/pltn_8k.htm</link>
@@ -11745,30 +11769,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $8.93 · Mkt cap $243.6M · EV $187.9M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2067674/000153949726002341/0001539497-26-002341-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SBMT&lt;/b&gt; · DEFA14A · Metal Mining (1040) · prefill_form:DEFA14A · filed 2026-08-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · USDE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2080215/000121390026093069/ea0303125-8k_stablecoinx.htm</link>
-      <guid isPermaLink="false">0001213900-26-093069</guid>
-      <pubDate>Mon, 24 Aug 2026 15:35:21 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Restructures $6.9M SPAC notes into cash + warrants</scanner:headline>
-      <scanner:shortName>StableCoinX</scanner:shortName>
-      <scanner:price>6.26</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>USDE</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Restructures $6.9M SPAC notes into cash + warrants&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into Note Consolidation and Restructuring Agreements with former SPAC sponsors (TLGY Sponsors, CPCSO, CPCSO Parallel) to restructure ~$6.9M of prior convertible notes. Each sponsor receives 5% cash, 47.5% in Tranche A warrants ($1.00 each, exercise $11.50), and 47.5% in Tranche B warrants ($0.75 each, exercise $15.00). The notes are cancelled and all claims waived.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; StablecoinX Inc., a stablecoin infrastructure company, focuses on the Ethena digital dollar ecosystem. It offers infrastructure services, stablecoin middleware software, and stablecoin distribution services. The company is based in Frisco, Texas.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Former SPAC Sponsors (TLGY Sponsors, CPCSO, CPCSO Parallel)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $6.9M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-21&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $6.26 · Mkt cap $178.1M · EV $166.2M · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2080215/000121390026093069/0001213900-26-093069-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;USDE, USDEW&lt;/b&gt; · 8-K · Items 1.01, 3.02, 9.01 · Non-Depository Credit (6199) · 8k_tier1:1.01 · filed 2026-08-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
