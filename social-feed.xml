@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 21:13:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 21:19:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IPEX 🤝 Merger
+Shareholders approve GOWell business combination
+Mcap $49M · EV $50M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2028355/000121390026097275/ea0304463-8k425_inflection5.htm</link>
+      <guid isPermaLink="false">0001213900-26-097275</guid>
+      <pubDate>Thu, 03 Sep 2026 16:19:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CPPKF 📍 Stake
 Receives Nemesia stake increase to 16.87% via C$36.2M placement
@@ -550,15 +560,6 @@ Mcap $315M · EV $315M · Financials</title>
       <pubDate>Wed, 02 Sep 2026 16:23:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$LBGJ 🌍 Re-domicile
-Proposes Cayman-to-BVI re-domiciliation; EGM Sept 21
-Mcap $50K · EV $7M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1896425/000149315226041259/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-041259</guid>
-      <pubDate>Wed, 02 Sep 2026 16:17:15 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
