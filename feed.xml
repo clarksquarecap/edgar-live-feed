@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 22:12:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 00:07:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · ARAY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1138723/000110465926104846/0001104659-26-104846-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-104846</guid>
+      <pubDate>Wed, 02 Sep 2026 19:07:13 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Invests $55M in Accuray preferred; converts $40M debt</scanner:headline>
+      <scanner:shortName>ACCURAY</scanner:shortName>
+      <scanner:price>0.2600</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>ARAY</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Invests $55M in Accuray preferred; converts $40M debt&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;TCW Group invested $55M in Accuray Inc via Series A Convertible Preferred ($1,000/share), funded by $15M cash and conversion of $40M existing debt. Accuray also granted a covenant holiday through Dec 2027 and issued July Penny Warrants (exercise $0.01) to TCW affiliates. The preferred converts at $0.50/share; closing pending stockholder approval.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Accuray Incorporated engages in the design, development, and sale of radiosurgery and radiation therapy systems for the treatment of tumors throughout the body in the United States, Canada, Latin America, Australia, New Zealand, Europe, the Middle East, India, Africa, Japan, and China. The company offers the CyberKnife platform, a robotic stereotactic radiosurgery and stereotactic body radiation therapy system used for the treatment of primary and metastatic tumors outside the brain, including t…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $55,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 18.7%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder approval for preferred issuance&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.2600 · Mkt cap $30.4M · EV $173.7M · Fwd EV/EBITDA 9.8x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1138723/000110465926104846/0001104659-26-104846-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ARAY&lt;/b&gt; · SCHEDULE 13D/A · Instruments / Medical Devices (3841) · fresh_13d · filed 2026-09-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · CDT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1896212/000175392626001696/0001753926-26-001696-index.htm</link>
@@ -3973,7 +3997,7 @@
       <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Sept 2; moves to OTC&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Will cease trading on Nasdaq and begin quoting on OTC Markets on Wednesday, September 2, 2026. The company has applied for OTCQX Best Market quotation; its TSX Venture listing (ZEN) is unaffected. The OTC symbol will differ from ZTEK.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Zentek Ltd., together with its subsidiaries, engages in the research and development of graphene and related nanomaterials in Canada. It develops graphene-based coatings under the ZenGUARD brand; graphene-enhanced intumescent gel under the ZenFire brand; carbon-based copolymeric icephobic coating under the ZenICE brand, and graphene-enhanced anti-corrosion coating under the ZenArmor brand.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; OTC trading start on Sept 2, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; OTC trading start on Sept 2, 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $0.6700 · Mkt cap $83.5M · EV $84.0M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1904501/000106299326004721/0001062993-26-004721-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZTEK&lt;/b&gt; · 6-K · Chemicals / Pharma (2890) · prefill_form:6-K · filed 2026-08-31&lt;/p&gt;</description>
@@ -4587,7 +4611,7 @@
       <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Sept 2; moves to OTCQX&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Received Nasdaq delisting notice for minimum bid price non-compliance. Trading suspended at open Sept 2, 2026; shares transition to OTC Markets (OTCQX application pending). Hearing requested but won&amp;#39;t stay suspension; TSXV listing unaffected.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Zentek Ltd., together with its subsidiaries, engages in the research and development of graphene and related nanomaterials in Canada. It develops graphene-based coatings under the ZenGUARD brand; graphene-enhanced intumescent gel under the ZenFire brand; carbon-based copolymeric icephobic coating under the ZenICE brand, and graphene-enhanced anti-corrosion coating under the ZenArmor brand.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Suspension of trading on Nasdaq at open Sept 2, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Suspension of trading on Nasdaq at open Sept 2, 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $0.6700 · Mkt cap $83.5M · EV $84.0M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1904501/000106299326004710/0001062993-26-004710-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZTEK&lt;/b&gt; · 6-K · Chemicals / Pharma (2890) · prefill_form:6-K · filed 2026-08-28&lt;/p&gt;</description>
@@ -11754,30 +11778,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $2.35 · Mkt cap $187.7M · EV $185.2M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/MKGSF/news/532757'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MKGSF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-08-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · CETI</title>
-      <link>https://www.newswire.com/news/cyber-enviro-tech-announces-definitive-agreement-with-air-power-usa-to-advance</link>
-      <guid isPermaLink="false">OTC-532750</guid>
-      <pubDate>Mon, 24 Aug 2026 07:14:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>OTC</category>
-      <scanner:headline>Merges with Air Power USA in definitive agreement; $45M funding MOU</scanner:headline>
-      <scanner:shortName>Cyber Enviro-Tech</scanner:shortName>
-      <scanner:price>0.0200</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>CETI</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Merges with Air Power USA in definitive agreement; $45M funding MOU&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a definitive agreement with Air Power USA to combine operations, with CETI supporting U.S. manufacturing and distribution for Air Power USA&amp;#39;s clean-energy technology. A $45M funding MOU is pending consolidation. The transaction is subject to customary closing conditions and regulatory approvals, with closing expected after executing remaining definitive documentation.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cyber Enviro-Tech, Inc., a water science technology company, that focuses on the remediation of contaminated industrial wastewater for the oil and gas industry in the United States. The company Cyber Enviro-Tech, Inc. was founded in 1986 and is headquartered in Scottsdale, Arizona.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Air Power USA&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Execution of remaining definitive documentation; regulatory approvals&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0200 · Mkt cap $3.9M · EV $6.9M · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/CETI/news/532750'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CETI&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-08-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
