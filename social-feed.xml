@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 20:43:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:49:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SAFT 🤝 Merger
+Acquired by MAPFRE for $105.00 cash/share; 44.8% premium
+MAPFRE U.S.A. · 44.8 prem · cash
+Mcap $1.5B · EV $1.5B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1172052/000110465926105083/tm2623530-1_prem14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-105083</guid>
+      <pubDate>Thu, 03 Sep 2026 15:49:45 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VNOM 📍 Stake
 Increases Viper Energy stake to 42.9% after purchase agreement closes
@@ -549,28 +560,6 @@ Acquired by Goldman Sachs Asset Management; vote by Nov 2</title>
       <link>https://www.sec.gov/Archives/edgar/data/1848758/000199937126019630/neos-defa14a_090226.htm</link>
       <guid isPermaLink="false">0001999371-26-019630</guid>
       <pubDate>Wed, 02 Sep 2026 15:53:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$HOPE 🤝 Merger
-Clears regulatory approvals to acquire SMBC MANUBANK's commercial banking unit
-close Q4 2026
-Mcap $1.7B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1128361/000112836126000047/hope-20260902.htm</link>
-      <guid isPermaLink="false">0001128361-26-000047</guid>
-      <pubDate>Wed, 02 Sep 2026 15:47:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FORL 🤝 Merger
-Acquires Data443 in stock merger; $10/share reference value
-Data443 Risk Mitigation · stock
-Mcap $16M · EV $19M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1936255/000149315226041247/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-041247</guid>
-      <pubDate>Wed, 02 Sep 2026 15:45:54 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
