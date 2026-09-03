@@ -6,8 +6,48 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 20:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:31:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KNOP 🤝 Merger
+Acquires Knutsen Canadian Chartering for $113M; net $24.4M
+Knutsen NYK · $113.0 million deal · cash
+Mcap $390M · EV $1.3B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1564180/000110465926105067/knop-20260903x6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-105067</guid>
+      <pubDate>Thu, 03 Sep 2026 15:31:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$VOD 📉 Delisting
+Delisted from NYSE
+Mcap $37B · EV $88B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/839923/000135445726000854/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000854</guid>
+      <pubDate>Thu, 03 Sep 2026 15:31:08 -0500</pubDate>
+      <category>DELISTING</category>
+    </item>
+    <item>
+      <title>$JFB 📉 Delisting · Forced
+Forced Nasdaq delisting
+Mcap $96M · EV $93M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024306/000135445726000855/primary_doc.xml</link>
+      <guid isPermaLink="false">0001354457-26-000855</guid>
+      <pubDate>Thu, 03 Sep 2026 15:30:47 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
+    <item>
+      <title>$BZH 🤝 Merger
+Definitive merger with Dream Finders Homes; close expected Q4 2026
+Mcap $856M · EV $2.2B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915840/000110465926105066/tm2622398d14_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-105066</guid>
+      <pubDate>Thu, 03 Sep 2026 15:30:29 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BZH 🤝 Merger
 Files preliminary proxy for merger
@@ -563,36 +603,6 @@ Merges with Forge Nano in de-SPAC; S-4/A filed
       <link>https://www.sec.gov/Archives/edgar/data/2101833/000110465926104734/none-20260902xs4a.htm</link>
       <guid isPermaLink="false">0001104659-26-104734</guid>
       <pubDate>Wed, 02 Sep 2026 15:31:36 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$EGHA 🤝 Merger
-Acquires Hecate Energy; settles lender suit
-Mcap $213M · EV $213M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2052547/000110465926104743/tm2624704d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-104743</guid>
-      <pubDate>Wed, 02 Sep 2026 15:31:21 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SSM 🤝 Merger · Preliminary
-Signs LOI to combine with Sports One; investors buy 19.9% stake
-Mcap $7M · EV $13M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840416/000117184326005854/f425_090226.htm</link>
-      <guid isPermaLink="false">0001171843-26-005854</guid>
-      <pubDate>Wed, 02 Sep 2026 15:31:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$TECH 🤝 Merger
-Acquisition by Merck KGaA: German approval received; vote Sept 23
-Mcap $11B · EV $11B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/842023/000114036126035490/ef20081553_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-035490</guid>
-      <pubDate>Wed, 02 Sep 2026 15:30:54 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
