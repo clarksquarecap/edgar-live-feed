@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 10:27:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:28:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · DEC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1922446/000192244626000083/dec-20260902.htm</link>
+      <guid isPermaLink="false">0001922446-26-000083</guid>
+      <pubDate>Thu, 03 Sep 2026 05:27:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Birch Permian for $1.8B; ~35% production boost</scanner:headline>
+      <scanner:shortName>Diversified Energy Co</scanner:shortName>
+      <scanner:price>15.25</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>DEC</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Birch Permian for $1.8B; ~35% production boost&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced definitive agreements to acquire Birch Permian Holdings and affiliates from Elliott Investment Management for ~$1.8B, funded via ~$1.5B ABS with Carlyle. Expected to increase production ~35% and Adjusted EBITDA ~55%, closing Q4 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Diversified Energy Company, an independent energy company, engages in the production, transportation and marketing of natural gas, oil, and liquids primarily in the Appalachian and Central regions of the United States. It also operates in the Bossier and Haynesville shale formations and the Cotton Valley sandstones in East Texas and West Louisiana, the Barnett Shale in North Texas and the Mid-Continent producing areas across Central Texas, along with the Anadarko Basin across North Texas and Okl…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Birch Permian Holdings&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $1.8B&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $15.25 · Mkt cap $1.08B · EV $4.04B · Fwd P/E 5.4x · Fwd EV/EBITDA 4.0x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1922446/000192244626000083/0001922446-26-000083-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DEC&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Oil &amp;amp; Gas (1311) · 8k_tier1:7.01 · filed 2026-09-03&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · MKAR</title>
       <link>https://www.sec.gov/Archives/edgar/data/2052373/000121390026096906/ea0271516-10.htm</link>
@@ -11749,28 +11773,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $9.32 · Mkt cap $1.37B · EV $1.50B · Fwd P/E 23.1x · Fwd EV/EBITDA 5.6x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/866829/000114036126034175/0001140361-26-034175-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HLX&lt;/b&gt; · 425 · Oil &amp;amp; Gas (1389) · prefill_form:425 · filed 2026-08-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🌑 Going Dark · ENSV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/319458/000143774926028792/ensv20260821_1512g.htm</link>
-      <guid isPermaLink="false">0001437749-26-028792</guid>
-      <pubDate>Mon, 24 Aug 2026 13:27:52 -0500</pubDate>
-      <category>GOING_DARK</category>
-      <category>delisting</category>
-      <category>15-12G</category>
-      <scanner:headline>Voluntarily deregisters with SEC; 281 holders; goes dark</scanner:headline>
-      <scanner:shortName>Enservco</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>15-12G</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>ENSV</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Voluntarily deregisters with SEC; 281 holders; goes dark&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Filed Form 15-12G to terminate registration of its common stock under Section 12(g) of the Exchange Act, citing 281 holders of record. The deregistration is effective as of August 24, 2026, and the company will cease filing periodic reports with the SEC. Shares will continue to trade on the OTC market.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Enservco Corporation, through its subsidiaries, provides hot oiling and acidizing, and frac water heating services to the onshore oil and natural gas industry in the United States. It operates in two segments, Production Services and Completion and Other Services. The company also offers pressure testing and hauling services, as well as water hauling and well site construction services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Deregistration effective 2026-08-24; shares move to OTC&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/319458/000143774926028792/0001437749-26-028792-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ENSV&lt;/b&gt; · 15-12G · Oil &amp;amp; Gas (1389) · prefill_form:15-12G · filed 2026-08-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
