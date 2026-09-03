@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 21:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 21:11:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · ITGR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1114483/000114036126035627/ny20080277x1_prem14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-035627</guid>
+      <pubDate>Thu, 03 Sep 2026 16:11:23 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>PREM14A</category>
+      <scanner:headline>Acquired by KKR for $127.00 cash/share; 51.8% premium</scanner:headline>
+      <scanner:shortName>Integer Holdings</scanner:shortName>
+      <scanner:price>125.50</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>PREM14A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>ITGR</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by KKR for $127.00 cash/share; 51.8% premium&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive merger agreement with KKR affiliates (Armstrong Parent/Bidco) on August 2, 2026. Stockholders will receive $127.00 cash per share, a 51.8% premium over the unaffected price of $83.67. The special meeting to approve the merger is pending; Goldman Sachs provided a fairness opinion.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Integer Holdings Corporation operates as a medical device contract development and manufacturing company in the United States, Costa Rica, Puerto Rico, Ireland, and internationally. The company offers products for interventional cardiology, structural heart, heart failure, peripheral vascular, neurovascular, interventional oncology, electrophysiology, vascular access, infusion therapy, hemodialysis, non-vascular, urology, and gastroenterology procedures.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; KKR &amp;amp; Co. Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $127.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 51.8%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-02&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $125.50 · Mkt cap $4.26B · EV $5.60B · Fwd P/E 18.7x · Fwd EV/EBITDA 13.5x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1114483/000114036126035627/0001140361-26-035627-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ITGR&lt;/b&gt; · PREM14A · Instruments / Medical Devices (3845) · prefill_form:PREM14A · filed 2026-09-03&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · SOUL</title>
       <link>https://www.sec.gov/Archives/edgar/data/2025608/000149315226041389/form8-k.htm</link>
@@ -11727,30 +11751,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $0.4900 · Mkt cap $101.7M · EV $66.2M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/AAGAF/news/532847'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AAGAF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-08-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · GOSS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1728117/000110465926100440/0001104659-26-100440-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-100440</guid>
-      <pubDate>Mon, 24 Aug 2026 19:13:57 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Receives 13D/A from D. E. Shaw; stake 6.0%</scanner:headline>
-      <scanner:shortName>Gossamer Bio</scanner:shortName>
-      <scanner:price>0.1600</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>GOSS</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from D. E. Shaw; stake 6.0%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;D. E. Shaw &amp;amp; Co. filed Amendment No. 3 to its Schedule 13D on Gossamer Bio, reporting beneficial ownership of 29,128,194 common shares (6.0% of the class) as of August 20, 2026. The stake is held through Valence and Cogence portfolios. No new activist agenda was disclosed in this amendment.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Gossamer Bio, Inc., a clinical-stage biopharmaceutical company, focuses on developing and commercializing seralutinib for the treatment of pulmonary hypertension and pulmonary arterial hypertension in the United States. The company develops GB002, an inhaled, small molecule, platelet-derived growth factor receptor, or PDGFR, colony-stimulatin factor 1 receptor and c-KIT inhibitor, which is in Phase 3 clinical trial for the treatment of PAH. It has license agreements with Pulmokine, Inc.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; D. E. Shaw &amp;amp; Co., L.P.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.0%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1600 · Mkt cap $77.0M · EV $60.0M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1728117/000110465926100440/0001104659-26-100440-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GOSS&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-08-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
