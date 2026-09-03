@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 10:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:11:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AVXL ⚔️ Proxy
+Faces PVG proxy contest; 6 nominees for 2026 AGM
+PVG Asset Management
+Mcap $268M · EV $150M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226041287/formdfan14a.htm</link>
+      <guid isPermaLink="false">0001493152-26-041287</guid>
+      <pubDate>Thu, 03 Sep 2026 05:11:56 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$EMPD ⚔️ Proxy
 Faces ATG Capital proxy contest; AGM Oct 14
@@ -557,25 +567,6 @@ Mcap $314M · EV $187M · Healthcare</title>
       <guid isPermaLink="false">0001493152-26-041140</guid>
       <pubDate>Wed, 02 Sep 2026 05:17:46 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$QUMS 💥 Busted M&amp;A
-Terminates merger with SACH; will seek new target
-Mcap $118M · EV $118M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2070900/000182912626009623/quantumsphereacq_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-009623</guid>
-      <pubDate>Wed, 02 Sep 2026 05:11:20 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$FULC 🤝 Merger
-Acquires Slate Medicines in merger; S-4 filed
-Mcap $285M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1680581/000119312526379106/d127837ds4.htm</link>
-      <guid isPermaLink="false">0001193125-26-379106</guid>
-      <pubDate>Wed, 02 Sep 2026 05:08:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
