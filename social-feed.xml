@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 20:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:20:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$2679171D 🪓 Spinoff
+Amended Form 10 for spin-off registration</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2132873/000119312526381915/d127770d1012ba.htm</link>
+      <guid isPermaLink="false">0001193125-26-381915</guid>
+      <pubDate>Thu, 03 Sep 2026 15:20:16 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$MIST ⚖️ Litigation · Won
 NMPA approves etripamil in China; $2M milestone from Everest
@@ -567,26 +575,6 @@ Mcap $2M · EV $122M · Industrials</title>
       <guid isPermaLink="false">0001193125-26-380190</guid>
       <pubDate>Wed, 02 Sep 2026 15:24:36 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$VACI 🤝 Merger
-Approves merger with NorthStar Earth &amp; Space
-Mcap $330M · EV $329M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2080023/000121390026096704/ea0304381-8k425_viking1.htm</link>
-      <guid isPermaLink="false">0001213900-26-096704</guid>
-      <pubDate>Wed, 02 Sep 2026 15:17:50 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ARQQ 📉 Delisting · Forced
-Warrants delisted from Nasdaq
-Mcap $313M · EV $287M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1859690/000135445726000843/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000843</guid>
-      <pubDate>Wed, 02 Sep 2026 15:17:36 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>

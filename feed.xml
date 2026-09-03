@@ -6,8 +6,27 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 20:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:20:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · 2679171D</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2132873/000119312526381915/d127770d1012ba.htm</link>
+      <guid isPermaLink="false">0001193125-26-381915</guid>
+      <pubDate>Thu, 03 Sep 2026 15:20:16 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>spinco_new</category>
+      <category>10-12B/A</category>
+      <scanner:headline>Amended Form 10 for spin-off registration</scanner:headline>
+      <scanner:shortName>MSGS Spinco</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>10-12B/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>2679171D</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Amended Form 10 for spin-off registration&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed an amended Form 10 registration statement for its spin-off. (headline only — full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2132873/000119312526381915/0001193125-26-381915-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;2679171D&lt;/b&gt; · 10-12B/A · Amusement / Recreation (7990) · prefill_form:10-12B · filed 2026-09-03&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚖️ Litigation · Won · MIST</title>
       <link>https://www.sec.gov/Archives/edgar/data/1408443/000110465926105052/tm2624766d1_8k.htm</link>
@@ -11744,29 +11763,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $3.40 · Mkt cap $162.4M · EV $262.1M · Fwd EV/EBITDA 28.1x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1407583/000149315226039900/0001493152-26-039900-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BHLL&lt;/b&gt; · 8-K · Items 1.01, 3.02, 7.01, 9.01 · Metal Mining (1000) · 8k_tier1:1.01,7.01 · filed 2026-08-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · SUIG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1425355/000114036126034216/ef20080980_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-034216</guid>
-      <pubDate>Mon, 24 Aug 2026 16:18:26 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Reincorporation to Delaware on vote; AGM Sept 4</scanner:headline>
-      <scanner:shortName>SUI Group</scanner:shortName>
-      <scanner:price>0.8400</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>SUIG</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Reincorporation to Delaware on vote; AGM Sept 4&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Limited is seeking shareholder approval to reincorporate from Minnesota to Delaware at its Annual Meeting on September 4, 2026. The board unanimously recommends a FOR vote; the proposal requires affirmative votes from holders of at least 50% of outstanding shares.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SUI Group Holdings Limited is a principal investment firm specializing investments in debt and equity securities of public and private companies to fund their operations whether its start-up, acquisition, or growth. It primarily focuses on investing in, lending to, and making managerial assistance available to privately held and publicly traded companies. The firm also advises its portfolio companies with regard to finance and operations. It was formerly known as Poker Magic, Inc.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Annual Meeting vote on September 4, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.8400 · Mkt cap $68.9M · EV $65.7M · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1425355/000114036126034216/0001140361-26-034216-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SUIG&lt;/b&gt; · DEFA14A · Non-Depository Credit (6199) · prefill_form:DEFA14A · filed 2026-08-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
