@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 11:10:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:16:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TVA 🤝 Merger
+Acquires PlusAI in $800M de-SPAC; up to $300M capital
+~$800M deal · stock
+Mcap $316M · EV $316M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2033991/000110465926104926/tm2619716d2_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-104926</guid>
+      <pubDate>Thu, 03 Sep 2026 06:16:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DEC 🤝 Merger
 Acquires Birch Permian for $1.8B; ~35% production boost
@@ -624,37 +635,6 @@ Mcap $2.2B · EV $3.2B · Healthcare</title>
       <pubDate>Wed, 02 Sep 2026 06:19:27 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$VUECF 🤝 Merger
-Acquires enCore uranium assets for 50M preferred shares (73%) + $350K cash
-enCore Energy · stock+cash
-Mcap $26M · EV $14M · Energy</title>
-      <link>https://www.prnewswire.com/news-releases/encore-completes-sale-of-new-mexico-assets-to-verdera-energy-corp-302424042.html</link>
-      <guid isPermaLink="false">OTC-533796</guid>
-      <pubDate>Wed, 02 Sep 2026 06:12:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ZTEKF 📉 Delisting · Forced
-Forced Nasdaq delisting effective Sept 2; moves to OTCQX</title>
-      <link>https://www.stocktitan.net/news/ZTEK/zentek-approved-for-trading-on-the-otcqx-best-c6226ow47fig.html</link>
-      <guid isPermaLink="false">OTC-533799</guid>
-      <pubDate>Wed, 02 Sep 2026 06:12:16 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$BMTLF 🤝 Merger
-Acquires Prospector's non-Yukon projects for 29.4M shares; $4M financing closed
-Prospector Metals · stock
-Mcap $11M · EV $10M · Materials</title>
-      <link>https://investingnews.com/prospector-closes-subscription-receipt-financing-intended-for-lightning-resource-corp/</link>
-      <guid isPermaLink="false">OTC-533803</guid>
-      <pubDate>Wed, 02 Sep 2026 06:11:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
