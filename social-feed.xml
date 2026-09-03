@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 20:33:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:39:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Seeks to oust 5 directors; unveils 90-day plan with $30M buyback
+Mcap $234M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002470/dfan14a14909002_09032026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002470</guid>
+      <pubDate>Thu, 03 Sep 2026 15:39:51 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$KNOP 🤝 Merger
 Acquires Knutsen Canadian Chartering for $113M; net $24.4M
@@ -548,15 +557,6 @@ Mcap $11M · EV $24M · Healthcare</title>
       <pubDate>Wed, 02 Sep 2026 15:40:24 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BATRA 📍 Stake
-Raises stake to 29.3% of Series A
-Mcap $3.3B · EV $4.1B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1958140/000080724926000081/primary_doc.xml</link>
-      <guid isPermaLink="false">0000807249-26-000081</guid>
-      <pubDate>Wed, 02 Sep 2026 15:34:01 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
