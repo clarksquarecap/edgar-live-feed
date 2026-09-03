@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 10:16:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:23:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KEP 🤝 Merger · Rumor
+Faces government proposal to merge five power gen subsidiaries
+Mcap $15B · EV $112B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/887225/000119312526380884/d179943d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-380884</guid>
+      <pubDate>Thu, 03 Sep 2026 05:16:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>rumor_response</category>
+    </item>
     <item>
       <title>$PASG 🤝 Merger
 Acquires Remix in reverse merger; exchange ratio 0.1728, combined co to trade as RMTX
@@ -601,16 +611,6 @@ Mcap $99B · EV $99B · Industrials</title>
       <pubDate>Wed, 02 Sep 2026 05:47:06 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$AVXL ⚔️ Proxy
-Faces PVG proxy contest; 2026 AGM
-PVG Asset Management
-Mcap $314M · EV $187M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226041140/formdfan14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-041140</guid>
-      <pubDate>Wed, 02 Sep 2026 05:17:46 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
