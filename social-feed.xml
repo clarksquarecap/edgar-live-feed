@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 20:24:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:30:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BZH 🤝 Merger
+Files preliminary proxy for merger
+Mcap $856M · EV $2.2B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915840/000110465926105071/tm2622398-12_prem14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-105071</guid>
+      <pubDate>Thu, 03 Sep 2026 15:30:17 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DYNR 📍 Stake
 Receives 13D from Gareth Nichol; 20.17% stake
@@ -585,16 +595,6 @@ Mcap $11B · EV $11B · Healthcare</title>
       <pubDate>Wed, 02 Sep 2026 15:30:54 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NOTE 📤 Divestiture
-Sells FrontierView to Oxford Economics for $6.4M cash + $3M earnout
-to Oxford Economics USA · 9.4M deal · close 2026-08-27
-Mcap $2M · EV $122M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1823466/000119312526380190/d111500d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-380190</guid>
-      <pubDate>Wed, 02 Sep 2026 15:24:36 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
