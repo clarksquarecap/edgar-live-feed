@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 15:50:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:02:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$APGE 📉 Delisting · Forced
@@ -596,14 +596,6 @@ Receives 13D from BlueArc disclosing 21.3% Class S stake</title>
       <guid isPermaLink="false">0001104659-26-104611</guid>
       <pubDate>Wed, 02 Sep 2026 11:57:07 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ECAT 👀 Activist
-Receives 13D/A from Saba Capital (13.67% stake) pushing for board changes and possible liquidation</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1864843/000106299326004786/primary_doc.xml</link>
-      <guid isPermaLink="false">0001062993-26-004786</guid>
-      <pubDate>Wed, 02 Sep 2026 11:01:06 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
