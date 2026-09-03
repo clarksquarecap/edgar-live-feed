@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 21:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 21:25:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$JTTT 📍 Stake
+Sponsor discloses 22.1% stake in SPAC
+Mcap $85M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2145659/000121390026097276/primary_doc.xml</link>
+      <guid isPermaLink="false">0001213900-26-097276</guid>
+      <pubDate>Thu, 03 Sep 2026 16:25:23 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$IPEX 🤝 Merger
 Shareholders approve GOWell business combination
@@ -550,16 +559,6 @@ Mcap $1M · EV $2M · Healthcare</title>
       <guid isPermaLink="false">0001753926-26-001696</guid>
       <pubDate>Wed, 02 Sep 2026 17:12:14 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ATII 🤝 Merger
-Files third S-4 amendment for Forge Nano merger
-Mcap $315M · EV $315M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028516/000110465926104791/tm264900d19_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-104791</guid>
-      <pubDate>Wed, 02 Sep 2026 16:23:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
