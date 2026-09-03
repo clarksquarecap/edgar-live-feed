@@ -6,8 +6,25 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 20:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:43:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SXSTBDC 📍 Stake
+Receives 13D/A from Sixth Street Note Issuer; stake to 7% at $28.78/sh</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1925309/000119312526381960/primary_doc.xml</link>
+      <guid isPermaLink="false">0001193125-26-381960</guid>
+      <pubDate>Thu, 03 Sep 2026 15:43:15 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$WFRD 🌍 Re-domicile
+Shareholders approve redomestication to Delaware; court sanction pending
+Mcap $7.0B · EV $7.5B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1603923/000160392326000105/wft-20260903.htm</link>
+      <guid isPermaLink="false">0001603923-26-000105</guid>
+      <pubDate>Thu, 03 Sep 2026 15:40:39 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$BETR ⚔️ Proxy
 Seeks to oust 5 directors; unveils 90-day plan with $30M buyback
@@ -545,16 +562,6 @@ Mcap $16M · EV $19M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1936255/000149315226041247/form8-k.htm</link>
       <guid isPermaLink="false">0001493152-26-041247</guid>
       <pubDate>Wed, 02 Sep 2026 15:45:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SNTI 🤝 Merger
-Merger with Celadon progresses; $2M NSG notes; CVR up to $60M
-Mcap $11M · EV $24M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1854270/000162828026060129/snti2026defa-14anasdaqdeli.htm</link>
-      <guid isPermaLink="false">0001628280-26-060129</guid>
-      <pubDate>Wed, 02 Sep 2026 15:40:24 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>

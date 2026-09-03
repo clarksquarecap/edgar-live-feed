@@ -6,8 +6,52 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 03 Sep 2026 20:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 20:43:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · SXSTBDC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1925309/000119312526381960/0001193125-26-381960-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-381960</guid>
+      <pubDate>Thu, 03 Sep 2026 15:43:15 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Receives 13D/A from Sixth Street Note Issuer; stake to 7% at $28.78/sh</scanner:headline>
+      <scanner:shortName>Sixth Street Lending Partners</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>SXSTBDC</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Sixth Street Note Issuer; stake to 7% at $28.78/sh&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Schedule 13D/A from Sixth Street Lending Partners Note Issuer, LLC and related entities, disclosing an increased stake to 7.0% (8.2% for Alan Waxman) after purchasing 1,405,583 shares at $28.78 per share on September 1, 2026. The reporting persons state the shares were acquired for investment purposes and intend to review the investment on a continuing basis.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 28.78&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.0%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1925309/000119312526381960/0001193125-26-381960-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SXSTBDC&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-03&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🧭 Domicile · WFRD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1603923/000160392326000105/wft-20260903.htm</link>
+      <guid isPermaLink="false">0001603923-26-000105</guid>
+      <pubDate>Thu, 03 Sep 2026 15:40:39 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Shareholders approve redomestication to Delaware; court sanction pending</scanner:headline>
+      <scanner:shortName>Weatherford International</scanner:shortName>
+      <scanner:price>96.41</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>WFRD</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Shareholders approve redomestication to Delaware; court sanction pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Shareholders approved the scheme of arrangement to redomesticate from Ireland to Delaware, with 64.0M votes for at the Scheme Meeting and EGM. The redomestication requires sanction by the High Court of Ireland; the company expects to close in Q4 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Weatherford International plc, an energy services company, provides equipment and services for the drilling, evaluation, completion, production, and intervention of oil, geothermal, and natural gas wells worldwide. The company operates through three segments: Drilling and Evaluation; Well Construction and Completions; and Production and Intervention.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Irish High Court sanction hearing&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $96.41 · Mkt cap $7.00B · EV $7.53B · Fwd P/E 15.5x · Fwd EV/EBITDA 6.8x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1603923/000160392326000105/0001603923-26-000105-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WFRD&lt;/b&gt; · 8-K · Items 5.07, 8.01 · Industrial Machinery (3533) · 8k_tier1:8.01 · filed 2026-09-03&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚔️ Proxy Contest · BETR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002470/dfan14a14909002_09032026.htm</link>
@@ -11711,53 +11755,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $8.88 · Mkt cap $255.4M · EV $395.7M · Fwd P/E 76.7x · Fwd EV/EBITDA 12.6x · Utilities / Water Utilities&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1434728/000169666326000001/0001696663-26-000001-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GWRS&lt;/b&gt; · SCHEDULE 13D/A · Utilities (4941) · fresh_13d · filed 2026-08-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · MITI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/802257/000118518526003697/0001185185-26-003697-index.htm</link>
-      <guid isPermaLink="false">0001185185-26-003697</guid>
-      <pubDate>Mon, 24 Aug 2026 16:39:53 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>CEO discloses 7.1% stake via compensation grants</scanner:headline>
-      <scanner:shortName>Mitesco</scanner:shortName>
-      <scanner:price>0.0400</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>MITI</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;CEO discloses 7.1% stake via compensation grants&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Brian Valania, CEO/CFO/director of Mitesco, disclosed beneficial ownership of 3,421,078 common shares (7.1%) acquired as compensation, including 3,000,000 restricted shares at $0.035/share on Aug 3, 2026. No activist agenda stated; shares held for investment.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Mitesco, Inc. engages in providing cloud computing, application hosting, and other data center related applications. It offers remote backup, general business applications, engineering analysis software, and digital marketing related to residential real estate software development. The company is based in Vero Beach, Florida.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.1%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0400 · Mkt cap $730K · EV $2.5M · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/802257/000118518526003697/0001185185-26-003697-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MITI&lt;/b&gt; · SCHEDULE 13D · Business Services (7370) · fresh_13d · filed 2026-08-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · ANY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1591956/000106299326004571/form8k.htm</link>
-      <guid isPermaLink="false">0001062993-26-004571</guid>
-      <pubDate>Mon, 24 Aug 2026 16:39:34 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Approves continuance to BC; rebrands as DarkHorse Technologies</scanner:headline>
-      <scanner:shortName>Sphere 3D</scanner:shortName>
-      <scanner:price>2.10</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>ANY</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Approves continuance to BC; rebrands as DarkHorse Technologies&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Shareholders approved the continuance from Ontario to British Columbia and the name change to DarkHorse Technologies Inc. The legal name change becomes effective upon completion of the continuance, expected in coming weeks. Ticker will change from ANY to DRK following Nasdaq procedures. The company also disclosed a potential CBP tariff liability up to $2.2M on 2022 Bitcoin miners, which it intends to contest.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sphere 3D Corp. engages in the bitcoin mining business. The company is involved with bitcoin mining pool operators as its customers to provide a service to perform hash calculations for the mining pool operators. The company is based in Stamford, Connecticut.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; coming weeks&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Completion of continuance and ticker change to DRK&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.10 · Mkt cap $14.9M · EV $11.8M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1591956/000106299326004571/0001062993-26-004571-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ANY&lt;/b&gt; · 8-K · Items 5.07, 7.01, 8.01, 9.01 · Non-Depository Credit (6199) · 8k_tier1:7.01,8.01 · filed 2026-08-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
