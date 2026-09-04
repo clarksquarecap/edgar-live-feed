@@ -6,8 +6,62 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 04 Sep 2026 10:15:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:16:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IONS ⚖️ Litigation · Won
+FDA approves ZANVASTRO for Alexander disease; PRV awarded
+Mcap $9.7B · EV $9.7B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/874015/000114036126035657/ef20081649_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-035657</guid>
+      <pubDate>Fri, 04 Sep 2026 05:16:45 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
+    <item>
+      <title>$RENT ⚖️ Litigation · Settled
+Settles securities class action for $9M ($6M cash + $3M stock)
+vs plaintiff class
+Mcap $131M · EV $292M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468327/000146832726000069/wdq-20260903.htm</link>
+      <guid isPermaLink="false">0001468327-26-000069</guid>
+      <pubDate>Fri, 04 Sep 2026 05:16:34 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
+    <item>
+      <title>$SNTI 🤝 Merger
+Merges with Celadon affiliate; CVR up to $60M
+cash
+Mcap $11M · EV $24M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1854270/000162828026060600/snti-20260903.htm</link>
+      <guid isPermaLink="false">0001628280-26-060600</guid>
+      <pubDate>Fri, 04 Sep 2026 05:16:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$BKHA 🤝 Merger
+Acquires Vesicor for $70M equity value; vote pending
+$70,000,000 deal · stock
+Mcap $50M · EV $52M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2000775/000182912626009732/blackhawk_s4a8.htm</link>
+      <guid isPermaLink="false">0001829126-26-009732</guid>
+      <pubDate>Fri, 04 Sep 2026 05:16:05 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$FLEX 🤝 Merger
+Acquires EPC Power for $4.4B; folds into SpinCo
+$4.4 billion deal
+Mcap $40B · EV $43B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526382691/d105596ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-382691</guid>
+      <pubDate>Fri, 04 Sep 2026 05:15:56 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SNTI 🤝 Merger
 Acquired by Celadon affiliate; CVR up to $60M cash
@@ -585,49 +639,6 @@ Mcap $1.6B · EV $1.6B · Energy</title>
       <pubDate>Thu, 03 Sep 2026 05:26:45 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$APOG 🤝 Merger
-Acquires Groglass for €62.5M cash + up to €10M earnout
-€62.5M (plus up to €10M earnout) deal · cash · close Q3 FY2027
-Mcap $794M · EV $1.0B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/6845/000000684526000087/apog-20260902.htm</link>
-      <guid isPermaLink="false">0000006845-26-000087</guid>
-      <pubDate>Thu, 03 Sep 2026 05:16:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TVA 🤝 Merger
-Acquires Plus Automation in $800M pre-money stock merger
-800,000,000 deal · stock
-Mcap $316M · EV $316M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033991/000110465926104858/tm2619716d3_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-104858</guid>
-      <pubDate>Thu, 03 Sep 2026 05:16:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PASG 🤝 Merger
-Amends Remix merger; two-step structure, $70M pre-funded warrant financing
-Remix Therapeutics · close 2026-12-24
-Mcap $15M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1787297/000114036126035515/ef20081513_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-035515</guid>
-      <pubDate>Thu, 03 Sep 2026 05:16:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$KEP 🤝 Merger · Rumor
-Faces government proposal to merge five power gen subsidiaries
-Mcap $15B · EV $112B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/887225/000119312526380884/d179943d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-380884</guid>
-      <pubDate>Thu, 03 Sep 2026 05:16:36 -0500</pubDate>
-      <category>MERGER</category>
-      <category>rumor_response</category>
     </item>
   </channel>
 </rss>
