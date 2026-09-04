@@ -6,8 +6,28 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 04 Sep 2026 12:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:58:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🌑 Going Dark · IDTL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2045440/000121390026097433/ea0304683-1515d_ideatech.htm</link>
+      <guid isPermaLink="false">0001213900-26-097433</guid>
+      <pubDate>Fri, 04 Sep 2026 07:58:32 -0500</pubDate>
+      <category>GOING_DARK</category>
+      <category>delisting</category>
+      <category>15-15D</category>
+      <scanner:headline>Terminates SEC reporting; 12 holders</scanner:headline>
+      <scanner:shortName>Idea Tech</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>15-15D</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>IDTL</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Terminates SEC reporting; 12 holders&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited filed Form 15-15D to suspend its duty to file reports under Section 15(d) of the Exchange Act. The foreign private issuer has 12 holders of record, no securities sold under its registration statement, and no exchange listing. It will cease public reporting obligations.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2045440/000121390026097433/0001213900-26-097433-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IDTL&lt;/b&gt; · 15-15D · Education (8200) · prefill_form:15-15D · filed 2026-09-04&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Self Tender · VINEBROOK HOMES</title>
       <link>https://www.sec.gov/Archives/edgar/data/1755755/000143774926029656/vhti20260827c_sctoi.htm</link>
@@ -11729,29 +11749,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $28.89 · Mkt cap $223.6M · EV $257.2M · Information Technology / Technology Hardware, Storage and Peripherals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/8146/000119312526364654/0001193125-26-364654-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ALOT&lt;/b&gt; · 8-K · Items 5.07, 8.01, 9.01 · Industrial Machinery (3577) · 8k_tier1:8.01 · filed 2026-08-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · OSRH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840425/000121390026093379/ea0303318-8k_osrhealth.htm</link>
-      <guid isPermaLink="false">0001213900-26-093379</guid>
-      <pubDate>Tue, 25 Aug 2026 10:32:48 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>8-K</category>
-      <scanner:headline>Forced Nasdaq suspension effective Aug 26; hearing pending</scanner:headline>
-      <scanner:shortName>OSR Health</scanner:shortName>
-      <scanner:price>0.4400</scanner:price>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>OSRH</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq suspension effective Aug 26; hearing pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Nasdaq Staff Determination to delist for minimum bid price non-compliance. Trading suspended at open Aug 26, 2026; hearing request does not stay suspension but stays Form 25-NSE filing pending Panel decision.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; OSR Health, Inc., a healthcare holding company, develops a portfolio of therapies and healthcare solutions in the United States, Europe, and Korea. The company develops immunotherapy products, including VXM01, an immuno-oncology candidate for glioblastoma completed phase 2 clinical trial, as well as preclinical stage products, such as VXM04 to treat mesothelin; VXM06 for the treatment of Wilms Tumor Protein (WT1); VXM08 for Carcinoembryonic antigen (CEA); and VXM10 for PD-L1.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Nasdaq Hearings Panel decision&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.4400 · Mkt cap $15.3M · EV $42.2M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1840425/000121390026093379/0001213900-26-093379-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OSRH, OSRHW&lt;/b&gt; · 8-K · Items 8.01 · Instruments / Medical Devices (3841) · 8k_tier1:8.01 · filed 2026-08-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
