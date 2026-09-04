@@ -6,8 +6,53 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 04 Sep 2026 20:54:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:57:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · PBLBX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2046200/000110465926105535/0001104659-26-105535-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-105535</guid>
+      <pubDate>Fri, 04 Sep 2026 15:57:07 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Holds 32.3% of Class S units; 13D on 20% crossing</scanner:headline>
+      <scanner:shortName>AMG Pantheon Infrastructure Fund</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>PBLBX</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Holds 32.3% of Class S units; 13D on 20% crossing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;BlueArc Capital Management and affiliated funds crossed the 20% beneficial ownership threshold in AMG Pantheon Infrastructure Fund, converting their Schedule 13G to a Schedule 13D. The reporting persons hold 17,285,425.04 Class S units, or 32.3% of the class. The filing states no change in purpose or intent.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 32.3%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2046200/000110465926105535/0001104659-26-105535-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PBLBX&lt;/b&gt; · SCHEDULE 13D · fresh_13d · filed 2026-09-04&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · ISPC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1558569/000121390026097726/ea0304738-8k_ispecimen.htm</link>
+      <guid isPermaLink="false">0001213900-26-097726</guid>
+      <pubDate>Fri, 04 Sep 2026 15:55:18 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Foldlab AI assets for $4.5M ($2M cash + $2.5M stock)</scanner:headline>
+      <scanner:shortName>iSpecimen</scanner:shortName>
+      <scanner:price>1.53</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>ISPC</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Foldlab AI assets for $4.5M ($2M cash + $2.5M stock)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a definitive Asset Purchase Agreement to acquire Foldlab AI Ltd.&amp;#39;s AI software, models, source code, data rights and related IP, including the Disease-Associated Protein Discovery AI Agent and Disease Trend Prediction AI Model. Total consideration is $4.5M: $2M cash ($750K at close plus two $625K milestone payments) and $2.5M in common stock, subject to a 5-year escrow/lock-up with no leak-out. Closing requires stockholder approval under Nasdaq Rule 5635(a) and other customary conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; iSpecimen Inc. operates marketplace that provides biospecimens to life science researchers in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It develops and operates iSpecimen Marketplace, a proprietary online marketplace platform that connects medical researchers who need access to subjects, samples, and data with hospitals, laboratories, and other organizations who have access to them.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Foldlab AI Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $4,500,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder vote on transaction&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.53 · Mkt cap $3.9M · EV $-290K · Health Care / Health Care Technology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1558569/000121390026097726/0001213900-26-097726-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ISPC&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Engineering / Accounting (8731) · 8k_tier1:1.01 · filed 2026-09-04&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · EQBK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1227500/000119312526383776/d112102d425.htm</link>
@@ -11697,54 +11742,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $24.12 · Mkt cap $792.8M · EV $1.71B · Fwd P/E 18.2x · Fwd EV/EBITDA 9.1x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/901491/000162828026058907/0001628280-26-058907-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PZZA&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Retail — Food Service (5812) · 8k_tier1:7.01 · filed 2026-08-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · FVN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2010653/000182912626009303/futurevision2_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-009303</guid>
-      <pubDate>Tue, 25 Aug 2026 15:34:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Extends MicroTouch merger deadline to Sept 2026; 1.87M shares redeemed</scanner:headline>
-      <scanner:shortName>Future Vision II Acquisition</scanner:shortName>
-      <scanner:price>11.60</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>FVN</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Extends MicroTouch merger deadline to Sept 2026; 1.87M shares redeemed&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Shareholders approved an extension of the business combination deadline to September 13, 2026, with monthly extensions up to September 13, 2027. Holders of 1,866,403 public shares elected to redeem at approximately $11.30 per share, leaving ~$42.9M in trust and 3.88M public shares outstanding. The company continues to work toward closing its merger with MicroTouch Technology Inc. per the January 16, 2026 agreement.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Future Vision II Acquisition Corp. does not have significant operations. It intends to focuses on effecting a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses or entities. Future Vision II Acquisition Corp. was incorporated in 2024 and is headquartered in Shanghai, China.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; MicroTouch Technology Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-01-16&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Business combination deadline Sept 13, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $11.60 · Mkt cap $87.5M · EV $87.5M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2010653/000182912626009303/0001829126-26-009303-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FVN, FVNNR, FVNNU&lt;/b&gt; · 8-K · Items 5.07, 8.01, 9.01 · Business Services (7373) · 8k_tier1:8.01 · filed 2026-08-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · BAOS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1811216/000110465926100823/tm2623916d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-100823</guid>
-      <pubDate>Tue, 25 Aug 2026 15:33:59 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Lists receivables for sale at $1.26M floor vs $33.4M book</scanner:headline>
-      <scanner:shortName>Baosheng Media</scanner:shortName>
-      <scanner:price>0.7200</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>BAOS</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Lists receivables for sale at $1.26M floor vs $33.4M book&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Baosheng Media&amp;#39;s subsidiaries publicly listed long-aged receivables and a prepaid account on the Beijing Equity Exchange for transfer. The assets have a book balance of RMB226.2M (~$33.4M) but were appraised at RMB8.56M (~$1.26M), with initial transfer floors totaling RMB8.56M. No purchaser selected yet; process may extend in five-business-day periods.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Baosheng Media Group Holdings Limited, an offshore holding company, operates as an online marketing solution provider in the People’s Republic of China. It connects advertisers, online media, and helping advertisers to manage their online marketing activities in various ways, including advising on advertising strategies, budget and choice of advertising channels; procures ad inventory; offers ad optimization services; and administrates and fine-tunes the ad placement process.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; RMB8,561,200 (~$1.26M)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Selection of qualified purchaser via public listing process&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.7200 · Mkt cap $1.1M · EV $180K · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1811216/000110465926100823/0001104659-26-100823-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BAOS&lt;/b&gt; · 6-K · Business Services (7389) · prefill_form:6-K · filed 2026-08-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
