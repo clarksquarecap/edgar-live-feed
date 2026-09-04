@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 04 Sep 2026 21:23:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:29:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MKTX 🤝 Merger
+Acquired by Intercontinental Exchange for $167.00 cash per share
+cash · close H1 2027
+Mcap $5.7B · EV $5.6B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1278021/000119312526383841/d171374dprem14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-383841</guid>
+      <pubDate>Fri, 04 Sep 2026 16:29:35 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CCXI 🤝 Merger
 Acquires Agility Robotics in $2.5B all-stock merger
@@ -539,15 +550,6 @@ Mcap $12M · EV $14M · Healthcare</title>
       <pubDate>Thu, 03 Sep 2026 16:31:32 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$JTTT 📍 Stake
-Sponsor discloses 22.1% stake in SPAC
-Mcap $85M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2145659/000121390026097276/primary_doc.xml</link>
-      <guid isPermaLink="false">0001213900-26-097276</guid>
-      <pubDate>Thu, 03 Sep 2026 16:25:23 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
