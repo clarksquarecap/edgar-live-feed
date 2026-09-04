@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 04 Sep 2026 21:04:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:16:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GRND ⚖️ Litigation · Settled
+Settled UK privacy group action for £26M (~$35.2M); no admission of liability
+Mcap $2.7B · EV $3.1B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820144/000182014426000027/grnd-20260902.htm</link>
+      <guid isPermaLink="false">0001820144-26-000027</guid>
+      <pubDate>Fri, 04 Sep 2026 16:16:34 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$RUM 📍 Stake
 Raises RUM stake to 50.3% via pre-funded warrants
@@ -525,26 +535,6 @@ Mcap $49M · EV $50M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2028355/000121390026097275/ea0304463-8k425_inflection5.htm</link>
       <guid isPermaLink="false">0001213900-26-097275</guid>
       <pubDate>Thu, 03 Sep 2026 16:19:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CPPKF 📍 Stake
-Receives Nemesia stake increase to 16.87% via C$36.2M placement
-Mcap $1.1B · EV $1.0B · Materials</title>
-      <link>https://www.newswire.ca/news-releases/nemesia-sarl-acquires-shares-of-faraday-copper-corp--879909937.html</link>
-      <guid isPermaLink="false">OTC-534048</guid>
-      <pubDate>Thu, 03 Sep 2026 16:13:32 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ITGR 🤝 Merger
-Acquired by KKR for $127.00 cash/share; 51.8% premium
-KKR &amp; Co. · 51.8% prem · cash
-Mcap $4.3B · EV $5.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1114483/000114036126035627/ny20080277x1_prem14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-035627</guid>
-      <pubDate>Thu, 03 Sep 2026 16:11:23 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
