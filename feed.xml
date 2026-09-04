@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 04 Sep 2026 17:40:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 18:41:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · BFNH</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1310488/000109181826000141/0001091818-26-000141-index.htm</link>
+      <guid isPermaLink="false">0001091818-26-000141</guid>
+      <pubDate>Fri, 04 Sep 2026 13:41:06 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Acquires 79.6% stake in BioForce for $400K</scanner:headline>
+      <scanner:shortName>BIOFORCE NANOSCIENCES</scanner:shortName>
+      <scanner:price>6.16</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>BFNH</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquires 79.6% stake in BioForce for $400K&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Nexus Capital Investments acquired 26,700,000 shares of BioForce Nanosciences Holdings (79.6% of outstanding) for $400,000 in a private transaction. The filing states no specific activist agenda, only reserved rights to pursue mergers, asset sales, or board changes in the future.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BioForce Nanosciences Holdings, Inc. focuses on providing natural vitamins, minerals, other nutritional supplements, powders, and beverages for individuals in various age ranges. It offers private label products with distributors and manufacturing providers. The company also sells its nutrition supplements to retailers, sporting goods retailers, supermarkets, mass merchandisers, and online at www.bioforceeclipse.com, as well as through social media and telemarketing channels.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 400000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 79.6%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $6.16 · Mkt cap $196.9M · EV $196.9M · Consumer Staples / Personal Care Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1310488/000109181826000141/0001091818-26-000141-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BFNH&lt;/b&gt; · SCHEDULE 13D · Instruments / Medical Devices (3826) · fresh_13d · filed 2026-09-04&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚔️ Proxy Contest · EMPD</title>
       <link>https://www.sec.gov/Archives/edgar/data/1829794/000092189526002480/defc14a13914005_09042026.htm</link>
@@ -11715,29 +11739,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $0.4000 · Mkt cap $34.2M · EV $35.7M · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1903595/000215171126000002/0002151711-26-000002-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HODO&lt;/b&gt; · SCHEDULE 13D · Non-Depository Credit (6199) · fresh_13d · filed 2026-08-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · JAZZ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1232524/000162828026058864/jazz-20260825.htm</link>
-      <guid isPermaLink="false">0001628280-26-058864</guid>
-      <pubDate>Tue, 25 Aug 2026 15:10:57 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>8-K</category>
-      <scanner:headline>Won FDA approval for Ziihera in first-line HER2+ GEA</scanner:headline>
-      <scanner:shortName>Jazz Pharmaceuticals</scanner:shortName>
-      <scanner:price>256.56</scanner:price>
-      <scanner:subtype>won</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>JAZZ</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Won FDA approval for Ziihera in first-line HER2+ GEA&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced FDA approval of two Ziihera-containing regimens for first-line treatment of HER2+ gastroesophageal adenocarcinoma. The approval is based on Phase 3 HERIZON-GEA-01 trial showing median OS of 26.4 months vs 19.2 months for trastuzumab plus chemo. Company will host investor webcast on Aug 25.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Jazz Pharmaceuticals plc identifies, develops, and commercializes pharmaceutical products in the United States, Europe, and internationally. The company offers Xywav to treat cataplexy or excessive daytime sleepiness (EDS) with narcolepsy and idiopathic hypersomnia (IH); Epidiolex for seizures associated with Lennox-Gastaut syndrome (LGS), Dravet syndrome (DS), or tuberous sclerosis complex (TSC); Rylaze for the treatment of acute lymphoblastic leukemia or lymphoblastic lymphoma; Enrylaze to tre…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-25&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $256.56 · Mkt cap $16.65B · EV $18.86B · Fwd P/E 10.3x · Fwd EV/EBITDA 8.6x · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1232524/000162828026058864/0001628280-26-058864-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JAZZ&lt;/b&gt; · 8-K · Items 8.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-08-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
