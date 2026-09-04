@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 04 Sep 2026 10:06:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:09:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GORO 🤝 Merger
+Completes acquisition; business acquisition report filed
+Mcap $543M · EV $527M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1515964/000110465926105148/goro-20260831x6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-105148</guid>
+      <pubDate>Fri, 04 Sep 2026 05:09:06 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$SKHY 🔎 Strat Review · Portfolio Review
+Solidigm pre-IPO raise (~Won 5T) under review
+Mcap $857B · EV $808B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2120882/000119312526382688/d111778d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-382688</guid>
+      <pubDate>Fri, 04 Sep 2026 05:07:01 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>portfolio_review</category>
+    </item>
     <item>
       <title>$RGEN 🤝 Merger
 Acquires BioLife Solutions for $11.25 cash + 0.1442 RGEN shares per share
@@ -639,15 +659,6 @@ Mcap $268M · EV $150M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226041287/formdfan14a.htm</link>
       <guid isPermaLink="false">0001493152-26-041287</guid>
       <pubDate>Thu, 03 Sep 2026 05:11:56 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$EMPD ⚔️ Proxy
-Faces ATG Capital proxy contest; AGM Oct 14
-Mcap $89M · EV $141M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826006915/empery_defc14a.htm</link>
-      <guid isPermaLink="false">0001683168-26-006915</guid>
-      <pubDate>Thu, 03 Sep 2026 05:08:25 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
