@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 04 Sep 2026 20:47:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:54:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EQBK 🤝 Merger
+Acquires Lincoln Bancorp; adds $1.7B assets, 16 Iowa branches
+Mcap $1.0B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1227500/000119312526383776/d112102d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-383776</guid>
+      <pubDate>Fri, 04 Sep 2026 15:54:58 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RADX 📍 Stake
 Takes 20.9% stake in Radiopharm Theranostics
@@ -519,26 +529,6 @@ Mcap $234M · Financials</title>
       <guid isPermaLink="false">0001835856-26-000025</guid>
       <pubDate>Thu, 03 Sep 2026 16:02:33 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$NHP 📉 Delisting
-Delisted from NYSE via Form 25-NSE
-Mcap $1.0B · EV $1.6B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1561032/000135445726000856/primary_doc.xml</link>
-      <guid isPermaLink="false">0001354457-26-000856</guid>
-      <pubDate>Thu, 03 Sep 2026 15:50:13 -0500</pubDate>
-      <category>DELISTING</category>
-    </item>
-    <item>
-      <title>$SAFT 🤝 Merger
-Acquired by MAPFRE for $105.00 cash/share; 44.8% premium
-MAPFRE U.S.A. · 44.8 prem · cash
-Mcap $1.5B · EV $1.5B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1172052/000110465926105083/tm2623530-1_prem14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-105083</guid>
-      <pubDate>Thu, 03 Sep 2026 15:49:45 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
