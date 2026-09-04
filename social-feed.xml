@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 04 Sep 2026 20:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 20:12:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LXP 🤝 Merger
+Acquired by Brookfield/CPPIB for $61.20 cash/share; vote pending
+12.3 prem · cash
+Mcap $3.6B · EV $5.0B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/910108/000110465926105505/tm2624432d1_prem14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-105505</guid>
+      <pubDate>Fri, 04 Sep 2026 15:12:42 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FFBC 🤝 Merger
 Acquires Finward Bancorp for 1.35 shares (~$47.90/share, $208.3M total)
@@ -583,27 +594,6 @@ Amended Form 10 for spin-off registration</title>
       <guid isPermaLink="false">0001193125-26-381915</guid>
       <pubDate>Thu, 03 Sep 2026 15:20:16 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$MIST ⚖️ Litigation · Won
-NMPA approves etripamil in China; $2M milestone from Everest
-vs Everest Medicines
-Mcap $166M · EV $138M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1408443/000110465926105052/tm2624766d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-105052</guid>
-      <pubDate>Thu, 03 Sep 2026 15:12:12 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$IRDM 🤝 Merger
-Acquired by Rocket Lab; vote Sept 24
-Mcap $5.0B · EV $6.6B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1418819/000110465926105053/tm2621287d5_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-105053</guid>
-      <pubDate>Thu, 03 Sep 2026 15:07:45 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
