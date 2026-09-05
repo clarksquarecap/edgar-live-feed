@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 05 Sep 2026 22:32:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 22:44:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BNBX 👀 Activist
@@ -17,15 +17,6 @@ Mcap $1M · Healthcare</title>
       <guid isPermaLink="false">0001892613-26-000008</guid>
       <pubDate>Fri, 04 Sep 2026 20:50:16 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$GPRK 📤 Divestiture
-Sells EAI to GeoPark for 42-47M shares; to become controlling
-Mcap $767M · EV $1.1B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1464591/000119312526383916/primary_doc.xml</link>
-      <guid isPermaLink="false">0001193125-26-383916</guid>
-      <pubDate>Fri, 04 Sep 2026 17:39:54 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
