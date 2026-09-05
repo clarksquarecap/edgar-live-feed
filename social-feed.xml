@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 05 Sep 2026 16:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:53:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BNBX 👀 Activist
@@ -313,17 +313,6 @@ Mcap $3M · EV $3M · Cons Disc</title>
       <guid isPermaLink="false">OTC-534138</guid>
       <pubDate>Fri, 04 Sep 2026 12:09:49 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$GAMG 🤝 Merger
-Acquires G&amp;O Landscaping for $1.82M: 840k shares + $980k convertible note
-1820000 deal · stock
-Mcap $219M · EV $229M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/55234/000147793226005420/gamg_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-005420</guid>
-      <pubDate>Fri, 04 Sep 2026 11:52:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
