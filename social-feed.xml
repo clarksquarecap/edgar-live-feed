@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 05 Sep 2026 20:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 20:44:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BNBX 👀 Activist
@@ -195,15 +195,6 @@ Mcap $31M · EV $27M · Healthcare</title>
       <guid isPermaLink="false">0001193125-26-383754</guid>
       <pubDate>Fri, 04 Sep 2026 15:47:28 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$EMPD ⚔️ Proxy
-Faces ATG Capital proxy contest; AGM Oct 14
-Mcap $89M · EV $141M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826006973/empery_defr14a.htm</link>
-      <guid isPermaLink="false">0001683168-26-006973</guid>
-      <pubDate>Fri, 04 Sep 2026 15:38:18 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
