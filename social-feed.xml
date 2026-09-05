@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 05 Sep 2026 21:01:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 21:06:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BNBX 👀 Activist
@@ -137,26 +137,6 @@ Mcap $2.7B · EV $3.1B · Comms</title>
       <pubDate>Fri, 04 Sep 2026 16:16:34 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$RUM 📍 Stake
-Raises RUM stake to 50.3% via pre-funded warrants
-Mcap $3.6B · EV $4.0B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1830081/000110465926105546/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-105546</guid>
-      <pubDate>Fri, 04 Sep 2026 16:04:13 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$IONS ⚖️ Litigation · Lost
-Lost: pelacarsen Phase 3 Lp(a)HORIZON misses CV risk reduction endpoint
-vs Novartis
-Mcap $9.7B · EV $9.7B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/874015/000114036126035802/ef20081690_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-035802</guid>
-      <pubDate>Fri, 04 Sep 2026 16:03:45 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
     </item>
   </channel>
 </rss>
