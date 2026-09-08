@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 08 Sep 2026 10:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:38:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CAPN 💥 Busted M&amp;A
@@ -16,6 +16,16 @@ Mcap $59M · EV $61M · Financials</title>
       <guid isPermaLink="false">0001493152-26-041659</guid>
       <pubDate>Tue, 08 Sep 2026 05:31:29 -0500</pubDate>
       <category>BUSTED_MA</category>
+    </item>
+    <item>
+      <title>$AIIR 🤝 Merger
+Proposed business combination with Cantor Equity Partners III
+Mcap $1.3B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097725/000119312526384297/d169397d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-384297</guid>
+      <pubDate>Tue, 08 Sep 2026 05:31:04 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
     </item>
     <item>
       <title>$CSAN 📉 Delisting · Voluntary

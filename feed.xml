@@ -6,7 +6,7 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 08 Sep 2026 10:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:38:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
       <title>💔 Busted · CAPN</title>
@@ -31,6 +31,29 @@
 &lt;p&gt;&lt;i&gt;Px $11.20 · Mkt cap $59.1M · EV $60.8M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2024203/000149315226041659/0001493152-26-041659-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CAPN, CAPNR, CAPNU&lt;/b&gt; · 8-K · Items 1.02, 9.01 · Holding / Investment Offices (6770) · 8k_tier1:1.02 · filed 2026-09-08&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · AIIR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097725/000119312526384297/d169397d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-384297</guid>
+      <pubDate>Tue, 08 Sep 2026 05:31:04 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Proposed business combination with Cantor Equity Partners III</scanner:headline>
+      <scanner:shortName>AIR Global</scanner:shortName>
+      <scanner:price>7.30</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>AIIR</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Proposed business combination with Cantor Equity Partners III&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Published an investor presentation regarding its proposed business combination with Cantor Equity Partners III, Inc. (CAEP). The presentation highlights H1 2026 revenue growth of 3.7% and Adjusted EBITDA of $71.7m. No deal terms were disclosed in the presentation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; AIR Global PLC manufactures and sells hookah and inhalation products. Its portfolio includes flavored molasses brands, such as Al Fakher, Shisha Kartel, Zødiac, NameLess, and Kloud King, as well as inhalation devices, such as OOKA and VANT. It sells its products through direct-to-consumer, distributor, and licensed retail channels in approximately 90 markets worldwide. The company was founded in 1999 and is based in Dubai, the United Arab Emirates.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Cantor Equity Partners III, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.30 · Mkt cap $1.33B · Fwd P/E 14.5x · Consumer Staples / Tobacco&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2097725/000119312526384297/0001193125-26-384297-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AIIR&lt;/b&gt; · 6-K · Tobacco (2100) · prefill_form:6-K · filed 2026-09-08&lt;/p&gt;</description>
     </item>
     <item>
       <title>📉 Delisting · Voluntary · CSAN</title>
@@ -11719,30 +11742,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $12.50 · Mkt cap $29.6M · EV $35.2M · Consumer Discretionary / Textiles, Apparel and Luxury Goods&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1916331/000118518526003715/0001185185-26-003715-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NCI&lt;/b&gt; · 6-K · Apparel (2300) · prefill_form:6-K · filed 2026-08-26&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · CZR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1590895/000119312526365696/d143368ddefm14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-365696</guid>
-      <pubDate>Wed, 26 Aug 2026 05:18:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFM14A</category>
-      <scanner:headline>Acquired by Fertitta Gaming for $31.00 cash/share; vote Sept 22</scanner:headline>
-      <scanner:shortName>Caesars Entertainment</scanner:shortName>
-      <scanner:price>29.74</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFM14A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>CZR</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Fertitta Gaming for $31.00 cash/share; vote Sept 22&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will be acquired by Fertitta Gaming Holdco, LLC (via Empire Merger Sub) for $31.00 per share in cash, plus a ticking fee of $0.007150 per day if closing occurs after June 26, 2027. The special meeting to approve the merger is scheduled for September 22, 2026. The board recommends voting FOR the merger.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Caesars Entertainment, Inc. operates as a gaming and hospitality company. It owns, leases, brands, or manages domestic properties in 18 states with slot machines, video lottery terminals and e-tables, and hotel rooms, as well as table games, including poker. The company also operates and conducts online gaming, retail and online sports wagering across 42 jurisdictions in North America, and iGaming in five jurisdictions in North America; sports betting from retail and online sportsbooks; and othe…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Fertitta Gaming Holdco, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $31.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; ~$6.3B&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-27&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting on September 22, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $29.74 · Mkt cap $6.06B · EV $31.20B · Fwd P/E 58.9x · Fwd EV/EBITDA 8.4x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1590895/000119312526365696/0001193125-26-365696-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CZR&lt;/b&gt; · DEFM14A · Hotels / Lodging (7011) · prefill_form:DEFM14A · filed 2026-08-26&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
