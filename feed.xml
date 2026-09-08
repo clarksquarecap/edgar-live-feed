@@ -6,8 +6,54 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 08 Sep 2026 10:26:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:31:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💔 Busted · CAPN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2024203/000149315226041659/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-041659</guid>
+      <pubDate>Tue, 08 Sep 2026 05:31:29 -0500</pubDate>
+      <category>BUSTED_MA</category>
+      <category>busted_ma</category>
+      <category>8-K</category>
+      <scanner:headline>Mutually terminates merger with Mango; resumes SPAC search</scanner:headline>
+      <scanner:shortName>Cayson Acquisition</scanner:shortName>
+      <scanner:price>11.20</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>CAPN</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Mutually terminates merger with Mango; resumes SPAC search&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Cayson Acquisition Corp and Mango Financial Group Limited mutually terminated their merger agreement. Mango will pay certain expenses, and Cayson will issue a promissory note for that amount, convertible into units at $10.00 per unit if not repaid in cash. The SPAC will resume its search for a target business.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cayson Acquisition Corp does not have significant operations. It intends to effect a merger, stock exchange, asset acquisition, stock purchase, reorganization, or similar business combination with one or more businesses or entities in the financial services, technology, biotech and pharma, advanced materials, or clean energy industries in Asia. Cayson Acquisition Corp was incorporated in 2024 and is based in New York, New York.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Mango Financial Group Limited&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-02&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $11.20 · Mkt cap $59.1M · EV $60.8M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2024203/000149315226041659/0001493152-26-041659-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CAPN, CAPNR, CAPNU&lt;/b&gt; · 8-K · Items 1.02, 9.01 · Holding / Investment Offices (6770) · 8k_tier1:1.02 · filed 2026-09-08&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📉 Delisting · Voluntary · CSAN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1430162/000095010326013642/dp252967_25.htm</link>
+      <guid isPermaLink="false">0000950103-26-013642</guid>
+      <pubDate>Tue, 08 Sep 2026 05:26:33 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>25</category>
+      <scanner:headline>Voluntary NYSE delisting of ADSs effective Sep 8</scanner:headline>
+      <scanner:shortName>Cosan</scanner:shortName>
+      <scanner:price>2.90</scanner:price>
+      <scanner:subtype>voluntary</scanner:subtype>
+      <scanner:form>25</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>CSAN</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Voluntary NYSE delisting of ADSs effective Sep 8&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Voluntarily delisted its American Depositary Shares (each representing four common shares) from the NYSE, effective September 8, 2026. The company filed Form 25 to withdraw listing and registration under Section 12(b).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cosan S.A. engages in the fuel distribution business. It operates through Raízen, Compass, Moove, Rumo, and Radar segments. The company’s Raízen segment engages in the production, marketing, origination, and trading of sugar, as well as ethanol; production and marketing of bioenergy, and solar energy and biogas; trading and resale of electricity; and trading and marketing of fossil, renewable fuels, and lubricants under the Shell brand.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $2.90 · Mkt cap $2.92B · EV $16.36B · Fwd P/E 11.9x · Fwd EV/EBITDA 4.8x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1430162/000095010326013642/0000950103-26-013642-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CSAN&lt;/b&gt; · 25 · Retail — Auto (5500) · prefill_form:25 · filed 2026-09-08&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · WAFD</title>
       <link>https://www.sec.gov/Archives/edgar/data/936528/000114036126035827/ef20081702_defa14a.htm</link>
@@ -11697,54 +11743,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $29.74 · Mkt cap $6.06B · EV $31.20B · Fwd P/E 58.9x · Fwd EV/EBITDA 8.4x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1590895/000119312526365696/0001193125-26-365696-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CZR&lt;/b&gt; · DEFM14A · Hotels / Lodging (7011) · prefill_form:DEFM14A · filed 2026-08-26&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · GIPR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1651721/000119312526365461/gipr-20260825.htm</link>
-      <guid isPermaLink="false">0001193125-26-365461</guid>
-      <pubDate>Wed, 26 Aug 2026 05:12:06 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Sells Fresenius + 6-property Dollar General portfolio; ~$4M to Loci</scanner:headline>
-      <scanner:shortName>GENERATION INCOME PROPERTIES</scanner:shortName>
-      <scanner:price>0.7400</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>GIPR</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Sells Fresenius + 6-property Dollar General portfolio; ~$4M to Loci&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Completed the sale of its Fresenius property in Chicago (closed Aug 21) and a six-property Dollar General portfolio (closed Aug 24). The transactions are expected to generate approximately $4.04 million in direct payments toward the Loci Capital preferred equity redemption, reducing the balance to ~$4.0 million from ~$7.96 million as of July 27, 2026. The sales support the company&amp;#39;s balance sheet improvement and debt reduction strategy.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Generation Income Properties, Inc., located in Tampa, Florida, is an internally managed real estate investment trust formed to acquire and own, directly and jointly, real estate investments focused on retail, office, and industrial net lease properties in densely populated submarkets. Generation Income Properties, Inc. was established on September 19, 2015 and incorporated in Maryland, USA.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-25&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.7400 · Mkt cap $460K · EV $88.3M · Real Estate / Diversified REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1651721/000119312526365461/0001193125-26-365461-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GIPR, GIPRW&lt;/b&gt; · 8-K · Items 7.01 · Holding / Investment Offices (6798) · 8k_tier1:7.01 · filed 2026-08-26&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · BAK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426004349/bak20260825_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004349</guid>
-      <pubDate>Wed, 26 Aug 2026 05:10:37 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Files extrajudicial reorganization; 39.6% creditor support</scanner:headline>
-      <scanner:shortName>BRASKEM SA</scanner:shortName>
-      <scanner:price>2.23</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>BAK</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Files extrajudicial reorganization; 39.6% creditor support&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Braskem filed for extrajudicial reorganization in São Paulo court after securing 39.6% of unsecured claims. The plan includes debt maturity extension, potential shareholder equity backstop, and possible equitization of claims. Updated plan to be presented within 90 days.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Braskem S.A., together with its subsidiaries, engages in the manufacture, sale, import, and export of chemicals, petrochemicals, and fuels in Brazil. The company supplies electricity and other inputs to second-generation producers; sells utilities, such as steam, water, compressed air and industrial gases; industrial services; and engages in the production, supply, and sale of electric energy and gas.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Signatory Creditors&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Updated Plan within 90 days&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.23 · Mkt cap $809.5M · EV $12.77B · Fwd EV/EBITDA 7.5x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1071438/000129281426004349/0001292814-26-004349-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BAK&lt;/b&gt; · 6-K · Chemicals / Pharma (2860) · prefill_form:6-K · filed 2026-08-26&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
