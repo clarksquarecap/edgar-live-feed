@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 08 Sep 2026 17:51:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:03:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · HCTI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1839285/000121390026097953/ea0304854-8k_healthcare.htm</link>
+      <guid isPermaLink="false">0001213900-26-097953</guid>
+      <pubDate>Tue, 08 Sep 2026 13:03:03 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Spins off minority interest in Teyame AI to shareholders</scanner:headline>
+      <scanner:shortName>Healthcare Triangle</scanner:shortName>
+      <scanner:price>0.8000</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>HCTI</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Spins off minority interest in Teyame AI to shareholders&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a Separation and Distribution Agreement to spin off a minority interest in its wholly-owned subsidiary Teyame AI Holdings to HCTI shareholders on a pro rata basis. HCTI will retain majority ownership. The distribution is expected to be taxable and is subject to Form 10 effectiveness and Nasdaq listing.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Healthcare Triangle, Inc., a healthcare information technology company, focuses on advancing solutions in the sectors of cloud services, data science, and professional and managed services for the electronic health record, and healthcare and life sciences industry. It provides a suite of software, solutions, platforms, and services that enables healthcare and pharma organizations to deliver personalized healthcare, precision medicine, advances in drug discovery, development and efficacy, collabo…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Teyame AI Holdings, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-02&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.8000 · Mkt cap $11.8M · EV $48.2M · Health Care / Health Care Technology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1839285/000121390026097953/0001213900-26-097953-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HCTI&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Business Services (7373) · 8k_tier1:1.01 · filed 2026-09-08&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · TCGLF</title>
       <link>https://www.sec.gov/Archives/edgar/data/2047190/000149315226041750/form6-k.htm</link>
@@ -11717,30 +11741,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $2.19 · Mkt cap $21.8M · EV $314.1M · Fwd EV/EBITDA 91.2x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1102993/000110299326000146/0001102993-26-000146-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LPSN&lt;/b&gt; · 425 · Business Services (7372) · prefill_form:425 · filed 2026-08-26&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · IRDM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1418819/000175392626001637/g085903_def14am.htm</link>
-      <guid isPermaLink="false">0001753926-26-001637</guid>
-      <pubDate>Wed, 26 Aug 2026 15:21:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFM14A</category>
-      <scanner:headline>Acquired by Rocket Lab for $27 cash + stock; vote Sept 24</scanner:headline>
-      <scanner:shortName>Iridium Communications</scanner:shortName>
-      <scanner:price>49.61</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFM14A</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>IRDM</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Rocket Lab for $27 cash + stock; vote Sept 24&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will be acquired by Rocket Lab in a cash-and-stock merger. Each Iridium share will receive $27.00 cash plus a variable number of Rocket Lab shares based on the exchange ratio (0.4000 to 0.2400 depending on RKLB price). The special meeting to vote on the merger is September 24, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Iridium Communications Inc. provides mobile voice and data communications services and products to businesses, the United States and foreign governments, non-governmental organizations, and consumers in the United States, Canada, and internationally. The company offers mobile satellite communications services for land mobile end users and aviation sectors; broadband terminals, embedded devices, and handsets for merchant shipping, fishing, leisure and research vessels, and specialized watercraft;…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Rocket Lab Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 27.00 cash + stock&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting Sept 24, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $49.61 · Mkt cap $5.12B · EV $6.72B · Fwd P/E 40.9x · Fwd EV/EBITDA 13.5x · Communication Services / Diversified Telecommunication Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1418819/000175392626001637/0001753926-26-001637-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IRDM&lt;/b&gt; · DEFM14A · Communications (4899) · prefill_form:DEFM14A · filed 2026-08-26&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
