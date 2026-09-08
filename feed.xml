@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 08 Sep 2026 20:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:56:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · WAFD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/936528/000114036126035929/ef20081759_formdefa14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-035929</guid>
+      <pubDate>Tue, 08 Sep 2026 15:56:34 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Acquired by EverBank in $3.9B all-stock reverse merger; new ticker EVBK</scanner:headline>
+      <scanner:shortName>WAFD</scanner:shortName>
+      <scanner:price>34.28</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>WAFD</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by EverBank in $3.9B all-stock reverse merger; new ticker EVBK&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced a definitive all-stock reverse merger with EverBank Financial Corp. WaFd will issue ~103.1M shares (107.7M incl options) to EverBank stockholders, giving EverBank 59.2% ownership and WaFd 40.8%. The combined $75B-asset bank will be renamed EverBank Financial Corp, trade on Nasdaq as EVBK, and close in Q1 2027. Deal implies 29% EPS accretion and 8.6% TBV dilution.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; WaFd, Inc. operates as the bank holding company for Washington Federal Bank that provides lending, depository, insurance, and other banking services in the United States. The company provides deposit products, including business and personal checking accounts, and term certificates of deposit, as well as money market accounts and passbook savings accounts.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; EverBank Financial Corp&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $3.9 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-07&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q1 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; WaFd shareholder vote and regulatory approvals&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $34.28 · Mkt cap $2.69B · Fwd P/E 11.0x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/936528/000114036126035929/0001140361-26-035929-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WAFD, WAFDP&lt;/b&gt; · DEFA14A · Depository Institutions (6021) · prefill_form:DEFA14A · filed 2026-09-08&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · DLPN</title>
       <link>https://www.sec.gov/Archives/edgar/data/1282224/000107997326001231/0001079973-26-001231-index.htm</link>
@@ -11715,30 +11739,6 @@ interest in its flagship project the Gran Pilar property covering an area of app
 &lt;p&gt;&lt;i&gt;Px $8.02 · Mkt cap $392.4M · EV $304.0M · Fwd P/E 24.6x · Fwd EV/EBITDA 19.2x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1365767/000119312526368939/0001193125-26-368939-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ALLT&lt;/b&gt; · SCHEDULE 13D/A · Industrial Machinery (3576) · fresh_13d · filed 2026-08-26&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚔️ Proxy Contest · BETR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002317/dfan14a14909002_08252026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002317</guid>
-      <pubDate>Wed, 26 Aug 2026 16:29:44 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>activist</category>
-      <category>DFAN14A</category>
-      <scanner:headline>Faces consent solicitation from founder Garg to remove 5 directors</scanner:headline>
-      <scanner:shortName>Better Home &amp; Finance Holding Co</scanner:shortName>
-      <scanner:price>27.30</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DFAN14A</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>BETR</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Faces consent solicitation from founder Garg to remove 5 directors&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Faces a consent solicitation from founder Vishal Garg to remove five board members. Garg is opposing the company&amp;#39;s injunction request and has sued to invalidate the poison pill. The company&amp;#39;s stock fell 41.6% after Garg&amp;#39;s termination and is down nearly 60% since.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Better Home &amp;amp; Finance Holding Company operates as a homeownership company in the United States. The company provides government-sponsored enterprise (GSE) conforming loans, Federal Housing Administration insured loans, Department of Veterans Affairs guaranteed loans, and jumbo loans to GSEs, banks, insurance companies, asset managers, and mortgage real estate investment trusts. It offers real estate agent services, title insurance and settlement services, and homeowners insurance services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Vishal Garg&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Court rulings on injunction and poison pill&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $27.30 · Mkt cap $515.1M · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002317/0000921895-26-002317-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BETR, BETRW&lt;/b&gt; · DFAN14A · Non-Depository Credit (6163) · prefill_form:DFAN14A · filed 2026-08-26&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
