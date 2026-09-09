@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 18:49:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:55:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$AEM 📤 Divestiture
@@ -849,15 +849,6 @@ Mcap $29B · EV $46B · Cons Stpl</title>
       <pubDate>Tue, 08 Sep 2026 15:06:27 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$PRVA 📍 Stake
-Files 13D on Privia Health
-Mcap $2.6B · EV $2.3B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1759655/000095010326013658/primary_doc.xml</link>
-      <guid isPermaLink="false">0000950103-26-013658</guid>
-      <pubDate>Tue, 08 Sep 2026 13:50:28 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
