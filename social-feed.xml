@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 21:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:32:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VIVK 💧 Capital Return · Special Div
+Extends Adapti special dividend payment to Jan 29, 2027
+Mcap $7M · EV $42M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1450704/000182912626009949/vivakorinc_8k.htm</link>
+      <guid isPermaLink="false">0001829126-26-009949</guid>
+      <pubDate>Wed, 09 Sep 2026 16:32:18 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>special_dividend</category>
+    </item>
+    <item>
+      <title>$LAB 🤝 Merger
+Acquires Treeline in all-stock reverse merger; Treeline holders to own 84%
+Treeline Biosciences · $2.5B deal · stock
+Mcap $272M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1162194/000114036126036084/ny20077604x3_s4a.htm</link>
+      <guid isPermaLink="false">0001140361-26-036084</guid>
+      <pubDate>Wed, 09 Sep 2026 16:30:37 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$AVXL ⚔️ Proxy
+Launches proxy contest at Anavex for 2026 AGM
+Mcap $265M · EV $147M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226041997/formdfan14a.htm</link>
+      <guid isPermaLink="false">0001493152-26-041997</guid>
+      <pubDate>Wed, 09 Sep 2026 16:30:20 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$BLFS 🤝 Merger
 Acquired by Repligen for $11.25 + 0.1442 RGEN shares; HSR cleared, vote Oct 5
@@ -816,17 +846,6 @@ Mcap $2.4B · EV $2.2B · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1845815/000095010326013669/dp253037_defa14a.htm</link>
       <guid isPermaLink="false">0000950103-26-013669</guid>
       <pubDate>Tue, 08 Sep 2026 16:33:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SUNS 🤝 Merger
-Acquires Southern Realty Trust for 1.45 shares + $0.05 cash; vote Oct 23
-stock+cash · close Q4 2026
-Mcap $101M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2012706/000114036126035943/ny20081383x1_prem14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-035943</guid>
-      <pubDate>Tue, 08 Sep 2026 16:31:23 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
