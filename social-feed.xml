@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 12:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:24:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GAME 🤝 Merger
+Acquires FanEngine for 30% of outstanding stock
+FanEngine Holdings · stock · close Q4 2026
+Mcap $40M · EV $52M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1714562/000149315226041887/formdefa14a.htm</link>
+      <guid isPermaLink="false">0001493152-26-041887</guid>
+      <pubDate>Wed, 09 Sep 2026 07:24:13 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SBIG 🔎 Strat Review · Strat Alts
 Seeks strategic transactions; targets $10M-$50M EV
@@ -850,16 +861,6 @@ Mcap $511M · EV $463M · Industrials</title>
       <pubDate>Tue, 08 Sep 2026 07:41:04 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$UBAB 👀 Activist
-Faces activist demand for $40M tender offer, cost cuts, board refresh
-2% stake
-Mcap $198M · Financials</title>
-      <link>https://www.prnewswire.com/news-releases/merion-road-capital-management-and-blue-hill-advisors-urge-united-bancorporation-of-alabama-to-return-excess-capital-improve-profitability-and-strengthen-corporate-governance-302818936.html</link>
-      <guid isPermaLink="false">OTC-534304</guid>
-      <pubDate>Tue, 08 Sep 2026 07:21:00 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
