@@ -6,8 +6,31 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 14:03:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:15:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · ASBP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847345/000149315226041918/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-041918</guid>
+      <pubDate>Wed, 09 Sep 2026 09:15:22 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>8-K</category>
+      <scanner:headline>Authorizes $10M share repurchase program</scanner:headline>
+      <scanner:shortName>Aspire Biopharma</scanner:shortName>
+      <scanner:price>7.91</scanner:price>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>ASBP</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Authorizes $10M share repurchase program&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Authorized a $10 million common stock repurchase program effective September 9, 2026. With approximately 1.5 million shares outstanding, the buyback represents a significant return of capital. Management cites the strength of newly acquired Dura Control Systems Corp (2025 revenue ~$209.5M, Adjusted EBITDA $22.3M) and believes the share price undervalues the company.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Aspire Biopharma Holdings, Inc., an early-stage biopharmaceutical company, develops and markets disruptive technology for novel sublingual delivery mechanisms in the United States. It offers sublingual aspirin product that is a soluble, PH neutral, and fast acting aspirin, which addresses cardiology emergencies and pain management.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.91 · Mkt cap $12.4M · EV $250K · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1847345/000149315226041918/0001493152-26-041918-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ASBP, ASBPW&lt;/b&gt; · 8-K · Items 5.03, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-09&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · EZRA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1812727/000149315226041914/form8-k.htm</link>
@@ -11725,29 +11748,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.32 · Mkt cap $281.4M · EV $291.4M · Fwd P/E 7.1x · Fwd EV/EBITDA 5.3x · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1626450/000092189526002350/0000921895-26-002350-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CMRC&lt;/b&gt; · SCHEDULE 13D · Business Services (7372) · fresh_13d · filed 2026-08-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · ROIV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1635088/000114036126034735/ef20081229_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-034735</guid>
-      <pubDate>Thu, 27 Aug 2026 16:30:22 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>8-K</category>
-      <scanner:headline>Won FDA approval for LISRAYA (brepocitinib) in dermatomyositis</scanner:headline>
-      <scanner:shortName>Roivant Sciences</scanner:shortName>
-      <scanner:price>37.58</scanner:price>
-      <scanner:subtype>won</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>ROIV</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Won FDA approval for LISRAYA (brepocitinib) in dermatomyositis&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced FDA approval of LISRAYA (brepocitinib) 30 mg for adults with dermatomyositis, a first-in-class TYK2/JAK1 inhibitor and the first targeted therapy approved for the disease. The approval follows the Phase 3 VALOR trial, the largest DM trial ever conducted. LISRAYA is available immediately in the U.S.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Roivant Sciences Ltd., a clinical-stage biopharmaceutical company, focuses on the discovery, development, and commercialization of medicines and technologies. Its clinical product candidates include IMVT-1402, a fully human monoclonal antibody targeting FcRn in development across several IgG-mediated autoimmune indications; mosliciguat, an inhaled sGC activator in development for pulmonary hypertension associated with interstitial lung disease; neonatal fragment crystallizable receptor for the t…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $37.58 · Mkt cap $26.55B · EV $23.50B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1635088/000114036126034735/0001140361-26-034735-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ROIV&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01 · filed 2026-08-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

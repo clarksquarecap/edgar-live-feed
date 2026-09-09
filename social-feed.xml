@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 14:09:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:15:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ASBP 💧 Capital Return · Buyback
+Authorizes $10M share repurchase program
+Mcap $12M · EV $250K · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847345/000149315226041918/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-041918</guid>
+      <pubDate>Wed, 09 Sep 2026 09:15:22 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$EZRA 📤 Divestiture
 Sells Montana insurance unit to Scali for $2.625M cash
@@ -881,28 +891,6 @@ Mcap $89M · EV $141M · Cons Disc</title>
       <guid isPermaLink="false">0000921895-26-002496</guid>
       <pubDate>Tue, 08 Sep 2026 09:20:45 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$SRCAF 🤝 Merger
-Acquires 1% NSR royalty from Sinclair Gold for A$5M + 4M shares; becomes Arc Royalties
-A$5M cash + 4M shares deal · cash+stk
-Mcap $36M · EV $35M · Materials</title>
-      <link>https://investingnews.com/stria-completes-change-of-business-transaction-concurrent-offering-and-changes-name-to-arc-mineral-royalties-ltd/</link>
-      <guid isPermaLink="false">OTC-534341</guid>
-      <pubDate>Tue, 08 Sep 2026 09:13:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MESH 🤝 Merger
-Acquires HGP Intelligent Energy in 1:1 share exchange
-stock
-Mcap $435M · EV $434M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2081468/000121390026097901/ea0304759-8k425_meshflow.htm</link>
-      <guid isPermaLink="false">0001213900-26-097901</guid>
-      <pubDate>Tue, 08 Sep 2026 09:09:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
