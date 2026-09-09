@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 10:08:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:14:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SKHY 📤 Divestiture
+Weighing sale of Chongqing packaging plant stake; reported ~W4T
+Won 4 trillion (reported) deal
+Mcap $974B · EV $948B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2120882/000119312526385841/d80436d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-385841</guid>
+      <pubDate>Wed, 09 Sep 2026 05:09:23 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$AGNT 💧 Capital Return · Buyback
 Buys back 8.7M shares from Gratitude Trust at $3.68 (VWAP -10%)
@@ -805,69 +815,6 @@ Mcap $2.7B · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/936528/000114036126035827/ef20081702_defa14a.htm</link>
       <guid isPermaLink="false">0001140361-26-035827</guid>
       <pubDate>Tue, 08 Sep 2026 05:26:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WAFD 🤝 Merger
-Acquires EverBank in all-stock merger; EverBank holders get 59.175% of combined
-EverBank Financial · stock
-Mcap $2.7B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/936528/000114036126035826/ef20081702_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-035826</guid>
-      <pubDate>Tue, 08 Sep 2026 05:13:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SNYR 🔥 Insolvency · Ch. 11
-Files Chapter 11 bankruptcy; plans liquidation or reorganization
-Mcap $2M · EV $29M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1562733/000121390026097802/ea0304695-8k_synergy.htm</link>
-      <guid isPermaLink="false">0001213900-26-097802</guid>
-      <pubDate>Tue, 08 Sep 2026 05:13:12 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$VVOS 🪙 Debt Restr.
-Converts $2.86M Streeterville debt into 11.45M shares
-Mcap $4M · EV $15M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1716166/000149315226041616/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-041616</guid>
-      <pubDate>Tue, 08 Sep 2026 05:12:56 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$AMCX ⚖️ Litigation · Settled
-Settles Walking Dead profit suit for $120M
-vs Robert Kirkman et al.
-Mcap $515M · EV $1.8B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1514991/000151499126000093/amcx-20260904.htm</link>
-      <guid isPermaLink="false">0001514991-26-000093</guid>
-      <pubDate>Tue, 08 Sep 2026 05:12:28 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$GLND 🤝 Merger · Preliminary
-Acquires 80 Mile in all-share deal; 0.01108 GLND/shr, ~1.1p, 42.9% prem
-42.86 prem · £61.48M deal · stock
-Mcap $60M · EV $22M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2093507/000182912626009787/greenlandenergy_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-009787</guid>
-      <pubDate>Tue, 08 Sep 2026 05:12:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$CRCL 🤝 Merger
-Acquires Tazapay for $400M in stock
-Tazapay Pte. · $400,000,000 deal · stock
-Mcap $26B · EV $24B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1876042/000187604226000267/crcl-20260904.htm</link>
-      <guid isPermaLink="false">0001876042-26-000267</guid>
-      <pubDate>Tue, 08 Sep 2026 05:12:04 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
