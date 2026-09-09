@@ -6,8 +6,35 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 20:16:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:17:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RSG 📍 Stake
+Boosts Republic Services stake to 37.9% with 3.76M share purchase
+Mcap $68B · EV $82B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1060391/000110465926106327/primary_doc.xml</link>
+      <guid isPermaLink="false">0001104659-26-106327</guid>
+      <pubDate>Wed, 09 Sep 2026 15:17:21 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$FRTT 📍 Stake
+Discloses 71.8% controlling stake in Fort Technology
+Mcap $14M · EV $14M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2092967/000121390026098398/primary_doc.xml</link>
+      <guid isPermaLink="false">0001213900-26-098398</guid>
+      <pubDate>Wed, 09 Sep 2026 15:17:13 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$SKIL 📤 Divestiture
+Completes sale of Global Knowledge to Enduring Ventures
+Mcap $60M · EV $527M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774675/000143774926029980/skil20260626_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-029980</guid>
+      <pubDate>Wed, 09 Sep 2026 15:16:45 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CSR 🤝 Merger
 Acquired by Independence Realty Trust; combined REIT to trade as IRT
@@ -829,27 +856,6 @@ Mcap $92M · EV $144M · Cons Disc</title>
       <guid isPermaLink="false">0000921895-26-002501</guid>
       <pubDate>Tue, 08 Sep 2026 15:23:53 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$SGMOQ 🔥 Insolvency · Ch. 11
-Sells tech platforms to Lilly for $50M cash in Ch11
-advisor: Eli Lilly and
-Mcap $67M · EV $58M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1001233/000110465926105905/tm2624942d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-105905</guid>
-      <pubDate>Tue, 08 Sep 2026 15:16:47 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$BJ ⚖️ Litigation · Settled
-Settles credit card interchange fee suit; $240M pre-tax benefit
-Mcap $12B · EV $15B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1531152/000110465926105906/tm2624998d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-105906</guid>
-      <pubDate>Tue, 08 Sep 2026 15:16:32 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>
