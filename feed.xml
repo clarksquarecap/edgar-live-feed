@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 13:38:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:03:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · EZRA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1812727/000149315226041914/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-041914</guid>
+      <pubDate>Wed, 09 Sep 2026 09:03:02 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells Montana insurance unit to Scali for $2.625M cash</scanner:headline>
+      <scanner:shortName>Reliance Global</scanner:shortName>
+      <scanner:price>2.85</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>EZRA</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Sells Montana insurance unit to Scali for $2.625M cash&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Agreed to sell its wholly owned subsidiary Southwestern Montana Insurance Center (SMI) to Scali, LLC dba Scali Insurance Group for $2,625,000 cash (8.75x pro forma EBITDA of $300,000), plus uncapped contingent consideration based on EBITDA above $300,000 for the year ending Aug 31, 2027. Closing is deemed effective Sept 1, 2026, with cash payment due by Sept 11, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Reliance Global Group, Inc. acquires, owns, and manages insurance distribution and technology-oriented businesses in the United States. The company operates RELI Exchange, a business-to-business InsurTech platform and partner network designed to support insurance agents and agencies through technology-enabled tools and operational infrastructure; and 5MinuteInsure.com, a direct-to-consumer InsurTech platform designed to enable consumers to compare, quote, and bind certain insurance products thro…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Scali, LLC dba Scali Insurance Group&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $2,625,000 cash plus contingent consideration&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Cash payment due by Sept 11, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.85 · Mkt cap $2.7M · EV $7.1M · Financials / Insurance&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1812727/000149315226041914/0001493152-26-041914-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EZRA&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Insurance Agents (6411) · 8k_tier1:1.01 · filed 2026-09-09&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · ROKU</title>
       <link>https://www.sec.gov/Archives/edgar/data/1428439/000114036126035993/ef20081770_425.htm</link>
@@ -11724,30 +11748,6 @@
 &lt;p&gt;&lt;i&gt;Px $37.58 · Mkt cap $26.55B · EV $23.50B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1635088/000114036126034735/0001140361-26-034735-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ROIV&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01 · filed 2026-08-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · ELAB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840563/000121390026094443/ea0303620-8k_pmgc.htm</link>
-      <guid isPermaLink="false">0001213900-26-094443</guid>
-      <pubDate>Thu, 27 Aug 2026 16:30:17 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Terminates acquisition of 76% stake in Arizona machining co.</scanner:headline>
-      <scanner:shortName>PMGC Holdings</scanner:shortName>
-      <scanner:price>5.83</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>ELAB</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Terminates acquisition of 76% stake in Arizona machining co.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Terminated its previously disclosed acquisition of a 76% controlling interest in a privately held Arizona-based precision machining and contract manufacturing company. The termination was announced via press release on August 26, 2026. Separately, the company entered into a non-binding term sheet with Orbit2Orbit Inc. on August 21, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; PMGC Holdings Inc., a biopharmaceutical company, focuses on the development and acquisition of aesthetic medicines and therapeutic products. It operates through three segments: corporate, treasury and biosciences; IT packaging solutions; and precision engineering and machining. The company’s lead product includes EL-22, a first-in-class engineered probiotic approach to address obesity’s pressing issue of preserving muscle while on weight loss treatments, including GLP-1 receptor agonists.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 76%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-26&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.83 · Mkt cap $4.9M · EV $170K · Consumer Staples / Personal Care Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1840563/000121390026094443/0001213900-26-094443-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ELAB&lt;/b&gt; · 8-K · Items 1.01, 3.03, 5.03, 7.01, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01,3.03,7.01,8.01 · filed 2026-08-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
