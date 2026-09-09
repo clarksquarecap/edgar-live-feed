@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 20:48:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:54:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · SWVL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1875609/000110465926106376/0001104659-26-106376-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-106376</guid>
+      <pubDate>Wed, 09 Sep 2026 15:54:49 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Acquires 38.9% stake in Swvl for $10M</scanner:headline>
+      <scanner:shortName>Swvl Holdings</scanner:shortName>
+      <scanner:price>7.10</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>SWVL</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquires 38.9% stake in Swvl for $10M&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Coefficient LP and affiliates acquired 6,915,629 ordinary shares (38.9% of class) of Swvl Holdings Corp for approximately $10 million via a Securities Purchase Agreement. The acquisition closed on September 1, 2026. The Reporting Persons hold a board seat and may review their investment on a continuing basis.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Swvl Holdings Corp., a technology-driven disruptive mobility company, provides mass transit solutions in Egypt, the Kingdom of Saudi Arabia, the United Arab Emirates, the United Kingdom, and Kuwait. The company offers B2C product that provides riders with a network of minibuses and other vehicles operating on fixed and semi-fixed routes throughout and between the cities it serves.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $10 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 38.9%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.10 · Mkt cap $64.0M · EV $58.5M · Industrials / Ground Transportation&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1875609/000110465926106376/0001104659-26-106376-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SWVL, SWVLW&lt;/b&gt; · SCHEDULE 13D · Business Services (7389) · fresh_13d · filed 2026-09-09&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · DEC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1922446/000192244626000086/dec-20260902.htm</link>
@@ -11726,27 +11750,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1391437/000106299326004689/0001062993-26-004689-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GRX&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · HARTFORD MUTUAL FUNDS II</title>
-      <link>https://www.sec.gov/Archives/edgar/data/49905/000119312526372839/d127127ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-372839</guid>
-      <pubDate>Fri, 28 Aug 2026 09:52:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Acquired by Wellington Management; shareholder vote Nov 5</scanner:headline>
-      <scanner:shortName>HARTFORD MUTUAL FUNDS II</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker />
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Wellington Management; shareholder vote Nov 5&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is being acquired by Wellington Management. A special shareholder meeting is scheduled for November 5, 2026, to vote on the proposed acquisition. The board recommends voting FOR the proposals.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Wellington Management&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder meeting November 5, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/49905/000119312526372839/0001193125-26-372839-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;DEFA14A · prefill_form:DEFA14A · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
