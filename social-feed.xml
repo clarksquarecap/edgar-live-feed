@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 20:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:16:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CSR 🤝 Merger
+Acquired by Independence Realty Trust; combined REIT to trade as IRT
+stock · close end of 2026
+Mcap $885M · EV $2.0B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/798359/000143774926029983/irt20260907_425.htm</link>
+      <guid isPermaLink="false">0001437749-26-029983</guid>
+      <pubDate>Wed, 09 Sep 2026 15:16:23 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CMMB 📍 Stake
 Exercises pre-funded warrants; stake now 12.5%
@@ -839,16 +850,6 @@ Mcap $12B · EV $15B · Cons Stpl</title>
       <pubDate>Tue, 08 Sep 2026 15:16:32 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$ANY 📤 Divestiture
-Sells Iowa site to Simplemining for $1.5M; mining fleet to RepairBit for $3.1M
-$4.6M deal
-Mcap $20M · EV $21M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1591956/000121390026098043/ea0304863-8k_sphere.htm</link>
-      <guid isPermaLink="false">0001213900-26-098043</guid>
-      <pubDate>Tue, 08 Sep 2026 15:16:17 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
