@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 00:06:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:29:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · AGNT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1495932/000110465926106028/0001104659-26-106028-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-106028</guid>
+      <pubDate>Tue, 08 Sep 2026 20:21:38 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Buys back 8.7M shares from Gratitude Trust at $3.68 (VWAP -10%)</scanner:headline>
+      <scanner:shortName>AGNT</scanner:shortName>
+      <scanner:price>3.98</scanner:price>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Real Estate</scanner:sector>
+      <scanner:ticker>AGNT</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Buys back 8.7M shares from Gratitude Trust at $3.68 (VWAP -10%)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Agreed to repurchase 8,693,290 shares from the Gratitude 2022 Trust at $3.68/share (5-day VWAP less 10% discount). The Trust holds 18,037,824 shares (10.8%); after the sale it would hold ~9.3M shares (~5.6%). Closing subject to customary conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; AGNT, Inc, together with its subsidiaries, provides cloud-based real estate brokerage services for residential homeowners and homebuyers. It operates through three segments: North American Realty, International Realty, and Other Affiliated Services. The company acts as a licensed broker for processing residential and commercial real estate transactions; and provides other real estate support services.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Gratitude 2022 Trust&lt;/li&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; $3.68&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $31,991,307&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10.8%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-03&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.98 · Mkt cap $673.5M · EV $562.3M · Fwd P/E 21.1x · Fwd EV/EBITDA 10.1x · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1495932/000110465926106028/0001104659-26-106028-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AGNT&lt;/b&gt; · SCHEDULE 13D · Real Estate (6531) · fresh_13d · filed 2026-09-08&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · XWEL</title>
       <link>https://www.sec.gov/Archives/edgar/data/1410428/000121390026098164/0001213900-26-098164-index.htm</link>
@@ -11724,27 +11748,6 @@
 &lt;p&gt;&lt;i&gt;Px $14.24 · Mkt cap $1.79B · EV $3.58B · Fwd P/E 4.5x · Fwd EV/EBITDA 3.0x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1713930/000114036126034601/0001140361-26-034601-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NEXA&lt;/b&gt; · SC TO-C · Metal Mining (1000) · prefill_form:SC TO-C · filed 2026-08-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · Proxy Solicitation · BPRE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1551047/000106299326004669/0001062993-26-004669-index.htm</link>
-      <guid isPermaLink="false">0001062993-26-004669</guid>
-      <pubDate>Thu, 27 Aug 2026 10:55:45 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>proxy_solicitation</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Saba demands shareholder list; plans proxy fight to oust manager at BPRE</scanner:headline>
-      <scanner:shortName>Bluerock Private Real Estate Fund</scanner:shortName>
-      <scanner:subtype>proxy_solicitation</scanner:subtype>
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>BPRE</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Saba demands shareholder list; plans proxy fight to oust manager at BPRE&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Saba Capital filed a 13D/A disclosing a 5.12% stake and a demand to inspect Bluerock&amp;#39;s shareholder list under Delaware law to solicit proxies for the 2027 annual meeting. Saba intends to submit a proposal to terminate the investment manager and seek board change.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.12%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-26&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2027 annual meeting&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1551047/000106299326004669/0001062993-26-004669-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BPRE&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-08-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
