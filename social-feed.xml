@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 21:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:15:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TECH 🤝 Merger
+Acquired by Merck KGaA for $73.00 cash/share; German approval received
+cash
+Mcap $11B · EV $11B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/842023/000114036126036072/ef20081813_defa14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-036072</guid>
+      <pubDate>Wed, 09 Sep 2026 16:15:07 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$WTRG 🤝 Merger
 PA settlement reached, HSR cleared; PaPUC approval pending
@@ -860,15 +871,6 @@ Mcap $2.6B · EV $3.7B · Healthcare</title>
       <pubDate>Tue, 08 Sep 2026 16:15:44 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$HCAT 📍 Stake
-Raises stake to 7.1% (5.37M shares)
-Mcap $127M · EV $194M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1636422/000110465926105948/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-105948</guid>
-      <pubDate>Tue, 08 Sep 2026 16:09:32 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
