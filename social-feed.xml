@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 13:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:19:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LGMK 📦 Going Private
+Acquired by Langham Project for $1.31 cash/share; special meeting vote pending
+cash
+Mcap $1M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1566826/000121390026098243/ea0302962-sc13e3a2_logic.htm</link>
+      <guid isPermaLink="false">0001213900-26-098243</guid>
+      <pubDate>Wed, 09 Sep 2026 08:19:13 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$COBA 🤝 Merger · Preliminary
 Advances NeoRe acquisition; 6M shares consideration
@@ -871,36 +881,6 @@ Mcap $165M · EV $165M · Financials</title>
       <pubDate>Tue, 08 Sep 2026 08:21:53 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$XRX 👀 Activist
-Urges strategic review of XFS; 7.34% stake
-Mcap $436M · EV $4.5B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1770450/000149315226041719/primary_doc.xml</link>
-      <guid isPermaLink="false">0001493152-26-041719</guid>
-      <pubDate>Tue, 08 Sep 2026 08:15:51 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$NMP 🤝 Merger
-Acquires GTS Holdings in business combination; NMP shares convert 1:1 to Pubco
-stock
-Mcap $165M · EV $165M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2054876/000121390026097868/ea0304672-8k425_nmpacq.htm</link>
-      <guid isPermaLink="false">0001213900-26-097868</guid>
-      <pubDate>Tue, 08 Sep 2026 08:15:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces Garg proxy contest; urges WHITE consent revocation
-Vishal Garg
-Mcap $234M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000183585626000031/defa14aseptember82026.htm</link>
-      <guid isPermaLink="false">0001835856-26-000031</guid>
-      <pubDate>Tue, 08 Sep 2026 08:15:13 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
