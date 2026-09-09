@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 13:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:25:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FOX 🤝 Merger
+Receives DOJ second request for Roku merger; close H1 2027
+Mcap $26B · EV $29B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1754301/000119312526385985/d176496d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-385985</guid>
+      <pubDate>Wed, 09 Sep 2026 08:25:40 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FOX 🤝 Merger
 DOJ issues Second Request on Roku merger; close expected H1 2027
@@ -880,17 +890,6 @@ Mcap $15B · EV $17B · Comms</title>
       <guid isPermaLink="false">0001001807-26-000060</guid>
       <pubDate>Tue, 08 Sep 2026 08:54:38 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$NMP 🤝 Merger
-Acquires GTS Holdings in $400M stock business combination
-$400,000,000 deal · stock
-Mcap $165M · EV $165M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2054876/000121390026097872/ea0304672-8k425_nmpacq.htm</link>
-      <guid isPermaLink="false">0001213900-26-097872</guid>
-      <pubDate>Tue, 08 Sep 2026 08:21:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
