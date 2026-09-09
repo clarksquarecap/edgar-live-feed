@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 20:35:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:41:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CSR 🤝 Merger
+Acquired by Independence Realty Trust in all-stock merger; shareholders to own 22% of combined
+stock · close Q4 2026
+Mcap $885M · EV $2.0B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/798359/000114036126036065/ef20081788_425.htm</link>
+      <guid isPermaLink="false">0001140361-26-036065</guid>
+      <pubDate>Wed, 09 Sep 2026 15:41:17 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SPWR 📍 Stake
 Increases SunPower stake to 19.5% via notes, warrants, options
@@ -879,17 +890,6 @@ Mcap $275M · Financials</title>
       <guid isPermaLink="false">0001835856-26-000036</guid>
       <pubDate>Tue, 08 Sep 2026 15:43:15 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$SEI 🤝 Merger
-Acquires Omega Foundation Services for 3.6M shares + $77M cash
-3,599,199 shares + ~$77M cash deal · cash+stk
-Mcap $3.6B · EV $5.6B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1697500/000119312526385257/d441137d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-385257</guid>
-      <pubDate>Tue, 08 Sep 2026 15:36:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
