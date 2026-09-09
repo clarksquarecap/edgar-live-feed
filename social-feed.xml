@@ -6,8 +6,51 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 20:23:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:26:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TRSO 🤝 Merger
+Acquires 51% stake in Zhongke Haichuang
+Mcap $14M · EV $14M · Industrials</title>
+      <link>https://www.otcmarkets.com/stock/TRSO/news/534569</link>
+      <guid isPermaLink="false">OTC-534569</guid>
+      <pubDate>Wed, 09 Sep 2026 15:26:24 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$LXFR 🤝 Merger
+HSR waiting period expires for Wynnchurch acquisition
+Wynnchurch Capital
+Mcap $463M · EV $521M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1096056/000207709626000244/ea0304990-8k_luxfer.htm</link>
+      <guid isPermaLink="false">0002077096-26-000244</guid>
+      <pubDate>Wed, 09 Sep 2026 15:24:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$CSR 🤝 Merger
+Acquired by Independence Realty Trust in stock merger; close Q4 2026
+stock
+Mcap $885M · EV $2.0B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/798359/000143774926029984/irt20260909e_425.htm</link>
+      <guid isPermaLink="false">0001437749-26-029984</guid>
+      <pubDate>Wed, 09 Sep 2026 15:23:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$CSR 🤝 Merger
+Acquired by IRT in all-stock merger; combined EV $8.1B
+stock
+Mcap $885M · EV $2.0B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/798359/000143774926029985/irt20260909f_425.htm</link>
+      <guid isPermaLink="false">0001437749-26-029985</guid>
+      <pubDate>Wed, 09 Sep 2026 15:23:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$LXFR 🤝 Merger
 HSR cleared for Wynnchurch take-private; shareholder vote pending
@@ -856,16 +899,6 @@ Mcap $179M · EV $132M · Industrials</title>
       <pubDate>Tue, 08 Sep 2026 15:30:05 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$EMPD ⚔️ Proxy
-Withdraws 5 nominees; files definitive proxy for 4-director slate
-16.0 stake
-Mcap $92M · EV $144M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000092189526002501/primary_doc.xml</link>
-      <guid isPermaLink="false">0000921895-26-002501</guid>
-      <pubDate>Tue, 08 Sep 2026 15:23:53 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
