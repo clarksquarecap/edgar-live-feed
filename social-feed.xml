@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 20:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:00:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BRNS 📉 Delisting · Voluntary
+Voluntary delisting of ADSs effective Sept 9
+Mcap $30M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1828185/000110465926106382/tm2624972d7_25.htm</link>
+      <guid isPermaLink="false">0001104659-26-106382</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:58 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$SWVL 📍 Stake
 Acquires 38.9% stake in Swvl for $10M
@@ -858,57 +868,6 @@ Mcap $163M · EV $154M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1837821/000121390026098090/ea0304810-6k_jinmed.htm</link>
       <guid isPermaLink="false">0001213900-26-098090</guid>
       <pubDate>Tue, 08 Sep 2026 16:07:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PAYO 🤝 Merger
-Nuvei merger: supplements proxy amid litigation; vote Sept 14
-Mcap $2.4B · EV $2.2B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1845815/000095010326013665/dp253036_8k.htm</link>
-      <guid isPermaLink="false">0000950103-26-013665</guid>
-      <pubDate>Tue, 08 Sep 2026 16:00:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ELE 🤝 Merger
-Receives Mexican antitrust clearance for Vizsla Royalties acquisition
-Mcap $1.4B · EV $1.3B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2086771/000106299326004849/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-004849</guid>
-      <pubDate>Tue, 08 Sep 2026 15:58:50 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BHR ⚔️ Proxy
-Nominates majority slate for Braemar board control
-Mcap $130M · EV $1.2B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000139834426016786/fp0100791-1_dfan14a.htm</link>
-      <guid isPermaLink="false">0001398344-26-016786</guid>
-      <pubDate>Tue, 08 Sep 2026 15:57:03 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$WAFD 🤝 Merger
-Enters definitive merger with EverBank
-EverBank Financial
-Mcap $2.7B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/936528/000114036126035928/ef20081746_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-035928</guid>
-      <pubDate>Tue, 08 Sep 2026 15:56:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WAFD 🤝 Merger
-Acquired by EverBank in $3.9B all-stock reverse merger; new ticker EVBK
-EverBank Financial · $3.9 billion deal · stock · close Q1 2027
-Mcap $2.7B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/936528/000114036126035929/ef20081759_formdefa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-035929</guid>
-      <pubDate>Tue, 08 Sep 2026 15:56:34 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>

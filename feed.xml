@@ -6,8 +6,31 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 20:54:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:00:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · BRNS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1828185/000110465926106382/tm2624972d7_25.htm</link>
+      <guid isPermaLink="false">0001104659-26-106382</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:58 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>25</category>
+      <scanner:headline>Voluntary delisting of ADSs effective Sept 9</scanner:headline>
+      <scanner:shortName>Barinthus Biotherapeutics plc</scanner:shortName>
+      <scanner:price>0.7400</scanner:price>
+      <scanner:subtype>voluntary</scanner:subtype>
+      <scanner:form>25</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>BRNS</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Voluntary delisting of ADSs effective Sept 9&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Plc voluntarily withdrew its American Depositary Shares from listing and registration on the exchange, effective September 9, 2026, pursuant to Rule 12d2-2(c). The ADSs will be removed from exchange trading.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Barinthus Biotherapeutics plc, together with its subsidiaries, engages in the research, development, and commercialization of immunotherapies and vaccines in the United States and the United Kingdom. The company develops VTP-1000, an antigen-specific immune tolerance candidate, which is in Phase I clinical trial to restore immune non-responsiveness to gluten in patients with celiac disease; and VTP-300, an immunotherapy, which is in Phase II clinical trial for the treatment of chronic hepatitis …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.7400 · Mkt cap $30.2M · EV $-18.7M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1828185/000110465926106382/0001104659-26-106382-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BRNS&lt;/b&gt; · 25 · Chemicals / Pharma (2834) · prefill_form:25 · filed 2026-09-09&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · SWVL</title>
       <link>https://www.sec.gov/Archives/edgar/data/1875609/000110465926106376/0001104659-26-106376-index.htm</link>
@@ -11729,27 +11752,6 @@
 &lt;p&gt;&lt;i&gt;Px $20.40 · Mkt cap $20.7M · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1978811/000167873126000003/0001678731-26-000003-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GOVB&lt;/b&gt; · SCHEDULE 13D · Depository Institutions (6036) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · GRX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1391437/000106299326004689/0001062993-26-004689-index.htm</link>
-      <guid isPermaLink="false">0001062993-26-004689</guid>
-      <pubDate>Fri, 28 Aug 2026 10:52:45 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Receives 13D/A from Saba Capital raising stake to 14.32%</scanner:headline>
-      <scanner:shortName>Gabelli Healthcare &amp; WellnessRx</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>GRX</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Saba Capital raising stake to 14.32%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Saba Capital Management, L.P. increased its beneficial ownership in Gabelli Healthcare &amp;amp; WellnessRx Trust to 2,155,133 common shares (14.32% of class) via open-market purchases. The 13D/A amendment #4 does not state a specific agenda. Saba is a known closed-end fund activist, so further engagement may follow.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Saba Capital Management, L.P.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 14.32%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1391437/000106299326004689/0001062993-26-004689-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GRX&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
