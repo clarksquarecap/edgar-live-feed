@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 20:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:10:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CMMB 📍 Stake
@@ -849,56 +849,6 @@ Mcap $20M · EV $21M · Tech</title>
       <guid isPermaLink="false">0001213900-26-098043</guid>
       <pubDate>Tue, 08 Sep 2026 15:16:17 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BHR 👀 Activist
-Reiterates intent to nominate 5-director majority slate at Braemar
-9.48 stake
-Mcap $130M · EV $1.2B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000139834426016775/primary_doc.xml</link>
-      <guid isPermaLink="false">0001398344-26-016775</guid>
-      <pubDate>Tue, 08 Sep 2026 15:08:14 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$MDRR 📤 Divestiture
-Sells Brookfield Center to Person Street Partners for $10.1M
-10100000 deal
-Mcap $20M · EV $36M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1654595/000110465926105902/mdrr-20260901x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-105902</guid>
-      <pubDate>Tue, 08 Sep 2026 15:07:34 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SAFX 🪙 Debt Restr.
-Converts $840K Narrow Road debt into 3.5M shares at $0.24
-Mcap $162M · EV $419M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2019793/000149315226041766/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-041766</guid>
-      <pubDate>Tue, 08 Sep 2026 15:07:11 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>debt_for_equity_swap</category>
-    </item>
-    <item>
-      <title>$ISCO 📤 Divestiture
-Sells Lifeline Cell Technology to ATCC for $25.25M cash
-25,250,000 deal
-Mcap $3M · EV $10M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1355790/000168316826007007/intlstemcell_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-007007</guid>
-      <pubDate>Tue, 08 Sep 2026 15:07:01 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$KHC 📉 Delisting · Voluntary
-Voluntarily delists from Nasdaq; effective Sept 8
-Mcap $29B · EV $46B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1637459/000163745926000062/khc-form25gdcdraftx6001812.htm</link>
-      <guid isPermaLink="false">0001637459-26-000062</guid>
-      <pubDate>Tue, 08 Sep 2026 15:06:27 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
