@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 12:43:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:04:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · LU</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1816007/000119312526385968/d96289d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-385968</guid>
+      <pubDate>Wed, 09 Sep 2026 08:04:28 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Extends Ping An convertible notes maturity to Oct 2027; EGM Oct 8</scanner:headline>
+      <scanner:shortName>Lufax Holding</scanner:shortName>
+      <scanner:price>1.23</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>LU</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Extends Ping An convertible notes maturity to Oct 2027; EGM Oct 8&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Proposes to extend the maturity date of the Ping An Overseas Holdings convertible promissory notes from October 8, 2026 to October 8, 2027. The extension requires approval at an extraordinary general meeting on October 8, 2026. The notes are held by a connected party, Ping An Overseas Holdings, a subsidiary of Ping An Insurance.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lufax Holding Ltd engages in the retail credit and enablement business to borrowers and institutions in the People’s Republic of China. It offers loan products, including general unsecured loans and secured loans, as well as consumer finance loans. The company also provides wealth management products, such as asset management plans, bank products, mutual fund products, private investment fund products, trust plans, and others.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ping An Overseas Holdings&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-08&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; EGM on October 8, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.23 · Mkt cap $1.07B · EV $4.35B · Fwd EV/EBITDA 9.7x · Financials / Consumer Finance&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1816007/000119312526385968/0001193125-26-385968-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LU&lt;/b&gt; · 6-K · Non-Depository Credit (6199) · prefill_form:6-K · filed 2026-09-09&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · GALKF</title>
       <link>https://www.globenewswire.com/news-release/2025/09/24/3155187/0/en/Galantas-Gold-Closes-Transaction-to-Form-Joint-Venture-with-Ocean-Partners-UK-Limited-to-Develop-Omagh-Gold-Project-in-Northern-Ireland.html</link>
@@ -11723,29 +11747,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.68 · Mkt cap $42.3M · EV $46.0M · Fwd EV/EBITDA 2.7x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1867834/000110465926102502/0001104659-26-102502-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BRAG&lt;/b&gt; · 6-K · Business Services (7377) · prefill_form:6-K · filed 2026-08-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · MMTX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2077033/000149315226040431/forms-4.htm</link>
-      <guid isPermaLink="false">0001493152-26-040431</guid>
-      <pubDate>Thu, 27 Aug 2026 16:17:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4</category>
-      <scanner:headline>Acquires Kukugan Invest</scanner:headline>
-      <scanner:shortName>CADV Ventures</scanner:shortName>
-      <scanner:price>10.15</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>MMTX</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Kukugan Invest&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;A special purpose acquisition company, filed an S-4 registration statement for its proposed business combination with Kukugan Invest. The transaction is expected to close pending shareholder approval and other customary conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Miluna Acquisition Corp focuses on effecting a merger, share exchange, asset acquisition, share purchase, recapitalization, and reorganization or similar business combination with one or more businesses or entities. Miluna Acquisition Corp was incorporated in 2025 and is based in Taipei, Taiwan.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Kukugan Invest&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.15 · Mkt cap $89.6M · EV $89.5M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2077033/000149315226040431/0001493152-26-040431-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MMTX, MMTXU, MMTXW&lt;/b&gt; · S-4 · Business Services (7371) · prefill_form:S-4 · filed 2026-08-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
