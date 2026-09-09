@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 10:26:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:32:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SKHY 📤 Divestiture
@@ -777,25 +777,6 @@ Mcap $253B · EV $281B · Healthcare</title>
       <pubDate>Tue, 08 Sep 2026 05:39:33 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$CAPN 💥 Busted M&amp;A
-Mutually terminates merger with Mango; resumes SPAC search
-Mcap $59M · EV $61M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2024203/000149315226041659/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-041659</guid>
-      <pubDate>Tue, 08 Sep 2026 05:31:29 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$AIIR 🤝 Merger
-Proposed business combination with Cantor Equity Partners III
-Mcap $1.3B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2097725/000119312526384297/d169397d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-384297</guid>
-      <pubDate>Tue, 08 Sep 2026 05:31:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
