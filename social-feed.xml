@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 20:26:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:35:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ENB 🤝 Merger
+Acquires Tallgrass Energy's crude oil transportation and storage assets
+Mcap $109B · EV $197B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/895728/000110465926106344/tm2624881d6_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-106344</guid>
+      <pubDate>Wed, 09 Sep 2026 15:35:03 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TRSO 🤝 Merger
 Acquires 51% stake in Zhongke Haichuang
@@ -871,34 +881,6 @@ Mcap $3.6B · EV $5.6B · Energy</title>
       <pubDate>Tue, 08 Sep 2026 15:36:53 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GOLD 📍 Stake
-Raises stake to 12.6% with 100k-share purchase at $39.30
-Mcap $1.3B · EV $1.7B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1591588/000110465926105914/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-105914</guid>
-      <pubDate>Tue, 08 Sep 2026 15:30:27 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NXH 💥 Busted M&amp;A
-Terminates F9 Brands acquisition; seller failed closing conditions
-Mcap $377M · EV $430M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1130713/000114036126035920/ef20081710_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-035920</guid>
-      <pubDate>Tue, 08 Sep 2026 15:30:13 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$ESP 💧 Capital Return · Special Div
-Special $0.75/share dividend; record Sept 18, pay Sept 25
-Mcap $179M · EV $132M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/33533/000117494726000848/form8k-36314_esp.htm</link>
-      <guid isPermaLink="false">0001174947-26-000848</guid>
-      <pubDate>Tue, 08 Sep 2026 15:30:05 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
     </item>
   </channel>
 </rss>
