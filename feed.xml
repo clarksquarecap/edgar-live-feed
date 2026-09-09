@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 21:32:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:36:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · BLFS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/834365/000162828026061174/blfs-20260903.htm</link>
+      <guid isPermaLink="false">0001628280-26-061174</guid>
+      <pubDate>Wed, 09 Sep 2026 16:36:27 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquired by Repligen for $11.25 cash + 0.1442 RGEN shares; HSR cleared</scanner:headline>
+      <scanner:shortName>BIOLIFE SOLUTIONS</scanner:shortName>
+      <scanner:price>34.93</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>BLFS</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Repligen for $11.25 cash + 0.1442 RGEN shares; HSR cleared&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Will be acquired by Repligen for $11.25 cash and 0.1442 Repligen shares per BioLife share. The HSR waiting period expired on September 3, 2026. Stockholder vote scheduled for October 5, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BioLife Solutions, Inc. develops, manufactures, and markets bioproduction products and services for the cell and gene therapy (CGT) industry in the United States, Europe, the Middle East, Africa, and internationally. The company’s products are used in the basic and applied research, and commercial manufacturing of biologic-based therapies.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Repligen Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; $11.25 cash + 0.1442 RGEN shares&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting October 5, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $34.93 · Mkt cap $1.73B · EV $1.63B · Fwd P/E 119.3x · Fwd EV/EBITDA 46.0x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/834365/000162828026061174/0001628280-26-061174-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BLFS&lt;/b&gt; · 8-K · Items 8.01 · Instruments / Medical Devices (3845) · 8k_tier1:8.01 · filed 2026-09-09&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Special Dividend · VIVK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1450704/000182912626009949/vivakorinc_8k.htm</link>
@@ -11736,29 +11760,6 @@
 &lt;p&gt;&lt;i&gt;Px $5.75 · Mkt cap $4.43B · EV $11.63B · Fwd P/E 15.9x · Fwd EV/EBITDA 10.5x · Utilities / Multi-Utilities&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1174169/000117416926000038/0001174169-26-000038-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AQN, AQNB, AGQPF&lt;/b&gt; · 6-K · Utilities (4911) · prefill_form:6-K · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · OPAD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1825024/000119312526374380/d114211d25.htm</link>
-      <guid isPermaLink="false">0001193125-26-374380</guid>
-      <pubDate>Fri, 28 Aug 2026 15:29:55 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>25</category>
-      <scanner:headline>Voluntarily delists from NYSE effective Aug 28</scanner:headline>
-      <scanner:shortName>Offerpad Solutions</scanner:shortName>
-      <scanner:price>4.13</scanner:price>
-      <scanner:subtype>voluntary</scanner:subtype>
-      <scanner:form>25</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>OPAD</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Voluntarily delists from NYSE effective Aug 28&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Voluntarily withdrew its Class A common stock from listing on the New York Stock Exchange, effective August 28, 2026. The company filed Form 25 to deregister under Section 12(b). No merger or acquisition is indicated; the delisting appears to be a standalone decision.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Offerpad Solutions Inc., together with its subsidiaries, provides a technology-enabled real estate solutions platform in the United States. It operates through Cash Offer, Renovate, and Other segments. The company offers Cash Offer, which allows customers to access the company’s website or mobile application to receive a cash offer range for their home; and renovation services to other businesses.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $4.13 · Mkt cap $20.2M · EV $100.7M · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1825024/000119312526374380/0001193125-26-374380-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OPAD, OPADW&lt;/b&gt; · 25 · Real Estate (6531) · prefill_form:25 · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 21:32:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 21:36:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BLFS 🤝 Merger
+Acquired by Repligen for $11.25 cash + 0.1442 RGEN shares; HSR cleared
+cash+stk
+Mcap $1.7B · EV $1.6B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/834365/000162828026061174/blfs-20260903.htm</link>
+      <guid isPermaLink="false">0001628280-26-061174</guid>
+      <pubDate>Wed, 09 Sep 2026 16:36:27 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VIVK 💧 Capital Return · Special Div
 Extends Adapti special dividend payment to Jan 29, 2027
@@ -794,60 +805,6 @@ Mcap $3.5B · EV $9.2B · Cons Disc</title>
       <guid isPermaLink="false">0000905148-26-004113</guid>
       <pubDate>Tue, 08 Sep 2026 16:40:17 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RGEN 🤝 Merger
-Acquires BioLife for $11.25 cash + 0.1442 shares; HSR cleared; vote Oct 5
-BioLife Solutions · cash+stk
-Mcap $9.5B · EV $9.3B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/730272/000119312526385380/d131600d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-385380</guid>
-      <pubDate>Tue, 08 Sep 2026 16:33:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CHYM 🤝 Merger
-Acquires Central Service Corp (Stride Bank parent) for $590M cash
-$590 million deal · cash
-Mcap $13B · EV $12B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1795586/000119312526385383/d948605d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-385383</guid>
-      <pubDate>Tue, 08 Sep 2026 16:33:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NVTS 🤝 Merger
-Acquires Claros for $232.8M cash+stock; close by year-end
-cash+stk · close Q4 2026
-Mcap $3.1B · EV $2.5B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1821769/000110465926105967/tm2624896-1_s4.htm</link>
-      <guid isPermaLink="false">0001104659-26-105967</guid>
-      <pubDate>Tue, 08 Sep 2026 16:33:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RGEN 🤝 Merger
-Acquires BioLife for $11.25 cash + 0.1442 RGEN shares; HSR cleared, vote Oct 5
-BioLife Solutions · cash+stk · close Q4 2026
-Mcap $9.5B · EV $9.3B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/730272/000119312526385382/d131600d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-385382</guid>
-      <pubDate>Tue, 08 Sep 2026 16:33:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PAYO 🤝 Merger
-Nuvei merger vote Sept 14; proxy supplemented
-Mcap $2.4B · EV $2.2B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1845815/000095010326013669/dp253037_defa14a.htm</link>
-      <guid isPermaLink="false">0000950103-26-013669</guid>
-      <pubDate>Tue, 08 Sep 2026 16:33:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
