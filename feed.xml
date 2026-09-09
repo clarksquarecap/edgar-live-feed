@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 12:32:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:36:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · AA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1675149/000119312526385947/aa-20260909.htm</link>
+      <guid isPermaLink="false">0001193125-26-385947</guid>
+      <pubDate>Wed, 09 Sep 2026 07:36:38 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires South32's AliGroup ops; $2.6B notes fund $3.1B cash portion</scanner:headline>
+      <scanner:shortName>Alcoa</scanner:shortName>
+      <scanner:price>51.74</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>AA</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquires South32&amp;#39;s AliGroup ops; $2.6B notes fund $3.1B cash portion&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced a $2.6B senior notes offering (2034 notes via Alumina Pty Ltd, 2036 notes via Alcoa Nederland) to fund the ~$3.1B cash portion of its acquisition of South32&amp;#39;s AliGroup bauxite, alumina and smelter operations. The deal, signed June 30, 2026, is pending South32 shareholder approval, regulatory clearances and customary conditions. S-4 declared effective September 8, 2026; pro forma financials updated to reflect the $2.6B notes and September 2, 2026 stock price.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Alcoa Corporation, together with its subsidiaries, engages in the bauxite mining, alumina refining, aluminum production, and energy generation business in Australia, Brazil, Canada, Iceland, Norway, Spain, the United States, and internationally. The company operates through two segments: Alumina and Aluminum.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; South32 Limited&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $3.1B cash portion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; South32 shareholder approval; regulatory approvals&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $51.74 · Mkt cap $13.65B · EV $13.23B · Fwd P/E 8.7x · Fwd EV/EBITDA 4.4x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1675149/000119312526385947/0001193125-26-385947-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AA&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Primary Metals (3334) · 8k_tier1:7.01,8.01 · filed 2026-09-09&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · CCG</title>
       <link>https://www.sec.gov/Archives/edgar/data/1965473/000149315226041892/form6-k.htm</link>
@@ -11720,30 +11744,6 @@
 &lt;p&gt;&lt;i&gt;Px $10.21 · Mkt cap $391.4M · EV $390.1M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2088295/000135445726000828/0001354457-26-000828-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BBCQ&lt;/b&gt; · 25-NSE · Holding / Investment Offices (6770) · prefill_form:25-NSE · filed 2026-08-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · KRP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1657788/000149315226040406/0001493152-26-040406-index.htm</link>
-      <guid isPermaLink="false">0001493152-26-040406</guid>
-      <pubDate>Thu, 27 Aug 2026 15:38:36 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Receives 13D/A from Rivercrest Capital; 11.7% stake</scanner:headline>
-      <scanner:shortName>Kimbell Royalty Partners</scanner:shortName>
-      <scanner:price>14.51</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>KRP</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Rivercrest Capital; 11.7% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received an amended Schedule 13D from Rivercrest Capital Partners LP and affiliates disclosing an aggregate 11.7% stake (12,576,559 common units). The filing updates the original 2018 13D.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Kimbell Royalty Partners, LP, together with its subsidiaries, owns and acquires mineral and royalty interests in oil and natural gas properties in the United States. The company was founded in 1998 and is based in Fort Worth, Texas.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Rivercrest Capital Partners LP&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 11.7%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-21&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $14.51 · Mkt cap $1.43B · EV $2.05B · Fwd P/E 15.6x · Fwd EV/EBITDA 7.1x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1657788/000149315226040406/0001493152-26-040406-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KRP&lt;/b&gt; · SCHEDULE 13D/A · Oil &amp;amp; Gas (1311) · amended_13d · filed 2026-08-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
