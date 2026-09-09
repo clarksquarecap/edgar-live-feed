@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 09 Sep 2026 12:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:36:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · ADI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/6281/000119312526385938/d924057d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-385938</guid>
+      <pubDate>Wed, 09 Sep 2026 07:36:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Alif Semiconductor for $1.35B cash + up to $200M earnout</scanner:headline>
+      <scanner:shortName>ANALOG DEVICES</scanner:shortName>
+      <scanner:price>363.20</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>ADI</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Alif Semiconductor for $1.35B cash + up to $200M earnout&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a definitive agreement to acquire Alif Semiconductor, a provider of AI-native microcontrollers and fusion processors, for $1.35 billion in upfront cash plus up to $200 million in contingent consideration. The all-cash transaction is expected to close before end of calendar year 2026, subject to customary conditions including HSR antitrust clearance. Alif&amp;#39;s silicon is already shipping in production with design wins across consumer and industrial customers.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Analog Devices, Inc. engages in the design, manufacture, testing, and marketing of integrated circuits (ICs), software, and subsystems products in the United States, rest of North and South America, Europe, Japan, China, and rest of Asia. It provides data converter products, which translate real-world analog signals into digital data, as well as translates digital data into analog signals; power management and reference products for power conversion, driver monitoring, sequencing, and energy man…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Alif Semiconductor&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $1.35B (plus up to $200M contingent)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR waiting period expiration&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $363.20 · Mkt cap $175.99B · EV $182.83B · Fwd P/E 23.3x · Fwd EV/EBITDA 17.1x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/6281/000119312526385938/0001193125-26-385938-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ADI&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Electronic Equipment (3674) · 8k_tier1:7.01 · filed 2026-09-09&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · AA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1675149/000119312526385947/aa-20260909.htm</link>
@@ -11721,29 +11745,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.26 · Mkt cap $61.9M · EV $62.9M · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1490161/000182912626009427/0001829126-26-009427-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SOWG&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Food &amp;amp; Kindred (2000) · 8k_tier1:1.01 · filed 2026-08-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · BBCQ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2088295/000135445726000828/0001354457-26-000828-index.htm</link>
-      <guid isPermaLink="false">0001354457-26-000828</guid>
-      <pubDate>Thu, 27 Aug 2026 15:47:58 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>25-NSE</category>
-      <scanner:headline>Forced Nasdaq delisting effective Aug 27</scanner:headline>
-      <scanner:shortName>Bleichroeder Acquisition Corp. II</scanner:shortName>
-      <scanner:price>10.21</scanner:price>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>25-NSE</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>BBCQ</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Aug 27&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Bleichroeder Acquisition Corp. II&amp;#39;s Class A ordinary shares, warrants, and units are being delisted from Nasdaq effective Aug 27, 2026, under Rule 12d2-2(a)(3). The delisting is forced, and the securities will trade on OTC markets.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Bleichroeder Acquisition Corp. II focuses on effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses. The company was incorporated in 2025 and is based in New York, New York.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Delisting effective immediately; shares move to OTC&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.21 · Mkt cap $391.4M · EV $390.1M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2088295/000135445726000828/0001354457-26-000828-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BBCQ&lt;/b&gt; · 25-NSE · Holding / Investment Offices (6770) · prefill_form:25-NSE · filed 2026-08-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
