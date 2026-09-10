@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 20:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:55:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · UL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/217410/000199937126020328/mccormick-425_091026.htm</link>
+      <guid isPermaLink="false">0001999371-26-020328</guid>
+      <pubDate>Thu, 10 Sep 2026 15:55:41 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>425</category>
+      <scanner:headline>Sells Unilever Foods to McCormick</scanner:headline>
+      <scanner:shortName>UNILEVER</scanner:shortName>
+      <scanner:price>61.62</scanner:price>
+      <scanner:subtype />
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>UL</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Sells Unilever Foods to McCormick&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is selling its Foods business to McCormick. The 425 filing provides additional context on growth, synergies, and integration plans. No financial terms were disclosed in this communication.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Unilever PLC operates as a fast-moving consumer goods company in the Asia Pacific, Africa, the Americas, and Europe. It operates through four segments: Beauty &amp;amp; Wellbeing, Personal Care, Home Care, and Foods. The Beauty &amp;amp; Wellbeing segment offers hair care, such as shampoo, conditioner, and styling; face, hand, and body moisturizer skin care products; and Prestige Beauty and Wellbeing products.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; McCormick &amp;amp; Company&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $61.62 · Mkt cap $134.79B · EV $167.77B · Fwd P/E 16.4x · Fwd EV/EBITDA 12.2x · Consumer Staples / Personal Care Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/217410/000199937126020328/0001999371-26-020328-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UL, UNLYF&lt;/b&gt; · 425 · Chemicals / Pharma (2840) · prefill_form:425 · filed 2026-09-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · ZDGE</title>
       <link>https://www.sec.gov/Archives/edgar/data/1667313/000121390026098817/0001213900-26-098817-index.htm</link>
@@ -13390,33 +13416,6 @@
 &lt;p&gt;&lt;i&gt;Px $10.15 · Mkt cap $89.6M · EV $89.5M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2077033/000149315226040431/0001493152-26-040431-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MMTX, MMTXU, MMTXW&lt;/b&gt; · S-4 · Business Services (7371) · prefill_form:S-4 · filed 2026-08-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Settled · SLND</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1883814/000182912626009431/southland_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-009431</guid>
-      <pubDate>Thu, 27 Aug 2026 16:08:37 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-      <category>8-K</category>
-      <scanner:headline>Settles WSCC surety dispute for $5M; expects $29M Q3 gain</scanner:headline>
-      <scanner:shortName>Southland Holdings</scanner:shortName>
-      <scanner:price>0.7100</scanner:price>
-      <scanner:subtype>settled</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>SLND</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Settles WSCC surety dispute for $5M; expects $29M Q3 gain&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Settled its WSCC surety dispute with Liberty Mutual and Zurich, paying $5M to resolve approximately $36.4M in losses. Expects approximately $29M favorable pre-tax income impact in Q3 2026. Payment due by September 30, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Southland Holdings, Inc. engages in specialty infrastructure construction business in North America. The company operates through Civil and Transportation segments. The Civil segment designs and constructs water pipelines, pump stations, lift stations, water and wastewater treatment plants, concrete and structural steel, outfall, and tunneling.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Liberty Mutual, Zurich&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-26&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Payment due by Sept 30, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.7100 · Mkt cap $38.4M · EV $320.3M · Industrials / Construction and Engineering&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1883814/000182912626009431/0001829126-26-009431-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SLND, SLND-WT&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Construction; Heavy (1600) · 8k_tier1:1.01 · filed 2026-08-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

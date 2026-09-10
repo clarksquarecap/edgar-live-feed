@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 20:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:55:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$UL 📤 Divestiture
+Sells Unilever Foods to McCormick
+to McCormick &amp;
+Mcap $135B · EV $168B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/217410/000199937126020328/mccormick-425_091026.htm</link>
+      <guid isPermaLink="false">0001999371-26-020328</guid>
+      <pubDate>Thu, 10 Sep 2026 15:55:41 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$ZDGE 📍 Stake
 Increases stake to 15.9% of Class B; 61.4% voting power
@@ -654,37 +664,6 @@ Mcap $30M · Healthcare</title>
       <pubDate>Wed, 09 Sep 2026 16:00:58 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$SWVL 📍 Stake
-Acquires 38.9% stake in Swvl for $10M
-Mcap $64M · EV $59M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1875609/000110465926106376/0001104659-26-106376-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-106376</guid>
-      <pubDate>Wed, 09 Sep 2026 15:54:49 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$DEC 🤝 Merger
-Acquires Birch Permian for ~$1.8B; close Q4 2026
-Birch Permian Holdings · cash
-Mcap $1.1B · EV $4.1B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1922446/000192244626000086/dec-20260902.htm</link>
-      <guid isPermaLink="false">0001922446-26-000083</guid>
-      <pubDate>Wed, 09 Sep 2026 15:48:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CSR 🤝 Merger
-Acquired by IRT in all-stock merger; 3.8 IRT shares per share
-stock
-Mcap $885M · EV $2.0B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/798359/000114036126036068/ef20081819_425.htm</link>
-      <guid isPermaLink="false">0001437749-26-029905</guid>
-      <pubDate>Wed, 09 Sep 2026 15:47:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
