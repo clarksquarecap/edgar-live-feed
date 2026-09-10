@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 10:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:05:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DSGR 📦 Going Private
+Acquired by Eclipse Parent (LKCM) in going-private; 13E-3 filed
+Mcap $1.6B · EV $2.4B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/703604/000119312526387187/d169511d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-387187</guid>
+      <pubDate>Thu, 10 Sep 2026 06:05:55 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$CC ⚖️ Litigation · Settled
 Settles PFAS claims with North Carolina for $455M
@@ -836,16 +845,6 @@ Mcap $1.1B · EV $619M · Healthcare</title>
       <guid isPermaLink="false">0001193125-26-385881</guid>
       <pubDate>Wed, 09 Sep 2026 06:09:48 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SIG 💧 Capital Return · ASR
-Plans $125M ASR; YTD capital returns to 12% of cap
-Mcap $3.3B · EV $3.9B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/832988/000083298826000227/sig-20260904.htm</link>
-      <guid isPermaLink="false">0000832988-26-000227</guid>
-      <pubDate>Wed, 09 Sep 2026 06:03:12 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>accelerated_share_repurchase</category>
     </item>
   </channel>
 </rss>
