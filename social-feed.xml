@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 18:28:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:47:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$THFF 🤝 Merger
+Merges with First Illinois; close Q4 2026
+Mcap $919M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/714562/000110465926106666/tm2625208d1_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-106666</guid>
+      <pubDate>Thu, 10 Sep 2026 13:47:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DEVSF 🤝 Merger
 Postpones special meeting to Sept 17 for XCF Global merger
@@ -628,16 +638,6 @@ Mcap $31M · Cons Stpl</title>
       <pubDate>Wed, 09 Sep 2026 14:02:53 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$AEM 📤 Divestiture
-Sells Delta &amp; Helm Bay to Vizsla Copper for 19.99% stake, warrants, NSRs
-close Q4 2026
-Mcap $102B · EV $99B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2809/000110465926106256/tm2625112d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-106256</guid>
-      <pubDate>Wed, 09 Sep 2026 13:43:15 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
