@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 21:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:32:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ACVA 🤝 Merger
+Acquired by Copart for $10.50/share cash; tender offer to commence
+cash
+Mcap $1.3B · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637873/000095010326013780/dp253207_8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-388070</guid>
+      <pubDate>Thu, 10 Sep 2026 16:32:16 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$SUIG 🌍 Re-domicile
+Reincorporation to Delaware pending; vote adjourned to Oct 2
+Mcap $78M · EV $74M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1425355/000114036126036203/ef20081865_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-036205</guid>
+      <pubDate>Thu, 10 Sep 2026 16:32:05 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Faces Garg consent solicitation to remove 5 directors
+Vishal Garg / Garg
+Mcap $256M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002527/dfan14a14909002_09102026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002488</guid>
+      <pubDate>Thu, 10 Sep 2026 16:31:42 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$ARCL 🤝 Merger
 Acquires Firstborn Top Capital for $1B in stock
@@ -26,26 +56,6 @@ Mcap $293M · EV $293M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2043699/000095010326013781/dp253190_425.htm</link>
       <guid isPermaLink="false">0000950103-26-013626</guid>
       <pubDate>Thu, 10 Sep 2026 16:24:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SUIG 🌍 Re-domicile
-Adjourns AGM to Oct 2 for Delaware redomicile vote
-Mcap $78M · EV $74M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1425355/000114036126036205/ef20081868_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-036205</guid>
-      <pubDate>Thu, 10 Sep 2026 16:23:49 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$ACVA 🤝 Merger
-Acquired by Copart for $10.50 cash/share via tender offer
-cash
-Mcap $1.3B · EV $1.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526388070/d138322dsctoc.htm</link>
-      <guid isPermaLink="false">0001193125-26-388070</guid>
-      <pubDate>Thu, 10 Sep 2026 16:23:15 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -638,27 +648,6 @@ Mcap $1.7B · EV $1.6B · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/834365/000162828026061174/blfs-20260903.htm</link>
       <guid isPermaLink="false">0001193125-26-382362</guid>
       <pubDate>Wed, 09 Sep 2026 16:36:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VIVK 💧 Capital Return · Special Div
-Extends Adapti special dividend payment to Jan 29, 2027
-Mcap $7M · EV $42M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1450704/000182912626009949/vivakorinc_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-009949</guid>
-      <pubDate>Wed, 09 Sep 2026 16:32:18 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$LAB 🤝 Merger
-Acquires Treeline in all-stock reverse merger; Treeline holders to own 84%
-Treeline Biosciences · $2.5B deal · stock
-Mcap $272M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1162194/000114036126036084/ny20077604x3_s4a.htm</link>
-      <guid isPermaLink="false">0001140361-26-036084</guid>
-      <pubDate>Wed, 09 Sep 2026 16:30:37 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
