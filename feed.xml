@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 20:43:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:47:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · ZDGE</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1667313/000121390026098817/0001213900-26-098817-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-098817</guid>
+      <pubDate>Thu, 10 Sep 2026 15:47:16 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases stake to 15.9% of Class B; 61.4% voting power</scanner:headline>
+      <scanner:shortName>Zedge</scanner:shortName>
+      <scanner:price>3.06</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>ZDGE</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Increases stake to 15.9% of Class B; 61.4% voting power&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Michael Jonas, Executive Chairman of Zedge, increased his beneficial ownership to 15.9% of Class B common stock (61.4% of combined voting power) after receiving 4,233 shares on vesting of deferred stock units and being granted options for 386,244 shares (not yet exercisable). The increase also reflects the company&amp;#39;s share repurchases reducing outstanding shares.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Zedge, Inc. builds digital marketplaces and competitive games around content that people use to express themselves. The company offers the Zedge Ringtones and Wallpapers app, a freemium digital content marketplace that provides a wide array of mobile personalization content, including mobile phone wallpapers, video wallpapers, ringtones, and notification sounds; and pAInt, a generative AI wallpaper maker.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 15.9%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.06 · Mkt cap $38.3M · EV $18.9M · Fwd P/E 11.6x · Fwd EV/EBITDA 4.3x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1667313/000121390026098817/0001213900-26-098817-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZDGE&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7372) · fresh_13d · filed 2026-09-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · BSVN</title>
       <link>https://www.sec.gov/Archives/edgar/data/1746129/000114036126036192/ef20081805_8k.htm</link>
@@ -13390,30 +13417,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.7100 · Mkt cap $38.4M · EV $320.3M · Industrials / Construction and Engineering&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1883814/000182912626009431/0001829126-26-009431-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SLND, SLND-WT&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Construction; Heavy (1600) · 8k_tier1:1.01 · filed 2026-08-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · CDLR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2063345/000110465926102494/tm2510458-5_f4.htm</link>
-      <guid isPermaLink="false">0001104659-26-102494</guid>
-      <pubDate>Thu, 27 Aug 2026 16:08:28 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>F-4</category>
-      <scanner:headline>Redomiciles to UK via 1-for-1 share exchange; NYSE/OSE listing continues</scanner:headline>
-      <scanner:shortName>Cadeler</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>F-4</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>CDLR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>F-4</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Redomiciles to UK via 1-for-1 share exchange; NYSE/OSE listing continues&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Limited offers to exchange each Cadeler A/S share for one NewCo share, redomiciling from Denmark to the UK. The offer requires &amp;gt;90% tender; after completion, NewCo will be the ultimate parent and will initiate a squeeze-out. NewCo shares expected to list on OSE and NYSE under CADLR and CDLR, respectively.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Offer expiration&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2063345/000110465926102494/0001104659-26-102494-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CDLR&lt;/b&gt; · F-4 · Water Transportation (4412) · prefill_form:F-4 · filed 2026-08-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
