@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 21:32:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:56:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · ATER</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1757715/000182912626010004/0001829126-26-010004-index.htm</link>
+      <guid isPermaLink="false">0001829126-26-010004</guid>
+      <pubDate>Thu, 10 Sep 2026 16:56:53 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Issues $7M convertible preferred to CEO; 95.7% control</scanner:headline>
+      <scanner:shortName>Aterian</scanner:shortName>
+      <scanner:price>0.8600</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>ATER</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Issues $7M convertible preferred to CEO; 95.7% control&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Issued 1,750,000 Series AA and 1,750,000 Series AAA convertible preferred shares to CEO David Lazar for $7M cash. Upon conversion, Lazar holds 249.9M common shares, a 95.7% stake. The preferred converts at $0.25974 per share (Series AA) and per Series AAA terms. Lazar also gained board designation rights.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Aterian, Inc., together with its subsidiaries, operates as a consumer products company in North America, Chile, Colombia, Argentina, and internationally. The company offers home and kitchen appliances, kitchenware, air quality appliances, health and beauty products, and essential oils under the Squatty Potty, HomeLabs, Mueller Living, PurSteam, Healing Solutions, and Photo Paper Direct brand names.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; David Lazar&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $7,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 95.7%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-27&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.8600 · Mkt cap $11.6M · EV $9.1M · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1757715/000182912626010004/0001829126-26-010004-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ATER&lt;/b&gt; · SCHEDULE 13D · Electronic Equipment (3634) · fresh_13d · filed 2026-09-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · ACVA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1637873/000095010326013780/dp253207_8k.htm</link>
@@ -13393,33 +13420,6 @@
 &lt;p&gt;&lt;i&gt;Px $14.07 · Mkt cap $303.6M · EV $-3.8M · Fwd EV/EBITDA 0.1x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/897448/000089914026000972/0000899140-26-000972-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AMRN&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-08-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · EZRA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1812727/000109690626001319/0001096906-26-001319-index.htm</link>
-      <guid isPermaLink="false">0001096906-26-001319</guid>
-      <pubDate>Thu, 27 Aug 2026 17:24:17 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Takes 9.6% stake in Reliance Global; seeks value enhancement</scanner:headline>
-      <scanner:shortName>Reliance Global</scanner:shortName>
-      <scanner:price>2.38</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>EZRA</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Takes 9.6% stake in Reliance Global; seeks value enhancement&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;GNK Holdings acquired a 9.6% stake in Reliance Global Group (153,188 shares) at an average price of $2.64 per share. The group plans to engage with management and the board on business, capital allocation, and governance to enhance shareholder value.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Reliance Global Group, Inc. acquires, owns, and manages insurance distribution and technology-oriented businesses in the United States. The company operates RELI Exchange, a business-to-business InsurTech platform and partner network designed to support insurance agents and agencies through technology-enabled tools and operational infrastructure; and 5MinuteInsure.com, a direct-to-consumer InsurTech platform designed to enable consumers to compare, quote, and bind certain insurance products thro…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.6%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.38 · Mkt cap $2.2M · EV $6.7M · Financials / Insurance&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1812727/000109690626001319/0001096906-26-001319-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EZRA&lt;/b&gt; · SCHEDULE 13D · Insurance Agents (6411) · fresh_13d · filed 2026-08-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
