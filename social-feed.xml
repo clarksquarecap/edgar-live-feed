@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 11:55:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:08:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BSP 🤝 Merger
+Acquires Miro for $1.355B EV all-cash; close Q4 2026
+$1.355 billion enterprise value; ~$1.79 billion equity value deal · cash
+Mcap $12B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2004711/000200471126000015/bsp-20260910x6k.htm</link>
+      <guid isPermaLink="false">0002004711-26-000015</guid>
+      <pubDate>Thu, 10 Sep 2026 07:08:37 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CTVA ⚖️ Litigation · Settled
 Settles NC PFAS claims; $66M share of $455M
@@ -873,27 +884,6 @@ Mcap $25M · Comms</title>
       <pubDate>Wed, 09 Sep 2026 07:11:25 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$VRME 🤝 Merger
-OpenWorld merger vote Sept 24; combined co to trade as OPNW
-Mcap $8M · EV $4M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1104038/000121465926011488/r98261425.htm</link>
-      <guid isPermaLink="false">0001214659-26-011488</guid>
-      <pubDate>Wed, 09 Sep 2026 07:04:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ATKR 🤝 Merger
-Acquired by Prysmian for $95.00 cash; vote Oct 7
-Prysmian S.p.A. · cash
-Mcap $3.2B · EV $3.7B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1666138/000114036126035981/ny20080616x2_defm14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-035981</guid>
-      <pubDate>Wed, 09 Sep 2026 07:03:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
