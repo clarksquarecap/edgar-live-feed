@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 13:18:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:25:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ETCC 📤 Divestiture
+Sells 100% of Polish subsidiary ETC-PZL to Polsport
+Mcap $26M · EV $43M · Industrials</title>
+      <link>https://www.otcmarkets.com/stock/ETCC/news/534692</link>
+      <guid isPermaLink="false">OTC-534692</guid>
+      <pubDate>Thu, 10 Sep 2026 08:25:16 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$TBPH 🤝 Merger
 Faces Zymeworks merger vote Sept 18
@@ -772,26 +781,6 @@ Mcap $26B · EV $29B · Comms</title>
       <pubDate>Wed, 09 Sep 2026 08:25:40 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$FOX 🤝 Merger
-DOJ issues Second Request on Roku merger; close expected H1 2027
-Mcap $26B · EV $29B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1754301/000119312526385979/d176496d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-385979</guid>
-      <pubDate>Wed, 09 Sep 2026 08:19:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LGMK 📦 Going Private
-Acquired by Langham Project for $1.31 cash/share; special meeting vote pending
-cash
-Mcap $1M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1566826/000121390026098243/ea0302962-sc13e3a2_logic.htm</link>
-      <guid isPermaLink="false">0001213900-26-098243</guid>
-      <pubDate>Wed, 09 Sep 2026 08:19:13 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
   </channel>
 </rss>
