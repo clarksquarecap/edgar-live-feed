@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 12:26:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:38:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SKYX 🤝 Merger
+Acquires Deako for 25M shares (18.46%) + $4M cash + $8.5M notes
+cash+stk · close Q4 2026
+Mcap $190M · EV $211M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1598981/000149315226042086/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-042086</guid>
+      <pubDate>Thu, 10 Sep 2026 07:38:44 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MKGSF 🤝 Merger
 Acquires Comstock's Nevada mining assets for $20M cash + 2M shares + $7M
@@ -810,39 +821,6 @@ Mcap $885M · EV $2.0B · Real Estate</title>
       <pubDate>Wed, 09 Sep 2026 07:42:46 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ADI 🤝 Merger
-Acquires Alif Semiconductor for $1.35B cash + up to $200M earnout
-$1.35B (plus up to $200M contingent) deal · cash · close Q4 2026
-Mcap $176B · EV $183B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/6281/000119312526385938/d924057d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-385938</guid>
-      <pubDate>Wed, 09 Sep 2026 07:36:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AA 🤝 Merger
-Acquires South32's AliGroup ops; $2.6B notes fund $3.1B cash portion
-South32 Limited · cash
-Mcap $14B · EV $13B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1675149/000119312526385947/aa-20260909.htm</link>
-      <guid isPermaLink="false">0001193125-26-385947</guid>
-      <pubDate>Wed, 09 Sep 2026 07:36:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CCG 🤝 Merger · Preliminary
-Proposed $490M stock investment for 20% of Long Way Fortune, up to 51%
-US$490 million (implied equity value) deal · stock
-Mcap $35M · EV $39M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1965473/000149315226041892/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-041892</guid>
-      <pubDate>Wed, 09 Sep 2026 07:32:50 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 12:20:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:38:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · SKYX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1598981/000149315226042086/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-042086</guid>
+      <pubDate>Thu, 10 Sep 2026 07:38:44 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Deako for 25M shares (18.46%) + $4M cash + $8.5M notes</scanner:headline>
+      <scanner:shortName>SKYX Platforms</scanner:shortName>
+      <scanner:price>1.40</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>SKYX</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Deako for 25M shares (18.46%) + $4M cash + $8.5M notes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a definitive merger agreement to acquire Deako, Inc., an AI smart home and lighting systems company. Consideration includes 25,000,000 SKYX common shares (18.46% of outstanding), $4,000,000 cash, and $8,500,000 senior secured promissory notes. The merger requires Deako securityholder approval and other customary conditions, with a termination date of October 31, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SKYX Platforms Corp. provides a series of safe-smart platform technologies in the United States. Its first and second-generation technologies enable light fixtures, ceiling fans, and other electrically wired products to be installed and plugged into a ceiling’s electrical outlet box. The company also provides universal power-plugs and receptacle products.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Deako, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Deako securityholder approval&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.40 · Mkt cap $189.6M · EV $211.2M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1598981/000149315226042086/0001493152-26-042086-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SKYX&lt;/b&gt; · 8-K · Items 1.01, 2.03, 3.02, 7.01, 8.01, 9.01 · Electronic Equipment (3640) · 8k_tier1:1.01,7.01,8.01 · filed 2026-09-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · MKGSF</title>
       <link>https://mackaycorp.com/wp-content/uploads/2026/06/NR-_2026_Land_Consolidation_-_June_22_2026_Final.pdf</link>
@@ -11734,30 +11758,6 @@
 &lt;p&gt;&lt;i&gt;Px $57.33 · Mkt cap $85.09B · EV $94.95B · Fwd P/E 18.8x · Fwd EV/EBITDA 10.2x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/87347/000119312526375358/0001193125-26-375358-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SLB&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Oil &amp;amp; Gas (1389) · 8k_tier1:7.01 · filed 2026-08-31&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · Debt For Equity Swap · GME</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326380/000132638026000046/gme-20260831.htm</link>
-      <guid isPermaLink="false">0001326380-26-000046</guid>
-      <pubDate>Mon, 31 Aug 2026 06:08:02 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>debt_for_equity_swap</category>
-      <category>8-K</category>
-      <scanner:headline>Amends $1.4B convertible note exchange: 55.5M shares + $358M cash</scanner:headline>
-      <scanner:shortName>GameStop</scanner:shortName>
-      <scanner:price>17.87</scanner:price>
-      <scanner:subtype>debt_for_equity_swap</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>GME</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Amends $1.4B convertible note exchange: 55.5M shares + $358M cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Amended its exchange agreements for its 0% convertible senior notes due 2030 and 2032, converting $1.4B aggregate principal into approximately 55.5 million shares of common stock (73% of consideration) and $358.4 million in cash (27%). The amendment terminates the remaining reference period; closing expected on or about September 3, 2026. The company also reported preliminary Q2 net sales of $780-800M and net income of $290-310M.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; GameStop Corp., a specialty retailer, provides games, collectibles, and entertainment products through its stores and e-commerce platforms in United States, Australia and Europe. The company sells new and pre-owned gaming platforms; accessories, such as controllers, gaming headsets, and other peripheral devices; new and pre-owned gaming software; and in-game digital currency, digital downloadable content, and full-game downloads.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Existing convertible noteholders&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $1.4B&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing of exchange on or about September 3, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $17.87 · Mkt cap $8.02B · EV $3.99B · Fwd P/E 14.3x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1326380/000132638026000046/0001326380-26-000046-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GME, GME-WT&lt;/b&gt; · 8-K · Items 1.01, 2.02, 3.02, 7.01, 9.01 · Retail — Furniture (5734) · 8k_tier1:1.01,7.01 · filed 2026-08-31&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
