@@ -6,8 +6,41 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 20:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:32:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LCII 🤝 Merger
+Refiles HSR for Patrick merger; new waiting period
+Patrick Industries
+Mcap $2.3B · EV $3.3B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/763744/000076374426000084/lcii-20260904.htm</link>
+      <guid isPermaLink="false">0000763744-26-000085</guid>
+      <pubDate>Thu, 10 Sep 2026 15:31:50 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MOD 🤝 Merger
+Acquires Gentherm; spinoff of Performance Technologies; becomes Modexus
+close 2026-10-01
+Mcap $9.9B · EV $10B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/67347/000110465926106727/tm2625001d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-106728</guid>
+      <pubDate>Thu, 10 Sep 2026 15:31:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$ET 📉 Delisting · Voluntary
+Voluntarily delists from NYSE; TXSE trading Oct 5
+effective 2026-10-05
+Mcap $75B · EV $163B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1276187/000127618726000044/et-20260903.htm</link>
+      <guid isPermaLink="false">0001276187-26-000044</guid>
+      <pubDate>Thu, 10 Sep 2026 15:30:30 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$USAC 📉 Delisting · Voluntary
 Voluntarily delists from NYSE; lists on TXSE Oct 5
@@ -39,28 +72,6 @@ Mcap $4.2B · EV $24B · Energy</title>
       <pubDate>Thu, 10 Sep 2026 15:27:42 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$LCII 🤝 Merger
-Refiles HSR; new waiting period for Patrick merger
-Patrick Industries
-Mcap $2.3B · EV $3.3B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/763744/000076374426000085/lciiform-hsrrefiling2026.htm</link>
-      <guid isPermaLink="false">0000763744-26-000085</guid>
-      <pubDate>Thu, 10 Sep 2026 15:27:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MOD 🤝 Merger
-Merges with Gentherm; close Oct 1
-close 2026-10-01
-Mcap $9.9B · EV $10B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/67347/000110465926106728/tm2625001d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-106728</guid>
-      <pubDate>Thu, 10 Sep 2026 15:26:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$ETD ⚔️ Proxy
