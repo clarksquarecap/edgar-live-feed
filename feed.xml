@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 17:51:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 18:16:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · DEVSF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1854480/000114036126036159/ef20081844_8k.htm</link>
+      <guid isPermaLink="false">0001213900-26-098554</guid>
+      <pubDate>Thu, 10 Sep 2026 13:16:18 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Postpones special meeting to Sept 17 for XCF Global merger</scanner:headline>
+      <scanner:shortName>DevvStream</scanner:shortName>
+      <scanner:price>0.1800</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>DEVSF</scanner:ticker>
+      <scanner:filings>3</scanner:filings>
+      <scanner:filingForms>425, DEFA14A, 8-K</scanner:filingForms>
+      <scanner:related>SAFX</scanner:related>
+      <description>&lt;p&gt;&lt;b&gt;Postpones special meeting to Sept 17 for XCF Global combination&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Postponed its special meeting of shareholders to September 17, 2026, in connection with the proposed business combination with XCF Global and Southern Energy. The meeting was previously scheduled for September 10, 2026. The record date remains July 29, 2026, and previously submitted proxies remain valid.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; DevvStream Corp. engages in the development and monetization of environmental assets in Canada. The company offers energy transition and carbon management solutions, as well as blockchain technology for carbon credit generating projects. It is also involved in the project development of EV charging stations and networks. The company is headquartered in Vancouver, Canada.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; XCF Global, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting on September 17, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.1800 · Mkt cap $7.6M · EV $13.9M · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1854480/000114036126036160/0001140361-26-036160-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DEVSF&lt;/b&gt; · DEFA14A · Holding / Investment Offices (6799) · prefill_form:DEFA14A · filed 2026-09-10&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 10 13:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1854480/000114036126036159/ef20081844_8k.htm'&gt;Postpones special meeting to Sept 17 for XCF Global merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 10 13:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1854480/000114036126036160/ef20081844_defa14a.htm'&gt;Postpones special meeting to Sept 17 for XCF Global combination&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 10 05:04 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2019793/000121390026098554/ea0305080-425_xcf.htm'&gt;Postpones special meeting to Sept 24 for DevvStream/Southern Energy combination&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty SAFX also filed 425&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Buyback Authorization · CPBI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1979332/000119312526387526/cpbi-20260909.htm</link>
@@ -727,33 +757,6 @@
 &lt;p&gt;&lt;i&gt;Px $33.82 · Mkt cap $15.08B · EV $30.41B · Fwd P/E 6.3x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1889539/000114036126036101/0001140361-26-036101-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CRBD, CRBG&lt;/b&gt; · 425 · Insurance (6311) · prefill_form:425 · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SAFX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2019793/000121390026098554/ea0305080-425_xcf.htm</link>
-      <guid isPermaLink="false">0001213900-26-098554</guid>
-      <pubDate>Thu, 10 Sep 2026 05:04:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Postpones special meeting to Sept 24 for DevvStream/Southern Energy combination</scanner:headline>
-      <scanner:shortName>XCF Global</scanner:shortName>
-      <scanner:price>0.4100</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>SAFX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Postpones special meeting to Sept 24 for DevvStream/Southern Energy combination&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Postponed its special meeting to September 24, 2026, and DevvStream&amp;#39;s to September 17, 2026, to allow more time for preparations for the proposed three-way business combination with Southern Energy. The record date remains July 29, 2026; previously submitted proxies remain valid.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; XCF Global, Inc. manufactures and sells renewable fuels in the United States. It develops and operates clean fuel production facilities to produce clean-burning and sustainable biofuels, sustainable aviation fuels, and renewable diesel and naphtha products; and sells environmental credits. XCF Global, Inc. was founded in 2016 and is headquartered in Houston, Texas.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; DevvStream and Southern Energy&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting September 24, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.4100 · Mkt cap $161.5M · EV $418.6M · Fwd EV/EBITDA 12.0x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2019793/000121390026098554/0001213900-26-098554-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SAFX&lt;/b&gt; · 425 · Chemicals / Pharma (2860) · prefill_form:425 · filed 2026-09-10&lt;/p&gt;</description>
     </item>
     <item>
       <title>⚔️ Proxy Contest · AVXL</title>
