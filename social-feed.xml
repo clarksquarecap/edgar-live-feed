@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 20:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:26:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ETD ⚔️ Proxy
+5.2% holder launches CEO search and proxy contest
+Mcap $547M · EV $534M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/896156/000092189526002525/dfan14a14857002_09102026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002525</guid>
+      <pubDate>Thu, 10 Sep 2026 15:26:32 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$SURG 📤 Divestiture
 Sells ClearLine and GPOX Wireless to GPO Plus for $27.5M in preferred
@@ -600,54 +609,6 @@ Mcap $109B · EV $197B · Energy</title>
       <pubDate>Wed, 09 Sep 2026 15:35:03 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TRSO 🤝 Merger
-Acquires 51% stake in Zhongke Haichuang
-Mcap $14M · EV $14M · Industrials</title>
-      <link>https://www.otcmarkets.com/stock/TRSO/news/534569</link>
-      <guid isPermaLink="false">OTC-534569</guid>
-      <pubDate>Wed, 09 Sep 2026 15:26:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LXFR 🤝 Merger
-HSR waiting period expires for Wynnchurch acquisition
-Wynnchurch Capital
-Mcap $463M · EV $521M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1096056/000207709626000244/ea0304990-8k_luxfer.htm</link>
-      <guid isPermaLink="false">0002077096-26-000246</guid>
-      <pubDate>Wed, 09 Sep 2026 15:24:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RSG 📍 Stake
-Boosts Republic Services stake to 37.9% with 3.76M share purchase
-Mcap $68B · EV $82B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1060391/000110465926106327/0001104659-26-106327-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-106327</guid>
-      <pubDate>Wed, 09 Sep 2026 15:17:21 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$FRTT 📍 Stake
-Discloses 71.8% controlling stake in Fort Technology
-Mcap $14M · EV $14M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2092967/000121390026098398/0001213900-26-098398-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-098398</guid>
-      <pubDate>Wed, 09 Sep 2026 15:17:13 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SKIL 📤 Divestiture
-Completes sale of Global Knowledge to Enduring Ventures
-Mcap $60M · EV $527M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1774675/000143774926029980/skil20260626_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-029980</guid>
-      <pubDate>Wed, 09 Sep 2026 15:16:45 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
