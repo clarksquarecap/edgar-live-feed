@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 14:13:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:20:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · HEPS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850235/000119312526387494/0001193125-26-387494-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-387494</guid>
+      <pubDate>Thu, 10 Sep 2026 10:19:58 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Stake raised to 88.95% by Kaspi.kz via TRY 9.3B subscription and $57.7M ADS purchase</scanner:headline>
+      <scanner:shortName>D-MARKET Electronic Services &amp; Trading</scanner:shortName>
+      <scanner:price>2.64</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>HEPS</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Stake raised to 88.95% by Kaspi.kz via TRY 9.3B subscription and $57.7M ADS purchase&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Saw its controlling shareholder Kaspi.kz increase its stake to 88.95% by exercising pre-emptive rights to subscribe for 71,428,500 ordinary shares for TRY 9,321,419,250 and agreeing to purchase 19,547,401 ADSs from VR Global Partners at $2.95 per ADS for $57,664,832.95. The ADS purchase is expected to close on or around September 14, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; D-Market Elektronik Hizmetler ve Ticaret A.S. operates e-commerce platforms in Turkey. The company operates a retail website that provides electronics and non-electronics products, such as books, sports, toys, kids and baby products, cosmetics, furniture, etc. It also operates HepsiJet that provides last-mile delivery services; HepsiLojistik, which offers fulfillment services; HepsiMat, an offline network of pick-up and drop-off point; HepsiAd that provides advertising service; and Hepsipay and …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Kaspi.kz&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 88.95%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing of ADS purchase from VR Global Partners&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.64 · Mkt cap $943.1M · EV $800.0M · Fwd EV/EBITDA 19.5x · Consumer Discretionary / Broadline Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1850235/000119312526387494/0001193125-26-387494-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HEPS&lt;/b&gt; · SCHEDULE 13D/A · Retail — Misc (5961) · fresh_13d · filed 2026-09-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · Ambea AB</title>
       <link>https://www.sec.gov/Archives/edgar/data/2151906/000182912626009970/ambeaab_form-cb.htm</link>
@@ -11728,30 +11752,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.6000 · Mkt cap $227.1M · EV $71.3M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1819142/000087666126000716/0000876661-26-000716-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SES, SESCW&lt;/b&gt; · 25-NSE · Electronic Equipment (3690) · prefill_form:25-NSE · filed 2026-08-31&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BEPC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1791863/000110465926103585/tm2624037d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-103585</guid>
-      <pubDate>Mon, 31 Aug 2026 07:56:12 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>6-K</category>
-      <scanner:headline>Exchange BEPC/BEP shares for new Canadian corp; vote Oct 14</scanner:headline>
-      <scanner:shortName>Brookfield Renewable</scanner:shortName>
-      <scanner:price>32.29</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Utilities</scanner:sector>
-      <scanner:ticker>BEPC</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Exchange BEPC/BEP shares for new Canadian corp; vote Oct 14&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Shareholders will vote on a special resolution approving an arrangement to simplify the corporate structure by exchanging BEPC and Brookfield Renewable Partners L.P. securities for shares of a publicly traded Canadian corporation. The special meeting is scheduled for October 14, 2026, with proxies due by October 9, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Brookfield Renewable Corporation owns and operates a portfolio of renewable power and sustainable solution assets. The company’s portfolio consists of hydroelectric, wind, utility-scale solar, distributed generation, pumped storage, carbon capture and storage, cogeneration, biomass, and eFuels. Its operations consist of approximately 13,396 megawatts of installed hydroelectric, wind, utility-scale solar, and distributed energy and sustainable solutions capacity across North America, South Americ…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-26&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting October 14, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $32.29 · Mkt cap $11.15B · EV $35.85B · Fwd EV/EBITDA 12.1x · Utilities / Independent Power and Renewable Electricity Producers&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1791863/000110465926103585/0001104659-26-103585-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BEPC&lt;/b&gt; · 6-K · Utilities (4911) · prefill_form:6-K · filed 2026-08-31&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

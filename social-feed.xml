@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 15:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:20:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HEPS 📍 Stake
+Stake raised to 88.95% by Kaspi.kz via TRY 9.3B subscription and $57.7M ADS purchase
+Mcap $943M · EV $800M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1850235/000119312526387494/primary_doc.xml</link>
+      <guid isPermaLink="false">0001193125-26-387494</guid>
+      <pubDate>Thu, 10 Sep 2026 10:19:58 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$ETCC 📤 Divestiture
 Sells 100% of Polish subsidiary ETC-PZL to Polsport
@@ -711,15 +720,6 @@ Mcap $92M · EV $144M · Cons Disc</title>
       <guid isPermaLink="false">0000921895-26-002507</guid>
       <pubDate>Wed, 09 Sep 2026 12:05:47 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$HELP 📍 Stake
-Insider 13D: 5.8% stake via RSUs and $1.04M buy
-Mcap $905M · EV $739M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1833141/000091228226001247/primary_doc.xml</link>
-      <guid isPermaLink="false">0000912282-26-001247</guid>
-      <pubDate>Wed, 09 Sep 2026 10:14:18 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
