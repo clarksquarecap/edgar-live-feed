@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 10:18:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:18:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · SWMR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2092574/000110465926106499/tm2625021d3_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-106499</guid>
+      <pubDate>Thu, 10 Sep 2026 05:18:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Ratel Robotics for $7.2M cash + 1.06M shares + earnouts</scanner:headline>
+      <scanner:shortName>Swarmer</scanner:shortName>
+      <scanner:price>35.33</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>SWMR</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Ratel Robotics for $7.2M cash + 1.06M shares + earnouts&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a definitive agreement to acquire Ratel Robotics, a Ukrainian robotics company, for an estimated $7.2M cash at closing, 1,064,942 shares, plus up to $7.2M cash and 4,422,125 shares in earnouts tied to 2026-2028 revenue/operating income targets. The deal requires stockholder approval for the stock issuance and is expected to close in Q4 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Swarmer, Inc develops autonomous drone swarm software and artificial intelligence solutions in the United States. The company specializes in software platforms and AI systems for military organizations to deploy and coordinate unmanned systems operations. Its services include autonomous swarm coordination, multi-domain unmanned systems integration, AI-powered collaborative autonomy, and command and control software for distributed robotic operations.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ratel Robotics&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder approval meeting for stock issuance&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $35.33 · Mkt cap $409.8M · EV $384.9M · Industrials / Aerospace and Defense&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2092574/000110465926106499/0001104659-26-106499-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SWMR&lt;/b&gt; · 8-K · Items 1.01, 3.02, 7.01, 9.01 · Business Services (7372) · 8k_tier1:1.01,7.01 · filed 2026-09-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · AXGN</title>
       <link>https://www.sec.gov/Archives/edgar/data/805928/000162828026061208/axgn-20260909.htm</link>
@@ -11735,27 +11759,6 @@
 &lt;p&gt;&lt;i&gt;Px $52.38 · Mkt cap $1.85B · EV $1.89B · Fwd EV/EBITDA 13.4x · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2068385/000093583626000468/0000935836-26-000468-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SHAZ, SHAZW&lt;/b&gt; · SCHEDULE 13D · Business Services (7374) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · SEQC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/ea0303608-8k_seeqc.htm</link>
-      <guid isPermaLink="false">0001213900-26-095141</guid>
-      <pubDate>Fri, 28 Aug 2026 16:43:20 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>busted_ma</category>
-      <category>8-K</category>
-      <scanner:headline>Terminates merger with Allegro Merger Corp.</scanner:headline>
-      <scanner:shortName>SeeQC</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>SEQC</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Terminates merger with Allegro Merger Corp.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;SeeQC and Allegro Merger Corp. mutually terminated their merger agreement effective Aug 25, 2026. Under the termination agreement, if SeeQC completes a Trigger Event (certain equity financing or business combination), it will pay up to $2M of Allegro&amp;#39;s documented expenses and issue $6M in SeeQC shares based on a $1.3B pre-money valuation. All claims are released, and SeeQC is free to pursue other transactions before the Oct 31, 2026 outside date.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Allegro Merger Corp.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Potential new transaction before Oct 31, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/0001213900-26-095141-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SEQC&lt;/b&gt; · 8-K · Items 1.02, 9.01 · Business Services (7374) · 8k_tier1:1.02 · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
