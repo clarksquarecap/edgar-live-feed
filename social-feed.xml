@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 10:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:09:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AA 🤝 Merger
+Prices $2.6B notes to fund $3.1B cash for South32 asset acquisition
+South32 Limited · cash
+Mcap $14B · EV $13B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1675149/000119312526386787/aa-20260909.htm</link>
+      <guid isPermaLink="false">0001193125-26-386787</guid>
+      <pubDate>Thu, 10 Sep 2026 05:09:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CRBD 🤝 Merger
 S-4 effective; proxy mailing commenced for merger with Equitable
@@ -835,16 +846,6 @@ Mcap $9M · EV $8M · Healthcare</title>
       <pubDate>Wed, 09 Sep 2026 05:38:31 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SKHY 📤 Divestiture
-Weighing sale of Chongqing packaging plant stake; reported ~W4T
-Won 4 trillion (reported) deal
-Mcap $974B · EV $948B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2120882/000119312526385841/d80436d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-385841</guid>
-      <pubDate>Wed, 09 Sep 2026 05:09:23 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
