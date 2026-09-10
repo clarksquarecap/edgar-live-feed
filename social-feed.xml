@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 20:02:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:08:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PRLG 🤝 Merger
+Acquired by TDAC; up to 21.9M shares + 15.7M warrants
+stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2137754/000119312526387847/d11069df4a.htm</link>
+      <guid isPermaLink="false">0001193125-26-387847</guid>
+      <pubDate>Thu, 10 Sep 2026 15:08:43 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$ROKU 🤝 Merger
+Acquired by Fox for $22B; DOJ second request
+$22 billion deal · stock · close H1 2027
+Mcap $23B · EV $21B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1428439/000119312526387859/d114415d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-385979</guid>
+      <pubDate>Thu, 10 Sep 2026 15:08:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DSGR 📍 Stake
 Receives 13D/A from LKCM group; ~64% combined stake
@@ -607,15 +628,6 @@ Mcap $60M · EV $527M · Industrials</title>
       <guid isPermaLink="false">0001437749-26-029980</guid>
       <pubDate>Wed, 09 Sep 2026 15:16:45 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CMMB 📍 Stake
-Exercises pre-funded warrants; stake now 12.5%
-Mcap $20M · EV $13M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1534248/000110465926106301/0001104659-26-106301-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-106301</guid>
-      <pubDate>Wed, 09 Sep 2026 15:02:42 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
