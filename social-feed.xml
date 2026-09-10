@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 20:55:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:02:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OKE 🌍 Re-domicile
+Reorganizes into new holding company; Apollo invests $9B
+Mcap $60B · EV $93B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1039684/000119312526387972/d81803d8k12b.htm</link>
+      <guid isPermaLink="false">0001193125-26-387972</guid>
+      <pubDate>Thu, 10 Sep 2026 16:02:02 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
+    <item>
+      <title>$PATK 🤝 Merger
+Refiles HSR for LCI merger; restarts waiting period
+LCI Industries · stock
+Mcap $2.5B · EV $4.1B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/76605/000007660526000086/patk0910268-k425filing.htm</link>
+      <guid isPermaLink="false">0000763744-26-000085</guid>
+      <pubDate>Thu, 10 Sep 2026 16:00:06 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$UL 📤 Divestiture
 Sells Unilever Foods to McCormick
@@ -76,17 +96,6 @@ Mcap $68M · EV $41M · Financials</title>
       <guid isPermaLink="false">0001193125-26-387898</guid>
       <pubDate>Thu, 10 Sep 2026 15:31:54 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$PATK 🤝 Merger
-Refiles HSR for LCI merger; new waiting period
-LCI Industries
-Mcap $2.5B · EV $4.1B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/76605/000007660526000084/patk-20260904.htm</link>
-      <guid isPermaLink="false">0000763744-26-000085</guid>
-      <pubDate>Thu, 10 Sep 2026 15:31:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$MOD 🤝 Merger
@@ -654,16 +663,6 @@ Mcap $12B · EV $20B · Utilities</title>
       <pubDate>Wed, 09 Sep 2026 16:02:38 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BRNS 📉 Delisting · Voluntary
-Voluntary delisting of ADSs effective Sept 9
-Mcap $30M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1828185/000110465926106382/tm2624972d7_25.htm</link>
-      <guid isPermaLink="false">0001104659-26-106382</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:58 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
