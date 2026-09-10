@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 21:56:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:57:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · GME</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326380/000092189526002530/0000921895-26-002530-index.htm</link>
+      <guid isPermaLink="false">0000921895-26-002530</guid>
+      <pubDate>Thu, 10 Sep 2026 16:57:11 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Buys 1M GME shares at $20.38; stake rises to 8.5%</scanner:headline>
+      <scanner:shortName>GameStop</scanner:shortName>
+      <scanner:price>20.39</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>GME</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Buys 1M GME shares at $20.38; stake rises to 8.5%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ryan Cohen purchased 1,000,000 GameStop Corp. Class A shares in the open market on September 10, 2026 at a weighted average price of $20.3759 per share (range $20.0199-$20.4699), raising his beneficial ownership to 43,082,626 shares, or approximately 8.5% of shares outstanding (including 3,734,784 warrant shares). The purchase cost approximately $20.4M and follows Amendment No. 15.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; GameStop Corp., a specialty retailer, provides games, collectibles, and entertainment products through its stores and e-commerce platforms in United States, Australia and Europe. The company sells new and pre-owned gaming platforms; accessories, such as controllers, gaming headsets, and other peripheral devices; new and pre-owned gaming software; and in-game digital currency, digital downloadable content, and full-game downloads.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $20.4M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 8.5%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $20.39 · Mkt cap $8.92B · EV $8.20B · Fwd P/E 13.8x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1326380/000092189526002530/0000921895-26-002530-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GME, GME-WT&lt;/b&gt; · SCHEDULE 13D/A · Retail; Furniture (5734) · fresh_13d · filed 2026-09-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · ATER</title>
       <link>https://www.sec.gov/Archives/edgar/data/1757715/000182912626010004/0001829126-26-010004-index.htm</link>
@@ -13393,33 +13420,6 @@
 &lt;p&gt;&lt;i&gt;Px $23.89 · Mkt cap $607.9M · EV $595.0M · Fwd P/E 16.4x · Fwd EV/EBITDA 10.3x · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002351/0000921895-26-002351-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ETD&lt;/b&gt; · SCHEDULE 13D/A · Furniture (2511) · fresh_13d · filed 2026-08-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · AMRN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/897448/000089914026000972/0000899140-26-000972-index.htm</link>
-      <guid isPermaLink="false">0000899140-26-000972</guid>
-      <pubDate>Thu, 27 Aug 2026 17:59:45 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Receives 13D/A from Sarissa Capital; 6.09% stake</scanner:headline>
-      <scanner:shortName>AMARIN CORP PLC\UK</scanner:shortName>
-      <scanner:price>14.07</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>AMRN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Sarissa Capital; 6.09% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Sarissa Capital Management LP (Alexander Denner) filed Amendment No. 16 to its Schedule 13D on Amarin, reporting beneficial ownership of 25,743,900 ordinary shares (6.09% of class, 1 ADS = 20 ordinary shares). The amendment reports transactions within the past 60 days and amends Items 2(b), 5(a), 5(c), and 7. Sarissa has run an active campaign at Amarin since 2022, including requisitioning shareholder meetings and pushing for board changes.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Amarin Corporation plc, a pharmaceutical company, engages in the commercialization and development of therapeutics for the treatment of cardiovascular diseases in the United States, Europe, and internationally. It offers VASCEPA, a prescription-only omega-3 fatty acid product, used as an adjunct to diet for reducing triglyceride levels in adult patients with severe hypertriglyceridemia.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Sarissa Capital Management LP&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.09%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $14.07 · Mkt cap $303.6M · EV $-3.8M · Fwd EV/EBITDA 0.1x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/897448/000089914026000972/0000899140-26-000972-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AMRN&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-08-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
