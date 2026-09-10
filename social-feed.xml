@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 20:39:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:40:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NHP 📤 Divestiture
+Sells 30 of 86 medical facilities for ~$79M net cash; repays $119M debt
+~$79 million (first tranche net cash proceeds) deal
+Mcap $1.0B · EV $1.6B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1561032/000156103226000058/hct-20260910.htm</link>
+      <guid isPermaLink="false">0001561032-26-000058</guid>
+      <pubDate>Thu, 10 Sep 2026 15:40:54 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$AVXL ⚔️ Proxy
+Nominates six directors at Anavex; investor call Sept 16
+Mcap $255M · EV $137M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226042192/formdfan14a.htm</link>
+      <guid isPermaLink="false">0001493152-26-040286</guid>
+      <pubDate>Thu, 10 Sep 2026 15:40:22 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$GEG 👀 Activist
 Forbears PIK Note conversion until Nov 2027
@@ -427,16 +446,6 @@ Mcap $15B · EV $30B · Financials</title>
       <pubDate>Thu, 10 Sep 2026 05:06:26 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$AVXL ⚔️ Proxy
-Faces PVG proxy contest; six nominees; AGM Sept 24
-PVG Asset Management
-Mcap $265M · EV $147M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226042019/formdfan14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-040286</guid>
-      <pubDate>Thu, 10 Sep 2026 05:04:05 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
     <item>
       <title>$ABTS 👀 Activist
