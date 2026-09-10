@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 21:57:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 22:34:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · QVCG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1254699/000149315226042257/0001493152-26-042257-index.htm</link>
+      <guid isPermaLink="false">0001493152-26-042257</guid>
+      <pubDate>Thu, 10 Sep 2026 17:34:03 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Buys 1.6M shares at $16.25 from Silver Point; stake now 22%</scanner:headline>
+      <scanner:shortName>QVC Group</scanner:shortName>
+      <scanner:price>16.76</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>QVCG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Buys 1.6M shares at $16.25 from Silver Point; stake now 22%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;GoldenTree Asset Management increased its stake in QVC Group to 22% by purchasing 1.6M shares at $16.25 per share from Silver Point Capital for $26M. The purchase closed on September 8, 2026. GoldenTree now holds 10,991,951 shares.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; QVC Group Inc., together with its subsidiaries, engages in the video and online commerce industries in North America, Europe, and Asia. The company produces and sells various consumer products primarily through merchandise-focused televised shopping programs, internet, and mobile applications. It also consists of a portfolio of aspirational home and apparel brands in the U.S. that sell merchandise through brick-and-mortar retail locations, as well as via the internet through their websites.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Silver Point Capital, L.P.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 16.25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 26000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 22.0%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $16.76 · Mkt cap $843.0M · EV $125.0M · Fwd EV/EBITDA 0.0x · Consumer Discretionary / Broadline Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1254699/000149315226042257/0001493152-26-042257-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QVCG&lt;/b&gt; · SCHEDULE 13D/A · Retail; Misc (5961) · fresh_13d · filed 2026-09-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · GME</title>
       <link>https://www.sec.gov/Archives/edgar/data/1326380/000092189526002530/0000921895-26-002530-index.htm</link>
@@ -13393,33 +13420,6 @@
 &lt;p&gt;&lt;i&gt;Px $8.93 · Mkt cap $26.1M · EV $274.4M · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1595527/000095014226002447/0000950142-26-002447-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NYC&lt;/b&gt; · SCHEDULE 13D/A · Holding / Investment Offices (6798) · fresh_13d · filed 2026-08-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · ETD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/896156/000092189526002351/0000921895-26-002351-index.htm</link>
-      <guid isPermaLink="false">0000921895-26-002351</guid>
-      <pubDate>Thu, 27 Aug 2026 18:12:02 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Nominates Bergeron to Ethan Allen board; 5% stake</scanner:headline>
-      <scanner:shortName>ETHAN ALLEN INTERIORS</scanner:shortName>
-      <scanner:price>23.89</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>ETD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Nominates Bergeron to Ethan Allen board; 5% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DGB Investment group, led by Douglas Bergeron, disclosed a 5.0% stake in Ethan Allen Interiors and nominated Bergeron for election to the board. The group amended its Schedule 13D to reflect the nomination and the removal of Lindsay O&amp;#39;Reilly from the group.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ethan Allen Interiors Inc. operates as an interior design company, and manufacturer and retailer of home furnishings in the United States and internationally. The company operates through two segments, Wholesale and Retail. It offers case goods items, such as beds, dressers, armoires, tables, chairs, buffets, entertainment units, home office furniture, and wooden accents; upholstery comprising fabric-covered items, such as sleepers, recliners and other motion furniture, chairs, ottomans, custom …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.0%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-25&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $23.89 · Mkt cap $607.9M · EV $595.0M · Fwd P/E 16.4x · Fwd EV/EBITDA 10.3x · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002351/0000921895-26-002351-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ETD&lt;/b&gt; · SCHEDULE 13D/A · Furniture (2511) · fresh_13d · filed 2026-08-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
