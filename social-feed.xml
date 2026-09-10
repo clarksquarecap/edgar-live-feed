@@ -6,16 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 20:32:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:39:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
-      <title>$LCII 🤝 Merger
-Refiles HSR for Patrick merger; new waiting period
-Patrick Industries
-Mcap $2.3B · EV $3.3B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/763744/000076374426000084/lcii-20260904.htm</link>
+      <title>$GEG 👀 Activist
+Forbears PIK Note conversion until Nov 2027
+23.3 stake
+Mcap $68M · EV $41M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1831096/000119312526387898/0001193125-26-387898-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-387898</guid>
+      <pubDate>Thu, 10 Sep 2026 15:31:54 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$PATK 🤝 Merger
+Refiles HSR for LCI merger; new waiting period
+LCI Industries
+Mcap $2.5B · EV $4.1B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/76605/000007660526000084/patk-20260904.htm</link>
       <guid isPermaLink="false">0000763744-26-000085</guid>
-      <pubDate>Thu, 10 Sep 2026 15:31:50 -0500</pubDate>
+      <pubDate>Thu, 10 Sep 2026 15:31:53 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -655,25 +665,6 @@ Mcap $166M · EV $211M · Industrials</title>
       <guid isPermaLink="false">0001140361-26-036066</guid>
       <pubDate>Wed, 09 Sep 2026 15:41:27 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$SPWR 📍 Stake
-Increases SunPower stake to 19.5% via notes, warrants, options
-Mcap $70M · EV $206M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1838987/000121390026098417/0001213900-26-098417-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-098417</guid>
-      <pubDate>Wed, 09 Sep 2026 15:35:19 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ENB 🤝 Merger
-Acquires Tallgrass Energy's crude oil transportation and storage assets
-Mcap $109B · EV $197B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/895728/000110465926106344/tm2624881d6_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-106344</guid>
-      <pubDate>Wed, 09 Sep 2026 15:35:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
