@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 11:05:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:11:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DSGR 📦 Going Private
+Taken private by LKCM affiliate; proxy vote pending
+Mcap $1.6B · EV $2.4B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/703604/000119312526387198/d169511ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-387198</guid>
+      <pubDate>Thu, 10 Sep 2026 06:11:53 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$DSGR 📦 Going Private
 Acquired by Eclipse Parent (LKCM) in going-private; 13E-3 filed
@@ -835,16 +844,6 @@ Mcap $345M · EV $345M · Financials</title>
       <pubDate>Wed, 09 Sep 2026 06:45:51 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$KURA 📤 Divestiture
-Sells 50.8% of Caspian subsidiary for $50M Series A
-$50.0 million deal
-Mcap $1.1B · EV $619M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1422143/000119312526385881/d496500d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-385881</guid>
-      <pubDate>Wed, 09 Sep 2026 06:09:48 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
