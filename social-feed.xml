@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 11:11:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 11:12:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FLWS 🔎 Strat Review · Strat Alts
+Launches strategic review; explores asset sales and capital raise
+Mcap $224M · EV $425M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1084869/000108486926000024/flws-20260909.htm</link>
+      <guid isPermaLink="false">0001084869-26-000024</guid>
+      <pubDate>Thu, 10 Sep 2026 06:12:56 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+    </item>
+    <item>
+      <title>$DD ⚖️ Litigation · Settled
+Settled NC PFAS claims for $455M; DD share ~$125M NPV
+vs State of North Carolina
+Mcap $17B · EV $19B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1666700/000166670026000055/dd-20260909.htm</link>
+      <guid isPermaLink="false">0001666700-26-000055</guid>
+      <pubDate>Thu, 10 Sep 2026 06:12:18 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
+    <item>
+      <title>$WKEY 🌍 Re-domicile
+Shareholders approve redomiciliation to BVI via merger with wholly-owned sub
+Mcap $54M · EV $40M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026098576/ea0304997-6k_wisekey.htm</link>
+      <guid isPermaLink="false">0001213900-26-098576</guid>
+      <pubDate>Thu, 10 Sep 2026 06:12:01 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$DSGR 📦 Going Private
 Taken private by LKCM affiliate; proxy vote pending
