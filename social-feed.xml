@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0" xmlns:scanner="https://github.com/clarksquarecap/edgar-live-scanner/ns">
   <channel>
-    <title>EDGAR Live Scanner — Social</title>
+    <title>EDGAR Live Scanner (Social)</title>
     <link>https://github.com/clarksquarecap/edgar-live-scanner</link>
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 17:11:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:51:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CPBI 💧 Capital Return · Buyback
@@ -22,7 +22,7 @@ Mcap $82M · Financials</title>
       <title>$HEPS 📍 Stake
 Stake raised to 88.95% by Kaspi.kz via TRY 9.3B subscription and $57.7M ADS purchase
 Mcap $943M · EV $800M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1850235/000119312526387494/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1850235/000119312526387494/0001193125-26-387494-index.htm</link>
       <guid isPermaLink="false">0001193125-26-387494</guid>
       <pubDate>Thu, 10 Sep 2026 10:19:58 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
@@ -118,6 +118,17 @@ Mcap $12B · Tech</title>
       <link>https://www.sec.gov/Archives/edgar/data/2004711/000200471126000015/bsp-20260910x6k.htm</link>
       <guid isPermaLink="false">0002004711-26-000015</guid>
       <pubDate>Thu, 10 Sep 2026 07:08:37 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$HSCS 🤝 Merger
+Acquired by Fortitude Mining in all-stock merger
+stock
+Mcap $15M · EV $17M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026098578/ea0305079-defa14a_heart.htm</link>
+      <guid isPermaLink="false">0001213900-26-091725</guid>
+      <pubDate>Thu, 10 Sep 2026 07:02:36 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -237,7 +248,7 @@ Prices $2.6B notes to fund $3.1B cash for South32 asset acquisition
 South32 Limited · cash
 Mcap $14B · EV $13B · Materials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1675149/000119312526386787/aa-20260909.htm</link>
-      <guid isPermaLink="false">0001193125-26-386787</guid>
+      <guid isPermaLink="false">0001193125-26-385947</guid>
       <pubDate>Thu, 10 Sep 2026 05:09:31 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
@@ -250,17 +261,6 @@ Mcap $15B · EV $30B · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1889539/000114036126036101/ef20081835_425.htm</link>
       <guid isPermaLink="false">0001140361-26-036101</guid>
       <pubDate>Thu, 10 Sep 2026 05:06:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AA 🤝 Merger
-Prices $2.6B notes to fund $3.1B cash for South32 assets
-cash
-Mcap $14B · EV $13B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1675149/000119312526386795/alcoa_pricing_4258-k_com.htm</link>
-      <guid isPermaLink="false">0001193125-26-386795</guid>
-      <pubDate>Thu, 10 Sep 2026 05:04:38 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -280,7 +280,7 @@ Faces PVG proxy contest; six nominees; AGM Sept 24
 PVG Asset Management
 Mcap $265M · EV $147M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226042019/formdfan14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-042019</guid>
+      <guid isPermaLink="false">0001493152-26-040286</guid>
       <pubDate>Thu, 10 Sep 2026 05:04:05 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
@@ -288,7 +288,7 @@ Mcap $265M · EV $147M · Healthcare</title>
       <title>$ABTS 👀 Activist
 Acquires 22.7% stake in Abits Group for $8.5M; installs 2 directors, CIO
 Mcap $4M · EV $6M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1864055/000149315226042035/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1864055/000149315226042035/0001493152-26-042035-index.htm</link>
       <guid isPermaLink="false">0001493152-26-042035</guid>
       <pubDate>Wed, 09 Sep 2026 20:39:35 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
@@ -297,8 +297,8 @@ Mcap $4M · EV $6M · Tech</title>
       <title>$GPRO 🤝 Merger
 Acquired by Action Acquisitions/Starman Optical; CEO holds 20.3%
 Mcap $268M · EV $327M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1500435/000110465926106446/primary_doc.xml</link>
-      <guid isPermaLink="false">0001104659-26-106446</guid>
+      <link>https://www.sec.gov/Archives/edgar/data/1500435/000110465926106446/0001104659-26-106446-index.htm</link>
+      <guid isPermaLink="false">0001628280-26-059839</guid>
       <pubDate>Wed, 09 Sep 2026 19:28:45 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
@@ -307,7 +307,7 @@ Mcap $268M · EV $327M · Cons Disc</title>
       <title>$RDCM 📍 Stake
 Raises RADCOM stake to 16.4% (2.75M shs)
 Mcap $166M · EV $59M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1016838/000092189526002520/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1016838/000092189526002520/0000921895-26-002520-index.htm</link>
       <guid isPermaLink="false">0000921895-26-002520</guid>
       <pubDate>Wed, 09 Sep 2026 18:45:31 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
@@ -316,7 +316,7 @@ Mcap $166M · EV $59M · Tech</title>
       <title>$LKNCY 📍 Stake
 Faces 22.1% stake from Centurium/Mubadala group
 Mcap $11B · EV $11B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1767582/000110465926106437/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1767582/000110465926106437/0001104659-26-106437-index.htm</link>
       <guid isPermaLink="false">0001104659-26-106437</guid>
       <pubDate>Wed, 09 Sep 2026 18:31:37 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
@@ -325,15 +325,15 @@ Mcap $11B · EV $11B · Cons Disc</title>
       <title>$HELP 📍 Stake
 Buys 95k shares at $11.805, receives 1.05M RSUs; now 5.8%
 Mcap $905M · EV $739M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1833141/000091228226001255/primary_doc.xml</link>
-      <guid isPermaLink="false">0000912282-26-001255</guid>
+      <link>https://www.sec.gov/Archives/edgar/data/1833141/000091228226001255/0000912282-26-001255-index.htm</link>
+      <guid isPermaLink="false">0000912282-26-001247</guid>
       <pubDate>Wed, 09 Sep 2026 17:01:29 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
     </item>
     <item>
       <title>$HLX 👀 Activist
 Builds 23.7% stake in Hornbeck Offshore via 13D</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866829/000110465926106410/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/866829/000110465926106410/0001104659-26-106410-index.htm</link>
       <guid isPermaLink="false">0001104659-26-106410</guid>
       <pubDate>Wed, 09 Sep 2026 16:44:38 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
@@ -342,7 +342,7 @@ Builds 23.7% stake in Hornbeck Offshore via 13D</title>
       <title>$CMRC 📍 Stake
 Raises stake to 8.7% of Commerce.com
 Mcap $212M · EV $220M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1626450/000092189526002516/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1626450/000092189526002516/0000921895-26-002516-index.htm</link>
       <guid isPermaLink="false">0000921895-26-002516</guid>
       <pubDate>Wed, 09 Sep 2026 16:38:16 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
@@ -353,7 +353,7 @@ Acquired by Repligen for $11.25 cash + 0.1442 RGEN shares; HSR cleared
 cash+stk
 Mcap $1.7B · EV $1.6B · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/834365/000162828026061174/blfs-20260903.htm</link>
-      <guid isPermaLink="false">0001628280-26-061174</guid>
+      <guid isPermaLink="false">0001193125-26-382362</guid>
       <pubDate>Wed, 09 Sep 2026 16:36:27 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
@@ -380,26 +380,6 @@ Mcap $272M · Healthcare</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$AVXL ⚔️ Proxy
-Launches proxy contest at Anavex for 2026 AGM
-Mcap $265M · EV $147M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226041997/formdfan14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-041997</guid>
-      <pubDate>Wed, 09 Sep 2026 16:30:20 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$BLFS 🤝 Merger
-Acquired by Repligen for $11.25 + 0.1442 RGEN shares; HSR cleared, vote Oct 5
-cash+stk
-Mcap $1.7B · EV $1.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/834365/000162828026061175/blfs-20260909.htm</link>
-      <guid isPermaLink="false">0001628280-26-061175</guid>
-      <pubDate>Wed, 09 Sep 2026 16:30:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
       <title>$TRUG 🤝 Merger
 Acquires Polymath for $140M stock; Series C conversion at $3.94
 Polymath Research · $140,000,000 deal · stock
@@ -415,7 +395,7 @@ Mcap $850K · Comms</title>
 Seeks consents by Sept 18 to remove 5 BETR directors
 Mcap $275M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002515/dfan14a14909002_09082026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002515</guid>
+      <guid isPermaLink="false">0000921895-26-002488</guid>
       <pubDate>Wed, 09 Sep 2026 16:21:53 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
@@ -424,7 +404,7 @@ Mcap $275M · Financials</title>
 Makes potential offer for 80 Mile PLC
 Mcap $57M · EV $19M · Energy</title>
       <link>https://www.sec.gov/Archives/edgar/data/2093507/000182912626009947/greenlandenergy_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-009947</guid>
+      <guid isPermaLink="false">0001829126-26-009787</guid>
       <pubDate>Wed, 09 Sep 2026 16:15:43 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
@@ -486,7 +466,7 @@ Mcap $30M · Healthcare</title>
       <title>$SWVL 📍 Stake
 Acquires 38.9% stake in Swvl for $10M
 Mcap $64M · EV $59M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1875609/000110465926106376/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1875609/000110465926106376/0001104659-26-106376-index.htm</link>
       <guid isPermaLink="false">0001104659-26-106376</guid>
       <pubDate>Wed, 09 Sep 2026 15:54:49 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
@@ -497,7 +477,7 @@ Acquires Birch Permian for ~$1.8B; close Q4 2026
 Birch Permian Holdings · cash
 Mcap $1.1B · EV $4.1B · Energy</title>
       <link>https://www.sec.gov/Archives/edgar/data/1922446/000192244626000086/dec-20260902.htm</link>
-      <guid isPermaLink="false">0001922446-26-000086</guid>
+      <guid isPermaLink="false">0001922446-26-000083</guid>
       <pubDate>Wed, 09 Sep 2026 15:48:10 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
@@ -508,7 +488,7 @@ Acquired by IRT in all-stock merger; 3.8 IRT shares per share
 stock
 Mcap $885M · EV $2.0B · Real Estate</title>
       <link>https://www.sec.gov/Archives/edgar/data/798359/000114036126036068/ef20081819_425.htm</link>
-      <guid isPermaLink="false">0001140361-26-036068</guid>
+      <guid isPermaLink="false">0001437749-26-029905</guid>
       <pubDate>Wed, 09 Sep 2026 15:47:58 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
@@ -533,21 +513,10 @@ Mcap $166M · EV $211M · Industrials</title>
       <category>SPIN_OFF</category>
     </item>
     <item>
-      <title>$CSR 🤝 Merger
-Acquired by Independence Realty Trust in all-stock merger; shareholders to own 22% of combined
-stock · close Q4 2026
-Mcap $885M · EV $2.0B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/798359/000114036126036065/ef20081788_425.htm</link>
-      <guid isPermaLink="false">0001140361-26-036065</guid>
-      <pubDate>Wed, 09 Sep 2026 15:41:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
       <title>$SPWR 📍 Stake
 Increases SunPower stake to 19.5% via notes, warrants, options
 Mcap $70M · EV $206M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1838987/000121390026098417/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1838987/000121390026098417/0001213900-26-098417-index.htm</link>
       <guid isPermaLink="false">0001213900-26-098417</guid>
       <pubDate>Wed, 09 Sep 2026 15:35:19 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
@@ -578,40 +547,8 @@ HSR waiting period expires for Wynnchurch acquisition
 Wynnchurch Capital
 Mcap $463M · EV $521M · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1096056/000207709626000244/ea0304990-8k_luxfer.htm</link>
-      <guid isPermaLink="false">0002077096-26-000244</guid>
-      <pubDate>Wed, 09 Sep 2026 15:24:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CSR 🤝 Merger
-Acquired by Independence Realty Trust in stock merger; close Q4 2026
-stock
-Mcap $885M · EV $2.0B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/798359/000143774926029984/irt20260909e_425.htm</link>
-      <guid isPermaLink="false">0001437749-26-029984</guid>
-      <pubDate>Wed, 09 Sep 2026 15:23:36 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CSR 🤝 Merger
-Acquired by IRT in all-stock merger; combined EV $8.1B
-stock
-Mcap $885M · EV $2.0B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/798359/000143774926029985/irt20260909f_425.htm</link>
-      <guid isPermaLink="false">0001437749-26-029985</guid>
-      <pubDate>Wed, 09 Sep 2026 15:23:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LXFR 🤝 Merger
-HSR cleared for Wynnchurch take-private; shareholder vote pending
-Mcap $463M · EV $521M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1096056/000207709626000246/ea0304990-8k_luxfer.htm</link>
       <guid isPermaLink="false">0002077096-26-000246</guid>
-      <pubDate>Wed, 09 Sep 2026 15:23:14 -0500</pubDate>
+      <pubDate>Wed, 09 Sep 2026 15:24:02 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -619,7 +556,7 @@ Mcap $463M · EV $521M · Industrials</title>
       <title>$RSG 📍 Stake
 Boosts Republic Services stake to 37.9% with 3.76M share purchase
 Mcap $68B · EV $82B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1060391/000110465926106327/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1060391/000110465926106327/0001104659-26-106327-index.htm</link>
       <guid isPermaLink="false">0001104659-26-106327</guid>
       <pubDate>Wed, 09 Sep 2026 15:17:21 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
@@ -628,7 +565,7 @@ Mcap $68B · EV $82B · Industrials</title>
       <title>$FRTT 📍 Stake
 Discloses 71.8% controlling stake in Fort Technology
 Mcap $14M · EV $14M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2092967/000121390026098398/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/2092967/000121390026098398/0001213900-26-098398-index.htm</link>
       <guid isPermaLink="false">0001213900-26-098398</guid>
       <pubDate>Wed, 09 Sep 2026 15:17:13 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
@@ -643,21 +580,10 @@ Mcap $60M · EV $527M · Industrials</title>
       <category>DIVESTITURE</category>
     </item>
     <item>
-      <title>$CSR 🤝 Merger
-Acquired by Independence Realty Trust; combined REIT to trade as IRT
-stock · close end of 2026
-Mcap $885M · EV $2.0B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/798359/000143774926029983/irt20260907_425.htm</link>
-      <guid isPermaLink="false">0001437749-26-029983</guid>
-      <pubDate>Wed, 09 Sep 2026 15:16:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
       <title>$CMMB 📍 Stake
 Exercises pre-funded warrants; stake now 12.5%
 Mcap $20M · EV $13M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1534248/000110465926106301/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1534248/000110465926106301/0001104659-26-106301-index.htm</link>
       <guid isPermaLink="false">0001104659-26-106301</guid>
       <pubDate>Wed, 09 Sep 2026 15:02:42 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
@@ -688,7 +614,7 @@ Mcap $8M · EV $8M · Industrials</title>
       <title>$ODYS 📍 Stake
 Discloses 33.3% beneficial ownership via 13D
 Mcap $73M · EV $57M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1577445/000117891326004462/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1577445/000117891326004462/0001178913-26-004462-index.htm</link>
       <guid isPermaLink="false">0001178913-26-004462</guid>
       <pubDate>Wed, 09 Sep 2026 14:26:30 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
@@ -716,7 +642,7 @@ Mcap $102B · EV $99B · Materials</title>
     <item>
       <title>$CPRSX 🤝 Merger · Preliminary
 Franklin Templeton boosts stake to 68.2% to facilitate acquisition</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1762562/000003877726000254/primary_doc.xml</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1762562/000003877726000254/0000038777-26-000254-index.htm</link>
       <guid isPermaLink="false">0000038777-26-000254</guid>
       <pubDate>Wed, 09 Sep 2026 13:23:05 -0500</pubDate>
       <category>MERGER</category>
