@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 10:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:18:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · AXGN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/805928/000162828026061208/axgn-20260909.htm</link>
+      <guid isPermaLink="false">0001628280-26-061208</guid>
+      <pubDate>Thu, 10 Sep 2026 05:18:06 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires BioCircuit for $200M cash; close Q4 2026</scanner:headline>
+      <scanner:shortName>Axogen</scanner:shortName>
+      <scanner:price>47.27</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>AXGN</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Acquires BioCircuit for $200M cash; close Q4 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a definitive merger agreement to acquire BioCircuit Technologies for $200M in cash, subject to customary adjustments. The merger is expected to close in Q4 2026, with Axogen financing the deal via a public offering of 4.91M shares at $42.50 per share. BioCircuit&amp;#39;s NerveTape and ConformaWrap products will be added to Axogen&amp;#39;s portfolio.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Axogen, Inc., together with its subsidiaries, engages in the development and commercialization of the technologies used for peripheral nerve regeneration and repair worldwide. The company offers Avance Nerve Graft, a processed nerve allograft intended for the surgical repair of peripheral nerve discontinuities; Axoguard Nerve Connector, a coaptation aid used to align and connect severed peripheral nerve ends in a tensionless repair; and Axoguard Nerve Protector, a product used to protect and wra…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BioCircuit Technologies, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $200,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Expected close Q4 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $47.27 · Mkt cap $2.54B · EV $2.45B · Fwd P/E 84.7x · Fwd EV/EBITDA 65.1x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/805928/000162828026061208/0001628280-26-061208-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AXGN&lt;/b&gt; · 8-K · Items 1.01, 7.01, 8.01, 9.01 · Instruments / Medical Devices (3845) · 8k_tier1:1.01,7.01,8.01 · filed 2026-09-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · AA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1675149/000119312526386787/aa-20260909.htm</link>
@@ -11732,29 +11756,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Potential new transaction before Oct 31, 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1779977/000121390026095141/0001213900-26-095141-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SEQC&lt;/b&gt; · 8-K · Items 1.02, 9.01 · Business Services (7374) · 8k_tier1:1.02 · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · ZTEK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1904501/000106299326004710/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-004710</guid>
-      <pubDate>Fri, 28 Aug 2026 16:41:25 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>6-K</category>
-      <scanner:headline>Forced Nasdaq delisting effective Sept 2; moves to OTCQX</scanner:headline>
-      <scanner:shortName>Zentek</scanner:shortName>
-      <scanner:price>0.6700</scanner:price>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>ZTEK</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Sept 2; moves to OTCQX&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received Nasdaq delisting notice for minimum bid price non-compliance. Trading suspended at open Sept 2, 2026; shares transition to OTC Markets (OTCQX application pending). Hearing requested but won&amp;#39;t stay suspension; TSXV listing unaffected.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Zentek Ltd., together with its subsidiaries, engages in the research and development of graphene and related nanomaterials in Canada. It develops graphene-based coatings under the ZenGUARD brand; graphene-enhanced intumescent gel under the ZenFire brand; carbon-based copolymeric icephobic coating under the ZenICE brand, and graphene-enhanced anti-corrosion coating under the ZenArmor brand.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Suspension of trading on Nasdaq at open Sept 2, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.6700 · Mkt cap $83.5M · EV $84.0M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1904501/000106299326004710/0001062993-26-004710-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZTEK&lt;/b&gt; · 6-K · Chemicals / Pharma (2890) · prefill_form:6-K · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
