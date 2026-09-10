@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 12:53:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:05:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TTEK 💧 Capital Return · Buyback
+Adds $500M to buyback; total available $898M
+Mcap $9.1B · EV $9.9B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/831641/000110465926106564/tm2625143d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-106564</guid>
+      <pubDate>Thu, 10 Sep 2026 08:05:31 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$AROW 🤝 Merger
 Acquires Skene Valley Agency; close targeted by Q3 end
@@ -793,15 +803,6 @@ Mcap $1M · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-098236</guid>
       <pubDate>Wed, 09 Sep 2026 08:10:56 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$LU 🪙 Debt Restr.
-Extends Ping An convertible notes maturity to Oct 2027; EGM Oct 8
-Mcap $1.1B · EV $4.4B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1816007/000119312526385968/d96289d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-385968</guid>
-      <pubDate>Wed, 09 Sep 2026 08:04:28 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
