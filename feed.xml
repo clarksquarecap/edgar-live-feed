@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 21:16:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:23:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · ACVA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526388070/d138322dsctoc.htm</link>
+      <guid isPermaLink="false">0001193125-26-388070</guid>
+      <pubDate>Thu, 10 Sep 2026 16:23:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>SC TO-C</category>
+      <scanner:headline>Acquired by Copart for $10.50 cash/share via tender offer</scanner:headline>
+      <scanner:shortName>ACV Auctions</scanner:shortName>
+      <scanner:price>7.22</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>SC TO-C</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>ACVA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC TO-C</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Copart for $10.50 cash/share via tender offer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive merger agreement with Copart, which will acquire all ACV shares for $10.50 per share in cash through a tender offer followed by a Section 251(h) merger. The tender offer is expected to commence within 5-7 business days and is not subject to a financing condition. The agreement includes a no-shop provision with a fiduciary out and a termination fee.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ACV Auctions Inc. provides a wholesale auction marketplace to facilitate business-to-business used vehicle sales between a selling and buying dealership. The company offers marketplace platform includes digital marketplace that connects buyers and sellers by providing auctions, which facilitates real-time transactions of wholesale vehicles; Run List for pre-filtering and pre-screening of vehicles up to 24 hours prior to an auction taking place; ACV transportation service to enable the buyers to …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Copart, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 10.50&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Tender offer commencement expected within 5-7 business days&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.22 · Mkt cap $1.25B · EV $1.26B · Fwd P/E 26.5x · Fwd EV/EBITDA 14.2x · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526388070/0001193125-26-388070-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACVA&lt;/b&gt; · SC TO-C · Business Services (7389) · prefill_form:SC TO-C · filed 2026-09-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · RUM</title>
       <link>https://www.sec.gov/Archives/edgar/data/1830081/000121390026098854/ea0305158-8k_rum.htm</link>
@@ -13387,33 +13414,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.32 · Mkt cap $281.4M · EV $291.4M · Fwd P/E 7.1x · Fwd EV/EBITDA 5.3x · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1626450/000092189526002350/0000921895-26-002350-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CMRC&lt;/b&gt; · SCHEDULE 13D · Business Services (7372) · fresh_13d · filed 2026-08-27&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · ELAB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840563/000121390026094443/ea0303620-8k_pmgc.htm</link>
-      <guid isPermaLink="false">0001213900-26-094443</guid>
-      <pubDate>Thu, 27 Aug 2026 16:30:17 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Terminates acquisition of 76% stake in Arizona machining co.</scanner:headline>
-      <scanner:shortName>PMGC Holdings</scanner:shortName>
-      <scanner:price>5.83</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>ELAB</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Terminates acquisition of 76% stake in Arizona machining co.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Terminated its previously disclosed acquisition of a 76% controlling interest in a privately held Arizona-based precision machining and contract manufacturing company. The termination was announced via press release on August 26, 2026. Separately, the company entered into a non-binding term sheet with Orbit2Orbit Inc. on August 21, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; PMGC Holdings Inc., a biopharmaceutical company, focuses on the development and acquisition of aesthetic medicines and therapeutic products. It operates through three segments: corporate, treasury and biosciences; IT packaging solutions; and precision engineering and machining. The company’s lead product includes EL-22, a first-in-class engineered probiotic approach to address obesity’s pressing issue of preserving muscle while on weight loss treatments, including GLP-1 receptor agonists.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 76%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-26&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.83 · Mkt cap $4.9M · EV $170K · Consumer Staples / Personal Care Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1840563/000121390026094443/0001213900-26-094443-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ELAB&lt;/b&gt; · 8-K · Items 1.01, 3.03, 5.03, 7.01, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01,3.03,7.01,8.01 · filed 2026-08-27&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
