@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 14:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:19:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$ETCC 📤 Divestiture
@@ -729,16 +729,6 @@ Mcap $15B · EV $14B · Tech</title>
       <guid isPermaLink="false">0001361570-26-000019</guid>
       <pubDate>Wed, 09 Sep 2026 09:56:04 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ASBP 💧 Capital Return · Buyback
-Authorizes $10M share repurchase program
-Mcap $12M · EV $250K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847345/000149315226041918/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-041918</guid>
-      <pubDate>Wed, 09 Sep 2026 09:15:22 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
