@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 10:42:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:53:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CC ⚖️ Litigation · Settled
+Settles PFAS claims with North Carolina for $455M
+Mcap $2.3B · EV $5.8B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1627223/000162722326000029/cc-20260910.htm</link>
+      <guid isPermaLink="false">0001627223-26-000029</guid>
+      <pubDate>Thu, 10 Sep 2026 05:53:49 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$SWMR 🤝 Merger
 Acquires Ratel Robotics for $7.2M cash + 1.06M shares + earnouts
@@ -836,28 +846,6 @@ Mcap $3.3B · EV $3.9B · Cons Disc</title>
       <pubDate>Wed, 09 Sep 2026 06:03:12 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>accelerated_share_repurchase</category>
-    </item>
-    <item>
-      <title>$IRT 🤝 Merger
-Acquires Centerspace for 3.8 IRT shares per CSR share
-Centerspace (CSR) · stock
-Mcap $3.7B · EV $6.3B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1466085/000143774926029903/irt20260909c_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-029903</guid>
-      <pubDate>Wed, 09 Sep 2026 05:50:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CSR 🤝 Merger
-Acquired by Independence Realty Trust for 3.80 IRT shares per share
-stock
-Mcap $885M · EV $2.0B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/798359/000143774926029905/irt20260909d_425.htm</link>
-      <guid isPermaLink="false">0001437749-26-029905</guid>
-      <pubDate>Wed, 09 Sep 2026 05:50:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>

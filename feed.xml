@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings — tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 10 Sep 2026 10:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:53:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Settled · CC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1627223/000162722326000029/cc-20260910.htm</link>
+      <guid isPermaLink="false">0001627223-26-000029</guid>
+      <pubDate>Thu, 10 Sep 2026 05:53:49 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+      <category>8-K</category>
+      <scanner:headline>Settles PFAS claims with North Carolina for $455M</scanner:headline>
+      <scanner:shortName>Chemours Co</scanner:shortName>
+      <scanner:price>15.45</scanner:price>
+      <scanner:subtype>settled</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>CC</scanner:ticker>
+      <description>&lt;p&gt;&lt;b&gt;Settles PFAS claims with North Carolina for $455M&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Chemours, along with DuPont and Corteva, settled PFAS-related claims with North Carolina and 11 local entities for $455M payable over 15 years. Chemours is responsible for 50% of payments. The settlement resolves claims related to Fayetteville Works and other PFAS contamination.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The Chemours Company provides performance chemicals in North America, the Asia Pacific, Europe, the Middle East, Africa, and Latin America. The company operates through three segments: Thermal &amp;amp; Specialized Solutions, Titanium Technologies, and Advanced Performance Materials. The Thermal &amp;amp; Specialized Solutions segment provides refrigerants, thermal management solutions, propellants, foam blowing agents, and specialty solvents under the Freon and Opteon brand names.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; State of North Carolina and 11 local entities&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $455M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; court approval of settlement&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $15.45 · Mkt cap $2.33B · EV $5.78B · Fwd P/E 10.4x · Fwd EV/EBITDA 6.7x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1627223/000162722326000029/0001627223-26-000029-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CC&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Chemicals / Pharma (2800) · 8k_tier1:1.01,7.01 · filed 2026-09-10&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · SWMR</title>
       <link>https://www.sec.gov/Archives/edgar/data/2092574/000110465926106499/tm2625021d3_8k.htm</link>
@@ -11735,30 +11759,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.71 · Mkt cap $1.05B · EV $1.10B · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1920294/000119312526374868/0001193125-26-374868-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RZLV, RZLVW&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7370) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · SHAZ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2068385/000093583626000468/0000935836-26-000468-index.htm</link>
-      <guid isPermaLink="false">0000935836-26-000468</guid>
-      <pubDate>Fri, 28 Aug 2026 16:50:23 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Takes 21.1% stake via 5.4M shares + 2.67M warrants</scanner:headline>
-      <scanner:shortName>SharonAI Holdings</scanner:shortName>
-      <scanner:price>52.38</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>SHAZ</scanner:ticker>
-      <description>&lt;p&gt;&lt;b&gt;Takes 21.1% stake via 5.4M shares + 2.67M warrants&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Situational Awareness LP disclosed a 21.1% stake in SharonAI Holdings Inc., comprising 5,396,127 Class A shares and prefunded warrants for 2,674,823 shares. The group includes the adviser, its GP, and principals. No specific agenda was stated in the initial 13D.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SharonAI Holdings Inc. operates as a computing company specializing in accelerated compute platforms, AI infrastructure, and cloud GPU environments. It operates through a hybrid model that combines deployment in data centers with the development of its data center facilities in strategic locations. Its platform integrates compute, storage, networking, and automation into a unified enterprise solution serving AI labs, hyperscale customers, research institutions, and regulated industries.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 21.1%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $52.38 · Mkt cap $1.85B · EV $1.89B · Fwd EV/EBITDA 13.4x · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2068385/000093583626000468/0000935836-26-000468-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SHAZ, SHAZW&lt;/b&gt; · SCHEDULE 13D · Business Services (7374) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
