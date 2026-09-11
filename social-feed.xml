@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 20:54:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:00:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$SBMT 🤝 Merger
@@ -647,37 +647,6 @@ Mcap $60B · EV $93B · Energy</title>
       <guid isPermaLink="false">0001193125-26-387972</guid>
       <pubDate>Thu, 10 Sep 2026 16:02:02 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$PATK 🤝 Merger
-Refiles HSR for LCI merger; restarts waiting period
-LCI Industries · stock
-Mcap $2.5B · EV $4.1B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/76605/000007660526000086/patk0910268-k425filing.htm</link>
-      <guid isPermaLink="false">0000763744-26-000085</guid>
-      <pubDate>Thu, 10 Sep 2026 16:00:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$UL 🤝 Merger
-Acquired by McCormick
-Mcap $135B · EV $168B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/217410/000199937126020327/mkcv-425_091026.htm</link>
-      <guid isPermaLink="false">0001999371-26-020327</guid>
-      <pubDate>Thu, 10 Sep 2026 15:59:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$UL 📤 Divestiture
-Sells Unilever Foods to McCormick
-to McCormick &amp;
-Mcap $135B · EV $168B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/217410/000199937126020328/mccormick-425_091026.htm</link>
-      <guid isPermaLink="false">0001999371-26-020328</guid>
-      <pubDate>Thu, 10 Sep 2026 15:55:41 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
