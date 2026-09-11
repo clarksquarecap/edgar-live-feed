@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 10:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:17:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Unsolicited · CIRC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1605888/000160588826000051/altn-20260910.htm</link>
+      <guid isPermaLink="false">0001605888-26-000051</guid>
+      <pubDate>Fri, 11 Sep 2026 05:16:27 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+      <category>8-K</category>
+      <scanner:headline>Proposes cash offer for SThree plc; no dilution to CIRC holders</scanner:headline>
+      <scanner:shortName>CIRCLE8 GROUP</scanner:shortName>
+      <scanner:price>0.5700</scanner:price>
+      <scanner:subtype>unsolicited</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>CIRC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Proposes cash offer for SThree plc; no dilution to CIRC holders&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Confirmed a preliminary, non-binding cash proposal to acquire SThree plc (STEM.L), an international STEM specialist. The deal is structured without issuing additional Circle8 common stock, so existing shareholders would not be diluted. SThree generated ~£1.3B gross revenue in FY2025; combined gross revenues could approach $3B. Process is early stage with no certainty of a firm offer.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Circle8 Group, Inc. provides talent management services. The company offers services, such as finding and engaging talent for various employment contracts, including secondment, interim positions, and temp-to-perm roles. The company serves the IT, technology, and finance industries. The company was formerly known as Atlantic International Corp. and changed its name to Circle8 Group, Inc. in June 2026. Circle8 Group, Inc. is headquartered in Englewood Cliffs, New Jersey.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; SThree plc&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.5700 · Mkt cap $65.6M · EV $619.9M · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1605888/000160588826000051/0001605888-26-000051-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CIRC&lt;/b&gt; · 8-K · Items 7.01, 8.01 · Business Services (7363) · 8k_tier1:7.01,8.01 · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · GPOX</title>
       <link>https://www.sec.gov/Archives/edgar/data/1673475/000164033426001495/gpox_8k.htm</link>
@@ -13381,33 +13408,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; S-4 effectiveness; shareholder vote&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2088805/000121390026094582/0001213900-26-094582-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CMII, CMIIU, CMIIW&lt;/b&gt; · 425 · Business Services (7373) · prefill_form:425 · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BTGO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1740604/000174060426000056/btgo-20260827.htm</link>
-      <guid isPermaLink="false">0001740604-26-000056</guid>
-      <pubDate>Fri, 28 Aug 2026 05:07:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires NYDIG IF Holdings for $7M cash + $35.5M stock + earnouts</scanner:headline>
-      <scanner:shortName>BITGO HOLDINGS</scanner:shortName>
-      <scanner:price>7.16</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>BTGO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires NYDIG IF Holdings for $7M cash + $35.5M stock + earnouts&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a definitive merger agreement to acquire NYDIG IF Holdings LLC from NYDIG IHC LLC. Consideration includes $7M cash, ~$35.5M in stock, and contingent earnouts up to $15M. Closing expected promptly after execution.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Bitgo Holdings, Inc. operates as a digital asset infrastructure company in the United States and internationally. The company offers self-custody wallet, qualified custody, liquidity and prime, and infrastructure-as-a-service to investors, builders, and other participants in the digital asset ecosystem.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; NYDIG IF Holdings LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $42.5M base + up to $15M earnouts&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; promptly&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing of merger&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.16 · Mkt cap $841.6M · EV $1.13B · Fwd P/E 39.8x · Fwd EV/EBITDA 26.4x · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1740604/000174060426000056/0001740604-26-000056-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BTGO&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Non-Depository Credit (6199) · 8k_tier1:1.01,7.01 · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
