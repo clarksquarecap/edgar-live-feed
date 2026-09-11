@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 20:16:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:18:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · USAR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1970622/000094787126000861/0000947871-26-000861-index.htm</link>
+      <guid isPermaLink="false">0000947871-26-000861</guid>
+      <pubDate>Fri, 11 Sep 2026 15:18:28 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Takes 7.9% stake (29.5M shares) as merger consideration</scanner:headline>
+      <scanner:shortName>USA Rare Earth</scanner:shortName>
+      <scanner:price>15.56</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>USAR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Takes 7.9% stake (29.5M shares) as merger consideration&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;VB (Rare Earths) Ltd and Vision Blue Resources Ltd received 29,544,227 shares of USA Rare Earth common stock (7.9% of 375,076,567 shares outstanding) as consideration in a merger on September 3, 2026. Vision Blue, an investment firm focused on strategic metals and minerals, owns substantially all of VBRE. Item 4 states only boilerplate intent to assess the investment; no concrete activist agenda disclosed.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; USA Rare Earth, Inc. engages in mining, processing, and supplying rare earths and other critical minerals in the United States, Europe, and Asia. It primarily explores neodymium, dysprosium, terbium, yttrium, gallium, hafnium, praseodymium, samarium, and other critical minerals. The company holds interests in the Round Top Mountain located near Sierra Blanca, Texas.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.9%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-03&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $15.56 · Mkt cap $3.93B · EV $2.41B · Fwd EV/EBITDA 53.7x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1970622/000094787126000861/0000947871-26-000861-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;USAR&lt;/b&gt; · SCHEDULE 13D · Metal Mining (1000) · fresh_13d · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · ATEK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1882198/000121390026099259/ea0305259-8k_athena2.htm</link>
@@ -13388,33 +13415,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.88 · Mkt cap $14.0M · EV $12.4M · Communication Services / Diversified Telecommunication Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1997637/000121390026095166/0001213900-26-095166-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IOTR&lt;/b&gt; · SCHEDULE 13D · Communications (4899) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · INDV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1625297/000110465926103278/tm2623753-1_s4.htm</link>
-      <guid isPermaLink="false">0001104659-26-103278</guid>
-      <pubDate>Fri, 28 Aug 2026 16:19:09 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4</category>
-      <scanner:headline>Acquires Supernus for 1.5401 INDV/shr; $1B special dividend</scanner:headline>
-      <scanner:shortName>Indivior Pharmaceuticals</scanner:shortName>
-      <scanner:price>38.22</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>INDV</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Supernus for 1.5401 INDV/shr; $1B special dividend&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will acquire Supernus Pharmaceuticals in an all-stock merger of equals. Each Supernus share converts to 1.5401 Indivior shares; Indivior stockholders receive a $1B special dividend. Combined company will trade as SUPN; Indivior stockholders own ~56.5%, Supernus ~43.5%.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Indivior Pharmaceuticals, Inc., together with its subsidiaries, engages in the development, manufacture, and sale of buprenorphine-based prescription drugs for the treatment of opioid dependence and related disorders in the United States, Europe, Canada, Australia, and internationally. It develops medicines to treat substance use disorders.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Supernus Pharmaceuticals, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder votes at special meetings&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $38.22 · Mkt cap $4.57B · EV $4.86B · Fwd P/E 10.0x · Fwd EV/EBITDA 7.8x · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1625297/000110465926103278/0001104659-26-103278-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;INDV&lt;/b&gt; · S-4 · Chemicals / Pharma (2834) · prefill_form:S-4 · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
