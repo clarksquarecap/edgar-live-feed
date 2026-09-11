@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 21:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:21:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · DV</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819928/000110465926107126/tm2621904-10_prem14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-107126</guid>
+      <pubDate>Fri, 11 Sep 2026 16:21:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>PREM14A</category>
+      <scanner:headline>Acquired by Elliott/Brookfield for $13.60 cash/share; special meeting vote</scanner:headline>
+      <scanner:shortName>DoubleVerify Holdings</scanner:shortName>
+      <scanner:price>13.41</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>PREM14A</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>DV</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>PREM14A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Elliott/Brookfield for $13.60 cash/share; special meeting vote&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Will be acquired by Neptune BidCo US Inc., an affiliate of Elliott Investment Management and Brookfield Asset Management, for $13.60 per share in cash. The merger agreement was signed August 6, 2026, and a special meeting of stockholders will be held to vote on the merger. The board unanimously recommends approval.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; DoubleVerify Holdings, Inc. provides media effectiveness platforms in the United States. The company offers DV Authentic Ad, a metric of digital media quality, which evaluates the existence of fraud, brand suitability, viewability and geography for each digital ad; DV Authentic Attention that provides data to drive campaign performance; Custom Contextual solution, which allows advertisers to match ads to relevant content to maximize user engagement and drive campaign performance; and Scibids AI,…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Neptune BidCo US Inc. (Elliott/Brookfield)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 13.60&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-06&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $13.41 · Mkt cap $2.07B · EV $1.97B · Fwd P/E 12.2x · Fwd EV/EBITDA 6.9x · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1819928/000110465926107126/0001104659-26-107126-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DV&lt;/b&gt; · PREM14A · Business Services (7370) · prefill_form:PREM14A · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚔️ Proxy Contest · BETR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002535/dfan14a14909002_09112026.htm</link>
@@ -13390,33 +13417,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.45 · Mkt cap $3.1M · EV $880K · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1894954/000190359626000330/0001903596-26-000330-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;XPON&lt;/b&gt; · SCHEDULE 13D · Electronic Equipment (3690) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · RZLV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1920294/000119312526374868/0001193125-26-374868-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-374868</guid>
-      <pubDate>Fri, 28 Aug 2026 17:10:38 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Wagner group stake rises to 13.8% on option expiry, estate transfer</scanner:headline>
-      <scanner:shortName>REZOLVE AI</scanner:shortName>
-      <scanner:price>2.71</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>RZLV</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Wagner group stake rises to 13.8% on option expiry, estate transfer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Daniel Wagner and related entities (DBLP Sea Cow, Estate of John Wagner, Adam Wagner) reported 13.8% beneficial ownership of Rezolve AI, up from prior levels. The increase reflects only non-market events: expiration of a pre-existing call option held by Bradley Wickens over 2,025,496 shares, and distribution of 542,993 shares from the Estate of John Wagner to DBLP for no consideration. No open-market purchases or sales were effected.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Rezolve AI PLC provides generative AI solutions for the retail and e-commerce sectors in the United Kingdom and the United States. It sells its solutions retailers, brands, manufacturers, banks, and other enterprise customers. The company was formerly known as Rezolve AI Limited and changed its name to Rezolve AI PLC in March 2025. Rezolve AI PLC was founded in 2016 and is based in London, the United Kingdom.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Daniel Wagner&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 13.8%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.71 · Mkt cap $1.05B · EV $1.10B · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1920294/000119312526374868/0001193125-26-374868-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RZLV, RZLVW&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7370) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
