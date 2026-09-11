@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 16:17:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:43:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · WTG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2053927/000182912626010024/wintergreenacq_s4a6.htm</link>
+      <guid isPermaLink="false">0001829126-26-010024</guid>
+      <pubDate>Fri, 11 Sep 2026 11:42:57 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>S-4/A</category>
+      <scanner:headline>Acquires KIKA Technology for $80M in stock; EGM pending</scanner:headline>
+      <scanner:shortName>KIKA Technology</scanner:shortName>
+      <scanner:price>10.58</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>S-4/A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>WTG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>S-4/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires KIKA Technology for $80M in stock; EGM pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Wintergreen Acquisition Corp. (SPAC) will merge with KIKA Technology Inc., issuing ~7.98M shares to KIKA shareholders based on an $80M valuation. The combined company will be renamed KIKA Inc. The deal is subject to shareholder approval at an extraordinary general meeting.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Wintergreen Acquisition Corp. does not have significant operations. It intends to effect a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2024 is headquartered in Tongzhou, the People&amp;#39;s Republic of China.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $80,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-11-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote (EGM) to be scheduled&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.58 · Mkt cap $77.3M · EV $76.3M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2053927/000182912626010024/0001829126-26-010024-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WTG, WTGUR, WTGUU&lt;/b&gt; · S-4/A · Business Services (7370) · prefill_form:S-4 · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · BBAIX</title>
       <link>https://www.sec.gov/Archives/edgar/data/2097545/000092963826003501/0000929638-26-003501-index.htm</link>
@@ -13393,33 +13420,6 @@
 &lt;p&gt;&lt;i&gt;Px $72.64 · Mkt cap $6.06B · EV $6.85B · Fwd P/E 45.9x · Fwd EV/EBITDA 17.7x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1070081/000107008126000019/0001070081-26-000019-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PTCT&lt;/b&gt; · 8-K · Items 1.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01 · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🏛️ Insolvency · Chapter 11 · SGMOQ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1001233/000119312526374328/d116527d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-374328</guid>
-      <pubDate>Fri, 28 Aug 2026 15:17:28 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>chapter_11</category>
-      <category>8-K</category>
-      <scanner:headline>Sells ST-920 gene therapy to PTC for $111M cash + $100M milestones</scanner:headline>
-      <scanner:shortName>SANGAMO THERAPEUTICS</scanner:shortName>
-      <scanner:price>0.1500</scanner:price>
-      <scanner:subtype>chapter_11</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>SGMOQ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Sells ST-920 gene therapy to PTC for $111M cash + $100M milestones&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;In Chapter 11, entered an asset purchase agreement to sell its ST-920 gene therapy asset to PTC Therapeutics for $111M cash at closing plus up to $100M in milestone payments. The sale is subject to Bankruptcy Court approval, with a hearing scheduled for September 10, 2026. Closing expected by October 15, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sangamo Therapeutics, Inc., a clinical-stage genomic medicine company, focuses on translating science into medicines that transform the lives of patients and families afflicted with serious diseases in the United States. The company’s clinical-stage product candidates are ST-920, a gene therapy product candidate, which is in Phase 1/2 clinical study for the treatment of Fabry disease; small fiber neuropathy for chronic neuropathic pain, and prion disease; Phase 1/2 clinical trial to evaluate the…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; PTC Therapeutics, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; up to $211M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Bankruptcy Court hearing on 2026-09-10&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1500 · Mkt cap $60.1M · EV $51.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1001233/000119312526374328/0001193125-26-374328-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SGMOQ&lt;/b&gt; · 8-K · Items 1.01, 1.03, 9.01 · Chemicals / Pharma (2836) · 8k_tier1:1.01,1.03 · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
