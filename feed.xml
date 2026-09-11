@@ -6,8 +6,31 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 15:58:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:17:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · TLAC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2128462/000119312526388890/0001193125-26-388890-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-388890</guid>
+      <pubDate>Fri, 11 Sep 2026 11:16:57 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Discloses 21.9% stake in SPAC</scanner:headline>
+      <scanner:shortName>Three Lions Acquisition</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>TLAC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Discloses 21.9% stake in SPAC&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Sponsor, LLC filed a Schedule 13D disclosing beneficial ownership of 3,158,333 ordinary shares of Three Lions Acquisition Corp., representing 21.9% of the outstanding shares. The sponsor acquired the shares through founder shares and private placement units in connection with the IPO. No plans or proposals for changes are disclosed.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 21.9%&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2128462/000119312526388890/0001193125-26-388890-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TLAC, TLACU&lt;/b&gt; · SCHEDULE 13D · Holding / Investment Offices (6770) · fresh_13d · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · ASA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1230869/000121390026099069/ea0305251-px14a6g_alexander.htm</link>
@@ -13400,30 +13423,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.2200 · Mkt cap $11.0M · EV $2.0M · Industrials / Passenger Airlines&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1853070/000149315226040581/0001493152-26-040581-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SOAR, SOARW&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Air Transportation (4522) · 8k_tier1:1.01,7.01 · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · Talawar Tx</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2140859/000119312526374324/tlwr-20260828.htm</link>
-      <guid isPermaLink="false">0001193125-26-374324</guid>
-      <pubDate>Fri, 28 Aug 2026 15:15:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4</category>
-      <scanner:headline>Merges with JATT II SPAC; $120M equity value + $225M PIPE</scanner:headline>
-      <scanner:shortName>Talawar Tx</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4</scanner:form>
-      <scanner:sector />
-      <scanner:ticker />
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Merges with JATT II SPAC; $120M equity value + $225M PIPE&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a definitive Business Combination Agreement with SPAC JATT II Acquisition Corp. dated June 29, 2026. Talawar stockholders receive post-closing company common stock via an exchange ratio based on $120,000,000 transaction share consideration; JATT shareholders get 1 share per JATT share. Concurrent $225,000,000 PIPE at $10.00/share (22.5M shares). Closing requires shareholder approval at the extraordinary general meeting.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; JATT II Acquisition Corp.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $120,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; JATT shareholder vote at extraordinary general meeting&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2140859/000119312526374324/0001193125-26-374324-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;S-4 · prefill_form:S-4 · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
