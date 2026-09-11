@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 13:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:25:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NFE 🪙 Debt Restr.
+Completes debt restructuring; creditors receive 65% of CoreCo equity
+Mcap $94M · EV $9.2B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1749723/000174972326000118/nfe-20260911.htm</link>
+      <guid isPermaLink="false">0001749723-26-000118</guid>
+      <pubDate>Fri, 11 Sep 2026 08:25:13 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$CDLX ⚖️ Litigation · Settled
 Settles Jain indemnification claim for $6.4M
@@ -591,25 +600,6 @@ Mcap $943M · EV $800M · Cons Disc</title>
       <guid isPermaLink="false">0001193125-26-387494</guid>
       <pubDate>Thu, 10 Sep 2026 10:19:58 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ETCC 📤 Divestiture
-Sells 100% of Polish subsidiary ETC-PZL to Polsport
-Mcap $26M · EV $43M · Industrials</title>
-      <link>https://www.otcmarkets.com/stock/ETCC/news/534692</link>
-      <guid isPermaLink="false">OTC-534692</guid>
-      <pubDate>Thu, 10 Sep 2026 08:25:16 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$TBPH 🤝 Merger
-Faces Zymeworks merger vote Sept 18
-Mcap $886M · EV $537M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1583107/000110465926106567/tm2624960d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-106567</guid>
-      <pubDate>Thu, 10 Sep 2026 08:18:12 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
