@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 20:24:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:29:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BCPLBDC 🤝 Merger
+Acquires ACIF; shareholders approve merger</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1726548/000119312526389299/d95511d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-389299</guid>
+      <pubDate>Fri, 11 Sep 2026 15:29:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$ANY 📤 Divestiture
+Sells non-core Iowa site and legacy mining fleet to fund AI/HPC
+Mcap $22M · EV $23M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1591956/000121390026099276/ea0305129-8k_sphere.htm</link>
+      <guid isPermaLink="false">0001213900-26-098043</guid>
+      <pubDate>Fri, 11 Sep 2026 15:27:40 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$YTRA 🎯 Tender
 Amends tender offer: $1.10/share for up to 20M YTRA shares; expires 9/25
@@ -698,36 +716,6 @@ Mcap $4.0B · EV $7.0B · Energy</title>
       <pubDate>Thu, 10 Sep 2026 15:29:58 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$SUN 📉 Delisting · Voluntary
-Voluntarily delists from NYSE; TXSE trading begins Oct 5
-effective 2026-10-05
-Mcap $11B · EV $26B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1552275/000155227526000075/sun-20260903.htm</link>
-      <guid isPermaLink="false">0001552275-26-000075</guid>
-      <pubDate>Thu, 10 Sep 2026 15:28:12 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-    </item>
-    <item>
-      <title>$SUNC 📉 Delisting · Voluntary
-Transfers listing from NYSE to TXSE; trading starts Oct 5
-Mcap $4.2B · EV $24B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2089661/000208966126000063/sunc-20260903.htm</link>
-      <guid isPermaLink="false">0002089661-26-000063</guid>
-      <pubDate>Thu, 10 Sep 2026 15:27:42 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-    </item>
-    <item>
-      <title>$ETD ⚔️ Proxy
-5.2% holder launches CEO search and proxy contest
-Mcap $547M · EV $534M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/896156/000092189526002525/dfan14a14857002_09102026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002525</guid>
-      <pubDate>Thu, 10 Sep 2026 15:26:32 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
