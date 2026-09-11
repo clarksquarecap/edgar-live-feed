@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 10:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:57:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CMCM 📤 Divestiture
+Sells 36% gaming stake for $41.3M cash
+US$41.3 million deal · close September 2026
+Mcap $104M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597835/000119312526388592/cmcm-6k-2026q2.htm</link>
+      <guid isPermaLink="false">0001193125-26-388592</guid>
+      <pubDate>Fri, 11 Sep 2026 05:57:10 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$NHIC 🤝 Merger
 Enters forward purchase agreement for up to 7M shares to back newcleo merger
@@ -642,16 +652,6 @@ Mcap $1.6B · EV $2.4B · Industrials</title>
       <guid isPermaLink="false">0001193125-26-387187</guid>
       <pubDate>Thu, 10 Sep 2026 06:05:55 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$CC ⚖️ Litigation · Settled
-Settles PFAS claims with North Carolina for $455M
-Mcap $2.3B · EV $5.8B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1627223/000162722326000029/cc-20260910.htm</link>
-      <guid isPermaLink="false">0001627223-26-000029</guid>
-      <pubDate>Thu, 10 Sep 2026 05:53:49 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>

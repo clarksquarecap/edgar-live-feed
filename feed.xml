@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 10:51:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:57:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · CMCM</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1597835/000119312526388592/cmcm-6k-2026q2.htm</link>
+      <guid isPermaLink="false">0001193125-26-388592</guid>
+      <pubDate>Fri, 11 Sep 2026 05:57:10 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Sells 36% gaming stake for $41.3M cash</scanner:headline>
+      <scanner:shortName>Cheetah Mobile</scanner:shortName>
+      <scanner:price>3.35</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>CMCM</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Sells 36% gaming stake for $41.3M cash&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Agreed to sell its entire 36% equity interest in a gaming-related company for approximately US$41.3 million cash, with closing expected in September 2026. The company also increased its stake in Beijing OrionStar to 75.83% by acquiring remaining partnership interests for RMB90.8 million.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cheetah Mobile Inc., together with its subsidiaries, provides internet services, artificial intelligence (AI), and other services in the People’s Republic of China, Hong Kong, Japan, and internationally. The company offers internet products that include Duba Anti-virus applications, such as anti-virus and anti-malware, K+ defense, and membership services; Yuanqi Wallpaper, including desktop beautification, wallpaper management, and wallpaper creation.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; US$41.3 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 36%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; September 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing of disposal&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.35 · Mkt cap $103.8M · EV $-31.4M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1597835/000119312526388592/0001193125-26-388592-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CMCM&lt;/b&gt; · 6-K · Business Services (7372) · prefill_form:6-K · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · NHIC</title>
       <link>https://www.sec.gov/Archives/edgar/data/2043699/000114036126036270/ef20081851_8k.htm</link>
@@ -13383,33 +13410,6 @@
 &lt;p&gt;&lt;i&gt;Px $93.66 · Mkt cap $3.16B · EV $3.73B · Fwd P/E 15.2x · Fwd EV/EBITDA 9.8x · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1666138/000114036126034771/0001140361-26-034771-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ATKR&lt;/b&gt; · PREM14A · Electronic Equipment (3690) · prefill_form:PREM14A · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · VNET</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1508475/000110465926102589/0001104659-26-102589-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-102589</guid>
-      <pubDate>Fri, 28 Aug 2026 05:16:53 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Receives 13D from PJ Millennium disclosing 11.4% stake</scanner:headline>
-      <scanner:shortName>VNET Group</scanner:shortName>
-      <scanner:price>7.92</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>VNET</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D from PJ Millennium disclosing 11.4% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D from PJ Millennium Limited Partnership, which reported beneficial ownership of 195,127,260 Class A ordinary shares, representing 11.4% of the company&amp;#39;s outstanding ordinary shares. The filing indicates a non-passive position, though no specific activist agenda is disclosed in the initial filing.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VNET Group, Inc., an investment holding company, provides data center hosting and related services in China. The company offers managed hosting services comprising managed retail services, such as colocation services that dedicate data center space to house customers’ servers and networking equipment, as well as allow customers to lease partial or entire cabinets for their servers; interconnectivity services that allow customers to connect their servers; and value-added services, including hybri…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; PJ Millennium Limited Partnership&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 11.4%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.92 · Mkt cap $2.25B · EV $6.23B · Fwd EV/EBITDA 9.9x · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1508475/000110465926102589/0001104659-26-102589-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VNET&lt;/b&gt; · SCHEDULE 13D · Business Services (7370) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
