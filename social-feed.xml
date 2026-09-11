@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 21:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:28:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SVAQ 🤝 Merger
+Acquires EigenQ in $3B business combination
+3,000,000,000 deal
+Mcap $295M · EV $294M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085659/000121390026099355/ea030533802-425_eigenq.htm</link>
+      <guid isPermaLink="false">0001213900-26-099355</guid>
+      <pubDate>Fri, 11 Sep 2026 16:28:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BTLN 📉 Delisting · Forced
 Faces forced Nasdaq delisting; appeal due Sept 18
@@ -654,17 +665,6 @@ Mcap $256M · Financials</title>
       <guid isPermaLink="false">0000921895-26-002488</guid>
       <pubDate>Thu, 10 Sep 2026 16:31:42 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$ARCL 🤝 Merger
-Acquires Firstborn Top Capital for $1B in stock
-$1,000,000,000 deal · stock
-Mcap $180M · EV $179M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2073515/000149315226042241/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042241</guid>
-      <pubDate>Thu, 10 Sep 2026 16:24:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
