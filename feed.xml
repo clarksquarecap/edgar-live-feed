@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 21:21:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:22:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · BTLN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1854445/000149315226042421/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-042421</guid>
+      <pubDate>Fri, 11 Sep 2026 16:21:37 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>8-K</category>
+      <scanner:headline>Faces forced Nasdaq delisting; appeal due Sept 18</scanner:headline>
+      <scanner:shortName>Brightline Interactive</scanner:shortName>
+      <scanner:price>0.9100</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>BTLN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Faces forced Nasdaq delisting; appeal due Sept 18&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a final Staff Determination from Nasdaq to delist its common stock for failing to meet the $1.00 minimum bid price requirement by the September 9, 2026 deadline. The company plans to appeal by requesting a hearing before the Hearings Panel by September 18, 2026, which would stay the suspension pending the panel&amp;#39;s decision. The common stock remains listed pending the outcome of the hearing.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Brightline Interactive, Inc., an immersive technology company, provides enterprise-focused virtual reality (VR), augmented reality (AR), and spatial computing software and services in the United States. It offers Brightline Interactive, an immersive and interactive experience, training scenarios, and simulation for government and commercial customers; Sector 5 Digital for corporate immersive experiences and events; Glimpse Learning for education, learning, and upskilling; Foretell Reality, a cus…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nasdaq&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Hearing request deadline September 18, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.9100 · Mkt cap $20.0M · EV $18.0M · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1854445/000149315226042421/0001493152-26-042421-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BTLN&lt;/b&gt; · 8-K · Items 3.01 · Business Services (7371) · 8k_tier1:3.01 · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · DV</title>
       <link>https://www.sec.gov/Archives/edgar/data/1819928/000110465926107126/tm2621904-10_prem14a.htm</link>
@@ -13390,33 +13417,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GARWF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-08-24&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;OTC · Aug 31 05:07 · &lt;a href='https://goldenarrowresources.com/news-releases/golden-arrow-announces-shareholder-approval-of-sale-of-copper-assets-at-san-pietro-project/'&gt;Sells San Pietro copper assets to Capstone for $25M; close Q3&lt;/a&gt;&lt;/li&gt;&lt;li&gt;OTC · Aug 24 06:09 · &lt;a href='https://goldenarrowresources.com/news-releases/golden-arrow-resources-announces-us-25-million-sale-of-75-owned-copper-assets-at-san-pietro-project-secures-capital-and-retains/'&gt;Sells copper assets to Capstone for US$25M in shares&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · XPON</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1894954/000190359626000330/0001903596-26-000330-index.htm</link>
-      <guid isPermaLink="false">0001903596-26-000330</guid>
-      <pubDate>Fri, 28 Aug 2026 19:28:40 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Discloses 9.99% beneficial ownership</scanner:headline>
-      <scanner:shortName>Expion Energy</scanner:shortName>
-      <scanner:price>3.45</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>XPON</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Discloses 9.99% beneficial ownership&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Five Narrow Lane LP disclosed a 9.99% beneficial ownership stake in Expion Energy, Inc. (XPON) via Schedule 13D. The stake is capped by a contractual 9.99% ownership restriction; full conversion of convertible securities would exceed this limit. Reporting persons include the fund, its general partner, and two individuals.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Expion360 Inc. designs, assembles, manufactures, and sells lithium iron phosphate (LiFePO4) batteries and supporting accessories in North America. The company offers 12V batteries, including Group 24, Group 27, GC2, and EX1 custom; and 48V batteries, such as GC2. It also provides accessories comprising battery monitors, DC-DC battery chargers, solar charge controller battery chargers, CANBus communication cables, 120W portable solar panels, industrial battery mounting kits, terminal blocks, bus …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.99%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.45 · Mkt cap $3.1M · EV $880K · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1894954/000190359626000330/0001903596-26-000330-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;XPON&lt;/b&gt; · SCHEDULE 13D · Electronic Equipment (3690) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
