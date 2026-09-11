@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 11:11:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:49:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · APUR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2093524/000121390026098973/ea0305143-8k425_aperture.htm</link>
+      <guid isPermaLink="false">0001213900-26-098973</guid>
+      <pubDate>Fri, 11 Sep 2026 06:49:40 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>Acquires Atlantic HPC for $150M ($10/share) + earnout</scanner:headline>
+      <scanner:shortName>Aperture AC</scanner:shortName>
+      <scanner:price>10.02</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>APUR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires Atlantic HPC for $150M ($10/share) + earnout&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a Business Combination Agreement to acquire Atlantic HPC Group Inc. for $150M aggregate value, with each share valued at $10.00, plus up to 6M earnout shares tied to milestones. The SPAC will re-domicile to Delaware and the combined company will be renamed Atlantic HPC Corp. The transaction is subject to shareholder approval and regulatory conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Aperture AC, a blank check company, focuses on effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2025 and is based in Los Angeles, California.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Atlantic HPC Group Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price for Atlantic HPC Group:&lt;/b&gt; 10.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 150,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.02 · Mkt cap $147.6M · EV $147.2M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2093524/000121390026098973/0001213900-26-098973-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;APUR, APURR&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · QNCRF</title>
       <link>https://www.qncor.ca/news-posts/quantumcore-announces-transformational-acquisition-of-avalanche-photoniq-to-create-a-broad-based-quantum-infrastructure-supplier</link>
@@ -13384,34 +13411,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.6000 · Mkt cap $7.2M · EV $6.7M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1574565/000121390026094703/0001213900-26-094703-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EVGN&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2870) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · OSRH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840425/000121390026094654/ea0303794-8k_osrhealth.htm</link>
-      <guid isPermaLink="false">0001213900-26-091756</guid>
-      <pubDate>Fri, 28 Aug 2026 07:04:15 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>8-K</category>
-      <scanner:headline>Nasdaq trading suspended Aug 26; Panel hearing Sept 29</scanner:headline>
-      <scanner:shortName>OSR Health</scanner:shortName>
-      <scanner:price>0.4400</scanner:price>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>OSRH</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>8-K x3</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Aug 26; appeal pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a final Nasdaq Staff Determination to delist its common stock and warrants for failure to regain the $1.00 minimum bid price. Trading suspended at open on Aug 26, 2026; company will request a Hearings Panel appeal, which stays the Form 25-NSE filing pending decision.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; OSR Health, Inc., a healthcare holding company, develops a portfolio of therapies and healthcare solutions in the United States, Europe, and Korea. The company develops immunotherapy products, including VXM01, an immuno-oncology candidate for glioblastoma completed phase 2 clinical trial, as well as preclinical stage products, such as VXM04 to treat mesothelin; VXM06 for the treatment of Wilms Tumor Protein (WT1); VXM08 for Carcinoembryonic antigen (CEA); and VXM10 for PD-L1.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-19&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Hearing request due Aug 26; Panel decision pending&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.4400 · Mkt cap $15.3M · EV $42.2M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1840425/000121390026091756/0001213900-26-091756-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OSRH, OSRHW&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Instruments / Medical Devices (3841) · 8k_tier1:3.01,7.01 · filed 2026-08-19&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Aug 28 07:04 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1840425/000121390026094654/ea0303794-8k_osrhealth.htm'&gt;Nasdaq trading suspended Aug 26; Panel hearing Sept 29&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Aug 25 10:32 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1840425/000121390026093379/ea0303318-8k_osrhealth.htm'&gt;Forced Nasdaq suspension effective Aug 26; hearing pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Aug 19 16:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1840425/000121390026091756/ea0302782-8k_osrhealth.htm'&gt;Forced Nasdaq delisting effective Aug 26; appeal pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
