@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 10:17:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:23:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CIRC 🤝 Merger · Unsolicited
@@ -58,6 +58,16 @@ Mcap $12M · EV $13M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/720762/000149315226042269/forms-4a.htm</link>
       <guid isPermaLink="false">0001493152-26-042269</guid>
       <pubDate>Fri, 11 Sep 2026 05:12:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$ACVA 🤝 Merger
+Acquires ACV Auctions via tender offer; agreement dated Sept 10
+Mcap $1.3B · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526388383/d138398dsctoc.htm</link>
+      <guid isPermaLink="false">0001193125-26-388383</guid>
+      <pubDate>Fri, 11 Sep 2026 05:11:22 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -623,17 +633,6 @@ Mcap $2.3B · EV $5.8B · Materials</title>
       <pubDate>Thu, 10 Sep 2026 05:53:49 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$SWMR 🤝 Merger
-Acquires Ratel Robotics for $7.2M cash + 1.06M shares + earnouts
-cash+stk · close Q4 2026
-Mcap $410M · EV $385M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2092574/000110465926106499/tm2625021d3_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-106499</guid>
-      <pubDate>Thu, 10 Sep 2026 05:18:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
