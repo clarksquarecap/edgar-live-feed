@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 12:37:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:04:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Settled · CDLX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1666071/000162828026061459/cdlx-20260904.htm</link>
+      <guid isPermaLink="false">0001628280-26-061459</guid>
+      <pubDate>Fri, 11 Sep 2026 08:03:59 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+      <category>8-K</category>
+      <scanner:headline>Settles Jain indemnification claim for $6.4M</scanner:headline>
+      <scanner:shortName>Cardlytics</scanner:shortName>
+      <scanner:price>4.13</scanner:price>
+      <scanner:subtype>settled</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>CDLX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Settles Jain indemnification claim for $6.4M&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Settled Amit Jain&amp;#39;s advancement and indemnification claim for $6.4 million, consistent with its $6.5 million accrual. The settlement covers Jain&amp;#39;s allocated portion of the DailyGobble Action and legal fees. The company seeks insurance reimbursement.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cardlytics, Inc. operates an advertising platform in the United States and the United Kingdom. The company provides Cardlytics platform, a proprietary native bank advertising channel that enables marketers to reach customers through digital channels, such as online, mobile applications, email, and various real-time notifications; and Bridg platform, a customer data platform which utilizes point-of-sale data from merchant data partners, including product-level purchase data to enable marketers to…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Amit Jain&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $6.4 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $4.13 · Mkt cap $24.3M · EV $186.2M · Fwd EV/EBITDA 99.5x · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1666071/000162828026061459/0001628280-26-061459-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CDLX&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Business Services (7370) · 8k_tier1:1.01 · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · AA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1675149/000119312526388663/d23778d425.htm</link>
@@ -13388,30 +13415,6 @@
 &lt;p&gt;&lt;i&gt;Px $20.40 · Mkt cap $20.7M · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1978811/000167873126000003/0001678731-26-000003-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GOVB&lt;/b&gt; · SCHEDULE 13D · Depository Institutions (6036) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · GRX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1391437/000106299326004689/0001062993-26-004689-index.htm</link>
-      <guid isPermaLink="false">0001062993-26-004689</guid>
-      <pubDate>Fri, 28 Aug 2026 10:52:45 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Receives 13D/A from Saba Capital raising stake to 14.32%</scanner:headline>
-      <scanner:shortName>Gabelli Healthcare &amp; WellnessRx</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>GRX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Saba Capital raising stake to 14.32%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Saba Capital Management, L.P. increased its beneficial ownership in Gabelli Healthcare &amp;amp; WellnessRx Trust to 2,155,133 common shares (14.32% of class) via open-market purchases. The 13D/A amendment #4 does not state a specific agenda. Saba is a known closed-end fund activist, so further engagement may follow.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Saba Capital Management, L.P.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 14.32%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1391437/000106299326004689/0001062993-26-004689-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GRX&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
