@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 20:30:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:38:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SBMT 🤝 Merger
+Acquires Montana Tunnels assets from MTGF; $28.58M escrow + $5M notes
+Montana Goldfields · close Q4 2026
+Mcap $233M · EV $178M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2067674/000153949726002489/n5138_x36-8k.htm</link>
+      <guid isPermaLink="false">0001539497-26-002489</guid>
+      <pubDate>Fri, 11 Sep 2026 15:38:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$ETD ⚔️ Proxy
+Faces DGB proxy contest; 5 nominees opposed
+DGB Investment · 5.2% stake
+Mcap $547M · EV $534M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/896156/000153949726002490/n6029_x2-prec14a.htm</link>
+      <guid isPermaLink="false">0000921895-26-002525</guid>
+      <pubDate>Fri, 11 Sep 2026 15:36:14 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$BCPLBDC 🤝 Merger
 Acquires ACIF; shareholders approve merger</title>
@@ -684,27 +705,6 @@ Mcap $255M · EV $137M · Healthcare</title>
       <guid isPermaLink="false">0001493152-26-040286</guid>
       <pubDate>Thu, 10 Sep 2026 15:40:22 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$GEG 👀 Activist
-Forbears PIK Note conversion until Nov 2027
-23.3 stake
-Mcap $68M · EV $41M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1831096/000119312526387898/0001193125-26-387898-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-387898</guid>
-      <pubDate>Thu, 10 Sep 2026 15:31:54 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$ET 📉 Delisting · Voluntary
-Voluntarily delists from NYSE; TXSE trading Oct 5
-effective 2026-10-05
-Mcap $75B · EV $163B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1276187/000127618726000044/et-20260903.htm</link>
-      <guid isPermaLink="false">0001276187-26-000044</guid>
-      <pubDate>Thu, 10 Sep 2026 15:30:30 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
