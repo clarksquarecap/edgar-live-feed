@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 13:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:10:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CDLX ⚖️ Litigation · Settled
@@ -610,16 +610,6 @@ Mcap $886M · EV $537M · Healthcare</title>
       <pubDate>Thu, 10 Sep 2026 08:18:12 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TTEK 💧 Capital Return · Buyback
-Adds $500M to buyback; total available $898M
-Mcap $9.1B · EV $9.9B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/831641/000110465926106564/tm2625143d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-106564</guid>
-      <pubDate>Thu, 10 Sep 2026 08:05:31 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
