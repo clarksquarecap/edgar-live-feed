@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 21:08:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:14:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Seeks removal of 5 directors and CEO; plans return as chairman
+Mcap $256M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002535/dfan14a14909002_09112026.htm</link>
+      <guid isPermaLink="false">0001628280-26-057388</guid>
+      <pubDate>Fri, 11 Sep 2026 16:14:32 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$SNTI 📍 Stake
 Commits $2.5M to buy new shares at Nasdaq minimum price
@@ -644,26 +653,6 @@ Mcap $3.0B · EV $3.4B · Comms</title>
       <link>https://www.sec.gov/Archives/edgar/data/1830081/000121390026098854/ea0305158-8k_rum.htm</link>
       <guid isPermaLink="false">0001213900-26-098854</guid>
       <pubDate>Thu, 10 Sep 2026 16:16:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AXGN 🤝 Merger
-Enters merger agreement with BioCircuit Technologies
-Mcap $2.5B · EV $2.4B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/805928/000162828026061393/axgn-20260909.htm</link>
-      <guid isPermaLink="false">0001628280-26-061208</guid>
-      <pubDate>Thu, 10 Sep 2026 16:10:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CGTL 🤝 Merger
-Shareholders approve M&amp;A charter amendment at EGM
-Mcap $7M · EV $7M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1967822/000121390026098846/ea0304908-6k_creative.htm</link>
-      <guid isPermaLink="false">0001213900-26-098846</guid>
-      <pubDate>Thu, 10 Sep 2026 16:09:47 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
