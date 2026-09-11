@@ -6,8 +6,30 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 20:40:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:47:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AA 🤝 Merger
+Acquires South32's bauxite/alumina/aluminum assets; $900M NPV synergies
+South32 Limited · close 1H 2027
+Mcap $13B · EV $12B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1675149/000095010326013850/dp253268_425.htm</link>
+      <guid isPermaLink="false">0001193125-26-385947</guid>
+      <pubDate>Fri, 11 Sep 2026 15:47:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$WAFD 🤝 Merger
+Acquired by EverBank; close expected early 2027
+EverBank Financial
+Mcap $2.5B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/936528/000114036126036356/ef20081932_defa14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-035826</guid>
+      <pubDate>Fri, 11 Sep 2026 15:46:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SBMT 🤝 Merger
 Acquires Montana Tunnels assets from MTGF; $28.58M escrow + $5M notes
@@ -293,17 +315,6 @@ Mcap $24M · EV $186M · Comms</title>
       <pubDate>Fri, 11 Sep 2026 08:03:59 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$AA 🤝 Merger
-Acquires South32's bauxite/alumina/aluminum ops; shareholder vote set
-South32 Limited
-Mcap $13B · EV $12B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1675149/000119312526388663/d23778d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-385947</guid>
-      <pubDate>Fri, 11 Sep 2026 07:36:48 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$RENT 📜 Rights Issue
@@ -655,46 +666,6 @@ Mcap $135B · EV $168B · Cons Stpl</title>
       <link>https://www.sec.gov/Archives/edgar/data/217410/000199937126020328/mccormick-425_091026.htm</link>
       <guid isPermaLink="false">0001999371-26-020328</guid>
       <pubDate>Thu, 10 Sep 2026 15:55:41 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ZDGE 📍 Stake
-Increases stake to 15.9% of Class B; 61.4% voting power
-Mcap $38M · EV $19M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1667313/000121390026098817/0001213900-26-098817-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-098817</guid>
-      <pubDate>Thu, 10 Sep 2026 15:47:16 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BSVN 🤝 Merger
-Acquires ~71% of Century Financial for $88.96M cash
-$88,960,000 deal · cash
-Mcap $520M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1746129/000114036126036192/ef20081805_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-036192</guid>
-      <pubDate>Thu, 10 Sep 2026 15:43:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CVV 🔎 Strat Review · Portfolio Review
-Restructures: exits new equipment orders, halves workforce, CEO departs; explores asset sales
-Mcap $45M · EV $21M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/766792/000149315226042189/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042189</guid>
-      <pubDate>Thu, 10 Sep 2026 15:41:22 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
-    </item>
-    <item>
-      <title>$NHP 📤 Divestiture
-Sells 30 of 86 medical facilities for ~$79M net cash; repays $119M debt
-~$79 million (first tranche net cash proceeds) deal
-Mcap $1.0B · EV $1.6B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1561032/000156103226000058/hct-20260910.htm</link>
-      <guid isPermaLink="false">0001561032-26-000058</guid>
-      <pubDate>Thu, 10 Sep 2026 15:40:54 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>
