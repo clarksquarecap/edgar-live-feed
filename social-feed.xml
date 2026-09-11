@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 11:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:10:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CRGO 👀 Activist
+Founder launches GrowCRGO; proposes Chairman removal, annual elections
+6.0 stake
+Mcap $62M · EV $43M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1927719/000197645426000003/0001976454-26-000003-index.htm</link>
+      <guid isPermaLink="false">0001976454-26-000003</guid>
+      <pubDate>Fri, 11 Sep 2026 06:10:22 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$CRMT 🪙 Debt Restr.
 Extends Silver Point waiver to Sept 18; strategic review active
@@ -651,15 +661,6 @@ Mcap $1.6B · EV $2.4B · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/703604/000119312526387198/d169511ddefa14a.htm</link>
       <guid isPermaLink="false">0001193125-26-387198</guid>
       <pubDate>Thu, 10 Sep 2026 06:11:53 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$DSGR 📦 Going Private
-Acquired by Eclipse Parent (LKCM) in going-private; 13E-3 filed
-Mcap $1.6B · EV $2.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/703604/000119312526387187/d169511d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-387187</guid>
-      <pubDate>Thu, 10 Sep 2026 06:05:55 -0500</pubDate>
       <category>GOING_PRIVATE</category>
     </item>
   </channel>
