@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 20:18:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:24:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🎯 Tender · YTRA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1516899/000153949726002487/n6080_x2-sctota.htm</link>
+      <guid isPermaLink="false">0001539497-26-002487</guid>
+      <pubDate>Fri, 11 Sep 2026 15:24:48 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>tender_offer</category>
+      <category>SC TO-T/A</category>
+      <scanner:headline>Amends tender offer: $1.10/share for up to 20M YTRA shares; expires 9/25</scanner:headline>
+      <scanner:shortName>Yatra Online</scanner:shortName>
+      <scanner:price>1.06</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SC TO-T/A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>YTRA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC TO-T/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Amends tender offer: $1.10/share for up to 20M YTRA shares; expires 9/25&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Magna Holdings is offering to purchase up to 20,000,000 ordinary shares of Yatra Online at $1.10 per share in cash, a 17.38% premium over the August 18 closing price. The offer expires September 25, 2026. Yatra&amp;#39;s board recommends shareholders reject the offer.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Yatra Online, Inc. operates as an online travel company in India and internationally. The company operates through Air Ticketing; Hotels and Packages; and Other Services segments. It offers travel-related services, including domestic and international air ticketing, bus ticketing, rail ticketing, cab bookings and ancillary services for leisure and business travelers, as well as hotels, homestays, and other accommodations.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $1.10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $22,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 17.38%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 31%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-19&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Offer expiration September 25, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.06 · Mkt cap $59.5M · EV $82.7M · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1516899/000153949726002487/0001539497-26-002487-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;YTRA&lt;/b&gt; · SC TO-T/A · Transportation Services (4700) · prefill_form:SC TO-T · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · USAR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1970622/000094787126000861/0000947871-26-000861-index.htm</link>
@@ -13388,33 +13415,6 @@
 &lt;p&gt;&lt;i&gt;Px $29.24 · Mkt cap $6.64B · EV $9.38B · Fwd P/E 10.5x · Fwd EV/EBITDA 6.4x · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/802481/000080248126000059/0000802481-26-000059-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PPC&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Food &amp;amp; Kindred (2015) · 8k_tier1:8.01 · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · IOTR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1997637/000121390026095166/0001213900-26-095166-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-095166</guid>
-      <pubDate>Fri, 28 Aug 2026 16:21:35 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Receives 13D from Lianyi Holding for 34.12% stake</scanner:headline>
-      <scanner:shortName>iOThree</scanner:shortName>
-      <scanner:price>2.88</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>IOTR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D from Lianyi Holding for 34.12% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Limited received a Schedule 13D from Lianyi Holding Limited and Yu Chen disclosing beneficial ownership of 1,034,483 ordinary shares (34.12% of class) purchased at $0.87 per share for $900,000 via a Securities Purchase Agreement dated January 10, 2026. The filing states no proposals or agreements related to control changes. Yu Chen, director of Lianyi, is deemed beneficial owner.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; iOThree Limited provides maritime digital technologies, satellite connectivity, and digitalization solutions to the maritime industry. It operates through Satellite Connectivity Solution, and Digitalization and Other Solutions segments. The company offers satellite connectivity services; and sales and/or leases satellite network equipment and devices for shipboard network management; IT support; shipboard support services for IT and OT applications enablement services, as well as designs digital…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Lianyi Holding Limited&lt;/li&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; $0.87&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $900,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 34.12%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.88 · Mkt cap $14.0M · EV $12.4M · Communication Services / Diversified Telecommunication Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1997637/000121390026095166/0001213900-26-095166-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IOTR&lt;/b&gt; · SCHEDULE 13D · Communications (4899) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
