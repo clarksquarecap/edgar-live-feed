@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 19:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:06:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EVTL 👀 Activist
+Adopts charter granting Mudrick director nomination, removal, consent rights
+Mcap $95M · EV $33M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1867102/000110465926107047/tm2625179d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-107047</guid>
+      <pubDate>Fri, 11 Sep 2026 15:06:48 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$PHAR ⚖️ Litigation · Won
 Won FDA approval for Joenja in pediatric APDS; doses available Oct
@@ -681,15 +690,6 @@ Mcap $23B · EV $21B · Comms</title>
       <pubDate>Thu, 10 Sep 2026 15:08:28 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DSGR 📍 Stake
-Receives 13D/A from LKCM group; ~64% combined stake
-Mcap $1.6B · EV $2.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/703604/000119312526387838/0001193125-26-387838-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-387838</guid>
-      <pubDate>Thu, 10 Sep 2026 15:02:12 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
