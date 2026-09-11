@@ -6,8 +6,35 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 21:36:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:37:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RENT 📜 Rights Issue
+Launches $15M rights offering backstopped by STORY3; adds $10M term loan
+Mcap $95M · EV $256M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468327/000119312526389424/0001193125-26-389424-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-389424</guid>
+      <pubDate>Fri, 11 Sep 2026 16:37:39 -0500</pubDate>
+      <category>RIGHTS_ISSUE</category>
+    </item>
+    <item>
+      <title>$RENT 👀 Activist
+Holds 12.7% stake in Rent the Runway
+Mcap $95M · EV $256M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468327/000119312526389425/0001193125-26-389425-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-389425</guid>
+      <pubDate>Fri, 11 Sep 2026 16:37:21 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$SSM 🌍 Re-domicile
+Redomiciliation to Delaware via Luxembourg; shareholder vote pending
+Mcap $3M · EV $9M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2083142/000117184326006005/s4a_081026.htm</link>
+      <guid isPermaLink="false">0001171843-26-006005</guid>
+      <pubDate>Fri, 11 Sep 2026 16:36:56 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$LPBB 🤝 Merger
 Acquires NuCube Energy in $500M stock merger; rename to NuCube Holdings
