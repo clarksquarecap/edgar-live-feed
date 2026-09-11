@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 17:45:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:18:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · NTZ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900391/000119312526389058/nyse_appeal.htm</link>
+      <guid isPermaLink="false">0001193125-26-389058</guid>
+      <pubDate>Fri, 11 Sep 2026 13:18:42 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Converts €5M shareholder loans to equity; appeals NYSE delisting</scanner:headline>
+      <scanner:shortName>NATUZZI S P A</scanner:shortName>
+      <scanner:price>1.00</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Cyclical</scanner:sector>
+      <scanner:ticker>NTZ</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Converts €5M shareholder loans to equity; appeals NYSE delisting&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Natuzzi converted €5M of shareholder loans from controlling shareholder INVEST 2003 into equity, recorded as an equity reserve. The company also filed a request for review of the NYSE delisting determination, with review scheduled at least 25 business days out.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Intrusion Inc. operates as a cybersecurity company in the United States. The company provides its customers access to threat intelligence database, which contains the historical data, known associations, and reputational behavior of Internet Protocol (IP) addresses. It offers INTRUSION Shield, a zero trust reputation-based Software as a Service solution that inspects and kills dangerous network connections; INTRUSION TraceCop, a big data tool that contains an inventory of network selectors and e…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; INVEST 2003 S.r.l.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; €5,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; NYSE review pending&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.00 · Mkt cap $11.0M · EV $3.8M · Fwd P/E 0.4x · Fwd EV/EBITDA 0.1x · EV/Sales 0.0x · Consumer Cyclical / Household Durables&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/900391/000119312526389058/0001193125-26-389058-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NTZ&lt;/b&gt; · 6-K · Furniture (2510) · prefill_form:6-K · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · TACT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1017303/000121465926011604/0001214659-26-011604-index.htm</link>
@@ -13393,33 +13420,6 @@
 &lt;p&gt;&lt;i&gt;Px $4.13 · Mkt cap $20.2M · EV $100.7M · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1825024/000119312526374380/0001193125-26-374380-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OPAD, OPADW&lt;/b&gt; · 25 · Real Estate (6531) · prefill_form:25 · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · Asset Sale · GTE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1273441/000119312526374524/d146918dprem14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-374524</guid>
-      <pubDate>Fri, 28 Aug 2026 15:29:33 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>asset_sale</category>
-      <category>PREM14A</category>
-      <scanner:headline>Sells Colombia/Ecuador ops to Maurel &amp; Prom for $1.33B; vote pending</scanner:headline>
-      <scanner:shortName>GRAN TIERRA ENERGY</scanner:shortName>
-      <scanner:price>6.83</scanner:price>
-      <scanner:subtype>asset_sale</scanner:subtype>
-      <scanner:form>PREM14A</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>GTE</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>PREM14A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Sells Colombia/Ecuador ops to Maurel &amp;amp; Prom for $1.33B; vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will sell its Colombia and Ecuador business (via subsidiary Gran Tierra Energy CI GmbH) to Maurel &amp;amp; Prom Andina S.A.S. for total consideration of approximately $1.33 billion, consisting of cash, assumption of debt and a pre-payment facility, and a note payable 364 days after completion. The sale constitutes substantially all of Gran Tierra&amp;#39;s assets; after completion, Gran Tierra will retain its Canada and Azerbaijan interests. Stockholder approval required; special meeting to be held.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Gran Tierra Energy Inc., together with its subsidiaries, is involved in the exploration and production of oil and gas properties in Colombia, Canada, and Ecuador. The company has a strategic partnership with Ecopetrol S.A. for the development of fields in the Middle Magdalena Valley. The company was founded in 2003 and is headquartered in Calgary, Canada.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Maurel &amp;amp; Prom Andina S.A.S.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1.33B&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; after stockholder approval&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $6.83 · Mkt cap $241.5M · EV $738.2M · Fwd EV/EBITDA 2.1x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1273441/000119312526374524/0001193125-26-374524-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GTE&lt;/b&gt; · PREM14A · Oil &amp;amp; Gas (1311) · prefill_form:PREM14A · filed 2026-08-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

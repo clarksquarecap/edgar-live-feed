@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 17:45:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 18:18:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NTZ 🪙 Debt Restr.
+Converts €5M shareholder loans to equity; appeals NYSE delisting
+Mcap $11M · EV $4M · Consumer Cycli</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900391/000119312526389058/nyse_appeal.htm</link>
+      <guid isPermaLink="false">0001193125-26-389058</guid>
+      <pubDate>Fri, 11 Sep 2026 13:18:42 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$TACT 👀 Activist
 Urges BOHA strategic review, new directors, special meeting
@@ -678,16 +687,6 @@ Mcap $919M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/714562/000110465926106666/tm2625208d1_425.htm</link>
       <guid isPermaLink="false">0001104659-26-106666</guid>
       <pubDate>Thu, 10 Sep 2026 13:47:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DEVSF 🤝 Merger
-Postpones special meeting to Sept 17 for XCF Global merger
-Mcap $8M · EV $14M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1854480/000114036126036159/ef20081844_8k.htm</link>
-      <guid isPermaLink="false">0001213900-26-098554</guid>
-      <pubDate>Thu, 10 Sep 2026 13:16:18 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
