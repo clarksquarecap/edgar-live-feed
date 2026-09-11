@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 10:36:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:36:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · EVGN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574565/000121390026098957/0001213900-26-098957-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-098957</guid>
+      <pubDate>Fri, 11 Sep 2026 05:36:43 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Plans special tender offer to lift stake to ≥25% of Evogene</scanner:headline>
+      <scanner:shortName>Evogene</scanner:shortName>
+      <scanner:price>0.4800</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>EVGN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Plans special tender offer to lift stake to ≥25% of Evogene&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;L.I.A. Pure Capital, which with affiliates holds 19.35% of Evogene&amp;#39;s ordinary shares, notified the issuer on September 8, 2026 of its intention to commence a special tender offer under Section 328 of the Israeli Companies Law. If consummated, the offer would raise the group&amp;#39;s aggregate holding to at least 25% of outstanding voting rights. The tender offer has not yet commenced.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Evogene Ltd., together with its subsidiaries, operates as a computational biology company in Israel, the United States, Europe, and Africa. It operates through three segments: Agriculture, Human Health, and Industrial Applications. The company engages in the agricultural activities, including seed traits and ag-chemicals activities; and design novel small molecules for drug development by utilizing ChemPass AI, a computational generative AI engine.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 19.35%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Commencement of special tender offer&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.4800 · Mkt cap $7.8M · EV $9.6M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1574565/000121390026098957/0001213900-26-098957-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EVGN&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2870) · fresh_13d · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚔️ Proxy Contest · MTN</title>
       <link>https://www.sec.gov/Archives/edgar/data/812011/000081201126000039/defa14a-september2026.htm</link>
@@ -13383,36 +13410,6 @@
 &lt;p&gt;&lt;i&gt;Px $7.92 · Mkt cap $2.25B · EV $6.23B · Fwd EV/EBITDA 9.9x · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1508475/000110465926102589/0001104659-26-102589-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VNET&lt;/b&gt; · SCHEDULE 13D · Business Services (7370) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · SOLS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1590714/000110465926102559/tm2624245d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-102503</guid>
-      <pubDate>Fri, 28 Aug 2026 05:16:41 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Mutually terminates merger with Solstice; no break fee</scanner:headline>
-      <scanner:shortName>Solstice Advanced Materials</scanner:shortName>
-      <scanner:price>56.34</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>SOLS</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related>ESI</scanner:related>
-      <description>&lt;p&gt;&lt;b&gt;Mutually terminates acquisition of Element Solutions&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Solstice and Element Solutions mutually terminated the merger agreement for Solstice to acquire Element. No termination fees are payable. Solstice also authorized a $500 million share repurchase program and reaffirmed Q3 and FY2026 guidance.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Solstice Advanced Materials, Inc. operates as a specialty chemicals and advanced materials company in the United States and internationally. It operates in two segments: Refrigerants &amp;amp; Applied Solutions (RAS), and Electronic &amp;amp; Specialty Materials (ESM). The RAS segment manufactures and sells low global warming potential (LGWP) refrigerants, blowing agents, solvents, and aerosol materials; and provides, aerosol propellants, cleaning solvents, pharmaceutical packaging materials, and alternative en…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Element Solutions Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $56.34 · Mkt cap $8.95B · EV $10.63B · Fwd P/E 19.3x · Fwd EV/EBITDA 10.3x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2064953/000110465926102503/0001104659-26-102503-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SOLS&lt;/b&gt; · 8-K · Items 1.01, 1.02, 7.01, 8.01, 9.01 · Chemicals / Pharma (2800) · 8k_tier1:1.01,1.02,7.01,8.01 · filed 2026-08-27&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Aug 28 05:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1590714/000110465926102559/tm2624245d1_8k.htm'&gt;Mutually terminates merger with Solstice; no break fee&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Aug 27 16:23 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2064953/000110465926102503/tm2620579d9_8k.htm'&gt;Mutually terminates acquisition of Element Solutions&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty ESI also filed 8-K&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
