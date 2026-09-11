@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 20:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:13:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Self Tender · HERZ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/880406/000139834426016904/fp0100819-1_sctoc.htm</link>
+      <guid isPermaLink="false">0001398344-26-016904</guid>
+      <pubDate>Fri, 11 Sep 2026 15:13:35 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+      <category>SC TO-C</category>
+      <scanner:headline>Tender offer for up to 5% of shares at 97.5% NAV</scanner:headline>
+      <scanner:shortName>Herzfeld Credit Income Fund</scanner:shortName>
+      <scanner:price>16.21</scanner:price>
+      <scanner:subtype>self_tender</scanner:subtype>
+      <scanner:form>SC TO-C</scanner:form>
+      <scanner:sector>Financial Services</scanner:sector>
+      <scanner:ticker>HERZ</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC TO-C</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Tender offer for up to 5% of shares at 97.5% NAV&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced a tender offer for up to 5% of outstanding common shares at 97.5% of NAV, to commence by October 31, 2026, under its ongoing discount-management plan. The offer is triggered if the average discount exceeded 10% for the fiscal year just ended. Formal terms will be announced in the coming days.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Tender offer commencement by Oct 31, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $16.21 · Mkt cap $31.6M · EV $31.6M · EV/Sales 9.7x · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/880406/000139834426016904/0001398344-26-016904-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HERZ&lt;/b&gt; · SC TO-C · prefill_form:SC TO-C · filed 2026-09-11&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · PPLI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1800227/000162828026061531/iaci-20260911.htm</link>
@@ -13390,34 +13416,6 @@
 &lt;p&gt;&lt;i&gt;Px $18.20 · Mkt cap $1.12B · EV $1.31B · Fwd P/E 46.8x · Fwd EV/EBITDA 8.8x · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2090646/000149315226040611/0001493152-26-040611-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BRUN, BRUNW&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7374) · fresh_13d · filed 2026-08-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · ROIV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1635088/000114036126034854/ef20081283_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-034735</guid>
-      <pubDate>Fri, 28 Aug 2026 15:42:21 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>8-K</category>
-      <scanner:headline>Won FDA approval for LISRAYA (brepocitinib) in dermatomyositis</scanner:headline>
-      <scanner:shortName>Roivant Sciences</scanner:shortName>
-      <scanner:price>37.58</scanner:price>
-      <scanner:subtype>won</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>ROIV</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Won FDA approval for LISRAYA (brepocitinib) in dermatomyositis&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced FDA approval of LISRAYA (brepocitinib) 30 mg for adults with dermatomyositis, a first-in-class TYK2/JAK1 inhibitor and the first targeted therapy approved for the disease. The approval follows the Phase 3 VALOR trial, the largest DM trial ever conducted. LISRAYA is available immediately in the U.S.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Roivant Sciences Ltd., a clinical-stage biopharmaceutical company, focuses on the discovery, development, and commercialization of medicines and technologies. Its clinical product candidates include IMVT-1402, a fully human monoclonal antibody targeting FcRn in development across several IgG-mediated autoimmune indications; mosliciguat, an inhaled sGC activator in development for pulmonary hypertension associated with interstitial lung disease; neonatal fragment crystallizable receptor for the t…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $37.58 · Mkt cap $26.55B · EV $23.50B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1635088/000114036126034735/0001140361-26-034735-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ROIV&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01 · filed 2026-08-27&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Aug 28 15:42 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1635088/000114036126034854/ef20081283_8k.htm'&gt;Won FDA approval for LISRAYA (brepocitinib) in dermatomyositis&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Aug 27 16:30 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1635088/000114036126034735/ef20081229_8k.htm'&gt;Won FDA approval for LISRAYA (brepocitinib) in dermatomyositis&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

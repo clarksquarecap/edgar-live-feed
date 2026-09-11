@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 11 Sep 2026 20:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 20:13:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HERZ 💧 Capital Return · Self-tender
+Tender offer for up to 5% of shares at 97.5% NAV
+Mcap $32M · EV $32M · Financial Serv</title>
+      <link>https://www.sec.gov/Archives/edgar/data/880406/000139834426016904/fp0100819-1_sctoc.htm</link>
+      <guid isPermaLink="false">0001398344-26-016904</guid>
+      <pubDate>Fri, 11 Sep 2026 15:13:35 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$PPLI 📤 Divestiture
 Sells Care.com and Mosaic Group
@@ -658,47 +668,6 @@ Mcap $547M · EV $534M · Cons Disc</title>
       <guid isPermaLink="false">0000921895-26-002525</guid>
       <pubDate>Thu, 10 Sep 2026 15:26:32 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$SURG 📤 Divestiture
-Sells ClearLine and GPOX Wireless to GPO Plus for $27.5M in preferred
-$27,500,000 deal · close 2026-09-10
-Mcap $9M · EV $25M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1392694/000149315226042153/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042153</guid>
-      <pubDate>Thu, 10 Sep 2026 15:11:19 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CMND 🤝 Merger
-Acquires Charging Robotics; closed Sep 4, 2026
-Mcap $2M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1892500/000121390026098779/ea0304033-6k_clearmind.htm</link>
-      <guid isPermaLink="false">0001213900-26-097410</guid>
-      <pubDate>Thu, 10 Sep 2026 15:10:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PRLG 🤝 Merger
-Acquired by TDAC; up to 21.9M shares + 15.7M warrants
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2137754/000119312526387847/d11069df4a.htm</link>
-      <guid isPermaLink="false">0001193125-26-387847</guid>
-      <pubDate>Thu, 10 Sep 2026 15:08:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ROKU 🤝 Merger
-Acquired by Fox for $22B; DOJ second request
-$22 billion deal · stock · close H1 2027
-Mcap $23B · EV $21B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1428439/000119312526387859/d114415d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-385979</guid>
-      <pubDate>Thu, 10 Sep 2026 15:08:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
