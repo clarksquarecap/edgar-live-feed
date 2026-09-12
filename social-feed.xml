@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 12 Sep 2026 17:48:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 18:23:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RAKR 👀 Activist
@@ -369,15 +369,6 @@ Mcap $6M · EV $27M · Cons Disc</title>
       <pubDate>Fri, 11 Sep 2026 13:25:08 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$NTZ 🪙 Debt Restr.
-Converts €5M shareholder loans to equity; appeals NYSE delisting
-Mcap $11M · EV $4M · Consumer Cycli</title>
-      <link>https://www.sec.gov/Archives/edgar/data/900391/000119312526389058/nyse_appeal.htm</link>
-      <guid isPermaLink="false">0001193125-26-389058</guid>
-      <pubDate>Fri, 11 Sep 2026 13:18:42 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
