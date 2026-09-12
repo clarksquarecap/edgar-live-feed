@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 12 Sep 2026 10:17:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 10:41:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RAKR 👀 Activist
@@ -627,25 +627,6 @@ Mcap $293M · EV $293M · Financials</title>
       <pubDate>Fri, 11 Sep 2026 05:50:54 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$EVGN 👀 Activist
-Plans special tender offer to lift stake to ≥25% of Evogene
-19.35 stake
-Mcap $8M · EV $10M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574565/000121390026098957/0001213900-26-098957-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-098957</guid>
-      <pubDate>Fri, 11 Sep 2026 05:36:43 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$MTN ⚔️ Proxy
-Faces Oasis Management proxy contest; 4 director nominees
-Mcap $4.8B · EV $8.0B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/812011/000081201126000039/defa14a-september2026.htm</link>
-      <guid isPermaLink="false">0000812011-26-000039</guid>
-      <pubDate>Fri, 11 Sep 2026 05:36:18 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
