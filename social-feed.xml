@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 12 Sep 2026 20:12:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:18:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RAKR 👀 Activist
@@ -270,66 +270,6 @@ Mcap $60M · EV $83M · Cons Disc</title>
       <guid isPermaLink="false">0001539497-26-002487</guid>
       <pubDate>Fri, 11 Sep 2026 15:24:48 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$USAR 📍 Stake
-Takes 7.9% stake (29.5M shares) as merger consideration
-Mcap $3.9B · EV $2.4B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1970622/000094787126000861/0000947871-26-000861-index.htm</link>
-      <guid isPermaLink="false">0000947871-26-000861</guid>
-      <pubDate>Fri, 11 Sep 2026 15:18:28 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ATEK 🤝 Merger
-Approves Ace Green merger; extension to Oct 14
-Ace Green Recycling · close by Oct 14, 2026
-Mcap $94M · EV $96M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1882198/000121390026099259/ea0305259-8k_athena2.htm</link>
-      <guid isPermaLink="false">0001213900-26-099259</guid>
-      <pubDate>Fri, 11 Sep 2026 15:16:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AIIO 💥 Busted M&amp;A
-Terminates $1M share acquisition of Chinasky Car Trading FZE
-Mcap $213M · EV $218M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1932737/000121390026099258/ea0305163-6k_roboai.htm</link>
-      <guid isPermaLink="false">0001213900-26-099258</guid>
-      <pubDate>Fri, 11 Sep 2026 15:14:24 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$BGMS 🤝 Merger
-Acquires Future NRG Sdn Bhd in share exchange
-stock
-Mcap $6M · EV $2M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1130166/000149315226042382/forms-4a.htm</link>
-      <guid isPermaLink="false">0001493152-26-042382</guid>
-      <pubDate>Fri, 11 Sep 2026 15:14:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FRMI 👀 Activist
-Files 14a-8 for independent strategic review; seeks sale/recap evaluation
-22% stake
-Mcap $3.5B · EV $4.0B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026099255/ea0305276-px14a6g_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-099255</guid>
-      <pubDate>Fri, 11 Sep 2026 15:13:57 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$HERZ 💧 Capital Return · Self-tender
-Tender offer for up to 5% of shares at 97.5% NAV
-Mcap $32M · EV $32M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/880406/000139834426016904/fp0100819-1_sctoc.htm</link>
-      <guid isPermaLink="false">0001398344-26-016904</guid>
-      <pubDate>Fri, 11 Sep 2026 15:13:35 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
