@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 12 Sep 2026 20:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 20:30:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RAKR 👀 Activist
@@ -242,34 +242,6 @@ Mcap $547M · EV $534M · Cons Disc</title>
       <guid isPermaLink="false">0000921895-26-002525</guid>
       <pubDate>Fri, 11 Sep 2026 15:36:14 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$BCPLBDC 🤝 Merger
-Acquires ACIF; shareholders approve merger</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1726548/000119312526389299/d95511d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-389299</guid>
-      <pubDate>Fri, 11 Sep 2026 15:29:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ANY 📤 Divestiture
-Sells non-core Iowa site and legacy mining fleet to fund AI/HPC
-Mcap $22M · EV $23M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1591956/000121390026099276/ea0305129-8k_sphere.htm</link>
-      <guid isPermaLink="false">0001213900-26-098043</guid>
-      <pubDate>Fri, 11 Sep 2026 15:27:40 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$YTRA 🎯 Tender
-Amends tender offer: $1.10/share for up to 20M YTRA shares; expires 9/25
-17.38% prem · $22,000,000 deal · cash · close 2026-09-25
-Mcap $60M · EV $83M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1516899/000153949726002487/n6080_x2-sctota.htm</link>
-      <guid isPermaLink="false">0001539497-26-002487</guid>
-      <pubDate>Fri, 11 Sep 2026 15:24:48 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
