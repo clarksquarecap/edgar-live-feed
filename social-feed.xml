@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 12 Sep 2026 13:35:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:41:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RAKR 👀 Activist
@@ -435,15 +435,6 @@ Mcap $2.7B · EV $2.5B · Healthcare</title>
       <pubDate>Fri, 11 Sep 2026 10:09:00 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$EZRA 📤 Divestiture
-Sells SMI to Scali; $1.2M loan paydown, retains 50% of proceeds
-Mcap $3M · EV $7M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1812727/000149315226042319/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-041914</guid>
-      <pubDate>Fri, 11 Sep 2026 08:41:33 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
