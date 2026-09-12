@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 12 Sep 2026 12:17:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:05:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RAKR 👀 Activist
@@ -485,17 +485,6 @@ Mcap $94M · EV $9.2B · Energy</title>
       <guid isPermaLink="false">0001749723-26-000118</guid>
       <pubDate>Fri, 11 Sep 2026 08:25:13 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$CDLX ⚖️ Litigation · Settled
-Settles Jain indemnification claim for $6.4M
-vs Amit Jain
-Mcap $24M · EV $186M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1666071/000162828026061459/cdlx-20260904.htm</link>
-      <guid isPermaLink="false">0001628280-26-061459</guid>
-      <pubDate>Fri, 11 Sep 2026 08:03:59 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>
