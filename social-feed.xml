@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 12 Sep 2026 11:05:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:11:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RAKR 👀 Activist
@@ -568,36 +568,6 @@ Mcap $2.3B · EV $4.3B · Industrials</title>
       <pubDate>Fri, 11 Sep 2026 06:50:04 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$QNCRF 🤝 Merger
-Acquires Avalanche PhotoniQ for $2M (cash + cash/shares)
-$2.0M deal · cash+stk
-Mcap $66M · EV $62M · Tech</title>
-      <link>https://www.qncor.ca/news-posts/quantumcore-announces-transformational-acquisition-of-avalanche-photoniq-to-create-a-broad-based-quantum-infrastructure-supplier</link>
-      <guid isPermaLink="false">OTC-534794</guid>
-      <pubDate>Fri, 11 Sep 2026 06:11:09 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AHNRF 🌍 Re-domicile
-Shareholders approve redomiciliation to BC; 1-for-1 share exchange
-Mcap $10M · EV $8M · Materials</title>
-      <link>https://www.nasdaq.com/press-release/athena-gold-announces-shareholder-approval-amalgamation-and-appointment-new</link>
-      <guid isPermaLink="false">OTC-534793</guid>
-      <pubDate>Fri, 11 Sep 2026 06:10:57 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$CRGO 👀 Activist
-Founder launches GrowCRGO; proposes Chairman removal, annual elections
-6.0 stake
-Mcap $62M · EV $43M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1927719/000197645426000003/0001976454-26-000003-index.htm</link>
-      <guid isPermaLink="false">0001976454-26-000003</guid>
-      <pubDate>Fri, 11 Sep 2026 06:10:22 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
