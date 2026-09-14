@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 13:35:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:42:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · MAKO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1784930/000106299326004908/form6k.htm</link>
+      <guid isPermaLink="false">0001062993-26-004908</guid>
+      <pubDate>Mon, 14 Sep 2026 08:42:26 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Sells gold stream to Sailfish for 70M shares (~49% stake)</scanner:headline>
+      <scanner:shortName>Mako Mining</scanner:shortName>
+      <scanner:price>9.82</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>MAKO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Sells gold stream to Sailfish for 70M shares (~49% stake)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a non-binding LOI to sell a long-term gold stream to Sailfish Royalty Corp. Sailfish will issue 70M common shares (at $5.76/share, ~$403M) to Mako, giving Mako ~49% of Sailfish. The stream requires Mako to deliver 650-1,000 oz/month for 240 months at 25% of LBMA PM fix. Transaction aims to lower cost of capital and facilitate shareholder returns and accretive acquisitions; subject to definitive agreement and approvals.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Mako Mining Corp. engages in mineral exploration and exploitation activities in Nicaragua, the United States, and Guyana. The company explores for gold and silver deposits. Its primary asset is its 100%-owned San Albino mine comprising the San Albino and the Las Conchitas gold deposits, which consist of five mineral concessions covering an area of approximately 22,422 hectares located within the San Albino-Murra Property in Nueva Segovia, Nicaragua.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Sailfish Royalty Corp.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 403,200,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 49%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Execution of definitive gold purchase agreement&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $9.82 · Mkt cap $881.4M · EV $807.6M · Fwd P/E 13.2x · Fwd EV/EBITDA 6.9x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1784930/000106299326004908/0001062993-26-004908-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MAKO&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚖️ Litigation · Won · BFRI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1858685/000149315226042508/form8-k.htm</link>
@@ -13370,33 +13397,6 @@
 &lt;p&gt;&lt;i&gt;Px $50.61 · Mkt cap $12.54B · EV $11.32B · Fwd P/E 15.5x · Fwd EV/EBITDA 11.7x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/939767/000093976726000104/0000939767-26-000104-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EXEL&lt;/b&gt; · 8-K · Items 8.01 · Chemicals / Pharma (2836) · 8k_tier1:8.01 · filed 2026-08-31&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · ATAI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2081043/000114036126035091/ef20081348_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-035091</guid>
-      <pubDate>Mon, 31 Aug 2026 15:55:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>HSR cleared; UK CMA no questions; ACCC waiting period to expire Sept 10</scanner:headline>
-      <scanner:shortName>AtaiBeckley</scanner:shortName>
-      <scanner:price>7.25</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>ATAI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;HSR cleared; UK CMA no questions; ACCC waiting period to expire Sept 10&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Reported that the HSR waiting period for its pending merger with Eli Lilly expired on August 28, 2026. The UK CMA indicated no further questions, and the Australian ACCC cleared the merger subject to a 14-day waiting period expiring September 10, 2026. The merger remains subject to stockholder approval and other closing conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; AtaiBeckley Inc., a clinical-stage biopharmaceutical company, engages in the research, development, and commercialization of mental health treatments in the United States, Germany, and Canada. The company develops BPL-003, an intranasal formulation of the benzoate salt form of mebufotenin that is in Phase 2a and 2b clinical studies for treatment resistant depression (TRD) and alcohol use disorder; RL-007, an orally bioavailable compound, which is a pro-cognitive neuromodulator in Phase 2b trial …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Eli Lilly and Company&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; ACCC waiting period expires Sept 10, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.25 · Mkt cap $2.68B · EV $2.46B · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2081043/000114036126035091/0001140361-26-035091-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ATAI&lt;/b&gt; · 8-K · Items 8.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-08-31&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
