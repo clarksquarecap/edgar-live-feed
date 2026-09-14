@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 20:50:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:51:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · TH</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1712189/000095014226002544/0000950142-26-002544-index.htm</link>
+      <guid isPermaLink="false">0000950142-26-002544</guid>
+      <pubDate>Mon, 14 Sep 2026 15:51:50 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Raises stake to 30.5% of Target Hospitality</scanner:headline>
+      <scanner:shortName>Target Hospitality</scanner:shortName>
+      <scanner:price>18.53</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>TH</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Raises stake to 30.5% of Target Hospitality&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;TDR Capital II Investments LP and affiliates filed Amendment No. 8 to their Schedule 13D, increasing their aggregate beneficial ownership of Target Hospitality Corp. common stock to 29,878,409 shares, or 30.5% of the class. The stake is held across multiple entities, with Sapphire Holding S.a r.l. owning 23.2% and MFA entities owning 7.3%.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Target Hospitality Corp. operates as a specialty rental and hospitality services company in North America. It operates through Hospitality &amp;amp; Facilities Services – South, Workforce Hospitality Solutions, and Government segments. The company owns a network of specialty rental accommodation units. It also provides catering and food, maintenance, housekeeping, grounds-keeping, security, health and recreation facilities, workforce community management, concierge, and laundry services.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 30.5%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $18.53 · Mkt cap $1.92B · EV $1.96B · Fwd P/E 75.9x · Fwd EV/EBITDA 10.8x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1712189/000095014226002544/0000950142-26-002544-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TH&lt;/b&gt; · SCHEDULE 13D/A · Hotels / Lodging (7000) · fresh_13d · filed 2026-09-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · MDCX</title>
       <link>https://www.sec.gov/Archives/edgar/data/1997296/000095014226002546/0000950142-26-002546-index.htm</link>
@@ -13356,33 +13383,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BTAI&lt;/b&gt; · 8-K · Items 1.01, 1.03 · Chemicals / Pharma (2834) · 8k_tier1:1.01,1.03 · filed 2026-08-28&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 01 06:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1720893/000110465926104106/tm2624539d1_8k.htm'&gt;Files Chapter 11; Nasdaq delisting effective Sept 8&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Aug 28 05:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1720893/000110465926102570/tm2624233d1_8k.htm'&gt;Files Chapter 11; stalking horse sale to Teva for $57.5M&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Rumor Response · TKC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1071321/000110465926104107/tm2624551d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-104107</guid>
-      <pubDate>Tue, 01 Sep 2026 06:07:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>rumor_response</category>
-      <category>6-K</category>
-      <scanner:headline>In talks to acquire TOGG shares with Türkiye Wealth Fund</scanner:headline>
-      <scanner:shortName>TURKCELL ILETISIM HIZMETLERI A S</scanner:shortName>
-      <scanner:price>5.42</scanner:price>
-      <scanner:subtype>rumor_response</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>TKC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;In talks to acquire TOGG shares with Türkiye Wealth Fund&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Turkcell confirmed press reports that it and the Türkiye Wealth Fund are in discussions to acquire shares of Türkiye&amp;#39;nin Otomobili Girişim Grubu (TOGG). Discussions are ongoing; no terms disclosed.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Turkcell Iletisim Hizmetleri A.S., together with its subsidiaries, engages in establishing and operating a global system for mobile communications (GSM) network in Turkey, Belarus, Turkish Republic of Northern Cyprus, Germany, and the Netherlands. It operates through the Turkcell Turkiye, Turkcell International, and Techfin segments.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; TOGG&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.42 · Mkt cap $4.70B · EV $6.51B · Fwd P/E 8.1x · Fwd EV/EBITDA 2.2x · Communication Services / Wireless Telecommunication Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1071321/000110465926104107/0001104659-26-104107-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TKC&lt;/b&gt; · 6-K · Communications (4813) · prefill_form:6-K · filed 2026-09-01&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
