@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 13:09:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:15:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$FMX 💧 Capital Return · ASR
@@ -22,8 +22,17 @@ Launches $280M accelerated share repurchase for ADS</title>
 Launches exchange offer to swap MDT shares for MiniMed; divests 89.86% stake
 Mcap $116B · EV $136B · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026061699/mmedinformationforemployees.htm</link>
-      <guid isPermaLink="false">0001628280-26-061669</guid>
+      <guid isPermaLink="false">0001628280-26-061702</guid>
       <pubDate>Mon, 14 Sep 2026 08:06:52 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Launches exchange offer for MiniMed shares; to divest ~89.9% stake
+Mcap $116B · EV $136B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026061691/a425-mdtinformationforempl.htm</link>
+      <guid isPermaLink="false">0001628280-26-061669</guid>
+      <pubDate>Mon, 14 Sep 2026 07:56:28 -0500</pubDate>
       <category>SPLIT_OFF</category>
     </item>
     <item>
