@@ -6,8 +6,59 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 21:20:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:32:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DEVSF 🤝 Merger
+Acquired by XCF Global in amended merger; holders get 10.43% pro forma
+stock
+Mcap $6M · EV $13M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1854480/000114036126036511/ef20081824_8k.htm</link>
+      <guid isPermaLink="false">0001213900-26-098554</guid>
+      <pubDate>Mon, 14 Sep 2026 16:31:38 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$D 🤝 Merger
+NextEra merger: enhanced Virginia benefits, 600 jobs
+NextEra Energy · close H2 2027
+Mcap $57B · EV $116B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926107559/tm2625368d3_425.htm</link>
+      <guid isPermaLink="false">0001193125-26-390654</guid>
+      <pubDate>Mon, 14 Sep 2026 16:31:09 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$NDRA 🤝 Merger
+Acquired by Noble Africa (ASP Isotopes) in proposed merger
+Mcap $8M · EV $7M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1681682/000121390026099784/ea0304649-425_endra.htm</link>
+      <guid isPermaLink="false">0001477932-26-005473</guid>
+      <pubDate>Mon, 14 Sep 2026 16:29:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Launches split-off exchange: up to 225.4M MiniMed shares for MDT shares
+Mcap $116B · EV $136B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026061909/a425-mdtwebsitex91426.htm</link>
+      <guid isPermaLink="false">0001628280-26-061702</guid>
+      <pubDate>Mon, 14 Sep 2026 16:27:22 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Faces Garg Group consent solicitation to remove 5 directors; deadline Sept 18
+Vishal Garg / Garg
+Mcap $246M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002539/dfan14a14909002_09142026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002488</guid>
+      <pubDate>Mon, 14 Sep 2026 16:27:08 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$TOPP 🌍 Re-domicile
 Reincorporates from Nevada to Delaware; effective Sept 25
@@ -25,17 +76,6 @@ Mcap $2.1B · EV $2.2B · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1468328/000143774926030348/adus20260914_8k.htm</link>
       <guid isPermaLink="false">0001437749-26-030348</guid>
       <pubDate>Mon, 14 Sep 2026 16:19:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$D 🤝 Merger
-Acquired by NextEra; enhanced VA benefits: 4-yr credits, $100M fund
-NextEra Energy
-Mcap $57B · EV $116B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926107546/tm2625368d1_8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-390654</guid>
-      <pubDate>Mon, 14 Sep 2026 16:19:24 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -157,15 +197,6 @@ Mcap $262M · EV $263M · Financials</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$MDT 🪓 Split-off
-Exchange offer: MDT shares for MiniMed; ESPP deadline Oct 8
-Mcap $116B · EV $136B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026061855/a425-fidelitycallcentertal.htm</link>
-      <guid isPermaLink="false">0001628280-26-061702</guid>
-      <pubDate>Mon, 14 Sep 2026 15:44:22 -0500</pubDate>
-      <category>SPLIT_OFF</category>
-    </item>
-    <item>
       <title>$ANGH 🤝 Merger · Preliminary
 Revises proposal to $3.75/share cash for Anghami
 cash
@@ -215,17 +246,6 @@ Mcap $5.6B · Financials</title>
       <guid isPermaLink="false">0001193125-26-390599</guid>
       <pubDate>Mon, 14 Sep 2026 15:25:27 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$SAFX 🤝 Merger
-Amends merger with DevvStream &amp; Southern: Southern 20%, DevvStream 10.43%, XCF 69.57%
-stock
-Mcap $168M · EV $426M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2019793/000121390026099716/ea0305008-8k425_xcfglobal.htm</link>
-      <guid isPermaLink="false">0001213900-26-098554</guid>
-      <pubDate>Mon, 14 Sep 2026 15:24:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$SAFT 🤝 Merger
