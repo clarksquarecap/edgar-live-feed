@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 12:00:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:07:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$THRY 📤 Divestiture
+Sells print directories business to Carolwood for $142M cash
+to Carolwood L.P. · $142,000,000 deal · close Q4 2026
+Mcap $80M · EV $316M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1556739/000155673926000042/thryv-20260912.htm</link>
+      <guid isPermaLink="false">0001556739-26-000042</guid>
+      <pubDate>Mon, 14 Sep 2026 07:07:40 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Launches exchange offer: up to 80.1% MiniMed for MDT shares
+Mcap $116B · EV $136B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026061683/kangaroo-scheduleto.htm</link>
+      <guid isPermaLink="false">0001628280-26-061669</guid>
+      <pubDate>Mon, 14 Sep 2026 07:07:07 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
     <item>
       <title>$AIRJ 🤝 Merger
 Acquires BitSink for $18M cash + $9M stock + $40M earnout
@@ -29,15 +48,6 @@ Mcap $4.3B · Financials</title>
       <pubDate>Mon, 14 Sep 2026 06:49:31 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$MDT 🪓 Split-off
-Launches exchange offer to split off MiniMed at 7% discount
-Mcap $116B · EV $136B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026061674/a425-pressreleasexmdtexcha.htm</link>
-      <guid isPermaLink="false">0001628280-26-061669</guid>
-      <pubDate>Mon, 14 Sep 2026 06:45:00 -0500</pubDate>
-      <category>SPLIT_OFF</category>
     </item>
     <item>
       <title>$LGO 🪙 Debt Restr.
