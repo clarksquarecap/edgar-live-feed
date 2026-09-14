@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 11:38:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:49:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TCBI 📉 Delisting · Voluntary
+Voluntarily delists from Nasdaq; TXSE listing Oct 8, ticker TXCP Nov 9
+effective 2026-10-08
+Mcap $4.3B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1077428/000107742826000061/tcbi-20260914.htm</link>
+      <guid isPermaLink="false">0001077428-26-000061</guid>
+      <pubDate>Mon, 14 Sep 2026 06:49:31 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Launches exchange offer to split off MiniMed at 7% discount
+Mcap $116B · EV $136B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026061674/a425-pressreleasexmdtexcha.htm</link>
+      <guid isPermaLink="false">0001628280-26-061669</guid>
+      <pubDate>Mon, 14 Sep 2026 06:45:00 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
     <item>
       <title>$LGO 🪙 Debt Restr.
 Debt-restructuring deal with Caixa; extends $6M note to 2028
@@ -36,15 +56,6 @@ Mcap $574M · EV $473M · Materials</title>
       <guid isPermaLink="false">0001554855-26-001998</guid>
       <pubDate>Mon, 14 Sep 2026 06:05:40 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$MMED 🪓 Split-off
-Split-off via Medtronic exchange offer; 7% discount, expires Oct 9
-Mcap $6.3B · EV $6.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2062583/000162828026061669/mdt-20260914.htm</link>
-      <guid isPermaLink="false">0001628280-26-061669</guid>
-      <pubDate>Mon, 14 Sep 2026 06:05:08 -0500</pubDate>
-      <category>SPLIT_OFF</category>
     </item>
     <item>
       <title>$HAIN 📤 Divestiture
