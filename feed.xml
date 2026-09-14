@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 19:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:13:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · FHB</title>
+      <link>https://www.sec.gov/Archives/edgar/data/36377/000110465926107495/tm2621888-3_s4a.htm</link>
+      <guid isPermaLink="false">0001104659-26-107495</guid>
+      <pubDate>Mon, 14 Sep 2026 15:13:42 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>S-4/A</category>
+      <scanner:headline>Acquires TriCo Bancshares for 2.095 FHB shares/share (~$63.12, $2.0B); vote Oct 29</scanner:headline>
+      <scanner:shortName>FIRST HAWAIIAN</scanner:shortName>
+      <scanner:price>25.79</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>S-4/A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>FHB</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>S-4/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires TriCo Bancshares for 2.095 FHB shares/share (~$63.12, $2.0B); vote Oct 29&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Will acquire TriCo Bancshares in a stock-for-stock merger. TriCo shareholders receive 2.095 First Hawaiian shares per TriCo share, valued at approximately $63.12 per share (~$2.0 billion aggregate) based on the July 10, 2026 closing price. First Hawaiian expects to issue ~67.1 million shares; existing FHB holders will own ~65% and former TriCo holders ~35% post-close. Special meetings for both companies are scheduled for October 29, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; First Hawaiian, Inc. operates as a bank holding company for First Hawaiian Bank that provides a range of banking products and services to consumer and commercial customers in the United States. It operates in two segments: Retail Banking and Commercial Banking. The company offers various deposit products, including checking, savings, and time deposit accounts, and other deposit accounts.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; TriCo Bancshares&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms paid for TriCo Bancshares:&lt;/b&gt; 2.095 FHB shares (~$63.12)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $2.0 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; October 29, 2026 special meetings&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $25.79 · Mkt cap $3.13B · Fwd P/E 10.8x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/36377/000110465926107495/0001104659-26-107495-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FHB&lt;/b&gt; · S-4/A · Depository Institutions (6022) · prefill_form:S-4 · filed 2026-09-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Unsolicited · CURLF</title>
       <link>https://www.sec.gov/Archives/edgar/data/1756770/000175677026000102/curlf-20260914.htm</link>
@@ -13361,33 +13388,6 @@
 &lt;p&gt;&lt;i&gt;Px $14.03 · Mkt cap $4.00B · EV $8.55B · Fwd P/E 75.9x · Fwd EV/EBITDA 17.1x · Real Estate / Industrial REITs&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1455863/000119312526377096/0001193125-26-377096-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;COLD&lt;/b&gt; · 8-K · Items 1.01, 2.01, 7.01, 9.01 · Holding / Investment Offices (6798) · 8k_tier1:1.01,2.01,7.01 · filed 2026-08-31&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔐 Going Private · PSNL</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1527753/000119312526377066/d81410dsc13e3.htm</link>
-      <guid isPermaLink="false">0001193125-26-377066</guid>
-      <pubDate>Mon, 31 Aug 2026 16:40:48 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-      <category>going_private</category>
-      <category>SC 13E3</category>
-      <scanner:headline>Acquired by Tempus AI for $16.25/share stock; cash election up to 50%</scanner:headline>
-      <scanner:shortName>Personalis</scanner:shortName>
-      <scanner:price>16.89</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SC 13E3</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>PSNL</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SC 13E3</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Tempus AI for $16.25/share stock; cash election up to 50%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will be acquired by Tempus AI, Inc. in a two-step merger. Each share of Personalis common stock will be converted into Tempus Class A common stock valued at $16.25 per share (subject to a floor price of $48.42 for Tempus stock), or cash at $16.25 per share for up to 50% of shares if Tempus elects. Merck, holding ~13%, has agreed to vote in favor. The transaction requires stockholder approval.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Personalis, Inc. develops, markets, and sells advanced cancer genomic tests and services in the United States and internationally. The company offers NeXT Personal, a tumor-informed liquid biopsy test for detection of minimal residual disease (MRD), therapy response and recurrence monitoring in solid tumor cancers; and ImmunoID NeXT, a tissue-based service that combines whole exome and whole transcriptome sequencing data with advanced analytics to provide a multi-dimensional view of the tumor an…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Tempus AI, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 16.25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $16.89 · Mkt cap $1.69B · EV $1.51B · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1527753/000119312526377066/0001193125-26-377066-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PSNL&lt;/b&gt; · SC 13E3 · Health Services (8071) · prefill_form:SC 13E3 · filed 2026-08-31&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
