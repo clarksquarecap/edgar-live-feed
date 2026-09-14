@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 14:48:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:08:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧭 Domicile · CDLR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2063345/000110465926107368/tm2510458-8_f4a.htm</link>
+      <guid isPermaLink="false">0001104659-26-107368</guid>
+      <pubDate>Mon, 14 Sep 2026 10:08:10 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+      <category>acquisition</category>
+      <category>F-4/A</category>
+      <scanner:headline>Offers 1:1 share exchange to redomicile Cadeler A/S to UK</scanner:headline>
+      <scanner:shortName>Cadeler</scanner:shortName>
+      <scanner:price>25.18</scanner:price>
+      <scanner:subtype />
+      <scanner:form>F-4/A</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>CDLR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>F-4/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Offers 1:1 share exchange to redomicile Cadeler A/S to UK&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Offers to exchange each Cadeler A/S share for one NewCo share, effecting a redomiciliation from Denmark to the UK. The offer is subject to a 90% minimum tender condition, after which a squeeze-out of remaining shares is planned. NewCo shares will list on OSE and NYSE under CADLR and CDLR, respectively.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cadeler A/S, together with its subsidiaries, operates as an offshore wind installation vessel contractor in Denmark, the United Kingdom, Germany, Poland, rest of Europe, the United States, and Taiwan. The company engages in the transport and installation of offshore wind turbine generators, foundations, and topsides and substations; maintenance of offshore wind turbine generators, and offshore structures and platforms; and offshore construction within the renewable space.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $25.18 · Mkt cap $2.48B · EV $4.19B · Fwd P/E 5.3x · Fwd EV/EBITDA 5.3x · Industrials / Construction and Engineering&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2063345/000110465926107368/0001104659-26-107368-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CDLR&lt;/b&gt; · F-4/A · Water Transportation (4412) · prefill_form:F-4 · filed 2026-09-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · ONDS</title>
       <link>https://www.sec.gov/Archives/edgar/data/1646188/000121390026099531/ea0304980-8k_ondas.htm</link>
@@ -13368,33 +13394,6 @@
 &lt;p&gt;&lt;i&gt;Px $96.01 · Mkt cap $59.73B · EV $92.74B · Fwd P/E 14.6x · Fwd EV/EBITDA 10.6x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1039684/000119312526377023/0001193125-26-377023-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OKE&lt;/b&gt; · 8-K · Items 1.01, 3.02, 7.01, 8.01, 9.01 · Utilities (4923) · 8k_tier1:1.01,7.01,8.01 · filed 2026-08-31&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · LONA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1620463/000165556626000003/0001655566-26-000003-index.htm</link>
-      <guid isPermaLink="false">0001655566-26-000003</guid>
-      <pubDate>Mon, 31 Aug 2026 16:08:18 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Receives 13D from Sermonix for 36.9% stake via warrant exercise</scanner:headline>
-      <scanner:shortName>LeonaBio</scanner:shortName>
-      <scanner:price>7.98</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>LONA</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D from Sermonix for 36.9% stake via warrant exercise&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D from Sermonix Pharmaceuticals disclosing beneficial ownership of 5,502,402 shares (36.9%) of common stock, acquired via prefunded warrants received as partial consideration for a license agreement. Sermonix will exercise warrants for 3,149,470 shares effective Oct 26, 2026, and distribute 4,725,754 shares in-kind to its shareholders, including Perceptive Xontogeny.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; LeonaBio, Inc., clinical-stage biopharmaceutical company, engages in the development of novel therapeutics for high unmet medical needs, including treatment-resistant metastatic breast cancer and amyotrophic lateral sclerosis. The company’s lead products include lasofoxifene and ATH-1105, a novel small molecule therapies with the potential to address devastating diseases where current treatment options are limited or ineffective.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Sermonix Pharmaceuticals, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 36.9%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Warrant exercise and distribution effective Oct 26, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.98 · Mkt cap $73.9M · EV $6.9M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1620463/000165556626000003/0001655566-26-000003-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LONA&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2836) · fresh_13d · filed 2026-08-31&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
