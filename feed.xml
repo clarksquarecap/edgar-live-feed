@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 18:31:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 18:57:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Preliminary · SNRY</title>
+      <link>https://www.otcmarkets.com/stock/SNRY/news/535010</link>
+      <guid isPermaLink="false">OTC-535010</guid>
+      <pubDate>Mon, 14 Sep 2026 13:57:12 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+      <category>OTC</category>
+      <scanner:headline>Pursues merger with Colorado solar partner under LOI</scanner:headline>
+      <scanner:shortName>Solar Energy Initiatives</scanner:shortName>
+      <scanner:subtype>preliminary</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>SNRY</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>OTC</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Pursues merger with Colorado solar partner under LOI&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is moving toward a potential merger with a Colorado solar technology partner under a letter of intent. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Solar Energy Initiatives, Inc., together with its subsidiaries, provides solar products and solutions in the United States and the Caribbean. It designs, markets, sells, owns, and operates solar power systems for residential, municipal, and commercial customers; and designs, develops, and manages solar parks. The company also distributes solar panels, inverters, and solar thermal systems; and sources solar components.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Colorado solar technology partner&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SNRY&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Unsolicited · ACB</title>
       <link>https://www.sec.gov/Archives/edgar/data/1683541/000127956926000881/aurora_6k.htm</link>
@@ -13364,32 +13388,6 @@
 &lt;p&gt;&lt;i&gt;Px $16.89 · Mkt cap $1.69B · EV $1.51B · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1527753/000119312526377066/0001193125-26-377066-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PSNL&lt;/b&gt; · SC 13E3 · Health Services (8071) · prefill_form:SC 13E3 · filed 2026-08-31&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · CTVA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526377055/ck0001755672-20260831.htm</link>
-      <guid isPermaLink="false">0001193125-26-377055</guid>
-      <pubDate>Mon, 31 Aug 2026 16:34:01 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Vylor issues $1.1B notes to fund seed spin-off</scanner:headline>
-      <scanner:shortName>Corteva</scanner:shortName>
-      <scanner:price>76.86</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>CTVA</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Vylor issues $1.1B notes to fund seed spin-off&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is progressing its planned separation into two public companies. Vylor Inc., the subsidiary that will hold the seed business, issued $1.1B senior notes (5.125% due 2031, 5.625% due 2036) to fund a cash distribution to EIDP as partial consideration for the seed business contribution. The notes are guaranteed by EIDP until the separation completes.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Corteva, Inc. operates in the agriculture business. The company operates through two segments, Seed and Crop Protection. The Seed segment develops and supplies advanced germplasm and traits that produce optimum yield for farms. It offers trait technologies that enhance resistance to weather, disease, insects, and herbicides used to control weeds, as well as food and nutritional characteristics.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-10-01&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $76.86 · Mkt cap $52.49B · EV $55.22B · Fwd P/E 23.6x · Fwd EV/EBITDA 14.1x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1755672/000119312526377055/0001193125-26-377055-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CTVA&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Agriculture (0100) · 8k_tier1:8.01 · filed 2026-08-31&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
