@@ -6,8 +6,36 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 21:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 21:20:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧭 Domicile · TOPP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1960847/000121390026099778/ea0305353-8k_toppoint.htm</link>
+      <guid isPermaLink="false">0001213900-26-099323</guid>
+      <pubDate>Mon, 14 Sep 2026 16:20:09 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Reincorporates from Nevada to Delaware; effective Sept 25</scanner:headline>
+      <scanner:shortName>Toppoint Holdings</scanner:shortName>
+      <scanner:price>0.1600</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>TOPP</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>8-K x2</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Stockholders approve Nevada-to-Delaware reincorporation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Toppoint Holdings&amp;#39; stockholders approved a reincorporation from Nevada to Delaware, along with a reverse stock split (up to 1-for-900) and an increase in authorized shares from 300M to 1B. The reincorporation and share increase have not yet become effective; the company intends to implement them following completion of applicable filings.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Toppoint Holdings Inc., through its subsidiary, Toppoint Inc., engages in the provision of truckload services and solutions focused on the recycling export supply chain in the United States. It transports food waste, wastepaper, scrap metal, logs, batteries, and import products; and manages 20’, 40’, and 45’ containers, including refrigerated and Hazmat cargo. The company also coordinates import brokers to customer’s docks.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.1600 · Mkt cap $3.8M · EV $350K · Industrials / Ground Transportation&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1960847/000121390026099323/0001213900-26-099323-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TOPP&lt;/b&gt; · 8-K · Items 5.07, 8.01 · Trucking / Warehousing (4210) · 8k_tier1:8.01 · filed 2026-09-11&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 14 16:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1960847/000121390026099778/ea0305353-8k_toppoint.htm'&gt;Reincorporates from Nevada to Delaware; effective Sept 25&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 11 16:07 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1960847/000121390026099323/ea0305018-8k_toppoint.htm'&gt;Stockholders approve Nevada-to-Delaware reincorporation&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · ADUS</title>
       <link>https://www.sec.gov/Archives/edgar/data/1468328/000143774926030348/adus20260914_8k.htm</link>
@@ -2186,32 +2214,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.3100 · Mkt cap $9.3M · EV $23.0M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1854270/000090266426003795/0000902664-26-003795-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SNTI&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2836) · fresh_13d · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · TOPP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1960847/000121390026099323/ea0305018-8k_toppoint.htm</link>
-      <guid isPermaLink="false">0001213900-26-099323</guid>
-      <pubDate>Fri, 11 Sep 2026 16:07:08 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Stockholders approve Nevada-to-Delaware reincorporation</scanner:headline>
-      <scanner:shortName>Toppoint Holdings</scanner:shortName>
-      <scanner:price>0.1600</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>TOPP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Stockholders approve Nevada-to-Delaware reincorporation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Toppoint Holdings&amp;#39; stockholders approved a reincorporation from Nevada to Delaware, along with a reverse stock split (up to 1-for-900) and an increase in authorized shares from 300M to 1B. The reincorporation and share increase have not yet become effective; the company intends to implement them following completion of applicable filings.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Toppoint Holdings Inc., through its subsidiary, Toppoint Inc., engages in the provision of truckload services and solutions focused on the recycling export supply chain in the United States. It transports food waste, wastepaper, scrap metal, logs, batteries, and import products; and manages 20’, 40’, and 45’ containers, including refrigerated and Hazmat cargo. The company also coordinates import brokers to customer’s docks.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1600 · Mkt cap $3.8M · EV $350K · Industrials / Ground Transportation&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1960847/000121390026099323/0001213900-26-099323-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TOPP&lt;/b&gt; · 8-K · Items 5.07, 8.01 · Trucking / Warehousing (4210) · 8k_tier1:8.01 · filed 2026-09-11&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · AUUD</title>
