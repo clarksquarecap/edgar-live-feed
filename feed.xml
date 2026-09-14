@@ -6,25 +6,49 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 12:56:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:09:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
+      <title>💧 Capital Return · Accelerated Share Repurchase · FMX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1061736/000162828026061700/a6kcover-september2026.htm</link>
+      <guid isPermaLink="false">0001628280-26-061700</guid>
+      <pubDate>Mon, 14 Sep 2026 08:08:59 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>accelerated_share_repurchase</category>
+      <category>6-K</category>
+      <scanner:headline>Launches $280M accelerated share repurchase for ADS</scanner:headline>
+      <scanner:shortName>MEXICAN ECONOMIC DEVELOPMENT</scanner:shortName>
+      <scanner:subtype>accelerated_share_repurchase</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>FMX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Launches $280M accelerated share repurchase for ADS&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;FEMSA entered into an ASR agreement with a US financial institution to repurchase up to $280M of its ADS. Final settlement expected before year-end 2026; number of ADS repurchased based on daily VWAP less discount.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 280000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Final settlement before year-end 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1061736/000162828026061700/0001628280-26-061700-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FMX&lt;/b&gt; · 6-K · Food &amp;amp; Kindred (2086) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>🔀 Split-Off · MMED</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026061691/a425-mdtinformationforempl.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026061699/mmedinformationforemployees.htm</link>
       <guid isPermaLink="false">0001628280-26-061669</guid>
-      <pubDate>Mon, 14 Sep 2026 07:56:28 -0500</pubDate>
+      <pubDate>Mon, 14 Sep 2026 08:06:52 -0500</pubDate>
       <category>SPLIT_OFF</category>
       <category>acquisition</category>
       <category>425</category>
-      <scanner:headline>Launches exchange offer for MiniMed shares; to divest ~89.9% stake</scanner:headline>
+      <scanner:headline>Launches exchange offer to swap MDT shares for MiniMed; divests 89.86% stake</scanner:headline>
       <scanner:shortName>MiniMed Group</scanner:shortName>
       <scanner:price>22.50</scanner:price>
       <scanner:subtype />
       <scanner:form>425</scanner:form>
       <scanner:sector>Health Care</scanner:sector>
       <scanner:ticker>MMED</scanner:ticker>
-      <scanner:filings>8</scanner:filings>
-      <scanner:filingForms>S-4, 425 x6, SC TO-I</scanner:filingForms>
+      <scanner:filings>9</scanner:filings>
+      <scanner:filingForms>S-4, 425 x7, SC TO-I</scanner:filingForms>
       <scanner:related>MDT</scanner:related>
       <description>&lt;p&gt;&lt;b&gt;Split-off via Medtronic exchange offer; 7% discount, expires Oct 9&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Is being split off from Medtronic plc through an exchange offer in which Medtronic offers up to 225,361,295 newly issued MiniMed common shares for outstanding Medtronic ordinary shares. For each $100 of Medtronic shares tendered, holders receive approximately $107.53 of MiniMed stock, a 7% discount to MiniMed&amp;#39;s market value. The exchange offer and withdrawal rights expire October 9, 2026.&lt;/p&gt;
@@ -34,9 +58,9 @@
 &lt;p&gt;&lt;i&gt;Px $22.50 · Mkt cap $6.33B · EV $6.18B · Fwd P/E 32.6x · Fwd EV/EBITDA 9.3x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2062583/000162828026061669/0001628280-26-061669-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MMED&lt;/b&gt; · S-4 · Instruments / Medical Devices (3841) · prefill_form:S-4 · filed 2026-09-14&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (8)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 14 07:56 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061691/a425-mdtinformationforempl.htm'&gt;Launches exchange offer for MiniMed shares; to divest ~89.9% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 07:56 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061692/a425-minimedsplitxoffqa.htm'&gt;Splits off MiniMed via tax-free exchange offer; up to 89.9% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 07:56 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061693/a425-mdtemployeecommsreexc.htm'&gt;Launches MiniMed split-off exchange offer; deadline Oct 9&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 07:55 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061694/a425-mdtemployeecommsreexc.htm'&gt;Splits off MiniMed via exchange offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-I · Sep 14 07:07 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061683/kangaroo-scheduleto.htm'&gt;Launches exchange offer: up to 80.1% MiniMed for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 06:49 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061673/forms-4pr.htm'&gt;Launches exchange offer to spin off MiniMed; up to 80.1% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 06:45 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061674/a425-pressreleasexmdtexcha.htm'&gt;Launches exchange offer to split off MiniMed at 7% discount&lt;/a&gt;&lt;/li&gt;&lt;li&gt;S-4 · Sep 14 06:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2062583/000162828026061669/mdt-20260914.htm'&gt;Split-off via Medtronic exchange offer; 7% discount, expires Oct 9&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty MDT also filed 425 x6, SC TO-I&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (9)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 14 08:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061699/mmedinformationforemployees.htm'&gt;Launches exchange offer to swap MDT shares for MiniMed; divests 89.86% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 07:56 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061691/a425-mdtinformationforempl.htm'&gt;Launches exchange offer for MiniMed shares; to divest ~89.9% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 07:56 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061692/a425-minimedsplitxoffqa.htm'&gt;Splits off MiniMed via tax-free exchange offer; up to 89.9% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 07:56 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061693/a425-mdtemployeecommsreexc.htm'&gt;Launches MiniMed split-off exchange offer; deadline Oct 9&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 07:55 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061694/a425-mdtemployeecommsreexc.htm'&gt;Splits off MiniMed via exchange offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-I · Sep 14 07:07 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061683/kangaroo-scheduleto.htm'&gt;Launches exchange offer: up to 80.1% MiniMed for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 06:49 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061673/forms-4pr.htm'&gt;Launches exchange offer to spin off MiniMed; up to 80.1% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 06:45 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061674/a425-pressreleasexmdtexcha.htm'&gt;Launches exchange offer to split off MiniMed at 7% discount&lt;/a&gt;&lt;/li&gt;&lt;li&gt;S-4 · Sep 14 06:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2062583/000162828026061669/mdt-20260914.htm'&gt;Split-off via Medtronic exchange offer; 7% discount, expires Oct 9&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty MDT also filed 425 x7, SC TO-I&lt;/p&gt;</description>
     </item>
     <item>
       <title>🏛️ Insolvency · Administration · CMBMF</title>
@@ -13375,33 +13399,6 @@
 &lt;p&gt;&lt;i&gt;Px $36.13 · Mkt cap $1.30B · Fwd P/E 10.7x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/775215/000110465926103890/0001104659-26-103890-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HBT&lt;/b&gt; · S-4 · Depository Institutions (6022) · prefill_form:S-4 · filed 2026-08-31&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · TEM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1717115/000119312526376895/d864810ds4.htm</link>
-      <guid isPermaLink="false">0001193125-26-376895</guid>
-      <pubDate>Mon, 31 Aug 2026 15:53:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4</category>
-      <scanner:headline>Acquires Personalis for stock (0.3356x) or $16.25 cash election</scanner:headline>
-      <scanner:shortName>Tempus AI</scanner:shortName>
-      <scanner:price>63.05</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>TEM</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Personalis for stock (0.3356x) or $16.25 cash election&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is acquiring Personalis, Inc. in a stock-for-stock merger. Each Personalis share converts to Tempus Class A shares at an exchange ratio of 0.3356 (if Tempus price &amp;lt;= $48.42) or $16.25/Tempus price, with Tempus able to elect cash for up to 50% of shares at $16.25. Personalis stockholders must approve; Merck has agreed to vote in favor. Special meeting date pending.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Tempus AI, Inc. operates as a healthcare technology company in the United States. It offers the Tempus platform, a closed-loop, full-stack, bi-directional integrations between a clinician’s desktop and its laboratory diagnostic capabilities, analytics platform, and repository of multimodal data; and Hub, a clinical application for physicians and other healthcare providers for use in the diagnostics product line as an end-to-end application for healthcare providers for NGS tests.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Personalis, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price for Personalis:&lt;/b&gt; 16.25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Personalis special meeting vote (date TBD)&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $63.05 · Mkt cap $11.56B · EV $12.18B · Fwd EV/EBITDA 99.6x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1717115/000119312526376895/0001193125-26-376895-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TEM&lt;/b&gt; · S-4 · Business Services (7370) · prefill_form:S-4 · filed 2026-08-31&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
