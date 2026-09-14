@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 20:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:32:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Unsolicited · SKYA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1737995/000149315226042586/formdefa14a.htm</link>
+      <guid isPermaLink="false">0001493152-26-042586</guid>
+      <pubDate>Mon, 14 Sep 2026 15:32:12 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Rejects Forward's all-stock acquisition proposal</scanner:headline>
+      <scanner:shortName>SkyAI</scanner:shortName>
+      <scanner:price>1.40</scanner:price>
+      <scanner:subtype>unsolicited</scanner:subtype>
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>SKYA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Rejects Forward&amp;#39;s all-stock acquisition proposal&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;SkyAI&amp;#39;s Special Committee reviewed and rejected Forward Industries&amp;#39; unsolicited, non-binding, all-stock acquisition proposal, concluding it was not in shareholders&amp;#39; best interests. The board reaffirms its Solana DAT strategy and recommends voting FOR director nominees and the 2026 Equity Incentive Plan at the Annual Meeting on September 18, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SkyAI, Inc. engages in building an Agentic finance for the global south. It combines stablecoin rails with AI to deliver financial access, education, and actionable intelligence to the underbanked users in Asia, Latin America, and Africa. The company was formerly known as Sharps Technology, Inc. and changed its name to SkyAI, Inc. in May 2026. SkyAI, Inc. was incorporated in 2017 and is based in Melville, New York.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Forward Industries, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Annual Meeting Sept 18, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.40 · Mkt cap $59.3M · EV $47.5M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1737995/000149315226042586/0001493152-26-042586-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SKYA, SKYAW&lt;/b&gt; · DEFA14A · Non-Depository Credit (6199) · prefill_form:DEFA14A · filed 2026-09-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💔 Busted · ENVA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1529864/000119312526390599/enva-20260914.htm</link>
@@ -13358,35 +13385,6 @@
 &lt;p&gt;&lt;i&gt;Px $6.40 · Mkt cap $19.5M · EV $16.5M · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/102109/000092189526002441/0000921895-26-002441-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UUU&lt;/b&gt; · SCHEDULE 13D/A · Wholesale; Durable (5065) · amended_13d · filed 2026-08-31&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · SUJA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1934114/000114036126035129/0001140361-26-035129-index.htm</link>
-      <guid isPermaLink="false">0001140361-26-033641</guid>
-      <pubDate>Mon, 31 Aug 2026 18:25:23 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Paine Schwartz raises stake to 67.6% with $7.9M open market buys</scanner:headline>
-      <scanner:shortName>SUJA LIFE</scanner:shortName>
-      <scanner:price>6.71</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>SUJA</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D, SCHEDULE 13D/A x2</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D from Paine Schwartz; 62.8% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Paine Schwartz Food Chain Fund V GP, Ltd. filed a Schedule 13D with the SEC on August 18, 2026, disclosing beneficial ownership of 24,245,169 shares of Suja Life&amp;#39;s Class A common stock, representing 62.77% of the class, including shares issuable upon exchange of LP units. The filing converts a prior 13G after open market purchases of 920,641 shares from August 10-18, 2026. The reporting person states the securities were acquired for investment purposes and may review its position.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Suja Life, Inc. engages in the production and selling of organic and cold-pressed juices and wellness shots in the United States. It offers cold-pressed juices and wellness shots in various flavors under the Suja Organic brand name; wellness shots under the Vive Organic brand name; and soda made with real fruit juices under the Slice brand name. It sells its products through a network of distributors and retail stores, as well as via online channels. Suja Life, Inc.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Paine Schwartz Food Chain Fund V GP, Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 62.77%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-18&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $6.71 · Mkt cap $158.2M · EV $400.5M · Fwd P/E 43.0x · Fwd EV/EBITDA 7.9x · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1934114/000114036126033641/0001140361-26-033641-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SUJA&lt;/b&gt; · SCHEDULE 13D · Food &amp;amp; Kindred (2080) · fresh_13d · filed 2026-08-18&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SCHEDULE 13D/A · Aug 31 18:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1934114/000114036126035129/0001140361-26-035129-index.htm'&gt;Paine Schwartz raises stake to 67.6% with $7.9M open market buys&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SCHEDULE 13D/A · Aug 25 18:44 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1934114/000114036126034359/0001140361-26-034359-index.htm'&gt;Receives 13D/A from Paine Schwartz; stake now 65.5%&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SCHEDULE 13D · Aug 18 20:14 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1934114/000114036126033641/0001140361-26-033641-index.htm'&gt;Receives 13D from Paine Schwartz; 62.8% stake&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
