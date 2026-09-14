@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 20:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:23:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🎯 Tender · YTRA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1516899/000121390026099718/ea0303989-02.htm</link>
+      <guid isPermaLink="false">0001213900-26-099718</guid>
+      <pubDate>Mon, 14 Sep 2026 15:22:56 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>tender_offer</category>
+      <category>SC 14D9/A</category>
+      <scanner:headline>Faces $1.10/share partial tender from Magna Holdings for 31% of shares</scanner:headline>
+      <scanner:shortName>Yatra Online</scanner:shortName>
+      <scanner:price>1.12</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SC 14D9/A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>YTRA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC 14D9/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Faces $1.10/share partial tender from Magna Holdings for 31% of shares&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Faces an unsolicited partial tender offer from Magna Holdings Ltd. to purchase up to 20,000,000 ordinary shares (~31% of outstanding as-converted) at $1.10 per share in cash. The offer was extended to September 25, 2026, and the minimum tender condition was eliminated. The offeror states the shares are undervalued and intends to engage with the board on strategy and capital allocation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Yatra Online, Inc. operates as an online travel company in India and internationally. The company operates through Air Ticketing; Hotels and Packages; and Other Services segments. It offers travel-related services, including domestic and international air ticketing, bus ticketing, rail ticketing, cab bookings and ancillary services for leisure and business travelers, as well as hotels, homestays, and other accommodations.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Magna Holdings Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $1.10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $22,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 31%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-19&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Offer expiration September 25, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.12 · Mkt cap $61.9M · EV $85.1M · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1516899/000121390026099718/0001213900-26-099718-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;YTRA&lt;/b&gt; · SC 14D9/A · Transportation Services (4700) · prefill_form:SC 14D9 · filed 2026-09-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · JBDI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1964314/000149315226042574/form6-k.htm</link>
@@ -13361,33 +13388,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.12 · Mkt cap $46.6M · EV $84.0M · Fwd EV/EBITDA 22.5x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1841761/000119380526001164/0001193805-26-001164-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GROV, GROVW&lt;/b&gt; · SCHEDULE 13D/A · Retail; Misc (5961) · fresh_13d · filed 2026-08-31&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · DFNS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1787518/000118518526003774/dfns8k082626.htm</link>
-      <guid isPermaLink="false">0001185185-26-003774</guid>
-      <pubDate>Mon, 31 Aug 2026 16:48:26 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>busted_ma</category>
-      <category>8-K</category>
-      <scanner:headline>Terminates 60% Project 35 acquisition; shares and $1.25M note returned</scanner:headline>
-      <scanner:shortName>T3 Defense</scanner:shortName>
-      <scanner:price>29.50</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>DFNS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Terminates 60% Project 35 acquisition; shares and $1.25M note returned&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Terminated its acquisition of a 60% equity interest in Project 35 Ltd. from X S.A. Security and Defense Ltd. The 168,479 shares of T3 common stock and a $1,250,000 note were returned, and all claims were released. The parties are continuing to discuss a possible joint venture or other transaction.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; T3 Defense Inc. acquires and operates aerospace and defense businesses in the United States and Israel. It engages in supplying generators for iron dome launchers and defense systems; defense and aerospace applications, including GPS-denied navigation, 3D mapping, simulation systems, and AI training platforms; design and manufacture of motion control systems for military and civilian use; and distribution of advanced drone payload systems for defense and homeland security markets.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; X S.A. Security and Defense Ltd.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $29.50 · Mkt cap $22.0M · EV $213.7M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1787518/000118518526003774/0001185185-26-003774-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DFNS, DFNSW&lt;/b&gt; · 8-K · Items 1.02, 8.01, 9.01 · Engineering / Accounting (8742) · 8k_tier1:1.02,8.01 · filed 2026-08-31&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
