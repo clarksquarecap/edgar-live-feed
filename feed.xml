@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 11:31:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:38:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · LGO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1400438/000106299326004904/form6k.htm</link>
+      <guid isPermaLink="false">0001062993-26-004904</guid>
+      <pubDate>Mon, 14 Sep 2026 06:38:26 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Debt-restructuring deal with Caixa; extends $6M note to 2028</scanner:headline>
+      <scanner:shortName>Largo</scanner:shortName>
+      <scanner:price>0.6800</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>LGO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Debt-restructuring deal with Caixa; extends $6M note to 2028&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Executed a definitive debt-restructuring agreement with Caixa Econômica Federal on Sept 11, 2026, part of a broader restructuring with Brazilian banks. Also extended its US$6.0M promissory note with ARG to Feb 2028. Company is implementing cost initiatives and expects 2026 vanadium production toward lower end of guidance.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Largo Inc., together with its subsidiaries, produces, supplies, and sells vanadium and ilmenite products in Canada and internationally. It operates through six segments: Sales and Trading; Mine Properties; Corporate; Exploration and Evaluation Properties; Clean Energy; and Largo Physical Vanadium. The company offers vanadium pentoxide flakes and powder, vanadium trioxide powder, and ferrovanadium, as well as ilmenite concentrate; and vanadium flow battery electrolyte and technology.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Caixa Econômica Federal&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.6800 · Mkt cap $69.2M · EV $188.1M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1400438/000106299326004904/0001062993-26-004904-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LGO&lt;/b&gt; · 6-K · Mining; Nonmetallic (1400) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Special Dividend · AIJTY</title>
       <link>https://www.sec.gov/Archives/edgar/data/1713923/000110465926107260/tm2625373d1_6k.htm</link>
@@ -13380,33 +13407,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Aug 31 15:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1612042/000119312526376733/d139239d6k.htm'&gt;Settles IP litigation with BioMarin; secures worldwide license for YUVIWEL&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Aug 31 06:00 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1048477/000119312526375275/d110137d8k.htm'&gt;Settles patent litigation with Ascendis; 20% US royalty on Yuviwel&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;Counterparty ASND also filed 6-K&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · NATH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/69733/000080724926000078/0000807249-26-000078-index.htm</link>
-      <guid isPermaLink="false">0000807249-26-000078</guid>
-      <pubDate>Mon, 31 Aug 2026 15:09:06 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Reports 10.8% stake in Nathan's Famous</scanner:headline>
-      <scanner:shortName>NATHANS FAMOUS</scanner:shortName>
-      <scanner:price>97.88</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>NATH</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Reports 10.8% stake in Nathan&amp;#39;s Famous&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;GAMCO Investors, Inc. et al. filed Amendment 18 to their Schedule 13D on Nathan&amp;#39;s Famous, reporting aggregate beneficial ownership of 10.8% of common stock. The stake is held across Gabelli Funds (4.3%), GAMCO Asset Management (6.4%), and Teton Advisors (0.1%).&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nathan&amp;#39;s Famous, Inc., along with its subsidiaries, operates in the foodservice industry both in the United States and internationally. It operates through three segments: Branded Product Program; Product licensing; and Restaurant operations. The company owns and franchises restaurants under the Nathan’s Famous brand name.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nathan&amp;#39;s Famous, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10.8%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $97.88 · Mkt cap $403.5M · EV $429.8M · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/69733/000080724926000078/0000807249-26-000078-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NATH&lt;/b&gt; · SCHEDULE 13D/A · Retail; Food Service (5812) · fresh_13d · filed 2026-08-31&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
