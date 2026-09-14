@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 14 Sep 2026 10:58:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:05:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔀 Split-Off · MMED</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2062583/000162828026061669/mdt-20260914.htm</link>
+      <guid isPermaLink="false">0001628280-26-061669</guid>
+      <pubDate>Mon, 14 Sep 2026 06:05:08 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+      <category>acquisition</category>
+      <category>S-4</category>
+      <scanner:headline>Split-off via Medtronic exchange offer; 7% discount, expires Oct 9</scanner:headline>
+      <scanner:shortName>MiniMed Group</scanner:shortName>
+      <scanner:price>22.50</scanner:price>
+      <scanner:subtype />
+      <scanner:form>S-4</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>MMED</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>S-4</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Split-off via Medtronic exchange offer; 7% discount, expires Oct 9&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is being split off from Medtronic plc through an exchange offer in which Medtronic offers up to 225,361,295 newly issued MiniMed common shares for outstanding Medtronic ordinary shares. For each $100 of Medtronic shares tendered, holders receive approximately $107.53 of MiniMed stock, a 7% discount to MiniMed&amp;#39;s market value. The exchange offer and withdrawal rights expire October 9, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; MiniMed Group, Inc. operates as a medical technology company that develops, manufactures, and markets medical equipment for the management of diabetes. The company offers technologies including insulin delivery devices, such as insulin pumps and pens, continuous glucose monitors, other consumables, supplies, and related software and services. It serves people with diabetes who require insulin therapy, which represents all people with T1D and a subset of those with T2D.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Medtronic plc&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Exchange offer expiration October 9, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $22.50 · Mkt cap $6.33B · EV $6.18B · Fwd P/E 32.6x · Fwd EV/EBITDA 9.3x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2062583/000162828026061669/0001628280-26-061669-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MMED&lt;/b&gt; · S-4 · Instruments / Medical Devices (3841) · prefill_form:S-4 · filed 2026-09-14&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · HAIN</title>
       <link>https://www.sec.gov/Archives/edgar/data/910406/000119312526389814/hain-20260912.htm</link>
@@ -13380,30 +13407,6 @@
 &lt;p&gt;&lt;i&gt;Px $185.17 · Mkt cap $92.03B · EV $88.87B · Fwd P/E 11.6x · Fwd EV/EBITDA 6.1x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2809/000110465926103804/0001104659-26-103804-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AEM, AEMRF&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-08-31&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · FJET</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1947016/000149315226040788/0001493152-26-040788-index.htm</link>
-      <guid isPermaLink="false">0001493152-26-040788</guid>
-      <pubDate>Mon, 31 Aug 2026 12:48:31 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Founder/former CEO discloses 23.85% stake; seeks business combination</scanner:headline>
-      <scanner:shortName>Svetkoff Richard William</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>FJET</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Founder/former CEO discloses 23.85% stake; seeks business combination&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Richard William Svetkoff, founder and former CEO of Starfighters Space, filed a Schedule 13D disclosing a 23.85% stake (13,119,179 shares) and stating his purpose is a business combination and acquisition. He has sold shares in open market transactions since May 2026, reducing his position from 15 million shares. The filing signals potential transformative action.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Starfighters Space, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 23.85%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1947016/000149315226040788/0001493152-26-040788-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FJET&lt;/b&gt; · SCHEDULE 13D · Air Transportation (4512) · fresh_13d · filed 2026-08-31&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
