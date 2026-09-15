@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 20:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:28:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · SAFX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2019793/000210659026000003/0002106590-26-000003-index.htm</link>
+      <guid isPermaLink="false">0002106590-26-000003</guid>
+      <pubDate>Tue, 15 Sep 2026 15:28:17 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Discloses 6.7% stake; warrants for up to $99M</scanner:headline>
+      <scanner:shortName>XCF Global</scanner:shortName>
+      <scanner:price>0.4400</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>SAFX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Discloses 6.7% stake; warrants for up to $99M&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;GL Part SPV II, LLC disclosed a 6.7% stake in XCF Global, Inc. (27,479,983 shares) and holds rights to acquire warrants for up to $99,000,000 of additional shares at $2.50 per share until December 31, 2026. The stake was acquired through a business combination and a warrant exercise.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; XCF Global, Inc. manufactures and sells renewable fuels in the United States. It develops and operates clean fuel production facilities to produce clean-burning and sustainable biofuels, sustainable aviation fuels, and renewable diesel and naphtha products; and sells environmental credits. XCF Global, Inc. was founded in 2016 and is headquartered in Houston, Texas.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.7%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.4400 · Mkt cap $168.5M · EV $425.6M · Fwd EV/EBITDA 12.1x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2019793/000210659026000003/0002106590-26-000003-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SAFX&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2860) · fresh_13d · filed 2026-09-15&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧬 Spin-Off · FLEX</title>
       <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526391911/d363879ddefa14a.htm</link>
@@ -13372,34 +13399,6 @@
 &lt;p&gt;&lt;i&gt;Px $10.33 · Mkt cap $117.8M · EV $117.8M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2070900/000182912626009623/0001829126-26-009623-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QUMS, QUMSR, QUMSU&lt;/b&gt; · 8-K · Items 1.02, 9.01 · Holding / Investment Offices (6770) · 8k_tier1:1.02 · filed 2026-09-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · ZTEK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1904501/000106299326004778/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-004710</guid>
-      <pubDate>Wed, 02 Sep 2026 05:11:03 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>6-K</category>
-      <scanner:headline>Forced Nasdaq delisting effective Sept 2; moves to OTCQX</scanner:headline>
-      <scanner:shortName>Zentek</scanner:shortName>
-      <scanner:price>0.6700</scanner:price>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>ZTEK</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>6-K x3</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Sept 2; moves to OTCQX&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received Nasdaq delisting notice for minimum bid price non-compliance. Trading suspended at open Sept 2, 2026; shares transition to OTC Markets (OTCQX application pending). Hearing requested but won&amp;#39;t stay suspension; TSXV listing unaffected.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Zentek Ltd., together with its subsidiaries, engages in the research and development of graphene and related nanomaterials in Canada. It develops graphene-based coatings under the ZenGUARD brand; graphene-enhanced intumescent gel under the ZenFire brand; carbon-based copolymeric icephobic coating under the ZenICE brand, and graphene-enhanced anti-corrosion coating under the ZenArmor brand.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Suspension of trading on Nasdaq at open Sept 2, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.6700 · Mkt cap $83.5M · EV $84.0M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1904501/000106299326004710/0001062993-26-004710-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZTEK&lt;/b&gt; · 6-K · Chemicals / Pharma (2890) · prefill_form:6-K · filed 2026-08-28&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Sep 02 05:11 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1904501/000106299326004778/form6k.htm'&gt;Forced Nasdaq delisting effective Sept 2; moves to OTCQX&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Aug 31 10:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1904501/000106299326004721/form6k.htm'&gt;Forced Nasdaq delisting effective Sept 2; moves to OTC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Aug 28 16:41 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1904501/000106299326004710/form6k.htm'&gt;Forced Nasdaq delisting effective Sept 2; moves to OTCQX&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
