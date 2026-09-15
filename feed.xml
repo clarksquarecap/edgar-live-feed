@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 20:59:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:00:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · CYCN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1755237/000173804826000069/0001738048-26-000069-index.htm</link>
+      <guid isPermaLink="false">0001738048-26-000069</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:20 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Receives 13D from Venrock disclosing 9.9% stake</scanner:headline>
+      <scanner:shortName>Korsana Biosciences</scanner:shortName>
+      <scanner:price>32.38</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>CYCN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D from Venrock disclosing 9.9% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Schedule 13D from Venrock Healthcare Capital Partners III, L.P. and affiliates disclosing beneficial ownership of 4,552,277 shares (9.9% of common stock) as of September 8, 2026. The filing signals non-passive intent via the 13D form, though no specific agenda is stated.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Korsana Biosciences, Inc. develops therapeutic antibodies for the treatment of neurodegenerative diseases. The company has developed Therapeutic Targeting (THETA), a blood-brain barrier-penetrant shuttle platform designed to enhance central nervous system exposure of investigational therapies and enable delivery of large therapeutic molecules across the blood-brain barrier into the central nervous system.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Venrock Healthcare Capital Partners III, L.P. and affiliates&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.9%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $32.38 · Mkt cap $10.23B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1755237/000173804826000069/0001738048-26-000069-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CYCN, KRSA&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-15&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📈 Rights · RENT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1468327/000095010326013999/dp253357_8k.htm</link>
@@ -13377,34 +13404,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.3400 · Mkt cap $16.9M · EV $124.5M · Fwd EV/EBITDA 26.4x · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1808110/000121390026096455/0001213900-26-096455-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DDC&lt;/b&gt; · 6-K · Food &amp;amp; Kindred (2000) · prefill_form:6-K · filed 2026-09-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · TDS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1051512/000091311526000012/0000913115-26-000012-index.htm</link>
-      <guid isPermaLink="false">0001051512-26-000070</guid>
-      <pubDate>Wed, 02 Sep 2026 07:18:11 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>acquisition</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Withdraws Array acquisition proposal; retains 82% stake</scanner:headline>
-      <scanner:shortName>TELEPHONE &amp; DATA SYSTEMS</scanner:shortName>
-      <scanner:price>33.62</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>TDS</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K, SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Withdraws Array acquisition proposal; keeps 82% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;TDS announced it is no longer pursuing the acquisition of the remaining ~18% of Array Digital Infrastructure it does not own, withdrawing its proposal to exchange each Array share for 0.86 TDS share. TDS will retain its ~82% ownership stake. TDS expects to recommence share repurchases under existing programs, including the $500M authorization from November 2025.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Telephone and Data Systems, Inc., a telecommunications company, provides communications services to residential, commercial, and wholesale customers in the United States. It operates through two segments: TDS Telecom and Array. The company offers internet connections and all-home Wi-Fi services, fiber internet, security, and support services; advanced home TV entertainment combined with a digital video recording (DVR) services; TDS TV+, an integrated cloud TV platform that combines linear and on…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Array Digital Infrastructure, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $33.62 · Mkt cap $3.87B · EV $4.23B · Fwd EV/EBITDA 7.8x · Communication Services / Wireless Telecommunication Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1051512/000105151226000070/0001051512-26-000070-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TDS, TDS-PU, TDS-PV&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Communications (4813) · 8k_tier1:8.01 · filed 2026-09-02&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SCHEDULE 13D/A · Sep 02 07:18 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1051512/000091311526000012/0000913115-26-000012-index.htm'&gt;Withdraws Array acquisition proposal; retains 82% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 02 07:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1051512/000105151226000070/tds-20260901.htm'&gt;Withdraws Array acquisition proposal; keeps 82% stake&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
