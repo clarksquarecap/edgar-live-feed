@@ -6,8 +6,40 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 10:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:21:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OMEX 🤝 Merger
+Reverse-merged into AOM; OMEX holders retain 6.6%; renamed AOMC
+stock
+Mcap $44M · EV $13M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/798528/000119312526391074/d104064ds4a.htm</link>
+      <guid isPermaLink="false">0001193125-26-391074</guid>
+      <pubDate>Tue, 15 Sep 2026 05:21:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$SAFX 🤝 Merger
+Amends DevvStream/Southern merger; XCF ownership up to 69.57%
+stock
+Mcap $168M · EV $426M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2019793/000121390026099861/ea0305486-425_xcfglobal.htm</link>
+      <guid isPermaLink="false">0001213900-26-098554</guid>
+      <pubDate>Tue, 15 Sep 2026 05:21:05 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$ZOAR 🤝 Merger
+Acquires Impact Biomedical; corrects exchange ratio to 1:1 post-split
+stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2078148/000149315226042640/form425.htm</link>
+      <guid isPermaLink="false">0001493152-26-042161</guid>
+      <pubDate>Tue, 15 Sep 2026 05:20:52 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AXM 🪓 Spinoff
 Spin-off from Flex; 88-94% distribution; Nasdaq: AXM</title>
@@ -102,17 +134,6 @@ Mcap $57B · EV $116B · Utilities</title>
       <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926107567/tm2625368d6_425.htm</link>
       <guid isPermaLink="false">0001193125-26-390654</guid>
       <pubDate>Mon, 14 Sep 2026 16:38:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DEVSF 🤝 Merger
-Acquired by XCF Global; consideration cut to 14.99% of XCF shares; vote Sept 17
-stock
-Mcap $6M · EV $13M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1854480/000114036126036514/ef20081825_defa14a.htm</link>
-      <guid isPermaLink="false">0001213900-26-098554</guid>
-      <pubDate>Mon, 14 Sep 2026 16:38:01 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -697,15 +718,6 @@ Mcap $155M · EV $312M · Cons Stpl</title>
       <guid isPermaLink="false">0001840199-26-000101</guid>
       <pubDate>Mon, 14 Sep 2026 05:52:05 -0500</pubDate>
       <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$EMCGF 💥 Busted M&amp;A
-Tianji terminates merger agreement; deal dead
-Mcap $27M · EV $30M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1869601/000149315226042465/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042465</guid>
-      <pubDate>Mon, 14 Sep 2026 05:20:06 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
