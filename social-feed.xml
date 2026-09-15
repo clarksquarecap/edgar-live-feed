@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 21:00:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:09:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$JBS 🤝 Merger
+Combines leather assets with Viva in 50/50 JV
+Viva Holding Ltda.
+Mcap $13B · EV $36B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1791942/000121390026100180/ea0305591-8k_jbs.htm</link>
+      <guid isPermaLink="false">0001213900-26-100180</guid>
+      <pubDate>Tue, 15 Sep 2026 16:09:05 -0500</pubDate>
+      <category>MERGER</category>
+    </item>
+    <item>
+      <title>$FWDI 🤝 Merger · Unsolicited
+Proposes $2.13/share (0.306 FWDI shares) for SkyAI
+50% prem · cash/stk elect
+Mcap $513M · EV $618M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/38264/000168316826007172/forward_8k.htm</link>
+      <guid isPermaLink="false">0001493152-26-042586</guid>
+      <pubDate>Tue, 15 Sep 2026 16:08:43 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$CYCN 📍 Stake
 Receives 13D from Venrock disclosing 9.9% stake
@@ -731,26 +752,6 @@ Mcap $2.9B · EV $5.8B · Financials</title>
       <guid isPermaLink="false">0000950103-26-013926</guid>
       <pubDate>Mon, 14 Sep 2026 16:14:27 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$VWAV 🪙 Debt Restr.
-Issues $5M convertible debenture to YA II; warrant repriced to $1.50
-Mcap $13M · EV $48M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2038439/000173112226001239/e7941_8-k.htm</link>
-      <guid isPermaLink="false">0001731122-26-001239</guid>
-      <pubDate>Mon, 14 Sep 2026 16:06:49 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$BWMN 🤝 Merger
-Acquired by Bernhard for $43.00 cash/share; close Q4 2026
-cash
-Mcap $735M · EV $1.0B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847590/000119312526390722/d143229ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-389906</guid>
-      <pubDate>Mon, 14 Sep 2026 16:05:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
