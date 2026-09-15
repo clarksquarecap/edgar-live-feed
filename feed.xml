@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 12:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:16:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · CTVA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526391369/d71834d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-391369</guid>
+      <pubDate>Tue, 15 Sep 2026 07:16:28 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Spins off seed segment as Vylor at 1:1; record Sept 24, distribution Oct 1</scanner:headline>
+      <scanner:shortName>Corteva</scanner:shortName>
+      <scanner:price>82.54</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>CTVA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Spins off seed segment as Vylor at 1:1; record Sept 24, distribution Oct 1&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corteva&amp;#39;s board approved the spin-off of its seed segment into Vylor Inc., with a pro rata distribution of one Vylor share per Corteva share. Record date is Sept 24, 2026; distribution expected Oct 1, 2026. Vylor will trade on NYSE under VYLR, with when-issued trading starting Sept 25.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Corteva, Inc. operates in the agriculture business. The company operates through two segments, Seed and Crop Protection. The Seed segment develops and supplies advanced germplasm and traits that produce optimum yield for farms. It offers trait technologies that enhance resistance to weather, disease, insects, and herbicides used to control weeds, as well as food and nutritional characteristics.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Record date Sept 24; when-issued trading Sept 25; distribution Oct 1&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $82.54 · Mkt cap $55.07B · EV $57.80B · Fwd P/E 21.0x · Fwd EV/EBITDA 13.2x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1755672/000119312526391369/0001193125-26-391369-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CTVA&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Agriculture (0100) · 8k_tier1:7.01,8.01 · filed 2026-09-15&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · CTNT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1951667/000110465926107715/tm2624728d1_8k.htm</link>
@@ -13367,32 +13394,6 @@
 &lt;p&gt;&lt;i&gt;Px $223.42 · Mkt cap $32.32B · EV $31.50B · Fwd P/E 16.9x · Fwd EV/EBITDA 12.1x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/943819/000119312526378487/0001193125-26-378487-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RMD, RSMDF&lt;/b&gt; · 8-K · Items 8.01 · Instruments / Medical Devices (3841) · 8k_tier1:8.01 · filed 2026-09-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · SRCRF</title>
-      <link>https://www.theglobeandmail.com/investing/markets/stocks/SGN-X/pressreleases/4242383/scorpio-gold-announces-approval-to-list-american-depositary-shares-on-the-nasdaq-capital-market-under-the-symbol-sgld/</link>
-      <guid isPermaLink="false">OTC-533739</guid>
-      <pubDate>Tue, 01 Sep 2026 15:31:46 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>OTC</category>
-      <scanner:headline>Delists from OTCQB; lists ADSs on NASDAQ under SGLD</scanner:headline>
-      <scanner:shortName>Scorpio Gold</scanner:shortName>
-      <scanner:price>0.2400</scanner:price>
-      <scanner:subtype>voluntary</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>SRCRF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Delists from OTCQB; lists ADSs on NASDAQ under SGLD&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received approval to list its ADSs on NASDAQ under symbol SGLD, with each ADS representing 20 common shares. Trading commences September 1, 2026; TSXV symbol changes from SGN to SGLD. The OTCQB listing is being terminated as part of the uplisting.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Scorpio Gold Corporation, together with its subsidiaries, engages in the exploitation, exploration, and development of mineral resource properties in the United States. The company holds a 100% interest in the Manhattan District, located in the Walker Lane Trend of Nevada, USA, spanning approximately 4,780 hectares. This project also comprises the advanced exploration-stage Goldwedge Mine, the Kinross Manhattan properties, and the Keystone and Jumbo deposits located in Nevada.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.2400 · Mkt cap $88.7M · EV $86.5M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/SRCRF/news/533739'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SRCRF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-01&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
