@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 16:34:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:48:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Special Dividend · JFBC</title>
+      <link>https://www.otcmarkets.com/stock/JFBC/news/535205</link>
+      <guid isPermaLink="false">OTC-535205</guid>
+      <pubDate>Tue, 15 Sep 2026 11:48:53 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>special_dividend</category>
+      <category>OTC</category>
+      <scanner:headline>Declares $0.25 special dividend</scanner:headline>
+      <scanner:shortName>Jeff Bank National Association</scanner:shortName>
+      <scanner:price>27.60</scanner:price>
+      <scanner:subtype>special_dividend</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>JFBC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>OTC</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Declares $0.25 special dividend&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Jeffersonville Bancorp declared a special dividend of $0.25 per share. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Jeff Bank, National Association operates as the bank holding company for Jeff Bank that provides community banking products and services to individuals, small businesses, and local municipal governments primarily in Sullivan County, New York. The company offers various deposit products, such as checking, money market, savings, individual retirement arrangement, and NOW, as well as demand and time deposits.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $27.60 · Mkt cap $116.9M · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JFBC&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-15&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Special Dividend · SFDL</title>
       <link>https://www.globenewswire.com/news-release/2026/04/15/3274813/0/en/Security-Federal-Corporation-Announces-Special-Dividend.html</link>
@@ -13372,29 +13398,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.09 · Mkt cap $27.2M · EV $35.9M · Information Technology / Communications Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1680637/000175392626001683/0001753926-26-001683-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NUR, NRRWF&lt;/b&gt; · 6-K · Industrial Machinery (3576) · prefill_form:6-K · filed 2026-09-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Preliminary · ULIT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026096304/ea0304282-425_constellation1.htm</link>
-      <guid isPermaLink="false">0001213900-26-096304</guid>
-      <pubDate>Tue, 01 Sep 2026 16:28:48 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-      <category>425</category>
-      <scanner:headline>Proposed SPAC merger with Constellation to form lithium company</scanner:headline>
-      <scanner:shortName>US Elemental</scanner:shortName>
-      <scanner:subtype>preliminary</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>ULIT</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Proposed SPAC merger with Constellation to form lithium company&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is the subject of a proposed business combination involving Constellation Acquisition Corp I, Jindalee Lithium Limited, and its subsidiary HiTech Minerals, Inc. The investor presentation outlines a potential merger to create a lithium-focused public company. The transaction is subject to closing conditions and no assurance of consummation.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Constellation Acquisition Corp I&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2134552/000121390026096304/0001213900-26-096304-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ULIT&lt;/b&gt; · 425 · Mining; Nonmetallic (1400) · prefill_form:425 · filed 2026-09-01&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
