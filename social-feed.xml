@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 21:21:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:30:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PSNL 🤝 Merger
+Acquired by Tempus AI; S-4 filed
+Mcap $1.7B · EV $1.6B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1527753/000119312526392159/d158929d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-392159</guid>
+      <pubDate>Tue, 15 Sep 2026 16:29:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Launches consent solicitation to remove 5 directors
+Mcap $246M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002549/dfan14a14909002_09152026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002488</guid>
+      <pubDate>Tue, 15 Sep 2026 16:28:13 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$ZSPC 🌑 Going Dark
 Voluntarily delists from Nasdaq and deregisters with SEC
@@ -754,26 +773,6 @@ Mcap $57B · EV $116B · Utilities</title>
       <pubDate>Mon, 14 Sep 2026 16:38:18 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NDRA 🤝 Merger
-Acquired by Noble Africa (ASP Isotopes) in proposed merger
-Mcap $8M · EV $7M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1681682/000121390026099784/ea0304649-425_endra.htm</link>
-      <guid isPermaLink="false">0001477932-26-005473</guid>
-      <pubDate>Mon, 14 Sep 2026 16:29:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces Garg Group consent solicitation to remove 5 directors; deadline Sept 18
-Vishal Garg / Garg
-Mcap $246M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002539/dfan14a14909002_09142026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002488</guid>
-      <pubDate>Mon, 14 Sep 2026 16:27:08 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
