@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 20:46:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:52:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · WEAV</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1609151/000114036126036669/ny20081403x1_prem14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-036669</guid>
+      <pubDate>Tue, 15 Sep 2026 15:52:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>PREM14A</category>
+      <scanner:headline>Acquired by Francisco Partners for $7.40 cash/share</scanner:headline>
+      <scanner:shortName>Weave Communications</scanner:shortName>
+      <scanner:price>7.34</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>PREM14A</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>WEAV</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>PREM14A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Francisco Partners for $7.40 cash/share&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Agreed to be acquired by affiliates of Francisco Partners for $7.40 per share in cash. The merger agreement was signed August 18, 2026. Stockholders will vote at a special meeting; the board recommends approval.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Weave Communications, Inc. operates an AI-powered patient communications, engagement, and payments platform for small and medium-sized healthcare businesses. It offers AI-receptionist; Unified Phone Number; Customized Phone System, a smarter phone system to identify whether incoming calls are from new or current patients, provide information at every call, and manage heavy call times; Softphones to make and receive calls from anywhere with an internet connection; Text Messaging and SMS response …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Francisco Partners (via Willow Parent LLC)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 7.40&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote on merger&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.34 · Mkt cap $585.6M · EV $558.5M · Fwd P/E 37.0x · Fwd EV/EBITDA 26.6x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000114036126036669/0001140361-26-036669-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WEAV&lt;/b&gt; · PREM14A · Business Services (7372) · prefill_form:PREM14A · filed 2026-09-15&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · ELTK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1024672/000117891326004509/0001178913-26-004509-index.htm</link>
@@ -13376,28 +13403,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.5000 · Mkt cap $5.6M · EV $5.7M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1644903/000143774926029455/0001437749-26-029455-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;YCBD&lt;/b&gt; · 8-K · Items 1.01, 5.03, 7.01, 9.01 · Chemicals / Pharma (2844) · 8k_tier1:1.01,7.01 · filed 2026-09-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced</title>
-      <link>https://www.stocktitan.net/news/ZTEK/zentek-approved-for-trading-on-the-otcqx-best-c6226ow47fig.html</link>
-      <guid isPermaLink="false">OTC-533791</guid>
-      <pubDate>Wed, 02 Sep 2026 06:13:01 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>OTC</category>
-      <scanner:headline>Forced Nasdaq delisting Sept 2; trades OTCQX as ZTEKF</scanner:headline>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector />
-      <scanner:ticker />
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting Sept 2; trades OTCQX as ZTEKF&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Zentek&amp;#39;s common shares will be suspended from Nasdaq on Sept 2, 2026, and begin trading on OTCQX Best Market under ZTEKF. The company will appeal the delisting determination, but the suspension is not stayed. Primary listing on TSX Venture (ZEN) is unaffected.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/OTCM/news/533791'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;OTC · otc_keyword_match · filed 2026-09-02&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
