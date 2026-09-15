@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 21:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:21:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AFCG 📍 Stake
+Receives 13D/A from Tannenbaum; stake rises to 31.6%
+Mcap $79M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1822523/000182912626010121/0001829126-26-010121-index.htm</link>
+      <guid isPermaLink="false">0001829126-26-010121</guid>
+      <pubDate>Tue, 15 Sep 2026 16:21:25 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$DHI 💧 Capital Return · Buyback
+Authorizes $5B buyback; FY26 repurchases ≥$3.25B
+Mcap $39B · EV $45B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/882184/000088218426000108/dhi-20260915.htm</link>
+      <guid isPermaLink="false">0000882184-26-000108</guid>
+      <pubDate>Tue, 15 Sep 2026 16:20:58 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
+    <item>
+      <title>$ZSPC 📉 Delisting · Voluntary
+Voluntarily delists from Nasdaq; effective Oct 5
+effective 2026-10-05
+Mcap $6M · EV $18M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637147/000110465926107972/tm2625490d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-107972</guid>
+      <pubDate>Tue, 15 Sep 2026 16:20:48 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$NVT 🤝 Merger
 Acquires Maverick Power for $1.75B cash; close Q4
