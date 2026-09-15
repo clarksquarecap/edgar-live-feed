@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 10:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:15:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GTE 📤 Divestiture
+Sells Colombia/Ecuador ops to Maurel &amp; Prom for $1.33B; vote Oct 9
+$1.33 billion deal
+Mcap $374M · EV $870M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1273441/000119312526391062/d146918ddefm14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-391062</guid>
+      <pubDate>Tue, 15 Sep 2026 05:15:33 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CWD 🪙 Debt Restr.
 Exchanges $12.6M notes for new notes, preferred, 80% payoff option
@@ -666,53 +676,6 @@ Mcap $27M · EV $30M · Financials</title>
       <guid isPermaLink="false">0001493152-26-042465</guid>
       <pubDate>Mon, 14 Sep 2026 05:20:06 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$HRGG 🧊 Liquidation
-Updates dissolution payment range; sets record date
-Mcap $23M · Financials</title>
-      <link>https://www.otcmarkets.com/stock/HRGG/news/534897</link>
-      <guid isPermaLink="false">OTC-534897</guid>
-      <pubDate>Mon, 14 Sep 2026 05:11:46 -0500</pubDate>
-      <category>LIQUIDATION</category>
-    </item>
-    <item>
-      <title>$HBFGF 🤝 Merger
-Acquires 50% of Ghost Taco fast casual chain; definitive agreement signed and closed
-Mcap $174M · EV $171M · Healthcare</title>
-      <link>https://www.otcmarkets.com/stock/HBFGF/news/534896</link>
-      <guid isPermaLink="false">OTC-534896</guid>
-      <pubDate>Mon, 14 Sep 2026 05:11:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ASGI 📜 Rights Issue
-Rights offering: 1-for-3 at 92.5% of market price</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1793855/000110465926107150/tm2625287d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-107150</guid>
-      <pubDate>Mon, 14 Sep 2026 05:11:13 -0500</pubDate>
-      <category>RIGHTS_ISSUE</category>
-    </item>
-    <item>
-      <title>$ICRL 🔎 Strat Review · Strat Alts
-Engages banker to explore strategic alternatives; cuts distribution to $0.026
-Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1690012/000119312526389458/ck0001690012-20260909.htm</link>
-      <guid isPermaLink="false">0001193125-26-389464</guid>
-      <pubDate>Mon, 14 Sep 2026 05:11:00 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$CLLS 🔎 Strat Review · Portfolio Review
-Pivots to in vivo gene editing; exits lasme-cel and eti-cel
-Mcap $222M · EV $134M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1627281/000117184326006010/f6k_091326.htm</link>
-      <guid isPermaLink="false">0001171843-26-006010</guid>
-      <pubDate>Mon, 14 Sep 2026 05:10:06 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
     </item>
   </channel>
 </rss>
