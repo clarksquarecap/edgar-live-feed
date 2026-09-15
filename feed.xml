@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 10:07:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:08:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · CWD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1627282/000162728226000070/cwd-20260914.htm</link>
+      <guid isPermaLink="false">0001627282-26-000070</guid>
+      <pubDate>Tue, 15 Sep 2026 05:08:36 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Exchanges $12.6M notes for new notes, preferred, 80% payoff option</scanner:headline>
+      <scanner:shortName>CaliberCos</scanner:shortName>
+      <scanner:price>0.5100</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>CWD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Exchanges $12.6M notes for new notes, preferred, 80% payoff option&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Exchanged $12.6M of corporate promissory notes: $2.9M for 5-year 6% amortizing notes, $0.6M for Series AAA convertible preferred, and $9.1M for a payoff option at 80% ($7.3M). The program addresses ~54% of $21.1M notes maturing within 12 months, cutting interest costs ~48% on exchanged notes.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CaliberCos Inc. is a real estate investment firm specializing in Core, Core Plus, Value Add, and Opportunistic strategies. The firm targets investments in middle-market commercial real estate sectors, including multifamily, hospitality, self-storage, and medical office properties. It focuses on growth markets in the Southwest and Southeast regions of the United States, specifically targeting Arizona, Colorado, Texas, Utah, Nevada, and Idaho.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $12.6M&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Payoff option exercisable over next 6 months&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.5100 · Mkt cap $5.3M · EV $162.1M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1627282/000162728226000070/0001627282-26-000070-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CWD&lt;/b&gt; · 8-K · Items 1.01, 3.02, 7.01, 9.01 · Real Estate (6500) · 8k_tier1:1.01,7.01 · filed 2026-09-15&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💔 Busted · ASND</title>
       <link>https://www.sec.gov/Archives/edgar/data/1612042/000119312526390877/d183438d6k.htm</link>
@@ -13367,33 +13394,6 @@
 &lt;p&gt;&lt;i&gt;Px $6.54 · Mkt cap $25.8M · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1649739/000164973926000097/0001649739-26-000097-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BAFN&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Depository Institutions (6022) · 8k_tier1:8.01 · filed 2026-09-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Buyback Authorization · CEPU</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1717161/000129281426004406/cepu20260901_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004406</guid>
-      <pubDate>Tue, 01 Sep 2026 08:14:41 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-      <category>6-K</category>
-      <scanner:headline>Authorizes $30M share repurchase; up to 10% of capital</scanner:headline>
-      <scanner:shortName>CENTRAL PUERTO</scanner:shortName>
-      <scanner:price>13.31</scanner:price>
-      <scanner:subtype>buyback_authorization</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Utilities</scanner:sector>
-      <scanner:ticker>CEPU</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Authorizes $30M share repurchase; up to 10% of capital&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Authorized a share repurchase of up to US$30 million, not exceeding 10% of share capital, over 180 days. The buyback will be executed on NYSE (max US$16 per ADR) and BYMA (max AR$2,600 per common share), funded from unrestricted reserves. The board believes the market price undervalues the company&amp;#39;s assets.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Central Puerto S.A. engages in the electric power generation activities in Argentina. It operates in three segments: Electric Power Generation From Conventional Sources, Electric Power Generation From Renewable Sources and Forest Activity, and Management and Operations of Thermal Plants. The company’s power generation assets include combined cycle, gas and steam turbine, co-generation, hydroelectric, wind turbines, and solar panels.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; US$30,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Buyback execution over 180 days&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $13.31 · Mkt cap $2.13B · EV $2.54B · Fwd P/E 6.9x · Fwd EV/EBITDA 6.1x · Utilities / Independent Power and Renewable Electricity Producers&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1717161/000129281426004406/0001292814-26-004406-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CEPU&lt;/b&gt; · 6-K · Utilities (4911) · prefill_form:6-K · filed 2026-09-01&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
