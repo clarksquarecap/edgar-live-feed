@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 11:54:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:01:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LIND 🤝 Merger
+Acquires 60% of White Desert &amp; Echo Charlie for ~$61M cash
+~$67M deal · cash
+Mcap $1.7B · EV $2.1B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1512499/000143774926030390/lindb20260914_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-030390</guid>
+      <pubDate>Tue, 15 Sep 2026 07:01:06 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$PAUIF 📤 Divestiture
 Sells Colorado assets to DISA Uranium; receives equity investment
@@ -767,17 +778,6 @@ Mcap $80M · EV $316M · Tech</title>
       <guid isPermaLink="false">0001556739-26-000042</guid>
       <pubDate>Mon, 14 Sep 2026 07:07:40 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AIRJ 🤝 Merger
-Acquires BitSink for $18M cash + $9M stock + $40M earnout
-$27M upfront + up to $40M earnout deal · cash+stk
-Mcap $314M · EV $273M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1855474/000119312526389855/airj-20260910.htm</link>
-      <guid isPermaLink="false">0001193125-26-389855</guid>
-      <pubDate>Mon, 14 Sep 2026 07:00:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
