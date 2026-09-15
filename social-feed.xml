@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 20:53:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:59:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RENT 📜 Rights Issue
+Sets Sept 25 record date for $15M rights offering
+Mcap $65M · EV $232M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468327/000095010326013999/dp253357_8k.htm</link>
+      <guid isPermaLink="false">0000950103-26-013999</guid>
+      <pubDate>Tue, 15 Sep 2026 15:59:44 -0500</pubDate>
+      <category>RIGHTS_ISSUE</category>
+    </item>
     <item>
       <title>$SAFT 🤝 Merger
 HSR cleared; proxy mailed for MAPFRE merger
@@ -733,35 +742,6 @@ Mcap $735M · EV $1.0B · Industrials</title>
       <pubDate>Mon, 14 Sep 2026 16:05:57 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TECH 🤝 Merger
-Merck KGaA merger vote Sept 23; supplements proxy after shareholder suit
-Mcap $11B · EV $11B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/842023/000114036126036499/ef20081960_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-036072</guid>
-      <pubDate>Mon, 14 Sep 2026 15:59:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TLX ⚖️ Litigation · Won
-FDA approves Pixclara FET-PET for glioma imaging
-Mcap $3.8B · EV $4.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2007191/000162828026061892/telix-6kpixclarafdaapproval.htm</link>
-      <guid isPermaLink="false">0001628280-26-061892</guid>
-      <pubDate>Mon, 14 Sep 2026 15:58:36 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$BHR ⚔️ Proxy
-Nominates 5 independent directors at Braemar; AGM Nov 13
-Mcap $128M · EV $1.2B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000139834426016990/fp0100868-1_dfan14a.htm</link>
-      <guid isPermaLink="false">0001398344-26-016786</guid>
-      <pubDate>Mon, 14 Sep 2026 15:58:22 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
