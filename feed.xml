@@ -6,25 +6,52 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 10:34:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:35:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
+      <title>🪙 Debt Restr. · UK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1821424/000121390026099878/ea0305530-6k_ucommune.htm</link>
+      <guid isPermaLink="false">0001213900-26-099878</guid>
+      <pubDate>Tue, 15 Sep 2026 05:35:49 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Gets preferred holder waivers; cuts conversion price to $2.59</scanner:headline>
+      <scanner:shortName>Ucommune International</scanner:shortName>
+      <scanner:price>1.94</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Real Estate</scanner:sector>
+      <scanner:ticker>UK</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Gets preferred holder waivers; cuts conversion price to $2.59&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ucommune entered waiver agreements with Series A Preferred holders, granting limited waivers of cash redemption and exchange cap provisions. The company lowered the conversion price to $2.59 per Class A ordinary share (floor $0.518) and corrected prior disclosure that the Series B Exchange was consummated - it was not, and the Original Exchange Agreements are void ab initio. The 1,330 Series A Preferred Shares remain outstanding.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ucommune International Ltd provides agile office space services in China. It operates through two segments: Workspace Membership and Other Services. The company operates self-operated and asset-light models. It also provides individual services, such as catering, fitness, healthcare, training, and entertainment; general corporate services, including corporate secretary, human resources, legal, finance, IT support, and tax services; incubation and corporate venturing services; design and build se…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Series A Preferred holders (institutional investors)&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.94 · Mkt cap $880K · EV $-1.2M · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1821424/000121390026099878/0001213900-26-099878-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UK&lt;/b&gt; · 6-K · Business Services (7389) · prefill_form:6-K · filed 2026-09-15&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>🤝 Merger · Definitive · IRDM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1418819/000095010326013945/dp253331_8k.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1418819/000095010326013946/dp253332_8k.htm</link>
       <guid isPermaLink="false">0000950103-26-013945</guid>
-      <pubDate>Tue, 15 Sep 2026 05:25:02 -0500</pubDate>
+      <pubDate>Tue, 15 Sep 2026 05:35:28 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Amends credit agreement to consent to Rocket Lab merger</scanner:headline>
+      <category>425</category>
+      <scanner:headline>Credit agreement amended to consent to Rocket Lab merger</scanner:headline>
       <scanner:shortName>Iridium Communications</scanner:shortName>
       <scanner:price>46.18</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
+      <scanner:form>425</scanner:form>
       <scanner:sector>Communication Services</scanner:sector>
       <scanner:ticker>IRDM</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>8-K, 425</scanner:filingForms>
       <scanner:related />
       <description>&lt;p&gt;&lt;b&gt;Amends credit agreement to consent to Rocket Lab merger&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Iridium entered into Consent and Amendment No. 4 to its credit agreement to consent to the pending merger with Rocket Lab, ensuring the transaction does not constitute a change of control and allowing term loans to remain outstanding post-closing. The amendment also provides for a downstream guarantee by Rocket Lab USA and adjusts interest rates and fees post-closing. The merger is subject to stockholder approval; proxy statement was filed on August 26, 2026.&lt;/p&gt;
@@ -33,7 +60,35 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder vote&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $46.18 · Mkt cap $4.89B · EV $6.50B · Fwd P/E 31.9x · Fwd EV/EBITDA 12.7x · Communication Services / Diversified Telecommunication Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1418819/000095010326013945/0000950103-26-013945-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IRDM&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Communications (4899) · 8k_tier1:1.01 · filed 2026-09-15&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IRDM&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Communications (4899) · 8k_tier1:1.01 · filed 2026-09-15&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 15 05:35 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1418819/000095010326013946/dp253332_8k.htm'&gt;Credit agreement amended to consent to Rocket Lab merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 15 05:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1418819/000095010326013945/dp253331_8k.htm'&gt;Amends credit agreement to consent to Rocket Lab merger&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🧬 Spin-Off · FLEX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866374/000086637426000036/flex-20260911.htm</link>
+      <guid isPermaLink="false">0000866374-26-000036</guid>
+      <pubDate>Tue, 15 Sep 2026 05:25:02 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Progresses spin-off of cloud/power business into Axiom; names boards</scanner:headline>
+      <scanner:shortName>FLEX</scanner:shortName>
+      <scanner:price>108.32</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>FLEX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Progresses spin-off of cloud/power business into Axiom; names boards&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Provided an update on its planned spin-off of its cloud and power infrastructure business into Axiom Solutions International, Inc. The company announced expected board compositions for Flex and Axiom post-spin, and Amy B. Schwetz will join as CFO of Flex&amp;#39;s Regulated Manufacturing Services and Integrated Technology Services segments on October 5, 2026, and is expected to become Flex CFO after the spin-off. The spin-off is intended to be tax-free.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Flex Ltd. provides technology innovation, supply chain, and manufacturing solutions to data center, communications, enterprise, consumer, automotive, healthcare, industrial, and power industries in the Americas, Asia, and Europe. The company operates through three segments: Integrated Technology Solutions (ITS), Regulated Manufacturing Solutions (RMS), and Cloud and Power Infrastructure (CPI).&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Axiom Solutions International, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $108.32 · Mkt cap $40.01B · EV $43.10B · Fwd P/E 21.4x · Fwd EV/EBITDA 13.6x · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/866374/000086637426000036/0000866374-26-000036-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FLEX&lt;/b&gt; · 8-K · Items 5.02, 8.01, 9.01 · Electronic Equipment (3672) · 8k_tier1:8.01 · filed 2026-09-15&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · ATKR</title>
@@ -13341,60 +13396,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Expiration date October 5, 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1260563/000119312526377910/0001193125-26-377910-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NFJ&lt;/b&gt; · SC TO-I · Non-Depository Credit (6163) · prefill_form:SC TO-I · filed 2026-09-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · CRK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/23194/000119312526377822/crk-20260901.htm</link>
-      <guid isPermaLink="false">0001193125-26-377822</guid>
-      <pubDate>Tue, 01 Sep 2026 10:08:03 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Signs LOI to sell partial Haynesville interests to SOCAR for $1.65B cash</scanner:headline>
-      <scanner:shortName>COMSTOCK RESOURCES</scanner:shortName>
-      <scanner:price>15.56</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>CRK</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Signs LOI to sell partial Haynesville interests to SOCAR for $1.65B cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Signed a letter of intent with SOCAR to sell a 20% non-operated working interest in its Legacy Haynesville assets, a 15% interest in Western Haynesville (reducing to 7.5% after five years and a 15% ROI), and 15% of its 73% stake in Pinnacle Gas Services for $1.65 billion in cash. Proceeds will cut net debt from $3.1B to $1.5B. Also announced a $450M drilling venture with Jerry Jones&amp;#39; partnership to fund 85% of 18 Western and 80% of nine Legacy wells, with 50% reversion after 15% ROI.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Comstock Resources, Inc., an independent energy company, engages in the acquisition, exploration, development, and production of natural gas and oil properties in the United States. Its assets covering an area of approximately 1,069,991 acres are located in the Haynesville and Bossier shales located in North Louisiana and East Texas. The company was incorporated in 1919 and is headquartered in Frisco, Texas.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; SOCAR&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $1.65 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Definitive PSA execution by Oct 31, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $15.56 · Mkt cap $4.24B · EV $7.95B · Fwd P/E 20.9x · Fwd EV/EBITDA 5.6x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/23194/000119312526377822/0001193125-26-377822-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CRK&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Oil &amp;amp; Gas (1311) · 8k_tier1:7.01 · filed 2026-09-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · FAASF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1844981/000143774926029366/faas20260826_6k.htm</link>
-      <guid isPermaLink="false">0001437749-26-029366</guid>
-      <pubDate>Tue, 01 Sep 2026 09:25:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>6-K</category>
-      <scanner:headline>Extends PayMate acquisition closing by 60 days</scanner:headline>
-      <scanner:shortName>DIGIASIA</scanner:shortName>
-      <scanner:price>0.0200</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>FAASF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Extends PayMate acquisition closing by 60 days&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DigiAsia Corp. and PayMate India Limited have agreed to extend the closing timeline for their proposed acquisition by 60 days beyond the previously disclosed First Long Stop Date. The extension is to accommodate ongoing satisfaction of conditions precedent including funding, regulatory approvals, consents, and shareholder approval. DigiAsia expects closure within the next 60 days, subject to conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; DigiAsia Corp. develops an AI embedded finance platform in Southeast Asia. It offers B2B fintech platform for bill payments, supply chain payments, and branchless banking solutions for merchants, partners, and customers; digital wallets; QRIS Payment as a Service; Cash Management system for ERP system that allows users to create a closed-loop cash management system; Digital Product &amp;amp; Billers, which allows users to purchase digital products or pay bills to multiple issuers or billers; and Remitta…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; PayMate India Limited&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing expected within 60 days&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0200 · Mkt cap $1.1M · EV $-3.6M · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1844981/000143774926029366/0001437749-26-029366-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FAASF&lt;/b&gt; · 6-K · Business Services (7372) · prefill_form:6-K · filed 2026-09-01&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
