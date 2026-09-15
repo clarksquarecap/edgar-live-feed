@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 13:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:36:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DFH 🤝 Merger
+Secures $225M preferred financing for Beazer merger; $450M more at close
+Beazer Homes USA
+Mcap $1.2B · EV $2.9B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1825088/000162828026061981/dream-20260914.htm</link>
+      <guid isPermaLink="false">0001104659-26-107656</guid>
+      <pubDate>Tue, 15 Sep 2026 08:36:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CLYD 💧 Capital Return · Self-tender
 Offers $15M self-tender at $6.6609/share</title>
@@ -308,17 +319,6 @@ Spin-off from Flex; 88-94% distribution; Nasdaq: AXM</title>
       <guid isPermaLink="false">0001193125-26-391224</guid>
       <pubDate>Tue, 15 Sep 2026 05:19:34 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$BZH 🤝 Merger
-Acquired by Dream Finders for $33.50 cash/share; vote Oct 15
-Dream Finders Homes · cash
-Mcap $857M · EV $2.2B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/915840/000110465926107656/tm2622398-15_defm14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-107656</guid>
-      <pubDate>Tue, 15 Sep 2026 05:15:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$GTE 📤 Divestiture
@@ -787,27 +787,6 @@ Mcap $881M · EV $808M · Materials</title>
       <guid isPermaLink="false">0001062993-26-004908</guid>
       <pubDate>Mon, 14 Sep 2026 08:42:26 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BFRI ⚖️ Litigation · Won
-FDA approves Ameluz for sBCC; first PDT for skin cancer
-Mcap $23M · EV $26M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1858685/000149315226042508/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042508</guid>
-      <pubDate>Mon, 14 Sep 2026 08:35:34 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$EURK 🤝 Merger
-Acquires Marine Thinking for $130M stock; EGM vote
-$130.0 million deal · stock
-Mcap $25M · EV $27M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2000410/000121390026099481/ea0304956-s4a3_eureka.htm</link>
-      <guid isPermaLink="false">0001213900-26-099481</guid>
-      <pubDate>Mon, 14 Sep 2026 08:34:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
