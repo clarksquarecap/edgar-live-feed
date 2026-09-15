@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 21:09:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:16:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MITN 🤝 Merger
+Acquires Cherry Hill Mortgage for 0.3063 shares + $0.93 cash per share
+cash+stk
+Mcap $207M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1514281/000162828026062095/mitt-formsx42026.htm</link>
+      <guid isPermaLink="false">0001628280-26-062095</guid>
+      <pubDate>Tue, 15 Sep 2026 16:16:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Launches split-off: exchange up to 225.4M MiniMed shares for MDT shares
+Mcap $116B · EV $136B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026062091/a425-mdtwebsitex91526.htm</link>
+      <guid isPermaLink="false">0001628280-26-061702</guid>
+      <pubDate>Tue, 15 Sep 2026 16:16:14 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
     <item>
       <title>$BBNX ⚖️ Litigation · Won
 FDA clears Mint patch pump; 510(k) filed for 3D Intelligence
@@ -696,15 +716,6 @@ Mcap $8M · EV $7M · Healthcare</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$MDT 🪓 Split-off
-Launches split-off exchange: up to 225.4M MiniMed shares for MDT shares
-Mcap $116B · EV $136B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026061909/a425-mdtwebsitex91426.htm</link>
-      <guid isPermaLink="false">0001628280-26-061702</guid>
-      <pubDate>Mon, 14 Sep 2026 16:27:22 -0500</pubDate>
-      <category>SPLIT_OFF</category>
-    </item>
-    <item>
       <title>$BETR ⚔️ Proxy
 Faces Garg Group consent solicitation to remove 5 directors; deadline Sept 18
 Vishal Garg / Garg
@@ -741,26 +752,6 @@ Mcap $2.9B · EV $5.8B · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1781755/000095010326013922/dp253307_defa14a.htm</link>
       <guid isPermaLink="false">0000950103-26-013922</guid>
       <pubDate>Mon, 14 Sep 2026 16:18:23 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$BWIN 🤝 Merger
-Acquired by Square Acquisition Parent for $32.50 cash/share
-cash · close June 14, 2027
-Mcap $2.9B · EV $5.8B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1781755/000095010326013923/dp253306_defa14a.htm</link>
-      <guid isPermaLink="false">0000950103-26-013874</guid>
-      <pubDate>Mon, 14 Sep 2026 16:16:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BWIN 📦 Going Private
-Taken private by Sequence-led group incl. Dell Family Office
-Mcap $2.9B · EV $5.8B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1781755/000095010326013926/dp253338_defa14a.htm</link>
-      <guid isPermaLink="false">0000950103-26-013926</guid>
-      <pubDate>Mon, 14 Sep 2026 16:14:27 -0500</pubDate>
       <category>GOING_PRIVATE</category>
     </item>
   </channel>
