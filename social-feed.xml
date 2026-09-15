@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 10:56:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:03:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TFC 📤 Divestiture
+Sells $5.5B auto loan portfolio (RAC) to exit near-prime auto lending
+Mcap $61B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/92230/000009223026000105/tfc-20260915.htm</link>
+      <guid isPermaLink="false">0000092230-26-000105</guid>
+      <pubDate>Tue, 15 Sep 2026 06:03:35 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$RKLB 🤝 Merger
 Raises $1.944B ATM, amends Iridium credit agreement for merger
@@ -780,16 +789,6 @@ Mcap $574M · EV $473M · Materials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1732379/000155485526001998/MainDocument.htm</link>
       <guid isPermaLink="false">0001554855-26-001998</guid>
       <pubDate>Mon, 14 Sep 2026 06:05:40 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$HAIN 📤 Divestiture
-Sells UK/Europe business to AURELIUS for £238.5M (~$323M)
-£238.5M (~$323.2M) deal
-Mcap $56M · EV $606M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/910406/000119312526389814/hain-20260912.htm</link>
-      <guid isPermaLink="false">0001193125-26-389814</guid>
-      <pubDate>Mon, 14 Sep 2026 05:58:33 -0500</pubDate>
       <category>DIVESTITURE</category>
     </item>
   </channel>

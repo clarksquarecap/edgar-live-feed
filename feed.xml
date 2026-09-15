@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 10:50:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:03:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · TFC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/92230/000009223026000105/tfc-20260915.htm</link>
+      <guid isPermaLink="false">0000092230-26-000105</guid>
+      <pubDate>Tue, 15 Sep 2026 06:03:35 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells $5.5B auto loan portfolio (RAC) to exit near-prime auto lending</scanner:headline>
+      <scanner:shortName>TRUIST FINANCIAL</scanner:shortName>
+      <scanner:price>50.10</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>TFC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Sells $5.5B auto loan portfolio (RAC) to exit near-prime auto lending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Truist entered into an agreement to sell $5.5B of auto loans representing substantially all assets of Regional Acceptance Corporation (RAC), exiting near-prime auto lending. The sale generates $5.2B net proceeds and a $535MM loan loss reserve recapture, creating $945MM (22 bps) of CET1 capital. Closing expected late 3Q26 or early 4Q26, subject to customary conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Truist Financial Corporation, a financial services company, provides banking and trust services in the Southeastern and Mid-Atlantic United States. The company operates through two segments, Consumer and Small Business Banking; and Wholesale Banking. Its deposit products include noninterest-bearing checking, interest-bearing checking, savings, and money market deposit accounts, as well as certificates of deposit and individual retirement accounts.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5.5B&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; late 3Q26 or early 4Q26&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing of RAC loan sale&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $50.10 · Mkt cap $61.20B · Fwd P/E 10.8x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/92230/000009223026000105/0000092230-26-000105-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TFC, TFC-PI, TFC-PO, TFC-PR&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Depository Institutions (6021) · 8k_tier1:7.01 · filed 2026-09-15&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · IRDM</title>
       <link>https://www.sec.gov/Archives/edgar/data/1819994/000175392626001769/g085951_8k.htm</link>
@@ -13372,32 +13399,6 @@
 &lt;p&gt;&lt;i&gt;Px $12.09 · Mkt cap $8.67B · EV $10.63B · Fwd P/E 3.8x · Fwd EV/EBITDA 2.5x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1786909/000120561326000057/0001205613-26-000057-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SBSW, SBYSF&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-09-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SHEL</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1306965/000117184326005830/f6k_090126.htm</link>
-      <guid isPermaLink="false">0001171843-26-005830</guid>
-      <pubDate>Tue, 01 Sep 2026 11:40:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>6-K</category>
-      <scanner:headline>Acquires ARC Resources; issues 228M new shares</scanner:headline>
-      <scanner:shortName>Shell</scanner:shortName>
-      <scanner:price>89.84</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>SHEL</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires ARC Resources; issues 228M new shares&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will issue 228,003,843 new ordinary shares (€0.07 each) as part of the consideration for its acquisition of ARC Resources Ltd. The shares will be admitted to trading on the London Stock Exchange on 3 September 2026. The new shares will rank equally with existing shares.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Shell plc operates as an energy and petrochemical company in Europe, Asia, Oceania, Africa, the United States, and other parts of the Americas. It operates through the following segments: Integrated Gas, Upstream, Marketing, Chemicals and Products, and Renewables and Energy Solutions. The company explores for and extracts natural gas to produce liquefied natural gas or convert it into gas-to-liquids (GTL) fuels and other products; explores for and extracts crude oil, natural gas, and natural gas…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ARC Resources Ltd&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $89.84 · Mkt cap $248.42B · EV $291.70B · Fwd P/E 8.6x · Fwd EV/EBITDA 4.3x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1306965/000117184326005830/0001171843-26-005830-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SHEL, RYDAF&lt;/b&gt; · 6-K · Oil &amp;amp; Gas (1311) · prefill_form:6-K · filed 2026-09-01&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
