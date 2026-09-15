@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 12:01:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:08:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VYLR-W 🪓 Spinoff
+Spun off from Corteva; 1 VYLR per CTVA share; NYSE listing</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526391356/ctva_form_10-12ba_2.htm</link>
+      <guid isPermaLink="false">0001193125-26-391356</guid>
+      <pubDate>Tue, 15 Sep 2026 07:07:59 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$LIND 🤝 Merger
 Acquires 60% of White Desert &amp; Echo Charlie for ~$61M cash
@@ -768,16 +776,6 @@ Mcap $2.1B · EV $1.4B · Cons Disc</title>
       <pubDate>Mon, 14 Sep 2026 07:08:25 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$THRY 📤 Divestiture
-Sells print directories business to Carolwood for $142M cash
-to Carolwood L.P. · $142,000,000 deal · close Q4 2026
-Mcap $80M · EV $316M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1556739/000155673926000042/thryv-20260912.htm</link>
-      <guid isPermaLink="false">0001556739-26-000042</guid>
-      <pubDate>Mon, 14 Sep 2026 07:07:40 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
