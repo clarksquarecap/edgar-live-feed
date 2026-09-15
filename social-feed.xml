@@ -6,16 +6,36 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 20:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:38:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$FSHP 🤝 Merger
-Acquires Bluechip &amp; Co. in $400M all-stock merger
+Acquires Bluechip &amp; Co. in $400M stock deal
 $400,000,000 deal · stock
 Mcap $41M · EV $43M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1850059/000182912626010119/flagshipacq_425.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1850059/000182912626010118/flagshipacq_8k.htm</link>
       <guid isPermaLink="false">0001829126-26-010119</guid>
-      <pubDate>Tue, 15 Sep 2026 15:34:59 -0500</pubDate>
+      <pubDate>Tue, 15 Sep 2026 15:37:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$ULIT 🤝 Merger
+US Elemental combination on track; SEC effectiveness expected late Sept/Oct
+close Q4 2026</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026100143/ea030549902-425_constell1.htm</link>
+      <guid isPermaLink="false">0001213900-26-100143</guid>
+      <pubDate>Tue, 15 Sep 2026 15:35:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$ULIT 🤝 Merger
+Acquired by Constellation; $20-30M PIPE; Nasdaq listing Q4
+close Q4 2026</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026100144/ea030549901-425_constell1.htm</link>
+      <guid isPermaLink="false">0001213900-26-100144</guid>
+      <pubDate>Tue, 15 Sep 2026 15:35:29 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -741,37 +761,6 @@ Mcap $262M · EV $263M · Financials</title>
       <pubDate>Mon, 14 Sep 2026 15:44:32 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ANGH 🤝 Merger · Preliminary
-Revises proposal to $3.75/share cash for Anghami
-cash
-Mcap $31M · EV $7M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1871983/000119312526390634/0001193125-26-390634-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-390634</guid>
-      <pubDate>Mon, 14 Sep 2026 15:37:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$SYY 🤝 Merger
-Files financials for Jetro Restaurant Depot merger
-Mcap $40B · EV $53B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/96021/000110465926107510/tm2625144d3_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-107510</guid>
-      <pubDate>Mon, 14 Sep 2026 15:37:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$QNCX 📤 Divestiture
-Sells AIDE assets to Ayma for $450K cash
-to Ayma Therapeutics · $450,000 deal
-Mcap $30M · EV $58M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1662774/000119312526390652/qncx-20260908.htm</link>
-      <guid isPermaLink="false">0001193125-26-390652</guid>
-      <pubDate>Mon, 14 Sep 2026 15:36:25 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>

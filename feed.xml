@@ -6,25 +6,25 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 20:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 20:38:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
       <title>🤝 Merger · Definitive · FSHP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1850059/000182912626010119/flagshipacq_425.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1850059/000182912626010118/flagshipacq_8k.htm</link>
       <guid isPermaLink="false">0001829126-26-010119</guid>
-      <pubDate>Tue, 15 Sep 2026 15:34:59 -0500</pubDate>
+      <pubDate>Tue, 15 Sep 2026 15:37:51 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquires Bluechip &amp; Co. in $400M all-stock merger</scanner:headline>
+      <category>8-K</category>
+      <scanner:headline>Acquires Bluechip &amp; Co. in $400M stock deal</scanner:headline>
       <scanner:shortName>Flag Ship Acquisition</scanner:shortName>
       <scanner:price>11.24</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
+      <scanner:form>8-K</scanner:form>
       <scanner:sector>Financials</scanner:sector>
       <scanner:ticker>FSHP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425, 8-K</scanner:filingForms>
       <scanner:related />
       <description>&lt;p&gt;&lt;b&gt;Acquires Bluechip &amp;amp; Co. in $400M all-stock merger&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Entered into a definitive merger agreement to acquire Bluechip &amp;amp; Co. Holdings in an all-stock transaction valued at $400M (40M shares at $10.00 per share). The deal involves a two-step merger: SPAC merger with Purchaser, then Merger Sub merges with Bluechip. Bluechip shareholders will receive pro rata share of 40M Purchaser shares. The transaction requires shareholder approval at a special meeting.&lt;/p&gt;
@@ -33,7 +33,56 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Parent Special Meeting (shareholder vote) and F-4 filing&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $11.24 · Mkt cap $40.6M · EV $42.7M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1850059/000182912626010119/0001829126-26-010119-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FSHP, FSHPR, FSHPU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-15&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FSHP, FSHPR, FSHPU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-15&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 15 15:37 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1850059/000182912626010118/flagshipacq_8k.htm'&gt;Acquires Bluechip &amp;amp; Co. in $400M stock deal&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 15 15:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1850059/000182912626010119/flagshipacq_425.htm'&gt;Acquires Bluechip &amp;amp; Co. in $400M all-stock merger&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · ULIT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026100143/ea030549902-425_constell1.htm</link>
+      <guid isPermaLink="false">0001213900-26-100143</guid>
+      <pubDate>Tue, 15 Sep 2026 15:35:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>US Elemental combination on track; SEC effectiveness expected late Sept/Oct</scanner:headline>
+      <scanner:shortName>US Elemental</scanner:shortName>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>ULIT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;US Elemental combination on track; SEC effectiveness expected late Sept/Oct&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Constellation Acquisition Corp I&amp;#39;s business combination with US Elemental remains on track for Q4 2026 Nasdaq listing. SEC review of amended S-4 progressing; effectiveness expected late September or October. PIPE term sheets received with target of $20-30M.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; SEC effectiveness expected late Sept/Oct; then Constellation shareholder vote&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2134552/000121390026100143/0001213900-26-100143-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ULIT&lt;/b&gt; · 425 · Mining; Nonmetallic (1400) · prefill_form:425 · filed 2026-09-15&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · ULIT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026100144/ea030549901-425_constell1.htm</link>
+      <guid isPermaLink="false">0001213900-26-100144</guid>
+      <pubDate>Tue, 15 Sep 2026 15:35:29 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>Acquired by Constellation; $20-30M PIPE; Nasdaq listing Q4</scanner:headline>
+      <scanner:shortName>US Elemental</scanner:shortName>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>ULIT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Constellation; $20-30M PIPE; Nasdaq listing Q4&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To be formed via Constellation Acquisition Corp I&amp;#39;s business combination with HiTech Minerals, holding the McDermitt Lithium Project. Site mobilization underway for Phase 1 drilling; SEC review progressing with S-4 effectiveness expected late Sept/Oct; PIPE term sheets received for $20-30M raise. Closing and Nasdaq listing under ULIT expected Q4 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Constellation Acquisition Corp I&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; S-4 effectiveness expected late Sept/Oct; shareholder vote&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2134552/000121390026100144/0001213900-26-100144-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ULIT&lt;/b&gt; · 425 · Mining; Nonmetallic (1400) · prefill_form:425 · filed 2026-09-15&lt;/p&gt;</description>
     </item>
     <item>
       <title>👀 Activist · DBI</title>
@@ -13344,60 +13393,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Nasdaq suspension effective Sept 2, 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/ZTEKF/news/533799'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZTEKF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BMTLF</title>
-      <link>https://investingnews.com/prospector-closes-subscription-receipt-financing-intended-for-lightning-resource-corp/</link>
-      <guid isPermaLink="false">OTC-533803</guid>
-      <pubDate>Wed, 02 Sep 2026 06:11:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>OTC</category>
-      <scanner:headline>Acquires Prospector's non-Yukon projects for 29.4M shares; $4M financing closed</scanner:headline>
-      <scanner:shortName>Lightning Resource</scanner:shortName>
-      <scanner:price>0.3500</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>BMTLF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Prospector&amp;#39;s non-Yukon projects for 29.4M shares; $4M financing closed&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Bemetals Corp. (to be renamed Lightning Resource Corp.) will acquire Prospector Metals&amp;#39; non-Yukon mineral exploration projects via acquisition of subsidiary Lightning Exploration Corp. in exchange for 29,400,000 common shares. Prospector will distribute those shares to its shareholders as a return of capital. The $4,000,000 subscription receipt financing has closed, with proceeds held in escrow pending TSXV approval and other conditions. Closing is subject to final TSXV approval.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lightning Resource Corp. engages in the exploration and evaluation of mineral properties in Canada, Zambia, and Japan. It primarily focuses on base and precious metal deposits. The company has an option agreement to acquire approximately 72% interest in the Pangeni copper project located in Zambia. It also holds 80% interest in the Kazan Gold Project located in Japan. The company also has 100% interest in Savant Gold Exploration Project, in northwestern Ontario, Canada.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Prospector Metals Corp.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-16&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; TSXV final approval&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.3500 · Mkt cap $10.6M · EV $9.8M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/BMTLF/news/533803'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BMTLF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · CASIF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1962738/000110465926104455/tm2624664d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-104455</guid>
-      <pubDate>Wed, 02 Sep 2026 06:05:23 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Sells Alesta equity stake to BioMarin for $5.9M cash</scanner:headline>
-      <scanner:shortName>CASI Pharmaceuticals</scanner:shortName>
-      <scanner:price>0.1500</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>CASIF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Sells Alesta equity stake to BioMarin for $5.9M cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Sold its equity interests in Alesta Therapeutics to BioMarin Pharmaceutical for approximately $5.9 million in net cash proceeds at closing, plus potential contingent milestone payments. The transaction closed on August 31, 2026. CASI&amp;#39;s licensed rights to CID-103 remain unchanged.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CASI Pharmaceuticals, Inc., a biopharmaceutical company, develops and commercializes therapeutics and pharmaceutical products in the People’s Republic of China, the United States, and internationally. It offers EVOMELA, a Melphalan injection for use as a conditioning treatment prior to stem cell transplantation and as a palliative treatment for patients with multiple myeloma.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BioMarin Pharmaceutical Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 5.9M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Contingent milestone payments&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1500 · Mkt cap $2.7M · EV $24.6M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1962738/000110465926104455/0001104659-26-104455-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CASIF&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-09-02&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
