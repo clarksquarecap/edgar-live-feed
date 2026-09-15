@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 13:11:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:19:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WHF 🔎 Strat Review · Strat Alts
+Forms special committee to explore strategic alternatives
+Mcap $149M · EV $465M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1552198/000110465926107736/whf-20260915x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-107736</guid>
+      <pubDate>Tue, 15 Sep 2026 08:19:22 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+    </item>
     <item>
       <title>$FEAM 🤝 Merger
 Acquires Searles Valley assets in 363 sale for $3.4M cash + 8.3M shares + $6.2M note
@@ -779,15 +789,6 @@ Mcap $25M · EV $27M · Financials</title>
       <pubDate>Mon, 14 Sep 2026 08:34:58 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$AVXL ⚔️ Proxy
-Faces PVG proxy contest; ISS backs all six nominees
-Mcap $243M · EV $125M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314052/000173112226001235/e7943_defa14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-040286</guid>
-      <pubDate>Mon, 14 Sep 2026 08:16:41 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
