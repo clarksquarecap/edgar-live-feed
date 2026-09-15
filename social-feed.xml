@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 12:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:44:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WNFT 🤝 Merger · Preliminary
+Signs LOI to acquire RedTrace Technologies
+Mcap $21M · Materials</title>
+      <link>https://www.otcmarkets.com/stock/WNFT/news/535163</link>
+      <guid isPermaLink="false">OTC-535163</guid>
+      <pubDate>Tue, 15 Sep 2026 07:43:56 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$CTVA 🪓 Spinoff
 Spins off seed segment as Vylor at 1:1; record Sept 24, distribution Oct 1
@@ -754,16 +764,6 @@ Mcap $116B · EV $136B · Healthcare</title>
       <guid isPermaLink="false">0001628280-26-061669</guid>
       <pubDate>Mon, 14 Sep 2026 07:56:28 -0500</pubDate>
       <category>SPLIT_OFF</category>
-    </item>
-    <item>
-      <title>$CMBMF 🔥 Insolvency · Administration
-Enters UK administration; 53.6% workforce cut
-Mcap $3M · EV $73M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738177/000119312526389901/cmbmf-20260911.htm</link>
-      <guid isPermaLink="false">0001193125-26-389901</guid>
-      <pubDate>Mon, 14 Sep 2026 07:42:40 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>administration</category>
     </item>
   </channel>
 </rss>

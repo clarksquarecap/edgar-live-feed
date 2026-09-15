@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 15 Sep 2026 12:16:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 12:44:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Preliminary · WNFT</title>
+      <link>https://www.otcmarkets.com/stock/WNFT/news/535163</link>
+      <guid isPermaLink="false">OTC-535163</guid>
+      <pubDate>Tue, 15 Sep 2026 07:43:56 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+      <category>OTC</category>
+      <scanner:headline>Signs LOI to acquire RedTrace Technologies</scanner:headline>
+      <scanner:shortName>Worldwide NFT</scanner:shortName>
+      <scanner:price>0.2200</scanner:price>
+      <scanner:subtype>preliminary</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>WNFT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>OTC</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Signs LOI to acquire RedTrace Technologies&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced it has signed a letter of intent to acquire RedTrace Technologies, Inc. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Worldwide NFT, Inc. does not have significant operations. Previously, the company was an exploration stage mining company that engaged in the exploration and mining of gold and silver properties. It intends to effect a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or similar business combination with one or more businesses. The company was formerly known as Goff, Corp. and changed its name to Worldwide NFT, Inc. in January 2022. Worldwide NFT, Inc.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; RedTrace Technologies, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.2200 · Mkt cap $20.6M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WNFT&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-15&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧬 Spin-Off · CTVA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526391369/d71834d8k.htm</link>
@@ -13367,33 +13393,6 @@
 &lt;p&gt;&lt;i&gt;Px $54.72 · Mkt cap $10.70B · EV $12.29B · Fwd P/E 90.0x · Fwd EV/EBITDA 25.4x · Real Estate / Health Care REITs&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1632970/000119312526378483/0001193125-26-378483-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AHR&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Holding / Investment Offices (6798) · 8k_tier1:7.01 · filed 2026-09-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Accelerated Share Repurchase · RMD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/943819/000119312526378487/d530283d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-378487</guid>
-      <pubDate>Tue, 01 Sep 2026 15:39:07 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>accelerated_share_repurchase</category>
-      <category>8-K</category>
-      <scanner:headline>Launches $450M ASR; funded by MatrixCare sale proceeds</scanner:headline>
-      <scanner:shortName>RESMED</scanner:shortName>
-      <scanner:price>223.42</scanner:price>
-      <scanner:subtype>accelerated_share_repurchase</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>RMD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Launches $450M ASR; funded by MatrixCare sale proceeds&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into an accelerated share repurchase agreement with Citibank to repurchase $450 million of its common stock. The ASR is under a 2014 authorization for 20 million shares; initial delivery of 80% of $450M divided by Sept 2 closing price, final settlement based on VWAP expected December 2026. Funded by proceeds from MatrixCare sale and cash on hand.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ResMed Inc. develops, manufactures, distributes, and markets medical devices and cloud-based software applications to diagnose, treat, and manage respiratory disorders in the United States and internationally. The company operates in two segments, Sleep and Breathing Health, and Residential Care Software.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $450,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; December 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Final settlement of ASR in December 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $223.42 · Mkt cap $32.32B · EV $31.50B · Fwd P/E 16.9x · Fwd EV/EBITDA 12.1x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/943819/000119312526378487/0001193125-26-378487-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RMD, RSMDF&lt;/b&gt; · 8-K · Items 8.01 · Instruments / Medical Devices (3841) · 8k_tier1:8.01 · filed 2026-09-01&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
