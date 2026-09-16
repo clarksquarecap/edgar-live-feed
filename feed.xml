@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 21:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:27:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · DAIC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026100600/ea0305699-8k_cidhold.htm</link>
+      <guid isPermaLink="false">0001213900-26-100600</guid>
+      <pubDate>Wed, 16 Sep 2026 16:27:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Acquires Envoy Technologies from BladeRanger for 10.8M shares (67.3% post-close)</scanner:headline>
+      <scanner:shortName>CID Holdco</scanner:shortName>
+      <scanner:price>2.01</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>DAIC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires Envoy Technologies from BladeRanger for 10.8M shares (67.3% post-close)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a binding term sheet to acquire 100% of Envoy Technologies from BladeRanger for 10,833,333 shares (common + Series C preferred) representing ~67.3% of post-closing fully diluted shares; Series C preferred stated value $6.00/share. Closing targeted Oct 6, 2026, subject to Israeli/TASE approvals. Also issued $550k convertible note to H Capital and settled debt with LHT I, LLC; Nasdaq delisting hearing pending.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CID HoldCo, Inc. develops an asset tracking platform that push the limits of near real-time precision-based location technology. The company’s platform leverages the technologies, including the patented passive and active RFID tracking solutions, low power edge camera platforms utilizing artificial intelligence, enabling users to give accuracy to all mapping technologies. It serves various industries, including construction, military, mining, retail, warehousing, and manufacturing.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BladeRanger Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Definitive agreements due Sept 25; closing targeted Oct 6&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.01 · Mkt cap $2.6M · EV $4.0M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2033770/000121390026100600/0001213900-26-100600-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DAIC, DAICW&lt;/b&gt; · DEFA14A · Business Services (7373) · prefill_form:DEFA14A · filed 2026-09-16&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · MEDS</title>
       <link>https://www.sec.gov/Archives/edgar/data/2030763/000149315226042951/form8-k.htm</link>
@@ -13373,31 +13400,6 @@
 &lt;p&gt;&lt;i&gt;Px $33.21 · Mkt cap $855.9M · EV $2.17B · Fwd P/E 53.4x · Fwd EV/EBITDA 15.8x · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/915840/000110465926105066/0001104659-26-105066-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BZH&lt;/b&gt; · DEFA14A · Construction; General (1531) · prefill_form:DEFA14A · filed 2026-09-03&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BZH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/915840/000110465926105071/tm2622398-12_prem14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-105071</guid>
-      <pubDate>Thu, 03 Sep 2026 15:30:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>PREM14A</category>
-      <scanner:headline>Files preliminary proxy for merger</scanner:headline>
-      <scanner:shortName>BEAZER HOMES USA</scanner:shortName>
-      <scanner:price>33.21</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>PREM14A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>BZH</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>PREM14A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Files preliminary proxy for merger&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Filed a preliminary proxy statement (PREM14A) related to a proposed merger. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Beazer Homes USA, Inc. operates as a homebuilder in the United States. The company designs, constructs, and sells single-family, condominiums, villas, and duets homes under the Beazer Homes, Gatherings, and Choice Plans brands. It also sells its homes through commissioned new home sales counselors and independent realtors. Beazer Homes USA, Inc. was founded in 1985 and is headquartered in Atlanta, Georgia.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Px $33.21 · Mkt cap $855.9M · EV $2.17B · Fwd P/E 53.4x · Fwd EV/EBITDA 15.8x · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/915840/000110465926105071/0001104659-26-105071-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BZH&lt;/b&gt; · PREM14A · Construction; General (1531) · prefill_form:PREM14A · filed 2026-09-03&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
