@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 13:01:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:09:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EZRA 📤 Divestiture
+Sells SMI to Scali for $2.625M cash + uncapped earnout
+Mcap $3M · EV $7M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1812727/000149315226042846/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-041914</guid>
+      <pubDate>Wed, 16 Sep 2026 08:09:05 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$ACGC 🤝 Merger
+Acquires May Mobility in $1.35B all-stock merger; close by May 2027
+$1,350,000,000 deal · stock · close 2027-05-26
+Mcap $292M · EV $292M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2111542/000121390026100370/ea0304702-8k425_acpholdings.htm</link>
+      <guid isPermaLink="false">0001213900-26-100367</guid>
+      <pubDate>Wed, 16 Sep 2026 08:08:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MTN 👀 Activist
 Oasis Management takes 6.2% stake in Vail Resorts; seeks board seats
@@ -16,17 +36,6 @@ Mcap $4.9B · EV $8.2B · Cons Disc</title>
       <guid isPermaLink="false">0000902664-26-003832</guid>
       <pubDate>Wed, 16 Sep 2026 08:01:33 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$ACGC 🤝 Merger
-Acquires May Mobility in $1.35B stock deal; close by May 2027
-$1,350,000,000 deal · stock · close 2027-05-26
-Mcap $292M · EV $292M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2111542/000121390026100367/ea0304702-8k425_acpholdings.htm</link>
-      <guid isPermaLink="false">0001213900-26-100367</guid>
-      <pubDate>Wed, 16 Sep 2026 07:59:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$LFS 🤝 Merger
@@ -781,28 +790,6 @@ Mcap $55M · EV $30M · Materials</title>
       <pubDate>Tue, 15 Sep 2026 08:11:24 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$OBK 📉 Delisting · Voluntary
-Transfers listing to Texas Stock Exchange; NYSE ends Oct 12
-effective 2026-10-13
-Mcap $1.7B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1516912/000151691226000050/obnk-20260915.htm</link>
-      <guid isPermaLink="false">0001516912-26-000050</guid>
-      <pubDate>Tue, 15 Sep 2026 08:07:31 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-    </item>
-    <item>
-      <title>$GIXI 🤝 Merger · Preliminary
-Invests $500K in Ottonomy via SAFE; LOI for potential majority
-$500,000 deal · cash · close 2026-09-16
-Mcap $11M · EV $14M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1782265/000149315226042674/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042674</guid>
-      <pubDate>Tue, 15 Sep 2026 08:05:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
