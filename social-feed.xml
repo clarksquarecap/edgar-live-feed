@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 16:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:33:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CURLF 🤝 Merger · Unsolicited
+Hostile tender for Aurora at $4.00/share (0.3463 CURLF + $0.75 cash)
+45 prem · cash+stk
+Mcap $2.5B · EV $3.6B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1756770/000175677026000110/ax91626curaleafbrochurefor.htm</link>
+      <guid isPermaLink="false">OTC-533807</guid>
+      <pubDate>Wed, 16 Sep 2026 11:33:45 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$DT 📍 Stake
 Discloses 5.04% stake in Dynatrace
@@ -632,17 +643,6 @@ Mcap $581M · Financials</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$CURLF 🤝 Merger · Unsolicited
-Tender offer for Aurora: $4.00/share (0.3463 CURA + $0.75 cash), 45% premium
-Aurora Cannabis · 45 prem · cash+stk
-Mcap $2.5B · EV $3.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1756770/000175677026000106/curlf-20260915.htm</link>
-      <guid isPermaLink="false">OTC-533807</guid>
-      <pubDate>Tue, 15 Sep 2026 15:03:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
       <title>$YMT 🤝 Merger
 Increases share issuance for Qingdao Xingongguan and Zhaodong Guohe deals; $26.96M
 26,961,390 deal · stock
@@ -688,16 +688,6 @@ Mcap $117M · Financials</title>
       <link>https://www.otcmarkets.com/stock/JFBC/news/535205</link>
       <guid isPermaLink="false">OTC-535205</guid>
       <pubDate>Tue, 15 Sep 2026 11:48:53 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$SFDL 💧 Capital Return · Special Div
-Declares special cash dividend
-Mcap $136M · Financials</title>
-      <link>https://www.globenewswire.com/news-release/2026/04/15/3274813/0/en/Security-Federal-Corporation-Announces-Special-Dividend.html</link>
-      <guid isPermaLink="false">OTC-535201</guid>
-      <pubDate>Tue, 15 Sep 2026 11:28:25 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>special_dividend</category>
     </item>
