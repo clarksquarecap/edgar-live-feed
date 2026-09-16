@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 10:27:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:05:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · XBIO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1534525/000168316826007181/xenetic_8k.htm</link>
+      <guid isPermaLink="false">0001683168-26-007181</guid>
+      <pubDate>Wed, 16 Sep 2026 06:05:04 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Santersus AG in all-stock deal; holders to own 85%</scanner:headline>
+      <scanner:shortName>Xenetic Biosciences</scanner:shortName>
+      <scanner:price>4.27</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>XBIO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires Santersus AG in all-stock deal; holders to own 85%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a Share Exchange Agreement to acquire all of Santersus AG, a Swiss company, making it a wholly owned subsidiary. Santersus holders will receive Xenetic common stock and are expected to own ~85% of the combined company on a fully diluted basis. Xenetic will change its name to Santersus Bio, Inc. and seek stockholder approval via proxy statement.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Xenetic Biosciences, Inc., a biopharmaceutical company, focuses on advancing immune-oncology technologies to treat cancers. Its DNase technology targets neutrophil extracellular traps (NETS), which are involved in cancer growth, metastasis, and progression, and contribute to immunotherapy, chemotherapy, and radiotherapy resistance.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Santersus AG&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder vote on Acquisition&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $4.27 · Mkt cap $10.0M · EV $3.5M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1534525/000168316826007181/0001683168-26-007181-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;XBIO&lt;/b&gt; · 8-K · Items 1.01, 3.02, 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01,7.01 · filed 2026-09-16&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · HAFN</title>
       <link>https://www.sec.gov/Archives/edgar/data/1815779/000114036126036707/ef20082105_6k.htm</link>
@@ -13374,33 +13401,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IYRI&lt;/b&gt; · DEFA14A · prefill_form:DEFA14A · filed 2026-09-02&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Sep 02 16:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1848758/000199937126019633/neos-defa14a_090226.htm'&gt;Acquired by Goldman Sachs Asset Management; vote by Nov 3&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 02 15:54 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1848758/000199937126019628/neos-defa14a_090226.htm'&gt;Acquired by Goldman Sachs Asset Management; shareholder vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 02 15:53 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1848758/000199937126019630/neos-defa14a_090226.htm'&gt;Acquired by Goldman Sachs Asset Management; vote by Nov 2&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🏛️ Insolvency · Other · MLEC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1937737/000121390026096759/ea0304432-6k_moolec.htm</link>
-      <guid isPermaLink="false">0001213900-26-096759</guid>
-      <pubDate>Wed, 02 Sep 2026 15:55:04 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>other</category>
-      <category>6-K</category>
-      <scanner:headline>Faces winding-up petition from Linklaters over disputed $2.3M claim</scanner:headline>
-      <scanner:shortName>Moolec Science SA</scanner:shortName>
-      <scanner:price>6.85</scanner:price>
-      <scanner:subtype>other</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>MLEC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Faces winding-up petition from Linklaters over disputed $2.3M claim&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Disclosed that shareholder financial support is no longer available and that Linklaters LLP has filed a winding-up petition over a disputed $2.3M legal fee claim. The company disputes the claim entirely, intends to take legal action, and states the petition has materially worsened its liquidity position and going-concern uncertainty.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Moolec Science SA, a science-based ingredient company, engages in the development of ingredients for food, pet food, animal feed, and dietary supplements using molecular farming technology and precision fermentation platforms in Cayman Islands and internationally. It develops nutritional supplements, food ingredients, meat replacements, and by-products using safflowers, chickpeas, fungi, soybeans, and yeast, as well as lupin and peas. The company is based in Grand Cayman, Cayman Islands.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Linklaters LLP&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-02&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $6.85 · Mkt cap $14.3M · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1937737/000121390026096759/0001213900-26-096759-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MLEC, MLECW&lt;/b&gt; · 6-K · Food &amp;amp; Kindred (2000) · prefill_form:6-K · filed 2026-09-02&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
