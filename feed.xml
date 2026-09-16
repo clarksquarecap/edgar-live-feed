@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 00:43:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:02:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · BZFD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1828972/000149315226042803/0001493152-26-042803-index.htm</link>
+      <guid isPermaLink="false">0001493152-26-042803</guid>
+      <pubDate>Tue, 15 Sep 2026 20:02:22 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Buys 1.7M shares at $1.06, stake to 53.5%</scanner:headline>
+      <scanner:shortName>BuzzFeed</scanner:shortName>
+      <scanner:price>1.05</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>BZFD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Buys 1.7M shares at $1.06, stake to 53.5%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Allen Family Digital increased its stake in BuzzFeed to 53.5% by purchasing 1.7M shares at $1.06 per share for $1.8M. The purchase was made pursuant to a Share Purchase Agreement with BuzzFeed. AFD now holds 45.7M shares.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BuzzFeed, Inc., a digital media company, distributes content across owned and operated, and third-party platforms in the United States and internationally. The company offers BuzzFeed that provides entertainment, pop culture, and the internet with articles, lists, quizzes, videos, and original series; Tasty, a platform for food content; and HuffPost, a media platform for news, politics, opinion, entertainment, features, and lifestyle content.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 1.06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $1,802,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 53.5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.05 · Mkt cap $92.5M · EV $126.9M · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1828972/000149315226042803/0001493152-26-042803-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BZFD, BZFDW&lt;/b&gt; · SCHEDULE 13D/A · Communications (4899) · fresh_13d · filed 2026-09-15&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · JATT</title>
       <link>https://www.sec.gov/Archives/edgar/data/2112446/000121390026100263/0001213900-26-100263-index.htm</link>
@@ -13374,33 +13401,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SSM&lt;/b&gt; · 8-K · Items 1.01, 8.01, 9.01 · Non-Depository Credit (6199) · 8k_tier1:1.01,8.01 · filed 2026-08-31&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 02 15:31 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1840416/000117184326005854/f425_090226.htm'&gt;Signs LOI to combine with Sports One; investors buy 19.9% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Aug 31 16:42 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1840416/000117184326005809/f425_083126.htm'&gt;Enters LOI for reverse merger with Sports One; super-majority to Sports One holders&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Aug 31 16:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1840416/000117184326005808/f8k_083126.htm'&gt;Enters non-binding LOI to combine with Sports One&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · TECH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/842023/000114036126035490/ef20081553_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-035490</guid>
-      <pubDate>Wed, 02 Sep 2026 15:30:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Acquisition by Merck KGaA: German approval received; vote Sept 23</scanner:headline>
-      <scanner:shortName>BIO-TECHNE</scanner:shortName>
-      <scanner:price>72.32</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>TECH</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFA14A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquisition by Merck KGaA: German approval received; vote Sept 23&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that the German Federal Cartel Office approved its planned acquisition by Merck KGaA. The shareholder vote is scheduled for September 23, 2026, with other regulatory approvals still pending. Integration planning is underway ahead of close.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Bio-Techne Corporation, together with its subsidiaries, develops, manufactures, and sells life science reagents, instruments, and services for the research, diagnostics, and bioprocessing markets worldwide. It operates through two segments, Protein Sciences, and Diagnostics and Spatial Biology. The Protein Sciences segment develops and manufactures biological reagents used in various aspects of life science research, diagnostics, and cell and gene therapy, such as cytokines and growth factors, a…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Merck KGaA&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on September 23, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $72.32 · Mkt cap $11.32B · EV $11.34B · Fwd P/E 35.3x · Fwd EV/EBITDA 25.0x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/842023/000114036126035490/0001140361-26-035490-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TECH&lt;/b&gt; · DEFA14A · Chemicals / Pharma (2836) · prefill_form:DEFA14A · filed 2026-09-02&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
