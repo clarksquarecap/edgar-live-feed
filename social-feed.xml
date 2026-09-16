@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 20:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:43:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Faces Garg consent solicitation to remove 5 directors; Glass Lewis, ISS oppose
+Vishal Garg and his
+Mcap $246M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000183585626000049/betr-defa14aseptember16.htm</link>
+      <guid isPermaLink="false">0000921895-26-002488</guid>
+      <pubDate>Wed, 16 Sep 2026 15:41:48 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$NSLR 📍 Stake
 Faces Gabelli 13D/A; group holds ~7.1% of NSLR
@@ -500,15 +510,6 @@ Mcap $1.7B · EV $1.6B · Healthcare</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$BETR ⚔️ Proxy
-Launches consent solicitation to remove 5 directors
-Mcap $246M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002549/dfan14a14909002_09152026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002488</guid>
-      <pubDate>Tue, 15 Sep 2026 16:28:13 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
       <title>$ZSPC 🌑 Going Dark
 Voluntarily delists from Nasdaq and deregisters with SEC
 Mcap $6M · EV $18M · Cons Disc</title>
@@ -666,37 +667,6 @@ Mcap $413M · EV $493M · Comms</title>
       <guid isPermaLink="false">0001398344-26-017012</guid>
       <pubDate>Tue, 15 Sep 2026 15:45:24 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$FSHP 🤝 Merger
-Acquires Bluechip &amp; Co. in $400M stock deal
-$400,000,000 deal · stock
-Mcap $41M · EV $43M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1850059/000182912626010118/flagshipacq_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-010119</guid>
-      <pubDate>Tue, 15 Sep 2026 15:37:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ULIT 🤝 Merger
-US Elemental combination on track; SEC effectiveness expected late Sept/Oct
-close Q4 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026100143/ea030549902-425_constell1.htm</link>
-      <guid isPermaLink="false">0001213900-26-100143</guid>
-      <pubDate>Tue, 15 Sep 2026 15:35:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ULIT 🤝 Merger
-Acquired by Constellation; $20-30M PIPE; Nasdaq listing Q4
-close Q4 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026100144/ea030549901-425_constell1.htm</link>
-      <guid isPermaLink="false">0001213900-26-100144</guid>
-      <pubDate>Tue, 15 Sep 2026 15:35:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
