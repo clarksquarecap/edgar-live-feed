@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 11:55:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:02:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AGMH 📤 Divestiture
+Sells 55% KOI Global stake to Yuqiang Huang for $2.45M cash
+2,450,000 deal
+Mcap $3M · EV $5M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1705402/000118518526004042/agmh6k091526.htm</link>
+      <guid isPermaLink="false">0001185185-26-004042</guid>
+      <pubDate>Wed, 16 Sep 2026 07:02:42 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$BCCQ 🤝 Merger
 Acquires Ursa Major in $2.3B SPAC merger
@@ -773,17 +783,6 @@ Spun off from Corteva; 1 VYLR per CTVA share; NYSE listing</title>
       <guid isPermaLink="false">0001193125-26-391356</guid>
       <pubDate>Tue, 15 Sep 2026 07:07:59 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$LIND 🤝 Merger
-Acquires 60% of White Desert &amp; Echo Charlie for ~$61M cash
-~$67M deal · cash
-Mcap $1.7B · EV $2.1B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512499/000143774926030390/lindb20260914_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-030390</guid>
-      <pubDate>Tue, 15 Sep 2026 07:01:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
