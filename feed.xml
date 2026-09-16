@@ -6,25 +6,25 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 21:27:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:28:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
       <title>🤝 Merger · Definitive · DAIC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026100600/ea0305699-8k_cidhold.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026100595/ea0305699-8k_cidhold.htm</link>
       <guid isPermaLink="false">0001213900-26-100600</guid>
-      <pubDate>Wed, 16 Sep 2026 16:27:00 -0500</pubDate>
+      <pubDate>Wed, 16 Sep 2026 16:28:11 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Acquires Envoy Technologies from BladeRanger for 10.8M shares (67.3% post-close)</scanner:headline>
+      <category>8-K</category>
+      <scanner:headline>Acquires Envoy Technologies from BladeRanger for 10.83M shares (67.3% post-close)</scanner:headline>
       <scanner:shortName>CID Holdco</scanner:shortName>
       <scanner:price>2.01</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
+      <scanner:form>8-K</scanner:form>
       <scanner:sector>Information Technology</scanner:sector>
       <scanner:ticker>DAIC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>DEFA14A, 8-K</scanner:filingForms>
       <scanner:related />
       <description>&lt;p&gt;&lt;b&gt;Acquires Envoy Technologies from BladeRanger for 10.8M shares (67.3% post-close)&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Entered a binding term sheet to acquire 100% of Envoy Technologies from BladeRanger for 10,833,333 shares (common + Series C preferred) representing ~67.3% of post-closing fully diluted shares; Series C preferred stated value $6.00/share. Closing targeted Oct 6, 2026, subject to Israeli/TASE approvals. Also issued $550k convertible note to H Capital and settled debt with LHT I, LLC; Nasdaq delisting hearing pending.&lt;/p&gt;
@@ -33,7 +33,66 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Definitive agreements due Sept 25; closing targeted Oct 6&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $2.01 · Mkt cap $2.6M · EV $4.0M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2033770/000121390026100600/0001213900-26-100600-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DAIC, DAICW&lt;/b&gt; · DEFA14A · Business Services (7373) · prefill_form:DEFA14A · filed 2026-09-16&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DAIC, DAICW&lt;/b&gt; · DEFA14A · Business Services (7373) · prefill_form:DEFA14A · filed 2026-09-16&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 16 16:28 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2033770/000121390026100595/ea0305699-8k_cidhold.htm'&gt;Acquires Envoy Technologies from BladeRanger for 10.83M shares (67.3% post-close)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 16 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2033770/000121390026100600/ea0305699-8k_cidhold.htm'&gt;Acquires Envoy Technologies from BladeRanger for 10.8M shares (67.3% post-close)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🔀 Split-Off · MDT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026062317/a425-mdtwebsitex91626.htm</link>
+      <guid isPermaLink="false">0001628280-26-061702</guid>
+      <pubDate>Wed, 16 Sep 2026 16:27:31 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+      <category>acquisition</category>
+      <category>425</category>
+      <scanner:headline>Split-off: up to 225.4M MiniMed shares exchangeable for MDT common</scanner:headline>
+      <scanner:shortName>Medtronic</scanner:shortName>
+      <scanner:price>90.96</scanner:price>
+      <scanner:subtype />
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>MDT</scanner:ticker>
+      <scanner:filings>10</scanner:filings>
+      <scanner:filingForms>425 x10</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Split off from Medtronic via exchange offer (89.86% stake)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;MiniMed Group, Inc. announced that Medtronic launched an exchange offer to split off its remaining 89.86% equity interest in MiniMed. Medtronic shareholders can voluntarily exchange MDT ordinary shares for MiniMed common stock. The exchange offer is part of the separation of MiniMed from Medtronic.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Medtronic plc develops, manufactures, and sells device-based medical therapies to healthcare systems, physicians, clinicians, and patients in the United States, Ireland, and internationally. It operates through three segments: The Cardiovascular Portfolio, Neuroscience Portfolio, and Medical Surgical Portfolio.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 89.86%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $90.96 · Mkt cap $116.35B · EV $136.14B · Fwd P/E 15.3x · Fwd EV/EBITDA 12.4x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061702/0001628280-26-061702-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MDT&lt;/b&gt; · 425 · Instruments / Medical Devices (3845) · prefill_form:425 · filed 2026-09-14&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (10)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 16 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062317/a425-mdtwebsitex91626.htm'&gt;Split-off: up to 225.4M MiniMed shares exchangeable for MDT common&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 15 16:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062091/a425-mdtwebsitex91526.htm'&gt;Launches split-off: exchange up to 225.4M MiniMed shares for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061909/a425-mdtwebsitex91426.htm'&gt;Launches split-off exchange: up to 225.4M MiniMed shares for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 15:44 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061855/a425-fidelitycallcentertal.htm'&gt;Exchange offer: MDT shares for MiniMed; ESPP deadline Oct 8&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 15:44 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061858/a425-mdtemployeecommsreexc.htm'&gt;Splits off ~80% of MiniMed stake via exchange offer; S-4 filed&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 08:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061714/customerfacingteamsemploye.htm'&gt;Split off from Medtronic via exchange offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 08:17 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061704/messagefromquetoemployees.htm'&gt;Split-off from Medtronic via exchange offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 08:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061705/messagefromquetoday2team.htm'&gt;Launches exchange offer to split off MiniMed; MDT holders can swap for MiniMed stock&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 08:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061699/mmedinformationforemployees.htm'&gt;Launches exchange offer to swap MDT shares for MiniMed; divests 89.86% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 08:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061702/messagefromquereeoparticip.htm'&gt;Split off from Medtronic via exchange offer (89.86% stake)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>⚔️ Proxy Contest · BETR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002560/dfan14a14909002_09162026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002488</guid>
+      <pubDate>Wed, 16 Sep 2026 16:27:23 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+      <category>activist</category>
+      <category>DFAN14A</category>
+      <scanner:headline>Faces Garg Group consent solicitation to remove 5 directors; deadline Sept 18</scanner:headline>
+      <scanner:shortName>Better Home &amp; Finance Holding Co</scanner:shortName>
+      <scanner:price>13.20</scanner:price>
+      <scanner:subtype />
+      <scanner:form>DFAN14A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>BETR</scanner:ticker>
+      <scanner:filings>8</scanner:filings>
+      <scanner:filingForms>DFAN14A x6, DEFA14A x2</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Solicits consents to remove 5 BETR directors; court rejects injunction&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vishal Garg, founder and former CEO, is soliciting stockholder consents to remove five Better Home &amp;amp; Finance Holding Co directors (Daniel Lewis, Arnaud Massenet, Bhaskar Menon, Prabhu Narasimhan, Harit Talwar). A federal court denied Better&amp;#39;s request for a TRO and preliminary injunction to halt the solicitation, and the Delaware Court of Chancery confirmed that returning the GREEN consent card will not trigger the company&amp;#39;s poison pill.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Better Home &amp;amp; Finance Holding Company operates as a homeownership company in the United States. The company provides government-sponsored enterprise (GSE) conforming loans, Federal Housing Administration insured loans, Department of Veterans Affairs guaranteed loans, and jumbo loans to GSEs, banks, insurance companies, asset managers, and mortgage real estate investment trusts. It offers real estate agent services, title insurance and settlement services, and homeowners insurance services.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Consent solicitation ongoing; consent deadline not yet set&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $13.20 · Mkt cap $233.7M · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002488/0000921895-26-002488-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BETR, BETRW&lt;/b&gt; · DFAN14A · Non-Depository Credit (6163) · prefill_form:DFAN14A · filed 2026-09-04&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (8)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DFAN14A · Sep 16 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002560/dfan14a14909002_09162026.htm'&gt;Faces Garg Group consent solicitation to remove 5 directors; deadline Sept 18&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 16 15:41 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000183585626000049/betr-defa14aseptember16.htm'&gt;Faces Garg consent solicitation to remove 5 directors; Glass Lewis, ISS oppose&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 15 16:28 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002549/dfan14a14909002_09152026.htm'&gt;Launches consent solicitation to remove 5 directors&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 14 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002539/dfan14a14909002_09142026.htm'&gt;Faces Garg Group consent solicitation to remove 5 directors; deadline Sept 18&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 10 16:31 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002527/dfan14a14909002_09102026.htm'&gt;Faces Garg consent solicitation to remove 5 directors&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 09 16:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002515/dfan14a14909002_09082026.htm'&gt;Seeks consents by Sept 18 to remove 5 BETR directors&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 08 15:43 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000183585626000036/betr-defa14aseptember8part2.htm'&gt;Faces consent solicitation from Vishal Garg to remove 5 directors; ISS backs board&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 04 16:30 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002488/dfan14a14909002_09042026.htm'&gt;Solicits consents to remove 5 BETR directors; court rejects injunction&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · MEDS</title>
@@ -268,34 +327,6 @@
 &lt;p&gt;&lt;i&gt;Px $37.08 · Mkt cap $594.9M · EV $478.9M · Fwd P/E 19.9x · Fwd EV/EBITDA 8.3x · Consumer Discretionary / Leisure Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/95029/000117494726000877/0001174947-26-000877-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RGR&lt;/b&gt; · 8-K · Items 1.01, 1.02, 3.03, 7.01, 9.01 · Fabricated Metals (3480) · 8k_tier1:1.01,1.02,3.03,7.01 · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚔️ Proxy Contest · BETR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000183585626000049/betr-defa14aseptember16.htm</link>
-      <guid isPermaLink="false">0000921895-26-002488</guid>
-      <pubDate>Wed, 16 Sep 2026 15:41:48 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>activist</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Faces Garg consent solicitation to remove 5 directors; Glass Lewis, ISS oppose</scanner:headline>
-      <scanner:shortName>Better Home &amp; Finance Holding Co</scanner:shortName>
-      <scanner:price>13.20</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>BETR</scanner:ticker>
-      <scanner:filings>7</scanner:filings>
-      <scanner:filingForms>DFAN14A x5, DEFA14A x2</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Solicits consents to remove 5 BETR directors; court rejects injunction&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Vishal Garg, founder and former CEO, is soliciting stockholder consents to remove five Better Home &amp;amp; Finance Holding Co directors (Daniel Lewis, Arnaud Massenet, Bhaskar Menon, Prabhu Narasimhan, Harit Talwar). A federal court denied Better&amp;#39;s request for a TRO and preliminary injunction to halt the solicitation, and the Delaware Court of Chancery confirmed that returning the GREEN consent card will not trigger the company&amp;#39;s poison pill.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Better Home &amp;amp; Finance Holding Company operates as a homeownership company in the United States. The company provides government-sponsored enterprise (GSE) conforming loans, Federal Housing Administration insured loans, Department of Veterans Affairs guaranteed loans, and jumbo loans to GSEs, banks, insurance companies, asset managers, and mortgage real estate investment trusts. It offers real estate agent services, title insurance and settlement services, and homeowners insurance services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Consent solicitation ongoing; consent deadline not yet set&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $13.20 · Mkt cap $233.7M · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002488/0000921895-26-002488-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BETR, BETRW&lt;/b&gt; · DFAN14A · Non-Depository Credit (6163) · prefill_form:DFAN14A · filed 2026-09-04&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (7)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Sep 16 15:41 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000183585626000049/betr-defa14aseptember16.htm'&gt;Faces Garg consent solicitation to remove 5 directors; Glass Lewis, ISS oppose&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 15 16:28 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002549/dfan14a14909002_09152026.htm'&gt;Launches consent solicitation to remove 5 directors&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 14 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002539/dfan14a14909002_09142026.htm'&gt;Faces Garg Group consent solicitation to remove 5 directors; deadline Sept 18&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 10 16:31 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002527/dfan14a14909002_09102026.htm'&gt;Faces Garg consent solicitation to remove 5 directors&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 09 16:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002515/dfan14a14909002_09082026.htm'&gt;Seeks consents by Sept 18 to remove 5 BETR directors&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 08 15:43 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000183585626000036/betr-defa14aseptember8part2.htm'&gt;Faces consent solicitation from Vishal Garg to remove 5 directors; ISS backs board&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 04 16:30 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002488/dfan14a14909002_09042026.htm'&gt;Solicits consents to remove 5 BETR directors; court rejects injunction&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>📍 Stake · NSLR</title>
@@ -1820,35 +1851,6 @@
 &lt;p&gt;&lt;i&gt;Px $6.41 · Mkt cap $206.7M · Fwd P/E 5.8x · Real Estate / Mortgage Real Estate Investment Trusts (REITs)&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1514281/000162828026062095/0001628280-26-062095-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MITN, MITP, MITT, MITT-PA, MITT-PB, MITT-PC&lt;/b&gt; · S-4 · Holding / Investment Offices (6798) · prefill_form:S-4 · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔀 Split-Off · MDT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026062091/a425-mdtwebsitex91526.htm</link>
-      <guid isPermaLink="false">0001628280-26-061702</guid>
-      <pubDate>Tue, 15 Sep 2026 16:16:14 -0500</pubDate>
-      <category>SPLIT_OFF</category>
-      <category>acquisition</category>
-      <category>425</category>
-      <scanner:headline>Launches split-off: exchange up to 225.4M MiniMed shares for MDT shares</scanner:headline>
-      <scanner:shortName>Medtronic</scanner:shortName>
-      <scanner:price>90.96</scanner:price>
-      <scanner:subtype />
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>MDT</scanner:ticker>
-      <scanner:filings>9</scanner:filings>
-      <scanner:filingForms>425 x9</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Split off from Medtronic via exchange offer (89.86% stake)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;MiniMed Group, Inc. announced that Medtronic launched an exchange offer to split off its remaining 89.86% equity interest in MiniMed. Medtronic shareholders can voluntarily exchange MDT ordinary shares for MiniMed common stock. The exchange offer is part of the separation of MiniMed from Medtronic.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Medtronic plc develops, manufactures, and sells device-based medical therapies to healthcare systems, physicians, clinicians, and patients in the United States, Ireland, and internationally. It operates through three segments: The Cardiovascular Portfolio, Neuroscience Portfolio, and Medical Surgical Portfolio.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 89.86%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $90.96 · Mkt cap $116.35B · EV $136.14B · Fwd P/E 15.3x · Fwd EV/EBITDA 12.4x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061702/0001628280-26-061702-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MDT&lt;/b&gt; · 425 · Instruments / Medical Devices (3845) · prefill_form:425 · filed 2026-09-14&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (9)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 15 16:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062091/a425-mdtwebsitex91526.htm'&gt;Launches split-off: exchange up to 225.4M MiniMed shares for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061909/a425-mdtwebsitex91426.htm'&gt;Launches split-off exchange: up to 225.4M MiniMed shares for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 15:44 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061855/a425-fidelitycallcentertal.htm'&gt;Exchange offer: MDT shares for MiniMed; ESPP deadline Oct 8&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 15:44 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061858/a425-mdtemployeecommsreexc.htm'&gt;Splits off ~80% of MiniMed stake via exchange offer; S-4 filed&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 08:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061714/customerfacingteamsemploye.htm'&gt;Split off from Medtronic via exchange offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 08:17 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061704/messagefromquetoemployees.htm'&gt;Split-off from Medtronic via exchange offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 08:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061705/messagefromquetoday2team.htm'&gt;Launches exchange offer to split off MiniMed; MDT holders can swap for MiniMed stock&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 08:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061699/mmedinformationforemployees.htm'&gt;Launches exchange offer to swap MDT shares for MiniMed; divests 89.86% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 08:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026061702/messagefromquereeoparticip.htm'&gt;Split off from Medtronic via exchange offer (89.86% stake)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>⚖️ Litigation · Won · BBNX</title>
