@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 10:17:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:19:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BAM 🤝 Merger
+Acquires Reliance Worldwide for US$3.38/share cash (~$2.8B EV)
+US$2.8 billion (enterprise value) deal · cash · close Q1 2027
+Mcap $75B · EV $83B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1937926/000117184326006060/f8k_091526.htm</link>
+      <guid isPermaLink="false">0001171843-26-006060</guid>
+      <pubDate>Wed, 16 Sep 2026 05:19:45 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TCOM ⚖️ Litigation · Lost
 Fined RMB5.2B by SAMR anti-monopoly penalty
@@ -885,14 +896,6 @@ stock</title>
       <pubDate>Tue, 15 Sep 2026 05:20:52 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$AXM 🪓 Spinoff
-Spin-off from Flex; 88-94% distribution; Nasdaq: AXM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2130999/000119312526391224/d42824d1012b.htm</link>
-      <guid isPermaLink="false">0001193125-26-391224</guid>
-      <pubDate>Tue, 15 Sep 2026 05:19:34 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
