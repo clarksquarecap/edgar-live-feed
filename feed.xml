@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 20:33:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:34:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · ONC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1651308/000110465926108269/0001104659-26-108269-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-108269</guid>
+      <pubDate>Wed, 16 Sep 2026 15:34:22 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Exercises options for 30,768 ADS; stake 7.8%</scanner:headline>
+      <scanner:shortName>BeOne Medicines</scanner:shortName>
+      <scanner:price>348.19</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>ONC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Exercises options for 30,768 ADS; stake 7.8%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Baker Bros. Advisors LP exercised 15,384 Share Options at $36.83 per ADS, acquiring 30,768 ADS of BeOne Medicines Ltd. (1 ADS = 13 ordinary shares). The proceeds agreements with former directors Krishana and Goller transfer the pecuniary interest to the Funds. Aggregate stake now 115,457,154 ordinary shares, 7.8% of class.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BeOne Medicines AG, an oncology company, engages in discovering and developing various treatments for cancer patients in the United States, China, Europe, and internationally. The company’s commercial stage products include BRUKINSA, a small molecule inhibitor of Bruton’s Tyrosine Kinase (BTK) for the treatment of various blood cancers; TEVIMBRA, an anti-PD-1 antibody immunotherapy for the treatment of various solid tumor and blood cancers; SYLVANT for the treatment of adult patients with multic…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 36.83&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.8%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $348.19 · Mkt cap $39.40B · EV $36.35B · Fwd P/E 47.0x · Fwd EV/EBITDA 30.7x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1651308/000110465926108269/0001104659-26-108269-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ONC, BEIGF&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-16&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · NACB</title>
       <link>https://www.sec.gov/Archives/edgar/data/1947463/000110465926108257/tm2621296-3_s4a.htm</link>
@@ -13372,33 +13399,6 @@
 &lt;p&gt;&lt;i&gt;Px $15.53 · Mkt cap $1.47B · EV $1.44B · EV/Sales 51.3x · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1260563/000119312526381206/0001193125-26-381206-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NFJ&lt;/b&gt; · SC TO-I/A · Non-Depository Credit (6163) · prefill_form:SC TO-I · filed 2026-09-03&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · BDN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/790816/000079081626000033/bdn-20260831.htm</link>
-      <guid isPermaLink="false">0000790816-26-000033</guid>
-      <pubDate>Thu, 03 Sep 2026 09:02:24 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Sells 3151 Market St property for $240M cash</scanner:headline>
-      <scanner:shortName>BRANDYWINE REALTY</scanner:shortName>
-      <scanner:price>3.02</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>BDN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Sells 3151 Market St property for $240M cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Agreed to sell its 441,000 sq ft property at 3151 Market Street, Philadelphia for $240M ($544/sq ft) to an unrelated third party. The property is 4% leased and subject to a $57.3M mortgage repaid at closing; net proceeds ~$168M. Closing scheduled for Sept 30, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Brandywine Realty Trust is one of the largest, publicly traded, full-service, integrated real estate companies in the United States with a core focus in Philadelphia, PA and Austin, TX. Organized as a real estate investment trust (REIT), we own, develop, lease and manage an urban, town center and transit-oriented portfolio comprising 112 properties and 19.2 million square feet as of June 30, 2026.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; unrelated third party&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $240 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing date&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.02 · Mkt cap $529.0M · EV $3.13B · Fwd EV/EBITDA 11.9x · Real Estate / Office REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/790816/000079081626000033/0000790816-26-000033-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BDN&lt;/b&gt; · 8-K · Items 8.01 · Holding / Investment Offices (6798) · 8k_tier1:8.01 · filed 2026-09-03&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
