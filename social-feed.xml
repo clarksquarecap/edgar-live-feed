@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 10:07:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:14:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KUST 🤝 Merger
+Acquires TFL, LLC; 20%+ share issuance, change of control; vote Oct 5
+Mcap $4M · EV $5M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1342958/000149315226042812/formprer14a.htm</link>
+      <guid isPermaLink="false">0001493152-26-042812</guid>
+      <pubDate>Wed, 16 Sep 2026 05:14:49 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$FLEX 🪓 Spinoff
+Spins off Cloud &amp; Power segment as Axiom; early 2027
+Mcap $40B · EV $43B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526392338/d159134ddefa14a.htm</link>
+      <guid isPermaLink="false">0000866374-26-000036</guid>
+      <pubDate>Wed, 16 Sep 2026 05:14:30 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$VFS 🤝 Merger
 Acquires Ngoc Hoi Real Estate from founder for ~$1.2B
@@ -402,15 +421,6 @@ Mcap $168M · EV $426M · Energy</title>
       <guid isPermaLink="false">0002106590-26-000003</guid>
       <pubDate>Tue, 15 Sep 2026 15:28:17 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$FLEX 🪓 Spinoff
-Names spinco Axiom; files Form 10; AXM to trade on Nasdaq
-Mcap $40B · EV $43B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526391911/d363879ddefa14a.htm</link>
-      <guid isPermaLink="false">0000866374-26-000036</guid>
-      <pubDate>Tue, 15 Sep 2026 15:20:15 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
     <item>
       <title>$PETV 📍 Stake
@@ -883,15 +893,6 @@ Mcap $374M · EV $870M · Energy</title>
       <guid isPermaLink="false">0001193125-26-391062</guid>
       <pubDate>Tue, 15 Sep 2026 05:15:33 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CWD 🪙 Debt Restr.
-Exchanges $12.6M notes for new notes, preferred, 80% payoff option
-Mcap $5M · EV $162M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1627282/000162728226000070/cwd-20260914.htm</link>
-      <guid isPermaLink="false">0001627282-26-000070</guid>
-      <pubDate>Tue, 15 Sep 2026 05:08:36 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
