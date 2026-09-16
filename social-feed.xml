@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 21:35:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:38:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$APUR 🤝 Merger
+Acquires Atlantic HPC Group for $150M stock + earnout
+$150,000,000 deal · stock
+Mcap $148M · EV $147M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2093524/000121390026100601/ea0305349-8k425_aperture.htm</link>
+      <guid isPermaLink="false">0001213900-26-098973</guid>
+      <pubDate>Wed, 16 Sep 2026 16:38:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Launches exchange offer for MiniMed split-off
+Mcap $116B · EV $136B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026062318/a425-firesidechat91526.htm</link>
+      <guid isPermaLink="false">0001628280-26-061702</guid>
+      <pubDate>Wed, 16 Sep 2026 16:36:16 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
+    <item>
+      <title>$EMPD ⚔️ Proxy
+Court denies Empery's appeal; proxy contest heads to Oct 14 vote
+14.9 stake
+Mcap $83M · EV $135M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829794/000092189526002561/dfan14a13914005_09162026.htm</link>
+      <guid isPermaLink="false">0001683168-26-006720</guid>
+      <pubDate>Wed, 16 Sep 2026 16:36:00 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$ADIL 🤝 Merger
 Vote Sept 17 on change-of-control preferred conversion; amendments fix Nasdaq compliance
@@ -28,15 +58,6 @@ Mcap $3M · EV $4M · Tech</title>
       <pubDate>Wed, 16 Sep 2026 16:28:11 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MDT 🪓 Split-off
-Split-off: up to 225.4M MiniMed shares exchangeable for MDT common
-Mcap $116B · EV $136B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026062317/a425-mdtwebsitex91626.htm</link>
-      <guid isPermaLink="false">0001628280-26-061702</guid>
-      <pubDate>Wed, 16 Sep 2026 16:27:31 -0500</pubDate>
-      <category>SPLIT_OFF</category>
     </item>
     <item>
       <title>$BETR ⚔️ Proxy
@@ -581,15 +602,6 @@ Acquires Forge Nano in SPAC business combination</title>
       <pubDate>Tue, 15 Sep 2026 16:52:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GPUS 📍 Stake
-Raises stake to 63.5% via preferred conversions
-Mcap $34M · EV $144M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/896493/000092189526002550/0000921895-26-002550-index.htm</link>
-      <guid isPermaLink="false">0000921895-26-002550</guid>
-      <pubDate>Tue, 15 Sep 2026 16:37:33 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
