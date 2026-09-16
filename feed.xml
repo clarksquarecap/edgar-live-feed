@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 20:24:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:25:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · HEPA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1583771/000149315226042907/0001493152-26-042907-index.htm</link>
+      <guid isPermaLink="false">0001493152-26-042907</guid>
+      <pubDate>Wed, 16 Sep 2026 15:25:44 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Acquires 10.2% stake in Hepion for $500K ($0.05/sh) + warrants</scanner:headline>
+      <scanner:shortName>Hepion Pharmaceuticals</scanner:shortName>
+      <scanner:price>0.0700</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>HEPA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires 10.2% stake in Hepion for $500K ($0.05/sh) + warrants&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KI Holdings acquired 10,000,000 shares of Hepion Pharmaceuticals (10.2% of class) for $500,000 ($0.05 per share) plus a warrant to buy 10M more shares at $0.06. The purchase was made for investment purposes; no plans or proposals stated.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Hepion Pharmaceuticals, Inc., a biopharmaceutical company, focuses on the development of treatment for hepatocellular carcinoma (HCC), metabolic liver diseases, and chronic liver diseases in the United States. It developed Rencofilstat, a therapeutic drug candidate that binds and inhibits the function of a specific class of isomerase enzymes called cyclophilins that regulates protein folding, as well as preclinical experiments of Rencofilstat reflects decreased liver fibrosis; liver inflammation…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; $0.05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $500,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10.2%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-03&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0700 · Mkt cap $7.8M · EV $7.8M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1583771/000149315226042907/0001493152-26-042907-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HEPA, CTRVP&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-16&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · BRSP</title>
       <link>https://www.sec.gov/Archives/edgar/data/1717547/000171754726000065/brsp-20260914.htm</link>
@@ -13374,33 +13401,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PLUN, PLUN-RI, PLUN-UN&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-03&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 03 08:32 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2065661/000147793226005397/pltn_8k.htm'&gt;Acquires NT1 in business combination; NYSE listing planned&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 03 08:32 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2065661/000147793226005399/pltn_425.htm'&gt;Signs merger agreement with NT1 Pty Ltd; NYSE listing planned&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BUUU</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2047273/000121390026096963/ea0304532-6k_buuugroup.htm</link>
-      <guid isPermaLink="false">0001213900-26-096963</guid>
-      <pubDate>Thu, 03 Sep 2026 08:25:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>6-K</category>
-      <scanner:headline>Acquires 60% of Brightray for stock valued at $20/sh + convertible note</scanner:headline>
-      <scanner:shortName>BUUU Group</scanner:shortName>
-      <scanner:price>29.60</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>BUUU</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires 60% of Brightray for stock valued at $20/sh + convertible note&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Limited entered a definitive agreement to acquire a 60% equity interest in Brightray Science Inc., a modular data center solutions provider. Consideration consists of newly issued BUUU Class A shares valued at $20.00 per share plus a promissory note convertible into up to 10 million BUUU shares, subject to performance adjustments and a 19.99% ownership cap. Sellers retain 40% of Brightray; BUUU holds a call option on the remaining interest over three years. Concurrently, BUUU announced a private placement of units at $10.00 each expected to raise over $60 million, and plans to relocate its headquarters to Singapore. The transaction is subject to customary closing conditions and regulatory approvals.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BUUU Group Limited, through its subsidiaries, provides design, planning and production of face-to-face event in Hong Kong. The company operates through Event Management and Stage Production segments. The company curates and manages a range of events, including cultural, artistic, recreational, and corporate promotions. It also offers event management services, such as design and planning, project management, and on-site supervision.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Brightray Science Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-03&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $29.60 · Mkt cap $494.2M · EV $489.1M · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2047273/000121390026096963/0001213900-26-096963-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BUUU&lt;/b&gt; · 6-K · Amusement / Recreation (7900) · prefill_form:6-K · filed 2026-09-03&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
