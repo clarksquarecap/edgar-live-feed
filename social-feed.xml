@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 20:52:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:00:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CLOQ 🪙 Debt Restr.
+Restructures convertible notes; converts interest to stock at $0.10; creates dual-class
+Mcap $25M · EV $29M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437517/000149315226042937/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-042937</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:15 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$RGR 🤝 Merger
 Regulatory conditions met for Beretta deal; rights plan terminated
@@ -620,35 +629,6 @@ Mcap $513M · EV $618M · Tech</title>
       <pubDate>Tue, 15 Sep 2026 16:08:43 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$CYCN 📍 Stake
-Receives 13D from Venrock disclosing 9.9% stake
-Mcap $10B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1755237/000173804826000069/0001738048-26-000069-index.htm</link>
-      <guid isPermaLink="false">0001738048-26-000069</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:20 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RENT 📜 Rights Issue
-Sets Sept 25 record date for $15M rights offering
-Mcap $65M · EV $232M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468327/000095010326013999/dp253357_8k.htm</link>
-      <guid isPermaLink="false">0000950103-26-013999</guid>
-      <pubDate>Tue, 15 Sep 2026 15:59:44 -0500</pubDate>
-      <category>RIGHTS_ISSUE</category>
-    </item>
-    <item>
-      <title>$SAFT 🤝 Merger
-HSR cleared; proxy mailed for MAPFRE merger
-MAPFRE U.S.A.
-Mcap $1.5B · EV $1.5B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1172052/000110465926107960/tm2625481d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-107503</guid>
-      <pubDate>Tue, 15 Sep 2026 15:53:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
