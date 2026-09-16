@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 10:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:27:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HAFN 📍 Stake
+Acquires 4.5M TORM shares at $32.25; stake to 18.22%
+Mcap $4.7B · EV $5.3B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1815779/000114036126036707/ef20082105_6k.htm</link>
+      <guid isPermaLink="false">0001140361-26-036707</guid>
+      <pubDate>Wed, 16 Sep 2026 05:27:10 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$BAM 🤝 Merger
 Acquires Reliance Worldwide for US$3.38/share cash (~$2.8B EV)
@@ -821,81 +830,6 @@ Mcap $880K · Real Estate</title>
       <guid isPermaLink="false">0001213900-26-099878</guid>
       <pubDate>Tue, 15 Sep 2026 05:35:49 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$ATKR 🤝 Merger
-HSR waiting period expires for Prysmian merger; vote pending
-Prysmian S.p.A.
-Mcap $3.2B · EV $3.7B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1666138/000166613826000027/atkr-20260915.htm</link>
-      <guid isPermaLink="false">0001140361-26-035981</guid>
-      <pubDate>Tue, 15 Sep 2026 05:24:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GSK 🤝 Merger
-Acquires Chimagen trispecific TCE for up to $750M total
-Chimagen Biosciences · up to $750 million deal · cash
-Mcap $96B · EV $116B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1131399/000165495426008359/a6888u.htm</link>
-      <guid isPermaLink="false">0001654954-26-008359</guid>
-      <pubDate>Tue, 15 Sep 2026 05:24:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GRAB 🤝 Merger
-Acquires 60% of Atome Financial for $1.49B cash; close Q3 2027
-$1.49 billion deal · cash
-Mcap $12B · EV $8.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1855612/000185561226000133/a6-kxatometransactionannou.htm</link>
-      <guid isPermaLink="false">0001855612-26-000138</guid>
-      <pubDate>Tue, 15 Sep 2026 05:22:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GRAB 💧 Capital Return · Buyback
-Executes remaining $900M buyback; &gt;10% of shares over 12 months
-Mcap $12B · EV $8.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1855612/000185561226000135/a6-kxsharerepurchaseannoun.htm</link>
-      <guid isPermaLink="false">0001855612-26-000135</guid>
-      <pubDate>Tue, 15 Sep 2026 05:22:26 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$OMEX 🤝 Merger
-Reverse-merged into AOM; OMEX holders retain 6.6%; renamed AOMC
-stock
-Mcap $44M · EV $13M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/798528/000119312526391074/d104064ds4a.htm</link>
-      <guid isPermaLink="false">0001193125-26-391074</guid>
-      <pubDate>Tue, 15 Sep 2026 05:21:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SAFX 🤝 Merger
-Amends DevvStream/Southern merger; XCF ownership up to 69.57%
-stock
-Mcap $168M · EV $426M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2019793/000121390026099861/ea0305486-425_xcfglobal.htm</link>
-      <guid isPermaLink="false">0001213900-26-098554</guid>
-      <pubDate>Tue, 15 Sep 2026 05:21:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ZOAR 🤝 Merger
-Acquires Impact Biomedical; corrects exchange ratio to 1:1 post-split
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2078148/000149315226042640/form425.htm</link>
-      <guid isPermaLink="false">0001493152-26-042161</guid>
-      <pubDate>Tue, 15 Sep 2026 05:20:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
