@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 19:58:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:06:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RITR 📉 Delisting · Forced
+Forced Nasdaq delisting; suspension Sept 17
+Mcap $5M · EV $60M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1951229/000121390026100503/ea0305520-6k_reitar.htm</link>
+      <guid isPermaLink="false">0001213900-26-100503</guid>
+      <pubDate>Wed, 16 Sep 2026 15:06:42 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$RACC 🤝 Merger
 Business combination with Oak Hill Bio; S-4 filed
@@ -667,17 +677,6 @@ Mcap $581M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1163370/000114036126036638/ny20080288x2_s4a.htm</link>
       <guid isPermaLink="false">0001140361-26-036638</guid>
       <pubDate>Tue, 15 Sep 2026 15:11:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$YMT 🤝 Merger
-Increases share issuance for Qingdao Xingongguan and Zhaodong Guohe deals; $26.96M
-26,961,390 deal · stock
-Mcap $1M · EV $8M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1991605/000121390026100113/ea0305539-6k_yimutian.htm</link>
-      <guid isPermaLink="false">0001213900-26-100113</guid>
-      <pubDate>Tue, 15 Sep 2026 15:02:57 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
