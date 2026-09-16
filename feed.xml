@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 21:08:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:16:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · TCBK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/356171/000110465926108313/tm2624984-1_defm14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-108313</guid>
+      <pubDate>Wed, 16 Sep 2026 16:16:10 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>DEFM14A</category>
+      <scanner:headline>Acquired by First Hawaiian for 2.095 FHB shares (~$63.12/sh); vote Oct 29</scanner:headline>
+      <scanner:shortName>TRICO BANCSHARES</scanner:shortName>
+      <scanner:price>53.43</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>DEFM14A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>TCBK</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFM14A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquired by First Hawaiian for 2.095 FHB shares (~$63.12/sh); vote Oct 29&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Shareholders will receive 2.095 First Hawaiian shares per TriCo share, valued at ~$63.12 per share at announcement (aggregate ~$2.0B). The merger creates a ~$34B-asset bank. Special meeting scheduled for Oct 29, 2026; TriCo board recommends approval.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; TriCo Bancshares operates as a bank holding company for Tri Counties Bank that provides commercial and retail banking services to individual and corporate customers. The company accepts demand, savings, and time deposits; and offers checking, specialized, money market, education, health savings, certificate of deposit, and business and public funds savings accounts, as well as individual retirement accounts.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; First Hawaiian, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $63.12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; ~$2.0 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote Oct 29, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $53.43 · Mkt cap $1.72B · Fwd P/E 12.4x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/356171/000110465926108313/0001104659-26-108313-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TCBK&lt;/b&gt; · DEFM14A · Depository Institutions (6022) · prefill_form:DEFM14A · filed 2026-09-16&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · ACDC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1881487/000110465926108302/tm2625564d1_8k.htm</link>
@@ -13371,33 +13398,6 @@
 &lt;p&gt;Filed an amended Form 10 registration statement for its spin-off. (headline only; full text not retrieved)&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2132873/000119312526381915/0001193125-26-381915-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;2679171D&lt;/b&gt; · 10-12B/A · Amusement / Recreation (7990) · prefill_form:10-12B · filed 2026-09-03&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · MIST</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1408443/000110465926105052/tm2624766d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-105052</guid>
-      <pubDate>Thu, 03 Sep 2026 15:12:12 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>8-K</category>
-      <scanner:headline>NMPA approves etripamil in China; $2M milestone from Everest</scanner:headline>
-      <scanner:shortName>Milestone Pharmaceuticals</scanner:shortName>
-      <scanner:price>1.21</scanner:price>
-      <scanner:subtype>won</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>MIST</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;NMPA approves etripamil in China; $2M milestone from Everest&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that China&amp;#39;s NMPA approved etripamil nasal spray for PSVT, triggering a $2.0 million milestone payment from Everest Medicines. Milestone is eligible for up to $98.0 million in additional milestones and tiered royalties up to 18% on future sales in Greater China. This is the first approval of etripamil outside the US.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Milestone Pharmaceuticals Inc., a biopharmaceutical company, focuses on the development and commercialization of cardiovascular medicines in the United States and Canada. It offers CARDAMYST (etripamil) nasal spray, a prescription medication for the conversion of acute symptomatic episodes of paroxysmal supraventricular tachycardia (PSVT) to sinus rhythm in adults. The company is also developing etripamil for the indication of atrial fibrillation with rapid ventricular rate (AFib-RVR).&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Everest Medicines&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-03&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.21 · Mkt cap $166.3M · EV $137.5M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1408443/000110465926105052/0001104659-26-105052-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MIST&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-03&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
