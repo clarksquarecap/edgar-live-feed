@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 12:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:09:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AMBP 🔎 Strat Review · Sale
+Faces sale process by controlling shareholder AHSA
+Mcap $2.9B · EV $7.0B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1845097/000110465926108085/ambp-20260916x6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-108085</guid>
+      <pubDate>Wed, 16 Sep 2026 07:09:49 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>sale_process</category>
+    </item>
     <item>
       <title>$AGMH 📤 Divestiture
 Sells 55% KOI Global stake to Yuqiang Huang for $2.45M cash
@@ -752,36 +762,6 @@ Mcap $55B · EV $58B · Materials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526391369/d71834d8k.htm</link>
       <guid isPermaLink="false">0001193125-26-391369</guid>
       <pubDate>Tue, 15 Sep 2026 07:16:28 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$CTNT 🤝 Merger
-Acquires JoyPak Supply for $788K cash; close ~Oct 15
-788000 deal · cash · close 2026-10-15
-Mcap $480K · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1951667/000110465926107715/tm2624728d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-107715</guid>
-      <pubDate>Tue, 15 Sep 2026 07:09:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SUGP 🤝 Merger
-Acquires KM Safety Solution for HK$5.6M cash
-HK$5,616,000 (~US$721,000) deal · cash
-Mcap $1M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1969863/000175392626001776/g085950_6k.htm</link>
-      <guid isPermaLink="false">0001753926-26-001776</guid>
-      <pubDate>Tue, 15 Sep 2026 07:08:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$VYLR-W 🪓 Spinoff
-Spun off from Corteva; 1 VYLR per CTVA share; NYSE listing</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526391356/ctva_form_10-12ba_2.htm</link>
-      <guid isPermaLink="false">0001193125-26-391356</guid>
-      <pubDate>Tue, 15 Sep 2026 07:07:59 -0500</pubDate>
       <category>SPIN_OFF</category>
     </item>
   </channel>
