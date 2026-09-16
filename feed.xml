@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 21:01:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:08:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · ACDC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1881487/000110465926108302/tm2625564d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-108302</guid>
+      <pubDate>Wed, 16 Sep 2026 16:08:49 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells 2.3M Flotek shares to Wilks affiliates for $60M debt cancellation</scanner:headline>
+      <scanner:shortName>ProFrac Holding</scanner:shortName>
+      <scanner:price>4.84</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>ACDC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Sells 2.3M Flotek shares to Wilks affiliates for $60M debt cancellation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Sold 2,306,806 shares of Flotek Industries to THRC Holdings and Farris C. Wilks (affiliates of its founders) in exchange for cancellation of $60M of term loans. The transaction was part of Amendment No. 5 to the Alpine Term Loan Credit Agreement, which also extended maturity to Feb 2030 and reduced quarterly amortization.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ProFrac Holding Corp. operates as a technology-focused energy services holding company in the United States. It operates through four segments: Stimulation Services, Proppant Production, Manufacturing, and and Flotek Industries, Inc. The company offers hydraulic fracturing, proppant production, well stimulation, in-basin frac sand, and other completion services and complementary products and services to upstream oil and natural gas companies engaged in the exploration and production of unconvent…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; THRC Holdings, LP and Farris C. Wilks&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $60,000,000&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $4.84 · Mkt cap $883.3M · EV $2.26B · Fwd EV/EBITDA 7.8x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1881487/000110465926108302/0001104659-26-108302-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACDC&lt;/b&gt; · 8-K · Items 1.01, 2.03, 9.01 · Oil &amp;amp; Gas (1389) · 8k_tier1:1.01 · filed 2026-09-16&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · BCBP</title>
       <link>https://www.sec.gov/Archives/edgar/data/1228454/000119312526393183/d156244d8k.htm</link>
@@ -13371,33 +13398,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.21 · Mkt cap $166.3M · EV $137.5M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1408443/000110465926105052/0001104659-26-105052-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MIST&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-03&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · IRDM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1418819/000110465926105053/tm2621287d5_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-105053</guid>
-      <pubDate>Thu, 03 Sep 2026 15:07:45 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquired by Rocket Lab; vote Sept 24</scanner:headline>
-      <scanner:shortName>Iridium Communications</scanner:shortName>
-      <scanner:price>46.95</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>IRDM</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Rocket Lab; vote Sept 24&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is being acquired by Rocket Lab Corporation. The board unanimously recommends voting FOR the merger at the special meeting on September 24, 2026. Shareholders are urged to vote today.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Iridium Communications Inc. provides mobile voice and data communications services and products to businesses, the United States and foreign governments, non-governmental organizations, and consumers in the United States, Canada, and internationally. The company offers mobile satellite communications services for land mobile end users and aviation sectors; broadband terminals, embedded devices, and handsets for merchant shipping, fishing, leisure and research vessels, and specialized watercraft;…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Rocket Lab Corporation&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting Sept 24, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $46.95 · Mkt cap $4.98B · EV $6.58B · Fwd P/E 33.9x · Fwd EV/EBITDA 13.3x · Communication Services / Diversified Telecommunication Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1418819/000110465926105053/0001104659-26-105053-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IRDM&lt;/b&gt; · 425 · Communications (4899) · prefill_form:425 · filed 2026-09-03&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

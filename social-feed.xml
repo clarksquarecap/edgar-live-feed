@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 21:01:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:08:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ACDC 📤 Divestiture
+Sells 2.3M Flotek shares to Wilks affiliates for $60M debt cancellation
+$60,000,000 deal
+Mcap $883M · EV $2.3B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1881487/000110465926108302/tm2625564d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-108302</guid>
+      <pubDate>Wed, 16 Sep 2026 16:08:49 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$BCBP 📤 Divestiture
 Markets $210M problem loans + cannabis business; Q3 loss up to $136M
@@ -637,17 +647,6 @@ Mcap $13B · EV $36B · Cons Stpl</title>
       <guid isPermaLink="false">0001213900-26-100180</guid>
       <pubDate>Tue, 15 Sep 2026 16:09:05 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$FWDI 🤝 Merger · Unsolicited
-Proposes $2.13/share (0.306 FWDI shares) for SkyAI
-50% prem · cash/stk elect
-Mcap $513M · EV $618M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/38264/000168316826007172/forward_8k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042586</guid>
-      <pubDate>Tue, 15 Sep 2026 16:08:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
