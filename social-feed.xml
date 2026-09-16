@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 20:25:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:33:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NACB 🤝 Merger
+Acquires National Capital Bancorp for $83 cash or 5.2390 shares per share
+$97.8M deal · cash/stk elect
+Mcap $96M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1947463/000110465926108257/tm2621296-3_s4a.htm</link>
+      <guid isPermaLink="false">0001104659-26-108257</guid>
+      <pubDate>Wed, 16 Sep 2026 15:33:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$HEPA 📍 Stake
 Acquires 10.2% stake in Hepion for $500K ($0.05/sh) + warrants
@@ -668,25 +679,6 @@ close Q4 2026</title>
       <pubDate>Tue, 15 Sep 2026 15:35:29 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DBI 👀 Activist
-Urges board to maximize value; highlights Topo's $100M revenue potential
-16.1 stake
-Mcap $334M · EV $1.5B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1319947/000092189526002548/0000921895-26-002548-index.htm</link>
-      <guid isPermaLink="false">0000921895-26-002548</guid>
-      <pubDate>Tue, 15 Sep 2026 15:28:45 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$SAFX 📍 Stake
-Discloses 6.7% stake; warrants for up to $99M
-Mcap $168M · EV $426M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2019793/000210659026000003/0002106590-26-000003-index.htm</link>
-      <guid isPermaLink="false">0002106590-26-000003</guid>
-      <pubDate>Tue, 15 Sep 2026 15:28:17 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
