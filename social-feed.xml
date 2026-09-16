@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 21:28:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:35:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ADIL 🤝 Merger
+Vote Sept 17 on change-of-control preferred conversion; amendments fix Nasdaq compliance
+Mcap $13M · EV $23M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1513525/000121390026100607/ea0305756-defa14a_adial.htm</link>
+      <guid isPermaLink="false">0001213900-26-100607</guid>
+      <pubDate>Wed, 16 Sep 2026 16:35:38 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DAIC 🤝 Merger
 Acquires Envoy Technologies from BladeRanger for 10.83M shares (67.3% post-close)
@@ -580,43 +590,6 @@ Mcap $34M · EV $144M · Industrials</title>
       <guid isPermaLink="false">0000921895-26-002550</guid>
       <pubDate>Tue, 15 Sep 2026 16:37:33 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$CNXU 📍 Stake
-Exercises 500K performance warrants; stake now 5.2%
-Mcap $134M · EV $127M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2066836/000106299326004967/0001062993-26-004967-index.htm</link>
-      <guid isPermaLink="false">0001062993-26-004967</guid>
-      <pubDate>Tue, 15 Sep 2026 16:35:40 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$LILA 🪙 Debt Restr.
-Discloses LCPR debt restructuring term sheets; no agreement
-Mcap $1.7B · EV $10B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1712184/000171218426000148/lila-20260915.htm</link>
-      <guid isPermaLink="false">0001712184-26-000148</guid>
-      <pubDate>Tue, 15 Sep 2026 16:30:48 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$EVGN 👀 Activist
-Faces dissident tender offer threat from L.I.A. Pure Capital and Invest Pro Shukai Hon
-Mcap $8M · EV $10M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574565/000117891326004516/zk2636119.htm</link>
-      <guid isPermaLink="false">0001178913-26-004516</guid>
-      <pubDate>Tue, 15 Sep 2026 16:30:24 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$PSNL 🤝 Merger
-Acquired by Tempus AI; S-4 filed
-Mcap $1.7B · EV $1.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1527753/000119312526392159/d158929d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-392159</guid>
-      <pubDate>Tue, 15 Sep 2026 16:29:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
