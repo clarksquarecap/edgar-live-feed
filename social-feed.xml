@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 13:16:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:23:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$EZRA 📤 Divestiture
@@ -759,26 +759,6 @@ Offers $15M self-tender at $6.6609/share</title>
       <pubDate>Tue, 15 Sep 2026 08:33:31 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$CBDD 🤝 Merger
-Signs definitive share exchange agreement with BioCannabis M. IKE
-Healthcare</title>
-      <link>https://www.otcmarkets.com/stock/CBDD/news/535176</link>
-      <guid isPermaLink="false">OTC-535176</guid>
-      <pubDate>Tue, 15 Sep 2026 08:19:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WHF 🔎 Strat Review · Strat Alts
-Forms special committee to explore strategic alternatives
-Mcap $149M · EV $465M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1552198/000110465926107736/whf-20260915x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-107736</guid>
-      <pubDate>Tue, 15 Sep 2026 08:19:22 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
