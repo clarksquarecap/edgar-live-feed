@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 20:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:35:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · NSLR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1509470/000080724926000084/0000807249-26-000084-index.htm</link>
+      <guid isPermaLink="false">0000807249-26-000084</guid>
+      <pubDate>Wed, 16 Sep 2026 15:34:59 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Faces Gabelli 13D/A; group holds ~7.1% of NSLR</scanner:headline>
+      <scanner:shortName>Neostellar Capital</scanner:shortName>
+      <scanner:price>7.96</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>NSLR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Faces Gabelli 13D/A; group holds ~7.1% of NSLR&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Faces an amended Schedule 13D from the Gabelli group (GAMCO Investors, Gabelli Funds, GAMCO Asset Management, et al.) reporting aggregate beneficial ownership of ~7.1% of common stock (1,895,410 shares). Gabelli Funds holds 6.1% (1,614,410 shares); GAMCO Asset Management holds 1.0% (274,000 shares).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Neostellar Capital Corp., formerly known as SuRo Capital Corp. is a venture capital, mezzanine, secondary(direct) and business development company specializing in growth capital, emerging growth, late stage and venture capital-backed private companies. It prefers to invest in energy and utilities, consumer, technology, media and communication sectors. The company prefers to invest in United States of America and Canada. The firm only seeks minority stakes. Neostellar Capital Corp.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; GAMCO Investors, Inc. / Gabelli group&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.1%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.96 · Mkt cap $209.4M · EV $258.9M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1509470/000080724926000084/0000807249-26-000084-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NSLR, NSLRL&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-16&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · ONC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1651308/000110465926108269/0001104659-26-108269-index.htm</link>
@@ -13373,32 +13400,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.18 · Mkt cap $89.4M · EV $141.4M · Consumer Discretionary / Automobiles&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000091957426006146/0000919574-26-006146-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EMPD&lt;/b&gt; · SCHEDULE 13D/A · Non-Depository Credit (6199) · fresh_13d · filed 2026-09-03&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Self Tender · NFJ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1260563/000119312526381206/d119917dsctoia.htm</link>
-      <guid isPermaLink="false">0001193125-26-381206</guid>
-      <pubDate>Thu, 03 Sep 2026 09:08:37 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-      <category>SC TO-I/A</category>
-      <scanner:headline>Commences tender offer for up to 25% of shares at 99% NAV</scanner:headline>
-      <scanner:shortName>Virtus Dividend Interest &amp; Premium Strategy Fund</scanner:shortName>
-      <scanner:price>15.53</scanner:price>
-      <scanner:subtype>self_tender</scanner:subtype>
-      <scanner:form>SC TO-I/A</scanner:form>
-      <scanner:sector>Financial Services</scanner:sector>
-      <scanner:ticker>NFJ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SC TO-I/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Commences tender offer for up to 25% of shares at 99% NAV&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Commenced a tender offer to acquire up to 25% of its outstanding common shares for cash at 99% of net asset value as of the expiration date. The offer expires October 5, 2026, unless extended, and shares will be purchased pro rata if oversubscribed.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 25%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Expiration date October 5, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $15.53 · Mkt cap $1.47B · EV $1.44B · EV/Sales 51.3x · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1260563/000119312526381206/0001193125-26-381206-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NFJ&lt;/b&gt; · SC TO-I/A · Non-Depository Credit (6163) · prefill_form:SC TO-I · filed 2026-09-03&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
