@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 10:06:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:07:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · VFS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1913510/000118518526004033/vfs6k091126.htm</link>
+      <guid isPermaLink="false">0001185185-26-004033</guid>
+      <pubDate>Wed, 16 Sep 2026 05:07:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Acquires Ngoc Hoi Real Estate from founder for ~$1.2B</scanner:headline>
+      <scanner:shortName>VinFast Auto</scanner:shortName>
+      <scanner:price>3.21</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>VFS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires Ngoc Hoi Real Estate from founder for ~$1.2B&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;VinFast&amp;#39;s subsidiary VFVN signed share purchase agreements to acquire 100% of Ngoc Hoi Real Estate Investment JSC from founder Pham Nhat Vuong and two minority shareholders for VND30,857 billion (~US$1.2 billion), a discount to independent third-party valuation. Half of the founder&amp;#39;s consideration and all minority consideration is paid at closing, remainder within 120 days. The deal, expected to close in Q3 2026, adds a 20% economic interest in the Hanoi International Sports Urban Area Project and is funded via existing Vingroup/Pham arrangements plus a VND10,000 billion (~US$396.7M) capital contribution from Pham to VFVN.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VinFast Auto Ltd. engages in the design and manufacture of electric vehicles (EV), e-scooters, and e-buses in Vietnam, Canada, India, and the United States. The company operates through three segments: namely Car, E-scooters and Ebus. It offers the design, development, manufacturing and sales of e-scooters and related battery lease and battery charging service for cars, e-scooters, and Ebus.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Mr. Pham Nhat Vuong (founder) and two minority shareholders&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; VND30,857 billion (~US$1.2 billion)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 100%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing expected Q3 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.21 · Mkt cap $7.51B · EV $15.57B · Consumer Discretionary / Automobiles&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1913510/000118518526004033/0001185185-26-004033-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VFS, VFSWW&lt;/b&gt; · 6-K · Transportation Equipment (3711) · prefill_form:6-K · filed 2026-09-16&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · RLYB</title>
       <link>https://www.sec.gov/Archives/edgar/data/1739410/000119312526392246/d71655ds4a.htm</link>
@@ -13372,33 +13399,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $0.2200 · Mkt cap $12.9M · EV $24.3M · Fwd EV/EBITDA 3.2x · Consumer Discretionary / Distributors&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2027360/000149315226041237/0001493152-26-041237-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RCT&lt;/b&gt; · SCHEDULE 13D/A · Retail; Misc (5990) · amended_13d · filed 2026-09-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · RCT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2027360/000149315226041238/0001493152-26-041238-index.htm</link>
-      <guid isPermaLink="false">0001493152-26-041238</guid>
-      <pubDate>Wed, 02 Sep 2026 15:33:31 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Board member Senn ups stake to 13.52% via $625K placement</scanner:headline>
-      <scanner:shortName>RedCloud Holdings</scanner:shortName>
-      <scanner:price>0.2200</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>RCT</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Board member Senn ups stake to 13.52% via $625K placement&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D/A from board member Nikolaus Senn, who increased his beneficial ownership to 10,286,524 ordinary shares (13.52% of class) after purchasing 2,500,000 shares in a private placement for $625,000 on August 27, 2026. Senn also holds warrants for 423,532 shares. No activist agenda stated; Senn serves on the board.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; RedCloud Holdings plc operates a cloud-based business-to-business open commerce platform primarily in Argentina, the United Kingdom, Brazil, Nigeria, South Africa, and internationally. The company develops and operates the RedAI infrastructure and associated products that facilitates the trading of consumer supplies of fast-moving consumer goods across business supply chains.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nikolaus Senn&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $625,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 13.52%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-27&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.2200 · Mkt cap $12.9M · EV $24.3M · Fwd EV/EBITDA 3.2x · Consumer Discretionary / Distributors&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2027360/000149315226041238/0001493152-26-041238-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RCT&lt;/b&gt; · SCHEDULE 13D/A · Retail; Misc (5990) · amended_13d · filed 2026-09-02&lt;/p&gt;</description>
     </item>
   </channel>

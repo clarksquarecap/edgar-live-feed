@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 10:06:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:07:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VFS 🤝 Merger
+Acquires Ngoc Hoi Real Estate from founder for ~$1.2B
+VND30,857 billion (~US$1.2 billion) deal · cash · close Q3 2026
+Mcap $7.5B · EV $16B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1913510/000118518526004033/vfs6k091126.htm</link>
+      <guid isPermaLink="false">0001185185-26-004033</guid>
+      <pubDate>Wed, 16 Sep 2026 05:07:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RLYB 🤝 Merger
 Acquires Avenzo in $300M stock reverse merger; combined co to trade as AVZO
@@ -881,15 +892,6 @@ Mcap $5M · EV $162M · Financials</title>
       <guid isPermaLink="false">0001627282-26-000070</guid>
       <pubDate>Tue, 15 Sep 2026 05:08:36 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$ASND 💥 Busted M&amp;A
-Regains TransCon rights from Novo Nordisk after termination
-Mcap $17B · EV $17B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1612042/000119312526390877/d183438d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-390877</guid>
-      <pubDate>Tue, 15 Sep 2026 05:07:30 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
