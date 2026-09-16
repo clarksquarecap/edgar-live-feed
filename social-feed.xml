@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 21:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:17:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CEPU 💧 Capital Return · Special Div
+Declares ARS 164/share special dividend; sells AbraSilver stake for C$228M
+Mcap $2.2B · EV $2.8B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1717161/000129281426004574/cepu20260916_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004574</guid>
+      <pubDate>Wed, 16 Sep 2026 16:17:27 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>special_dividend</category>
+    </item>
+    <item>
+      <title>$BPRE ⚔️ Proxy
+Launches proxy contest at Bluerock Private Real Estate Fund</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1551047/000090266426003840/p26-1874dfan14a.htm</link>
+      <guid isPermaLink="false">0000902664-26-003840</guid>
+      <pubDate>Wed, 16 Sep 2026 16:16:54 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$TCBK 🤝 Merger
 Acquired by First Hawaiian for 2.095 FHB shares (~$63.12/sh); vote Oct 29
@@ -616,17 +634,6 @@ Mcap $24B · EV $25B · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1720635/000110465926107974/tm2625115d3_8k.htm</link>
       <guid isPermaLink="false">0001104659-26-107974</guid>
       <pubDate>Tue, 15 Sep 2026 16:20:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MITN 🤝 Merger
-Acquires Cherry Hill Mortgage for 0.3063 shares + $0.93 cash per share
-cash+stk
-Mcap $207M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1514281/000162828026062095/mitt-formsx42026.htm</link>
-      <guid isPermaLink="false">0001628280-26-062095</guid>
-      <pubDate>Tue, 15 Sep 2026 16:16:26 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
