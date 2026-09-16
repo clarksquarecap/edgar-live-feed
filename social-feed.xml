@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 16 Sep 2026 10:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 10:06:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RLYB 🤝 Merger
+Acquires Avenzo in $300M stock reverse merger; combined co to trade as AVZO
+Avenzo Therapeutics · stock
+Mcap $91M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1739410/000119312526392246/d71655ds4a.htm</link>
+      <guid isPermaLink="false">0001193125-26-392246</guid>
+      <pubDate>Wed, 16 Sep 2026 05:06:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$CCXI 🤝 Merger
+Acquires Agility Robotics in $2.5B SPAC merger
+Mcap $668M · EV $667M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2074973/000121390026100252/ea030561001-425_churchill11.htm</link>
+      <guid isPermaLink="false">0001213900-26-100256</guid>
+      <pubDate>Wed, 16 Sep 2026 05:04:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MSGR 🪓 Spinoff
+Spin-off from MSG Sports; 1-for-2 distribution; NYSE: MSGR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2132873/000119312526392242/d127770d1012ba.htm</link>
+      <guid isPermaLink="false">0001193125-26-392242</guid>
+      <pubDate>Wed, 16 Sep 2026 05:03:50 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$BHR ⚔️ Proxy
 Nominates 5-director slate at Braemar; AGM Nov 13
@@ -861,25 +890,6 @@ Mcap $17B · EV $17B · Healthcare</title>
       <guid isPermaLink="false">0001193125-26-390877</guid>
       <pubDate>Tue, 15 Sep 2026 05:07:30 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$YPF 📤 Divestiture
-Sells 20% stake in Vaca Muerta JV contracts to Pluspetrol
-Mcap $23B · EV $32B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/904851/000155485526002000/MainDocument.htm</link>
-      <guid isPermaLink="false">0001554855-26-002000</guid>
-      <pubDate>Tue, 15 Sep 2026 05:06:43 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$TVA 🤝 Merger
-Acquires PlusAI for $800M pre-money; up to $300M capital
-Mcap $316M · EV $316M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033991/000119312526390812/tvaplus_ai_425_sept_2026.htm</link>
-      <guid isPermaLink="false">0001193125-26-390812</guid>
-      <pubDate>Tue, 15 Sep 2026 05:06:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
