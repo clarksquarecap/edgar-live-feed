@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 20:55:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:02:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ACGC 🤝 Merger
+Acquires May Mobility; $120M PIPE committed
+Mcap $292M · EV $292M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2111542/000121390026101013/ea030470211-425_acphold.htm</link>
+      <guid isPermaLink="false">0001213900-26-100367</guid>
+      <pubDate>Thu, 17 Sep 2026 16:02:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NHIC 🤝 Merger
 Shareholders approve newcleo merger; 94% for
@@ -15,17 +25,6 @@ Mcap $260M · EV $259M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2043699/000121390026100990/ea0305792-8k425_newhold3.htm</link>
       <guid isPermaLink="false">0000950103-26-013626</guid>
       <pubDate>Thu, 17 Sep 2026 15:55:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ACGC 🤝 Merger
-Acquires May Mobility; $1.4B EV, up to $336M proceeds, lists as MAY
-cash+stk
-Mcap $292M · EV $292M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2111542/000121390026101006/ea030470202-425_acphold.htm</link>
-      <guid isPermaLink="false">0001213900-26-100367</guid>
-      <pubDate>Thu, 17 Sep 2026 15:55:05 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -809,34 +808,6 @@ Mcap $883M · EV $2.3B · Energy</title>
       <guid isPermaLink="false">0001104659-26-108302</guid>
       <pubDate>Wed, 16 Sep 2026 16:08:49 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BCBP 📤 Divestiture
-Markets $210M problem loans + cannabis business; Q3 loss up to $136M
-Mcap $153M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1228454/000119312526393183/d156244d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-393183</guid>
-      <pubDate>Wed, 16 Sep 2026 16:00:57 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SNYR 📉 Delisting · Forced
-Forced Nasdaq delisting effective Sept 18
-Mcap $1M · EV $29M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1562733/000121390026100556/ea0305682-8k_synergy.htm</link>
-      <guid isPermaLink="false">0001213900-26-100556</guid>
-      <pubDate>Wed, 16 Sep 2026 16:00:40 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$CLOQ 🪙 Debt Restr.
-Restructures convertible notes; converts interest to stock at $0.10; creates dual-class
-Mcap $25M · EV $29M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1437517/000149315226042937/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042937</guid>
-      <pubDate>Wed, 16 Sep 2026 16:00:15 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
