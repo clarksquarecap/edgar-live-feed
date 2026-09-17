@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 11:26:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:33:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · ATLC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1464343/000143774926030605/atlc20260915_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-030605</guid>
+      <pubDate>Thu, 17 Sep 2026 06:33:14 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells CAR Auto Finance for $56.2M cash + $15M seller note</scanner:headline>
+      <scanner:shortName>Atlanticus Holdings</scanner:shortName>
+      <scanner:price>93.20</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>ATLC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Sells CAR Auto Finance for $56.2M cash + $15M seller note&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed the sale of its CAR Auto Finance operations to an unaffiliated third party for total consideration of approximately $71.2 million, comprising $56.2 million in cash and a $15.0 million seller note. The sale eliminates the Auto Finance segment, and approximately 154 team members are transitioning to the buyer. Proceeds will be used to reduce debt and invest in higher-growth product lines.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Atlanticus Holdings Corporation, a financial technology company, provides products and services to lenders in the United States. The company operates in two segments, Credit as a Service (CaaS) and Auto Finance. Its CaaS segment offers private label credit products associated with the healthcare space under the Curae brand, as well as consumer electronics, furniture, elective medical procedures, and home-improvement under the Fortiva brand and its retail partners’ brands; and general-purpose cre…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; unaffiliated third party&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $71.2M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $93.20 · Mkt cap $1.41B · Fwd P/E 8.3x · Financials / Consumer Finance&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1464343/000143774926030605/0001437749-26-030605-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ATLC, ATLCL, ATLCP, ATLCZ&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Non-Depository Credit (6141) · 8k_tier1:8.01 · filed 2026-09-17&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · SUPN</title>
       <link>https://www.sec.gov/Archives/edgar/data/1625297/000110465926108418/tm2623753d8_425.htm</link>
@@ -13388,32 +13415,6 @@
 &lt;p&gt;&lt;i&gt;Px $9.75 · Mkt cap $350.5M · Information Technology / Technology Hardware, Storage and Peripherals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2119292/000110465926105160/0001104659-26-105160-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PSQL, PSQLW&lt;/b&gt; · SCHEDULE 13D · Business Services (7374) · fresh_13d · filed 2026-09-03&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · VBIO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1787740/000175392626001719/0001753926-26-001719-index.htm</link>
-      <guid isPermaLink="false">0001753926-26-001719</guid>
-      <pubDate>Thu, 03 Sep 2026 19:33:06 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Holds 9.9% at blocker; $16.25M note + warrants + preferred</scanner:headline>
-      <scanner:shortName>Valion Bio</scanner:shortName>
-      <scanner:price>2.80</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>VBIO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Holds 9.9% at blocker; $16.25M note + warrants + preferred&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;3i, LP holds 132,671 shares of Valion Bio (9.9% of class, capped by a 9.99% blocker), comprising 90,252 shares directly plus 42,419 shares issuable upon exercise of warrants and conversion of a $16,253,147 senior secured convertible note, Series B and Series C preferred. Position reported post 1-for-25 reverse split; Amendment No. 7 in a rapid series filed over the past month.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Valion Bio, Inc. operates as a late-stage biopharmaceutical company. Its lead drug candidate is Entolimod, a TLR5 agonist that is in late-stage development to treat acute radiation syndrome. The company’s pipeline also comprises Entolimod to treat Neutropenia and lymphocyte exhaustion; and Entolasta, an immunologically optimized variant of Entolimod for chronic applications, such as immunosenescence. In addition, it offers CDMO services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.9%&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.80 · Mkt cap $2.8M · EV $18.1M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1787740/000175392626001719/0001753926-26-001719-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VBIO&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-03&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
