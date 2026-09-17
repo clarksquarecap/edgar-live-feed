@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 22:39:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 23:38:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · TALO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1724965/000114036126037026/0001140361-26-037026-index.htm</link>
+      <guid isPermaLink="false">0001140361-26-037026</guid>
+      <pubDate>Thu, 17 Sep 2026 18:38:19 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases Talos Energy stake to 23.4% (39.1M shares)</scanner:headline>
+      <scanner:shortName>TALOS ENERGY</scanner:shortName>
+      <scanner:price>17.15</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>TALO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Increases Talos Energy stake to 23.4% (39.1M shares)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Carlos Slim Helu and related entities increased their beneficial ownership in Talos Energy Inc. to 23.4% (39,079,036 shares) as of September 15, 2026, per Schedule 13D/A amendment.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Talos Energy Inc., through its subsidiaries, engages in the exploration and production of oil and gas in the United States and Mexico. The company operates through two segments: Upstream, and Carbon Capture and Sequestration. It also engages in the exploration and production of natural gas liquid. Talos Energy Inc. was founded in 2011 and is headquartered in Houston, Texas.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 23.4%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $17.15 · Mkt cap $2.91B · EV $3.68B · Fwd P/E 12.4x · Fwd EV/EBITDA 2.2x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1724965/000114036126037026/0001140361-26-037026-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TALO&lt;/b&gt; · SCHEDULE 13D/A · Oil &amp;amp; Gas (1311) · fresh_13d · filed 2026-09-17&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · XBP</title>
       <link>https://www.sec.gov/Archives/edgar/data/1839530/000110465926108645/0001104659-26-108645-index.htm</link>
@@ -13403,33 +13430,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.1000 · Mkt cap $1.5M · EV $29.0M · Fwd EV/EBITDA 5.1x · Consumer Staples / Personal Care Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1562733/000121390026097802/0001213900-26-097802-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SNYR&lt;/b&gt; · 8-K · Items 1.03, 5.02 · Chemicals / Pharma (2833) · 8k_tier1:1.03 · filed 2026-09-08&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · VVOS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1716166/000149315226041616/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-041616</guid>
-      <pubDate>Tue, 08 Sep 2026 05:12:56 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Converts $2.86M Streeterville debt into 11.45M shares</scanner:headline>
-      <scanner:shortName>Vivos Therapeutics</scanner:shortName>
-      <scanner:price>0.1900</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>VVOS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Converts $2.86M Streeterville debt into 11.45M shares&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into twelve exchange agreements with Streeterville Capital, converting $2,861,270 of principal into 11,445,080 common shares at an average $0.25/share. The exchange reduces the Streeterville note balance to $3.7M and increases shares outstanding from 22.16M to 33.61M (~52% dilution). Shares issued subject to 4.9% beneficial ownership limitation and sell-down condition.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Vivos Therapeutics, Inc. operates as a medical technology and healthcare services company that develops and commercializes treatment modalities for patients with dentofacial abnormalities, obstructive sleep apnea (OSA), and snoring in adults. It offers The Vivos Method, a non-invasive, non-surgical, non-pharmaceutical, multi-disciplinary treatment modality for the treatment of dentofacial abnormalities, OSA, and snoring.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Streeterville Capital, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $2,861,270&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Issuance of exchange shares subject to sell-down condition&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1900 · Mkt cap $3.8M · EV $15.4M · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1716166/000149315226041616/0001493152-26-041616-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VVOS&lt;/b&gt; · 8-K · Items 1.01, 3.02, 9.01 · Instruments / Medical Devices (3841) · 8k_tier1:1.01 · filed 2026-09-08&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

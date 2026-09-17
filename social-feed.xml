@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 23:30:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 23:38:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TALO 📍 Stake
+Increases Talos Energy stake to 23.4% (39.1M shares)
+Mcap $2.9B · EV $3.7B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1724965/000114036126037026/0001140361-26-037026-index.htm</link>
+      <guid isPermaLink="false">0001140361-26-037026</guid>
+      <pubDate>Thu, 17 Sep 2026 18:38:19 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$XBP 📍 Stake
 Insiders raise stake to 25.9% in $6.05M placement
@@ -746,16 +755,6 @@ Mcap $50M · EV $68M · Healthcare</title>
       <guid isPermaLink="false">0001123292-26-001316</guid>
       <pubDate>Wed, 16 Sep 2026 19:13:45 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SRL 👀 Activist
-Requisites EGM to appoint 3 directors
-35.5 stake
-Mcap $81M · EV $75M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/16859/000110465926108347/0001104659-26-108347-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-108347</guid>
-      <pubDate>Wed, 16 Sep 2026 18:34:17 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
