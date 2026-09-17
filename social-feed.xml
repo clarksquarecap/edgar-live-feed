@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 10:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:28:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$YI 📍 Stake
+Insiders file 13D; disclose 20.7% / 20.5% / 21.4% stakes
+Mcap $30M · EV $152M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1738906/000110465926108394/0001104659-26-108394-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-108394</guid>
+      <pubDate>Thu, 17 Sep 2026 05:27:52 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$LUCMF 🤝 Merger
 Definitive agreement to acquire El Barqueño from Agnico Eagle
@@ -582,26 +591,6 @@ Mcap $10M · EV $4M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1534525/000168316826007181/xenetic_8k.htm</link>
       <guid isPermaLink="false">0001683168-26-007181</guid>
       <pubDate>Wed, 16 Sep 2026 06:05:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$HAFN 📍 Stake
-Acquires 4.5M TORM shares at $32.25; stake to 18.22%
-Mcap $4.7B · EV $5.3B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1815779/000114036126036707/ef20082105_6k.htm</link>
-      <guid isPermaLink="false">0001140361-26-036707</guid>
-      <pubDate>Wed, 16 Sep 2026 05:27:10 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BAM 🤝 Merger
-Acquires Reliance Worldwide for US$3.38/share cash (~$2.8B EV)
-US$2.8 billion (enterprise value) deal · cash · close Q1 2027
-Mcap $75B · EV $83B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1937926/000117184326006060/f8k_091526.htm</link>
-      <guid isPermaLink="false">0001171843-26-006060</guid>
-      <pubDate>Wed, 16 Sep 2026 05:19:45 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
