@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 20:36:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:39:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · XRPN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044009/000119312526394363/d141989d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-394363</guid>
+      <pubDate>Thu, 17 Sep 2026 15:38:57 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Business combination with Ripple Labs; $30M convertible notes financing</scanner:headline>
+      <scanner:shortName>Armada Acquisition Corp. II</scanner:shortName>
+      <scanner:price>10.54</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>XRPN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Business combination with Ripple Labs; $30M convertible notes financing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced that Evernorth Holdings Inc. entered into a note purchase agreement to issue $30M 4.00% Convertible Senior PIK Notes due 2031, conditioned on closing of the previously announced business combination with Ripple Labs. The deal is expected to close in Q4 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Armada Acquisition Corp. II focuses on effecting a merger, share exchange, asset acquisition, share purchase, recapitalization, reorganization or other similar business combination with one or more businesses in the technological services. The company was incorporated in 2024 and is based in Miami, Florida.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ripple Labs Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.54 · Mkt cap $332.6M · EV $332.6M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2044009/000119312526394363/0001193125-26-394363-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;XRPN, XRPNU, XRPNW&lt;/b&gt; · 8-K · Items 8.01 · Holding / Investment Offices (6770) · 8k_tier1:8.01 · filed 2026-09-17&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · HCWC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1948864/000149315226043135/form8-k.htm</link>
@@ -13405,33 +13432,6 @@
 &lt;p&gt;&lt;i&gt;Px $8.60 · Mkt cap $3.62B · EV $4.00B · Fwd EV/EBITDA 58.0x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1830081/000110465926105546/0001104659-26-105546-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RUM, RUMBW&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7370) · fresh_13d · filed 2026-09-04&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Lost · IONS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/874015/000114036126035802/ef20081690_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-035802</guid>
-      <pubDate>Fri, 04 Sep 2026 16:03:45 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
-      <category>8-K</category>
-      <scanner:headline>Lost: pelacarsen Phase 3 Lp(a)HORIZON misses CV risk reduction endpoint</scanner:headline>
-      <scanner:shortName>IONIS PHARMACEUTICALS</scanner:shortName>
-      <scanner:price>58.13</scanner:price>
-      <scanner:subtype>lost</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>IONS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Lost: pelacarsen Phase 3 Lp(a)HORIZON misses CV risk reduction endpoint&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Ionis partner Novartis reported that pelacarsen Phase 3 Lp(a)HORIZON (8,323 patients with elevated Lp(a) and established CVD) did not meet its primary endpoint of reducing cardiovascular events vs placebo. Substantially lower Lp(a) levels were achieved with an acceptable safety profile. Full data to be presented at an upcoming medical congress.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ionis Pharmaceuticals, Inc., a commercial-stage biotechnology company, provides RNA-targeted medicines in the United States. The company offers TRYNGOLZA reduces triglyceride levels in adults with familial chylomicronemia syndrome (FCS) and acute pancreatitis; DAWNZERA for prophylaxis to prevent attacks of hereditary angioedema in adults; WAINUA for the treatment of the polyneuropathy of hereditary transthyretin-medicated amyloidosis (ATTRv-PN) in adults; and SPINRAZA for pediatric and adult pat…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Novartis&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Full Lp(a)HORIZON data presentation at upcoming medical congress&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $58.13 · Mkt cap $9.66B · EV $9.75B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/874015/000114036126035802/0001140361-26-035802-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IONS&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01,8.01 · filed 2026-09-04&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
