@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 21:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:34:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EMPD ⚔️ Proxy
+Defends board against ATG proxy contest; ATG holds 12%
+Mcap $83M · EV $135M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826007219/empery_defa14a.htm</link>
+      <guid isPermaLink="false">0001683168-26-006720</guid>
+      <pubDate>Thu, 17 Sep 2026 16:34:13 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$MOD 🪓 Spinoff
 Spins off Performance Technologies; $159M cash distribution; Gentherm merger Oct 1
@@ -683,15 +692,6 @@ Mcap $6.6B · EV $6.6B · Healthcare</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$EMPD ⚔️ Proxy
-Faces ATG Capital proxy contest; AGM Oct 14
-Mcap $83M · EV $135M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826007201/empery_defa14a.htm</link>
-      <guid isPermaLink="false">0001683168-26-006720</guid>
-      <pubDate>Thu, 17 Sep 2026 05:04:16 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
       <title>$UTMD 💧 Capital Return · Self-tender
 Self-tender for 20% of shares at $75.00 cash
 Mcap $236M · EV $148M · Healthcare</title>
@@ -783,17 +783,6 @@ Mcap $13M · EV $23M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1513525/000121390026100607/ea0305756-defa14a_adial.htm</link>
       <guid isPermaLink="false">0001213900-26-100607</guid>
       <pubDate>Wed, 16 Sep 2026 16:35:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DAIC 🤝 Merger
-Acquires Envoy Technologies from BladeRanger for 10.83M shares (67.3% post-close)
-stock · close 2026-10-06
-Mcap $3M · EV $4M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026100595/ea0305699-8k_cidhold.htm</link>
-      <guid isPermaLink="false">0001213900-26-100600</guid>
-      <pubDate>Wed, 16 Sep 2026 16:28:11 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
