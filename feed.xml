@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 13:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:42:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · LSTA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/320017/000114036126036866/ef20082158_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-036866</guid>
+      <pubDate>Thu, 17 Sep 2026 08:42:49 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Marea in all-stock reverse merger; Marea holders ~96% pre-financing</scanner:headline>
+      <scanner:shortName>LISATA THERAPEUTICS</scanner:shortName>
+      <scanner:price>1.47</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>LSTA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires Marea in all-stock reverse merger; Marea holders ~96% pre-financing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Acquired Marea Therapeutics in an all-stock merger, issuing 1,793,129 common shares and 211,365.213 Series C preferred shares (each convertible into 1,000 common) to Marea stockholders. Pre-financing, Marea holders own ~96.13% of the combined company; after a concurrent PIPE, Marea holders ~59.54%, PIPE investors ~38.07%, and Lisata pre-transaction holders ~2.39%. The merger closed on September 17, 2026; a stockholder meeting will be held to approve conversion of the preferred and other matters.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lisata Therapeutics, Inc., a clinical-stage pharmaceutical company, engages in the discovery, development, and commercialization of therapies for the treatment of solid tumors and other diseases. Its investigational product is certepetide, which is in Phase 2 clinical studies for the treatment of solid tumors, such as metastatic pancreatic ductal adenocarcinoma, cholangiocarcinoma, appendiceal cancer, and colon cancer and glioblastoma multiforme in combination with range of anti-cancer regimens.…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Marea Therapeutics, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholders&amp;#39; meeting to approve conversion proposal&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.47 · Mkt cap $13.2M · EV $2.5M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/320017/000114036126036866/0001140361-26-036866-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LSTA&lt;/b&gt; · 8-K · Items 1.01, 2.01, 3.02, 5.02, 5.03, 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01,2.01,7.01 · filed 2026-09-17&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · ACGC</title>
       <link>https://www.sec.gov/Archives/edgar/data/2111542/000121390026100777/ea030470203-425_acphold.htm</link>
@@ -13390,33 +13417,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.3000 · Mkt cap $3.4M · EV $8.7M · Consumer Discretionary / Automobile Components&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1459188/000121390026097409/0001213900-26-097409-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CHEV&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Wholesale; Durable (5013) · 8k_tier1:8.01 · filed 2026-09-04&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SNTI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1854270/000114036126035672/ny20078262x2_prer14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-035672</guid>
-      <pubDate>Fri, 04 Sep 2026 06:40:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>PRER14A</category>
-      <scanner:headline>Stockholders to vote on merger; no cash, CVRs issued</scanner:headline>
-      <scanner:shortName>Senti Biosciences</scanner:shortName>
-      <scanner:price>0.3400</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>PRER14A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>SNTI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>PRER14A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Stockholders to vote on merger; no cash, CVRs issued&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Seeks stockholder approval of the Agreement and Plan of Merger with Parent/Merger Sub. Common stock holders receive no cash; consideration is contingent value rights (CVRs) under the CVR Agreement. The proxy also proposes a reverse stock split (1-for-20 to 1-for-50) and approval of note-exchange share issuance. Vote at the 2026 annual meeting.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Senti Biosciences Holdings, Inc., a clinical stage biotechnology company, develops cell and gene therapies engineered with its gene circuit platform technologies for patients living with incurable diseases. The company’s lead product candidates utilize off-the-shelf healthy adult donor derived natural killer (NK) cells to create CAR-NK cells outfitted with gene circuit technologies in various oncology indications with unmet need.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026 annual meeting stockholder vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.3400 · Mkt cap $10.6M · EV $24.2M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1854270/000114036126035672/0001140361-26-035672-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SNTI&lt;/b&gt; · PRER14A · Chemicals / Pharma (2836) · prefill_form:PRER14A · filed 2026-09-04&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
