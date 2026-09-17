@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 12:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:11:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HSCS 🤝 Merger
+Acquired by Fortitude; combined co to trade as TUDE; close Q4
+close Q4 2026
+Mcap $13M · EV $16M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026100755/ea0305802-8k_heart.htm</link>
+      <guid isPermaLink="false">0001213900-26-091725</guid>
+      <pubDate>Thu, 17 Sep 2026 07:11:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VRME 🤝 Merger
 Vote Sept 24 on OpenWorld merger; urges FOR Proposal 6
@@ -604,26 +615,6 @@ Launches FireBluerock campaign to oust Bluerock board</title>
       <guid isPermaLink="false">0000902664-26-003831</guid>
       <pubDate>Wed, 16 Sep 2026 07:36:35 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$CBDW 📤 Divestiture
-Signs non-binding LOI to sell Texas biomass/data center project to Prime Tex
-to Prime Tex Group, USA
-Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1877461/000147793226005633/cbdw_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-005633</guid>
-      <pubDate>Wed, 16 Sep 2026 07:10:35 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AMBP 🔎 Strat Review · Sale
-Faces sale process by controlling shareholder AHSA
-Mcap $2.9B · EV $7.0B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1845097/000110465926108085/ambp-20260916x6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-108085</guid>
-      <pubDate>Wed, 16 Sep 2026 07:09:49 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>sale_process</category>
     </item>
   </channel>
 </rss>
