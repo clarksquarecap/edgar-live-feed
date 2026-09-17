@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 22:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:39:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · XBP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1839530/000110465926108645/0001104659-26-108645-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-108645</guid>
+      <pubDate>Thu, 17 Sep 2026 17:39:20 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Insiders raise stake to 25.9% in $6.05M placement</scanner:headline>
+      <scanner:shortName>XBP Global</scanner:shortName>
+      <scanner:price>2.83</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>XBP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Insiders raise stake to 25.9% in $6.05M placement&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Disclosed that insiders, including Executive Chairman Par Chadha and Exela Technologies, increased their beneficial ownership to 25.93% following a private placement of 2,275,245 shares at ~$2.66 per share for gross proceeds of ~$6.05 million. The placement closed September 15, 2026, and registration rights require a resale registration statement by September 22, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; XBP Global Holdings, Inc. operates as a technology and services company in the United States, Europe, the Middle East, Africa, and internationally. The company operates through two segments, Applied Workflow Automation and Technology. The Applied Workflow Automation segment provides services powered by AI-enabled workflows for clients’ systems.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Exela Technologies, Inc. and Par Chadha&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 25.93%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Registration statement due by Sep 22, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.83 · Mkt cap $33.6M · EV $425.8M · Fwd EV/EBITDA 5.0x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1839530/000110465926108645/0001104659-26-108645-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;XBP, XBPEW&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7389) · fresh_13d · filed 2026-09-17&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🏛️ Insolvency · Chapter 11 · MHGU</title>
       <link>https://www.otcmarkets.com/stock/MHGU/news/535592</link>
@@ -13403,33 +13430,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.1900 · Mkt cap $3.8M · EV $15.4M · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1716166/000149315226041616/0001493152-26-041616-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VVOS&lt;/b&gt; · 8-K · Items 1.01, 3.02, 9.01 · Instruments / Medical Devices (3841) · 8k_tier1:1.01 · filed 2026-09-08&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Settled · AMCX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1514991/000151499126000093/amcx-20260904.htm</link>
-      <guid isPermaLink="false">0001514991-26-000093</guid>
-      <pubDate>Tue, 08 Sep 2026 05:12:28 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-      <category>8-K</category>
-      <scanner:headline>Settles Walking Dead profit suit for $120M</scanner:headline>
-      <scanner:shortName>AMC Global Media</scanner:shortName>
-      <scanner:price>12.48</scanner:price>
-      <scanner:subtype>settled</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>AMCX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Settles Walking Dead profit suit for $120M&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Settled breach-of-contract claims from Walking Dead creators for $120M total: $85M cash by Sept 18, 2026, plus $35M advance against future participation. Company takes ~$85M Q3 charge; cuts 2026 FCF guidance to ~$150M from ~$220M.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; AMC Global Media Inc., an entertainment company, distributes contents in the United States, Europe, and internationally. It operates in two segments, Domestic Operations and International. The Domestic Operations segment operates programming networks, such as AMC, We TV, BBCA, IFC, and SundanceTV; provides streaming services, including AMC+ and Acorn TV, Shudder, Sundance Now, ALLBLK, HIDIVE, and All Reality targeted subscription streaming services; produces original programming for its programm…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Robert Kirkman et al.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 120,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Cash payment due Sept 18, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $12.48 · Mkt cap $514.8M · EV $1.84B · Fwd P/E 2.8x · Fwd EV/EBITDA 5.2x · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1514991/000151499126000093/0001514991-26-000093-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AMCX&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Communications (4841) · 8k_tier1:7.01,8.01 · filed 2026-09-08&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
