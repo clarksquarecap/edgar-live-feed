@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 20:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:16:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🎯 Tender · RGR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/95029/000119380526001242/e665781_sctot-srci.htm</link>
+      <guid isPermaLink="false">0001193805-26-001242</guid>
+      <pubDate>Thu, 17 Sep 2026 15:16:32 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>tender_offer</category>
+      <category>SC TO-T</category>
+      <scanner:headline>Faces $44.80/share partial tender from Beretta Holding; expires Oct 15</scanner:headline>
+      <scanner:shortName>STURM RUGER &amp; CO</scanner:shortName>
+      <scanner:price>37.08</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SC TO-T</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>RGR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC TO-T</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Faces $44.80/share partial tender from Beretta Holding; expires Oct 15&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Sturm, Ruger &amp;amp; Company faces a partial tender offer from Beretta Holding S.A. for up to 2,400,184 shares at $44.80 per share in cash, a ~21% premium over the $37.08 closing price on September 16, 2026. The offer expires October 15, 2026, with no financing or minimum-tender condition. Beretta, which owns ~9.93%, would hold ~25% post-tender.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sturm, Ruger &amp;amp; Company, Inc., together with its subsidiaries, designs, manufactures, and sells firearms under the Ruger name and trademark in the United States. It operates in two segments, Firearms and Castings. The company offers single-shot, autoloading, bolt-action, and modern sporting rifles; rimfire and centerfire autoloading pistols; single-action and double-action revolvers; over-under shotguns; and firearms accessories and replacement parts, as well as manufactures lever-action rifles u…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Beretta Holding S.A.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $44.80&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $107.5M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 21%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 25.00%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Expiration date October 15, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $37.08 · Mkt cap $594.9M · EV $478.9M · Fwd P/E 19.9x · Fwd EV/EBITDA 8.3x · Consumer Discretionary / Leisure Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/95029/000119380526001242/0001193805-26-001242-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RGR&lt;/b&gt; · SC TO-T · Fabricated Metals (3480) · prefill_form:SC TO-T · filed 2026-09-17&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · HLSQ</title>
       <link>https://www.sec.gov/Archives/edgar/data/1739174/000121390026100950/0001213900-26-100950-index.htm</link>
@@ -13402,33 +13429,6 @@
 &lt;p&gt;&lt;i&gt;Px $97.13 · Mkt cap $14.57B · EV $19.19B · Fwd P/E 17.1x · Fwd EV/EBITDA 10.9x · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/93556/000119312526383511/0001193125-26-383511-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SWK&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Fabricated Metals (3420) · 8k_tier1:7.01 · filed 2026-09-04&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · BFNH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1310488/000109181826000141/0001091818-26-000141-index.htm</link>
-      <guid isPermaLink="false">0001091818-26-000141</guid>
-      <pubDate>Fri, 04 Sep 2026 13:41:06 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Acquires 79.6% stake in BioForce for $400K</scanner:headline>
-      <scanner:shortName>BIOFORCE NANOSCIENCES</scanner:shortName>
-      <scanner:price>6.16</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>BFNH</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires 79.6% stake in BioForce for $400K&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Nexus Capital Investments acquired 26,700,000 shares of BioForce Nanosciences Holdings (79.6% of outstanding) for $400,000 in a private transaction. The filing states no specific activist agenda, only reserved rights to pursue mergers, asset sales, or board changes in the future.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BioForce Nanosciences Holdings, Inc. focuses on providing natural vitamins, minerals, other nutritional supplements, powders, and beverages for individuals in various age ranges. It offers private label products with distributors and manufacturing providers. The company also sells its nutrition supplements to retailers, sporting goods retailers, supermarkets, mass merchandisers, and online at www.bioforceeclipse.com, as well as through social media and telemarketing channels.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 400000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 79.6%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $6.16 · Mkt cap $196.9M · EV $196.9M · Consumer Staples / Personal Care Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1310488/000109181826000141/0001091818-26-000141-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BFNH&lt;/b&gt; · SCHEDULE 13D · Instruments / Medical Devices (3826) · fresh_13d · filed 2026-09-04&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
