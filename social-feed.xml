@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 16:57:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:44:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IRS 🤝 Merger · Preliminary
+Calls Oct 22 meeting to approve absorption of Tienda Los Gallegos and Los Gallegos
+Mcap $1.3B · EV $2.0B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/933267/000093326726000059/form6k.htm</link>
+      <guid isPermaLink="false">0000933267-26-000059</guid>
+      <pubDate>Thu, 17 Sep 2026 13:44:29 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$AVXL ⚔️ Proxy
 Faces PVG proxy contest; Glass Lewis backs 2 nominees
@@ -624,24 +634,6 @@ Mcap $102M · EV $101M · Financials</title>
       <pubDate>Wed, 16 Sep 2026 14:19:38 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$VIP 📍 Stake
-Takes 8.23% stake in Vulcan Infrastructure
-Mcap $34M · EV $70M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1844971/000119312526392929/0001193125-26-392929-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-392929</guid>
-      <pubDate>Wed, 16 Sep 2026 13:40:26 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$MTN 👀 Activist
-Launches activist campaign at Vail Resorts
-Mcap $4.9B · EV $8.2B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/812011/000090266426003838/p26-1873dfan14a.htm</link>
-      <guid isPermaLink="false">0000902664-26-003838</guid>
-      <pubDate>Wed, 16 Sep 2026 13:39:56 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
