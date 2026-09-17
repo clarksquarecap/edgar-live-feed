@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 20:48:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:54:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EMPD ⚔️ Proxy
+Urges vote FOR 4-director slate at Empery Digital AGM Oct 14
+Mcap $83M · EV $135M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829794/000092189526002572/dfan14a13914005_09172026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002572</guid>
+      <pubDate>Thu, 17 Sep 2026 15:54:32 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$BNCC 🤝 Merger
 Stockholders approve merger with OppFi
@@ -818,17 +827,6 @@ Mcap $25M · EV $29M · Tech</title>
       <guid isPermaLink="false">0001493152-26-042937</guid>
       <pubDate>Wed, 16 Sep 2026 16:00:15 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$RGR 🤝 Merger
-Regulatory conditions met for Beretta deal; rights plan terminated
-Beretta Holding
-Mcap $595M · EV $479M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/95029/000117494726000877/form8k-36350_rgr.htm</link>
-      <guid isPermaLink="false">0001174947-26-000877</guid>
-      <pubDate>Wed, 16 Sep 2026 15:52:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
