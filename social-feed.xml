@@ -6,8 +6,45 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 20:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:34:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$REXR 📤 Divestiture
+Sells 22-property industrial portfolio to EQT Real Estate for $1.2B
+Mcap $8.6B · EV $12B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1571283/000157128326000051/rexr-20260916.htm</link>
+      <guid isPermaLink="false">0001571283-26-000051</guid>
+      <pubDate>Thu, 17 Sep 2026 15:34:24 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Offers up to 225.4M MiniMed shares for MDT shares
+Mcap $116B · EV $136B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026062505/mdt-20260917.htm</link>
+      <guid isPermaLink="false">0001628280-26-062507</guid>
+      <pubDate>Thu, 17 Sep 2026 15:34:18 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
+    <item>
+      <title>$PDS 💧 Capital Return · Buyback
+Renews NCIB to repurchase up to 10% of public float
+Mcap $1.1B · EV $1.6B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1013605/000117184326006095/f6k_091726.htm</link>
+      <guid isPermaLink="false">0001171843-26-006095</guid>
+      <pubDate>Thu, 17 Sep 2026 15:33:58 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
+    <item>
+      <title>$INLF 🌍 Re-domicile
+Shareholders approve Cayman-to-BVI migration
+Mcap $200K · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1991592/000121390026100980/ea0305617-6k_inlif.htm</link>
+      <guid isPermaLink="false">0001213900-26-100980</guid>
+      <pubDate>Thu, 17 Sep 2026 15:33:47 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$XRPN 🤝 Merger
 Adds $30M convertible notes for Pathfinder merger; close Q4 2026
@@ -17,15 +54,6 @@ Mcap $333M · EV $333M · Financials</title>
       <pubDate>Thu, 17 Sep 2026 15:33:15 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MDT 🪓 Split-off
-Offers 225.4M MiniMed shares (80.1%) for MDT
-Mcap $116B · EV $136B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026062507/mdt-amendedscheduleissuert.htm</link>
-      <guid isPermaLink="false">0001628280-26-062507</guid>
-      <pubDate>Thu, 17 Sep 2026 15:32:42 -0500</pubDate>
-      <category>SPLIT_OFF</category>
     </item>
     <item>
       <title>$RGR 👀 Activist
@@ -709,15 +737,6 @@ Mcap $209M · EV $259M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1509470/000080724926000084/0000807249-26-000084-index.htm</link>
       <guid isPermaLink="false">0000807249-26-000084</guid>
       <pubDate>Wed, 16 Sep 2026 15:34:59 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ONC 📍 Stake
-Exercises options for 30,768 ADS; stake 7.8%
-Mcap $39B · EV $36B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1651308/000110465926108269/0001104659-26-108269-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-108269</guid>
-      <pubDate>Wed, 16 Sep 2026 15:34:22 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
