@@ -6,8 +6,37 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 12:11:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:16:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · AEMD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/882291/000168316826007206/aethlon_8k.htm</link>
+      <guid isPermaLink="false">0001683168-26-007208</guid>
+      <pubDate>Thu, 17 Sep 2026 07:12:07 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires North Immunology; North Immunology holders to own 95.25% of combined co.</scanner:headline>
+      <scanner:shortName>AETHLON MEDICAL</scanner:shortName>
+      <scanner:price>1.43</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>AEMD</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425, 8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires North Immunology in $150M reverse merger; North holders get 95.25% of combined&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a definitive merger agreement to acquire North Immunology in an all-stock reverse merger. North Immunology is valued at $150M, and pre-merger North stockholders (including private placement investors) will own ~95.25% of the combined company, while Aethlon stockholders own ~4.75%. The deal includes a private placement of at least $175M and is subject to stockholder approvals, Nasdaq listing, and regulatory clearances.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Aethlon Medical, Inc., a medical therapeutic company, engages in developing novel immunotherapeutic devices in the United States. It develops Hemopurifier, a clinical-stage immunotherapeutic device intended to address unmet needs in oncology, life-threatening infectious diseases, organ transplantation, and other disease states. The company was founded in 1984 and is based in San Diego, California.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; North Immunology, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $150M (North Immunology equity value)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Form S-4 filing and stockholder vote&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.43 · Mkt cap $1.0M · EV $-3.5M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/882291/000168316826007208/0001683168-26-007208-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AEMD&lt;/b&gt; · 425 · Instruments / Medical Devices (3841) · prefill_form:425 · filed 2026-09-17&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 17 07:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/882291/000168316826007206/aethlon_8k.htm'&gt;Acquires North Immunology; North Immunology holders to own 95.25% of combined co.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 17 07:11 · &lt;a href='https://www.sec.gov/Archives/edgar/data/882291/000168316826007208/aethlon_8k.htm'&gt;Acquires North Immunology in $150M reverse merger; North holders get 95.25% of combined&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · HSCS</title>
       <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026100755/ea0305802-8k_heart.htm</link>
@@ -13388,33 +13417,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Share exchange execution&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2142180/000119312526382683/0001193125-26-382683-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;CB · Depository Institutions (6022) · prefill_form:CB · filed 2026-09-04&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · FLEX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866374/000119312526382685/d105596ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-382685</guid>
-      <pubDate>Fri, 04 Sep 2026 05:05:18 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>acquisition</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Plans tax-free spin-off of Cloud &amp; Power Infrastructure segment</scanner:headline>
-      <scanner:shortName>FLEX</scanner:shortName>
-      <scanner:price>107.89</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>FLEX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFA14A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Plans tax-free spin-off of Cloud &amp;amp; Power Infrastructure segment&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced plans to spin off its Cloud and Power Infrastructure segment into an independent, publicly traded company. The spin-off is expected to be tax-free for U.S. federal income tax purposes. Flex will seek shareholder approval via a proxy statement, and SpinCo will file a Form 10.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Flex Ltd. provides technology innovation, supply chain, and manufacturing solutions to data center, communications, enterprise, consumer, automotive, healthcare, industrial, and power industries in the Americas, Asia, and Europe. The company operates through three segments: Integrated Technology Solutions (ITS), Regulated Manufacturing Solutions (RMS), and Cloud and Power Infrastructure (CPI).&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; SpinCo&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote pending&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $107.89 · Mkt cap $39.85B · EV $42.94B · Fwd P/E 24.9x · Fwd EV/EBITDA 15.6x · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/866374/000119312526382685/0001193125-26-382685-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FLEX&lt;/b&gt; · DEFA14A · Electronic Equipment (3672) · prefill_form:DEFA14A · filed 2026-09-04&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
