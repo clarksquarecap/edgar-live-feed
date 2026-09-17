@@ -6,8 +6,60 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 20:47:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:48:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · BNCC</title>
+      <link>https://www.otcmarkets.com/stock/BNCC/news/535582</link>
+      <guid isPermaLink="false">OTC-535582</guid>
+      <pubDate>Thu, 17 Sep 2026 15:48:12 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>OTC</category>
+      <scanner:headline>Stockholders approve merger with OppFi</scanner:headline>
+      <scanner:shortName>BNCCORP</scanner:shortName>
+      <scanner:price>31.85</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>BNCC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>OTC</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Stockholders approve merger with OppFi&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Stockholders approved the merger with OppFi, Inc. at a special meeting. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BNCCORP, Inc. operates as the bank holding company for BNC National Bank that provides commercial and retail banking, and wealth management services in the United States. The company offers a range of commercial banking services, such as business financing, commercial real estate lending, small business administration loans, business checking, cash management, corporate credit cards, and merchant services to small to middle-sized businesses.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; OppFi, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $31.85 · Mkt cap $112.2M · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BNCC&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-17&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📍 Stake · TYRA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1863127/000134682426000237/0001346824-26-000237-index.htm</link>
+      <guid isPermaLink="false">0001346824-26-000237</guid>
+      <pubDate>Thu, 17 Sep 2026 15:48:04 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases stake in Tyra Biosciences to 19.9%</scanner:headline>
+      <scanner:shortName>Tyra Biosciences</scanner:shortName>
+      <scanner:price>25.07</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>TYRA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Increases stake in Tyra Biosciences to 19.9%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;RA Capital Management and affiliates increased their beneficial ownership in Tyra Biosciences to 14,130,492 shares, representing 19.9% of common stock, via a Schedule 13D/A amendment. The stake includes shares held directly and via pre-funded warrants, with a beneficial ownership blocker capping ownership at 19.99%.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Tyra Biosciences, Inc., a clinical-stage biotechnology company, develops precision medicines for fibroblast growth factor receptor (FGFR) biology in the United States. The company offers SNÅP, a precision medicine platform that enables drug design through iterative molecular snapshots to predict genetic alterations for developing therapies targeting oncology and genetically defined conditions.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 19.9%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $25.07 · Mkt cap $1.50B · EV $1.15B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1863127/000134682426000237/0001346824-26-000237-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TYRA&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-17&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔐 Going Private · AES</title>
       <link>https://www.sec.gov/Archives/edgar/data/874761/000114036126036994/ef20082051_8k.htm</link>
@@ -13374,60 +13426,6 @@
 &lt;p&gt;&lt;i&gt;Px $5.08 · Mkt cap $670.0M · EV $1.09B · Fwd P/E 8.9x · Fwd EV/EBITDA 2.8x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1928446/000110465926105567/0001104659-26-105567-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GRNT&lt;/b&gt; · SCHEDULE 13D/A · Oil &amp;amp; Gas (1311) · fresh_13d · filed 2026-09-04&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · VNRX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/93314/000149315226041611/0001493152-26-041611-index.htm</link>
-      <guid isPermaLink="false">0001493152-26-041611</guid>
-      <pubDate>Fri, 04 Sep 2026 16:40:31 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Takes 7.4% stake; urges board to cut exec comp</scanner:headline>
-      <scanner:shortName>VOLITIONRX</scanner:shortName>
-      <scanner:price>0.3500</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>VNRX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Takes 7.4% stake; urges board to cut exec comp&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Lagoda Investment Management delivered a letter to VolitionRx&amp;#39;s board on August 17, 2026, expressing support for management and recommending reductions in executive compensation. The fund holds 1,652,005 shares (7.4%) and previously reported on Schedule 13G, now converting to 13D with a control-influencing purpose.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VolitionRx Limited, a multi-national epigenetics company, develops blood tests to help detect and monitor a range of cancers, and diseases associated with NETosis in the United States, Europe, and Asia. The company offers Nu.Q Vet, a cancer screening test for dogs and other animals; Nu.Q Nets, detects diseases associated with NETosis, such as sepsis; Nu.Q Discover, a solution to profiling nucleosomes.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.4%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-17&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.3500 · Mkt cap $5.0M · EV $12.2M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/93314/000149315226041611/0001493152-26-041611-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VNRX&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2835) · fresh_13d · filed 2026-09-04&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · PULM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574235/000149315226041607/forms-4a.htm</link>
-      <guid isPermaLink="false">0001493152-26-041607</guid>
-      <pubDate>Fri, 04 Sep 2026 16:40:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4/A</category>
-      <scanner:headline>Acquires Eos Senolytixs in all-stock merger</scanner:headline>
-      <scanner:shortName>Pulmatrix</scanner:shortName>
-      <scanner:price>1.39</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4/A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>PULM</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Eos Senolytixs in all-stock merger&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is acquiring Eos Senolytixs in an all-stock merger. The S-4/A was filed on September 4, 2026, as Amendment No. 2 to the registration statement. The merger agreement is dated March 26, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Pulmatrix, Inc., a biopharmaceutical company, focused on development of novel inhaled therapeutic products to prevent and treat migraine and respiratory diseases with unmet medical needs in the United States. The company offers iSPERSE, an engineered dry powder delivery platform, which enables delivery of small or large molecule drugs to the lungs by inhalation for local or systemic applications.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Eos Senolytixs Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-03-26&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.39 · Mkt cap $5.0M · EV $3.8M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1574235/000149315226041607/0001493152-26-041607-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PULM&lt;/b&gt; · S-4/A · Chemicals / Pharma (2834) · prefill_form:S-4 · filed 2026-09-04&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
