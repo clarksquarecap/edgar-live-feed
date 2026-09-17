@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 10:03:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:06:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LNTH 🤝 Merger
+Acquired by Curium US Holdings; vote Oct 14
+Mcap $6.6B · EV $6.6B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1521036/000119312526393460/d161716ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-393460</guid>
+      <pubDate>Thu, 17 Sep 2026 05:05:57 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$EMPD ⚔️ Proxy
+Faces ATG Capital proxy contest; AGM Oct 14
+Mcap $83M · EV $135M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826007201/empery_defa14a.htm</link>
+      <guid isPermaLink="false">0001683168-26-006720</guid>
+      <pubDate>Thu, 17 Sep 2026 05:04:16 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$UTMD 💧 Capital Return · Self-tender
 Self-tender for 20% of shares at $75.00 cash
@@ -92,16 +111,6 @@ Mcap $116B · EV $136B · Healthcare</title>
       <guid isPermaLink="false">0001628280-26-061702</guid>
       <pubDate>Wed, 16 Sep 2026 16:36:16 -0500</pubDate>
       <category>SPLIT_OFF</category>
-    </item>
-    <item>
-      <title>$EMPD ⚔️ Proxy
-Court denies Empery's appeal; proxy contest heads to Oct 14 vote
-14.9 stake
-Mcap $83M · EV $135M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000092189526002561/dfan14a13914005_09162026.htm</link>
-      <guid isPermaLink="false">0001683168-26-006720</guid>
-      <pubDate>Wed, 16 Sep 2026 16:36:00 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
     <item>
       <title>$ADIL 🤝 Merger
@@ -556,16 +565,6 @@ Mcap $91M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1739410/000119312526392246/d71655ds4a.htm</link>
       <guid isPermaLink="false">0001193125-26-392246</guid>
       <pubDate>Wed, 16 Sep 2026 05:06:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CCXI 🤝 Merger
-Acquires Agility Robotics in $2.5B SPAC merger
-Mcap $668M · EV $667M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2074973/000121390026100252/ea030561001-425_churchill11.htm</link>
-      <guid isPermaLink="false">0001213900-26-100256</guid>
-      <pubDate>Wed, 16 Sep 2026 05:04:46 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
