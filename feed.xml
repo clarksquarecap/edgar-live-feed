@@ -6,8 +6,37 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 12:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:45:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · FSRL</title>
+      <link>https://www.otcmarkets.com/stock/FSRL/news/535520</link>
+      <guid isPermaLink="false">0001104659-26-108432</guid>
+      <pubDate>Thu, 17 Sep 2026 07:44:47 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>OTC</category>
+      <scanner:headline>Regulatory approvals received for merger with Colony Bankcorp</scanner:headline>
+      <scanner:shortName>First Reliance Bancshares</scanner:shortName>
+      <scanner:price>19.48</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>FSRL</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>8-K, OTC</scanner:filingForms>
+      <scanner:related>CBAN</scanner:related>
+      <description>&lt;p&gt;&lt;b&gt;Regulatory approvals received for merger with Colony Bankcorp&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced that regulatory approvals have been received for its pending merger with Colony Bankcorp. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; First Reliance Bancshares, Inc. operates as the bank holding company for First Reliance Bank that provides banking products and services in North and South Carolina. It provides checking, savings, money market, Christmas and vacation club accounts, and individual retirement accounts, as well as certificates of deposit.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Colony Bankcorp, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $19.48 · Mkt cap $153.8M · Fwd P/E 12.5x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FSRL&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-17&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;OTC · Sep 17 07:44 · &lt;a href='https://www.otcmarkets.com/stock/FSRL/news/535520'&gt;Regulatory approvals received for merger with Colony Bankcorp&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 17 07:37 · &lt;a href='https://www.sec.gov/Archives/edgar/data/711669/000110465926108432/cban-20260917x8k.htm'&gt;Acquires First Reliance for ~$163M; regulatory approvals received; vote Oct 14&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer CBAN also filed 8-K&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🎯 Tender · ACVA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526393827/d160557dsctot.htm</link>
@@ -34,33 +63,6 @@
 &lt;p&gt;&lt;i&gt;Px $10.42 · Mkt cap $1.77B · EV $1.78B · Fwd P/E 25.5x · Fwd EV/EBITDA 13.7x · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526393827/0001193125-26-393827-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACVA&lt;/b&gt; · SC TO-T · Business Services (7389) · prefill_form:SC TO-T · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · CBAN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/711669/000110465926108432/cban-20260917x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-108432</guid>
-      <pubDate>Thu, 17 Sep 2026 07:37:21 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires First Reliance for ~$163M; regulatory approvals received; vote Oct 14</scanner:headline>
-      <scanner:shortName>COLONY BANKCORP</scanner:shortName>
-      <scanner:price>21.06</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>CBAN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires First Reliance for ~$163M; regulatory approvals received; vote Oct 14&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced receipt of all regulatory approvals for its merger with First Reliance Bancshares, valued at approximately $163 million in stock and cash. The special meetings for both companies are scheduled for October 14, 2026, with closing expected November 1, 2026. The combined company will have ~$5B in assets.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Colony Bankcorp, Inc. operates as the bank holding company for Colony Bank that provides various banking products and services to retail and commercial customers in the United States. It operates through Bank, Mortgage Banking, and Small Business Specialty Lending Division segments. The company offers deposit products, including checking, savings, money market, and other deposit options; and treasury solutions, merchant services, and other financial tools that support businesses in managing cash…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; First Reliance Bancshares, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; ~$163 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-11-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote October 14, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $21.06 · Mkt cap $446.9M · Fwd P/E 9.8x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/711669/000110465926108432/0001104659-26-108432-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CBAN&lt;/b&gt; · 8-K · Items 5.02, 8.01, 9.01 · Depository Institutions (6022) · 8k_tier1:8.01 · filed 2026-09-17&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · VBNK</title>

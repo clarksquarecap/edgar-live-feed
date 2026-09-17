@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 12:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:45:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FSRL 🤝 Merger
+Regulatory approvals received for merger with Colony Bankcorp
+Mcap $154M · Financials</title>
+      <link>https://www.otcmarkets.com/stock/FSRL/news/535520</link>
+      <guid isPermaLink="false">0001104659-26-108432</guid>
+      <pubDate>Thu, 17 Sep 2026 07:44:47 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ACVA 🎯 Tender
 Acquires ACV Auctions for $10.50/share cash; expires Sep 30
@@ -17,17 +27,6 @@ Mcap $1.8B · EV $1.8B · Industrials</title>
       <guid isPermaLink="false">0001193125-26-393827</guid>
       <pubDate>Thu, 17 Sep 2026 07:44:05 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$CBAN 🤝 Merger
-Acquires First Reliance for ~$163M; regulatory approvals received; vote Oct 14
-~$163 million deal · cash+stk · close 2026-11-01
-Mcap $447M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/711669/000110465926108432/cban-20260917x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-108432</guid>
-      <pubDate>Thu, 17 Sep 2026 07:37:21 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$VBNK 🤝 Merger
@@ -660,15 +659,6 @@ Mcap $933M · EV $854M · Materials</title>
       <pubDate>Wed, 16 Sep 2026 07:51:43 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NMHI 📤 Divestiture
-Sells Grow Light Division VisionTech Group
-Industrials</title>
-      <link>https://www.otcmarkets.com/stock/NMHI/news/535341</link>
-      <guid isPermaLink="false">OTC-535341</guid>
-      <pubDate>Wed, 16 Sep 2026 07:44:30 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
