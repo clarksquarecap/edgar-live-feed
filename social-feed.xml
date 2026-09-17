@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 20:00:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:06:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HERZ 💧 Capital Return · Self-tender
+Self-tender up to 5% (100,886 sh) at 97.5% NAV; expires Oct 15
+Mcap $31M · EV $31M · Financial Serv</title>
+      <link>https://www.sec.gov/Archives/edgar/data/880406/000165495426008429/herz_scto1.htm</link>
+      <guid isPermaLink="false">0001654954-26-008429</guid>
+      <pubDate>Thu, 17 Sep 2026 15:06:39 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$RARE ⚖️ Litigation · Won
 Receives FDA full approval for FAYUVI (MPS IIIA)
@@ -645,16 +655,6 @@ Mcap $18M · EV $30M · Tech</title>
       <pubDate>Wed, 16 Sep 2026 15:07:27 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$RITR 📉 Delisting · Forced
-Forced Nasdaq delisting; suspension Sept 17
-Mcap $5M · EV $60M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1951229/000121390026100503/ea0305520-6k_reitar.htm</link>
-      <guid isPermaLink="false">0001213900-26-100503</guid>
-      <pubDate>Wed, 16 Sep 2026 15:06:42 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
