@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 20:31:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:33:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XRPN 🤝 Merger
+Adds $30M convertible notes for Pathfinder merger; close Q4 2026
+Mcap $333M · EV $333M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044009/000119312526394370/d141989d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-394370</guid>
+      <pubDate>Thu, 17 Sep 2026 15:33:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Offers 225.4M MiniMed shares (80.1%) for MDT
+Mcap $116B · EV $136B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026062507/mdt-amendedscheduleissuert.htm</link>
+      <guid isPermaLink="false">0001628280-26-062507</guid>
+      <pubDate>Thu, 17 Sep 2026 15:32:42 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
     <item>
       <title>$RGR 👀 Activist
 Launches $44.80/share tender for 2.4M Sturm Ruger shares; stake to ~25%
@@ -700,17 +719,6 @@ Mcap $39B · EV $36B · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-108269</guid>
       <pubDate>Wed, 16 Sep 2026 15:34:22 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NACB 🤝 Merger
-Acquires National Capital Bancorp for $83 cash or 5.2390 shares per share
-$97.8M deal · cash/stk elect
-Mcap $96M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1947463/000110465926108257/tm2621296-3_s4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-108257</guid>
-      <pubDate>Wed, 16 Sep 2026 15:33:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
