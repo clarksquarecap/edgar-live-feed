@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 21:10:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:19:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CHR 🤝 Merger
+Control sold to Lioness Limited; 96.44% voting power transfers
+US$500 deal · cash
+Mcap $4M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1738758/000121390026101022/ea0305782-6k_cheer.htm</link>
+      <guid isPermaLink="false">0001213900-26-101022</guid>
+      <pubDate>Thu, 17 Sep 2026 16:19:12 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VEXTF 🪙 Debt Restr.
 Restructures Ohio seller notes ahead of Dec 2026 maturity
@@ -767,46 +778,6 @@ Mcap $246M · Financials</title>
       <guid isPermaLink="false">0000921895-26-002488</guid>
       <pubDate>Wed, 16 Sep 2026 16:27:23 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$MEDS 🤝 Merger
-Acquires Helomics for 636,328 shares (19.99%) + $1.36M convertible note
-stock · close Closed
-Mcap $5M · EV $35M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2030763/000149315226042951/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042951</guid>
-      <pubDate>Wed, 16 Sep 2026 16:17:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CEPU 💧 Capital Return · Special Div
-Declares ARS 164/share special dividend; sells AbraSilver stake for C$228M
-Mcap $2.2B · EV $2.8B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1717161/000129281426004574/cepu20260916_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004574</guid>
-      <pubDate>Wed, 16 Sep 2026 16:17:27 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$BPRE ⚔️ Proxy
-Launches proxy contest at Bluerock Private Real Estate Fund</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1551047/000090266426003840/p26-1874dfan14a.htm</link>
-      <guid isPermaLink="false">0000902664-26-003840</guid>
-      <pubDate>Wed, 16 Sep 2026 16:16:54 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$TCBK 🤝 Merger
-Acquired by First Hawaiian for 2.095 FHB shares (~$63.12/sh); vote Oct 29
-~$2.0 billion deal · stock
-Mcap $1.7B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/356171/000110465926108313/tm2624984-1_defm14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-108313</guid>
-      <pubDate>Wed, 16 Sep 2026 16:16:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
