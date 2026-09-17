@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 00:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 00:13:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · TVGN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1860871/000112329226001316/0001123292-26-001316-index.htm</link>
+      <guid isPermaLink="false">0001123292-26-001316</guid>
+      <pubDate>Wed, 16 Sep 2026 19:13:45 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Insider Kirti Desai increases stake to 6.3% via 750K restricted shares</scanner:headline>
+      <scanner:shortName>Tevogen</scanner:shortName>
+      <scanner:price>7.80</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>TVGN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Insider Kirti Desai increases stake to 6.3% via 750K restricted shares&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Insider Kirti Desai filed a 13D/A disclosing a 6.3% stake (992,983 shares) after receiving a grant of 750,000 restricted shares on Sept 14, 2026. The shares vest only if Tevogen achieves $1.0 billion in aggregate revenue by Sept 30, 2031, and are subject to forfeiture otherwise. The filing is an amendment to the original 13D from Feb 2024.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Tevogen Inc., a clinical-stage specialty immunotherapy company, develops off-the-shelf, precision T cell therapies for the treatment of infectious diseases, cancers, and other disorders. The company develops TVGN 489, which has completed Phase 1 clinical trial for the treatment of ambulatory high-risk adult COVID-19 patients; and in Phase 1 clinical trial to treat acute SARS-CoV-2 patients with B-cell cancer immune suppression, and other B cell immune suppressed acute SARS-CoV-2 patients with a …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Kirti Desai&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.3%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.80 · Mkt cap $50.5M · EV $67.6M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1860871/000112329226001316/0001123292-26-001316-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TVGN, TVGNW&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2836) · fresh_13d · filed 2026-09-16&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · SRL</title>
       <link>https://www.sec.gov/Archives/edgar/data/16859/000110465926108347/0001104659-26-108347-index.htm</link>
@@ -13381,32 +13408,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1925309/000119312526381960/0001193125-26-381960-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SXSTBDC&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-03&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · WFRD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1603923/000160392326000105/wft-20260903.htm</link>
-      <guid isPermaLink="false">0001603923-26-000105</guid>
-      <pubDate>Thu, 03 Sep 2026 15:40:39 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Shareholders approve redomestication to Delaware; court sanction pending</scanner:headline>
-      <scanner:shortName>Weatherford International</scanner:shortName>
-      <scanner:price>96.41</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>WFRD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Shareholders approve redomestication to Delaware; court sanction pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Shareholders approved the scheme of arrangement to redomesticate from Ireland to Delaware, with 64.0M votes for at the Scheme Meeting and EGM. The redomestication requires sanction by the High Court of Ireland; the company expects to close in Q4 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Weatherford International plc, an energy services company, provides equipment and services for the drilling, evaluation, completion, production, and intervention of oil, geothermal, and natural gas wells worldwide. The company operates through three segments: Drilling and Evaluation; Well Construction and Completions; and Production and Intervention.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Irish High Court sanction hearing&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $96.41 · Mkt cap $7.00B · EV $7.53B · Fwd P/E 15.5x · Fwd EV/EBITDA 6.8x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1603923/000160392326000105/0001603923-26-000105-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WFRD&lt;/b&gt; · 8-K · Items 5.07, 8.01 · Industrial Machinery (3533) · 8k_tier1:8.01 · filed 2026-09-03&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
