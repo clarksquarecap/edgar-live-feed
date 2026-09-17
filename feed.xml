@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 20:17:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:19:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · XBP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1839530/000114036126036981/0001140361-26-036981-index.htm</link>
+      <guid isPermaLink="false">0001140361-26-036981</guid>
+      <pubDate>Thu, 17 Sep 2026 15:19:51 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Receives 13D/A from Avenue Capital; group holds 12.8% stake</scanner:headline>
+      <scanner:shortName>XBP Global</scanner:shortName>
+      <scanner:price>2.83</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>XBP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Avenue Capital; group holds 12.8% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Avenue Capital entities (Avenue RP Opportunities Fund, Avenue Global Dislocation Opportunities Fund, Avenue Global Opportunities Master Fund) disclosed aggregate beneficial ownership of 1,810,789 shares (~12.8%) of XBP Global Holdings common stock in a Schedule 13D/A. No activist agenda or proposed changes stated in the filing.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; XBP Global Holdings, Inc. operates as a technology and services company in the United States, Europe, the Middle East, Africa, and internationally. The company operates through two segments, Applied Workflow Automation and Technology. The Applied Workflow Automation segment provides services powered by AI-enabled workflows for clients’ systems.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Avenue Capital&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 12.8%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.83 · Mkt cap $33.6M · EV $425.8M · Fwd EV/EBITDA 5.0x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1839530/000114036126036981/0001140361-26-036981-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;XBP, XBPEW&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7389) · fresh_13d · filed 2026-09-17&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · AGPU</title>
       <link>https://www.sec.gov/Archives/edgar/data/1446159/000117184326006093/f8k_091626.htm</link>
@@ -13401,33 +13428,6 @@
 &lt;p&gt;&lt;i&gt;Px $34.75 · Mkt cap $319.0M · EV $352.1M · Fwd P/E 94.4x · Fwd EV/EBITDA 19.0x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/714256/000121390026097669/0001213900-26-097669-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SMTI&lt;/b&gt; · DEFM14A · Instruments / Medical Devices (3842) · prefill_form:DEFM14A · filed 2026-09-04&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · LXP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/910108/000110465926105505/tm2624432d1_prem14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-105505</guid>
-      <pubDate>Fri, 04 Sep 2026 15:12:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>PREM14A</category>
-      <scanner:headline>Acquired by Brookfield/CPPIB for $61.20 cash/share; vote pending</scanner:headline>
-      <scanner:shortName>LXP Industrial</scanner:shortName>
-      <scanner:price>60.78</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>PREM14A</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>LXP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>PREM14A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Brookfield/CPPIB for $61.20 cash/share; vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will be acquired by Leopard REIT LLC, jointly owned by Brookfield and CPPIB, for $61.20 per share in cash. The merger agreement was signed July 19, 2026; the board unanimously recommends approval. The consideration represents a 12.3% premium to the 30-day VWAP and a 58% premium to the 52-week low. A special shareholder meeting will be held to vote on the merger.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; LXP Industrial Trust is a publicly traded real estate investment trust (REIT) focused on Class A warehouse and distribution investments in 12 target markets across the Sunbelt and lower Midwest. LXP seeks to expand its warehouse and distribution portfolio through acquisitions, build-to-suit transactions, sale-leaseback transactions, development projects and other transactions. LXP Industrial Trust was incorporated in 1993 and is based in West Palm Beach, United States.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Leopard REIT LLC (Brookfield/CPPIB)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 61.20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 12.3%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-19&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $60.78 · Mkt cap $3.58B · EV $5.04B · Fwd EV/EBITDA 19.2x · Real Estate / Industrial REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/910108/000110465926105505/0001104659-26-105505-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LXP, LXP-PC&lt;/b&gt; · PREM14A · Holding / Investment Offices (6798) · prefill_form:PREM14A · filed 2026-09-04&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
