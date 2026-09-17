@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 20:34:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:36:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HCWC 🤝 Merger
+Completes reverse merger with Host DI; legacy owners hold 96.4%
+stock
+Mcap $13M · EV $27M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1948864/000149315226043135/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-043135</guid>
+      <pubDate>Thu, 17 Sep 2026 15:36:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$REXR 📤 Divestiture
 Sells 22-property industrial portfolio to EQT Real Estate for $1.2B
@@ -729,15 +740,6 @@ Mcap $595M · EV $479M · Cons Disc</title>
       <pubDate>Wed, 16 Sep 2026 15:52:22 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NSLR 📍 Stake
-Faces Gabelli 13D/A; group holds ~7.1% of NSLR
-Mcap $209M · EV $259M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1509470/000080724926000084/0000807249-26-000084-index.htm</link>
-      <guid isPermaLink="false">0000807249-26-000084</guid>
-      <pubDate>Wed, 16 Sep 2026 15:34:59 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
