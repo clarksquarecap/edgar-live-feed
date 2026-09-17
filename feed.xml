@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 21:34:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 22:13:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · SHAZ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2068385/000093583626000500/0000935836-26-000500-index.htm</link>
+      <guid isPermaLink="false">0000935836-26-000500</guid>
+      <pubDate>Thu, 17 Sep 2026 17:13:08 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Boosts stake to 21.1% via pre-funded warrant exercise</scanner:headline>
+      <scanner:shortName>SharonAI Holdings</scanner:shortName>
+      <scanner:price>56.72</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>SHAZ</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Boosts stake to 21.1% via pre-funded warrant exercise&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Situational Awareness LP and affiliates exercised pre-funded warrants for 2,674,823 shares, raising their aggregate stake in SharonAI Holdings to 8,070,950 shares (21.1% of Class A common). The group now holds 21.1% of the outstanding Class A shares.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SharonAI Holdings Inc. operates as a computing company specializing in accelerated compute platforms, AI infrastructure, and cloud GPU environments. It operates through a hybrid model that combines deployment in data centers with the development of its data center facilities in strategic locations. Its platform integrates compute, storage, networking, and automation into a unified enterprise solution serving AI labs, hyperscale customers, research institutions, and regulated industries.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 21.1%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $56.72 · Mkt cap $1.87B · EV $1.02B · Fwd EV/EBITDA 3.1x · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2068385/000093583626000500/0000935836-26-000500-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SHAZ, SHAZW&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7374) · fresh_13d · filed 2026-09-17&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚔️ Proxy Contest · EMPD</title>
       <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826007219/empery_defa14a.htm</link>
@@ -13404,33 +13431,6 @@
 &lt;p&gt;&lt;i&gt;Px $102.05 · Mkt cap $25.91B · EV $24.20B · Fwd P/E 59.1x · Fwd EV/EBITDA 23.5x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1876042/000187604226000267/0001876042-26-000267-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CRCL&lt;/b&gt; · 8-K · Items 1.01, 3.02, 7.01, 9.01 · Non-Depository Credit (6199) · 8k_tier1:1.01,7.01 · filed 2026-09-08&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · LNTH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1521036/000119312526384284/d180727ddefm14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-384284</guid>
-      <pubDate>Tue, 08 Sep 2026 05:08:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFM14A</category>
-      <scanner:headline>Acquired by Curium for $102.50 cash + CVR; vote Oct 14</scanner:headline>
-      <scanner:shortName>Lantheus Holdings</scanner:shortName>
-      <scanner:price>100.97</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFM14A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>LNTH</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFM14A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Curium for $102.50 cash + CVR; vote Oct 14&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Agreed to be acquired by Curium US Holdings LLC for $102.50 per share in cash plus a contingent value right (CVR) of up to $12.00 per share upon achievement of commercial milestones. The special meeting to approve the merger is scheduled for October 14, 2026; the board unanimously recommends a vote FOR. The merger is expected to close after shareholder approval and regulatory clearances.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lantheus Holdings, Inc. develops, manufactures, and commercializes diagnostic and therapeutic products that assist clinicians in diagnosis and treatment of heart, cancer, and other diseases worldwide. The company offers DEFINITY, an injectable ultrasound enhancing agent used in echocardiography exams; TechneLite, a technetium generator for nuclear medicine procedures; Xenon-133, a radiopharmaceutical gas to assess pulmonary function; Neurolite, an injectable imaging agent to identify the area wi…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Curium US Holdings LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; $102.50 cash + CVR&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-03&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; after Oct 14, 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote on Oct 14, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $100.97 · Mkt cap $6.59B · EV $6.62B · Fwd P/E 17.7x · Fwd EV/EBITDA 10.8x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1521036/000119312526384284/0001193125-26-384284-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LNTH&lt;/b&gt; · DEFM14A · Chemicals / Pharma (2835) · prefill_form:DEFM14A · filed 2026-09-08&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
