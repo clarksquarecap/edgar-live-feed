@@ -6,8 +6,34 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 20:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:08:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FBLG 📍 Stake
+Receives 13D from CSO for 7.5% stake
+Mcap $10M · EV $8M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1958777/000149315226043112/0001493152-26-043112-index.htm</link>
+      <guid isPermaLink="false">0001493152-26-043112</guid>
+      <pubDate>Thu, 17 Sep 2026 15:08:07 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$ANY 🌍 Re-domicile
+Reincorporates in British Columbia; ticker changes to DRK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1591956/000121390026100953/ea0305703-8k_darkhorse.htm</link>
+      <guid isPermaLink="false">0001213900-26-100953</guid>
+      <pubDate>Thu, 17 Sep 2026 15:07:38 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
+    <item>
+      <title>$G 🌍 Re-domicile
+Domesticates from Bermuda to Delaware; vote at special meeting
+Mcap $5.9B · EV $6.8B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1398659/000114036126036971/ny20078357x2_s4a.htm</link>
+      <guid isPermaLink="false">0001140361-26-036971</guid>
+      <pubDate>Thu, 17 Sep 2026 15:07:08 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$HERZ 💧 Capital Return · Self-tender
 Self-tender up to 5% (100,886 sh) at 97.5% NAV; expires Oct 15
@@ -635,26 +661,6 @@ Mcap $560M · EV $3.0B · Real Estate</title>
       <guid isPermaLink="false">0001717547-26-000065</guid>
       <pubDate>Wed, 16 Sep 2026 15:24:49 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$INVE 📤 Divestiture
-Sells IoT business to Trackonomy for $50M preferred stock
-to Trackonomy Systems</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1036044/000119312526393037/d180859d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-393037</guid>
-      <pubDate>Wed, 16 Sep 2026 15:07:51 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$VEEA 🤝 Merger · Preliminary
-Signs non-binding term sheet to combine with NovaGen; ~$750M combined value
-NovaGen Group B.V.
-Mcap $18M · EV $30M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840317/000121390026100507/ea0305721-8k_veea.htm</link>
-      <guid isPermaLink="false">0001213900-26-100507</guid>
-      <pubDate>Wed, 16 Sep 2026 15:07:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
