@@ -6,25 +6,25 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 21:26:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:27:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
       <title>🧬 Spin-Off · MOD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/67347/000110465926108615/tm2625565d2_425.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/67347/000110465926108614/tm2625565d1_8k.htm</link>
       <guid isPermaLink="false">0001104659-26-108615</guid>
-      <pubDate>Thu, 17 Sep 2026 16:26:39 -0500</pubDate>
+      <pubDate>Thu, 17 Sep 2026 16:27:29 -0500</pubDate>
       <category>SPIN_OFF</category>
       <category>acquisition</category>
-      <category>425</category>
-      <scanner:headline>Spins off Performance Technologies; record date Sept 28, merger with Gentherm Oct 1</scanner:headline>
+      <category>8-K</category>
+      <scanner:headline>Spins off Performance Technologies; $159M cash distribution; Gentherm merger Oct 1</scanner:headline>
       <scanner:shortName>MODINE MANUFACTURING CO</scanner:shortName>
       <scanner:price>184.86</scanner:price>
       <scanner:subtype />
-      <scanner:form>425</scanner:form>
+      <scanner:form>8-K</scanner:form>
       <scanner:sector>Industrials</scanner:sector>
       <scanner:ticker>MOD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425, 8-K</scanner:filingForms>
       <scanner:related />
       <description>&lt;p&gt;&lt;b&gt;Spins off Performance Technologies; record date Sept 28, merger with Gentherm Oct 1&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Company set September 28, 2026 as the record date for the spin-off of its Performance Technologies business (SpinCo) to Modine shareholders, with distribution expected on October 1, 2026. Immediately following the spin-off, SpinCo will merge with Gentherm, completing a Reverse Morris Trust transaction. The exchange ratio will be increased, resulting in Gentherm issuing approximately 2,902,466 additional shares; the cash distribution to Modine is reduced from $210M to $159M, and Gentherm will pay a special cash dividend of ~$58.35M ($1.90/share) to its shareholders.&lt;/p&gt;
@@ -33,7 +33,63 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Distribution and merger expected Oct 1, 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $184.86 · Mkt cap $9.62B · EV $10.21B · Fwd P/E 21.4x · Fwd EV/EBITDA 13.4x · Industrials / Building Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/67347/000110465926108615/0001104659-26-108615-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MOD&lt;/b&gt; · 425 · Transportation Equipment (3714) · prefill_form:425 · filed 2026-09-17&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MOD&lt;/b&gt; · 425 · Transportation Equipment (3714) · prefill_form:425 · filed 2026-09-17&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 17 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/67347/000110465926108614/tm2625565d1_8k.htm'&gt;Spins off Performance Technologies; $159M cash distribution; Gentherm merger Oct 1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 17 16:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/67347/000110465926108615/tm2625565d2_425.htm'&gt;Spins off Performance Technologies; record date Sept 28, merger with Gentherm Oct 1&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>⚖️ Litigation · Settled · MEDS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030763/000149315226043169/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-043169</guid>
+      <pubDate>Thu, 17 Sep 2026 16:27:05 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+      <category>8-K</category>
+      <scanner:headline>Settles MIPA litigation for $450K; extinguishes ~$19M liability</scanner:headline>
+      <scanner:shortName>DataMeds AI</scanner:shortName>
+      <scanner:price>6.07</scanner:price>
+      <scanner:subtype>settled</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>MEDS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Settles MIPA litigation for $450K; extinguishes ~$19M liability&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Settled litigation with Brian Norton, RxERP, Nomad Capital and Strategix Global related to the 2023 Membership Interest Purchase Agreement. Paid $450,000; $350,000 to repurchase and extinguish 364,099 shares of common stock and $100,000 to settle MIPA claims. Anticipates extinguishing approximately $19 million in liability; parties dismissed Florida and Delaware litigation with prejudice.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; DataMEDS AI, Inc. operates as a health IT company in the United States. The company focuses on the vertical integration of technology, pharmacy, pharmaceutical-adjacent, and telemedicine business units to deliver an enhanced healthcare experience for consumers. It offers tools, such as the EinsteinRx, a pharmacy dispensing AI platform; the PharmacyChain, a smart contracts platform; Patient Rx Adherence Tool; and HubRx AI.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Brian Norton, RxERP, Nomad Capital, Strategix Global&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $450,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Dismissal of Florida and Delaware litigation with prejudice&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $6.07 · Mkt cap $5.0M · EV $35.1M · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2030763/000149315226043169/0001493152-26-043169-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MEDS&lt;/b&gt; · 8-K · Items 8.01 · Wholesale; Nondurable (5122) · 8k_tier1:8.01 · filed 2026-09-17&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🧭 Domicile · VBNK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1690639/000106299326005004/form6k.htm</link>
+      <guid isPermaLink="false">0001062993-26-005004</guid>
+      <pubDate>Thu, 17 Sep 2026 16:26:58 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Shareholders approve reorganization into Delaware holding company</scanner:headline>
+      <scanner:shortName>VersaBank</scanner:shortName>
+      <scanner:price>22.62</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>VBNK</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Shareholders approve reorganization into Delaware holding company&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Shareholders voted 99.69% in favor of the reorganization creating Versa Bancorp, a new Delaware corporation, as the direct holding company of the Bank. The reorganization is targeted for completion by end of October 2026, subject to regulatory approvals from the Canadian Minister of Finance and the US Federal Reserve Board.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VersaBank provides various banking products and services in Canada and the United States. The company operates through four segments: Digital Banking Canada, Digital Banking USA, DRTC (Cybersecurity), and Digital Meteor. It offers deposit products, such as guaranteed investment certificates, registered retirement savings plans, and tax-free savings accounts, as well as deposit insurance products.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Versa Bancorp&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Regulatory approvals (Minister of Finance Canada, Federal Reserve Board)&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $22.62 · Mkt cap $735.5M · Fwd P/E 13.6x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1690639/000106299326005004/0001062993-26-005004-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VBNK&lt;/b&gt; · 6-K · Depository Institutions (6029) · prefill_form:6-K · filed 2026-09-17&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · CHR</title>
@@ -13375,58 +13431,6 @@
 &lt;p&gt;&lt;i&gt;Px $100.97 · Mkt cap $6.59B · EV $6.62B · Fwd P/E 17.7x · Fwd EV/EBITDA 10.8x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1521036/000119312526384284/0001193125-26-384284-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LNTH&lt;/b&gt; · DEFM14A · Chemicals / Pharma (2835) · prefill_form:DEFM14A · filed 2026-09-08&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Rumor Response · BHP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/811809/000119312526383926/d110944d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-383926</guid>
-      <pubDate>Tue, 08 Sep 2026 05:02:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>rumor_response</category>
-      <category>6-K</category>
-      <scanner:headline>Responds to WAIO partnership speculation</scanner:headline>
-      <scanner:shortName>BHP Group</scanner:shortName>
-      <scanner:price>90.42</scanner:price>
-      <scanner:subtype>rumor_response</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>BHP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Responds to WAIO partnership speculation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Responded to media speculation about a potential partnership involving part of its Western Australia Iron Ore (WAIO) business. BHP stated it regularly explores options that may create long-term value and reaffirmed that WAIO remains central to its portfolio and that it remains fully committed to WAIO and Western Australia. No specific counterparty or terms were disclosed.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BHP Group Limited operates as a resources company in Australia, Europe, China, Japan, India, South Korea, rest of Asia, North America, and South America. The company operates through three segments: Copper, Iron Ore, and Coal. It explores for copper, iron, steelmaking coal, energy coal, nickel, potash, cobalt, sulphide, ammonium sulphate, silver, gold, molybdenum, uranium, and zinc deposits.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Px $90.42 · Mkt cap $230.87B · EV $246.79B · Fwd P/E 17.5x · Fwd EV/EBITDA 7.6x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/811809/000119312526383926/0001193125-26-383926-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BHP, BHPLF&lt;/b&gt; · 6-K · Metal Mining (1000) · prefill_form:6-K · filed 2026-09-08&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BORAY</title>
-      <link>https://bora-corp.com/bora-group-to-acquire-macrogenics-gmp-manufacturing-operations/</link>
-      <guid isPermaLink="false">OTC-534183</guid>
-      <pubDate>Mon, 07 Sep 2026 06:21:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>OTC</category>
-      <scanner:headline>Acquires MacroGenics' GMP manufacturing ops for $122.5M cash</scanner:headline>
-      <scanner:shortName>Bora Pharmaceuticals</scanner:shortName>
-      <scanner:price>2.74</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>BORAY</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires MacroGenics&amp;#39; GMP manufacturing ops for $122.5M cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will acquire MacroGenics&amp;#39; GMP manufacturing operations, including the CDMO business, for $122.5M cash plus up to $5M contingent consideration. The deal includes a biologics drug substance facility in Rockville, MD and a warehouse in Frederick, MD. Bora expects to assume a substantial backlog and scale its Bora Biologics platform.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Bora Pharmaceuticals Co., Ltd. engages in contract development, manufacture, and sale of pharmaceuticals in Europe, the United States, Taiwan, and internationally. The company operates through Sales, CDMO, and Other segments. It manufactures and sells generic, brand, and over the counter (OTC) drugs. The company also offers contract development and manufacturing services and technical services for the development of pharmaceutical products.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; MacroGenics, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; US$122.5M + up to $5M contingent&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-12&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.74 · Mkt cap $1.67B · EV $2.17B · Fwd P/E 13.1x · Fwd EV/EBITDA 9.9x · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/BORAY/news/534183'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BORAY&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-07&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,16 +6,35 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 21:26:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:27:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$MOD 🪓 Spinoff
-Spins off Performance Technologies; record date Sept 28, merger with Gentherm Oct 1
+Spins off Performance Technologies; $159M cash distribution; Gentherm merger Oct 1
 Mcap $9.6B · EV $10B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/67347/000110465926108615/tm2625565d2_425.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/67347/000110465926108614/tm2625565d1_8k.htm</link>
       <guid isPermaLink="false">0001104659-26-108615</guid>
-      <pubDate>Thu, 17 Sep 2026 16:26:39 -0500</pubDate>
+      <pubDate>Thu, 17 Sep 2026 16:27:29 -0500</pubDate>
       <category>SPIN_OFF</category>
+    </item>
+    <item>
+      <title>$MEDS ⚖️ Litigation · Settled
+Settles MIPA litigation for $450K; extinguishes ~$19M liability
+Mcap $5M · EV $35M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030763/000149315226043169/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-043169</guid>
+      <pubDate>Thu, 17 Sep 2026 16:27:05 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
+    <item>
+      <title>$VBNK 🌍 Re-domicile
+Shareholders approve reorganization into Delaware holding company
+Mcap $736M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1690639/000106299326005004/form6k.htm</link>
+      <guid isPermaLink="false">0001062993-26-005004</guid>
+      <pubDate>Thu, 17 Sep 2026 16:26:58 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
     </item>
     <item>
       <title>$CHR 🤝 Merger
@@ -777,16 +796,6 @@ Mcap $3M · EV $4M · Tech</title>
       <pubDate>Wed, 16 Sep 2026 16:28:11 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces Garg Group consent solicitation to remove 5 directors; deadline Sept 18
-Vishal Garg / Garg
-Mcap $246M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002560/dfan14a14909002_09162026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002488</guid>
-      <pubDate>Wed, 16 Sep 2026 16:27:23 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
