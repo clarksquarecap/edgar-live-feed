@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 20:46:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:47:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AES 📦 Going Private
+PUCO approves Horizon Parent take-private; close pending
+Horizon Parent, L.P.
+Mcap $11B · EV $50B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/874761/000114036126036994/ef20082051_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-036994</guid>
+      <pubDate>Thu, 17 Sep 2026 15:47:35 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
+    <item>
+      <title>$PULM 🤝 Merger
+Acquires Eos Senolytixs in merger; S-4/A filed
+Mcap $5M · EV $4M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574235/000149315226043145/forms-4a.htm</link>
+      <guid isPermaLink="false">0001493152-26-043145</guid>
+      <pubDate>Thu, 17 Sep 2026 15:46:47 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Exchanges up to 225.4M MiniMed shares for MDT in split-off
+Mcap $116B · EV $136B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026062544/a425-mdtwebsitex91726.htm</link>
+      <guid isPermaLink="false">0001628280-26-062507</guid>
+      <pubDate>Thu, 17 Sep 2026 15:46:27 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
     <item>
       <title>$RGS 🤝 Merger
 Acquired in pending merger; proxy supplement filed
@@ -77,15 +106,6 @@ Mcap $8.6B · EV $12B · Real Estate</title>
       <guid isPermaLink="false">0001571283-26-000051</guid>
       <pubDate>Thu, 17 Sep 2026 15:34:24 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$MDT 🪓 Split-off
-Offers up to 225.4M MiniMed shares for MDT shares
-Mcap $116B · EV $136B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026062505/mdt-20260917.htm</link>
-      <guid isPermaLink="false">0001628280-26-062507</guid>
-      <pubDate>Thu, 17 Sep 2026 15:34:18 -0500</pubDate>
-      <category>SPLIT_OFF</category>
     </item>
     <item>
       <title>$PDS 💧 Capital Return · Buyback
