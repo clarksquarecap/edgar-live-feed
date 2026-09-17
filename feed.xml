@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 00:48:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:03:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Self Tender · UTMD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/706698/000109690626001373/utmd_sctoc.htm</link>
+      <guid isPermaLink="false">0001096906-26-001373</guid>
+      <pubDate>Thu, 17 Sep 2026 05:03:45 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+      <category>SC TO-C</category>
+      <scanner:headline>Self-tender for 20% of shares at $75.00 cash</scanner:headline>
+      <scanner:shortName>UTAH MEDICAL PRODUCTS</scanner:shortName>
+      <scanner:price>74.06</scanner:price>
+      <scanner:subtype>self_tender</scanner:subtype>
+      <scanner:form>SC TO-C</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>UTMD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC TO-C</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Self-tender for 20% of shares at $75.00 cash&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Offers to repurchase up to 650,000 shares (approx. 20% of outstanding) at $75.00 per share, a 17% premium over the 12-month average. Tender commences Sept 22, expires Oct 7 unless extended. Over-subscribed shares purchased odd-lot first, then pro rata; no minimum condition.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Utah Medical Products, Inc. offers medical devices for the healthcare industry in the United States, Europe, and internationally. It offers fetal monitoring accessories, vacuum-assisted delivery systems, and other labor and delivery tools; DISPOSA-HOOD infant respiratory hoods; and DELTRAN PLUS blood pressure monitoring systems.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; 75.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 48750000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 20%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-07&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Tender expires Oct 7&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $74.06 · Mkt cap $235.8M · EV $148.5M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/706698/000109690626001373/0001096906-26-001373-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UTMD&lt;/b&gt; · SC TO-C · Instruments / Medical Devices (3841) · prefill_form:SC TO-C · filed 2026-09-17&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · FTFT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1066923/000121390026100660/0001213900-26-100660-index.htm</link>
@@ -13385,32 +13412,6 @@
 &lt;p&gt;&lt;i&gt;Px $103.13 · Mkt cap $1.51B · EV $1.51B · Financials / Insurance&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1172052/000110465926105083/0001104659-26-105083-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SAFT&lt;/b&gt; · PREM14A · Insurance (6331) · prefill_form:PREM14A · filed 2026-09-03&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · VNOM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2074176/000110465926105077/0001104659-26-105077-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-105077</guid>
-      <pubDate>Thu, 03 Sep 2026 15:43:40 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Increases Viper Energy stake to 42.9% after purchase agreement closes</scanner:headline>
-      <scanner:shortName>Viper Energy</scanner:shortName>
-      <scanner:price>44.86</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>VNOM</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Increases Viper Energy stake to 42.9% after purchase agreement closes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Diamondback Energy closed its previously disclosed purchase agreement on September 1, 2026, acquiring 3,815,459 OpCo units and an equivalent number of Viper Energy Class B shares. This raises Diamondback&amp;#39;s beneficial ownership to 42.9% of Viper&amp;#39;s Class A common stock (including exchangeable Class B shares).&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Viper Energy, Inc. owns, acquires, and exploits oil and natural gas properties in North America. It focuses on owning and acquiring mineral and royalty interests in the Permian Basin. Viper Energy, Inc. was formerly known as Viper Energy Partners LP and changed its name to Viper Energy, Inc. in November 2023. Viper Energy, Inc. was founded in 2013 and is based in Midland, Texas. Viper Energy, Inc. operates as a subsidiary of Diamondback Energy, Inc.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 42.9%&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $44.86 · Mkt cap $8.77B · EV $15.62B · Fwd P/E 16.6x · Fwd EV/EBITDA 7.2x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2074176/000110465926105077/0001104659-26-105077-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VNOM&lt;/b&gt; · SCHEDULE 13D/A · Oil &amp;amp; Gas (1311) · fresh_13d · filed 2026-09-03&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

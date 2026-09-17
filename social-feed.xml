@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 01:47:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:03:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$UTMD 💧 Capital Return · Self-tender
+Self-tender for 20% of shares at $75.00 cash
+Mcap $236M · EV $148M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/706698/000109690626001373/utmd_sctoc.htm</link>
+      <guid isPermaLink="false">0001096906-26-001373</guid>
+      <pubDate>Thu, 17 Sep 2026 05:03:45 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$FTFT 📍 Stake
 Increases stake to 32.5% via $10M private placement
@@ -558,23 +568,6 @@ Mcap $668M · EV $667M · Financials</title>
       <pubDate>Wed, 16 Sep 2026 05:04:46 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MSGR 🪓 Spinoff
-Spin-off from MSG Sports; 1-for-2 distribution; NYSE: MSGR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2132873/000119312526392242/d127770d1012ba.htm</link>
-      <guid isPermaLink="false">0001193125-26-392242</guid>
-      <pubDate>Wed, 16 Sep 2026 05:03:50 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$BHR ⚔️ Proxy
-Nominates 5-director slate at Braemar; AGM Nov 13
-Mcap $128M · EV $1.2B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000139834426017029/fp0100879-1_dfan14a.htm</link>
-      <guid isPermaLink="false">0001398344-26-016786</guid>
-      <pubDate>Wed, 16 Sep 2026 05:03:18 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
