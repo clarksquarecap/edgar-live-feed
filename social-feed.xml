@@ -6,8 +6,39 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 10:14:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:17:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LUCMF 🤝 Merger
+Definitive agreement to acquire El Barqueño from Agnico Eagle
+Mcap $214M · EV $241M · Materials</title>
+      <link>https://www.otcmarkets.com/stock/LUCMF/news/535458</link>
+      <guid isPermaLink="false">OTC-535458</guid>
+      <pubDate>Thu, 17 Sep 2026 05:17:43 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$YI 🤝 Merger · Unsolicited
+Unsolicited $4.52/ADS go-private bid from co-founders + sponsor
+cash
+Mcap $30M · EV $152M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1738906/000095010326014068/dp253510_6k.htm</link>
+      <guid isPermaLink="false">0000950103-26-014068</guid>
+      <pubDate>Thu, 17 Sep 2026 05:15:40 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
+    <item>
+      <title>$SNY 📤 Divestiture
+Sells 20 mature medicines and 3 sites to Cheplapharm for 26.4% stake
+close Q3 2027
+Mcap $102B · EV $122B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1121404/000119312526393653/d517247d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-393653</guid>
+      <pubDate>Thu, 17 Sep 2026 05:15:20 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CRTG 🌑 Going Dark
 Voluntarily deregisters with SEC; 86 holders
@@ -573,16 +604,6 @@ Mcap $75B · EV $83B · Financials</title>
       <pubDate>Wed, 16 Sep 2026 05:19:45 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TCOM ⚖️ Litigation · Lost
-Fined RMB5.2B by SAMR anti-monopoly penalty
-Mcap $25B · EV $18B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1269238/000119312526392473/d167816d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-392473</guid>
-      <pubDate>Wed, 16 Sep 2026 05:17:37 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
     </item>
   </channel>
 </rss>
