@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 21:02:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 21:10:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VEXTF 🪙 Debt Restr.
+Restructures Ohio seller notes ahead of Dec 2026 maturity
+Mcap $47M · EV $77M · Healthcare</title>
+      <link>https://www.otcmarkets.com/stock/VEXTF/news/535583</link>
+      <guid isPermaLink="false">OTC-535583</guid>
+      <pubDate>Thu, 17 Sep 2026 16:10:04 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$ACGC 🤝 Merger
 Acquires May Mobility; $120M PIPE committed
@@ -798,16 +807,6 @@ Mcap $1.7B · Financials</title>
       <pubDate>Wed, 16 Sep 2026 16:16:10 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ACDC 📤 Divestiture
-Sells 2.3M Flotek shares to Wilks affiliates for $60M debt cancellation
-$60,000,000 deal
-Mcap $883M · EV $2.3B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1881487/000110465926108302/tm2625564d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-108302</guid>
-      <pubDate>Wed, 16 Sep 2026 16:08:49 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
