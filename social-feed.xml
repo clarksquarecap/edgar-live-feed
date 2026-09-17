@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 17 Sep 2026 12:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:37:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CBAN 🤝 Merger
+Acquires First Reliance for ~$163M; regulatory approvals received; vote Oct 14
+~$163 million deal · cash+stk · close 2026-11-01
+Mcap $447M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/711669/000110465926108432/cban-20260917x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-108432</guid>
+      <pubDate>Thu, 17 Sep 2026 07:37:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$VBNK 🤝 Merger
 Shareholders approve reorganization resolution (99.69% FOR)
@@ -648,14 +659,6 @@ Industrials</title>
       <guid isPermaLink="false">OTC-535341</guid>
       <pubDate>Wed, 16 Sep 2026 07:44:30 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BPRE 👀 Activist
-Launches FireBluerock campaign to oust Bluerock board</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1551047/000090266426003831/p26-1834dfan14a.htm</link>
-      <guid isPermaLink="false">0000902664-26-003831</guid>
-      <pubDate>Wed, 16 Sep 2026 07:36:35 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
