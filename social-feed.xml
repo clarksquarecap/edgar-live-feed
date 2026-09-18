@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 20:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:54:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EAF 📍 Stake
+Reports 8.5% stake in EAF
+Mcap $209M · EV $1.3B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/931148/000194476126000004/0001944761-26-000004-index.htm</link>
+      <guid isPermaLink="false">0001944761-26-000004</guid>
+      <pubDate>Fri, 18 Sep 2026 15:54:21 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Offers to exchange up to 225.4M MiniMed shares for MDT shares
+Mcap $116B · EV $136B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026062753/a425-mdtwebsitex91826.htm</link>
+      <guid isPermaLink="false">0001628280-26-062507</guid>
+      <pubDate>Fri, 18 Sep 2026 15:53:53 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
     <item>
       <title>$ATEX 💧 Capital Return · Buyback
 Authorizes $250M buyback; runs to Sept 2029
@@ -572,64 +590,6 @@ Mcap $83M · EV $135M · Cons Disc</title>
       <guid isPermaLink="false">0000921895-26-002572</guid>
       <pubDate>Thu, 17 Sep 2026 15:54:32 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$BNCC 🤝 Merger
-Stockholders approve merger with OppFi
-Mcap $112M · Financials</title>
-      <link>https://www.otcmarkets.com/stock/BNCC/news/535582</link>
-      <guid isPermaLink="false">OTC-535582</guid>
-      <pubDate>Thu, 17 Sep 2026 15:48:12 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TYRA 📍 Stake
-Increases stake in Tyra Biosciences to 19.9%
-Mcap $1.5B · EV $1.1B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1863127/000134682426000237/0001346824-26-000237-index.htm</link>
-      <guid isPermaLink="false">0001346824-26-000237</guid>
-      <pubDate>Thu, 17 Sep 2026 15:48:04 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$AES 📦 Going Private
-PUCO approves Horizon Parent take-private; close pending
-Horizon Parent, L.P.
-Mcap $11B · EV $50B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/874761/000114036126036994/ef20082051_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-036994</guid>
-      <pubDate>Thu, 17 Sep 2026 15:47:35 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$PULM 🤝 Merger
-Acquires Eos Senolytixs in merger; S-4/A filed
-Mcap $5M · EV $4M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574235/000149315226043145/forms-4a.htm</link>
-      <guid isPermaLink="false">0001493152-26-043145</guid>
-      <pubDate>Thu, 17 Sep 2026 15:46:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MDT 🪓 Split-off
-Exchanges up to 225.4M MiniMed shares for MDT in split-off
-Mcap $116B · EV $136B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026062544/a425-mdtwebsitex91726.htm</link>
-      <guid isPermaLink="false">0001628280-26-062507</guid>
-      <pubDate>Thu, 17 Sep 2026 15:46:27 -0500</pubDate>
-      <category>SPLIT_OFF</category>
-    </item>
-    <item>
-      <title>$RGS 🤝 Merger
-Acquired in pending merger; proxy supplement filed
-Mcap $69M · EV $344M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/716643/000114036126036995/ny20079436x2_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-036995</guid>
-      <pubDate>Thu, 17 Sep 2026 15:46:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
