@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 20:21:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:28:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SUNS 🤝 Merger
+Acquires Southern Realty Trust for 1.45 SUNS shares + $0.05 cash per SRT share
+cash+stk · close Q4 2026
+Mcap $101M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2012706/000114036126037128/ny20081383x2_defm14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-037128</guid>
+      <pubDate>Fri, 18 Sep 2026 15:28:05 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$IRDM 🤝 Merger
 Acquired by Rocket Lab for $54.00/share; vote Sept 24
@@ -609,16 +620,6 @@ Mcap $333M · EV $333M · Financials</title>
       <pubDate>Thu, 17 Sep 2026 15:33:15 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$RGR 👀 Activist
-Launches $44.80/share tender for 2.4M Sturm Ruger shares; stake to ~25%
-9.93 stake
-Mcap $595M · EV $479M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/95029/000092189526002570/0000921895-26-002570-index.htm</link>
-      <guid isPermaLink="false">0000921895-26-002570</guid>
-      <pubDate>Thu, 17 Sep 2026 15:24:04 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
