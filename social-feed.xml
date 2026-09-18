@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 20:16:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:19:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SOBR 💥 Busted M&amp;A
+Terminates merger with Clean World Ventures; mutual release
+Mcap $2M · EV $2M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1425627/000147793226005700/sobr_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-005700</guid>
+      <pubDate>Fri, 18 Sep 2026 15:19:20 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
+    <item>
+      <title>$AVXL ⚔️ Proxy
+Launches proxy contest for 6 seats at Anavex; Glass Lewis supports GOLD card
+Mcap $243M · EV $125M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226043345/formdfan14a.htm</link>
+      <guid isPermaLink="false">0001493152-26-042718</guid>
+      <pubDate>Fri, 18 Sep 2026 15:16:48 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
+    <item>
+      <title>$MG 🤝 Merger
+Acquired by H.I.G. Capital for $20.35/share cash; go-shop 40 days
+cash
+Mcap $631M · EV $854M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1436126/000114036126037117/ef20082419_defa14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-037117</guid>
+      <pubDate>Fri, 18 Sep 2026 15:16:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$LXP 🤝 Merger
 Acquired by Brookfield/CPPIB for $61.20 cash/share; vote Oct 26
@@ -539,47 +568,6 @@ Mcap $34M · EV $426M · Financials</title>
       <guid isPermaLink="false">0001140361-26-036981</guid>
       <pubDate>Thu, 17 Sep 2026 15:19:51 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$AGPU 📤 Divestiture
-Sells Helomics to DataMeds for 636,328 MEDS shares + $1.36M convertible note
-to DataMeds AI
-Mcap $127M · EV $107M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1446159/000117184326006093/f8k_091626.htm</link>
-      <guid isPermaLink="false">0001171843-26-006093</guid>
-      <pubDate>Thu, 17 Sep 2026 15:17:42 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$LOOP 🔎 Strat Review · Strat Alts
-Forms Strategic Alternatives Committee; weighs sale, merger, going-private
-Mcap $23M · EV $25M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1504678/000143774926030685/loop20260917_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-030685</guid>
-      <pubDate>Thu, 17 Sep 2026 15:17:31 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$LXFR 🤝 Merger
-Acquired by Wynnchurch for $17.37 cash/share; vote Nov 4
-cash · close Q4 2026
-Mcap $460M · EV $518M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1096056/000207709626000260/ea0303080-02.htm</link>
-      <guid isPermaLink="false">0002077096-26-000260</guid>
-      <pubDate>Thu, 17 Sep 2026 15:16:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RGR 🎯 Tender
-Faces $44.80/share partial tender from Beretta Holding; expires Oct 15
-21% prem · $107.5M deal · cash · close 2026-10-15
-Mcap $595M · EV $479M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/95029/000119380526001242/e665781_sctot-srci.htm</link>
-      <guid isPermaLink="false">0001193805-26-001242</guid>
-      <pubDate>Thu, 17 Sep 2026 15:16:32 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
