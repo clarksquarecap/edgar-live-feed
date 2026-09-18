@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 20:42:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:43:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · ATEX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1304492/000130449226000053/atex-20260916.htm</link>
+      <guid isPermaLink="false">0001304492-26-000053</guid>
+      <pubDate>Fri, 18 Sep 2026 15:42:30 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>8-K</category>
+      <scanner:headline>Authorizes $250M buyback; runs to Sept 2029</scanner:headline>
+      <scanner:shortName>Anterix</scanner:shortName>
+      <scanner:price>77.07</scanner:price>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>ATEX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Authorizes $250M buyback; runs to Sept 2029&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Authorized a share repurchase program of up to $250,000,000 of its common stock, effective September 22, 2026, following the expiration of its prior program. Repurchases may be made via open market or privately negotiated transactions, with the program running through September 22, 2029.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Anterix Inc. operates as holder of licensed 900 MHz spectrum with coverage spanning the contiguous to utility and critical infrastructure enterprise customers in the United States, Hawaii, Alaska, and Puerto Rico. It offers TowerX, a tower site access services; CatalyX, a turnkey connectivity management solution; and Anterix Active Ecosystem. The company was formerly known as pdvWireless, Inc. and changed its name to Anterix Inc. in August 2019. Anterix Inc.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $250,000,000&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $77.07 · Mkt cap $1.52B · EV $1.41B · Communication Services / Diversified Telecommunication Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1304492/000130449226000053/0001304492-26-000053-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ATEX&lt;/b&gt; · 8-K · Items 8.01 · Communications (4813) · 8k_tier1:8.01 · filed 2026-09-18&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · FLUX</title>
       <link>https://www.sec.gov/Archives/edgar/data/1083743/000149315226043365/form8-k.htm</link>
@@ -13403,33 +13430,6 @@
 &lt;p&gt;&lt;i&gt;Px $21.03 · Mkt cap $1.37B · EV $1.28B · Fwd P/E 56.0x · Fwd EV/EBITDA 17.3x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2086771/000106299326004849/0001062993-26-004849-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ELE&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-09-08&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · DLPN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1282224/000107997326001231/0001079973-26-001231-index.htm</link>
-      <guid isPermaLink="false">0001079973-26-001231</guid>
-      <pubDate>Tue, 08 Sep 2026 15:44:11 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Files 13D; 19% stake via $2.24M convertible notes</scanner:headline>
-      <scanner:shortName>Dolphin Entertainment</scanner:shortName>
-      <scanner:price>1.17</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>DLPN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Files 13D; 19% stake via $2.24M convertible notes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;William O&amp;#39;Dowd IV and Dolphin Entertainment LLC filed an original Schedule 13D disclosing 19.0% beneficial ownership of Dolphin Entertainment, Inc. DE LLC exchanged $2,242,873 of nonconvertible promissory notes for convertible notes at a $1.00/share conversion price, extending maturities by six months (now due June 2027, Oct 2029, Dec 2029). O&amp;#39;Dowd is CEO and director of the issuer.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Dolphin Entertainment, Inc., together with its subsidiaries, operates as an entertainment marketing and production company in the United States. It operates through two segments, Entertainment Publicity and Marketing, and Content Production. The Entertainment Publicity and Marketing segment offers diversified services, including public relations, entertainment and hospitality content marketing, strategic communications and marketing consulting, social media and influencer marketing, and celebrit…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 19.0%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-05-12&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.17 · Mkt cap $15.4M · EV $35.5M · Fwd EV/EBITDA 12.0x · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1282224/000107997326001231/0001079973-26-001231-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DLPN&lt;/b&gt; · SCHEDULE 13D · Personal Services (7200) · fresh_13d · filed 2026-09-08&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
