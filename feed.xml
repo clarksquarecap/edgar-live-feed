@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 13:04:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:10:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · KITT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849820/000184982026000135/kitt-20260915.htm</link>
+      <guid isPermaLink="false">0001849820-26-000135</guid>
+      <pubDate>Fri, 18 Sep 2026 08:10:41 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Extends convertible term loan maturity to Jan 31, 2028</scanner:headline>
+      <scanner:shortName>Nauticus Robotics</scanner:shortName>
+      <scanner:price>0.6200</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>KITT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Extends convertible term loan maturity to Jan 31, 2028&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a Fifth Amendment to its Senior Secured Term Loan Agreement with its lenders and ATW Special Situations Management LLC as collateral agent, extending the Maturity Date to January 31, 2028. The loan is convertible into common stock at a conversion price of $1.80 (reduced from $6.00 through prior amendments). The amendment became effective September 17, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nauticus Robotics, Inc. engages in the development of electric autonomous robotic solutions for subsea applications. The company offers Aquanaut, an autonomous underwater vehicle with sensor suite, which provides capability to observe and inspect subsea assets or other subsea features; Olympic Arm, an all-electric manipulator designed for a variety of intervention tasks on work class remotely operated vehicles; and ToolKITT, a software platform, which consists of interrelated products for ocean …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ATW Special Situations Management LLC and lenders&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.6200 · Mkt cap $4.7M · EV $25.3M · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1849820/000184982026000135/0001849820-26-000135-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KITT, KITTW&lt;/b&gt; · 8-K · Items 1.01, 2.03, 9.01 · Industrial Machinery (3569) · 8k_tier1:1.01 · filed 2026-09-18&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · TROO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1412095/000110465926108753/0001104659-26-108753-index.htm</link>
@@ -13411,30 +13438,6 @@
 &lt;p&gt;&lt;i&gt;Px $16.78 · Mkt cap $511.1M · EV $462.9M · Fwd P/E 28.9x · Fwd EV/EBITDA 15.7x · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2101698/000121390026097862/0001213900-26-097862-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ELMT&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Fabricated Metals (3490) · 8k_tier1:1.01,7.01 · filed 2026-09-08&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Self Tender · JONES FINANCIAL COMPANIES LLLP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/815917/000119312526384448/d943412dsctoi.htm</link>
-      <guid isPermaLink="false">0001193125-26-384448</guid>
-      <pubDate>Tue, 08 Sep 2026 07:40:31 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-      <category>SC TO-I</category>
-      <scanner:headline>Launches 1:1 exchange offer: Class A for Class B Interests</scanner:headline>
-      <scanner:shortName>JONES FINANCIAL COMPANIES LLLP</scanner:shortName>
-      <scanner:subtype>self_tender</scanner:subtype>
-      <scanner:form>SC TO-I</scanner:form>
-      <scanner:sector />
-      <scanner:ticker />
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SC TO-I</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Launches 1:1 exchange offer: Class A for Class B Interests&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;The Jones Financial Companies, L.L.L.P. (JFC) launched an exchange offer to exchange all outstanding Class A Limited Partner Interests for Class B Limited Partner Interests on a 1:1 basis, with each unit representing $1,000 of capital. The offer expires December 28, 2026. No cash consideration is involved.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-12-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Expiration Dec 28, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/815917/000119312526384448/0001193125-26-384448-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;SC TO-I · Securities / Broker-Dealers (6211) · prefill_form:SC TO-I · filed 2026-09-08&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

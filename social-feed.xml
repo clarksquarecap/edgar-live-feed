@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 13:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:10:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KITT 🪙 Debt Restr.
+Extends convertible term loan maturity to Jan 31, 2028
+Mcap $5M · EV $25M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849820/000184982026000135/kitt-20260915.htm</link>
+      <guid isPermaLink="false">0001849820-26-000135</guid>
+      <pubDate>Fri, 18 Sep 2026 08:10:41 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$TROO 📍 Stake
 Receives 13D from JMD Corporate Services for 14.7% stake
@@ -566,16 +575,6 @@ Mcap $6.0B · EV $31B · Cons Disc</title>
       <pubDate>Thu, 17 Sep 2026 08:20:39 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SGRY 📤 Divestiture
-Sells Mountain View &amp; Idaho Falls hospitals to Intermountain Health for $796.6M cash
-$796.6 million deal
-Mcap $1.8B · EV $7.5B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1638833/000163883326000085/sgry-20260914.htm</link>
-      <guid isPermaLink="false">0001638833-26-000085</guid>
-      <pubDate>Thu, 17 Sep 2026 08:06:45 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
