@@ -6,8 +6,36 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 10:22:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:18:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧭 Domicile · CDLR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2063345/000110465926108730/tm2510458-13_f4a.htm</link>
+      <guid isPermaLink="false">0001104659-26-107368</guid>
+      <pubDate>Fri, 18 Sep 2026 06:18:23 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+      <category>acquisition</category>
+      <category>F-4/A</category>
+      <scanner:headline>Offers 1-for-1 share exchange to redomicile Cadeler A/S to UK</scanner:headline>
+      <scanner:shortName>Cadeler</scanner:shortName>
+      <scanner:price>25.18</scanner:price>
+      <scanner:subtype />
+      <scanner:form>F-4/A</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>CDLR</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>F-4/A x2</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Offers 1:1 share exchange to redomicile Cadeler A/S to UK&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Offers to exchange each Cadeler A/S share for one NewCo share, effecting a redomiciliation from Denmark to the UK. The offer is subject to a 90% minimum tender condition, after which a squeeze-out of remaining shares is planned. NewCo shares will list on OSE and NYSE under CADLR and CDLR, respectively.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cadeler A/S, together with its subsidiaries, operates as an offshore wind installation vessel contractor in Denmark, the United Kingdom, Germany, Poland, rest of Europe, the United States, and Taiwan. The company engages in the transport and installation of offshore wind turbine generators, foundations, and topsides and substations; maintenance of offshore wind turbine generators, and offshore structures and platforms; and offshore construction within the renewable space.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $25.18 · Mkt cap $2.48B · EV $4.19B · Fwd P/E 5.3x · Fwd EV/EBITDA 5.3x · Industrials / Construction and Engineering&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2063345/000110465926107368/0001104659-26-107368-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CDLR&lt;/b&gt; · F-4/A · Water Transportation (4412) · prefill_form:F-4 · filed 2026-09-14&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;F-4/A · Sep 18 06:18 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2063345/000110465926108730/tm2510458-13_f4a.htm'&gt;Offers 1-for-1 share exchange to redomicile Cadeler A/S to UK&lt;/a&gt;&lt;/li&gt;&lt;li&gt;F-4/A · Sep 14 10:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2063345/000110465926107368/tm2510458-8_f4a.htm'&gt;Offers 1:1 share exchange to redomicile Cadeler A/S to UK&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · PAAI</title>
       <link>https://www.sec.gov/Archives/edgar/data/894871/000149315226043212/form8-k.htm</link>
@@ -6567,32 +6595,6 @@
 &lt;p&gt;&lt;i&gt;Px $200.00 · Mkt cap $11.67B · EV $12.43B · Fwd P/E 28.1x · Fwd EV/EBITDA 18.8x · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1944013/000162828026061780/0001628280-26-061780-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CR&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Fabricated Metals (3490) · 8k_tier1:7.01 · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · CDLR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2063345/000110465926107368/tm2510458-8_f4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-107368</guid>
-      <pubDate>Mon, 14 Sep 2026 10:08:10 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>F-4/A</category>
-      <scanner:headline>Offers 1:1 share exchange to redomicile Cadeler A/S to UK</scanner:headline>
-      <scanner:shortName>Cadeler</scanner:shortName>
-      <scanner:price>25.18</scanner:price>
-      <scanner:subtype />
-      <scanner:form>F-4/A</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>CDLR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>F-4/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Offers 1:1 share exchange to redomicile Cadeler A/S to UK&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Offers to exchange each Cadeler A/S share for one NewCo share, effecting a redomiciliation from Denmark to the UK. The offer is subject to a 90% minimum tender condition, after which a squeeze-out of remaining shares is planned. NewCo shares will list on OSE and NYSE under CADLR and CDLR, respectively.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cadeler A/S, together with its subsidiaries, operates as an offshore wind installation vessel contractor in Denmark, the United Kingdom, Germany, Poland, rest of Europe, the United States, and Taiwan. The company engages in the transport and installation of offshore wind turbine generators, foundations, and topsides and substations; maintenance of offshore wind turbine generators, and offshore structures and platforms; and offshore construction within the renewable space.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $25.18 · Mkt cap $2.48B · EV $4.19B · Fwd P/E 5.3x · Fwd EV/EBITDA 5.3x · Industrials / Construction and Engineering&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2063345/000110465926107368/0001104659-26-107368-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CDLR&lt;/b&gt; · F-4/A · Water Transportation (4412) · prefill_form:F-4 · filed 2026-09-14&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · ONDS</title>
