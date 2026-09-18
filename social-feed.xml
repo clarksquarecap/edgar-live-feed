@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 20:09:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:16:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LXP 🤝 Merger
+Acquired by Brookfield/CPPIB for $61.20 cash/share; vote Oct 26
+12.3 prem · 3608184556.8 deal · cash
+Mcap $3.6B · EV $5.0B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/910108/000110465926108934/tm2624432d2_defm14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-108934</guid>
+      <pubDate>Fri, 18 Sep 2026 15:15:59 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BZAI 📍 Stake
 Raises stake to 9.0% with 1.5M sponsor shares
@@ -569,15 +580,6 @@ Mcap $595M · EV $479M · Cons Disc</title>
       <guid isPermaLink="false">0001193805-26-001242</guid>
       <pubDate>Thu, 17 Sep 2026 15:16:32 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$HLSQ 📍 Stake
-Acquires 4.86% stake in Tessera via MEA sale; +65k pending
-Mcap $3M · EV $17M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1739174/000121390026100950/0001213900-26-100950-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-100950</guid>
-      <pubDate>Thu, 17 Sep 2026 15:10:05 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
