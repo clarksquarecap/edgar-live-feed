@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 21:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:31:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · MG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1436126/000119312526395732/0001193125-26-395732-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-395732</guid>
+      <pubDate>Fri, 18 Sep 2026 16:31:00 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases stake in Mistras Group to 6.1%</scanner:headline>
+      <scanner:shortName>Mistras Group</scanner:shortName>
+      <scanner:price>19.53</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>MG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Increases stake in Mistras Group to 6.1%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Mill Road Capital III, L.P. increased its beneficial ownership in Mistras Group to 1,938,316 shares (6.1% of class) via open-market purchases, including 1,002 shares at $17.0580 on 8/12/2026. The fund acquired shares using working capital and margin loan proceeds.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Mistras Group, Inc. provides technology-enabled industrial asset integrity and laboratory testing solutions in the United States, Europe, the Middle East, Africa, Asia, and South America. The company offers non-destructive testing (NDT) services; pipeline inspections; Plant Condition Management Software; maintenance planning; and specialized engineering solutions.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.1%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $19.53 · Mkt cap $631.0M · EV $854.4M · Fwd P/E 16.4x · Fwd EV/EBITDA 8.3x · Industrials / Professional Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1436126/000119312526395732/0001193125-26-395732-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MG&lt;/b&gt; · SCHEDULE 13D/A · Engineering / Accounting (8711) · fresh_13d · filed 2026-09-18&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Self Tender · XFLT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026101507/ea0305940-01_sctoi.htm</link>
@@ -13397,35 +13424,6 @@
 &lt;p&gt;&lt;i&gt;Px $35.59 · Mkt cap $1.84B · EV $2.31B · Fwd P/E 8.4x · Fwd EV/EBITDA 4.1x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1968487/000119312526385371/0001193125-26-385371-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WS&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Primary Metals (3310) · 8k_tier1:1.01,7.01 · filed 2026-09-08&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SUNE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/22701/000121390026098107/ea030487602-8k425_sunation.htm</link>
-      <guid isPermaLink="false">0001213900-26-098099</guid>
-      <pubDate>Tue, 08 Sep 2026 16:25:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Amends Suniva merger: adds 1.5B share increase, $2.26/sh loan conversion</scanner:headline>
-      <scanner:shortName>SUNation Energy</scanner:shortName>
-      <scanner:price>2.37</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>SUNE</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>8-K x2, 425</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Suniva; Suniva secures financing for SC expansion&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that Suniva, its merger target, has executed a financing transaction to expand its manufacturing facilities and solar cell capacity in Laurens County, South Carolina. The merger, announced June 5, 2026, remains pending with Merger Sub merging into Suniva.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SUNation Energy Inc. engages in the design, installation, and maintenance of photovoltaic solar energy systems and battery storage systems in the United States. The company’s brand portfolio includes SUNation, SUNation Energy, Hawaii Energy Connection, E-Gear, Sungevity, and Horizon Solar Power. It also develops and offers energy control devices for solar systems that are paired with batteries. In addition, the company provides energy and grid services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Suniva, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-05&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.37 · Mkt cap $15.4M · EV $20.6M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/22701/000121390026098099/0001213900-26-098099-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SUNE&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Construction; Special Trade (1700) · 8k_tier1:7.01 · filed 2026-09-08&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 08 16:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/22701/000121390026098107/ea030487602-8k425_sunation.htm'&gt;Amends Suniva merger: adds 1.5B share increase, $2.26/sh loan conversion&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 08 16:24 · &lt;a href='https://www.sec.gov/Archives/edgar/data/22701/000121390026098110/ea030487602-8k425_sunation.htm'&gt;Amends Suniva merger: share increase to 1.5B, $2.6M loan conversion at $2.26&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 08 16:17 · &lt;a href='https://www.sec.gov/Archives/edgar/data/22701/000121390026098099/ea030487601-8k425_sunation.htm'&gt;Acquires Suniva; Suniva secures financing for SC expansion&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
