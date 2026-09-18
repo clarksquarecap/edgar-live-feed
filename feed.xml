@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 13:25:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:32:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚱️ Liquidation · Hancock Park Corporate Income</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1661306/000166130626000090/hpci_reminder_letter_9.1.htm</link>
+      <guid isPermaLink="false">0001661306-26-000090</guid>
+      <pubDate>Fri, 18 Sep 2026 08:32:07 -0500</pubDate>
+      <category>LIQUIDATION</category>
+      <category>acquisition</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Plan of sale and dissolution; est. $3.50-$4.30/share; vote Oct 6</scanner:headline>
+      <scanner:shortName>Hancock Park Corporate Income</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker />
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Plan of sale and dissolution; est. $3.50-$4.30/share; vote Oct 6&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Proposes an orderly wind down via a Plan of Sale and Dissolution, with estimated liquidating distributions of $3.50 to $4.30 per share. The plan includes selling assets, paying liabilities, and distributing remaining assets to stockholders. The annual meeting is scheduled for October 6, 2026, and the board recommends voting FOR the plan. If not approved, the company may face liquidity issues with its unsecured note due November 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-19&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder vote on Oct 6, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1661306/000166130626000090/0001661306-26-000090-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;DEFA14A · prefill_form:DEFA14A · filed 2026-09-18&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · MACI</title>
       <link>https://www.sec.gov/Archives/edgar/data/2016221/000121390026101181/ea0305899-8k425_melar1.htm</link>
@@ -13410,33 +13434,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NMP, NMPAR, NMPAU&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Holding / Investment Offices (6770) · 8k_tier1:1.01,7.01 · filed 2026-09-08&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 08 08:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2054876/000121390026097872/ea0304672-8k425_nmpacq.htm'&gt;Acquires GTS Holdings in $400M stock business combination&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 08 08:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2054876/000121390026097868/ea0304672-8k425_nmpacq.htm'&gt;Acquires GTS Holdings in business combination; NMP shares convert 1:1 to Pubco&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · XRX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1770450/000149315226041719/0001493152-26-041719-index.htm</link>
-      <guid isPermaLink="false">0001493152-26-041719</guid>
-      <pubDate>Tue, 08 Sep 2026 08:15:51 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Urges strategic review of XFS; 7.34% stake</scanner:headline>
-      <scanner:shortName>Xerox Holdings</scanner:shortName>
-      <scanner:price>3.32</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>XRX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Urges strategic review of XFS; 7.34% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;STARTEEPO SICAV and Frantisek Bostl increased their stake in Xerox to 7.34% and issued an open letter urging the board to conduct a formal strategic review of Xerox Financial Services (XFS), including a potential sale, joint venture, or partial monetization. The letter also requests more detailed financial reporting on XFS.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Xerox Holdings Corporation, together with its subsidiaries, operates as a workplace technology company that integrates hardware, services, and software for enterprises in North America, Latin America, Europe, the Middle East, Africa, India, and internationally. It operates in two segments, Print and Other; and Xerox Financial Services (XFS).&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.34%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-07&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.32 · Mkt cap $436.0M · EV $4.48B · Fwd P/E 9.1x · Fwd EV/EBITDA 5.6x · Information Technology / Technology Hardware, Storage and Peripherals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1770450/000149315226041719/0001493152-26-041719-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;XRX, XRXDW&lt;/b&gt; · SCHEDULE 13D/A · Industrial Machinery (3577) · fresh_13d · filed 2026-09-08&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
