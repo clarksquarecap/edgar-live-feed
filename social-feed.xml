@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 00:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:53:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$OSUR 📍 Stake
@@ -746,15 +746,6 @@ Mcap $236M · EV $148M · Healthcare</title>
       <pubDate>Thu, 17 Sep 2026 05:03:45 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$FTFT 📍 Stake
-Increases stake to 32.5% via $10M private placement
-Mcap $46M · EV $17M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1066923/000121390026100660/0001213900-26-100660-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-100660</guid>
-      <pubDate>Wed, 16 Sep 2026 19:48:30 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
