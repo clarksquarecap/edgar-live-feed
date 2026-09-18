@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 10:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:16:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PAAI 🤝 Merger
+Roundtable to acquire 49.5% stake at $3.80/sh; close Q4 2026
+cash
+Mcap $159M · EV $248M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/894871/000149315226043212/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-043212</guid>
+      <pubDate>Fri, 18 Sep 2026 05:15:58 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$KCA-UN 🤝 Merger
 Acquires Nth Cycle for 50.7M shares + earnout
@@ -658,36 +669,6 @@ Mcap $214M · EV $241M · Materials</title>
       <pubDate>Thu, 17 Sep 2026 05:17:43 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$YI 🤝 Merger · Unsolicited
-Unsolicited $4.52/ADS go-private bid from co-founders + sponsor
-cash
-Mcap $30M · EV $152M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738906/000095010326014068/dp253510_6k.htm</link>
-      <guid isPermaLink="false">0000950103-26-014068</guid>
-      <pubDate>Thu, 17 Sep 2026 05:15:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$SNY 📤 Divestiture
-Sells 20 mature medicines and 3 sites to Cheplapharm for 26.4% stake
-close Q3 2027
-Mcap $102B · EV $122B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1121404/000119312526393653/d517247d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-393653</guid>
-      <pubDate>Thu, 17 Sep 2026 05:15:20 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CRTG 🌑 Going Dark
-Voluntarily deregisters with SEC; 86 holders
-Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1375195/000149315226043010/form15-12g.htm</link>
-      <guid isPermaLink="false">0001493152-26-043010</guid>
-      <pubDate>Thu, 17 Sep 2026 05:14:47 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>
