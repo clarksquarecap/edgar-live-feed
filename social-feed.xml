@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 21:03:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:16:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PAAI 🤝 Merger
+Signs 10-year platform deal with RTB; RTB to buy 49.5% stake for $89.6M
+RTB Digital · $89,555,638 deal · cash+stk · close Q4 2026
+Mcap $159M · EV $248M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/894871/000149315226043382/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-043212</guid>
+      <pubDate>Fri, 18 Sep 2026 16:14:49 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BAOS 📤 Divestiture
 Sells aged receivables to Guangzhou Nengren for RMB8.56M
@@ -470,17 +481,6 @@ Mcap $2.5B · EV $4.2B · Industrials</title>
       <category>DOMICILE_CHANGE</category>
     </item>
     <item>
-      <title>$PAAI 🤝 Merger
-Roundtable to acquire 49.5% stake at $3.80/sh; close Q4 2026
-cash
-Mcap $159M · EV $248M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/894871/000149315226043212/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-043212</guid>
-      <pubDate>Fri, 18 Sep 2026 05:15:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
       <title>$KCA-UN 🤝 Merger
 Acquires Nth Cycle for 50.7M shares + earnout
 stock</title>
@@ -584,15 +584,6 @@ Mcap $4M · Comms</title>
       <pubDate>Thu, 17 Sep 2026 16:19:57 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$VEXTF 🪙 Debt Restr.
-Restructures Ohio seller notes ahead of Dec 2026 maturity
-Mcap $47M · EV $77M · Healthcare</title>
-      <link>https://www.otcmarkets.com/stock/VEXTF/news/535583</link>
-      <guid isPermaLink="false">OTC-535583</guid>
-      <pubDate>Thu, 17 Sep 2026 16:10:04 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
