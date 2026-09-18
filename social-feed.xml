@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 19:59:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 20:07:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BZAI 📍 Stake
+Raises stake to 9.0% with 1.5M sponsor shares
+Mcap $89M · EV $52M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1871638/000121390026101399/0001213900-26-101399-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-101399</guid>
+      <pubDate>Fri, 18 Sep 2026 15:07:40 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$RAKR 📍 Stake
 Discloses 16% beneficial ownership via late 13D
@@ -578,43 +587,6 @@ Mcap $10M · EV $8M · Healthcare</title>
       <guid isPermaLink="false">0001493152-26-043112</guid>
       <pubDate>Thu, 17 Sep 2026 15:08:07 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ANY 🌍 Re-domicile
-Reincorporates in British Columbia; ticker changes to DRK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1591956/000121390026100953/ea0305703-8k_darkhorse.htm</link>
-      <guid isPermaLink="false">0001213900-26-100953</guid>
-      <pubDate>Thu, 17 Sep 2026 15:07:38 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$G 🌍 Re-domicile
-Domesticates from Bermuda to Delaware; vote at special meeting
-Mcap $5.9B · EV $6.8B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1398659/000114036126036971/ny20078357x2_s4a.htm</link>
-      <guid isPermaLink="false">0001140361-26-036971</guid>
-      <pubDate>Thu, 17 Sep 2026 15:07:08 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$HERZ 💧 Capital Return · Self-tender
-Self-tender up to 5% (100,886 sh) at 97.5% NAV; expires Oct 15
-Mcap $31M · EV $31M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/880406/000165495426008429/herz_scto1.htm</link>
-      <guid isPermaLink="false">0001654954-26-008429</guid>
-      <pubDate>Thu, 17 Sep 2026 15:06:39 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-    </item>
-    <item>
-      <title>$RARE ⚖️ Litigation · Won
-Receives FDA full approval for FAYUVI (MPS IIIA)
-Mcap $1.3B · EV $2.0B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1515673/000151567326000006/rare-20260917.htm</link>
-      <guid isPermaLink="false">0001515673-26-000006</guid>
-      <pubDate>Thu, 17 Sep 2026 15:00:15 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
