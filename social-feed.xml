@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 00:53:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:13:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KCA-UN 🤝 Merger
+Acquires Nth Cycle for 50.7M shares + earnout
+stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2102713/000119312526394814/kcac-20260918.htm</link>
+      <guid isPermaLink="false">0001193125-26-394814</guid>
+      <pubDate>Fri, 18 Sep 2026 05:13:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$HSCS 🤝 Merger
+Acquires Fortitude Mining; 19x exchange ratio, $2M cash/Zcash
+stock
+Mcap $13M · EV $16M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026101103/ea0297759-02.htm</link>
+      <guid isPermaLink="false">0001213900-26-091725</guid>
+      <pubDate>Fri, 18 Sep 2026 05:08:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OSUR 📍 Stake
 Files 13D on OraSure with 5.7% stake
@@ -547,17 +568,6 @@ Mcap $1M · Healthcare</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$HSCS 🤝 Merger
-Acquired by Fortitude; combined co to trade as TUDE; close Q4
-close Q4 2026
-Mcap $13M · EV $16M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026100755/ea0305802-8k_heart.htm</link>
-      <guid isPermaLink="false">0001213900-26-091725</guid>
-      <pubDate>Thu, 17 Sep 2026 07:11:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
       <title>$VRME 🤝 Merger
 Vote Sept 24 on OpenWorld merger; urges FOR Proposal 6
 Mcap $9M · EV $5M · Industrials</title>
@@ -678,74 +688,6 @@ Industrials</title>
       <guid isPermaLink="false">0001493152-26-043010</guid>
       <pubDate>Thu, 17 Sep 2026 05:14:47 -0500</pubDate>
       <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$CLYD 💧 Capital Return · Self-tender
-Launches $15M self-tender at $6.6609/share</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2094256/000110465926108353/tm2625583d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-107741</guid>
-      <pubDate>Thu, 17 Sep 2026 05:08:35 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-    </item>
-    <item>
-      <title>$IBO 🤝 Merger
-F-4 filed for merger with Zoar Limited; vote pending
-Mcap $52M · EV $55M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1834105/000149315226042975/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042161</guid>
-      <pubDate>Thu, 17 Sep 2026 05:08:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MCHB 📤 Divestiture
-Sells $417M auto loan portfolio to Bank of America
-$417 million deal
-Mcap $3.5B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1518715/000151871526000068/hmst-20260916.htm</link>
-      <guid isPermaLink="false">0001518715-26-000068</guid>
-      <pubDate>Thu, 17 Sep 2026 05:07:59 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BAP 🤝 Merger
-Gains Florida OFR approval for Helm Bank USA acquisition
-Mcap $30B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1001290/000114036126036806/ef20082136_6k.htm</link>
-      <guid isPermaLink="false">0001140361-26-036806</guid>
-      <pubDate>Thu, 17 Sep 2026 05:07:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$GFR 📜 Rights Issue
-Completes C$775M oversubscribed rights offering; repays bridge
-Mcap $814M · EV $835M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1966287/000121390026100679/ea0305788-6k_greenfire.htm</link>
-      <guid isPermaLink="false">0001213900-26-100679</guid>
-      <pubDate>Thu, 17 Sep 2026 05:07:10 -0500</pubDate>
-      <category>RIGHTS_ISSUE</category>
-    </item>
-    <item>
-      <title>$LNTH 🤝 Merger
-Acquired by Curium US Holdings; vote Oct 14
-Mcap $6.6B · EV $6.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1521036/000119312526393460/d161716ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-393460</guid>
-      <pubDate>Thu, 17 Sep 2026 05:05:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$UTMD 💧 Capital Return · Self-tender
-Self-tender for 20% of shares at $75.00 cash
-Mcap $236M · EV $148M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/706698/000109690626001373/utmd_sctoc.htm</link>
-      <guid isPermaLink="false">0001096906-26-001373</guid>
-      <pubDate>Thu, 17 Sep 2026 05:03:45 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
