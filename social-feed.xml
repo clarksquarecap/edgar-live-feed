@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 19 Sep 2026 21:35:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:41:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$NFE 👀 Activist
@@ -16,16 +16,6 @@ Mcap $79M · EV $9.2B · Energy</title>
       <guid isPermaLink="false">0001193125-26-395888</guid>
       <pubDate>Fri, 18 Sep 2026 20:54:45 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$CACC ⚖️ Litigation · Settled
-Settles multi-state AG probe for $15.5M cash + $60M trust + $634M debt relief
-Mcap $6.1B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/885550/000088555026000192/cacc-20260917.htm</link>
-      <guid isPermaLink="false">0000885550-26-000192</guid>
-      <pubDate>Fri, 18 Sep 2026 16:37:47 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>
