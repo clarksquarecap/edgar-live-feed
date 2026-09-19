@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 19 Sep 2026 12:07:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:37:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$NFE 👀 Activist
@@ -488,15 +488,6 @@ Mcap $8M · EV $6M · Healthcare</title>
       <pubDate>Fri, 18 Sep 2026 07:42:57 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$EMPD ⚔️ Proxy
-Faces ATG Capital proxy contest; AGM Oct 14
-Mcap $83M · EV $135M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826007227/empery_defa14a.htm</link>
-      <guid isPermaLink="false">0001683168-26-006720</guid>
-      <pubDate>Fri, 18 Sep 2026 07:36:19 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
