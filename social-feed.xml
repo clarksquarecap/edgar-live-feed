@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 19 Sep 2026 13:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 13:19:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$NFE 👀 Activist
@@ -439,15 +439,6 @@ Mcap $105M · EV $110M · Financials</title>
       <pubDate>Fri, 18 Sep 2026 08:25:29 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$FFAI 🪙 Debt Restr.
-Converts $5.88M convertible note to non-convertible debt; cuts dilution ~25%
-Mcap $7M · EV $178M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1805521/000121390026101175/ea0305734-8k_faraday.htm</link>
-      <guid isPermaLink="false">0001213900-26-101175</guid>
-      <pubDate>Fri, 18 Sep 2026 08:17:18 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
