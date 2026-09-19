@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 19 Sep 2026 20:29:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 20:35:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$NFE 👀 Activist
@@ -219,15 +219,6 @@ Mcap $62M · EV $85M · Cons Disc</title>
       <guid isPermaLink="false">0001213900-26-099718</guid>
       <pubDate>Fri, 18 Sep 2026 15:36:55 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$ELME 📤 Divestiture
-Sells Riverside Apartments to FPA Multifamily for $250M
-Mcap $147M · EV $849M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/104894/000010489426000112/elme-20260914.htm</link>
-      <guid isPermaLink="false">0000104894-26-000112</guid>
-      <pubDate>Fri, 18 Sep 2026 15:30:28 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
