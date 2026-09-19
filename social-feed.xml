@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 19 Sep 2026 20:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 20:24:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$NFE 👀 Activist
@@ -249,53 +249,6 @@ Mcap $101M · Real Estate</title>
       <pubDate>Fri, 18 Sep 2026 15:28:05 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BZH 🤝 Merger
-Merger with Dream Finders: note consents obtained, proxy mailed
-Dream Finders Homes
-Mcap $857M · EV $2.2B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/915840/000110465926108933/tm2622398d16_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-107656</guid>
-      <pubDate>Fri, 18 Sep 2026 15:21:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DASH 🌍 Re-domicile
-Reincorporates from Delaware to Nevada; effective Sept 18
-Mcap $84B · EV $82B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1792789/000114036126037109/ef20081998_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-037109</guid>
-      <pubDate>Fri, 18 Sep 2026 15:20:20 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$CRMT 🪙 Debt Restr.
-Extends Silver Point waiver to Sept 24; strategic review active
-Mcap $15M · EV $659M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/799850/000117184326006114/f8k_091826.htm</link>
-      <guid isPermaLink="false">0001171843-26-006114</guid>
-      <pubDate>Fri, 18 Sep 2026 15:20:03 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$KPTI 🪙 Debt Restr.
-Issues $20M Series A convertible preferred (conv. $1.62) to pay forbearance fees
-Mcap $41M · EV $304M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1503802/000119312526395517/d141487d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-395517</guid>
-      <pubDate>Fri, 18 Sep 2026 15:19:48 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$SOBR 💥 Busted M&amp;A
-Terminates merger with Clean World Ventures; mutual release
-Mcap $2M · EV $2M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1425627/000147793226005700/sobr_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-005700</guid>
-      <pubDate>Fri, 18 Sep 2026 15:19:20 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
   </channel>
 </rss>
