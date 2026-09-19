@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 19 Sep 2026 21:05:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:17:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$NFE 👀 Activist
@@ -45,17 +45,6 @@ Mcap $294M · Financial Serv</title>
       <pubDate>Fri, 18 Sep 2026 16:30:04 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$PAAI 🤝 Merger
-Signs 10-year platform deal with RTB; RTB to buy 49.5% stake for $89.6M
-RTB Digital · $89,555,638 deal · cash+stk · close Q4 2026
-Mcap $159M · EV $248M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/894871/000149315226043382/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-043212</guid>
-      <pubDate>Fri, 18 Sep 2026 16:14:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
