@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 19 Sep 2026 21:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 21:35:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$NFE 👀 Activist
@@ -26,25 +26,6 @@ Mcap $6.1B · Financials</title>
       <pubDate>Fri, 18 Sep 2026 16:37:47 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$MG 📍 Stake
-Increases stake in Mistras Group to 6.1%
-Mcap $631M · EV $854M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1436126/000119312526395732/0001193125-26-395732-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-395732</guid>
-      <pubDate>Fri, 18 Sep 2026 16:31:00 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$XFLT 💧 Capital Return · Self-tender
-Tender for up to 12.5% of shares at 98% NAV
-Mcap $294M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026101507/ea0305940-01_sctoi.htm</link>
-      <guid isPermaLink="false">0001213900-26-101507</guid>
-      <pubDate>Fri, 18 Sep 2026 16:30:04 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
