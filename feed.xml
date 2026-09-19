@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 18 Sep 2026 21:37:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 01:54:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · NFE</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1749723/000119312526395888/0001193125-26-395888-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-395888</guid>
+      <pubDate>Fri, 18 Sep 2026 20:54:45 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Takes 14.7% stake via preferred conversion; seeks engagement</scanner:headline>
+      <scanner:shortName>New Fortress Energy</scanner:shortName>
+      <scanner:price>12.77</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>NFE</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Takes 14.7% stake via preferred conversion; seeks engagement&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Strategic Value Partners (SVP), led by Victor Khosla, disclosed a 14.7% beneficial stake in New Fortress Energy, comprising 1.32M Class A shares plus 17.89M shares issuable upon conversion of Series A Mandatorily Convertible Preferred Stock. The preferred converts automatically on the third anniversary of issue. SVP is a known distressed/activist investor, signaling potential pressure for structural or strategic changes at the LNG company.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; New Fortress Energy Inc. operates as an integrated gas-to-power energy infrastructure company that provides energy and development services to end-users worldwide. The company operates in two segments, Terminals and Infrastructure, and Ships. The Terminals and Infrastructure segment engages in the natural gas procurement and liquefaction; and logistics, shipping, facilities and conversion, or development of natural gas-fired power generation.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 14.7%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $12.77 · Mkt cap $79.3M · EV $9.15B · Fwd EV/EBITDA 33.5x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1749723/000119312526395888/0001193125-26-395888-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NFE, NFEGP&lt;/b&gt; · SCHEDULE 13D · Utilities (4924) · fresh_13d · filed 2026-09-18&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚖️ Litigation · Settled · CACC</title>
       <link>https://www.sec.gov/Archives/edgar/data/885550/000088555026000192/cacc-20260917.htm</link>
@@ -13397,33 +13424,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PAYO&lt;/b&gt; · 8-K · Items 8.01 · Business Services (7389) · 8k_tier1:8.01 · filed 2026-09-08&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Sep 08 16:33 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1845815/000095010326013669/dp253037_defa14a.htm'&gt;Nuvei merger vote Sept 14; proxy supplemented&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 08 16:00 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1845815/000095010326013665/dp253036_8k.htm'&gt;Nuvei merger: supplements proxy amid litigation; vote Sept 14&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SUNS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2012706/000114036126035943/ny20081383x1_prem14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-035943</guid>
-      <pubDate>Tue, 08 Sep 2026 16:31:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>PREM14A</category>
-      <scanner:headline>Acquires Southern Realty Trust for 1.45 shares + $0.05 cash; vote Oct 23</scanner:headline>
-      <scanner:shortName>Sunrise Realty</scanner:shortName>
-      <scanner:price>7.46</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>PREM14A</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>SUNS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>PREM14A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Southern Realty Trust for 1.45 shares + $0.05 cash; vote Oct 23&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will acquire Southern Realty Trust via merger. SRT shareholders receive 1.45 SUNS shares and $0.05 cash per SRT share. SUNS issues ~8.46M shares; existing SUNS holders own ~61% of combined. Special meeting Oct 23, 2026; close expected Q4 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sunrise Realty Trust, Inc. engages in commercial real estate lending business in the United States. The company focuses on originating commercial real estate (CRE) loans and providing capital to borrowers and sponsors with business plants collateralized by CRE assets. It also intends to diversify investment portfolio, targeting investments for mortgage loans, mezzanine loans, B-notes, commercial mortgage-backed securities, and debt-like preferred equity securities across CRE asset classes.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Southern Realty Trust Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms paid for Southern Realty Trust:&lt;/b&gt; 1.45 SUNS shares + $0.05 cash&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock+cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting Oct 23, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.46 · Mkt cap $101.1M · Fwd P/E 6.8x · Real Estate / Mortgage Real Estate Investment Trusts (REITs)&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2012706/000114036126035943/0001140361-26-035943-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SUNS&lt;/b&gt; · PREM14A · Holding / Investment Offices (6798) · prefill_form:PREM14A · filed 2026-09-08&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
