@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 19 Sep 2026 11:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 12:07:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$NFE 👀 Activist
@@ -497,17 +497,6 @@ Mcap $83M · EV $135M · Cons Disc</title>
       <guid isPermaLink="false">0001683168-26-006720</guid>
       <pubDate>Fri, 18 Sep 2026 07:36:19 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$HSCS 🤝 Merger
-Acquired by Fortitude in all-stock merger; proxy filed
-stock
-Mcap $13M · EV $16M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026101139/ea0305935-defa14a_heart.htm</link>
-      <guid isPermaLink="false">0001213900-26-091725</guid>
-      <pubDate>Fri, 18 Sep 2026 07:04:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
