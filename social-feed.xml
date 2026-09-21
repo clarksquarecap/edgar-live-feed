@@ -6,8 +6,39 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 21:48:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:49:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RIME 🤝 Merger
+Acquires Azure Energy's waste-to-power business for $23M in stock
+$23,000,000 deal · stock
+Mcap $4M · EV $5M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/923601/000149315226043599/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-043599</guid>
+      <pubDate>Mon, 21 Sep 2026 16:35:58 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$WEAV 🤝 Merger
+HSR cleared; Francisco Partners merger expected Q4 close
+close Q4 2026
+Mcap $583M · EV $556M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1609151/000160915126000105/weav-20260921.htm</link>
+      <guid isPermaLink="false">0001140361-26-036669</guid>
+      <pubDate>Mon, 21 Sep 2026 16:35:57 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$TOMZ 💥 Busted M&amp;A
+Mutually terminates merger with Carbonium Core; no fee
+Mcap $12M · EV $15M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/314227/000165495426008492/tomz_8k.htm</link>
+      <guid isPermaLink="false">0001654954-26-008492</guid>
+      <pubDate>Mon, 21 Sep 2026 16:35:57 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$GAUZ 📉 Delisting · Forced
 Forced Nasdaq delisting; appeals to Panel
@@ -85,17 +116,6 @@ Mcap $330M · EV $280M · Materials</title>
       <link>https://www.sec.gov/Archives/edgar/data/783324/000110465926109367/tm2625813d3_defa14a.htm</link>
       <guid isPermaLink="false">OTC-535753</guid>
       <pubDate>Mon, 21 Sep 2026 16:30:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WEAV 🤝 Merger
-HSR cleared for Francisco Partners merger; close Q4
-close Q4 2026
-Mcap $583M · EV $556M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1609151/000160915126000107/weave-8xkxhsr.htm</link>
-      <guid isPermaLink="false">0001140361-26-036669</guid>
-      <pubDate>Mon, 21 Sep 2026 16:27:52 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
