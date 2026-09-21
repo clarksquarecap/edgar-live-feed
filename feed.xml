@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 11:44:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:44:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔐 Going Private · PRTH</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1653558/000121390026101651/ea0306047-8k_priority.htm</link>
+      <guid isPermaLink="false">0001213900-26-101651</guid>
+      <pubDate>Mon, 21 Sep 2026 06:44:26 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Acquired by CEO-led WD Capital for $8.05 cash/share</scanner:headline>
+      <scanner:shortName>Priority Technology</scanner:shortName>
+      <scanner:price>5.83</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>PRTH</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquired by CEO-led WD Capital for $8.05 cash/share&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a merger agreement to be acquired by WD Capital Partners Parent Inc., an entity controlled by CEO Thomas C. Priore, for $8.05 per share in cash. The special committee of independent directors approved the deal, with Barclays providing a fairness opinion. The merger is subject to stockholder approval and regulatory approvals.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Priority Technology Holdings, Inc. operates as a payment technology company in the United States. The company operates through three segments: Merchant Solutions, Payables, and Treasury Solutions. The company offers merchant solutions, such as full-service acquiring and payment-enabled solutions for B2C transactions, leveraging proprietary software platform, distributed through independent sales organizations, direct sales, and vertically focused independent software vendors channels.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; WD Capital Partners Parent Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 8.05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.83 · Mkt cap $480.6M · EV $1.42B · Fwd P/E 4.6x · Fwd EV/EBITDA 5.7x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1653558/000121390026101651/0001213900-26-101651-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PRTH, PRTHU&lt;/b&gt; · 8-K · Items 1.01, 5.02, 8.01, 9.01 · Business Services (7389) · 8k_tier1:1.01,8.01 · filed 2026-09-21&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔐 Going Private · Management Buyout · PRTH</title>
       <link>https://www.sec.gov/Archives/edgar/data/1653558/000121390026101653/ea0306047-8k_priority.htm</link>
@@ -13392,32 +13419,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Shuji Nakamura&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 24.88%&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1938570/000119312526385846/0001193125-26-385846-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;SCHEDULE 13D · Holding / Investment Offices (6770) · fresh_13d · filed 2026-09-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · Carlyle Credit Solutions</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1702510/000119312526385584/d153258d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-385588</guid>
-      <pubDate>Wed, 09 Sep 2026 05:14:03 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Reorganizes from Maryland corp into Delaware statutory trust; vote later this year</scanner:headline>
-      <scanner:shortName>Carlyle Credit Solutions</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker />
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>425, 8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Converts to Delaware statutory trust; 1:1 share exchange&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Approved a reorganization into a newly formed Delaware statutory trust (Successor Fund) that will elect to be a BDC. Stockholders will receive one Successor Fund share of the same class for each share held, with no change in investment objective, adviser, or portfolio. The transaction requires stockholder approval at a special meeting expected later this year.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Successor Fund&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting of stockholders to vote on reorganization&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1702510/000119312526385588/0001193125-26-385588-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;425 · prefill_form:425 · filed 2026-09-09&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 09 05:14 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1702510/000119312526385584/d153258d8k.htm'&gt;Reorganizes from Maryland corp into Delaware statutory trust; vote later this year&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 09 05:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1702510/000119312526385588/d153258d425.htm'&gt;Converts to Delaware statutory trust; 1:1 share exchange&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
