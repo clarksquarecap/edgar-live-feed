@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 22:02:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 22:03:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SPRU 👀 Activist
+Secures board seat at Spruce Power; 17.8% stake
+Mcap $37M · EV $658M · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1772720/000092189526002614/0000921895-26-002614-index.htm</link>
+      <guid isPermaLink="false">0000921895-26-002614</guid>
+      <pubDate>Mon, 21 Sep 2026 17:03:48 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$PASG 🤝 Merger
+Acquires Remix Therapeutics in $226M stock merger; to trade as RMTX
+stock
+Mcap $15M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1787297/000114036126037256/ny20077915x5_s4a.htm</link>
+      <guid isPermaLink="false">0001140361-26-037256</guid>
+      <pubDate>Mon, 21 Sep 2026 16:52:16 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$GME 📍 Stake
+Buys 1.15M shares at $22.94, stake to 8.7%
+Mcap $11B · EV $11B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326380/000092189526002607/0000921895-26-002607-index.htm</link>
+      <guid isPermaLink="false">0000921895-26-002607</guid>
+      <pubDate>Mon, 21 Sep 2026 16:36:04 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$RAKR 📍 Stake
 Amends 13D to add 264K option shares; holds 16.2%
