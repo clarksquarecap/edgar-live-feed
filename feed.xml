@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 19:55:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:03:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🏛️ Insolvency · Chapter 11 · SGMOQ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1001233/000119312526396644/d178611d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-396644</guid>
+      <pubDate>Mon, 21 Sep 2026 15:03:21 -0500</pubDate>
+      <category>INSOLVENCY</category>
+      <category>chapter_11</category>
+      <category>8-K</category>
+      <scanner:headline>Sells ST-920 to PTC for $111M cash + $100M milestones</scanner:headline>
+      <scanner:shortName>SANGAMO THERAPEUTICS</scanner:shortName>
+      <scanner:price>0.1400</scanner:price>
+      <scanner:subtype>chapter_11</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>SGMOQ</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Sells ST-920 to PTC for $111M cash + $100M milestones&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In Chapter 11, completed the sale of its ST-920 gene therapy assets to PTC Therapeutics for $111M cash at closing plus up to $100M in milestones, plus assumption of certain liabilities. The sale closed on September 17, 2026, following court approval. The company&amp;#39;s stock trades on OTC under SGMOQ after Nasdaq delisting.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sangamo Therapeutics, Inc., a clinical-stage genomic medicine company, focuses on translating science into medicines that transform the lives of patients and families afflicted with serious diseases in the United States. The company’s clinical-stage product candidates are ST-920, a gene therapy product candidate, which is in Phase 1/2 clinical study for the treatment of Fabry disease; small fiber neuropathy for chronic neuropathic pain, and prion disease; Phase 1/2 clinical trial to evaluate the…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; PTC Therapeutics, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $111M cash + up to $100M contingent&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.1400 · Mkt cap $60.0M · EV $51.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1001233/000119312526396644/0001193125-26-396644-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SGMOQ&lt;/b&gt; · 8-K · Items 1.03, 2.01, 9.01 · Chemicals / Pharma (2836) · 8k_tier1:1.03,2.01 · filed 2026-09-21&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · RAKR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1872292/000149315226043552/0001493152-26-043552-index.htm</link>
@@ -13391,33 +13418,6 @@
 &lt;p&gt;&lt;i&gt;Px $9.97 · Mkt cap $929.7M · EV $901.2M · Fwd EV/EBITDA 4.3x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1548536/000149315226041899/0001493152-26-041899-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SCZM&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-09-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · ADI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/6281/000119312526385938/d924057d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-385938</guid>
-      <pubDate>Wed, 09 Sep 2026 07:36:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires Alif Semiconductor for $1.35B cash + up to $200M earnout</scanner:headline>
-      <scanner:shortName>ANALOG DEVICES</scanner:shortName>
-      <scanner:price>363.20</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>ADI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Alif Semiconductor for $1.35B cash + up to $200M earnout&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a definitive agreement to acquire Alif Semiconductor, a provider of AI-native microcontrollers and fusion processors, for $1.35 billion in upfront cash plus up to $200 million in contingent consideration. The all-cash transaction is expected to close before end of calendar year 2026, subject to customary conditions including HSR antitrust clearance. Alif&amp;#39;s silicon is already shipping in production with design wins across consumer and industrial customers.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Analog Devices, Inc. engages in the design, manufacture, testing, and marketing of integrated circuits (ICs), software, and subsystems products in the United States, rest of North and South America, Europe, Japan, China, and rest of Asia. It provides data converter products, which translate real-world analog signals into digital data, as well as translates digital data into analog signals; power management and reference products for power conversion, driver monitoring, sequencing, and energy man…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Alif Semiconductor&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $1.35B (plus up to $200M contingent)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR waiting period expiration&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $363.20 · Mkt cap $175.99B · EV $182.83B · Fwd P/E 23.3x · Fwd EV/EBITDA 17.1x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/6281/000119312526385938/0001193125-26-385938-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ADI&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Electronic Equipment (3674) · 8k_tier1:7.01 · filed 2026-09-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
