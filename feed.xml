@@ -6,8 +6,37 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 15:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:27:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · DTCKF</title>
+      <link>https://www.otcmarkets.com/stock/DTCKF/news/535838</link>
+      <guid isPermaLink="false">0001683168-26-007255</guid>
+      <pubDate>Mon, 21 Sep 2026 11:27:10 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>OTC</category>
+      <scanner:headline>Delisted from Nasdaq; to trade on OTC Markets</scanner:headline>
+      <scanner:shortName>DAVIS COMMODITIES</scanner:shortName>
+      <scanner:price>0.3100</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>DTCKF</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>6-K, OTC</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting; shares continue on OTC&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced that Nasdaq will file a Form 25 to complete the delisting of its Class A ordinary shares, effective ten days after filing. Trading was suspended on March 25, 2026 and has not resumed. Shares continue to trade on OTC Markets under DTCKF.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Davis Commodities Limited, an investment holding company, operates as an agricultural commodity trading company in Africa, China, Vietnam, Indonesia, the Philippines, Thailand, Singapore, and internationally. It trades in agricultural commodities, including sugar, rice, and oil and fat products under the Maxwill and Taffy brands. The company also provides warehouse handling, storage, and logistics services. Davis Commodities Limited was founded in 1999 and is headquartered in Singapore.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nasdaq&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.3100 · Mkt cap $710K · EV $2.4M · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1949478/000168316826007255/0001683168-26-007255-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DTCKF&lt;/b&gt; · 6-K · Wholesale; Nondurable (5150) · prefill_form:6-K · filed 2026-09-21&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;OTC · Sep 21 11:27 · &lt;a href='https://www.otcmarkets.com/stock/DTCKF/news/535838'&gt;Delisted from Nasdaq; to trade on OTC Markets&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 21 10:24 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1949478/000168316826007255/davis_6k.htm'&gt;Forced Nasdaq delisting; shares continue on OTC&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · LNBDX</title>
       <link>https://www.sec.gov/Archives/edgar/data/2054992/000119312526396333/0001193125-26-396333-index.htm</link>
@@ -31,33 +60,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2054992/000119312526396333/0001193125-26-396333-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LNBDX&lt;/b&gt; · SCHEDULE 13D/A · amended_13d · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · DTCKF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1949478/000168316826007255/davis_6k.htm</link>
-      <guid isPermaLink="false">0001683168-26-007255</guid>
-      <pubDate>Mon, 21 Sep 2026 10:24:13 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>6-K</category>
-      <scanner:headline>Forced Nasdaq delisting; shares continue on OTC</scanner:headline>
-      <scanner:shortName>DAVIS COMMODITIES</scanner:shortName>
-      <scanner:price>0.3100</scanner:price>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>DTCKF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting; shares continue on OTC&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that Nasdaq will file a Form 25 to complete the delisting of its Class A ordinary shares, effective ten days after filing. Trading was suspended on March 25, 2026 and has not resumed. Shares continue to trade on OTC Markets under DTCKF.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Davis Commodities Limited, an investment holding company, operates as an agricultural commodity trading company in Africa, China, Vietnam, Indonesia, the Philippines, Thailand, Singapore, and internationally. It trades in agricultural commodities, including sugar, rice, and oil and fat products under the Maxwill and Taffy brands. The company also provides warehouse handling, storage, and logistics services. Davis Commodities Limited was founded in 1999 and is headquartered in Singapore.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nasdaq&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.3100 · Mkt cap $710K · EV $2.4M · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1949478/000168316826007255/0001683168-26-007255-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DTCKF&lt;/b&gt; · 6-K · Wholesale; Nondurable (5150) · prefill_form:6-K · filed 2026-09-21&lt;/p&gt;</description>
     </item>
     <item>
       <title>📍 Stake · ECKLER JOE M JR</title>
