@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 20:39:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:41:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · ALIS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2026767/000149315226043575/form425.htm</link>
+      <guid isPermaLink="false">0001493152-26-043575</guid>
+      <pubDate>Mon, 21 Sep 2026 15:41:13 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>Enters prepaid forward purchase with Harraden for up to 3M shares to support Goodvision merger</scanner:headline>
+      <scanner:shortName>Calisa Acquisition</scanner:shortName>
+      <scanner:price>10.30</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>ALIS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Enters prepaid forward purchase with Harraden for up to 3M shares to support Goodvision merger&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a Prepaid Forward Purchase Agreement with Harraden Circle Investments to purchase up to 3,000,000 ordinary shares at the redemption price (~$10.31 per share) to maximize funds retained after the pending business combination with Goodvision AI Inc. The FPA supports the merger, which is subject to shareholder approval. The definitive proxy statement/prospectus has been filed.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Calisa Acquisition Corp does not have significant operations. It focuses on effecting a merger, share exchange, asset acquisition, stock purchase, reorganization or similar business combination with one or more businesses or entities. Calisa Acquisition Corp was incorporated in 2024 and is based in New York, New York.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Goodvision AI Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-03-06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on business combination&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.30 · Mkt cap $86.8M · EV $86.5M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2026767/000149315226043575/0001493152-26-043575-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ALIS, ALISR, ALISU&lt;/b&gt; · 425 · Business Services (7374) · prefill_form:425 · filed 2026-09-21&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · JACK</title>
       <link>https://www.sec.gov/Archives/edgar/data/807882/000090266426003887/0000902664-26-003887-index.htm</link>
@@ -13391,32 +13418,6 @@
 &lt;p&gt;&lt;i&gt;Px $50.38 · Mkt cap $14.53B · EV $13.54B · Fwd P/E 24.1x · Fwd EV/EBITDA 18.0x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1773383/000136157026000019/0001361570-26-000019-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DT&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7372) · fresh_13d · filed 2026-09-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Buyback Authorization · ASBP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847345/000149315226041918/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-041918</guid>
-      <pubDate>Wed, 09 Sep 2026 09:15:22 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-      <category>8-K</category>
-      <scanner:headline>Authorizes $10M share repurchase program</scanner:headline>
-      <scanner:shortName>Aspire Biopharma</scanner:shortName>
-      <scanner:price>7.91</scanner:price>
-      <scanner:subtype>buyback_authorization</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>ASBP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Authorizes $10M share repurchase program&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Authorized a $10 million common stock repurchase program effective September 9, 2026. With approximately 1.5 million shares outstanding, the buyback represents a significant return of capital. Management cites the strength of newly acquired Dura Control Systems Corp (2025 revenue ~$209.5M, Adjusted EBITDA $22.3M) and believes the share price undervalues the company.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Aspire Biopharma Holdings, Inc., an early-stage biopharmaceutical company, develops and markets disruptive technology for novel sublingual delivery mechanisms in the United States. It offers sublingual aspirin product that is a soluble, PH neutral, and fast acting aspirin, which addresses cardiology emergencies and pain management.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.91 · Mkt cap $12.4M · EV $250K · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1847345/000149315226041918/0001493152-26-041918-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ASBP, ASBPW&lt;/b&gt; · 8-K · Items 5.03, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
