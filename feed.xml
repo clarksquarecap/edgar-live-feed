@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 20:45:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:52:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · VREX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1681622/000110465926109351/tm2622593-5_defm14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-109351</guid>
+      <pubDate>Mon, 21 Sep 2026 15:52:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>DEFM14A</category>
+      <scanner:headline>Acquired by Teledyne for $18.90 cash/share; vote Oct 28</scanner:headline>
+      <scanner:shortName>Varex Imaging</scanner:shortName>
+      <scanner:price>18.47</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>DEFM14A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>VREX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFM14A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Teledyne for $18.90 cash/share; vote Oct 28&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To be acquired by Teledyne Technologies for $18.90 per share in cash. Special meeting on October 28, 2026 to approve merger; board recommends FOR.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Varex Imaging Corporation designs, manufactures, and sells X-ray imaging components. It operates through two segments, Medical and Industrial. The Medical segment designs, manufactures, sells, and services X-ray imaging components, comprising X-ray tubes, digital detectors and accessories, ionization chambers, high voltage connectors, image-processing software and workstations, 3D reconstruction software, computer-aided diagnostic software, collimators, automatic exposure control devices, genera…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Teledyne Technologies Incorporated&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $18.90&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting October 28, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $18.47 · Mkt cap $779.3M · EV $1.07B · Fwd P/E 19.8x · Fwd EV/EBITDA 8.6x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1681622/000110465926109351/0001104659-26-109351-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VREX&lt;/b&gt; · DEFM14A · Electronic Equipment (3679) · prefill_form:DEFM14A · filed 2026-09-21&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · ISBA</title>
       <link>https://www.sec.gov/Archives/edgar/data/842517/000084251726000222/isba-20260921.htm</link>
@@ -13403,29 +13430,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Franklin Templeton, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 68.2%&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1762562/000003877726000254/0000038777-26-000254-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CPRSX&lt;/b&gt; · SCHEDULE 13D/A · Securities / Broker-Dealers (6282) · fresh_13d · filed 2026-09-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · Blue Laser Fusion</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1938570/000119312526386157/0001193125-26-386157-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-386157</guid>
-      <pubDate>Wed, 09 Sep 2026 11:18:25 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Receives 13D from director Paul Rudy (6.16% stake)</scanner:headline>
-      <scanner:shortName>Blue Laser Fusion</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector />
-      <scanner:ticker />
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D from director Paul Rudy (6.16% stake)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D from director Paul Rudy disclosing beneficial ownership of 486,671 shares (6.16% of common stock), acquired in connection with the merger of its subsidiary with Pre-Merger BLF. Rudy also holds an option to acquire additional shares.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Paul Rudy&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.16%&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1938570/000119312526386157/0001193125-26-386157-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;SCHEDULE 13D · Holding / Investment Offices (6770) · fresh_13d · filed 2026-09-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
