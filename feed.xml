@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 10:50:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:03:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · VYLR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/ctva_form_10-12ba_3.htm</link>
+      <guid isPermaLink="false">0001193125-26-396054</guid>
+      <pubDate>Mon, 21 Sep 2026 06:03:27 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>spinco_new</category>
+      <category>10-12B/A</category>
+      <scanner:headline>Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR</scanner:headline>
+      <scanner:shortName>Vylor</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>10-12B/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>VYLR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>10-12B/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Will be spun off from Corteva through a pro-rata distribution of one share of Vylor common stock for each Corteva share held as of the September 24, 2026 record date. Distribution expected October 1, 2026, with Vylor listing on NYSE under VYLR. The spin-off is intended to be tax-free and requires no stockholder vote.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Corteva, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Record date Sep 24, 2026; distribution Oct 1, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/0001193125-26-396054-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VYLR&lt;/b&gt; · 10-12B/A · Agriculture (0100) · prefill_form:10-12B · filed 2026-09-21&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · ARGTF</title>
       <link>https://www.otcmarkets.com/stock/ARGTF/news/535753</link>
@@ -13394,33 +13418,6 @@
 &lt;p&gt;&lt;i&gt;Px $185.55 · Mkt cap $974.41B · EV $948.30B · Fwd P/E 4.1x · Fwd EV/EBITDA 3.0x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2120882/000119312526385841/0001193125-26-385841-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SKHY, HXSCL&lt;/b&gt; · 6-K · Electronic Equipment (3674) · prefill_form:6-K · filed 2026-09-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Buyback Authorization · AGNT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1495932/000110465926106028/0001104659-26-106028-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-106028</guid>
-      <pubDate>Tue, 08 Sep 2026 20:21:38 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Buys back 8.7M shares from Gratitude Trust at $3.68 (VWAP -10%)</scanner:headline>
-      <scanner:shortName>AGNT</scanner:shortName>
-      <scanner:price>3.98</scanner:price>
-      <scanner:subtype>buyback_authorization</scanner:subtype>
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>AGNT</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Buys back 8.7M shares from Gratitude Trust at $3.68 (VWAP -10%)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Agreed to repurchase 8,693,290 shares from the Gratitude 2022 Trust at $3.68/share (5-day VWAP less 10% discount). The Trust holds 18,037,824 shares (10.8%); after the sale it would hold ~9.3M shares (~5.6%). Closing subject to customary conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; AGNT, Inc, together with its subsidiaries, provides cloud-based real estate brokerage services for residential homeowners and homebuyers. It operates through three segments: North American Realty, International Realty, and Other Affiliated Services. The company acts as a licensed broker for processing residential and commercial real estate transactions; and provides other real estate support services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Gratitude 2022 Trust&lt;/li&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; $3.68&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $31,991,307&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10.8%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-03&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.98 · Mkt cap $673.5M · EV $562.3M · Fwd P/E 21.1x · Fwd EV/EBITDA 10.1x · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1495932/000110465926106028/0001104659-26-106028-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AGNT&lt;/b&gt; · SCHEDULE 13D · Real Estate (6531) · fresh_13d · filed 2026-09-08&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
