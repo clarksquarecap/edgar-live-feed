@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 12:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:30:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CTVA 🪓 Spinoff
+Files Form 10/A for Vylor seed spinoff
+Mcap $55B · EV $58B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526396123/d144225d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-396054</guid>
+      <pubDate>Mon, 21 Sep 2026 07:30:36 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$IPXG 🤝 Merger
 Hosts analyst day; presents investor deck for Elroy Air merger
@@ -38,14 +47,6 @@ Mcap $481M · EV $1.4B · Financials</title>
       <pubDate>Mon, 21 Sep 2026 06:44:01 -0500</pubDate>
       <category>GOING_PRIVATE</category>
       <category>management_buyout</category>
-    </item>
-    <item>
-      <title>$VYLR 🪓 Spinoff
-Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/ctva_form_10-12ba_3.htm</link>
-      <guid isPermaLink="false">0001193125-26-396054</guid>
-      <pubDate>Mon, 21 Sep 2026 06:03:27 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
     <item>
       <title>$ARGTF 🤝 Merger

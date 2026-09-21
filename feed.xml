@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 12:16:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:30:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · VYLR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526396123/d144225d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-396054</guid>
+      <pubDate>Mon, 21 Sep 2026 07:30:36 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>spinco_new</category>
+      <category>8-K</category>
+      <scanner:headline>Files Form 10/A for Vylor seed spinoff</scanner:headline>
+      <scanner:shortName>Vylor</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>VYLR</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>10-12B/A, 8-K</scanner:filingForms>
+      <scanner:related>CTVA</scanner:related>
+      <description>&lt;p&gt;&lt;b&gt;Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Will be spun off from Corteva through a pro-rata distribution of one share of Vylor common stock for each Corteva share held as of the September 24, 2026 record date. Distribution expected October 1, 2026, with Vylor listing on NYSE under VYLR. The spin-off is intended to be tax-free and requires no stockholder vote.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Corteva, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Record date Sep 24, 2026; distribution Oct 1, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/0001193125-26-396054-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VYLR&lt;/b&gt; · 10-12B/A · Agriculture (0100) · prefill_form:10-12B · filed 2026-09-21&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 21 07:30 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1755672/000119312526396123/d144225d8k.htm'&gt;Files Form 10/A for Vylor seed spinoff&lt;/a&gt;&lt;/li&gt;&lt;li&gt;10-12B/A · Sep 21 06:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/ctva_form_10-12ba_3.htm'&gt;Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty CTVA also filed 8-K&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · IPXG</title>
       <link>https://www.sec.gov/Archives/edgar/data/2088805/000121390026101659/ea0306061-8k425_inflection7.htm</link>
@@ -88,30 +115,6 @@
 &lt;p&gt;&lt;i&gt;Px $5.83 · Mkt cap $480.6M · EV $1.42B · Fwd P/E 4.6x · Fwd EV/EBITDA 5.7x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1653558/000121390026101653/0001213900-26-101653-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PRTH, PRTHU&lt;/b&gt; · DEFA14A · Business Services (7389) · prefill_form:DEFA14A · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · VYLR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/ctva_form_10-12ba_3.htm</link>
-      <guid isPermaLink="false">0001193125-26-396054</guid>
-      <pubDate>Mon, 21 Sep 2026 06:03:27 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>spinco_new</category>
-      <category>10-12B/A</category>
-      <scanner:headline>Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR</scanner:headline>
-      <scanner:shortName>Vylor</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>10-12B/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>VYLR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>10-12B/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will be spun off from Corteva through a pro-rata distribution of one share of Vylor common stock for each Corteva share held as of the September 24, 2026 record date. Distribution expected October 1, 2026, with Vylor listing on NYSE under VYLR. The spin-off is intended to be tax-free and requires no stockholder vote.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Corteva, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Record date Sep 24, 2026; distribution Oct 1, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/0001193125-26-396054-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VYLR&lt;/b&gt; · 10-12B/A · Agriculture (0100) · prefill_form:10-12B · filed 2026-09-21&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · ARGTF</title>
