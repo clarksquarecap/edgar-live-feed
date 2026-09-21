@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 21:58:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 21:59:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HSTM 📍 Stake
+Receives 13D from WJRJJ Ventures; 9.6% stake at $29.50/share
+Mcap $894M · EV $841M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1095565/000215202526000004/0002152025-26-000004-index.htm</link>
+      <guid isPermaLink="false">0002152025-26-000004</guid>
+      <pubDate>Mon, 21 Sep 2026 16:36:03 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$VGZ 🤝 Merger
+Acquired by Artemis Gold for 0.0966 Artemis shares per share; vote pending
+stock · close Q2 2027
+Mcap $330M · EV $280M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/783324/000110465926109364/tm2625813d1_8k.htm</link>
+      <guid isPermaLink="false">OTC-535753</guid>
+      <pubDate>Mon, 21 Sep 2026 16:36:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$WWD 📤 Divestiture
 Divests legacy product lines and Santa Clarita campus; close FY2027
@@ -126,17 +146,6 @@ Mcap $540M · EV $527M · Cons Disc</title>
       <guid isPermaLink="false">0000921895-26-002611</guid>
       <pubDate>Mon, 21 Sep 2026 16:32:07 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$VGZ 🤝 Merger
-Acquired by Artemis Gold for 0.0966x/share ($2.83)
-29% prem · $427M deal · stock · close January 2027
-Mcap $330M · EV $280M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/783324/000110465926109367/tm2625813d3_defa14a.htm</link>
-      <guid isPermaLink="false">OTC-535753</guid>
-      <pubDate>Mon, 21 Sep 2026 16:30:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$EMPD ⚔️ Proxy
