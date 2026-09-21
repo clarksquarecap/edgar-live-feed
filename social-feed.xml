@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 20:37:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:39:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$JACK 👀 Activist
+Extends cooperation agreement with Jack in the Box; adds board consultation, investor day
+7.1 stake
+Mcap $250M · EV $2.7B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/807882/000090266426003887/0000902664-26-003887-index.htm</link>
+      <guid isPermaLink="false">0000902664-26-003887</guid>
+      <pubDate>Mon, 21 Sep 2026 15:30:29 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$BNC 📍 Stake
 Raises beneficial ownership limit on warrants to 19.99%
@@ -16,6 +26,15 @@ Mcap $246M · EV $257M · Industrials</title>
       <guid isPermaLink="false">0000921895-26-002598</guid>
       <pubDate>Mon, 21 Sep 2026 15:30:29 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$CSTUF 🤝 Merger
+Files third amended S-4 for Constellation Acquisition Corp I business combination</title>
+      <link>https://www.otcmarkets.com/stock/CSTUF/news/535852</link>
+      <guid isPermaLink="false">OTC-535852</guid>
+      <pubDate>Mon, 21 Sep 2026 15:30:29 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
     </item>
     <item>
       <title>$BHLL 🤝 Merger
