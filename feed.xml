@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 22:05:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 22:36:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · SDRL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1737706/000091957426006414/0000919574-26-006414-index.htm</link>
+      <guid isPermaLink="false">0000919574-26-006414</guid>
+      <pubDate>Mon, 21 Sep 2026 17:36:37 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Receives 13D/A from Elliott; 12.3% combined economic exposure</scanner:headline>
+      <scanner:shortName>SEADRILL</scanner:shortName>
+      <scanner:price>46.58</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>SDRL</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Elliott; 12.3% combined economic exposure&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received Amendment No. 8 to Elliott Investment Management&amp;#39;s Schedule 13D, disclosing 5.8% beneficial ownership (3,643,112 shares) plus cash-settled swaps on 4,042,300 shares (6.5%), for approximately 12.3% combined economic exposure. All recent trades were in the open market; the amendment updates Items 3, 5(a)-(c), and Item 6.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Seadrill Limited provides offshore drilling services to the oil and gas industry worldwide. The company owns and operates floaters, such as drillships and semi-submersible rigs for operations in shallow and ultra-deep water in benign and harsh environments. It also offers jackup rigs, management services, and provides contracts drilling units to drill wells. It serves oil super-majors, state-owned national oil companies, and independent oil and gas companies.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Elliott Investment Management L.P.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.8%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $46.58 · Mkt cap $2.97B · EV $3.39B · Fwd P/E 25.7x · Fwd EV/EBITDA 6.8x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1737706/000091957426006414/0000919574-26-006414-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SDRL&lt;/b&gt; · SCHEDULE 13D/A · Oil &amp;amp; Gas (1381) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💔 Busted · SNWR</title>
       <link>https://www.otcmarkets.com/stock/SNWR/news/535870</link>
@@ -13405,36 +13432,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DEC&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Oil &amp;amp; Gas (1311) · 8k_tier1:7.01 · filed 2026-09-03&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 09 15:48 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1922446/000192244626000086/dec-20260902.htm'&gt;Acquires Birch Permian for ~$1.8B; close Q4 2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 03 05:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1922446/000192244626000083/dec-20260902.htm'&gt;Acquires Birch Permian for $1.8B; ~35% production boost&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · CSR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/798359/000114036126036068/ef20081819_425.htm</link>
-      <guid isPermaLink="false">0001437749-26-029905</guid>
-      <pubDate>Wed, 09 Sep 2026 15:47:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquired by IRT in all-stock merger; 3.8 IRT shares per share</scanner:headline>
-      <scanner:shortName>CENTERSPACE</scanner:shortName>
-      <scanner:price>52.71</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>CSR</scanner:ticker>
-      <scanner:filings>9</scanner:filings>
-      <scanner:filingForms>425 x7, 8-K x2</scanner:filingForms>
-      <scanner:related>IRT</scanner:related>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Independence Realty Trust for 3.80 IRT shares per share&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Agreed to be acquired by Independence Realty Trust in an all-stock merger. Each CSR share will be exchanged for 3.80 IRT shares. The transaction is subject to shareholder approvals and other customary conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Centerspace is an owner and operator of apartment communities committed to providing great homes by focusing on integrity and serving others. Founded in 1970, as of June 30, 2026, Centerspace owned 60 apartment communities consisting of 12,090 homes located in Colorado, Minnesota, Montana, Nebraska, North Dakota, South Dakota, and Utah. Centerspace was named a Top Workplace in 2026 by USA Today and for the seventh consecutive year in 2026 by the Minnesota Star Tribune.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Independence Realty Trust&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 3.80 IRT shares&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $52.71 · Mkt cap $885.2M · EV $1.98B · Fwd EV/EBITDA 17.4x · Real Estate / Residential REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000143774926029905/0001437749-26-029905-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CSR&lt;/b&gt; · 425 · Holding / Investment Offices (6798) · prefill_form:425 · filed 2026-09-09&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (9)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 09 15:47 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000114036126036068/ef20081819_425.htm'&gt;Acquired by IRT in all-stock merger; 3.8 IRT shares per share&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 09 15:41 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000114036126036065/ef20081788_425.htm'&gt;Acquired by Independence Realty Trust in all-stock merger; shareholders to own 22% of combined&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 09 15:23 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000143774926029984/irt20260909e_425.htm'&gt;Acquired by Independence Realty Trust in stock merger; close Q4 2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 09 15:23 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000143774926029985/irt20260909f_425.htm'&gt;Acquired by IRT in all-stock merger; combined EV $8.1B&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 09 15:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000143774926029983/irt20260907_425.htm'&gt;Acquired by Independence Realty Trust; combined REIT to trade as IRT&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 09 07:43 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000114036126035986/ef20081761_8k.htm'&gt;Acquired by IRT for 3.8 IRT shares per share; all-stock merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 09 07:42 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000114036126035987/ef20081761_425.htm'&gt;Acquired by IRT in all-stock merger; 3.8 IRT shares per share&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 09 05:50 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1466085/000143774926029903/irt20260909c_8k.htm'&gt;Acquires Centerspace for 3.8 IRT shares per CSR share&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 09 05:50 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000143774926029905/irt20260909d_425.htm'&gt;Acquired by Independence Realty Trust for 3.80 IRT shares per share&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer IRT also filed 8-K&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
