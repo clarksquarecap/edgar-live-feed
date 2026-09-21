@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 16:27:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:57:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔐 Going Private · PRTH</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1653558/000121390026101765/0001213900-26-101765-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-101765</guid>
+      <pubDate>Mon, 21 Sep 2026 13:57:15 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Takes PRTH private via merger with WD Capital Partners; owns 56.5%</scanner:headline>
+      <scanner:shortName>Priority Technology</scanner:shortName>
+      <scanner:price>5.83</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>PRTH</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Takes PRTH private via merger with WD Capital Partners; owns 56.5%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Thomas C. Priore, along with John V. Priore and AESV CreditCard Consulting, entered into a merger agreement to take Priority Technology Holdings private. The merger will be effected via WD Capital Partners Parent Inc. and its merger sub, with the company surviving as a wholly owned subsidiary of Parent. Priore currently owns 56.5% of the company&amp;#39;s common stock.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Priority Technology Holdings, Inc. operates as a payment technology company in the United States. The company operates through three segments: Merchant Solutions, Payables, and Treasury Solutions. The company offers merchant solutions, such as full-service acquiring and payment-enabled solutions for B2C transactions, leveraging proprietary software platform, distributed through independent sales organizations, direct sales, and vertically focused independent software vendors channels.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 56.5%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.83 · Mkt cap $480.6M · EV $1.42B · Fwd P/E 4.6x · Fwd EV/EBITDA 5.7x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1653558/000121390026101765/0001213900-26-101765-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PRTH, PRTHU&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7389) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · DTCKF</title>
       <link>https://www.otcmarkets.com/stock/DTCKF/news/535838</link>
@@ -13397,33 +13424,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $540K · EV $10.2M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/SBIG/news/534506'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SBIG&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · GOGAF</title>
-      <link>https://www.globenewswire.com/news-release/2026/06/22/3315228/0/en/GoGo-AI-Network-Inc-and-Algo8-Industrial-AI-Inc-Announce-Definitive-Arrangement-Agreement-to-Spin-Out-Full-Stack-Industrial-AI-Platform-to-Public-Markets.html</link>
-      <guid isPermaLink="false">OTC-534495</guid>
-      <pubDate>Wed, 09 Sep 2026 07:11:41 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>other</category>
-      <category>OTC</category>
-      <scanner:headline>Spins out Algo8 into new listed company; 0.25 Spin Co share per GoGo share</scanner:headline>
-      <scanner:shortName>GoGo AI Network</scanner:shortName>
-      <scanner:price>0.1200</scanner:price>
-      <scanner:subtype />
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>GOGAF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Spins out Algo8 into new listed company; 0.25 Spin Co share per GoGo share&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced a definitive arrangement agreement to spin out its investment in Algo8 Industrial AI Inc. into a new subsidiary, Spin Co, which will acquire the remaining interests in Algo8. GoGo shareholders will receive 0.25 Spin Co share per GoGo share while retaining their GoGo shares, resulting in approximately 30% ownership of the combined entity. The transaction is expected to close in Q3 2026, subject to shareholder and court approvals.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; GoGo AI Network Inc. focuses on identifying, investing in, and supporting companies developing artificial intelligence, automation, and software technologies. It also provides solutions for the industrial sector; and autonomous mobile robotics solutions. The company was formerly known as MedBright AI Investments Inc. and changed its name to GoGo AI Network Inc. in January 2026. GoGo AI Network Inc. is headquartered in Vancouver, Canada.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Algo8 Industrial AI Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder and court approvals&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1200 · Mkt cap $13.9M · EV $12.9M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/GOGAF/news/534495'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GOGAF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
