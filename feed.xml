@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 05:33:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:05:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · CBZ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/944148/000119312526395819/d181429ddefm14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-395819</guid>
+      <pubDate>Mon, 21 Sep 2026 05:05:42 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>DEFM14A</category>
+      <scanner:headline>Acquired by Grant Thornton affiliate for $55.00 cash/share; vote Oct 27</scanner:headline>
+      <scanner:shortName>CBIZ</scanner:shortName>
+      <scanner:price>54.63</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>DEFM14A</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>CBZ</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFM14A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Grant Thornton affiliate for $55.00 cash/share; vote Oct 27&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Stockholders to vote on merger with Viking ParentCo (Grant Thornton affiliate) at $55.00 per share cash. Special meeting Oct 27, 2026; board recommends FOR. Closing expected Q4 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CBIZ, Inc. provides financial, insurance, and advisory services in the United States and Canada. It operates through Financial Services, Benefits and Insurance Services, and National Practices segments. The Financial Services segment offers accounting and tax, financial advisory, national technology, and government healthcare consulting services.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Viking ParentCo (Grant Thornton)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 55.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote Oct 27, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $54.63 · Mkt cap $2.88B · EV $4.77B · Fwd P/E 13.2x · Fwd EV/EBITDA 9.8x · Industrials / Professional Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/944148/000119312526395819/0001193125-26-395819-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CBZ&lt;/b&gt; · DEFM14A · Business Services (7389) · prefill_form:DEFM14A · filed 2026-09-21&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Voluntary · KPGHF</title>
       <link>https://www.otcmarkets.com/stock/KPGHF/news/535718</link>
@@ -13394,33 +13421,6 @@
 &lt;p&gt;&lt;i&gt;Px $32.31 · Mkt cap $12.78B · EV $11.80B · Fwd P/E 50.2x · Fwd EV/EBITDA 19.6x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1795586/000119312526385383/0001193125-26-385383-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CHYM&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Non-Depository Credit (6199) · 8k_tier1:1.01,7.01 · filed 2026-09-08&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · NVTS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1821769/000110465926105967/tm2624896-1_s4.htm</link>
-      <guid isPermaLink="false">0001104659-26-105967</guid>
-      <pubDate>Tue, 08 Sep 2026 16:33:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4</category>
-      <scanner:headline>Acquires Claros for $232.8M cash+stock; close by year-end</scanner:headline>
-      <scanner:shortName>Navitas Semiconductor</scanner:shortName>
-      <scanner:price>12.00</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>NVTS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Claros for $232.8M cash+stock; close by year-end&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will acquire Claros, Inc. via two-step merger for ~$232.8M total consideration: ~$126.4M cash, ~$89.7M in 6,912,729 Class A shares, and up to $16.7M in earnout shares. Closing expected before Dec 31, 2026, subject to HSR clearance and S-4 effectiveness. No Navitas stockholder approval required.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Navitas Semiconductor Corporation designs, develops, and markets power semiconductors in the United States, Europe, China, rest of Asia, and internationally. The company offers gallium nitride power integrated circuits, silicon carbide power devices, silicon system controllers, and digital isolators for power conversion and charging. Its products are used in automotive, data center, mobile, consumer electronics markets, and various other applications.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Claros, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $232.8M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR clearance and S-4 effectiveness&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $12.00 · Mkt cap $3.08B · EV $2.53B · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1821769/000110465926105967/0001104659-26-105967-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NVTS&lt;/b&gt; · S-4 · Electronic Equipment (3674) · prefill_form:S-4 · filed 2026-09-08&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
