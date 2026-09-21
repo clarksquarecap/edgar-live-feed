@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 21 Sep 2026 11:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:44:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔐 Going Private · Management Buyout · PRTH</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1653558/000121390026101653/ea0306047-8k_priority.htm</link>
+      <guid isPermaLink="false">0001213900-26-101653</guid>
+      <pubDate>Mon, 21 Sep 2026 06:44:01 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>management_buyout</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Acquired by Priore-led group for $8.05/share cash (65% premium)</scanner:headline>
+      <scanner:shortName>Priority Technology</scanner:shortName>
+      <scanner:price>5.83</scanner:price>
+      <scanner:subtype>management_buyout</scanner:subtype>
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>PRTH</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Priore-led group for $8.05/share cash (65% premium)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a definitive agreement to be acquired by an investor group led by its Chairman/CEO Thomas Priore for $8.05 per share in cash, a 65% premium to the unaffected price. The transaction, valued at ~$1.6B enterprise value, was unanimously recommended by a special committee and approved by the board. Closing is subject to stockholder approval and regulatory approvals.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Priority Technology Holdings, Inc. operates as a payment technology company in the United States. The company operates through three segments: Merchant Solutions, Payables, and Treasury Solutions. The company offers merchant solutions, such as full-service acquiring and payment-enabled solutions for B2C transactions, leveraging proprietary software platform, distributed through independent sales organizations, direct sales, and vertically focused independent software vendors channels.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; WD Capital Partners Parent Inc. (investor group led by Thomas Priore)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $8.05 per share cash&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; ~$1.6B (enterprise value)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 65%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder vote and regulatory approvals&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.83 · Mkt cap $480.6M · EV $1.42B · Fwd P/E 4.6x · Fwd EV/EBITDA 5.7x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1653558/000121390026101653/0001213900-26-101653-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PRTH, PRTHU&lt;/b&gt; · DEFA14A · Business Services (7389) · prefill_form:DEFA14A · filed 2026-09-21&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧬 Spin-Off · VYLR</title>
       <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/ctva_form_10-12ba_3.htm</link>
@@ -13391,33 +13418,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;425 · prefill_form:425 · filed 2026-09-09&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 09 05:14 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1702510/000119312526385584/d153258d8k.htm'&gt;Reorganizes from Maryland corp into Delaware statutory trust; vote later this year&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 09 05:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1702510/000119312526385588/d153258d425.htm'&gt;Converts to Delaware statutory trust; 1:1 share exchange&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · SKHY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2120882/000119312526385841/d80436d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-385841</guid>
-      <pubDate>Wed, 09 Sep 2026 05:09:23 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Weighing sale of Chongqing packaging plant stake; reported ~W4T</scanner:headline>
-      <scanner:shortName>SK hynix</scanner:shortName>
-      <scanner:price>185.55</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>SKHY</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Weighing sale of Chongqing packaging plant stake; reported ~W4T&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Responded to a Korea Exchange inquiry regarding media reports of a potential sale of a stake in its Chongqing, China packaging plant, reportedly valued at approximately Won 4 trillion. The company said it is reviewing measures to strengthen packaging competitiveness but no decisions have been made; further disclosure will come within three months.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SK hynix Inc. through its subsidiaries, engages in research, develops, manufactures, distributes, and sells semiconductor devices in Korea, China, rest of Asia, the United States, Europe, and internationally. It offers DRAM, such as server memory, graphics memory, mobile memory, PC memory, consumer memory; NAND flash memory; SSD; and MCP products. It also engages in foundry business, produces non-memory semiconductors.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; Won 4 trillion (reported)&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Further disclosure within 3 months&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $185.55 · Mkt cap $974.41B · EV $948.30B · Fwd P/E 4.1x · Fwd EV/EBITDA 3.0x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2120882/000119312526385841/0001193125-26-385841-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SKHY, HXSCL&lt;/b&gt; · 6-K · Electronic Equipment (3674) · prefill_form:6-K · filed 2026-09-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
