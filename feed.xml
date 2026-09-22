@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 20:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:19:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · DOMO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1505952/000110465926109635/tm2625825d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-109635</guid>
+      <pubDate>Tue, 22 Sep 2026 15:19:33 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>busted_ma</category>
+      <category>8-K</category>
+      <scanner:headline>Sells substantially all assets to Progress for ~$221M cash; ticker to HUCK</scanner:headline>
+      <scanner:shortName>Huckleberry.ai</scanner:shortName>
+      <scanner:price>3.72</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Technology</scanner:sector>
+      <scanner:ticker>DOMO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Sells substantially all assets to Progress for ~$221M cash; ticker to HUCK&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed the sale of substantially all assets and employees to Progress Software for approximately $221.0 million in cash, excluding NOLs. The company changed its name to Huckleberry.ai and will trade under HUCK on Nasdaq starting September 24, 2026. Proceeds will be used for value creation and capital return to stockholders.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Progress Software Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $221.0 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Ticker change to HUCK effective September 24, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.72 · Mkt cap $175.0M · EV $296.7M · Fwd P/E 43.8x · Fwd EV/EBITDA 9.9x · EV/Sales 1.0x · Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1505952/000110465926109635/0001104659-26-109635-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DOMO&lt;/b&gt; · 8-K · Items 1.02, 2.01, 5.03, 7.01, 8.01, 9.01 · Business Services (7372) · 8k_tier1:1.02,2.01,7.01,8.01 · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · KCA-UN</title>
       <link>https://www.sec.gov/Archives/edgar/data/2102713/000119312526397915/d159150d425.htm</link>
@@ -13367,33 +13393,6 @@
 &lt;p&gt;&lt;i&gt;Px $84.75 · Mkt cap $56.54B · EV $59.28B · Fwd P/E 20.7x · Fwd EV/EBITDA 13.0x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1755672/000119312526387254/0001193125-26-387254-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CTVA&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Agriculture (0100) · 8k_tier1:8.01 · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Preliminary · NUGS</title>
-      <link>https://www.prnewswire.com/news-releases/cannabis-strategic-signals-intent-to-acquire-organic-cannabis-extract-brand-672913833.html</link>
-      <guid isPermaLink="false">OTC-534670</guid>
-      <pubDate>Thu, 10 Sep 2026 06:43:12 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-      <category>OTC</category>
-      <scanner:headline>Signs LOI to acquire Pure Applied Sciences</scanner:headline>
-      <scanner:shortName>Cannabis Strategic Ventures</scanner:shortName>
-      <scanner:price>0.0100</scanner:price>
-      <scanner:subtype>preliminary</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>NUGS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Signs LOI to acquire Pure Applied Sciences&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Signed a letter of intent to acquire Pure Applied Sciences and its PureOrganix brand of cannabis oils. No financial terms were disclosed. The acquisition would launch a new consumer brands division.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cannabis Strategic Ventures engages in the cultivation of marijuana products in the United States. It incubates, develops, and partners within the cannabis and ancillary sectors. The company is based in Los Angeles, California.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Pure Applied Sciences&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2018-02-06&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $4.4M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/NUGS/news/534670'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NUGS&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
