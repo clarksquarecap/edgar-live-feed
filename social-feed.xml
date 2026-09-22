@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 20:44:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:51:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RNW 📦 Going Private
+Taken private by CPP Investments consortium for $7.02 cash/share via UK scheme
+cash
+Mcap $2.5B · EV $10B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848763/000119312526398027/d136127dsc13e3.htm</link>
+      <guid isPermaLink="false">0001193125-26-398027</guid>
+      <pubDate>Tue, 22 Sep 2026 15:51:29 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$RKTO 🤝 Merger
 Acquires Tracer Drone Technologies for 100% stake
@@ -575,17 +585,6 @@ Mcap $779M · EV $1.1B · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1681622/000110465926109351/tm2622593-5_defm14a.htm</link>
       <guid isPermaLink="false">0001104659-26-109351</guid>
       <pubDate>Mon, 21 Sep 2026 15:52:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ISBA 🤝 Merger
-Grand River shareholders approve merger; close Q4 2026
-Grand River Commerce
-Mcap $294M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/842517/000084251726000222/isba-20260921.htm</link>
-      <guid isPermaLink="false">0000842517-26-000222</guid>
-      <pubDate>Mon, 21 Sep 2026 15:45:06 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>

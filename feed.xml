@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 20:44:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:51:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔐 Going Private · RNW</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848763/000119312526398027/d136127dsc13e3.htm</link>
+      <guid isPermaLink="false">0001193125-26-398027</guid>
+      <pubDate>Tue, 22 Sep 2026 15:51:29 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>going_private</category>
+      <category>SC 13E3</category>
+      <scanner:headline>Taken private by CPP Investments consortium for $7.02 cash/share via UK scheme</scanner:headline>
+      <scanner:shortName>ReNew Energy Global</scanner:shortName>
+      <scanner:price>6.84</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SC 13E3</scanner:form>
+      <scanner:sector>Utilities</scanner:sector>
+      <scanner:ticker>RNW</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC 13E3</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Taken private by CPP Investments consortium for $7.02 cash/share via UK scheme&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is being taken private by a consortium of CPP Investments and founder/CEO Sumant Sinha via a UK scheme of arrangement. Cash-Out Shares receive $7.02 per share in cash; Rollover Shares continue to be held. The Special Committee recommends the deal and Rothschild &amp;amp; Co provided a fairness opinion. Conditions include Court Meeting approval (75% in value), General Meeting, Court sanction, India anti-trust and Belgium/France FDI clearances.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; CPP Investments-led Consortium (with Sumant Sinha)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $7.02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Court Meeting and General Meeting pending&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $6.84 · Mkt cap $2.49B · EV $10.35B · Fwd P/E 19.7x · Fwd EV/EBITDA 9.4x · EV/Sales 6.0x · Utilities / Independent Power and Renewable Electricity Producers&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1848763/000119312526398027/0001193125-26-398027-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RNW&lt;/b&gt; · SC 13E3 · Utilities (4911) · prefill_form:SC 13E3 · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · RKTO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1711786/000121390026102217/ea0306306-8k_rocket.htm</link>
@@ -13358,33 +13384,6 @@
 &lt;p&gt;&lt;i&gt;Px $35.51 · Mkt cap $9.09B · EV $9.89B · Fwd P/E 21.9x · Fwd EV/EBITDA 15.1x · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/831641/000110465926106564/0001104659-26-106564-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TTEK&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Engineering / Accounting (8711) · 8k_tier1:8.01 · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · AROW</title>
-      <link>https://www.sec.gov/Archives/edgar/data/717538/000071753826000123/arow-20260910.htm</link>
-      <guid isPermaLink="false">0000717538-26-000123</guid>
-      <pubDate>Thu, 10 Sep 2026 07:53:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires Skene Valley Agency; close targeted by Q3 end</scanner:headline>
-      <scanner:shortName>ARROW FINANCIAL</scanner:shortName>
-      <scanner:price>38.67</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>AROW</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Skene Valley Agency; close targeted by Q3 end&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Arrow Financial&amp;#39;s subsidiary Upstate Agency entered a definitive agreement to acquire Skene Valley Agency, an independent insurance agency in Washington County, NY. The sale is targeted to close by end of Q3 2026. Skene Valley will merge into Upstate Agency, expanding its operations in Washington County.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Arrow Financial Corporation, a bank holding company, provides various commercial and consumer banking, and financial products and services in the United States. The company’s deposit products include demand deposits, interest-bearing checking accounts, savings deposits, time deposits, and other time deposits.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Skene Valley Agency, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing targeted by end of Q3 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $38.67 · Mkt cap $716.3M · Fwd P/E 9.6x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/717538/000071753826000123/0000717538-26-000123-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AROW&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Depository Institutions (6021) · 8k_tier1:8.01 · filed 2026-09-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
