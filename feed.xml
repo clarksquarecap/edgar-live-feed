@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 02:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:02:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🎯 Tender · BSBR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1471055/000129281426004631/bsbr20260921_425.htm</link>
+      <guid isPermaLink="false">0001292814-26-004631</guid>
+      <pubDate>Tue, 22 Sep 2026 05:02:52 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>acquisition</category>
+      <category>425</category>
+      <scanner:headline>Exchange offer from Banco Santander: F-4 filed, appraisal received</scanner:headline>
+      <scanner:shortName>Banco Santander</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>425</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>BSBR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Exchange offer from Banco Santander: F-4 filed, appraisal received&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Reported that Banco Santander, S.A. filed a Form F-4 with the SEC and requested registration of BDRs with CVM and B3 for the voluntary exchange offer. The company also received the appraisal report from UBS BB. The exchange offer is intended to exchange Santander Brasil shares for Banco Santander shares.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Banco Santander, S.A.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; SEC effectiveness of Form F-4 and formal launch of exchange offers&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1471055/000129281426004631/0001292814-26-004631-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BSBR&lt;/b&gt; · 425 · Depository Institutions (6029) · prefill_form:425 · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · PDSB</title>
       <link>https://www.sec.gov/Archives/edgar/data/1472091/000119312526397073/0001193125-26-397073-index.htm</link>
@@ -13404,33 +13428,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GLND, GLNDW&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Oil &amp;amp; Gas (1381) · 8k_tier1:7.01 · filed 2026-09-08&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 09 16:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2093507/000182912626009947/greenlandenergy_8k.htm'&gt;Makes potential offer for 80 Mile PLC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 08 05:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2093507/000182912626009787/greenlandenergy_8k.htm'&gt;Acquires 80 Mile in all-share deal; 0.01108 GLND/shr, ~1.1p, 42.9% prem&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · INM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1728328/000119312526386611/d131177ds4a.htm</link>
-      <guid isPermaLink="false">0001193125-26-386611</guid>
-      <pubDate>Wed, 09 Sep 2026 16:15:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4/A</category>
-      <scanner:headline>Acquires Mentari in all-stock merger; ~2.0056x ratio</scanner:headline>
-      <scanner:shortName>InMed Pharmaceuticals</scanner:shortName>
-      <scanner:price>1.31</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4/A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>INM</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Mentari in all-stock merger; ~2.0056x ratio&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will acquire Mentari Therapeutics in an all-stock merger. Each share of Mentari common and Series A preferred stock will convert into approximately 2.0056 InMed common shares, subject to adjustment. InMed will redomesticate to Nevada and rename to Mentari Therapeutics, Inc. The merger requires shareholder approval.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; InMed Pharmaceuticals Inc., a clinical stage pharmaceutical company, develops a pipeline of prescription-based products in the United States. The company operates through two segments, InMed Pharmaceuticals and BayMedica Commercial. The InMed Pharmaceuticals segment researches and develops cannabinoid-based pharmaceuticals products. The BayMedica Commercial segment develops proprietary manufacturing technologies to produce and sell rare cannabinoids for the health and wellness industry.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Mentari Therapeutics, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-19&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.31 · Mkt cap $5.9M · EV $1.2M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1728328/000119312526386611/0001193125-26-386611-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;INM&lt;/b&gt; · S-4/A · Chemicals / Pharma (2834) · prefill_form:S-4 · filed 2026-09-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
