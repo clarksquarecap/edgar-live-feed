@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 20:43:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:44:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RKTO 🤝 Merger
+Acquires Tracer Drone Technologies for 100% stake
+Mcap $19M · EV $11M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1711786/000121390026102217/ea0306306-8k_rocket.htm</link>
+      <guid isPermaLink="false">0001213900-26-102217</guid>
+      <pubDate>Tue, 22 Sep 2026 15:44:04 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ACRE 📤 Divestiture
 Sells NC office property for $64M cash
@@ -578,17 +588,6 @@ Mcap $294M · Financials</title>
       <pubDate>Mon, 21 Sep 2026 15:45:06 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NAMS ⚖️ Litigation · Won
-EC grants first worldwide approval for obicetrapib; €milestones triggered
-vs Menarini
-Mcap $2.7B · EV $2.0B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1936258/000119312526396716/nams-20260921.htm</link>
-      <guid isPermaLink="false">0001193125-26-396716</guid>
-      <pubDate>Mon, 21 Sep 2026 15:43:57 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
