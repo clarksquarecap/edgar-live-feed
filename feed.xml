@@ -6,31 +6,56 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 10:02:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:04:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
+      <title>🔐 Going Private · BSBR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1471055/000129281426004630/bsbr20260921_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004630</guid>
+      <pubDate>Tue, 22 Sep 2026 05:04:06 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Exchange offer from Banco Santander advances; F-4 filed</scanner:headline>
+      <scanner:shortName>Banco Santander</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>BSBR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Exchange offer from Banco Santander advances; F-4 filed&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced that parent Banco Santander filed a Form F-4 with the SEC and requested CVM registration for the exchange offer, and that the company received an appraisal report from UBS BB. The exchange offer is pending regulatory approvals.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; SEC effectiveness of F-4&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1471055/000129281426004630/0001292814-26-004630-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BSBR&lt;/b&gt; · 6-K · Depository Institutions (6029) · prefill_form:6-K · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>🎯 Tender · BSBR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1471055/000129281426004631/bsbr20260921_425.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1471055/000095010326014284/dp253665_425.htm</link>
       <guid isPermaLink="false">0001292814-26-004631</guid>
-      <pubDate>Tue, 22 Sep 2026 05:02:52 -0500</pubDate>
+      <pubDate>Tue, 22 Sep 2026 05:03:21 -0500</pubDate>
       <category>TENDER_OFFER</category>
       <category>acquisition</category>
       <category>425</category>
-      <scanner:headline>Exchange offer from Banco Santander: F-4 filed, appraisal received</scanner:headline>
+      <scanner:headline>Parent Banco Santander files F-4 for exchange offer; UBS appraisal in</scanner:headline>
       <scanner:shortName>Banco Santander</scanner:shortName>
       <scanner:subtype />
       <scanner:form>425</scanner:form>
       <scanner:sector />
       <scanner:ticker>BSBR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425 x2</scanner:filingForms>
       <scanner:related />
       <description>&lt;p&gt;&lt;b&gt;Exchange offer from Banco Santander: F-4 filed, appraisal received&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;Reported that Banco Santander, S.A. filed a Form F-4 with the SEC and requested registration of BDRs with CVM and B3 for the voluntary exchange offer. The company also received the appraisal report from UBS BB. The exchange offer is intended to exchange Santander Brasil shares for Banco Santander shares.&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Banco Santander, S.A.&lt;/li&gt;&lt;/ul&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; SEC effectiveness of Form F-4 and formal launch of exchange offers&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1471055/000129281426004631/0001292814-26-004631-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BSBR&lt;/b&gt; · 425 · Depository Institutions (6029) · prefill_form:425 · filed 2026-09-22&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BSBR&lt;/b&gt; · 425 · Depository Institutions (6029) · prefill_form:425 · filed 2026-09-22&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 22 05:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1471055/000095010326014284/dp253665_425.htm'&gt;Parent Banco Santander files F-4 for exchange offer; UBS appraisal in&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 22 05:02 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1471055/000129281426004631/bsbr20260921_425.htm'&gt;Exchange offer from Banco Santander: F-4 filed, appraisal received&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>👀 Activist · PDSB</title>
@@ -13399,35 +13424,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.4000 · Mkt cap $850K · EV $-1.6M · Fwd EV/EBITDA 0.4x · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1857086/000149315226041991/0001493152-26-041991-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TRUG&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Miscellaneous Manufacturing (3949) · 8k_tier1:1.01 · filed 2026-09-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Preliminary · GLND</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2093507/000182912626009947/greenlandenergy_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-009787</guid>
-      <pubDate>Wed, 09 Sep 2026 16:15:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-      <category>8-K</category>
-      <scanner:headline>Makes potential offer for 80 Mile PLC</scanner:headline>
-      <scanner:shortName>Greenland Energy Co</scanner:shortName>
-      <scanner:price>1.37</scanner:price>
-      <scanner:subtype>preliminary</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>GLND</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires 80 Mile in all-share deal; 0.01108 GLND/shr, ~1.1p, 42.9% prem&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced a proposed all-share acquisition of 80 Mile plc, offering 0.01108 new GLND shares for each 80 Mile share, valuing 80 Mile at £61.48M and each share at ~1.1p, a 42.86% premium to the 3 Sep close. The boards have agreed indicative terms; the offer is subject to due diligence and other pre-conditions, with no certainty a firm offer will be made.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Greenland Energy Company operates as an early-stage oil and gas exploration company. It focuses on the Jameson Land Basin in East Greenland. The company is headquartered in Denver, Colorado.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; 80 Mile plc&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms paid for 80 Mile:&lt;/b&gt; 1.1p per 80 Mile share&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; £61.48M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 42.86%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.37 · Mkt cap $59.9M · EV $22.5M · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2093507/000182912626009787/0001829126-26-009787-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GLND, GLNDW&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Oil &amp;amp; Gas (1381) · 8k_tier1:7.01 · filed 2026-09-08&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 09 16:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2093507/000182912626009947/greenlandenergy_8k.htm'&gt;Makes potential offer for 80 Mile PLC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 08 05:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2093507/000182912626009787/greenlandenergy_8k.htm'&gt;Acquires 80 Mile in all-share deal; 0.01108 GLND/shr, ~1.1p, 42.9% prem&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
