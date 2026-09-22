@@ -6,8 +6,35 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 01:31:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 01:43:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · CTNT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1951667/000210778826000008/0002107788-26-000008-index.htm</link>
+      <guid isPermaLink="false">0002107788-26-000008</guid>
+      <pubDate>Mon, 21 Sep 2026 20:43:46 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Seeks board seat at Cheetah Net after 62.5% stake purchase</scanner:headline>
+      <scanner:shortName>CHEETAH NET SUPPLY CHAIN SERVICE</scanner:shortName>
+      <scanner:price>0.0500</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>CTNT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Seeks board seat at Cheetah Net after 62.5% stake purchase&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Takeover Time 2026 LLC acquired 1,846,000 shares of Cheetah Net Supply Chain Service Inc. (62.45% of Class A common) for $84,995.46 (~$0.046/share) and intends to seek a board seat for its managing member Natasha Ovsepyan.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cheetah Net Supply Chain Service Inc., together with its subsidiaries, provides logistics and warehousing services in the United States and internationally. It also provides freight forwarding, cargo storage, customs clearance, labor, and cargo loading and unloading services; warehousing services, such as medical supplies, vehicles, infant care items, and hazardous chemicals; and logistics services, including ocean and air freight, and trucking services. Cheetah Net Supply Chain Service Inc.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; $0.04604&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $84,995.46&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 62.45%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Board response to board seat request&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0500 · Mkt cap $150K · EV $-850K · Fwd EV/EBITDA 0.2x · Industrials / Air Freight and Logistics&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1951667/000210778826000008/0002107788-26-000008-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CTNT&lt;/b&gt; · SCHEDULE 13D · Wholesale; Durable (5010) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · ENHA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1956439/000119312526397057/0001193125-26-397057-index.htm</link>
@@ -13404,32 +13431,6 @@
 &lt;p&gt;&lt;i&gt;Px $41.94 · Mkt cap $11.83B · EV $20.36B · Fwd P/E 18.3x · Fwd EV/EBITDA 13.5x · Utilities / Water Utilities&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/78128/000155278126000478/0001552781-26-000478-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WTRG&lt;/b&gt; · 425 · Utilities (4941) · prefill_form:425 · filed 2026-09-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · BRNS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1828185/000110465926106382/tm2624972d7_25.htm</link>
-      <guid isPermaLink="false">0001104659-26-106382</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:58 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>25</category>
-      <scanner:headline>Voluntary delisting of ADSs effective Sept 9</scanner:headline>
-      <scanner:shortName>Barinthus Biotherapeutics plc</scanner:shortName>
-      <scanner:price>0.7400</scanner:price>
-      <scanner:subtype>voluntary</scanner:subtype>
-      <scanner:form>25</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>BRNS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>25</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Voluntary delisting of ADSs effective Sept 9&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Plc voluntarily withdrew its American Depositary Shares from listing and registration on the exchange, effective September 9, 2026, pursuant to Rule 12d2-2(c). The ADSs will be removed from exchange trading.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Barinthus Biotherapeutics plc, together with its subsidiaries, engages in the research, development, and commercialization of immunotherapies and vaccines in the United States and the United Kingdom. The company develops VTP-1000, an antigen-specific immune tolerance candidate, which is in Phase I clinical trial to restore immune non-responsiveness to gluten in patients with celiac disease; and VTP-300, an immunotherapy, which is in Phase II clinical trial for the treatment of chronic hepatitis …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.7400 · Mkt cap $30.2M · EV $-18.7M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1828185/000110465926106382/0001104659-26-106382-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BRNS&lt;/b&gt; · 25 · Chemicals / Pharma (2834) · prefill_form:25 · filed 2026-09-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
