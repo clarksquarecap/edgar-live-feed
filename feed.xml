@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 20:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:27:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Lost · BYND</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1655210/000165521026000064/bynd-20260918.htm</link>
+      <guid isPermaLink="false">0001655210-26-000064</guid>
+      <pubDate>Tue, 22 Sep 2026 15:27:48 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>lost</category>
+      <category>8-K</category>
+      <scanner:headline>Loses trademark suit; $15.4M judgment, damages cut to $37.5K</scanner:headline>
+      <scanner:shortName>BEYOND MEAT</scanner:shortName>
+      <scanner:price>11.92</scanner:price>
+      <scanner:subtype>lost</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Defensive</scanner:sector>
+      <scanner:ticker>BYND</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Loses trademark suit; $15.4M judgment, damages cut to $37.5K&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Was found liable for trademark infringement over the &amp;#39;Great Taste Plant-Based&amp;#39; tagline. The court reduced the jury&amp;#39;s actual damages from $23.5M to $37,500, kept the $15.4M disgorgement award, and entered judgment of $15,437,500. Both parties may pursue further motion practice or appeals.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Sonate Corporation (Vegadelphia Foods)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 15437500&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Possible appeals by either party&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $11.92 · Mkt cap $205.0M · EV $441.4M · EV/Sales 1.8x · Consumer Defensive / Food Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1655210/000165521026000064/0001655210-26-000064-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BYND&lt;/b&gt; · 8-K · Items 8.01 · Food &amp;amp; Kindred (2000) · 8k_tier1:8.01 · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Self Tender · VINEBROOK HOMES</title>
       <link>https://www.sec.gov/Archives/edgar/data/1755755/000143774926030920/vhti20260921_sctoia.htm</link>
@@ -13360,33 +13386,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.40 · Mkt cap $189.6M · EV $211.2M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1598981/000149315226042086/0001493152-26-042086-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SKYX&lt;/b&gt; · 8-K · Items 1.01, 2.03, 3.02, 7.01, 8.01, 9.01 · Electronic Equipment (3640) · 8k_tier1:1.01,7.01,8.01 · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · MKGSF</title>
-      <link>https://mackaycorp.com/wp-content/uploads/2026/06/NR-_2026_Land_Consolidation_-_June_22_2026_Final.pdf</link>
-      <guid isPermaLink="false">OTC-534686</guid>
-      <pubDate>Thu, 10 Sep 2026 07:20:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>OTC</category>
-      <scanner:headline>Acquires Comstock's Nevada mining assets for $20M cash + 2M shares + $7M</scanner:headline>
-      <scanner:shortName>Mackay Gold &amp; Silver</scanner:shortName>
-      <scanner:price>2.17</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>MKGSF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Comstock&amp;#39;s Nevada mining assets for $20M cash + 2M shares + $7M&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a definitive agreement to acquire 100% of Comstock Inc.&amp;#39;s Nevada mining assets (Silver City Lode properties) for US$20M cash, 2M Mackay shares, and US$7M payable within 18 months, plus contingent consideration. The acquisition expands Mackay&amp;#39;s land holdings by 70% to 4,343 hectares, consolidating the Comstock District&amp;#39;s major vein systems. The deal includes a permitted heap-leach and Merrill-Crowe processing facility.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Mackay Gold &amp;amp; Silver Corp. engages in the exploration of gold and silver mines in Nevada&amp;#39;s Comstock district. The company is based in Vancouver, Canada.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Comstock Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; US$20M cash + 2M shares + US$7M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-22&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.17 · Mkt cap $188.1M · EV $185.6M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/MKGSF/news/534686'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MKGSF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
