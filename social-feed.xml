@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 12:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:34:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XFLH 🤝 Merger · Preliminary
+Signs non-binding LOI for business combination with Renogen Biolab
+Mcap $140M · EV $139M · Financial Serv</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2088103/000118518526004190/xflh8k021326.htm</link>
+      <guid isPermaLink="false">0001185185-26-004190</guid>
+      <pubDate>Tue, 22 Sep 2026 07:34:27 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$VRME 🤝 Merger
 Urges FOR vote on Proposal 6 for OpenWorld merger; AGM Sept 24
@@ -627,15 +637,6 @@ Mcap $83M · EV $135M · Cons Disc</title>
       <guid isPermaLink="false">0000921895-26-002572</guid>
       <pubDate>Mon, 21 Sep 2026 07:37:27 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$CTVA 🪓 Spinoff
-Files Form 10/A for Vylor seed spinoff
-Mcap $55B · EV $58B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526396123/d144225d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-396054</guid>
-      <pubDate>Mon, 21 Sep 2026 07:30:36 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
