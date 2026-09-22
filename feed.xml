@@ -6,8 +6,58 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 10:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:05:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💔 Busted · SWRD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795851/000166357726000301/swrd_8k091726.htm</link>
+      <guid isPermaLink="false">0001663577-26-000301</guid>
+      <pubDate>Tue, 22 Sep 2026 05:05:32 -0500</pubDate>
+      <category>BUSTED_MA</category>
+      <category>busted_ma</category>
+      <category>8-K</category>
+      <scanner:headline>Terminates $20M Hawthorne property deal; $900K deposit returned</scanner:headline>
+      <scanner:shortName>Stewards</scanner:shortName>
+      <scanner:price>1.99</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financial Services</scanner:sector>
+      <scanner:ticker>SWRD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Terminates $20M Hawthorne property deal; $900K deposit returned&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Terminated its $20M cash purchase of The Hawthorne property in Chatham, MA from John E. Swenson Co. after a deposit dispute. Settlement returns $900K of the $1M deposit to Stewards, pays $100K to Swenson, and dismisses the lawsuit with prejudice. The company will not acquire the property.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; John E. Swenson Co., Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $20,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Dismissal of the Action with prejudice within 3 business days of settlement distribution&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.99 · Mkt cap $420.2M · EV $574.0M · EV/Sales 33.9x · Financial Services / Financial Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1795851/000166357726000301/0001663577-26-000301-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SWRD&lt;/b&gt; · 8-K · Items 1.02, 8.01 · Non-Depository Credit (6153) · 8k_tier1:1.02,8.01 · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📤 Divestiture · TRP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1232384/000123238426000047/a09-21x2026xtcenergyanno.htm</link>
+      <guid isPermaLink="false">0001232384-26-000047</guid>
+      <pubDate>Tue, 22 Sep 2026 05:04:50 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Sells Guadalajara-Manzanillo Pipeline to ESENTIA for $560M (US$400M)</scanner:headline>
+      <scanner:shortName>TC ENERGY</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>TRP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Sells Guadalajara-Manzanillo Pipeline to ESENTIA for $560M (US$400M)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Agreed to sell Energía Occidente de México (EOM), owner of the Guadalajara-Manzanillo Pipeline, to ESENTIA for a gross purchase price of $560M (US$400M). The 313-km pipeline transports up to 500 MMcf/d of natural gas. Transaction expected to close H1 2027, subject to regulatory approvals; proceeds to be redeployed to North American growth opportunities.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ESENTIA Energy Development, S.A.B. de C.V.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; US$400M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; H1 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Regulatory approvals and closing conditions&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1232384/000123238426000047/0001232384-26-000047-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TRP, TCANF, TCENF, TCEYF, TNCAF, TRPEF, TRPPF, TRPRF&lt;/b&gt; · 6-K · Utilities (4922) · prefill_form:6-K · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔐 Going Private · BSBR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1471055/000129281426004630/bsbr20260921_6k.htm</link>
@@ -13370,60 +13420,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.8300 · Mkt cap $7.2M · EV $41.6M · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1450704/000182912626009949/0001829126-26-009949-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VIVK&lt;/b&gt; · 8-K · Items 3.02, 7.01, 9.01 · Utilities (4953) · 8k_tier1:7.01 · filed 2026-09-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · LAB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1162194/000114036126036084/ny20077604x3_s4a.htm</link>
-      <guid isPermaLink="false">0001140361-26-036084</guid>
-      <pubDate>Wed, 09 Sep 2026 16:30:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4/A</category>
-      <scanner:headline>Acquires Treeline in all-stock reverse merger; Treeline holders to own 84%</scanner:headline>
-      <scanner:shortName>STANDARD BIOTOOLS</scanner:shortName>
-      <scanner:price>0.7300</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4/A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>LAB</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Treeline in all-stock reverse merger; Treeline holders to own 84%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will merge with Treeline Biosciences in an all-stock reverse recapitalization. Each Treeline share converts to ~11.6997 LAB shares based on $2.5B Treeline equity value and $460M LAB equity value. Former Treeline holders will own ~84% of combined company, which will rename to Treeline Biosciences Holdings and trade as TRLN. Also includes CVR and Mass Cytometry Divestiture to Multiplex Bio.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Standard BioTools Inc., together with its subsidiaries, develops, manufactures, and sells a range of instrumentation, consumables, and services to scientists and biomedical researchers to develop therapeutics in the Americas, Europe, the Middle East, Africa, and the Asia pacific. The company operates through Proteomics and Genomics segments. Its proteomics and genomics include instruments, consumables, and assays for clinical and diagnostic uses.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Treeline Biosciences, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $2.5B&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.7300 · Mkt cap $271.7M · EV $-177.0M · Fwd EV/EBITDA 5.2x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1162194/000114036126036084/0001140361-26-036084-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LAB&lt;/b&gt; · S-4/A · Chemicals / Pharma (2834) · prefill_form:S-4 · filed 2026-09-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · TRUG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1857086/000149315226041991/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-041991</guid>
-      <pubDate>Wed, 09 Sep 2026 16:22:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires Polymath for $140M stock; Series C conversion at $3.94</scanner:headline>
-      <scanner:shortName>TruGolf Holdings</scanner:shortName>
-      <scanner:price>0.4000</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>TRUG</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Polymath for $140M stock; Series C conversion at $3.94&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Amended its acquisition agreement with Polymath Research, fixing the Series C preferred conversion price at $3.94 per share. The total consideration is based on a $140M reference amount, with Polymath shareholders receiving 19.9% of TruGolf&amp;#39;s Class A common stock plus Series C preferred for the remainder. The deal closes upon stockholder and Nasdaq approval.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; TruGolf Holdings, Inc., through its subsidiary, engages in the design, development, manufacture, and sale of golf simulators for residential and commercial applications in the United States. The company offers portable, professional, commercial, and custom simulators. It also provides E6 Connect and E6 Apex software, as well as other gaming software. In addition, the company offers multi-sport gaming applications. TruGolf Holdings, Inc.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Polymath Research Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $140,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder approval for Series C conversion and Nasdaq approval&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.4000 · Mkt cap $850K · EV $-1.6M · Fwd EV/EBITDA 0.4x · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1857086/000149315226041991/0001493152-26-041991-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TRUG&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Miscellaneous Manufacturing (3949) · 8k_tier1:1.01 · filed 2026-09-09&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
