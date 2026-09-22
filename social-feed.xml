@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 20:51:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:56:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TPVG 📍 Stake
+Adviser TriplePoint Capital files 13D on 5.68% stake
+Mcap $197M · EV $627M · Financial Serv</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1580345/000121390026102233/0001213900-26-102233-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-102233</guid>
+      <pubDate>Tue, 22 Sep 2026 15:56:32 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$RNW 📦 Going Private
 Taken private by CPP Investments consortium for $7.02 cash/share via UK scheme
@@ -576,17 +585,6 @@ Mcap $540M · EV $527M · Cons Disc</title>
       <guid isPermaLink="false">0000921895-26-002611</guid>
       <pubDate>Mon, 21 Sep 2026 16:32:07 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$VREX 🤝 Merger
-Acquired by Teledyne for $18.90 cash/share; vote Oct 28
-cash
-Mcap $779M · EV $1.1B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1681622/000110465926109351/tm2622593-5_defm14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-109351</guid>
-      <pubDate>Mon, 21 Sep 2026 15:52:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
