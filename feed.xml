@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 21:19:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:30:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · CHRN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1549084/000149315226043737/formprer14a.htm</link>
+      <guid isPermaLink="false">0001493152-26-043737</guid>
+      <pubDate>Tue, 22 Sep 2026 16:30:50 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>PRER14A</category>
+      <scanner:headline>Preliminary proxy for acquisition vote</scanner:headline>
+      <scanner:shortName>ChronoScale Holdings</scanner:shortName>
+      <scanner:price>21.69</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>PRER14A</scanner:form>
+      <scanner:sector>Technology</scanner:sector>
+      <scanner:ticker>CHRN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>PRER14A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Preliminary proxy for acquisition vote&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed a preliminary proxy statement for a proposed acquisition. The filing contains the terms of the transaction and schedules a shareholder vote. No specific economic terms were disclosed in the available text.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $21.69 · Mkt cap $3.16B · EV $3.27B · Fwd EV/EBITDA 74.5x · EV/Sales 18.3x · Technology / IT Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1549084/000149315226043737/0001493152-26-043737-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CHRN&lt;/b&gt; · PRER14A · Industrial Machinery (3569) · prefill_form:PRER14A · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · HOWL</title>
       <link>https://www.sec.gov/Archives/edgar/data/1785530/000114036126037334/ny20081588x1_s4.htm</link>
@@ -13364,32 +13388,6 @@
 &lt;p&gt;&lt;i&gt;Px $77.05 · Mkt cap $918.6M · Fwd P/E 10.1x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/714562/000110465926106666/0001104659-26-106666-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;THFF&lt;/b&gt; · 425 · Depository Institutions (6022) · prefill_form:425 · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Buyback Authorization · CPBI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1979332/000119312526387526/cpbi-20260909.htm</link>
-      <guid isPermaLink="false">0001193125-26-387526</guid>
-      <pubDate>Thu, 10 Sep 2026 10:49:26 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-      <category>8-K</category>
-      <scanner:headline>Adopts 10% repurchase program (417,481 shares)</scanner:headline>
-      <scanner:shortName>Central Plains Bancshares</scanner:shortName>
-      <scanner:price>21.15</scanner:price>
-      <scanner:subtype>buyback_authorization</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>CPBI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Adopts 10% repurchase program (417,481 shares)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Approved a new stock repurchase program authorizing repurchase of up to 417,481 shares, approximately 10% of outstanding shares, replacing the prior program.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Central Plains Bancshares, Inc. operates as the bank holding company for Home Federal Savings and Loan Association of Grand Island that operates as a federally chartered stock savings and loan association in Nebraska, the United States. The company provides deposits accounts, including checking and savings accounts and certificates of deposit.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $21.15 · Mkt cap $81.6M · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1979332/000119312526387526/0001193125-26-387526-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CPBI&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Depository Institutions (6035) · 8k_tier1:8.01 · filed 2026-09-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
