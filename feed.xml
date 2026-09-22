@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 21:08:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:10:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · NAMS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1936258/000123191926001215/0001231919-26-001215-index.htm</link>
+      <guid isPermaLink="false">0001231919-26-001215</guid>
+      <pubDate>Tue, 22 Sep 2026 16:10:03 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Discloses 6.1% stake</scanner:headline>
+      <scanner:shortName>NewAmsterdam Pharma Co</scanner:shortName>
+      <scanner:price>22.58</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Healthcare</scanner:sector>
+      <scanner:ticker>NAMS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Discloses 6.1% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Frazier Life Sciences X, L.P. and affiliated entities disclosed a 6.1% stake in NewAmsterdam Pharma Co N.V. (NAMS) as of September 18, 2026. The group holds 7,329,857 ordinary shares, including 500,333 shares issuable upon exercise of warrants. The filing is an amendment to Schedule 13D.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.1%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $22.58 · Mkt cap $2.70B · EV $2.02B · EV/Sales 75.7x · Healthcare / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1936258/000123191926001215/0001231919-26-001215-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NAMS, NAMSW&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · HLSQ</title>
       <link>https://www.sec.gov/Archives/edgar/data/1739174/000121390026102245/ea0305719-8k_tessera.htm</link>
@@ -13363,30 +13389,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.64 · Mkt cap $943.1M · EV $800.0M · Fwd EV/EBITDA 19.5x · Consumer Discretionary / Broadline Retail&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1850235/000119312526387494/0001193125-26-387494-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HEPS&lt;/b&gt; · SCHEDULE 13D/A · Retail; Misc (5961) · fresh_13d · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · Ambea AB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2151906/000182912626009970/ambeaab_form-cb.htm</link>
-      <guid isPermaLink="false">0001829126-26-009970</guid>
-      <pubDate>Thu, 10 Sep 2026 09:13:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>CB</category>
-      <scanner:headline>Acquires Humana for SEK 62.30/share: SEK 20 cash + 0.305 Ambea shares + CVR</scanner:headline>
-      <scanner:shortName>Ambea AB</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>CB</scanner:form>
-      <scanner:sector />
-      <scanner:ticker />
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>CB</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Humana for SEK 62.30/share: SEK 20 cash + 0.305 Ambea shares + CVR&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Launched a recommended public offer for all shares in Humana AB, offering SEK 20 cash, 0.305 Ambea shares, and one CVR per share, valuing Humana at approximately MSEK 2,960 (SEK 62.30/share). The offer represents a ~26.8% premium to the closing price on 26 June 2026. Acceptance period runs 25 Aug – 30 Sep 2026, with settlement expected around 8 Oct 2026.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Humana AB&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price for Humana (SEK):&lt;/b&gt; SEK 62.30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; MSEK 2,960&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 26.8%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-08&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Acceptance period ends 30 Sep 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2151906/000182912626009970/0001829126-26-009970-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;CB · prefill_form:CB · filed 2026-09-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
