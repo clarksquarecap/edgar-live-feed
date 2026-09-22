@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 21:30:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:34:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PLUN 🤝 Merger
+Acquires NT1 in $500M stock business combination; $10.00/share
+NT1 Pty · $500,000,000 deal · stock
+Mcap $142M · EV $141M · Financial Serv</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2065661/000147793226005748/pltn_425.htm</link>
+      <guid isPermaLink="false">0001477932-26-005748</guid>
+      <pubDate>Tue, 22 Sep 2026 16:34:12 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Launches consent solicitation to remove five directors
+Mcap $229M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002622/dfan14909002b_09222026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002488</guid>
+      <pubDate>Tue, 22 Sep 2026 16:33:46 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$CHRN 🤝 Merger
 Preliminary proxy for acquisition vote
@@ -655,16 +675,6 @@ Acquires TimesExpress and H2N; F-4/A amendment filed</title>
       <pubDate>Mon, 21 Sep 2026 16:34:51 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ETD ⚔️ Proxy
-Proxy fight over CEO selection; Bergeron blasts board's 'reactionary' plan
-5.2% stake
-Mcap $540M · EV $527M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/896156/000092189526002611/dfan14a14857002_09212026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002611</guid>
-      <pubDate>Mon, 21 Sep 2026 16:32:07 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
