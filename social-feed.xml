@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 20:32:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:43:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ACRE 📤 Divestiture
+Sells NC office property for $64M cash
+to unaffiliated buyer · $64 million deal
+Mcap $243M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1529377/000162828026063051/acre-20260918.htm</link>
+      <guid isPermaLink="false">0001628280-26-063051</guid>
+      <pubDate>Tue, 22 Sep 2026 15:43:25 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$TNC 📍 Stake
 Discloses ~6% stake in Tennant
@@ -579,17 +589,6 @@ Mcap $2.7B · EV $2.0B · Healthcare</title>
       <pubDate>Mon, 21 Sep 2026 15:43:57 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$ALIS 🤝 Merger
-Adds up to $30.9M forward purchase agreement with Harraden Circle for Goodvision merger
-Goodvision AI
-Mcap $87M · EV $87M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2026767/000149315226043574/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-043575</guid>
-      <pubDate>Mon, 21 Sep 2026 15:43:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
