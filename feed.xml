@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 14:15:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 14:59:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🎯 Tender · CDLR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1978867/000110465926109516/tm2625350-1_sctot.htm</link>
+      <guid isPermaLink="false">0001104659-26-109516</guid>
+      <pubDate>Tue, 22 Sep 2026 09:59:51 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>tender_offer</category>
+      <category>SC TO-T</category>
+      <scanner:headline>Tendered for by Cadeler plc in 1-for-1 share exchange</scanner:headline>
+      <scanner:shortName>Cadeler</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SC TO-T</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>CDLR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC TO-T</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Tendered for by Cadeler plc in 1-for-1 share exchange&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a tender offer from Cadeler plc (NewCo) to exchange each Cadeler share for one NewCo share, as part of a redomiciliation from Denmark to the UK. The offer expires on October 21, 2026. Each Cadeler ADS (representing 4 shares) will receive 4 NewCo shares. The offer is conditioned on &amp;gt;90% tender, with a possible squeeze-out for non-tendering shareholders.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Offer expiration Oct 21, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000110465926109516/0001104659-26-109516-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CDLR&lt;/b&gt; · SC TO-T · Water Transportation (4412) · prefill_form:SC TO-T · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧭 Domicile · CDLR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1978867/000110465926109508/tm2510458d19_425.htm</link>
@@ -13376,33 +13400,6 @@
 &lt;p&gt;&lt;i&gt;Px $34.75 · Mkt cap $1.61B · EV $2.39B · Fwd P/E 21.3x · Fwd EV/EBITDA 12.2x · Industrials / Trading Companies and Distributors&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/703604/000119312526387187/0001193125-26-387187-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DSGR&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Wholesale; Durable (5080) · 8k_tier1:7.01 · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Settled · CC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1627223/000162722326000029/cc-20260910.htm</link>
-      <guid isPermaLink="false">0001627223-26-000029</guid>
-      <pubDate>Thu, 10 Sep 2026 05:53:49 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-      <category>8-K</category>
-      <scanner:headline>Settles PFAS claims with North Carolina for $455M</scanner:headline>
-      <scanner:shortName>Chemours Co</scanner:shortName>
-      <scanner:price>15.45</scanner:price>
-      <scanner:subtype>settled</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>CC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Settles PFAS claims with North Carolina for $455M&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Chemours, along with DuPont and Corteva, settled PFAS-related claims with North Carolina and 11 local entities for $455M payable over 15 years. Chemours is responsible for 50% of payments. The settlement resolves claims related to Fayetteville Works and other PFAS contamination.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The Chemours Company provides performance chemicals in North America, the Asia Pacific, Europe, the Middle East, Africa, and Latin America. The company operates through three segments: Thermal &amp;amp; Specialized Solutions, Titanium Technologies, and Advanced Performance Materials. The Thermal &amp;amp; Specialized Solutions segment provides refrigerants, thermal management solutions, propellants, foam blowing agents, and specialty solvents under the Freon and Opteon brand names.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; State of North Carolina and 11 local entities&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $455M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; court approval of settlement&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $15.45 · Mkt cap $2.33B · EV $5.78B · Fwd P/E 10.4x · Fwd EV/EBITDA 6.7x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1627223/000162722326000029/0001627223-26-000029-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CC&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Chemicals / Pharma (2800) · 8k_tier1:1.01,7.01 · filed 2026-09-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
