@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 20:07:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:13:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HZO 🤝 Merger
+Acquired by Safe Harbor Marinas (Blackstone) for $53.00 cash/share; vote pending
+cash
+Mcap $1.2B · EV $2.1B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1057060/000119312526397899/d130789dprem14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-397899</guid>
+      <pubDate>Tue, 22 Sep 2026 15:13:13 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MFBP 🤝 Merger · Unsolicited
 Receives $12 cash + $19.25 pref unsolicited bid; reaffirms Optus
@@ -592,36 +603,6 @@ Mcap $631M · EV $854M · Industrials</title>
       <pubDate>Mon, 21 Sep 2026 15:14:36 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$LNTH 🤝 Merger
-Curium merger HSR review reset; new 30-day period expires Oct 21
-Curium US Holdings · close H1 2027
-Mcap $6.6B · EV $6.6B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1521036/000119312526396654/d148743d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-393460</guid>
-      <pubDate>Mon, 21 Sep 2026 15:11:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ULIT 🤝 Merger
-Constellation de-SPAC on track; 3rd amended S-4 filed, ULIT Nasdaq listing Q4 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2134552/000121390026101799/ea0305944-425_constellation1.htm</link>
-      <guid isPermaLink="false">0001213900-26-100143</guid>
-      <pubDate>Mon, 21 Sep 2026 15:10:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$YTRA 🎯 Tender
-Faces unsolicited $1.10/share partial tender for 31% stake
-Magna Holdings · $22,000,000 deal · cash
-Mcap $62M · EV $85M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1516899/000121390026101803/ea0303989-03.htm</link>
-      <guid isPermaLink="false">0001213900-26-099718</guid>
-      <pubDate>Mon, 21 Sep 2026 15:09:56 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
