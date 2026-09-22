@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 10:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:12:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BACC 🤝 Merger
+Amends Blockfusion deal: earnout up to 15M shares, CoreWeave warrant adjusted
+stock
+Mcap $294M · EV $293M · Financial Serv</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2059654/000118518526004185/bacc8k425092026.htm</link>
+      <guid isPermaLink="false">0001185185-26-004185</guid>
+      <pubDate>Tue, 22 Sep 2026 05:12:49 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SWRD 💥 Busted M&amp;A
 Terminates $20M Hawthorne property deal; $900K deposit returned
@@ -591,38 +602,6 @@ Mcap $26M · EV $275M · Materials</title>
       <pubDate>Mon, 21 Sep 2026 05:15:54 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>lost</category>
-    </item>
-    <item>
-      <title>$LND 🤝 Merger
-Acquires Agrifirma Agro; shareholder vote Oct 21
-Agrifirma Agro Ltda.</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1499849/000121390026101580/ea0306049-6k_brasil.htm</link>
-      <guid isPermaLink="false">0001213900-26-101582</guid>
-      <pubDate>Mon, 21 Sep 2026 05:08:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TIMB 🤝 Merger
-Comes under indirect control of Poste Italiane; TI stake 66.6%
-Poste Italiane S.p.A. · close 2026-09-25
-Mcap $9.1B · EV $11B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1826168/000129281426004601/timb20260918_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004601</guid>
-      <pubDate>Mon, 21 Sep 2026 05:07:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$QRVO 🤝 Merger
-Skyworks extends exchange offers to Sept 25; 91%/93% tendered
-Skyworks Solutions · close Q4 2026
-Mcap $10B · EV $11B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1604778/000110465926109004/tm2625617d3_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-109004</guid>
-      <pubDate>Mon, 21 Sep 2026 05:06:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
