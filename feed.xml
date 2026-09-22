@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 21:46:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 23:11:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · FNKO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1704711/000092189526002624/0000921895-26-002624-index.htm</link>
+      <guid isPermaLink="false">0000921895-26-002624</guid>
+      <pubDate>Tue, 22 Sep 2026 18:11:39 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Builds 21.3% economic stake in Funko via shares and swaps</scanner:headline>
+      <scanner:shortName>Funko</scanner:shortName>
+      <scanner:price>5.62</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Consumer Cyclical</scanner:sector>
+      <scanner:ticker>FNKO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Builds 21.3% economic stake in Funko via shares and swaps&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Fund 1 Investments, LLC filed an amended Schedule 13D disclosing beneficial ownership of 5,497,413 shares of Funko, Inc. (9.8% of Class A common stock) and cash-settled total return swaps providing economic exposure to an additional 6,462,462 notional shares (11.5%), for total economic exposure of approximately 21.3%. The swaps do not confer voting or dispositive power. The filing is an amendment to a prior 13D.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.8%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.62 · Mkt cap $304.1M · EV $525.0M · Fwd P/E 35.1x · Fwd EV/EBITDA 5.6x · EV/Sales 0.5x · Consumer Cyclical / Leisure Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1704711/000092189526002624/0000921895-26-002624-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FNKO&lt;/b&gt; · SCHEDULE 13D/A · Miscellaneous Manufacturing (3944) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · FXAC</title>
       <link>https://www.sec.gov/Archives/edgar/data/2121703/000182912626010318/fortunexacq_8k.htm</link>
@@ -13355,35 +13381,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.1700 · Mkt cap $9.0M · EV $24.9M · Communication Services / Wireless Telecommunication Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1392694/000149315226042153/0001493152-26-042153-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SURG&lt;/b&gt; · 8-K · Items 1.01, 2.01, 8.01, 9.01 · Communications (4813) · 8k_tier1:1.01,2.01,8.01 · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · CMND</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1892500/000121390026098779/ea0304033-6k_clearmind.htm</link>
-      <guid isPermaLink="false">0001213900-26-097410</guid>
-      <pubDate>Thu, 10 Sep 2026 15:10:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>6-K</category>
-      <scanner:headline>Acquires Charging Robotics; closed Sep 4, 2026</scanner:headline>
-      <scanner:shortName>Clearmind Medicine</scanner:shortName>
-      <scanner:price>1.70</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>CMND</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>6-K x2</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires 51% of Charging Robotics for $2.5M + $1.5M loan&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Signed a definitive share purchase agreement to acquire 51% of Charging Robotics Ltd. for $2.5 million ($16,778 per share), plus a $1.5 million loan to Charging Robotics at 4% interest. Closing expected during the week of September 7, 2026, subject to customary conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Clearmind Medicine Inc., a clinical stage pharmaceutical company, develops novel psychedelic medicines to treat under-served health problems. The company develops treatments for alcohol use disorders, binge drinking, and eating disorders, as well as weight loss, obesity, and metabolic syndrome, anxiety disorders, post-traumatic stress disorder, depression, and treatment resistant depression.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Charging Robotics Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price for Charging Robotics:&lt;/b&gt; $16,778 per share&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $2.5 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 51%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing expected week of Sep 7, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.70 · Mkt cap $2.5M · EV $-11.0M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1892500/000121390026097410/0001213900-26-097410-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CMND&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-09-04&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Sep 10 15:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1892500/000121390026098779/ea0304033-6k_clearmind.htm'&gt;Acquires Charging Robotics; closed Sep 4, 2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 04 06:40 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1892500/000121390026097410/ea0304015-6k_clearmind.htm'&gt;Acquires 51% of Charging Robotics for $2.5M + $1.5M loan&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
