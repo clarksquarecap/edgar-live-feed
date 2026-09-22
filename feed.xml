@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 11:09:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:16:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · LXEO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1907108/000119312526397221/lxeo-20260916.htm</link>
+      <guid isPermaLink="false">0001193125-26-397221</guid>
+      <pubDate>Tue, 22 Sep 2026 06:16:08 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Mantle for $5.3M cash + $3M stock; up to $13M milestones</scanner:headline>
+      <scanner:shortName>Lexeo Therapeutics</scanner:shortName>
+      <scanner:price>4.08</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Healthcare</scanner:sector>
+      <scanner:ticker>LXEO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires Mantle for $5.3M cash + $3M stock; up to $13M milestones&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a definitive merger agreement to acquire Mantle Therapeutics. Mantle stockholders receive $5.3M cash and $3M in Lexeo common stock at closing, plus contingent payments of up to $13M ($1M additional cash and up to $12M development/regulatory milestones). Key stockholders holding ~76.1% of Mantle stock support the deal; closing expected by November 16, 2026, subject to stockholder approval and customary conditions.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Mantle Therapeutics Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $8.3M upfront + up to $13M contingent&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; by Nov 16, 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder approval; closing by Nov 16, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $4.08 · Mkt cap $334.7M · EV $129.8M · Healthcare / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1907108/000119312526397221/0001193125-26-397221-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LXEO&lt;/b&gt; · 8-K · Items 1.01, 8.01, 9.01 · Chemicals / Pharma (2836) · 8k_tier1:1.01,8.01 · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · CGNX</title>
       <link>https://www.sec.gov/Archives/edgar/data/851205/000085120526000071/cgnx-20260922.htm</link>
@@ -13385,34 +13411,6 @@
 &lt;p&gt;&lt;i&gt;Px $33.98 · Mkt cap $10.84B · EV $11.02B · Fwd P/E 14.4x · Fwd EV/EBITDA 7.9x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1767582/000110465926106437/0001104659-26-106437-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LKNCY&lt;/b&gt; · SCHEDULE 13D/A · Retail; Food Service (5810) · fresh_13d · filed 2026-09-09&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · HELP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1833141/000091228226001255/0000912282-26-001255-index.htm</link>
-      <guid isPermaLink="false">0000912282-26-001247</guid>
-      <pubDate>Wed, 09 Sep 2026 17:01:29 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Buys 95k shares at $11.805, receives 1.05M RSUs; now 5.8%</scanner:headline>
-      <scanner:shortName>CYBIN</scanner:shortName>
-      <scanner:price>12.95</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>HELP</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D x2</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Insider 13D: 5.8% stake via RSUs and $1.04M buy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Paul Glavine, Cybin&amp;#39;s Chief Growth Officer, filed a Schedule 13D after crossing 5% ownership. He purchased 90,000 shares at $11.5853 for $1,042,677 and received 1,046,899 RSUs. Total stake 5.8% (4,407,456 shares).&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cybin Inc., doing business as Helus Pharma, a clinical stage pharmaceutical company, focuses on developing therapies to treat various psychiatric and neurological conditions.It develops HLP003, a deuterated psilocybin analog, which is in phase 3 clinical trial to treat major depressive disorder (MDD); and HLP004, a deuterated N, N-dimethyltryptamine (DMT), which is in phase 2 clinical trial for treating generalized anxiety disorders.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.8%&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $12.95 · Mkt cap $905.2M · EV $738.9M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1833141/000091228226001247/0000912282-26-001247-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HELP&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-09&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SCHEDULE 13D · Sep 09 17:01 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1833141/000091228226001255/0000912282-26-001255-index.htm'&gt;Buys 95k shares at $11.805, receives 1.05M RSUs; now 5.8%&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SCHEDULE 13D · Sep 09 10:14 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1833141/000091228226001247/0000912282-26-001247-index.htm'&gt;Insider 13D: 5.8% stake via RSUs and $1.04M buy&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
