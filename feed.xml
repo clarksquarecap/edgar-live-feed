@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 21:36:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 21:45:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · IYRI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848758/000199937126021069/neos-defa14a_092226.htm</link>
+      <guid isPermaLink="false">0001999371-26-021069</guid>
+      <pubDate>Tue, 22 Sep 2026 16:45:09 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Acquired by Goldman Sachs Asset Management; shareholder vote pending</scanner:headline>
+      <scanner:shortName>NEOS ETF</scanner:shortName>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>IYRI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Goldman Sachs Asset Management; shareholder vote pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is being acquired by Goldman Sachs Asset Management. The filing is a proxy reminder urging shareholders to vote to support the transaction, which aims to ensure continuity and future innovation. The deal is pending shareholder approval.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Goldman Sachs Asset Management&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1848758/000199937126021069/0001999371-26-021069-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IYRI&lt;/b&gt; · DEFA14A · prefill_form:DEFA14A · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · PLUN</title>
       <link>https://www.sec.gov/Archives/edgar/data/2065661/000147793226005747/pltn_8k.htm</link>
@@ -13362,33 +13386,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (5)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 10 15:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1428439/000119312526387859/d114415d425.htm'&gt;Acquired by Fox for $22B; DOJ second request&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 09 08:38 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1428439/000114036126035993/ef20081770_425.htm'&gt;Acquired by Fox; DOJ Second Request extends HSR review&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 09 08:32 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1428439/000114036126035990/ef20081770_8k.htm'&gt;Receives DOJ Second Request; Fox merger on track for H1 2027&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 09 08:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1754301/000119312526385985/d176496d425.htm'&gt;Receives DOJ second request for Roku merger; close H1 2027&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 09 08:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1754301/000119312526385979/d176496d8k.htm'&gt;DOJ issues Second Request on Roku merger; close expected H1 2027&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;Acquirer FOX also filed 8-K, 425&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · DSGR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/703604/000119312526387838/0001193125-26-387838-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-387838</guid>
-      <pubDate>Thu, 10 Sep 2026 15:02:12 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Receives 13D/A from LKCM group; ~64% combined stake</scanner:headline>
-      <scanner:shortName>Distribution Solutions</scanner:shortName>
-      <scanner:price>34.76</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>DSGR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from LKCM group; ~64% combined stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D/A (Amendment 32) from the LKCM group, which collectively holds approximately 63.6% of common stock. 301 HW Opus Investors, LLC holds 16,000,000 shares (34.6%); LKCM TE Investors, LLC holds 8,000,000 shares; LKCM Private Discipline Master Fund holds 3,578,228 shares (7.7%). The group&amp;#39;s aggregate position signals continued control-level engagement.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Distribution Solutions Group, Inc., a specialty distribution company, provides value-added distribution solutions to the maintenance, repair and operations (MRO), original equipment manufacturer, and industrial technology markets. It operates through four segments: Lawson, TestEquity, Gexpro Services, and Canada Branch Division. The Lawson segment distributes specialty products and services to the industrial, commercial, institutional, and government MRO marketplace.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; LKCM group (LKCM Private Discipline Master Fund, 301 HW Opus Investors, LKCM TE Investors, et al.)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 63.6%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $34.76 · Mkt cap $1.61B · EV $2.39B · Fwd P/E 21.3x · Fwd EV/EBITDA 12.2x · Industrials / Trading Companies and Distributors&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/703604/000119312526387838/0001193125-26-387838-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DSGR&lt;/b&gt; · SCHEDULE 13D/A · Wholesale; Durable (5080) · fresh_13d · filed 2026-09-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
