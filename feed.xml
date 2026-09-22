@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 17:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 19:28:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Unsolicited · MFBP</title>
+      <link>https://www.otcmarkets.com/stock/MFBP/news/536065</link>
+      <guid isPermaLink="false">OTC-536065</guid>
+      <pubDate>Tue, 22 Sep 2026 14:27:56 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+      <category>OTC</category>
+      <scanner:headline>Receives $12 cash + $19.25 pref unsolicited bid; reaffirms Optus</scanner:headline>
+      <scanner:shortName>M&amp;F Bancorp</scanner:shortName>
+      <scanner:price>48.00</scanner:price>
+      <scanner:subtype>unsolicited</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Financial Services</scanner:sector>
+      <scanner:ticker>MFBP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>OTC</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Receives $12 cash + $19.25 pref unsolicited bid; reaffirms Optus&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a second amended unsolicited offer from an undisclosed third party (Party A) offering $12.00 cash plus a share of preferred stock with $19.25 liquidation value per share. The board unanimously rejected it as inadequate and reaffirmed its recommendation of the Optus merger, which offers up to $53.30 per share in cash. The special meeting to vote on the Optus merger is scheduled for October 7, 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Undisclosed third party (Party A)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting October 7, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $48.00 · Mkt cap $93.0M · Financial Services / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/MFBP/news/536065'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MFBP&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚱️ Liquidation · MSSAF</title>
       <link>https://www.sec.gov/Archives/edgar/data/1882464/000149315226043686/form8-k.htm</link>
@@ -13369,33 +13395,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.49 · Mkt cap $223.7M · EV $425.2M · Fwd EV/EBITDA 30.8x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1084869/000108486926000024/0001084869-26-000024-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FLWS&lt;/b&gt; · 8-K · Items 1.01, 2.02, 9.01 · Retail; Misc (5990) · 8k_tier1:1.01 · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Settled · DD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1666700/000166670026000055/dd-20260909.htm</link>
-      <guid isPermaLink="false">0001666700-26-000055</guid>
-      <pubDate>Thu, 10 Sep 2026 06:12:18 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-      <category>8-K</category>
-      <scanner:headline>Settled NC PFAS claims for $455M; DD share ~$125M NPV</scanner:headline>
-      <scanner:shortName>DuPont de Nemours</scanner:shortName>
-      <scanner:price>127.92</scanner:price>
-      <scanner:subtype>settled</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>DD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Settled NC PFAS claims for $455M; DD share ~$125M NPV&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Chemours and Corteva settled North Carolina PFAS claims for $455M cash over 15 years, shared per the 2021 MOU. DuPont recorded a ~$125M probable loss in Q2 2026 discontinued operations; Qnity Electronics reimburses 44% of DuPont&amp;#39;s share. Settlement subject to entry of dismissal orders.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; DuPont de Nemours, Inc. provides technology-based materials and solutions in the United States, Canada, the Asia Pacific, Latin America, Europe, the Middle East, and Africa. It operates through two segments, Healthcare &amp;amp; Water Technologies and Diversified Industrials. The company offers specialty components for medical devices, packaging and garments, and protective suits under the brand TYVEK; provides water filtration and separation solutions, including elements, modules, and systems serving p…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; State of North Carolina&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $455M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; entry of orders dismissing claims&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $127.92 · Mkt cap $17.27B · EV $18.83B · Fwd P/E 18.3x · Fwd EV/EBITDA 11.2x · Industrials / Industrial Conglomerates&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1666700/000166670026000055/0001666700-26-000055-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DD&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Chemicals / Pharma (2821) · 8k_tier1:1.01,7.01 · filed 2026-09-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
