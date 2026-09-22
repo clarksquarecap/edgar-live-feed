@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 22 Sep 2026 12:34:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:42:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SPST 🤝 Merger
+Acquires TitlePal in definitive agreement
+Mcap $8M · EV $11M · Financial Serv</title>
+      <link>https://www.otcmarkets.com/stock/SPST/news/536018</link>
+      <guid isPermaLink="false">OTC-536018</guid>
+      <pubDate>Tue, 22 Sep 2026 07:42:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$XFLH 🤝 Merger · Preliminary
 Signs non-binding LOI for business combination with Renogen Biolab
@@ -628,15 +638,6 @@ Mcap $3.8B · EV $4.2B · Healthcare</title>
       <pubDate>Mon, 21 Sep 2026 07:58:24 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$EMPD ⚔️ Proxy
-Urges vote FOR 9 nominees vs ATG slate
-Mcap $83M · EV $135M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826007246/empery_defa14a.htm</link>
-      <guid isPermaLink="false">0000921895-26-002572</guid>
-      <pubDate>Mon, 21 Sep 2026 07:37:27 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
