@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 20:53:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:59:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MDT 🪓 Split-off
+Launches split-off: exchange up to 225.4M MiniMed shares for MDT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026063241/a425-mdtwebsitex92326.htm</link>
+      <guid isPermaLink="false">0001628280-26-062507</guid>
+      <pubDate>Wed, 23 Sep 2026 15:59:39 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
     <item>
       <title>$SUI 📤 Divestiture
 Sells UK business to Panther Bidco for ~$1.05B cash
@@ -516,24 +524,6 @@ Mcap $1.0B · Financial Serv</title>
       <pubDate>Tue, 22 Sep 2026 16:04:00 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MDT 🪓 Split-off
-Offers up to 225.4M MiniMed shares in split-off exchange for MDT shares
-Mcap $118B · EV $138B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026063063/a425-mdtwebsitex92226.htm</link>
-      <guid isPermaLink="false">0001628280-26-062507</guid>
-      <pubDate>Tue, 22 Sep 2026 16:03:49 -0500</pubDate>
-      <category>SPLIT_OFF</category>
-    </item>
-    <item>
-      <title>$TPVG 📍 Stake
-Adviser TriplePoint Capital files 13D on 5.68% stake
-Mcap $197M · EV $627M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1580345/000121390026102233/0001213900-26-102233-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-102233</guid>
-      <pubDate>Tue, 22 Sep 2026 15:56:32 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
