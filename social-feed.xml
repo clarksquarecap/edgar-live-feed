@@ -6,8 +6,25 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 20:39:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:46:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$QDEL 🪙 Debt Restr.
+Amends credit agreement; leverage cap 5.5x, coverage 2.25x</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1906324/000190632426000036/qdel-20260923.htm</link>
+      <guid isPermaLink="false">0001906324-26-000036</guid>
+      <pubDate>Wed, 23 Sep 2026 15:46:42 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Faces consent solicitation from ex-CEO Garg; disputes 46% claim
+Vishal Garg</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000183585626000056/betr-defa14aseptember23.htm</link>
+      <guid isPermaLink="false">0000921895-26-002560</guid>
+      <pubDate>Wed, 23 Sep 2026 15:45:46 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$WLDN 🤝 Merger
 Acquires Mantis Intermediate Holdings for $285M cash
@@ -412,15 +429,6 @@ Mcap $142M · EV $141M · Financial Serv</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$BETR ⚔️ Proxy
-Launches consent solicitation to remove five directors
-Mcap $229M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002622/dfan14909002b_09222026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002560</guid>
-      <pubDate>Tue, 22 Sep 2026 16:33:46 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
       <title>$CHRN 🤝 Merger
 Preliminary proxy for acquisition vote
 Mcap $3.2B · EV $3.3B · Technology</title>
@@ -517,26 +525,6 @@ Mcap $197M · EV $627M · Financial Serv</title>
       <guid isPermaLink="false">0001213900-26-102233</guid>
       <pubDate>Tue, 22 Sep 2026 15:56:32 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RKTO 🤝 Merger
-Acquires Tracer Drone Technologies for 100% stake
-Mcap $19M · EV $11M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1711786/000121390026102217/ea0306306-8k_rocket.htm</link>
-      <guid isPermaLink="false">0001213900-26-102217</guid>
-      <pubDate>Tue, 22 Sep 2026 15:44:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ACRE 📤 Divestiture
-Sells NC office property for $64M cash
-to unaffiliated buyer · $64 million deal
-Mcap $243M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1529377/000162828026063051/acre-20260918.htm</link>
-      <guid isPermaLink="false">0001628280-26-063051</guid>
-      <pubDate>Tue, 22 Sep 2026 15:43:25 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
