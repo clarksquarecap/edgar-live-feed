@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 21:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:12:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BOW 📦 Going Private
+Acquired by American Family for $34.00 cash/share
+cash</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2002473/000114036126037443/ny20080231x3_prer14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-037443</guid>
+      <pubDate>Wed, 23 Sep 2026 16:12:51 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$IRT 🤝 Merger
 Elects alternative structure for Centerspace merger
@@ -50,15 +59,6 @@ Amends credit agreement; leverage cap 5.5x, coverage 2.25x</title>
       <guid isPermaLink="false">0001906324-26-000036</guid>
       <pubDate>Wed, 23 Sep 2026 15:46:42 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces consent solicitation from ex-CEO Garg; disputes 46% claim
-Vishal Garg</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000183585626000056/betr-defa14aseptember23.htm</link>
-      <guid isPermaLink="false">0000921895-26-002560</guid>
-      <pubDate>Wed, 23 Sep 2026 15:45:46 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
     <item>
       <title>$WLDN 🤝 Merger
@@ -492,26 +492,6 @@ Mcap $540M · EV $527M · Cons Disc</title>
       <guid isPermaLink="false">0000921895-26-002581</guid>
       <pubDate>Tue, 22 Sep 2026 16:17:13 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$NAMS 📍 Stake
-Discloses 6.1% stake
-Mcap $2.7B · EV $2.0B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1936258/000123191926001215/0001231919-26-001215-index.htm</link>
-      <guid isPermaLink="false">0001231919-26-001215</guid>
-      <pubDate>Tue, 22 Sep 2026 16:10:03 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$HLSQ 🤝 Merger
-Acquires 10% of MEA for 130k shares + $475k loan; option for rest
-stock
-Mcap $2M · EV $16M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1739174/000121390026102245/ea0305719-8k_tessera.htm</link>
-      <guid isPermaLink="false">0001213900-26-102245</guid>
-      <pubDate>Tue, 22 Sep 2026 16:08:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
