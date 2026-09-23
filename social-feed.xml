@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 02:04:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:06:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DXLG 🤝 Merger
+Board opposes FBB merger; recommends 'no' on 55% stock issuance
+FBB Holdings I · stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/813298/000119312526398319/d76201dprer14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-398319</guid>
+      <pubDate>Wed, 23 Sep 2026 05:05:47 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$KUST 🤝 Merger
+Acquires TFL, LLC; issues &gt;20% shares, change of control
+cash+stk</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1342958/000149315226043769/formdefr14a.htm</link>
+      <guid isPermaLink="false">0001493152-26-042812</guid>
+      <pubDate>Wed, 23 Sep 2026 05:05:09 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$RNW 📦 Going Private
+Acquired by CPP Investments consortium for $7.02/share cash
+cash
+Mcap $2.5B · EV $10B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848763/000119312526398221/d72407dsc13e3.htm</link>
+      <guid isPermaLink="false">0001193125-26-398027</guid>
+      <pubDate>Wed, 23 Sep 2026 05:04:44 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$MBAI 📍 Stake
 Insider McGee 13D: 44.9% direct; group ~74% control</title>
@@ -190,16 +220,6 @@ Mcap $197M · EV $627M · Financial Serv</title>
       <guid isPermaLink="false">0001213900-26-102233</guid>
       <pubDate>Tue, 22 Sep 2026 15:56:32 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RNW 📦 Going Private
-Taken private by CPP Investments consortium for $7.02 cash/share via UK scheme
-cash
-Mcap $2.5B · EV $10B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1848763/000119312526398027/d136127dsc13e3.htm</link>
-      <guid isPermaLink="false">0001193125-26-398027</guid>
-      <pubDate>Tue, 22 Sep 2026 15:51:29 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
     <item>
       <title>$RKTO 🤝 Merger
@@ -491,41 +511,6 @@ Mcap $294M · EV $293M · Financial Serv</title>
       <pubDate>Tue, 22 Sep 2026 05:16:16 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SWRD 💥 Busted M&amp;A
-Terminates $20M Hawthorne property deal; $900K deposit returned
-Mcap $420M · EV $574M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1795851/000166357726000301/swrd_8k091726.htm</link>
-      <guid isPermaLink="false">0001663577-26-000301</guid>
-      <pubDate>Tue, 22 Sep 2026 05:05:32 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$TRP 📤 Divestiture
-Sells Guadalajara-Manzanillo Pipeline to ESENTIA for $560M (US$400M)
-close H1 2027</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1232384/000123238426000047/a09-21x2026xtcenergyanno.htm</link>
-      <guid isPermaLink="false">0001232384-26-000047</guid>
-      <pubDate>Tue, 22 Sep 2026 05:04:50 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BSBR 📦 Going Private
-Exchange offer from Banco Santander advances; F-4 filed</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1471055/000129281426004630/bsbr20260921_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004630</guid>
-      <pubDate>Tue, 22 Sep 2026 05:04:06 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$BSBR 🎯 Tender
-Parent Banco Santander files F-4 for exchange offer; UBS appraisal in
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1471055/000095010326014284/dp253665_425.htm</link>
-      <guid isPermaLink="false">0001292814-26-004631</guid>
-      <pubDate>Tue, 22 Sep 2026 05:03:21 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
