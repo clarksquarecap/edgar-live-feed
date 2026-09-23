@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 20:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:30:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SWMR 📍 Stake
+Exercises options for 235k shares; stake now 28.7%</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2092574/000110465926109988/0001104659-26-109988-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-109988</guid>
+      <pubDate>Wed, 23 Sep 2026 15:30:11 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$SRPT ⚖️ Litigation · Settled
 Settles patent litigation with REGENXBIO for $39M</title>
@@ -491,16 +499,6 @@ Mcap $1.1B · EV $1.4B · Industrials</title>
       <guid isPermaLink="false">0000807249-26-000086</guid>
       <pubDate>Tue, 22 Sep 2026 15:32:22 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BYND ⚖️ Litigation · Lost
-Loses trademark suit; $15.4M judgment, damages cut to $37.5K
-Mcap $205M · EV $441M · Consumer Defen</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1655210/000165521026000064/bynd-20260918.htm</link>
-      <guid isPermaLink="false">0001655210-26-000064</guid>
-      <pubDate>Tue, 22 Sep 2026 15:27:48 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
     </item>
   </channel>
 </rss>
