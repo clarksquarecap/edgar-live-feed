@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 20:59:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:05:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IRT 🤝 Merger
+Amends CSR merger to elect alternative structure
+Centerspace (CSR)</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1466085/000143774926031072/irt20260923_425.htm</link>
+      <guid isPermaLink="false">0001437749-26-031072</guid>
+      <pubDate>Wed, 23 Sep 2026 16:05:49 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$EMPD ⚔️ Proxy
+Faces proxy contest; urges WHITE card vote by Oct 14</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826007335/empery_defa14a.htm</link>
+      <guid isPermaLink="false">0000921895-26-002572</guid>
+      <pubDate>Wed, 23 Sep 2026 16:05:33 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$MDT 🪓 Split-off
 Launches split-off: exchange up to 225.4M MiniMed shares for MDT</title>
@@ -492,36 +510,6 @@ Mcap $2M · EV $16M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1739174/000121390026102245/ea0305719-8k_tessera.htm</link>
       <guid isPermaLink="false">0001213900-26-102245</guid>
       <pubDate>Tue, 22 Sep 2026 16:08:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$IRTC 🤝 Merger
-HSR cleared for Vital Connect acquisition; close early Oct
-Mcap $3.6B · EV $3.8B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1388658/000138865826000080/irtc-20260922.htm</link>
-      <guid isPermaLink="false">0001388658-26-000080</guid>
-      <pubDate>Tue, 22 Sep 2026 16:05:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DHTI 🪙 Debt Restr.
-Faces $1.16M default demand from IBS; disputes
-Mcap $1M · EV $20M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/725394/000168316826007291/dalrada_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-007291</guid>
-      <pubDate>Tue, 22 Sep 2026 16:05:10 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$EQBK 🤝 Merger
-Acquires Lincoln Bancorp for ~$123.8M cash/stock; close Q4 2026
-cash/stk elect
-Mcap $1.0B · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1227500/000119312526398104/d20635d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-395695</guid>
-      <pubDate>Tue, 22 Sep 2026 16:04:00 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
