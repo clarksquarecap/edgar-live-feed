@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 11:59:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:06:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VBIO 🔎 Strat Review · Strat Alts
+Appoints interim CEO; evaluates strategic alternatives</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1787740/000168316826007300/valion_8k.htm</link>
+      <guid isPermaLink="false">0001683168-26-007300</guid>
+      <pubDate>Wed, 23 Sep 2026 07:06:20 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+    </item>
     <item>
       <title>$BMM 🤝 Merger
 Acquires 100% of Turner Copper-Gold deposit from Gold Coast Mining</title>
@@ -487,17 +496,6 @@ Mcap $140M · EV $139M · Financial Serv</title>
       <pubDate>Tue, 22 Sep 2026 07:34:27 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$VRME 🤝 Merger
-Urges FOR vote on Proposal 6 for OpenWorld merger; AGM Sept 24
-Open World
-Mcap $18M · EV $14M · Other</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1104038/000121465926011845/f921261425.htm</link>
-      <guid isPermaLink="false">0001214659-26-011753</guid>
-      <pubDate>Tue, 22 Sep 2026 07:06:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
