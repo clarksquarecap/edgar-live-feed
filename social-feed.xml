@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 20:31:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:36:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TBPH 📉 Delisting · Voluntary
+Voluntary delisting from Nasdaq</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1583107/000135445726000901/0001354457-26-000901-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000901</guid>
+      <pubDate>Wed, 23 Sep 2026 15:36:47 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$PSO 👀 Activist
 Secures board seat; 19.4% stake</title>
@@ -377,7 +386,7 @@ Mcap $142M · EV $141M · Financial Serv</title>
 Launches consent solicitation to remove five directors
 Mcap $229M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002622/dfan14909002b_09222026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002488</guid>
+      <guid isPermaLink="false">0000921895-26-002560</guid>
       <pubDate>Tue, 22 Sep 2026 16:33:46 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
@@ -498,15 +507,6 @@ Mcap $243M · Real Estate</title>
       <guid isPermaLink="false">0001628280-26-063051</guid>
       <pubDate>Tue, 22 Sep 2026 15:43:25 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$TNC 📍 Stake
-Discloses ~6% stake in Tennant
-Mcap $1.1B · EV $1.4B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/97134/000080724926000086/0000807249-26-000086-index.htm</link>
-      <guid isPermaLink="false">0000807249-26-000086</guid>
-      <pubDate>Tue, 22 Sep 2026 15:32:22 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
