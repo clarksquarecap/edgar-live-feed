@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 11:44:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:58:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BMM 🤝 Merger
+Acquires 100% of Turner Copper-Gold deposit from Gold Coast Mining</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1732379/000155485526002036/MainDocument.htm</link>
+      <guid isPermaLink="false">0001554855-26-002036</guid>
+      <pubDate>Wed, 23 Sep 2026 06:58:48 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$IMCC 🤝 Merger · Preliminary
 Acquires 51% of Space Defense Innovations via shares, warrants, seller loan
@@ -497,16 +506,6 @@ Sets Oct 1 record date for AI OKTO spin-off; 1-for-8 distribution</title>
       <guid isPermaLink="false">0001140361-26-037296</guid>
       <pubDate>Tue, 22 Sep 2026 06:59:14 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$IRHO 🤝 Merger
-Recaps Electra merger milestones; post-close ticker AIBR
-Electra Vehicles</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2051985/000121390026101966/ea0306110-8k425_iron2.htm</link>
-      <guid isPermaLink="false">0001213900-26-101966</guid>
-      <pubDate>Tue, 22 Sep 2026 06:58:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
