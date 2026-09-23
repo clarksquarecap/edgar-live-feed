@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 10:22:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:27:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VNET 📍 Stake
+Reports 38.1% stake in VNET via 13D/A</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1508475/000110465926109779/0001104659-26-109779-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-109779</guid>
+      <pubDate>Wed, 23 Sep 2026 05:26:56 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$RCL 🤝 Merger
 Acquires 50% of Sandals &amp; Beaches for $3B cash
@@ -532,15 +540,6 @@ Mcap $10B · EV $10B · Other</title>
       <pubDate>Tue, 22 Sep 2026 06:09:27 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$RTO 📤 Divestiture
-Sells SOLitude Lake Management to Bain Capital for $230m
-close early Q4 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/930157/000165495426008498/a6698v.htm</link>
-      <guid isPermaLink="false">0001654954-26-008498</guid>
-      <pubDate>Tue, 22 Sep 2026 05:23:19 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>

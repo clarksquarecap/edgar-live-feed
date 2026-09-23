@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 10:22:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:27:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · VNET</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1508475/000110465926109779/0001104659-26-109779-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-109779</guid>
+      <pubDate>Wed, 23 Sep 2026 05:26:56 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Reports 38.1% stake in VNET via 13D/A</scanner:headline>
+      <scanner:shortName>VNET Group</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>VNET</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Reports 38.1% stake in VNET via 13D/A&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;PJ Millennium Limited Partnership reported a 38.1% stake in VNET Group, Inc., holding 650,424,192 Class A Ordinary Shares as of September 21, 2026. The stake is held through wholly owned subsidiaries PJ Millennium I and II.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 38.1%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1508475/000110465926109779/0001104659-26-109779-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VNET&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7370) · fresh_13d · filed 2026-09-23&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · RCL</title>
       <link>https://www.sec.gov/Archives/edgar/data/884887/000110465926109755/tm2625963d1_8k.htm</link>
@@ -13347,33 +13371,6 @@
 &lt;p&gt;&lt;i&gt;Px $6.37 · Mkt cap $44.6M · EV $21.1M · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/766792/000149315226042189/0001493152-26-042189-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CVV&lt;/b&gt; · 8-K · Items 2.05, 5.02, 7.01, 9.01 · Industrial Machinery (3559) · 8k_tier1:2.05,7.01 · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · NHP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1561032/000156103226000058/hct-20260910.htm</link>
-      <guid isPermaLink="false">0001561032-26-000058</guid>
-      <pubDate>Thu, 10 Sep 2026 15:40:54 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Sells 30 of 86 medical facilities for ~$79M net cash; repays $119M debt</scanner:headline>
-      <scanner:shortName>National Healthcare Properties</scanner:shortName>
-      <scanner:price>16.05</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>NHP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Sells 30 of 86 medical facilities for ~$79M net cash; repays $119M debt&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Closed the first tranche of its sale of 86 outpatient medical facilities, receiving ~$79M net cash for 30 properties and repaying ~$119M of secured debt, including ~$60M on other OMFs. The remaining 56 properties are still pending under the May 4, 2026 purchase agreement with an unaffiliated third party.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; National Healthcare Properties, Inc. is a self-managed real estate investment trust focused on acquiring, owning and investing in a diversified portfolio of healthcare real estate, with an emphasis on providing senior housing to serve a growing elderly population in the United States. National Healthcare Properties, Inc. was incorporated in 2012 in Maryland, USA.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; ~$79 million (first tranche net cash proceeds)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing of remaining 56 properties&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $16.05 · Mkt cap $1.03B · EV $1.64B · Fwd P/E 35.5x · Fwd EV/EBITDA 14.5x · Real Estate / Health Care REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1561032/000156103226000058/0001561032-26-000058-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NHP, HLTC, NHPAP, NHPBP&lt;/b&gt; · 8-K · Items 2.01, 9.01 · Holding / Investment Offices (6798) · 8k_tier1:2.01 · filed 2026-09-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
