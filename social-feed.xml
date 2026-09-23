@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 20:08:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:15:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RGNX ⚖️ Litigation · Settled
+Settles patent litigation with Sarepta for $39M cash
+vs Sarepta Therapeutics</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1590877/000119312526399377/rgnx-20260923.htm</link>
+      <guid isPermaLink="false">0001193125-26-399377</guid>
+      <pubDate>Wed, 23 Sep 2026 15:14:58 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$VNET 📍 Stake
 Gains voting power over 325M VNET shares via CATL consortium; 24.8% stake</title>
@@ -517,28 +527,6 @@ Acquires Nth Cycle; target signs $1B Glencore offtake</title>
       <link>https://www.sec.gov/Archives/edgar/data/2102713/000119312526397915/d159150d425.htm</link>
       <guid isPermaLink="false">0001193125-26-397915</guid>
       <pubDate>Tue, 22 Sep 2026 15:17:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PULM 🤝 Merger
-Acquired by Eos SENOLYTIX; vote Oct 16, close Q4, new ticker MTXL
-close Q4 2026
-Mcap $6M · EV $5M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574235/000149315226043709/form425.htm</link>
-      <guid isPermaLink="false">0001493152-26-043145</guid>
-      <pubDate>Tue, 22 Sep 2026 15:14:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$HZO 🤝 Merger
-Acquired by Safe Harbor Marinas (Blackstone) for $53.00 cash/share; vote pending
-cash
-Mcap $1.2B · EV $2.1B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1057060/000119312526397899/d130789dprem14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-397899</guid>
-      <pubDate>Tue, 22 Sep 2026 15:13:13 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
