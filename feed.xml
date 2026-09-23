@@ -6,8 +6,34 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 00:04:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 01:04:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · PODC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1940177/000121390026102325/0001213900-26-102325-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-102325</guid>
+      <pubDate>Tue, 22 Sep 2026 20:04:11 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Raises PodcastOne stake to 68.8%</scanner:headline>
+      <scanner:shortName>PodcastOne</scanner:shortName>
+      <scanner:price>2.07</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>PODC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Raises PodcastOne stake to 68.8%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;LiveOne, Inc. increased its beneficial ownership in PodcastOne, Inc. to 68.8% (20,804,235 shares) through acquisition of additional shares. The shares were acquired for investment purposes; LiveOne may engage in discussions regarding strategic direction.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 68.8%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.07 · Mkt cap $72.3M · EV $65.4M · Fwd P/E 29.6x · Fwd EV/EBITDA 6.8x · EV/Sales 0.9x · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1940177/000121390026102325/0001213900-26-102325-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PODC&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7370) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · AERT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1853044/000182912626010323/0001829126-26-010323-index.htm</link>
@@ -13354,32 +13380,6 @@
 &lt;p&gt;&lt;i&gt;Px $76.30 · Mkt cap $10.65B · EV $26.22B · Fwd P/E 20.5x · Fwd EV/EBITDA 7.1x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1552275/000155227526000075/0001552275-26-000075-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SUN&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Petroleum Refining (2911) · 8k_tier1:3.01,7.01 · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · SUNC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2089661/000208966126000063/sunc-20260903.htm</link>
-      <guid isPermaLink="false">0002089661-26-000063</guid>
-      <pubDate>Thu, 10 Sep 2026 15:27:42 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>8-K</category>
-      <scanner:headline>Transfers listing from NYSE to TXSE; trading starts Oct 5</scanner:headline>
-      <scanner:shortName>SunocoCorp</scanner:shortName>
-      <scanner:price>81.23</scanner:price>
-      <scanner:subtype>voluntary</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>SUNC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Transfers listing from NYSE to TXSE; trading starts Oct 5&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will voluntarily withdraw its common units from NYSE listing, effective at market close on October 2, 2026, and begin trading on the Texas Stock Exchange (TXSE) on October 5, 2026, under the same ticker SUNC. No action required by unitholders. The move aligns with the company&amp;#39;s Texas-based legacy.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SunocoCorp LLC engages in energy infrastructure and distribution of motor fuels in North America, the Greater Caribbean, and Europe. It operates through four segments: Fuel Distribution, Pipeline Systems, Terminals, and Refinery. Its midstream operations include a network of approximately 14,000 miles of pipeline and 160 terminals. It distributes its fuel to partner-branded retail locations, as well as to independent dealers and commercial customers.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-03&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; NYSE delisting effective Oct 2; TXSE trading begins Oct 5&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $81.23 · Mkt cap $4.24B · EV $24.07B · Fwd P/E 5.8x · Fwd EV/EBITDA 6.4x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2089661/000208966126000063/0002089661-26-000063-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SUNC&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Petroleum Refining (2911) · 8k_tier1:3.01,7.01 · filed 2026-09-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
