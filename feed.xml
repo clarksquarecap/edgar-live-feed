@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 10:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:22:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · RCL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/884887/000110465926109755/tm2625963d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-109755</guid>
+      <pubDate>Wed, 23 Sep 2026 05:14:14 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires 50% of Sandals &amp; Beaches for $3B cash</scanner:headline>
+      <scanner:shortName>ROYAL CARIBBEAN CRUISES</scanner:shortName>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>RCL</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires 50% of Sandals &amp;amp; Beaches for $3B cash&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Group entered definitive agreements to acquire a 50% equity interest in Sandals and Beaches Resorts for approximately $3.0 billion in cash, representing ~10x forward EBITDA. The joint venture will be governed by a board under shared leadership of Stewart and Liberty. Committed debt financing from Morgan Stanley; expected close early 2027, accretive to earnings next year.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Sandals Resorts&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $3.0 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 50%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; early 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; customary approvals and closing conditions&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/884887/000110465926109755/0001104659-26-109755-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RCL&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Water Transportation (4400) · 8k_tier1:8.01 · filed 2026-09-23&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · NWCL</title>
       <link>https://www.sec.gov/Archives/edgar/data/2131813/000095010326014361/dp253663_6k.htm</link>
@@ -60,6 +84,35 @@
 &lt;p&gt;&lt;i&gt;Px $24.14 · Mkt cap $466.7M · EV $441.5M · Fwd P/E 5.4x · Fwd EV/EBITDA 2.8x · EV/Sales 1.4x · Basic Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/766011/000168316826007298/0001683168-26-007298-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CMCL&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-09-23&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · BACC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097508/000118518526004213/bldcs4a4091826.htm</link>
+      <guid isPermaLink="false">0001185185-26-004185</guid>
+      <pubDate>Wed, 23 Sep 2026 05:10:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>S-4/A</category>
+      <scanner:headline>Acquires Blue Acquisition Corp. in $450M stock merger</scanner:headline>
+      <scanner:shortName>Blue Acquisition Corp/Cayman</scanner:shortName>
+      <scanner:price>10.50</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>S-4/A</scanner:form>
+      <scanner:sector>Financial Services</scanner:sector>
+      <scanner:ticker>BACC</scanner:ticker>
+      <scanner:filings>3</scanner:filings>
+      <scanner:filingForms>425, 8-K, S-4/A</scanner:filingForms>
+      <scanner:related>BLDC</scanner:related>
+      <description>&lt;p&gt;&lt;b&gt;Amends Blockfusion deal: earnout up to 15M shares, CoreWeave warrant adjusted&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;(SPAC) amended its Business Combination Agreement with Blockfusion Digital Infrastructure, increasing maximum earnout shares to 15,000,000 with VWAP thresholds of $13/$15/$17, and adjusting the CoreWeave warrant to 2,870,813 Pubco shares at $7.4643. The deal remains pending shareholder approval.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Blockfusion Digital Infrastructure, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on business combination&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.50 · Mkt cap $293.6M · EV $293.4M · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004185/0001185185-26-004185-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BACC, BACCR, BACCU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-22&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;S-4/A · Sep 23 05:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2097508/000118518526004213/bldcs4a4091826.htm'&gt;Acquires Blue Acquisition Corp. in $450M stock merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 22 05:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004183/bacc8k425092026.htm'&gt;Amends BCA with Blockfusion: earnout up to 15M shares, new warrant terms&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 22 05:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004185/bacc8k425092026.htm'&gt;Amends Blockfusion deal: earnout up to 15M shares, CoreWeave warrant adjusted&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty BLDC also filed S-4/A&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · IPXG</title>
@@ -1449,34 +1502,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Expiration date October 15, 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1793855/000110465926109410/0001104659-26-109410-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ASGI, ASGI-RW&lt;/b&gt; · 8-K · Items 1.01, 8.01, 9.01 · 8k_tier1:1.01,8.01 · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BACC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2059654/000118518526004183/bacc8k425092026.htm</link>
-      <guid isPermaLink="false">0001185185-26-004185</guid>
-      <pubDate>Tue, 22 Sep 2026 05:16:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Amends BCA with Blockfusion: earnout up to 15M shares, new warrant terms</scanner:headline>
-      <scanner:shortName>Blue Acquisition Corp/Cayman</scanner:shortName>
-      <scanner:price>10.50</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financial Services</scanner:sector>
-      <scanner:ticker>BACC</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>425, 8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Amends Blockfusion deal: earnout up to 15M shares, CoreWeave warrant adjusted&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;(SPAC) amended its Business Combination Agreement with Blockfusion Digital Infrastructure, increasing maximum earnout shares to 15,000,000 with VWAP thresholds of $13/$15/$17, and adjusting the CoreWeave warrant to 2,870,813 Pubco shares at $7.4643. The deal remains pending shareholder approval.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Blockfusion Digital Infrastructure, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on business combination&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.50 · Mkt cap $293.6M · EV $293.4M · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004185/0001185185-26-004185-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BACC, BACCR, BACCU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-22&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 22 05:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004183/bacc8k425092026.htm'&gt;Amends BCA with Blockfusion: earnout up to 15M shares, new warrant terms&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 22 05:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004185/bacc8k425092026.htm'&gt;Amends Blockfusion deal: earnout up to 15M shares, CoreWeave warrant adjusted&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>💔 Busted · SWRD</title>
@@ -13349,33 +13374,6 @@
 &lt;p&gt;&lt;i&gt;Px $16.05 · Mkt cap $1.03B · EV $1.64B · Fwd P/E 35.5x · Fwd EV/EBITDA 14.5x · Real Estate / Health Care REITs&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1561032/000156103226000058/0001561032-26-000058-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NHP, HLTC, NHPAP, NHPBP&lt;/b&gt; · 8-K · Items 2.01, 9.01 · Holding / Investment Offices (6798) · 8k_tier1:2.01 · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · GEG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1831096/000119312526387898/0001193125-26-387898-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-387898</guid>
-      <pubDate>Thu, 10 Sep 2026 15:31:54 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Forbears PIK Note conversion until Nov 2027</scanner:headline>
-      <scanner:shortName>Great Elm</scanner:shortName>
-      <scanner:price>2.21</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>GEG</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Forbears PIK Note conversion until Nov 2027&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Long Ball Partners, part of the Reese/Imperial group, agreed to forbear from converting $8.76M of 5.0% Convertible Senior PIK Notes into Great Elm Group common stock until November 10, 2027. The notes would otherwise convert into 2,521,617 shares (~8% of class). The group holds 23.3% of GEG common.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Great Elm Group, Inc., an asset management company, engages in credit, real estate, specialty finance, and other alternative strategies businesses. The company operates through two segments: Alternative Credit and Real Estate. The Alternative Credit segment focuses on income generation and capital preservation through investment in debt and income-generating securities, direct lending, CLOs, and specialty finance businesses, including factoring, asset-based lending and healthcare.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 23.3%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; November 10, 2027 (forbearance end date)&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.21 · Mkt cap $68.4M · EV $41.3M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1831096/000119312526387898/0001193125-26-387898-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GEG, GEGGL&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7372) · fresh_13d · filed 2026-09-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

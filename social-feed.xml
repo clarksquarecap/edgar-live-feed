@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 10:14:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:22:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$RCL 🤝 Merger
+Acquires 50% of Sandals &amp; Beaches for $3B cash
+Sandals Resorts · $3.0 billion deal · cash · close early 2027</title>
+      <link>https://www.sec.gov/Archives/edgar/data/884887/000110465926109755/tm2625963d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-109755</guid>
+      <pubDate>Wed, 23 Sep 2026 05:14:14 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NWCL 🤝 Merger
 Acquired by NewHold in $2.4B business combination; starts trading on Nasdaq
@@ -26,6 +36,16 @@ Mcap $467M · EV $441M · Basic Material</title>
       <guid isPermaLink="false">0001683168-26-007298</guid>
       <pubDate>Wed, 23 Sep 2026 05:10:46 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$BLDC 🤝 Merger
+Acquires Blue Acquisition Corp. in $450M stock merger
+$450,000,000 deal · stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097508/000118518526004213/bldcs4a4091826.htm</link>
+      <guid isPermaLink="false">0001185185-26-004185</guid>
+      <pubDate>Wed, 23 Sep 2026 05:10:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
     </item>
     <item>
       <title>$IPXG 🤝 Merger
@@ -521,24 +541,6 @@ close early Q4 2026</title>
       <guid isPermaLink="false">0001654954-26-008498</guid>
       <pubDate>Tue, 22 Sep 2026 05:23:19 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ASGI 📜 Rights Issue
-Launches 1-for-3 rights offering for up to 10.5M shares</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1793855/000110465926109410/tm2625182d4_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-109410</guid>
-      <pubDate>Tue, 22 Sep 2026 05:16:29 -0500</pubDate>
-      <category>RIGHTS_ISSUE</category>
-    </item>
-    <item>
-      <title>$BACC 🤝 Merger
-Amends BCA with Blockfusion: earnout up to 15M shares, new warrant terms
-Mcap $294M · EV $293M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2059654/000118518526004183/bacc8k425092026.htm</link>
-      <guid isPermaLink="false">0001185185-26-004185</guid>
-      <pubDate>Tue, 22 Sep 2026 05:16:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
