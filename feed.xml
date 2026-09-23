@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 23:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 23:33:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · CHR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1738758/000109690626001424/0001096906-26-001424-index.htm</link>
+      <guid isPermaLink="false">0001096906-26-001424</guid>
+      <pubDate>Wed, 23 Sep 2026 18:33:45 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Control acquired by Lioness for $500; 96.44% voting power</scanner:headline>
+      <scanner:shortName>Cheer Holding</scanner:shortName>
+      <scanner:price>1.57</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>CHR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3680000</scanner:marketCap>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Control acquired by Lioness for $500; 96.44% voting power&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Cheer Holding&amp;#39;s control changed as Lioness Ltd acquired all 500,000 Class B shares for $500, representing 96.44% of voting power. The Class B shares carry 100 votes each. No board changes are planned.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cheer Holding, Inc., through its subsidiaries, engages in the provision of advertisement and content production services in the People’s Republic of China. It operates through Cheers APP Internet Business and Traditional Media Businesses segments. It also engages in mobile and online advertising, and media and entertainment businesses.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Lioness Ltd&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 500&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 96.44%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.57 · Mkt cap $3.7M · EV $-205.6M · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1738758/000109690626001424/0001096906-26-001424-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CHR&lt;/b&gt; · SCHEDULE 13D · Business Services (7374) · fresh_13d · filed 2026-09-23&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Unsolicited · CURLF</title>
       <link>https://www.otcmarkets.com/stock/CURLF/news/536204</link>
@@ -15128,39 +15158,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CHPG, CHPGR, CHPGU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-11&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 11 08:33 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2024460/000121390026099015/ea0305243-8k425_champions.htm'&gt;Signs business combination with Futuremain&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 11 08:32 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2024460/000121390026099017/ea0305243-8k425_champions.htm'&gt;Acquires Futuremain in business combination; Nasdaq listing planned&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · LPA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1997711/000199771126000152/latampropertiesoftheameric.htm</link>
-      <guid isPermaLink="false">0001997711-26-000152</guid>
-      <pubDate>Fri, 11 Sep 2026 08:32:45 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>INDECOPI clears $145M sale of Lima Sur logistics park to FIBRA Prime</scanner:headline>
-      <scanner:shortName>Logistic Properties of the Americas</scanner:shortName>
-      <scanner:price>3.19</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>LPA</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>96050000</scanner:marketCap>
-      <scanner:enterpriseValue>465850000</scanner:enterpriseValue>
-      <scanner:fwdPE>40.12</scanner:fwdPE>
-      <scanner:fwdEvEbitda>16.59</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;INDECOPI clears $145M sale of Lima Sur logistics park to FIBRA Prime&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received definitive regulatory approval from Peru&amp;#39;s INDECOPI for its previously announced $145.0 million sale of Parque Logístico Lima Sur to FIBRA Prime. The 1.3 million sq ft logistics park sale is expected to close shortly, with only customary administrative matters remaining. LPA expects to redeploy approximately $85.0 million of net proceeds into Mexico.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Logistic Properties of the Americas develops, owns, manages, and operates industrial and logistics real estate properties in Costa Rica, Colombia, Peru, and Mexico. It serves third party logistics, retailer, consumer goods distribution, and other industries. Logistic Properties of the Americas is headquartered in San José, Costa Rica.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; FIBRA Prime&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 145000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing pending customary administrative matters&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.19 · Mkt cap $96.0M · EV $465.9M · Fwd P/E 40.1x · Fwd EV/EBITDA 16.6x · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1997711/000199771126000152/0001997711-26-000152-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LPA&lt;/b&gt; · 6-K · Real Estate (6500) · prefill_form:6-K · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
