@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 21:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:49:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$VSME 📤 Divestiture
@@ -474,36 +474,6 @@ Mcap $304M · EV $525M · Consumer Cycli</title>
       <guid isPermaLink="false">0000921895-26-002624</guid>
       <pubDate>Tue, 22 Sep 2026 18:11:39 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$FXAC 🤝 Merger
-Acquires WT Realty in $600M stock deal; 60M shares
-WT Realty Group · $600,000,000 deal · stock
-Mcap $127M · EV $127M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2121703/000182912626010318/fortunexacq_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-010319</guid>
-      <pubDate>Tue, 22 Sep 2026 16:45:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NG 🤝 Merger
-Acquires Paulson's 40% Donlin Gold stake; all-share, Paulson gets ~35% of New NG
-stock · close Q4 2026</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926109678/tm2625949d1_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-109678</guid>
-      <pubDate>Tue, 22 Sep 2026 16:45:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$IYRI 🤝 Merger
-Acquired by Goldman Sachs Asset Management; shareholder vote pending</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1848758/000199937126021069/neos-defa14a_092226.htm</link>
-      <guid isPermaLink="false">0001999371-26-021069</guid>
-      <pubDate>Tue, 22 Sep 2026 16:45:09 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
