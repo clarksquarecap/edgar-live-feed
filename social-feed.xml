@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 21:15:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:25:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CSR 🤝 Merger
+Acquired by IRT; structure amended so IRT Merger Sub survives</title>
+      <link>https://www.sec.gov/Archives/edgar/data/798359/000114036126037453/ef20082596_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-031072</guid>
+      <pubDate>Wed, 23 Sep 2026 16:25:14 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$XRPN 🤝 Merger
+Acquired by Armada SPAC; to list as XRPN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2092592/000095010326014399/dp253801_425.htm</link>
+      <guid isPermaLink="false">0001193125-26-393846</guid>
+      <pubDate>Wed, 23 Sep 2026 16:24:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TECH 🤝 Merger
 Shareholders approve Merck KGaA merger; 121.9M votes for</title>
@@ -34,16 +52,6 @@ cash</title>
       <guid isPermaLink="false">0001140361-26-037443</guid>
       <pubDate>Wed, 23 Sep 2026 16:12:51 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$IRT 🤝 Merger
-Elects alternative structure for Centerspace merger
-Centerspace (CSR)</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1466085/000143774926031071/irt20260921c_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-031072</guid>
-      <pubDate>Wed, 23 Sep 2026 16:06:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$EMPD ⚔️ Proxy
@@ -490,26 +498,6 @@ Mcap $3.2B · EV $3.3B · Technology</title>
       <pubDate>Tue, 22 Sep 2026 16:30:50 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$HOWL 🤝 Merger
-Acquires Ambros Therapeutics; $500M equity value; combined co trades as AMBX
-$500.0 million (Ambros equity value) deal · stock
-Mcap $48M · EV $26M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1785530/000114036126037334/ny20081588x1_s4.htm</link>
-      <guid isPermaLink="false">0001140361-26-037334</guid>
-      <pubDate>Tue, 22 Sep 2026 16:19:36 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ETD ⚔️ Proxy
-Nominates 5-director slate at Ethan Allen; 5.2% stake
-Mcap $540M · EV $527M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/896156/000092189526002621/dfan14857002_09222026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002581</guid>
-      <pubDate>Tue, 22 Sep 2026 16:17:13 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
