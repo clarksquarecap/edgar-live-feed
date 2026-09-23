@@ -6,8 +6,25 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 21:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:31:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Files consent solicitation to remove 5 directors</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002634/dfan14909002_09232026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002634</guid>
+      <pubDate>Wed, 23 Sep 2026 16:31:17 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
+    <item>
+      <title>$BOW 📦 Going Private
+Acquired by American Family Mutual for $34.00 cash/share
+cash</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2002473/000114036126037457/ny20080231x4_sc13e3a.htm</link>
+      <guid isPermaLink="false">0001140361-26-037443</guid>
+      <pubDate>Wed, 23 Sep 2026 16:31:03 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$CSR 🤝 Merger
 Acquired by IRT; structure amended so IRT Merger Sub survives</title>
@@ -43,15 +60,6 @@ Forced Nasdaq delisting; shares trade on OTC</title>
       <pubDate>Wed, 23 Sep 2026 16:13:27 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$BOW 📦 Going Private
-Acquired by American Family for $34.00 cash/share
-cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2002473/000114036126037443/ny20080231x3_prer14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-037443</guid>
-      <pubDate>Wed, 23 Sep 2026 16:12:51 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
     <item>
       <title>$EMPD ⚔️ Proxy
@@ -486,16 +494,6 @@ Mcap $142M · EV $141M · Financial Serv</title>
       <link>https://www.sec.gov/Archives/edgar/data/2065661/000147793226005747/pltn_8k.htm</link>
       <guid isPermaLink="false">0001477932-26-005748</guid>
       <pubDate>Tue, 22 Sep 2026 16:34:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CHRN 🤝 Merger
-Preliminary proxy for acquisition vote
-Mcap $3.2B · EV $3.3B · Technology</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1549084/000149315226043737/formprer14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-043737</guid>
-      <pubDate>Tue, 22 Sep 2026 16:30:50 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
