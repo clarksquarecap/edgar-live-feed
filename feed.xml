@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 23 Sep 2026 01:04:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 01:57:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · MBAI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1610590/000121390026102336/0001213900-26-102336-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-102336</guid>
+      <pubDate>Tue, 22 Sep 2026 20:57:00 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Insider McGee 13D: 44.9% direct; group ~74% control</scanner:headline>
+      <scanner:shortName>MBody AI</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>MBAI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Insider McGee 13D: 44.9% direct; group ~74% control&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Regan McMillan McGee filed Schedule 13D disclosing 6,860,097 ordinary shares (44.9%) directly plus ~4.44M shares through controlled entities (McGee Group, Alpha Nexus, Monarch Forge, Atlas, Hydra, IronSphere, 17343388 Canada), bringing group control to ~73.9% of MBody AI&amp;#39;s 15,293,584 shares outstanding. Original 13D signals non-passive control intent.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Regan McMillan McGee&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 44.9%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-26&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1610590/000121390026102336/0001213900-26-102336-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MBAI&lt;/b&gt; · SCHEDULE 13D · Business Services (7373) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · PODC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1940177/000121390026102325/0001213900-26-102325-index.htm</link>
@@ -13353,33 +13377,6 @@
 &lt;p&gt;&lt;i&gt;Px $27.77 · Mkt cap $4.01B · EV $6.96B · Fwd P/E 17.1x · Fwd EV/EBITDA 8.3x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1522727/000152272726000071/0001522727-26-000071-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;USAC&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Utilities (4922) · 8k_tier1:3.01,7.01 · filed 2026-09-10&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · SUN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1552275/000155227526000075/sun-20260903.htm</link>
-      <guid isPermaLink="false">0001552275-26-000075</guid>
-      <pubDate>Thu, 10 Sep 2026 15:28:12 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>8-K</category>
-      <scanner:headline>Voluntarily delists from NYSE; TXSE trading begins Oct 5</scanner:headline>
-      <scanner:shortName>Sunoco</scanner:shortName>
-      <scanner:price>76.30</scanner:price>
-      <scanner:subtype>voluntary</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>SUN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Voluntarily delists from NYSE; TXSE trading begins Oct 5&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Approved voluntary withdrawal of its common units from NYSE listing and transfer to the Texas Stock Exchange. NYSE trading ends at market close Oct 2, 2026; TXSE trading begins at market open Oct 5, 2026 under unchanged ticker SUN. No action required by unitholders.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sunoco LP, together with its subsidiaries, engages in the energy infrastructure and distribution of motor fuels in the United States. It operates in four segments: Fuel Distribution, Pipeline Systems, Refinery, and Terminals. The Fuel Distribution segment distributes motor fuels and other petroleum products, such as propane and lubricating oil to third-party dealers and distributors, independent operators of commission agent locations, other commercial consumers of motor fuel, and retail locatio…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Texas Stock Exchange (TXSE)&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-03&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; TXSE trading begins Oct 5, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $76.30 · Mkt cap $10.65B · EV $26.22B · Fwd P/E 20.5x · Fwd EV/EBITDA 7.1x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1552275/000155227526000075/0001552275-26-000075-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SUN&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Petroleum Refining (2911) · 8k_tier1:3.01,7.01 · filed 2026-09-10&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
