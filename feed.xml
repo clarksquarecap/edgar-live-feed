@@ -6,8 +6,40 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 12:24:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:25:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Preliminary · NGCG</title>
+      <link>https://www.otcmarkets.com/stock/NGCG/news/536286</link>
+      <guid isPermaLink="false">OTC-536286</guid>
+      <pubDate>Thu, 24 Sep 2026 07:25:06 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+      <category>OTC</category>
+      <scanner:headline>Signs LOI for business combination with Nutrien Mineral</scanner:headline>
+      <scanner:shortName>New Generation Consumer</scanner:shortName>
+      <scanner:subtype>preliminary</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>NGCG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>OTC</scanner:filingForms>
+      <scanner:related />
+      <scanner:evSalesLtm>0.20</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>0.23</scanner:evGrossProfitLtm>
+      <scanner:grossMarginLtm>88.37</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Signs LOI for business combination with Nutrien Mineral&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Signed a letter of intent for a proposed strategic business combination with Nutrien Mineral Limited. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; New Generation Consumer Group, Inc., through its subsidiary Monster Marketing Group, Inc., develops, markets, sells, and distributes consumable products to consumers in North America. The company’s Michelada division offers Michelada Mix under the Mucho Macho brand name; and VIP Spirits division offers liqueur infused vodka in various flavors under the Excuse brand. It serves clients in quick service, fast food, automobiles, and cellular sectors.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nutrien Mineral Limited&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Consumer Staples / Beverages&lt;/i&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NGCG&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · CDIX</title>
       <link>https://www.otcmarkets.com/stock/CDIX/news/536283</link>
@@ -15202,37 +15234,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.8700 · Mkt cap $5.6M · EV $1.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1130166/000149315226042382/0001493152-26-042382-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BGMS, BGMSP&lt;/b&gt; · S-4/A · Wholesale; Durable (5099) · prefill_form:S-4 · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · FRMI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2071778/000121390026099255/ea0305276-px14a6g_toby.htm</link>
-      <guid isPermaLink="false">0001213900-26-099255</guid>
-      <pubDate>Fri, 11 Sep 2026 15:13:57 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>PX14A6G</category>
-      <scanner:headline>Files 14a-8 for independent strategic review; seeks sale/recap evaluation</scanner:headline>
-      <scanner:shortName>Fermi</scanner:shortName>
-      <scanner:price>5.50</scanner:price>
-      <scanner:subtype />
-      <scanner:form>PX14A6G</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>FRMI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>PX14A6G</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3452120000</scanner:marketCap>
-      <scanner:enterpriseValue>3965970000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Files 14a-8 for independent strategic review; seeks sale/recap evaluation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Founder Parties (Toby Neugebauer, ~22% holder) filed a Rule 14a-8 proposal requesting the board retain an independent investment bank to evaluate extraordinary transactions, including a full-value sale or majority recapitalization. They also ask for governance changes: restore majority-of-outstanding voting standards and raise REIT ownership cap from 2.5% to 9.8%. The proposal comes ahead of the October 30 annual meeting; shares are down ~20% since the board&amp;#39;s August 13 announcement.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Fermi Inc. develops next-generation private electric grids that deliver highly redundant power at gigawatt scale to support next-generation intelligence and AI compute. The company combines cutting-edge technology with a deep bench of proven world-class multidisciplinary leaders with a combined 25 GW of experience to create one of the world&amp;#39;s largest 17 GW next-generation private grids, helping ensure America&amp;#39;s energy and AI dominance.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 22%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; October 30 annual meeting&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.50 · Mkt cap $3.45B · EV $3.97B · Real Estate / Specialized REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2071778/000121390026099255/0001213900-26-099255-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FRMI&lt;/b&gt; · PX14A6G · Holding / Investment Offices (6798) · prefill_form:PX14A6G · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
