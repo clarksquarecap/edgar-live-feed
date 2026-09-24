@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 10:15:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:22:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · PBT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2142855/000121390026102800/ea0297753-04.htm</link>
+      <guid isPermaLink="false">0001213900-26-102800</guid>
+      <pubDate>Thu, 24 Sep 2026 05:22:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>S-4/A</category>
+      <scanner:headline>Acquires Permian Basin Royalty Trust for 1 share/unit; $71.2M backstop</scanner:headline>
+      <scanner:shortName>PBT Land &amp; Minerals</scanner:shortName>
+      <scanner:price>33.12</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>S-4/A</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>PBT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>S-4/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1543680000</scanner:marketCap>
+      <scanner:enterpriseValue>1541430000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>87.11</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>87.11</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>86.88</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Permian Basin Royalty Trust for 1 share/unit; $71.2M backstop&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;New PBT will acquire the assets and liabilities of Permian Basin Royalty Trust. Unitholders will receive one Class A share of New PBT per Trust Unit. The Trust will terminate and its units will be delisted. New PBT will list on NYSE under &amp;#39;PBT&amp;#39;. A rights offering with $71.2M backstop is included.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Permian Basin Royalty Trust holds royalty interests in various oil and gas properties in the United States. The company holds a 75% net overriding royalty interest in the Waddell Ranch properties located in Crane County, Texas, as well as a 95% net overriding royalty interest in the Texas Royalty properties located in 33 counties across Texas. Its Texas Royalty properties comprise approximately 125 separate royalty interests containing approximately 51,000 net producing acres.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Permian Basin Royalty Trust&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $33.12 · Mkt cap $1.54B · EV $1.54B · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2142855/000121390026102800/0001213900-26-102800-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PBT&lt;/b&gt; · S-4/A · Holding / Investment Offices (6792) · prefill_form:S-4 · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · JAGX</title>
       <link>https://www.sec.gov/Archives/edgar/data/1585608/000119312526400087/d161376d8k.htm</link>
@@ -15173,38 +15210,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.00 · Mkt cap $11.0M · EV $3.8M · Fwd P/E 0.4x · Fwd EV/EBITDA 0.1x · Fwd EV/Sales 0.0x · Consumer Cyclical / Household Durables&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/900391/000119312526389058/0001193125-26-389058-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NTZ&lt;/b&gt; · 6-K · Furniture (2510) · prefill_form:6-K · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · TACT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1017303/000121465926011604/0001214659-26-011604-index.htm</link>
-      <guid isPermaLink="false">0001214659-26-011604</guid>
-      <pubDate>Fri, 11 Sep 2026 12:45:39 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Urges BOHA strategic review, new directors, special meeting</scanner:headline>
-      <scanner:shortName>TRANSACT TECHNOLOGIES</scanner:shortName>
-      <scanner:price>5.25</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>TACT</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>54620000</scanner:marketCap>
-      <scanner:enterpriseValue>41460000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>359.87</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Urges BOHA strategic review, new directors, special meeting&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Charles M. Gillman disclosed a 5.1% stake (521,841 shares) in TransAct Technologies and called for an immediate review of strategic alternatives for the BOHA business, addition of multiple new directors, and a special meeting to elect them. He also urged the board to make Daniel Friedberg chairman.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; TransAct Technologies Incorporated designs, develops, and markets transaction-based and specialty printers and terminals in the United States and internationally. It offers thermal printers and terminals to generate labels, coupons, and transaction records, such as receipts, tickets, and other documents.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.1%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting call for board elections&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.25 · Mkt cap $54.6M · EV $41.5M · Fwd EV/EBITDA 359.9x · Information Technology / Technology Hardware, Storage and Peripherals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1017303/000121465926011604/0001214659-26-011604-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TACT&lt;/b&gt; · SCHEDULE 13D/A · Industrial Machinery (3577) · fresh_13d · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
