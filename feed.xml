@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 10:13:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:15:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · JAGX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1585608/000119312526400087/d161376d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-400087</guid>
+      <pubDate>Thu, 24 Sep 2026 05:15:41 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Exchanges $5.05M debt for 547,898 shares with Streeterville</scanner:headline>
+      <scanner:shortName>Jaguar Health</scanner:shortName>
+      <scanner:price>8.91</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>JAGX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3070000</scanner:marketCap>
+      <scanner:enterpriseValue>15890000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.57</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>0.69</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>1.08</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>82.31</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Exchanges $5.05M debt for 547,898 shares with Streeterville&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Issued 547,898 shares of common stock to Streeterville Capital in exchange for a $5,049,909.26 reduction in the outstanding balance of its secured promissory note. The exchange reduces debt and increases share count; the company had approximately 1,281,867 shares outstanding after the transaction.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Jaguar Health, Inc., a commercial-stage pharmaceuticals company, focuses on developing plant-based prescription medicines for people and animals with gastrointestinal distress. It operates through two segments, Animal Health and Human Health. The company focuses on developing and commercializing prescription and non-prescription products for companion and production animals; and human products.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Streeterville Capital, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5,049,909.26&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $8.91 · Mkt cap $3.1M · EV $15.9M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526400087/0001193125-26-400087-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JAGX&lt;/b&gt; · 8-K · Items 1.01, 3.02, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01,8.01 · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · LGHL</title>
       <link>https://www.sec.gov/Archives/edgar/data/1806524/000121390026102774/ea0306185-6k_lion.htm</link>
@@ -15168,37 +15205,6 @@
 &lt;p&gt;&lt;i&gt;Px $5.25 · Mkt cap $54.6M · EV $41.5M · Fwd EV/EBITDA 359.9x · Information Technology / Technology Hardware, Storage and Peripherals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1017303/000121465926011604/0001214659-26-011604-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TACT&lt;/b&gt; · SCHEDULE 13D/A · Industrial Machinery (3577) · fresh_13d · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · WTG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2053927/000182912626010024/wintergreenacq_s4a6.htm</link>
-      <guid isPermaLink="false">0001829126-26-010024</guid>
-      <pubDate>Fri, 11 Sep 2026 11:42:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4/A</category>
-      <scanner:headline>Acquires KIKA Technology for $80M in stock; EGM pending</scanner:headline>
-      <scanner:shortName>KIKA Technology</scanner:shortName>
-      <scanner:price>10.58</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4/A</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>WTG</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>77340000</scanner:marketCap>
-      <scanner:enterpriseValue>76320000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires KIKA Technology for $80M in stock; EGM pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Wintergreen Acquisition Corp. (SPAC) will merge with KIKA Technology Inc., issuing ~7.98M shares to KIKA shareholders based on an $80M valuation. The combined company will be renamed KIKA Inc. The deal is subject to shareholder approval at an extraordinary general meeting.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Wintergreen Acquisition Corp. does not have significant operations. It intends to effect a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2024 is headquartered in Tongzhou, the People&amp;#39;s Republic of China.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $80,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-11-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote (EGM) to be scheduled&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.58 · Mkt cap $77.3M · EV $76.3M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2053927/000182912626010024/0001829126-26-010024-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WTG, WTGUR, WTGUU&lt;/b&gt; · S-4/A · Business Services (7370) · prefill_form:S-4 · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

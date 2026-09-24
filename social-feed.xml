@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 10:13:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:15:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$JAGX 🪙 Debt Restr.
+Exchanges $5.05M debt for 547,898 shares with Streeterville
+Mcap $3M · EV $16M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1585608/000119312526400087/d161376d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-400087</guid>
+      <pubDate>Thu, 24 Sep 2026 05:15:41 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$LGHL 🤝 Merger · Preliminary
 Skyfame scheme meeting set for late Oct/early Nov; sanction hearing Nov 20
@@ -453,16 +462,6 @@ Reports 38.1% stake in VNET via 13D/A</title>
       <guid isPermaLink="false">0001104659-26-109779</guid>
       <pubDate>Wed, 23 Sep 2026 05:26:56 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$RCL 🤝 Merger
-Acquires 50% of Sandals &amp; Beaches for $3B cash
-Sandals Resorts · $3.0 billion deal · cash · close early 2027</title>
-      <link>https://www.sec.gov/Archives/edgar/data/884887/000110465926109755/tm2625963d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-109755</guid>
-      <pubDate>Wed, 23 Sep 2026 05:14:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
