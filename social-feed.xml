@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 20:04:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:07:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TIGO 📍 Stake
+Faces Atlas Investissement stake build to 49.5%; 6M more shares due Sept 25
+Mcap $15B · EV $27B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/912958/000110465926110386/0001104659-26-110386-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-110386</guid>
+      <pubDate>Thu, 24 Sep 2026 15:07:19 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$VOYA ⚔️ Proxy
 Files no-confidence proxy at Voya; 4.65% stake, record 9/30, meeting 11/24
@@ -444,15 +453,6 @@ Gains voting power over 325M VNET shares via CATL consortium; 24.8% stake</title
       <guid isPermaLink="false">0001104659-26-109971</guid>
       <pubDate>Wed, 23 Sep 2026 15:07:56 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$LGVN 🔎 Strat Review · Strat Alts
-Launches strategic review after Phase 2b miss</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1721484/000121390026102611/ea0306147-8k_longeveron.htm</link>
-      <guid isPermaLink="false">0001213900-26-102611</guid>
-      <pubDate>Wed, 23 Sep 2026 15:07:10 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
