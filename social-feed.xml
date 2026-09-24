@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 10:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:10:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IRT 🤝 Merger
+Acquires Centerspace for 3.800 IRT shares/share (14.7% premium)
+14.70 prem · stock
+Mcap $3.4B · EV $6.0B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1466085/000143774926031092/irt20260826_s4.htm</link>
+      <guid isPermaLink="false">0001437749-26-031072</guid>
+      <pubDate>Thu, 24 Sep 2026 05:10:07 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SNTI 🤝 Merger
 Stockholders vote Oct 8 on merger; no cash for common
@@ -103,15 +114,6 @@ cash</title>
       <guid isPermaLink="false">0001140361-26-037443</guid>
       <pubDate>Wed, 23 Sep 2026 16:31:03 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$CSR 🤝 Merger
-Acquired by IRT; structure amended so IRT Merger Sub survives</title>
-      <link>https://www.sec.gov/Archives/edgar/data/798359/000114036126037453/ef20082596_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-031072</guid>
-      <pubDate>Wed, 23 Sep 2026 16:25:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$XRPN 🤝 Merger
@@ -439,25 +441,6 @@ stock</title>
       <link>https://www.sec.gov/Archives/edgar/data/2131813/000095010326014361/dp253663_6k.htm</link>
       <guid isPermaLink="false">0000950103-26-013626</guid>
       <pubDate>Wed, 23 Sep 2026 05:12:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CMCL 📍 Stake
-Receives TR-1: BlackRock crosses 7% stake
-Mcap $467M · EV $441M · Basic Material</title>
-      <link>https://www.sec.gov/Archives/edgar/data/766011/000168316826007298/caledonia_6k.htm</link>
-      <guid isPermaLink="false">0001683168-26-007298</guid>
-      <pubDate>Wed, 23 Sep 2026 05:10:46 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$BLDC 🤝 Merger
-Acquires Blue Acquisition Corp. in $450M stock merger
-$450,000,000 deal · stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2097508/000118518526004213/bldcs4a4091826.htm</link>
-      <guid isPermaLink="false">0001185185-26-004185</guid>
-      <pubDate>Wed, 23 Sep 2026 05:10:26 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
