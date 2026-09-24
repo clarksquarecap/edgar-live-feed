@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 10:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:13:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LGHL 🤝 Merger · Preliminary
+Skyfame scheme meeting set for late Oct/early Nov; sanction hearing Nov 20
+Mcap $330K · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1806524/000121390026102774/ea0306185-6k_lion.htm</link>
+      <guid isPermaLink="false">0001213900-26-102774</guid>
+      <pubDate>Thu, 24 Sep 2026 05:13:42 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
+    <item>
+      <title>$ACB 🤝 Merger · Unsolicited
+Challenges Curaleaf hostile bid with ASC application
+Curaleaf Holdings
+Mcap $273M · EV $218M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1683541/000127956926000915/aurora_6k.htm</link>
+      <guid isPermaLink="false">OTC-536204</guid>
+      <pubDate>Thu, 24 Sep 2026 05:12:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
     <item>
       <title>$AFYA 🤝 Merger
 Merges into Yduqs; 6.4083 YDUQ3 shares per AFYA share
@@ -78,17 +99,6 @@ Mcap $4M · Comms</title>
       <guid isPermaLink="false">0001096906-26-001424</guid>
       <pubDate>Wed, 23 Sep 2026 18:33:45 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$CURLF 🤝 Merger · Unsolicited
-Hostile bid for Aurora faces ASC regulatory challenge
-Aurora Cannabis
-Mcap $3.1B · EV $4.1B · Healthcare</title>
-      <link>https://www.otcmarkets.com/stock/CURLF/news/536204</link>
-      <guid isPermaLink="false">OTC-536204</guid>
-      <pubDate>Wed, 23 Sep 2026 17:49:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
     <item>
       <title>$SPRU 📍 Stake
@@ -451,16 +461,6 @@ Sandals Resorts · $3.0 billion deal · cash · close early 2027</title>
       <link>https://www.sec.gov/Archives/edgar/data/884887/000110465926109755/tm2625963d1_8k.htm</link>
       <guid isPermaLink="false">0001104659-26-109755</guid>
       <pubDate>Wed, 23 Sep 2026 05:14:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NWCL 🤝 Merger
-Acquired by NewHold in $2.4B business combination; starts trading on Nasdaq
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2131813/000095010326014361/dp253663_6k.htm</link>
-      <guid isPermaLink="false">0000950103-26-013626</guid>
-      <pubDate>Wed, 23 Sep 2026 05:12:34 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
