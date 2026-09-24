@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 13:06:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:27:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · CLYD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2094256/000110465926110240/tm2625953d1_sctoia.htm</link>
+      <guid isPermaLink="false">0001104659-26-110240</guid>
+      <pubDate>Thu, 24 Sep 2026 08:27:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>SC TO-I/A</category>
+      <scanner:headline>Adds $60M PIPE to reverse merger with Barinthus Bio</scanner:headline>
+      <scanner:shortName>BEACON TOPCO</scanner:shortName>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>SC TO-I/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>CLYD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC TO-I/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Adds $60M PIPE to reverse merger with Barinthus Bio&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Disclosed a $60M PIPE financing concurrent with its all-stock reverse merger with Barinthus Biotherapeutics (BRNS). The combined company will operate as Clywedog Therapeutics Holdings, Inc. and trade under CLYD. The merger is expected to close in Q3 2026, with the self-tender offer at $6.6609 per share.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Barinthus Biotherapeutics plc (BRNS) and Clywedog Therapeutics, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-09-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing of reverse merger and PIPE financing&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2094256/000110465926110240/0001104659-26-110240-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CLYD&lt;/b&gt; · SC TO-I/A · Chemicals / Pharma (2834) · prefill_form:SC TO-I · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · TROO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1412095/000110465926110232/0001104659-26-110232-index.htm</link>
@@ -15217,38 +15241,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.06 · Mkt cap $59.5M · EV $82.7M · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1516899/000153949726002487/0001539497-26-002487-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;YTRA&lt;/b&gt; · SC TO-T/A · Transportation Services (4700) · prefill_form:SC TO-T · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · USAR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1970622/000094787126000861/0000947871-26-000861-index.htm</link>
-      <guid isPermaLink="false">0000947871-26-000861</guid>
-      <pubDate>Fri, 11 Sep 2026 15:18:28 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Takes 7.9% stake (29.5M shares) as merger consideration</scanner:headline>
-      <scanner:shortName>USA Rare Earth</scanner:shortName>
-      <scanner:price>15.56</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>USAR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3925310000</scanner:marketCap>
-      <scanner:enterpriseValue>2407650000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>53.73</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Takes 7.9% stake (29.5M shares) as merger consideration&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;VB (Rare Earths) Ltd and Vision Blue Resources Ltd received 29,544,227 shares of USA Rare Earth common stock (7.9% of 375,076,567 shares outstanding) as consideration in a merger on September 3, 2026. Vision Blue, an investment firm focused on strategic metals and minerals, owns substantially all of VBRE. Item 4 states only boilerplate intent to assess the investment; no concrete activist agenda disclosed.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; USA Rare Earth, Inc. engages in mining, processing, and supplying rare earths and other critical minerals in the United States, Europe, and Asia. It primarily explores neodymium, dysprosium, terbium, yttrium, gallium, hafnium, praseodymium, samarium, and other critical minerals. The company holds interests in the Round Top Mountain located near Sierra Blanca, Texas.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.9%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-03&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $15.56 · Mkt cap $3.93B · EV $2.41B · Fwd EV/EBITDA 53.7x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1970622/000094787126000861/0000947871-26-000861-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;USAR&lt;/b&gt; · SCHEDULE 13D · Metal Mining (1000) · fresh_13d · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
