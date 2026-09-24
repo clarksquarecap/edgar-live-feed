@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 20:32:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:34:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · LEA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/842162/000084216226000080/lear-20260924.htm</link>
+      <guid isPermaLink="false">0000842162-26-000080</guid>
+      <pubDate>Thu, 24 Sep 2026 15:32:38 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>8-K</category>
+      <scanner:headline>Increases buyback authorization to $1.5B (~26% of cap); extended to 2029</scanner:headline>
+      <scanner:shortName>LEAR</scanner:shortName>
+      <scanner:price>118.25</scanner:price>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>LEA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>6002330000</scanner:marketCap>
+      <scanner:enterpriseValue>8553830000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.36</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>4.69</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>7.80</scanner:fwdPE>
+      <scanner:fwdEvEbitda>4.82</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>4.71</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>7.70</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Increases buyback authorization to $1.5B (~26% of cap); extended to 2029&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation increased its share repurchase authorization to $1.5 billion and extended the term to December 31, 2029. The authorization represents approximately 26% of its market capitalization. The company had about $600 million remaining on the prior authorization expiring at end of 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lear Corporation designs, develops, engineers, manufactures, assembles, and supplies automotive seating, and electrical distribution systems and related components for automotive original equipment manufacturers in North America, Europe, Africa, Asia, and South America. Its Seating segment offers seat systems, keyseat components, seat trim covers, seat mechanisms, thermal comfort systems such as seat heating, ventilation, active cooling, pneumatic lumbar and massage products, seat cushioning, an…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $118.25 · Mkt cap $6.00B · EV $8.55B · Fwd P/E 7.8x · Fwd EV/EBITDA 4.8x · Consumer Discretionary / Automobile Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/842162/000084216226000080/0000842162-26-000080-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LEA&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Transportation Equipment (3714) · 8k_tier1:8.01 · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · BRVO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1444839/000109181826000148/brvo-092426_8k.htm</link>
@@ -15253,37 +15291,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.08 · Mkt cap $2.9M · EV $8.9M · Consumer Discretionary / Automobile Components&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2083142/000117184326006005/0001171843-26-006005-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SSM&lt;/b&gt; · S-4/A · Non-Depository Credit (6199) · prefill_form:S-4 · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · LPBB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2023676/000121390026099372/ea0299156-02.htm</link>
-      <guid isPermaLink="false">0001213900-26-099372</guid>
-      <pubDate>Fri, 11 Sep 2026 16:36:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4</category>
-      <scanner:headline>Acquires NuCube Energy in $500M stock merger; rename to NuCube Holdings</scanner:headline>
-      <scanner:shortName>NuCube Energy</scanner:shortName>
-      <scanner:price>10.82</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>LPBB</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>310790000</scanner:marketCap>
-      <scanner:enterpriseValue>310760000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires NuCube Energy in $500M stock merger; rename to NuCube Holdings&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Launch Two Acquisition Corp. (SPAC) will acquire NuCube Energy in a $500M stock-for-stock merger, with NuCube stockholders receiving Combined Company shares based on an exchange ratio. The combined company will be renamed NuCube Holdings, Inc. and list on Nasdaq under NCUB. The SPAC must complete a business combination by October 9, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Launch Two Acquisition Corp. does not have significant operations. The company intends to effect a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. Launch Two Acquisition Corp. was incorporated in 2024 and is based in Oakland, California.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $500,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Extraordinary general meeting to approve merger (date TBD)&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.82 · Mkt cap $310.8M · EV $310.8M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2023676/000121390026099372/0001213900-26-099372-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LPBB, LPBBU, LPBBW&lt;/b&gt; · S-4 · Fabricated Metals (3443) · prefill_form:S-4 · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
