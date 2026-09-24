@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 18:07:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:20:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AASP 📍 Stake
+Reports 17.5% stake in Agassi Sports
+Mcap $65M · EV $65M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/930245/000147237526000219/0001472375-26-000219-index.htm</link>
+      <guid isPermaLink="false">0001472375-26-000219</guid>
+      <pubDate>Thu, 24 Sep 2026 13:20:51 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$MGLD 📤 Divestiture
 Sells Printstock unit to TAG Investments for NZ$2.45M cash
@@ -433,15 +442,6 @@ WISeSat.Space merger vote Sept 28; redemption deadline Sept 24</title>
       <pubDate>Wed, 23 Sep 2026 13:47:18 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GTE 📤 Divestiture
-Sells Colombia/Ecuador businesses to Maurel &amp; Prom for $1.33B; vote Oct 9
-approximately $1.33 billion deal</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1273441/000119312526399173/d130864ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-399173</guid>
-      <pubDate>Wed, 23 Sep 2026 13:18:11 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>

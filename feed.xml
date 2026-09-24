@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 18:07:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:20:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · AASP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/930245/000147237526000219/0001472375-26-000219-index.htm</link>
+      <guid isPermaLink="false">0001472375-26-000219</guid>
+      <pubDate>Thu, 24 Sep 2026 13:20:51 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Reports 17.5% stake in Agassi Sports</scanner:headline>
+      <scanner:shortName>Agassi Sports Entertainment</scanner:shortName>
+      <scanner:price>5.10</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>AASP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>65480000</scanner:marketCap>
+      <scanner:enterpriseValue>65410000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Reports 17.5% stake in Agassi Sports&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Investments AKA, LLC and affiliates filed Amendment 6 to Schedule 13D, reporting 2,291,398 shares (17.5%) of Agassi Sports Entertainment Corp. Andre Agassi&amp;#39;s total beneficial ownership is 23.3% including 1,000,000 warrant shares held by Stefanie Graf.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Agassi Sports Entertainment Corp. operates as a sports entertainment, content, and media company in the United States. The company was formerly known as Global Acquisitions Corporation and changed its name to Agassi Sports Entertainment Corp. in March 2025. The company was incorporated in 1984 and is based in Las Vegas, Nevada.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 17.5%&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.10 · Mkt cap $65.5M · EV $65.4M · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/930245/000147237526000219/0001472375-26-000219-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AASP&lt;/b&gt; · SCHEDULE 13D/A · Retail; Misc (5900) · fresh_13d · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · MGLD</title>
       <link>https://www.sec.gov/Archives/edgar/data/1005101/000149315226044118/form8-k.htm</link>
@@ -15216,39 +15246,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Alternative Credit Income Fund&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1726548/000119312526389299/0001193125-26-389299-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BCPLBDC&lt;/b&gt; · 8-K · Items 8.01, 9.01 · 8k_tier1:8.01 · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · ANY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1591956/000121390026099276/ea0305129-8k_sphere.htm</link>
-      <guid isPermaLink="false">0001213900-26-098043</guid>
-      <pubDate>Fri, 11 Sep 2026 15:27:40 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Sells non-core Iowa site and legacy mining fleet to fund AI/HPC</scanner:headline>
-      <scanner:shortName>Sphere 3D</scanner:shortName>
-      <scanner:price>2.45</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>ANY</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>20200000</scanner:marketCap>
-      <scanner:enterpriseValue>21480000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells Iowa site to Simplemining for $1.5M; mining fleet to RepairBit for $3.1M&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Sold its Iowa site to Simplemining, LLC for $1.5M (received $300k cash, $1.2M interest-free note payable over 12 months) and sold all ~5,500 owned mining machines to RepairBit, LLC for ~$3.1M aggregate proceeds, delivered over 90 days. The company retains ownership until payments received.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sphere 3D Corp. engages in the bitcoin mining business. The company is involved with bitcoin mining pool operators as its customers to provide a service to perform hash calculations for the mining pool operators. The company is based in Stamford, Connecticut.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Simplemining, LLC and RepairBit, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $4.6M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.45 · Mkt cap $20.2M · EV $21.5M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1591956/000121390026098043/0001213900-26-098043-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ANY&lt;/b&gt; · 8-K · Items 1.01 · Non-Depository Credit (6199) · 8k_tier1:1.01 · filed 2026-09-08&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 11 15:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1591956/000121390026099276/ea0305129-8k_sphere.htm'&gt;Sells non-core Iowa site and legacy mining fleet to fund AI/HPC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 08 15:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1591956/000121390026098043/ea0304863-8k_sphere.htm'&gt;Sells Iowa site to Simplemining for $1.5M; mining fleet to RepairBit for $3.1M&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
