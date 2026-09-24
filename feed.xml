@@ -6,8 +6,42 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 10:22:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:23:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · HAFN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1815779/000114036126037499/ef20082701_6k.htm</link>
+      <guid isPermaLink="false">0001140361-26-037499</guid>
+      <pubDate>Thu, 24 Sep 2026 05:23:49 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Acquires 1.7M TORM shares at $34.00; stake to 19.85%</scanner:headline>
+      <scanner:shortName>Hafnia</scanner:shortName>
+      <scanner:price>9.10</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>HAFN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>4579580000</scanner:marketCap>
+      <scanner:enterpriseValue>5220950000</scanner:enterpriseValue>
+      <scanner:fwdPE>9.46</scanner:fwdPE>
+      <scanner:fwdEvEbitda>7.74</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>5.88</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires 1.7M TORM shares at $34.00; stake to 19.85%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited agreed to acquire 1,700,000 A shares in TORM plc at USD 34.00 per share, representing 1.66% of TORM&amp;#39;s share capital. Upon completion, Hafnia will hold approximately 19.85% of TORM. The purchase will be funded with cash on hand and available credit facilities.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Hafnia Limited., an investment holding company, owns and operates oil product tankers in Bermuda. It operates through Long Range II, Long Range I, Medium Range (MR), and Handy Size segments. The company transports clean and dirty, refined oil products, vegetable oil, and easy chemicals to national and international oil companies, and chemical companies, as well as trading and utility companies.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; TORM plc&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 34.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; USD 57.8M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 19.85%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $9.10 · Mkt cap $4.58B · EV $5.22B · Fwd P/E 9.5x · Fwd EV/EBITDA 7.7x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1815779/000114036126037499/0001140361-26-037499-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HAFN&lt;/b&gt; · 6-K · Transportation Services (4700) · prefill_form:6-K · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · PBT</title>
       <link>https://www.sec.gov/Archives/edgar/data/2142855/000121390026102800/ea0297753-04.htm</link>
@@ -15178,38 +15212,6 @@
 &lt;p&gt;&lt;i&gt;Px $5.57 · Mkt cap $6.3M · EV $26.6M · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1668010/000149315226042355/0001493152-26-042355-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DBGI&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Retail; Apparel (5600) · 8k_tier1:7.01 · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · NTZ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/900391/000119312526389058/nyse_appeal.htm</link>
-      <guid isPermaLink="false">0001193125-26-389058</guid>
-      <pubDate>Fri, 11 Sep 2026 13:18:42 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Converts €5M shareholder loans to equity; appeals NYSE delisting</scanner:headline>
-      <scanner:shortName>NATUZZI S P A</scanner:shortName>
-      <scanner:price>1.00</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Consumer Cyclical</scanner:sector>
-      <scanner:ticker>NTZ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>11014609</scanner:marketCap>
-      <scanner:enterpriseValue>3750686</scanner:enterpriseValue>
-      <scanner:fwdPE>0.38</scanner:fwdPE>
-      <scanner:fwdEvEbitda>0.09</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Converts €5M shareholder loans to equity; appeals NYSE delisting&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Natuzzi converted €5M of shareholder loans from controlling shareholder INVEST 2003 into equity, recorded as an equity reserve. The company also filed a request for review of the NYSE delisting determination, with review scheduled at least 25 business days out.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; INVEST 2003 S.r.l.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; €5,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; NYSE review pending&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.00 · Mkt cap $11.0M · EV $3.8M · Fwd P/E 0.4x · Fwd EV/EBITDA 0.1x · Fwd EV/Sales 0.0x · Consumer Cyclical / Household Durables&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/900391/000119312526389058/0001193125-26-389058-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NTZ&lt;/b&gt; · 6-K · Furniture (2510) · prefill_form:6-K · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
