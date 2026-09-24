@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 02:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:06:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$UTMD 💧 Capital Return · Self-tender
+Self-tender for up to 650K shares at $75 (20.5% of outstanding)
+Mcap $239M · EV $151M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/706698/000109690626001428/utmd_sctoi.htm</link>
+      <guid isPermaLink="false">0001096906-26-001428</guid>
+      <pubDate>Thu, 24 Sep 2026 05:06:43 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$CHR 📍 Stake
 Control acquired by Lioness for $500; 96.44% voting power
@@ -429,45 +439,6 @@ $450,000,000 deal · stock</title>
       <pubDate>Wed, 23 Sep 2026 05:10:26 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$IPXG 🤝 Merger
-Hosts Elroy Air analyst day for pending business combination</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2088805/000121390026102326/ea0306343-425_inflection7.htm</link>
-      <guid isPermaLink="false">0001213900-26-101659</guid>
-      <pubDate>Wed, 23 Sep 2026 05:06:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DXLG 🤝 Merger
-Board opposes FBB merger; recommends 'no' on 55% stock issuance
-FBB Holdings I · stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/813298/000119312526398319/d76201dprer14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-398319</guid>
-      <pubDate>Wed, 23 Sep 2026 05:05:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$KUST 🤝 Merger
-Acquires TFL, LLC; issues &gt;20% shares, change of control
-cash+stk</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1342958/000149315226043769/formdefr14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-042812</guid>
-      <pubDate>Wed, 23 Sep 2026 05:05:09 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RNW 📦 Going Private
-Acquired by CPP Investments consortium for $7.02/share cash
-cash
-Mcap $2.5B · EV $10B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1848763/000119312526398221/d72407dsc13e3.htm</link>
-      <guid isPermaLink="false">0001193125-26-398027</guid>
-      <pubDate>Wed, 23 Sep 2026 05:04:44 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
   </channel>
 </rss>
