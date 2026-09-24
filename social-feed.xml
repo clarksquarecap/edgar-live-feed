@@ -6,8 +6,30 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 21:26:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:33:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DGNX 🤝 Merger
+Acquires Resulticks for 600M shares; EGM Oct 8
+stock · close Q4 2026
+Mcap $43M · EV $38M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2010499/000149315226044188/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044188</guid>
+      <pubDate>Thu, 24 Sep 2026 16:33:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$REEUF 🤝 Merger
+Acquires InoBat for $1.265B pre-money; F-4 filed
+$1.265B (pre-money) deal · stock
+Mcap $79M · EV $88M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1889112/000118518526004277/inobatas425092426.htm</link>
+      <guid isPermaLink="false">0001185185-26-004249</guid>
+      <pubDate>Thu, 24 Sep 2026 16:33:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SSAC 🤝 Merger
 Acquires Mobilewalla in $250M business combination
@@ -24,7 +46,7 @@ Mcap $243M · EV $243M · Financials</title>
 Consent solicitation to remove five directors; claims 46% support
 Mcap $231M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002644/dfan14909002b_09242026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002488</guid>
+      <guid isPermaLink="false">0000921895-26-002634</guid>
       <pubDate>Thu, 24 Sep 2026 16:23:31 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
@@ -531,25 +553,6 @@ US$1.00 deal · close post-EGM</title>
       <guid isPermaLink="false">0001493152-26-043971</guid>
       <pubDate>Wed, 23 Sep 2026 16:38:23 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PATK 🤝 Merger
-Acquires LCI Industries in 1.2440x stock-for-stock merger
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/76605/000162828026063259/patrickindustries-sx4.htm</link>
-      <guid isPermaLink="false">0001628280-26-063259</guid>
-      <pubDate>Wed, 23 Sep 2026 16:31:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BOW 📦 Going Private
-Acquired by American Family Mutual for $34.00 cash/share
-cash</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2002473/000114036126037457/ny20080231x4_sc13e3a.htm</link>
-      <guid isPermaLink="false">0001140361-26-037443</guid>
-      <pubDate>Wed, 23 Sep 2026 16:31:03 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
   </channel>
 </rss>
