@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 10:48:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:06:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚔️ Proxy Contest · ETD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/896156/000153949726002587/n6029_x3-defc14a.htm</link>
+      <guid isPermaLink="false">0001539497-26-002587</guid>
+      <pubDate>Thu, 24 Sep 2026 06:05:59 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+      <category>activist</category>
+      <category>DEFC14A</category>
+      <scanner:headline>Faces proxy contest</scanner:headline>
+      <scanner:shortName>ETHAN ALLEN INTERIORS</scanner:shortName>
+      <scanner:price>21.02</scanner:price>
+      <scanner:subtype />
+      <scanner:form>DEFC14A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>ETD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFC14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>529760000</scanner:marketCap>
+      <scanner:enterpriseValue>517110000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.89</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.46</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>17.41</scanner:fwdPE>
+      <scanner:fwdEvEbitda>9.86</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>1.48</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>61.22</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Faces proxy contest&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed a definitive proxy statement (DEFC14A), indicating a contested solicitation. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ethan Allen Interiors Inc. operates as an interior design company, and manufacturer and retailer of home furnishings in the United States and internationally. The company operates through two segments: Wholesale and Retail. It offers case goods items, such as beds, dressers, armoires, tables, chairs, buffets, entertainment units, home office furniture, and wooden accents; upholstery comprising fabric-covered items, such as sleepers, recliners and other motion furniture, chairs, ottomans, custom …&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $21.02 · Mkt cap $529.8M · EV $517.1M · Fwd P/E 17.4x · Fwd EV/EBITDA 9.9x · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000153949726002587/0001539497-26-002587-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ETD&lt;/b&gt; · DEFC14A · Furniture (2511) · prefill_form:DEFC14A · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · VRT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1674101/000162828026063311/vrt-20260924.htm</link>
@@ -15188,38 +15225,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.5300 · Mkt cap $95.1M · EV $33.1M · Industrials / Aerospace and Defense&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1867102/000110465926107047/0001104659-26-107047-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EVTL, EVAWF, EVBWF, EVTWF&lt;/b&gt; · 6-K · Transportation Equipment (3721) · prefill_form:6-K · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · PHAR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1828316/000182831626000037/fdaapprovespharmingsjoenja.htm</link>
-      <guid isPermaLink="false">0001828316-26-000037</guid>
-      <pubDate>Fri, 11 Sep 2026 14:02:08 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>6-K</category>
-      <scanner:headline>Won FDA approval for Joenja in pediatric APDS; doses available Oct</scanner:headline>
-      <scanner:shortName>Pharming Group</scanner:shortName>
-      <scanner:price>11.28</scanner:price>
-      <scanner:subtype>won</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>PHAR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>759720000</scanner:marketCap>
-      <scanner:enterpriseValue>714000000</scanner:enterpriseValue>
-      <scanner:fwdPE>62.20</scanner:fwdPE>
-      <scanner:fwdEvEbitda>12.27</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Won FDA approval for Joenja in pediatric APDS; doses available Oct&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced FDA approval of its sNDA for Joenja (leniolisib) 40mg and 50mg twice-daily dosing for children aged 4-11 with APDS weighing at least 27kg. This makes Joenja the first FDA-approved treatment for this pediatric population. Newly approved doses expected available in October.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Pharming Group N.V., a biopharmaceutical company, develops and commercializes protein replacement therapies and precision medicines for the treatment of rare diseases in the United States, Europe, and internationally. The company’s lead product is RUCONEST, a recombinant C1 esterase inhibitor for the treatment of acute attacks in adult and adolescent patients with acute hereditary angioedema (HAE); and Joenja (leniolisib), an oral small molecule PI3K? inhibitor for the treatment of activated pho…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Doses available October&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $11.28 · Mkt cap $759.7M · EV $714.0M · Fwd P/E 62.2x · Fwd EV/EBITDA 12.3x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1828316/000182831626000037/0001828316-26-000037-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PHAR&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
