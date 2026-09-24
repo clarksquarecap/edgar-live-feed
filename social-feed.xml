@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 20:47:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:54:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MDT 🪓 Split-off
+Split-off exchange: up to 225.4M MiniMed shares for MDT shares
+Mcap $114B · EV $134B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026063443/a425-mdtwebsitex92426.htm</link>
+      <guid isPermaLink="false">0001628280-26-062507</guid>
+      <pubDate>Thu, 24 Sep 2026 15:54:46 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
     <item>
       <title>$SKYE 📍 Stake
 Increases stake to 25.7% of class
@@ -107,16 +116,6 @@ Mcap $175M · EV $432M · Energy</title>
       <pubDate>Thu, 24 Sep 2026 15:26:48 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces Garg consent solicitation; opens investigation into alleged consent-buying
-Vishal Garg
-Mcap $231M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000183585626000058/betr-defa14aseptember24.htm</link>
-      <guid isPermaLink="false">0000921895-26-002634</guid>
-      <pubDate>Thu, 24 Sep 2026 15:25:08 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
     <item>
       <title>$HCWC 📍 Stake
@@ -445,6 +444,14 @@ stock</title>
       <category>definitive</category>
     </item>
     <item>
+      <title>$BETR ⚔️ Proxy
+Files consent solicitation to remove 5 directors</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002634/dfan14909002_09232026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002488</guid>
+      <pubDate>Wed, 23 Sep 2026 16:31:17 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
+    <item>
       <title>$BOW 📦 Going Private
 Acquired by American Family Mutual for $34.00 cash/share
 cash</title>
@@ -487,23 +494,6 @@ Faces proxy contest; urges WHITE card vote by Oct 14</title>
       <guid isPermaLink="false">0000921895-26-002572</guid>
       <pubDate>Wed, 23 Sep 2026 16:05:33 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$MDT 🪓 Split-off
-Launches split-off: exchange up to 225.4M MiniMed shares for MDT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026063241/a425-mdtwebsitex92326.htm</link>
-      <guid isPermaLink="false">0001628280-26-062507</guid>
-      <pubDate>Wed, 23 Sep 2026 15:59:39 -0500</pubDate>
-      <category>SPLIT_OFF</category>
-    </item>
-    <item>
-      <title>$SUI 📤 Divestiture
-Sells UK business to Panther Bidco for ~$1.05B cash
-£772.3M (~$1.05B) deal</title>
-      <link>https://www.sec.gov/Archives/edgar/data/912593/000091259326000256/sui-20260922.htm</link>
-      <guid isPermaLink="false">0000912593-26-000256</guid>
-      <pubDate>Wed, 23 Sep 2026 15:53:25 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
