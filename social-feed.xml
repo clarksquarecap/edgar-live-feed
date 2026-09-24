@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 20:34:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:39:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PRFX 👀 Activist
+Demands special meeting to replace board at PRF Technologies
+5.716 stake
+Mcap $4M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801834/000107997326001274/0001079973-26-001274-index.htm</link>
+      <guid isPermaLink="false">0001079973-26-001274</guid>
+      <pubDate>Thu, 24 Sep 2026 15:34:11 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$LEA 💧 Capital Return · Buyback
 Increases buyback authorization to $1.5B (~26% of cap); extended to 2029
@@ -483,45 +493,6 @@ Amends credit agreement; leverage cap 5.5x, coverage 2.25x</title>
       <guid isPermaLink="false">0001906324-26-000036</guid>
       <pubDate>Wed, 23 Sep 2026 15:46:42 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$WLDN 🤝 Merger
-Acquires Mantis Intermediate Holdings for $285M cash
-Mantis NewCo · $285,000,000 deal · cash · close 2026-10-30</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1370450/000110465926110002/tm2625947d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-110002</guid>
-      <pubDate>Wed, 23 Sep 2026 15:39:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TLSS 🤝 Merger
-Extends PGS acquisition closing to Oct 1; $4.75M in Series J preferred
-$4,750,000 deal · stock · close 2026-10-01</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1463208/000149315226043934/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-043934</guid>
-      <pubDate>Wed, 23 Sep 2026 15:38:21 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FFBC 🤝 Merger
-Acquires Finward Bancorp for 1.35 FFBC shares (~$47.90/share); vote Nov 2
-$208.3M deal · stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/708955/000110465926109997/tm2624150-3_s4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-109997</guid>
-      <pubDate>Wed, 23 Sep 2026 15:37:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TBPH 📉 Delisting · Voluntary
-Voluntary delisting from Nasdaq</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1583107/000135445726000901/0001354457-26-000901-index.htm</link>
-      <guid isPermaLink="false">0001354457-26-000901</guid>
-      <pubDate>Wed, 23 Sep 2026 15:36:47 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
