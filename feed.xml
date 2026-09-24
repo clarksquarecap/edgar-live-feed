@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 13:03:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:05:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · TROO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1412095/000110465926110233/0001104659-26-110233-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-110233</guid>
+      <pubDate>Thu, 24 Sep 2026 08:05:54 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Reports 7.9% stake in TROOPS</scanner:headline>
+      <scanner:shortName>Troops Inc. /Cayman Islands</scanner:shortName>
+      <scanner:price>1.83</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>TROO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>223550000</scanner:marketCap>
+      <scanner:enterpriseValue>219540000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>12.84</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>108.84</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>121.56</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>11.80</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Reports 7.9% stake in TROOPS&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;WANG &amp;amp; LEE Holdings, Inc. filed a Schedule 13D disclosing a 7.9% stake (9,650,000 ordinary shares) in TROOPS, Inc. The shares were acquired via a May 2025 stock purchase and a July 2025 repurchase. The filing states the purpose is to purchase shares and may seek to influence management.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; TROOPS, Inc., together with its subsidiaries, provides consultancy services for insurance products in Hong Kong, Australia, and the People’s Republic of China. The company also provides mortgage, personal, and corporate loans; and advisory and referral services in relation to the application of migration, education and visa renewal to its customers.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.9%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.83 · Mkt cap $223.6M · EV $219.5M · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1412095/000110465926110233/0001104659-26-110233-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TROO&lt;/b&gt; · SCHEDULE 13D · Non-Depository Credit (6159) · fresh_13d · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · ATII</title>
       <link>https://www.sec.gov/Archives/edgar/data/2028516/000110465926110234/tm2624841-1_defm14a.htm</link>
@@ -15210,37 +15247,6 @@
 &lt;p&gt;&lt;i&gt;Px $15.56 · Mkt cap $3.93B · EV $2.41B · Fwd EV/EBITDA 53.7x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1970622/000094787126000861/0000947871-26-000861-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;USAR&lt;/b&gt; · SCHEDULE 13D · Metal Mining (1000) · fresh_13d · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · ATEK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1882198/000121390026099259/ea0305259-8k_athena2.htm</link>
-      <guid isPermaLink="false">0001213900-26-099259</guid>
-      <pubDate>Fri, 11 Sep 2026 15:16:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Approves Ace Green merger; extension to Oct 14</scanner:headline>
-      <scanner:shortName>Athena Technology Acquisition Corp. II</scanner:shortName>
-      <scanner:price>9.50</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>ATEK</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>93560000</scanner:marketCap>
-      <scanner:enterpriseValue>95630000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Approves Ace Green merger; extension to Oct 14&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Stockholders approved the business combination with Ace Green Recycling Inc. at a special meeting on Sept 11, 2026. 9,835,040 shares voted for (99.86% of outstanding), with 9,029 shares electing to redeem. The company also deposited $271.48 to extend the deadline to consummate the merger to Oct 14, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Athena Technology Acquisition Corp. II does not have significant operations. The company focuses on effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or similar business combination with one or more businesses. It also intends to focus its search on targets in the fintech, enterprise, deep tech and health-tech industries. The company was incorporated in 2021 and is based in New York, New York.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ace Green Recycling Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; by Oct 14, 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Merger closing&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $9.50 · Mkt cap $93.6M · EV $95.6M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1882198/000121390026099259/0001213900-26-099259-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ATEK, ATEKU, ATEKW&lt;/b&gt; · 8-K · Items 5.07, 8.01 · Utilities (4955) · 8k_tier1:8.01 · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
