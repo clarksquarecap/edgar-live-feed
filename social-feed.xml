@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 20:18:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:26:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SAFX 🤝 Merger
+Postpones merger vote to Oct 5; DevvStream/Southern combo
+Mcap $175M · EV $432M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2019793/000121390026103061/ea0306519-425_xcfglobal.htm</link>
+      <guid isPermaLink="false">0001213900-26-103061</guid>
+      <pubDate>Thu, 24 Sep 2026 15:26:48 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Faces Garg consent solicitation; opens investigation into alleged consent-buying
+Vishal Garg
+Mcap $231M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000183585626000058/betr-defa14aseptember24.htm</link>
+      <guid isPermaLink="false">0000921895-26-002634</guid>
+      <pubDate>Thu, 24 Sep 2026 15:25:08 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$HCWC 📍 Stake
 Discloses 9.99% stake in Host Digital via 13D
@@ -355,14 +375,6 @@ stock</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$BETR ⚔️ Proxy
-Files consent solicitation to remove 5 directors</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002634/dfan14909002_09232026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002634</guid>
-      <pubDate>Wed, 23 Sep 2026 16:31:17 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
       <title>$BOW 📦 Going Private
 Acquired by American Family Mutual for $34.00 cash/share
 cash</title>
@@ -485,15 +497,6 @@ Exercises options for 235k shares; stake now 28.7%</title>
       <guid isPermaLink="false">0001104659-26-109988</guid>
       <pubDate>Wed, 23 Sep 2026 15:30:11 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SRPT ⚖️ Litigation · Settled
-Settles patent litigation with REGENXBIO for $39M</title>
-      <link>https://www.sec.gov/Archives/edgar/data/873303/000119312526399416/srpt-20260923.htm</link>
-      <guid isPermaLink="false">0001193125-26-399377</guid>
-      <pubDate>Wed, 23 Sep 2026 15:23:26 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>
