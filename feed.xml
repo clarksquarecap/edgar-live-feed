@@ -6,8 +6,82 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 10:10:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:12:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · AFYA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1771007/000129281426004684/afya20260923_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004684</guid>
+      <pubDate>Thu, 24 Sep 2026 05:12:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Merges into Yduqs; 6.4083 YDUQ3 shares per AFYA share</scanner:headline>
+      <scanner:shortName>Afya</scanner:shortName>
+      <scanner:price>13.58</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>AFYA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1201530000</scanner:marketCap>
+      <scanner:enterpriseValue>1616900000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.18</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.41</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>7.20</scanner:fwdPE>
+      <scanner:fwdEvEbitda>4.60</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.40</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>64.02</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Merges into Yduqs; 6.4083 YDUQ3 shares per AFYA share&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited entered a binding merger agreement with Yduqs Participações S.A. Under the terms, Afya will merge into Yduqs, with Yduqs as the surviving entity. Each Afya share converts into 6.408347 new Yduqs shares, giving Afya shareholders 69.0% of the combined company on a fully diluted basis. The combined company will list solely on B3; Afya&amp;#39;s Nasdaq listing will be delisted. Subject to shareholder approvals, Brazilian antitrust clearance, and other customary conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Afya Limited operates as a medical education group in Brazil. The company operates in three segments: Undergraduate, Continuing Education, and Medical Practice Solutions. The Undergraduate segment offers educational services through undergraduate courses related to medical school, health sciences, and other non-health undergraduate programs, including medicine, dentistry, nursing, radiology, psychology, pharmacy, physical education, physiotherapy, nutrition, biomedicine, business administration,…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Yduqs Participações S.A.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 69.0%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder meetings and antitrust approval&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $13.58 · Mkt cap $1.20B · EV $1.62B · Fwd P/E 7.2x · Fwd EV/EBITDA 4.6x · Consumer Discretionary / Diversified Consumer Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1771007/000129281426004684/0001292814-26-004684-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AFYA&lt;/b&gt; · 6-K · Education (8200) · prefill_form:6-K · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📍 Stake · CMCL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/766011/000168316826007346/caledonia_6k.htm</link>
+      <guid isPermaLink="false">0001683168-26-007298</guid>
+      <pubDate>Thu, 24 Sep 2026 05:11:27 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>BlackRock crosses 5% voting rights; total 7.04%</scanner:headline>
+      <scanner:shortName>Caledonia Mining</scanner:shortName>
+      <scanner:price>24.14</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Basic Materials</scanner:sector>
+      <scanner:ticker>CMCL</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>6-K x2</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>466748807</scanner:marketCap>
+      <scanner:enterpriseValue>441489807</scanner:enterpriseValue>
+      <scanner:fwdPE>5.39</scanner:fwdPE>
+      <scanner:fwdEvEbitda>2.78</scanner:fwdEvEbitda>
+      <scanner:fwdEvSales>1.38</scanner:fwdEvSales>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Receives TR-1: BlackRock crosses 7% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received notification from BlackRock that it crossed the 7% threshold on September 21, 2026. BlackRock&amp;#39;s total position is 7.01% (4.94% direct voting rights + 2.07% via financial instruments), up from 6.98% previously. The change is a routine passive stake increase.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BlackRock, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.01%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $24.14 · Mkt cap $466.7M · EV $441.5M · Fwd P/E 5.4x · Fwd EV/EBITDA 2.8x · Fwd EV/Sales 1.4x · Basic Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/766011/000168316826007298/0001683168-26-007298-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CMCL&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-09-23&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Sep 24 05:11 · &lt;a href='https://www.sec.gov/Archives/edgar/data/766011/000168316826007346/caledonia_6k.htm'&gt;BlackRock crosses 5% voting rights; total 7.04%&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 23 05:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/766011/000168316826007298/caledonia_6k.htm'&gt;Receives TR-1: BlackRock crosses 7% stake&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · Inobat</title>
       <link>https://www.sec.gov/Archives/edgar/data/2156068/000118518526004249/inobatbvf4090526.htm</link>
@@ -1268,39 +1342,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (8)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Sep 23 05:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2131813/000095010326014361/dp253663_6k.htm'&gt;Acquired by NewHold in $2.4B business combination; starts trading on Nasdaq&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 17 15:55 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2043699/000121390026100990/ea0305792-8k425_newhold3.htm'&gt;Shareholders approve newcleo merger; 94% for&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 17 15:55 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2043699/000121390026100994/ea0305792-8k425_newhold3.htm'&gt;Shareholders approve newcleo business combination&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 11 05:50 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2043699/000114036126036270/ef20081851_8k.htm'&gt;Enters forward purchase agreement for up to 7M shares to back newcleo merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 11 05:50 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2043699/000114036126036271/ef20081851_425.htm'&gt;Enters forward purchase agreement for up to 7M shares to back newcleo merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 10 16:24 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2043699/000095010326013781/dp253190_425.htm'&gt;Acquires newcleo in business combination; proxy mailed, record date Aug 7&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 10 16:23 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2043699/000095010326013784/dp253219_425.htm'&gt;Acquires newcleo; shareholder vote Sept 17&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 04 16:30 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2043699/000095010326013626/dp253034_425.htm'&gt;Acquires newcleo; shareholder vote Sept 17&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;Acquirer NHIC also filed 425 x5, 8-K x2&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · CMCL</title>
-      <link>https://www.sec.gov/Archives/edgar/data/766011/000168316826007298/caledonia_6k.htm</link>
-      <guid isPermaLink="false">0001683168-26-007298</guid>
-      <pubDate>Wed, 23 Sep 2026 05:10:46 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Receives TR-1: BlackRock crosses 7% stake</scanner:headline>
-      <scanner:shortName>Caledonia Mining</scanner:shortName>
-      <scanner:price>24.14</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Basic Materials</scanner:sector>
-      <scanner:ticker>CMCL</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>466748807</scanner:marketCap>
-      <scanner:enterpriseValue>441489807</scanner:enterpriseValue>
-      <scanner:fwdPE>5.39</scanner:fwdPE>
-      <scanner:fwdEvEbitda>2.78</scanner:fwdEvEbitda>
-      <scanner:fwdEvSales>1.38</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Receives TR-1: BlackRock crosses 7% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received notification from BlackRock that it crossed the 7% threshold on September 21, 2026. BlackRock&amp;#39;s total position is 7.01% (4.94% direct voting rights + 2.07% via financial instruments), up from 6.98% previously. The change is a routine passive stake increase.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BlackRock, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.01%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $24.14 · Mkt cap $466.7M · EV $441.5M · Fwd P/E 5.4x · Fwd EV/EBITDA 2.8x · Fwd EV/Sales 1.4x · Basic Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/766011/000168316826007298/0001683168-26-007298-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CMCL&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-09-23&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · BACC</title>
@@ -15147,29 +15188,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2097545/000092963826003501/0000929638-26-003501-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BBAIX&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · TLAC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2128462/000119312526388890/0001193125-26-388890-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-388890</guid>
-      <pubDate>Fri, 11 Sep 2026 11:16:57 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Discloses 21.9% stake in SPAC</scanner:headline>
-      <scanner:shortName>Three Lions Acquisition</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>TLAC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Discloses 21.9% stake in SPAC&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Sponsor, LLC filed a Schedule 13D disclosing beneficial ownership of 3,158,333 ordinary shares of Three Lions Acquisition Corp., representing 21.9% of the outstanding shares. The sponsor acquired the shares through founder shares and private placement units in connection with the IPO. No plans or proposals for changes are disclosed.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 21.9%&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2128462/000119312526388890/0001193125-26-388890-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TLAC, TLACU&lt;/b&gt; · SCHEDULE 13D · Holding / Investment Offices (6770) · fresh_13d · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
