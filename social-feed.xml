@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 21:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:16:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$UTMD 💧 Capital Return · Self-tender
+Commences $75/share tender for up to 650K shares; expires Oct 7
+Mcap $239M · EV $151M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/706698/000109690626001439/utmd_toc.htm</link>
+      <guid isPermaLink="false">0001096906-26-001428</guid>
+      <pubDate>Thu, 24 Sep 2026 16:15:39 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$HCWC 📍 Stake
 Acquires 38.9% stake in Host Digital via merger
@@ -476,16 +486,6 @@ Mcap $1.3B · EV $2.9B · Cons Stpl</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$UTMD 💧 Capital Return · Self-tender
-Self-tender for up to 650K shares at $75 (20.5% of outstanding)
-Mcap $239M · EV $151M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/706698/000109690626001428/utmd_sctoi.htm</link>
-      <guid isPermaLink="false">0001096906-26-001428</guid>
-      <pubDate>Thu, 24 Sep 2026 05:06:43 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-    </item>
-    <item>
       <title>$CHR 📍 Stake
 Control acquired by Lioness for $500; 96.44% voting power
 Mcap $4M · Comms</title>
@@ -547,24 +547,6 @@ Acquired by Armada SPAC; to list as XRPN</title>
       <pubDate>Wed, 23 Sep 2026 16:24:51 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TECH 🤝 Merger
-Shareholders approve Merck KGaA merger; 121.9M votes for</title>
-      <link>https://www.sec.gov/Archives/edgar/data/842023/000114036126037450/ef20082601_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-037450</guid>
-      <pubDate>Wed, 23 Sep 2026 16:15:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FTRKD 📉 Delisting · Forced
-Forced Nasdaq delisting; shares trade on OTC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2027262/000149315226043941/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-043941</guid>
-      <pubDate>Wed, 23 Sep 2026 16:13:27 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>

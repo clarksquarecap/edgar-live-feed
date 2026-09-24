@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 21:09:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 21:16:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Self Tender · UTMD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/706698/000109690626001439/utmd_toc.htm</link>
+      <guid isPermaLink="false">0001096906-26-001428</guid>
+      <pubDate>Thu, 24 Sep 2026 16:15:39 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+      <category>SC TO-C</category>
+      <scanner:headline>Commences $75/share tender for up to 650K shares; expires Oct 7</scanner:headline>
+      <scanner:shortName>UTAH MEDICAL PRODUCTS</scanner:shortName>
+      <scanner:price>75.01</scanner:price>
+      <scanner:subtype>self_tender</scanner:subtype>
+      <scanner:form>SC TO-C</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>UTMD</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>SC TO-I, SC TO-C</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>238820000</scanner:marketCap>
+      <scanner:enterpriseValue>151490000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>4.20</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>7.25</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>7.50</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>57.90</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Self-tender for up to 650K shares at $75 (20.5% of outstanding)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Offers to repurchase up to 650,000 shares of its common stock at $75.00 per share in cash, representing ~20.5% of the 3,173,818 shares outstanding. The offer expires October 7, 2026, and is funded from cash on hand; no minimum tender condition applies. Directors and officers have indicated they will not tender shares.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Utah Medical Products, Inc. offers medical devices for the healthcare industry in the United States, Europe, and internationally. It offers fetal monitoring accessories, vacuum-assisted delivery systems, and other labor and delivery tools; DISPOSA-HOOD infant respiratory hoods; and DELTRAN PLUS blood pressure monitoring systems.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; $75.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $48.75M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 6.1%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 20.5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-07&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Offer expires Oct 7, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $75.01 · Mkt cap $238.8M · EV $151.5M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/706698/000109690626001428/0001096906-26-001428-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UTMD&lt;/b&gt; · SC TO-I · Instruments / Medical Devices (3841) · prefill_form:SC TO-I · filed 2026-09-24&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SC TO-C · Sep 24 16:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/706698/000109690626001439/utmd_toc.htm'&gt;Commences $75/share tender for up to 650K shares; expires Oct 7&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-I · Sep 24 05:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/706698/000109690626001428/utmd_sctoi.htm'&gt;Self-tender for up to 650K shares at $75 (20.5% of outstanding)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · HCWC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1948864/000090514826004269/0000905148-26-004269-index.htm</link>
@@ -1631,43 +1670,6 @@
 &lt;p&gt;&lt;i&gt;Px $14.23 · Mkt cap $1.26B · EV $2.85B · Fwd P/E 17.6x · Fwd EV/EBITDA 12.0x · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1739566/000119312526400089/0001193125-26-400089-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UTZ&lt;/b&gt; · PRER14A · Food &amp;amp; Kindred (2090) · prefill_form:PRER14A · filed 2026-09-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Self Tender · UTMD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/706698/000109690626001428/utmd_sctoi.htm</link>
-      <guid isPermaLink="false">0001096906-26-001428</guid>
-      <pubDate>Thu, 24 Sep 2026 05:06:43 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-      <category>SC TO-I</category>
-      <scanner:headline>Self-tender for up to 650K shares at $75 (20.5% of outstanding)</scanner:headline>
-      <scanner:shortName>UTAH MEDICAL PRODUCTS</scanner:shortName>
-      <scanner:price>75.01</scanner:price>
-      <scanner:subtype>self_tender</scanner:subtype>
-      <scanner:form>SC TO-I</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>UTMD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SC TO-I</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>238820000</scanner:marketCap>
-      <scanner:enterpriseValue>151490000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>4.20</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>7.25</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>7.50</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>57.90</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Self-tender for up to 650K shares at $75 (20.5% of outstanding)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Offers to repurchase up to 650,000 shares of its common stock at $75.00 per share in cash, representing ~20.5% of the 3,173,818 shares outstanding. The offer expires October 7, 2026, and is funded from cash on hand; no minimum tender condition applies. Directors and officers have indicated they will not tender shares.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Utah Medical Products, Inc. offers medical devices for the healthcare industry in the United States, Europe, and internationally. It offers fetal monitoring accessories, vacuum-assisted delivery systems, and other labor and delivery tools; DISPOSA-HOOD infant respiratory hoods; and DELTRAN PLUS blood pressure monitoring systems.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; $75.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $48.75M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 6.1%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 20.5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-07&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Offer expires Oct 7, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $75.01 · Mkt cap $238.8M · EV $151.5M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/706698/000109690626001428/0001096906-26-001428-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UTMD&lt;/b&gt; · SC TO-I · Instruments / Medical Devices (3841) · prefill_form:SC TO-I · filed 2026-09-24&lt;/p&gt;</description>
     </item>
     <item>
       <title>📍 Stake · CHR</title>
