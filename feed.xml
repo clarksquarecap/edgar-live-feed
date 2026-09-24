@@ -6,8 +6,37 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 20:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:18:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · HCWC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1948864/000095014226002581/0000950142-26-002581-index.htm</link>
+      <guid isPermaLink="false">0000950142-26-002581</guid>
+      <pubDate>Thu, 24 Sep 2026 15:18:41 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Discloses 9.99% stake in Host Digital via 13D</scanner:headline>
+      <scanner:shortName>Host Digital</scanner:shortName>
+      <scanner:price>8.01</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>HCWC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>225600000</scanner:marketCap>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Discloses 9.99% stake in Host Digital via 13D&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Graham Capital Management and affiliated funds filed a Schedule 13D disclosing beneficial ownership of 9.99% of Host Digital Inc.&amp;#39;s common stock, consisting of 2,598,680 shares including pre-funded warrants. The filing indicates a passive investment stake.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.99%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $8.01 · Mkt cap $225.6M · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1948864/000095014226002581/0000950142-26-002581-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HCWC, HOST&lt;/b&gt; · SCHEDULE 13D · Retail; Food (5411) · fresh_13d · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · REAX</title>
       <link>https://www.sec.gov/Archives/edgar/data/2136387/000110465926110396/0001104659-26-110396-index.htm</link>
@@ -15243,39 +15272,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.9100 · Mkt cap $20.0M · EV $18.0M · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1854445/000149315226042421/0001493152-26-042421-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BTLN&lt;/b&gt; · 8-K · Items 3.01 · Business Services (7371) · 8k_tier1:3.01 · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · DV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819928/000110465926107126/tm2621904-10_prem14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-107126</guid>
-      <pubDate>Fri, 11 Sep 2026 16:21:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>PREM14A</category>
-      <scanner:headline>Acquired by Elliott/Brookfield for $13.60 cash/share; special meeting vote</scanner:headline>
-      <scanner:shortName>DoubleVerify Holdings</scanner:shortName>
-      <scanner:price>13.41</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>PREM14A</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>DV</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>PREM14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2072170000</scanner:marketCap>
-      <scanner:enterpriseValue>1973830000</scanner:enterpriseValue>
-      <scanner:fwdPE>12.23</scanner:fwdPE>
-      <scanner:fwdEvEbitda>6.89</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Elliott/Brookfield for $13.60 cash/share; special meeting vote&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will be acquired by Neptune BidCo US Inc., an affiliate of Elliott Investment Management and Brookfield Asset Management, for $13.60 per share in cash. The merger agreement was signed August 6, 2026, and a special meeting of stockholders will be held to vote on the merger. The board unanimously recommends approval.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; DoubleVerify Holdings, Inc. provides media effectiveness platforms in the United States. The company offers DV Authentic Ad, a metric of digital media quality, which evaluates the existence of fraud, brand suitability, viewability and geography for each digital ad; DV Authentic Attention that provides data to drive campaign performance; Custom Contextual solution, which allows advertisers to match ads to relevant content to maximize user engagement and drive campaign performance; and Scibids AI,…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Neptune BidCo US Inc. (Elliott/Brookfield)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 13.60&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-06&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $13.41 · Mkt cap $2.07B · EV $1.97B · Fwd P/E 12.2x · Fwd EV/EBITDA 6.9x · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1819928/000110465926107126/0001104659-26-107126-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DV&lt;/b&gt; · PREM14A · Business Services (7370) · prefill_form:PREM14A · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
