@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 12:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:31:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔐 Going Private · UTZ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1739566/000119312526400235/d75151dsc13e3a.htm</link>
+      <guid isPermaLink="false">0001193125-26-400235</guid>
+      <pubDate>Thu, 24 Sep 2026 07:31:22 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>going_private</category>
+      <category>SC 13E3/A</category>
+      <scanner:headline>Amends going-private statement</scanner:headline>
+      <scanner:shortName>Utz Brands</scanner:shortName>
+      <scanner:price>14.23</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SC 13E3/A</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>UTZ</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC 13E3/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1260970000</scanner:marketCap>
+      <scanner:enterpriseValue>2852570000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.96</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>7.66</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>17.63</scanner:fwdPE>
+      <scanner:fwdEvEbitda>11.99</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>7.66</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>25.61</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Amends going-private statement&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed an amendment to its going-private statement (SC 13E3/A) on September 24, 2026. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Utz Brands, Inc. manufactures branded salty snacks in the United States. The company provides a range of salty snack food products, such as potato chips, tortilla chips, pretzels, cheese snacks, pub and party mixes, pork skins, and ready-to-eat popcorn, as well as other snacks which include salsa and dips; and non-branded and non-salty snacks comprising partner brands, private label, and co-manufacturing products.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $14.23 · Mkt cap $1.26B · EV $2.85B · Fwd P/E 17.6x · Fwd EV/EBITDA 12.0x · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1739566/000119312526400235/0001193125-26-400235-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UTZ&lt;/b&gt; · SC 13E3/A · Food &amp;amp; Kindred (2090) · prefill_form:SC 13E3 · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · NGCG</title>
       <link>https://www.otcmarkets.com/stock/NGCG/news/536286</link>
@@ -15204,36 +15241,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.67 · Mkt cap $213.1M · EV $217.5M · Consumer Discretionary / Automobiles&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1932737/000121390026099258/0001213900-26-099258-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AIIO, AIIOW&lt;/b&gt; · 6-K · Transportation Equipment (3711) · prefill_form:6-K · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BGMS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1130166/000149315226042382/forms-4a.htm</link>
-      <guid isPermaLink="false">0001493152-26-042382</guid>
-      <pubDate>Fri, 11 Sep 2026 15:14:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4/A</category>
-      <scanner:headline>Acquires Future NRG Sdn Bhd in share exchange</scanner:headline>
-      <scanner:shortName>Bio Green Med Solution</scanner:shortName>
-      <scanner:price>0.8700</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4/A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>BGMS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>5600000</scanner:marketCap>
-      <scanner:enterpriseValue>1810000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Future NRG Sdn Bhd in share exchange&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is acquiring Future NRG Sdn Bhd via a share exchange, as detailed in the S-4/A registration statement. The transaction is progressing with the filing of this amended registration.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Bio Green Med Solution, Inc. engages in the distributing, trading, and installation of protective and fire safety materials and equipment, and fire protection and prevention systems. It is also involved in research and development of pharmaceuticals. The company was formerly known as Cyclacel Pharmaceuticals, Inc. and changed its name to Bio Green Med Solution, Inc. in September 2022. Bio Green Med Solution, Inc. was founded in 1996 and is headquartered in Kuala Lumpur, Malaysia.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Future NRG Sdn Bhd&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.8700 · Mkt cap $5.6M · EV $1.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1130166/000149315226042382/0001493152-26-042382-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BGMS, BGMSP&lt;/b&gt; · S-4/A · Wholesale; Durable (5099) · prefill_form:S-4 · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

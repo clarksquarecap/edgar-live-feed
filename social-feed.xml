@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 12:25:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:31:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$UTZ 📦 Going Private
+Amends going-private statement
+Mcap $1.3B · EV $2.9B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1739566/000119312526400235/d75151dsc13e3a.htm</link>
+      <guid isPermaLink="false">0001193125-26-400235</guid>
+      <pubDate>Thu, 24 Sep 2026 07:31:22 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$NGCG 🤝 Merger · Preliminary
 Signs LOI for business combination with Nutrien Mineral
@@ -453,16 +462,6 @@ Executes definitive debt-restructuring agreements covering 48% of $82M bank debt
       <guid isPermaLink="false">0001062993-26-005058</guid>
       <pubDate>Wed, 23 Sep 2026 07:57:59 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$RAIN 🤝 Merger · Preliminary
-Acquires Tensor Networks in all-stock reverse merger; Tensor holders to own 90%
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028293/000121390026102377/ea0306365-8k_rain.htm</link>
-      <guid isPermaLink="false">0001213900-26-102377</guid>
-      <pubDate>Wed, 23 Sep 2026 07:28:07 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
