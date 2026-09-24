@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 11:14:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:10:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · NWTG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1934245/000149315226044071/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044071</guid>
+      <pubDate>Thu, 24 Sep 2026 07:10:40 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Enters acquisition agreement; issues equity as consideration</scanner:headline>
+      <scanner:shortName>Newton Golf</scanner:shortName>
+      <scanner:price>1.15</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>NWTG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>6210000</scanner:marketCap>
+      <scanner:enterpriseValue>7830000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.09</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.04</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>2.07</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>53.63</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Enters acquisition agreement; issues equity as consideration&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a material definitive agreement for an acquisition, issuing unregistered equity securities as consideration (8-K Items 1.01, 3.02). (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Newton Golf Company, Inc., a technology-forward golf company, manufactures and sells golf products. The company provides putting instruments, golf shafts, golf grips, and other golf-related products. It also offers online custom fitting programs. The company serves individual golfers, as well as wholesale and retail customers, including professional club fitters, golf pro shops, off-course golf retailers, sporting goods retailers, professional club fitting organizations, and third-party distribu…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.15 · Mkt cap $6.2M · EV $7.8M · Consumer Discretionary / Leisure Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1934245/000149315226044071/0001493152-26-044071-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NWTG&lt;/b&gt; · 8-K · Items 1.01, 3.02, 9.01 · Miscellaneous Manufacturing (3949) · 8k_tier1:1.01 · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · GFTFF</title>
       <link>https://www.otcmarkets.com/stock/GFTFF/news/536254</link>
@@ -15192,37 +15229,6 @@
 &lt;p&gt;&lt;i&gt;Px $16.21 · Mkt cap $31.6M · EV $31.6M · Fwd EV/Sales 9.7x · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/880406/000139834426016904/0001398344-26-016904-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HERZ&lt;/b&gt; · SC TO-C · prefill_form:SC TO-C · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · PPLI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1800227/000162828026061531/iaci-20260911.htm</link>
-      <guid isPermaLink="false">0001628280-26-061531</guid>
-      <pubDate>Fri, 11 Sep 2026 15:07:18 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Sells Care.com and Mosaic Group</scanner:headline>
-      <scanner:shortName>People</scanner:shortName>
-      <scanner:price>37.40</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>PPLI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2795380000</scanner:marketCap>
-      <scanner:enterpriseValue>3144590000</scanner:enterpriseValue>
-      <scanner:fwdPE>14.38</scanner:fwdPE>
-      <scanner:fwdEvEbitda>10.85</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells Care.com and Mosaic Group&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Completed the sale of its Care.com and Mosaic Group businesses, which are now reported as discontinued operations. The 8-K provides financial statements and exhibits related to the divestiture. Specific sale terms are not disclosed in the filing text provided.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; People Incorporated, together with its subsidiaries, operates as a media and internet company worldwide. The company publishes original and engaging digital content in the form of articles, illustrations, and videos and images; and magazines related to women and lifestyle under the media platforms and formats, such as People, Entertainment Weekly, People en Español, Allrecipes, Food &amp;amp; Wine, Simply Recipes, Serious Eats, EatingWell, The Spruce Eats, Liquor.com, MyRecipes, Feedfeed, Better Homes &amp;amp;…&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Px $37.40 · Mkt cap $2.80B · EV $3.14B · Fwd P/E 14.4x · Fwd EV/EBITDA 10.8x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1800227/000162828026061531/0001628280-26-061531-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PPLI&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Business Services (7370) · 8k_tier1:8.01 · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
