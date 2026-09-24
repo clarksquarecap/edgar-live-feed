@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 12:13:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 12:24:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CDIX 🤝 Merger · Preliminary
+Signs LOI to acquire musculoskeletal healthcare platform
+Mcap $9M · EV $44M · Healthcare</title>
+      <link>https://www.otcmarkets.com/stock/CDIX/news/536283</link>
+      <guid isPermaLink="false">OTC-536283</guid>
+      <pubDate>Thu, 24 Sep 2026 07:24:34 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$NWTG 🤝 Merger
 Enters acquisition agreement; issues equity as consideration
@@ -442,23 +452,6 @@ stock</title>
       <pubDate>Wed, 23 Sep 2026 07:28:07 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$GRNQ 📤 Divestiture
-Sells F&amp;A Entities to Chen Yanhong for HK$3.5M cash
-HK$3,500,000 (~US$446,486) deal</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1597846/000149315226043815/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-043815</guid>
-      <pubDate>Wed, 23 Sep 2026 07:20:48 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PHNMF 📤 Divestiture
-Sells 15% interest in Dobbin Project to SSR Mining; forms JV</title>
-      <link>https://www.otcmarkets.com/stock/PHNMF/news/536149</link>
-      <guid isPermaLink="false">OTC-536149</guid>
-      <pubDate>Wed, 23 Sep 2026 07:13:55 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
