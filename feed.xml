@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 20:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:32:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · BRVO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1444839/000109181826000148/brvo-092426_8k.htm</link>
+      <guid isPermaLink="false">0001091818-26-000148</guid>
+      <pubDate>Thu, 24 Sep 2026 15:32:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquired by MWP via $3.16M preferred issuance; 77% control</scanner:headline>
+      <scanner:shortName>Bravo Multinational</scanner:shortName>
+      <scanner:price>0.0300</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>BRVO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1210000</scanner:marketCap>
+      <scanner:enterpriseValue>1600000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by MWP via $3.16M preferred issuance; 77% control&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Issued 1,621,026 Series A preferred shares to MWP Entertainment Group, convertible into 162.1M common shares (77% of pro forma), for $3.16M in licenses, cash, and debt forgiveness. MWP also received an option to buy $1.5M more preferred. A shareholder rights plan was adopted, exempting MWP.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Bravo Multinational Incorporated focuses on business ventures in the entertainment, hospitality, and technology sectors. It plans to offer on-demand content, including movies, series, concerts, and original programming to viewers. The company was formerly known as Goldland Holdings Co. and changed its name to Bravo Multinational Incorporated in April 2016. Bravo Multinational Incorporated was incorporated in 1989 and is headquartered in Virginia Beach, Virginia.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; MWP Entertainment Group, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 3161000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 77.3%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Option exercise window through 2027-09-18&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0300 · Mkt cap $1.2M · EV $1.6M · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1444839/000109181826000148/0001091818-26-000148-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BRVO&lt;/b&gt; · 8-K · Items 1.01, 3.02, 3.03, 5.01, 5.02, 8.01 · Amusement / Recreation (7990) · 8k_tier1:1.01,3.03,5.01,8.01 · filed 2026-09-24&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔎 Strategic Review · Formal Alternatives · NXGL</title>
       <link>https://www.sec.gov/Archives/edgar/data/1468929/000149315226044149/form8-k.htm</link>
@@ -15253,35 +15284,6 @@
 &lt;p&gt;&lt;i&gt;Px $10.82 · Mkt cap $310.8M · EV $310.8M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2023676/000121390026099372/0001213900-26-099372-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LPBB, LPBBU, LPBBW&lt;/b&gt; · S-4 · Fabricated Metals (3443) · prefill_form:S-4 · filed 2026-09-11&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · CYCN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1755237/000119312526389417/0001193125-26-389417-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-389417</guid>
-      <pubDate>Fri, 11 Sep 2026 16:29:33 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Takes 19.99% stake; holds Series B preferred + pre-funded warrants</scanner:headline>
-      <scanner:shortName>Korsana Biosciences</scanner:shortName>
-      <scanner:price>31.82</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>CYCN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>16420000</scanner:marketCap>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Takes 19.99% stake; holds Series B preferred + pre-funded warrants&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Fairmount Funds Management and affiliates reported a 19.99% beneficial ownership stake in Korsana Biosciences, holding 9,103,729 common shares directly plus shares issuable upon conversion of Series B Non-Voting Convertible Preferred and Pre-Funded Warrants, subject to a 19.99% beneficial ownership limitation. The stake includes 6,911,174 shares held by Fairmount Healthcare Fund II and 2,192,555 by Co-Invest VI.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 19.99%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $31.82 · Mkt cap $16.4M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1755237/000119312526389417/0001193125-26-389417-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CYCN&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-11&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

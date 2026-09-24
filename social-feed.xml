@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 24 Sep 2026 20:28:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 20:32:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BRVO 🤝 Merger
+Acquired by MWP via $3.16M preferred issuance; 77% control
+MWP Entertainment Group · 3161000 deal · cash+stk
+Mcap $1M · EV $2M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1444839/000109181826000148/brvo-092426_8k.htm</link>
+      <guid isPermaLink="false">0001091818-26-000148</guid>
+      <pubDate>Thu, 24 Sep 2026 15:32:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NXGL 🔎 Strat Review · Strat Alts
 Launches strategic review &amp; proposed platform reorganization
@@ -501,22 +512,6 @@ Voluntary delisting from Nasdaq</title>
       <pubDate>Wed, 23 Sep 2026 15:36:47 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$PSO 👀 Activist
-Secures board seat; 19.4% stake</title>
-      <link>https://www.sec.gov/Archives/edgar/data/938323/000090266426003927/0000902664-26-003927-index.htm</link>
-      <guid isPermaLink="false">0000902664-26-003927</guid>
-      <pubDate>Wed, 23 Sep 2026 15:30:53 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$SWMR 📍 Stake
-Exercises options for 235k shares; stake now 28.7%</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2092574/000110465926109988/0001104659-26-109988-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-109988</guid>
-      <pubDate>Wed, 23 Sep 2026 15:30:11 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
