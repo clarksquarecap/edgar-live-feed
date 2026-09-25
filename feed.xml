@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 19:52:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:04:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Recap · MSTR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526402802/mstr-20260925.htm</link>
+      <guid isPermaLink="false">0001193125-26-402802</guid>
+      <pubDate>Fri, 25 Sep 2026 15:04:42 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Proposes amendment for daily dividends on preferred stock; vote Oct 28</scanner:headline>
+      <scanner:shortName>Strategy</scanner:shortName>
+      <scanner:price>158.60</scanner:price>
+      <scanner:subtype>recap</scanner:subtype>
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>MSTR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>62094720000</scanner:marketCap>
+      <scanner:enterpriseValue>80858410000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>162.25</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>240.02</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>2.30</scanner:fwdPE>
+      <scanner:fwdEvGrossProfit>240.69</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>67.60</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Proposes amendment for daily dividends on preferred stock; vote Oct 28&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Proposes an amendment to its preferred equity instruments (Stretch, Strife, Strike, Stride) to accrue and pay daily dividends with calendar day record dates. The company believes this innovation will stabilize price, dampen volatility, and increase liquidity for its preferreds. Common shareholders will vote on the amendment at a Special Meeting by October 28, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Strategy Inc, together with its subsidiaries, operates as a bitcoin treasury company in the United States, Europe, the Middle East, Africa, and internationally. It offers investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed income instruments.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on October 28, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $158.60 · Mkt cap $62.09B · EV $80.86B · Fwd P/E 2.3x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1050446/000119312526402802/0001193125-26-402802-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MSTR, STRC, STRD, STRF, STRK&lt;/b&gt; · DEFA14A · Non-Depository Credit (6199) · prefill_form:DEFA14A · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · SKK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1991261/000149315226044299/form6-k.htm</link>
@@ -15355,41 +15392,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.1600 · Mkt cap $10.3M · EV $16.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1997296/000095014226002546/0000950142-26-002546-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MDCX, MDCXW&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Accelerated Share Repurchase · SIG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/832988/000083298826000231/sig-20260910.htm</link>
-      <guid isPermaLink="false">0000832988-26-000227</guid>
-      <pubDate>Mon, 14 Sep 2026 15:48:16 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>accelerated_share_repurchase</category>
-      <category>8-K</category>
-      <scanner:headline>Enters $125M accelerated share repurchase with JPMorgan</scanner:headline>
-      <scanner:shortName>SIGNET JEWELERS</scanner:shortName>
-      <scanner:price>82.67</scanner:price>
-      <scanner:subtype>accelerated_share_repurchase</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>SIG</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3251390000</scanner:marketCap>
-      <scanner:enterpriseValue>3872190000</scanner:enterpriseValue>
-      <scanner:fwdPE>7.30</scanner:fwdPE>
-      <scanner:fwdEvEbitda>5.20</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Plans $125M ASR; YTD capital returns to 12% of cap&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced it intends to enter into a $125 million accelerated share repurchase program this month, bringing year-to-date capital returns to 12% of recent market cap. The company also increased its share repurchase authorization and raised full-year adjusted EPS guidance by over 10%.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Signet Jewelers Limited operates as a diamond jewelry retailer in the United States, Canada, the United Kingdom, and Republic of Irland. It operates through three segments: North America, International, and other. The North America segment operates jewelry stores in malls, mall-based kiosks, and off-mall locations in the United States and Canada primarily under the Kay, Zales, Jared Jewelers, Diamonds Direct, Banter by Piercing Pagoda, Peoples Jewellers, and Rocksbox brands, as well as operates …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $125M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; September 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; ASR execution&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $82.67 · Mkt cap $3.25B · EV $3.87B · Fwd P/E 7.3x · Fwd EV/EBITDA 5.2x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/832988/000083298826000227/0000832988-26-000227-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SIG&lt;/b&gt; · 8-K · Items 1.01, 2.02, 9.01 · Retail; Misc (5944) · 8k_tier1:1.01 · filed 2026-09-09&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 14 15:48 · &lt;a href='https://www.sec.gov/Archives/edgar/data/832988/000083298826000231/sig-20260910.htm'&gt;Enters $125M accelerated share repurchase with JPMorgan&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 09 06:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/832988/000083298826000227/sig-20260904.htm'&gt;Plans $125M ASR; YTD capital returns to 12% of cap&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
