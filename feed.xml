@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 10:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:19:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · LYG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1160106/000165495426008566/a3270w.htm</link>
+      <guid isPermaLink="false">0001654954-26-008566</guid>
+      <pubDate>Fri, 25 Sep 2026 05:18:56 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>6-K</category>
+      <scanner:headline>Completes £1.75bn share buyback program</scanner:headline>
+      <scanner:shortName>Lloyds Banking</scanner:shortName>
+      <scanner:price>5.65</scanner:price>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>LYG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>81438670000</scanner:marketCap>
+      <scanner:fwdPE>9.61</scanner:fwdPE>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Completes £1.75bn share buyback program&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed its £1.75 billion share buyback programme, which was announced on January 30, 2026. The company repurchased 1,712,662,647 ordinary shares between January 30, 2026, and September 24, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lloyds Banking Group plc, together with its subsidiaries, provides a range of banking and financial products and services for retail and commercial customers in the United Kingdom. It operates in three segments: Retail; Commercial Banking; and Insurance, Pensions and Investments. The Retail segment offers a range of financial service products, including current accounts, savings, mortgages, credit cards, unsecured loans, motor finance, and leasing solutions to personal customers.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; £1.75bn&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-01-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.65 · Mkt cap $81.44B · Fwd P/E 9.6x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1160106/000165495426008566/0001654954-26-008566-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LYG, LLDTF, LLOBF&lt;/b&gt; · 6-K · Depository Institutions (6029) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔎 Strategic Review · Portfolio Review · ADXN</title>
       <link>https://www.sec.gov/Archives/edgar/data/1574232/000117184326006225/f6k_092526.htm</link>
@@ -15304,37 +15335,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.9500 · Mkt cap $19.0M · EV $-27.4M · Financials / Consumer Finance&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1713923/000110465926107260/0001104659-26-107260-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AIJTY&lt;/b&gt; · 6-K · Business Services (7370) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · BMM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1732379/000155485526001998/MainDocument.htm</link>
-      <guid isPermaLink="false">0001554855-26-001998</guid>
-      <pubDate>Mon, 14 Sep 2026 06:05:40 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Sells APT plant to TEG/EQ JV; $150M investment</scanner:headline>
-      <scanner:shortName>Blue Moon Metals</scanner:shortName>
-      <scanner:price>5.46</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>BMM</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>574050000</scanner:marketCap>
-      <scanner:enterpriseValue>473050000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells APT plant to TEG/EQ JV; $150M investment&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced a binding letter agreement with The Elmet Group and EQ Resources to form a JV that will own and operate the APT plant at Springer. TEG will invest ~$150M, including a $50M prepayment facility and equity investment. Blue Moon retains the mine and mill.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Blue Moon Metals Inc. engages in the exploration and development of mineral resource properties in Norway and the United States. The company explores for zinc, silver, gold, lead, germanium, tungsten, antimony, gallium, and copper deposits. Its flagship project is the 100% owned the Nussir project located at the Finnmark county in northern Norway. The company was formerly known as Blue Moon Zinc Corp. and changed its name to Blue Moon Metals Inc. in April 2021. Blue Moon Metals Inc.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; The Elmet Group and EQ Resources&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; US$150M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Tranche 1 funding expected within 45 days&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.46 · Mkt cap $574.0M · EV $473.1M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1732379/000155485526001998/0001554855-26-001998-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BMM&lt;/b&gt; · 6-K · Metal Mining (1000) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
