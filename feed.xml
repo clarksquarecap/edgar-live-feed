@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 19:34:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 19:46:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · CubeBio Holdings</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2058261/000182912626010425/cubebioholding_f4a2.htm</link>
+      <guid isPermaLink="false">0001829126-26-010425</guid>
+      <pubDate>Fri, 25 Sep 2026 14:46:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>F-4/A</category>
+      <scanner:headline>Acquires Mountain Crest Acquisition Corp. V in de-SPAC; vote Oct 29</scanner:headline>
+      <scanner:shortName>CubeBio Holdings</scanner:shortName>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>F-4/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker />
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>F-4/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires Mountain Crest Acquisition Corp. V in de-SPAC; vote Oct 29&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited (PubCo) is combining with Mountain Crest Acquisition Corp. V (SPAC) and CubeBio Co., Ltd. (operating company) via a business combination agreement dated August 29, 2024. The transaction involves a SPAC Merger where Mountain Crest shares convert to PubCo ordinary shares, and a Share Swap where CubeBio Co., Ltd. shareholders exchange their shares for PubCo ordinary shares. A special meeting for Mountain Crest stockholders to vote on the business combination is scheduled for October 29, 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Mountain Crest Acquisition Corp. V&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2024-08-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2058261/000182912626010425/0001829126-26-010425-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;F-4/A · Instruments / Medical Devices (3841) · prefill_form:F-4 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · BCBP</title>
       <link>https://www.sec.gov/Archives/edgar/data/1228454/000119312526402710/d185663d8k.htm</link>
@@ -15350,37 +15374,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DMAA, DMAAR, DMAAU&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Holding / Investment Offices (6770) · 8k_tier1:1.01 · filed 2026-09-14&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 14 15:44 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2028614/000121390026099743/ea0305461-8k425_drugs.htm'&gt;Acquires Power Analytics Global in $2.85B de-SPAC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 14 15:35 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2028614/000121390026099738/ea0305461-8k425_drugs.htm'&gt;Amends PAGC merger; $2.85B closing valuation&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Preliminary · ANGH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1871983/000119312526390634/0001193125-26-390634-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-390634</guid>
-      <pubDate>Mon, 14 Sep 2026 15:37:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Revises proposal to $3.75/share cash for Anghami</scanner:headline>
-      <scanner:shortName>Anghami</scanner:shortName>
-      <scanner:price>3.38</scanner:price>
-      <scanner:subtype>preliminary</scanner:subtype>
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>ANGH</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>30590000</scanner:marketCap>
-      <scanner:enterpriseValue>7140000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Revises proposal to $3.75/share cash for Anghami&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Warner Bros. Discovery, through OSN Streaming, submitted a revised preliminary non-binding proposal to acquire all Anghami ordinary shares not already owned for $3.75 per share in cash. WBD currently beneficially owns 71.3% of Anghami. The proposal is subject to the special committee&amp;#39;s review.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Anghami Inc. operates a music-streaming platform in the Middle East and North Africa. It offers digital entertainment and online streaming services, including music, podcasts, music videos, live events, movies, and series. The company also provides a library of approximately 18,000 hours of premium video, including HBO content; and approximately 100 million Arabic and international songs and podcasts. In addition, it offers various devices and payment methods.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $3.75&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 71.3%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.38 · Mkt cap $30.6M · EV $7.1M · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1871983/000119312526390634/0001193125-26-390634-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ANGH, ANGHW&lt;/b&gt; · SCHEDULE 13D/A · Communications (4899) · fresh_13d · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
