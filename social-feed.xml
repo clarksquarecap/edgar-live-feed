@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 13:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:08:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ZSPC 📉 Delisting · Voluntary
+Voluntary Nasdaq delisting of common stock effective Sept 25
+Mcap $6M · EV $17M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637147/000110465926110659/tm2626026d1_25.htm</link>
+      <guid isPermaLink="false">0001104659-26-110659</guid>
+      <pubDate>Fri, 25 Sep 2026 08:08:23 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
     <item>
       <title>$WEAV 🤝 Merger
 Acquired by Francisco Partners affiliate for $7.40 cash; vote Oct 22
@@ -591,15 +601,6 @@ Clywedog Therapeutics · close 2026-10-31</title>
       <pubDate>Thu, 24 Sep 2026 08:27:46 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$TROO 📍 Stake
-Reports 8.9% stake in TROOPS
-Mcap $224M · EV $220M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1412095/000110465926110232/0001104659-26-110232-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-110233</guid>
-      <pubDate>Thu, 24 Sep 2026 08:06:23 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>

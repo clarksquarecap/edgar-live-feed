@@ -6,8 +6,44 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 13:02:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:08:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · ZSPC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637147/000110465926110659/tm2626026d1_25.htm</link>
+      <guid isPermaLink="false">0001104659-26-110659</guid>
+      <pubDate>Fri, 25 Sep 2026 08:08:23 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>25</category>
+      <scanner:headline>Voluntary Nasdaq delisting of common stock effective Sept 25</scanner:headline>
+      <scanner:shortName>zSpace</scanner:shortName>
+      <scanner:price>0.1600</scanner:price>
+      <scanner:subtype>voluntary</scanner:subtype>
+      <scanner:form>25</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>ZSPC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>25</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>5930000</scanner:marketCap>
+      <scanner:enterpriseValue>17470000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.72</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.37</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>1.37</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>52.34</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Voluntary Nasdaq delisting of common stock effective Sept 25&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed Form 25 to voluntarily withdraw its common stock from listing and registration on The Nasdaq Stock Market LLC. The delisting is effective on September 25, 2026. The company is relying on Rule 12d2-2(c) for the voluntary withdrawal.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; zSpace, Inc. provides augmented and virtual reality educational technology solutions for K-12 schools, and career and technical education markets in the United States and internationally. The company provides hardware products to produce devices that deliver a 3D experience that includes Inspire, a current generation laptop product that delivers autostereoscopic 3D graphics which does not require any eyewear or headset; Imagine, a fourth-generation laptop product which delivers autostereoscopic …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.1600 · Mkt cap $5.9M · EV $17.5M · Consumer Discretionary / Diversified Consumer Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1637147/000110465926110659/0001104659-26-110659-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZSPC&lt;/b&gt; · 25 · Business Services (7372) · prefill_form:25 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · WEAV</title>
       <link>https://www.sec.gov/Archives/edgar/data/1609151/000114036126037628/ny20081403x2_defm14a.htm</link>
@@ -15348,38 +15384,6 @@
 &lt;p&gt;&lt;i&gt;Px $9.82 · Mkt cap $881.4M · EV $807.6M · Fwd P/E 13.2x · Fwd EV/EBITDA 6.9x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1784930/000106299326004908/0001062993-26-004908-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MAKO&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · BFRI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1858685/000149315226042508/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042508</guid>
-      <pubDate>Mon, 14 Sep 2026 08:35:34 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>8-K</category>
-      <scanner:headline>FDA approves Ameluz for sBCC; first PDT for skin cancer</scanner:headline>
-      <scanner:shortName>Biofrontera</scanner:shortName>
-      <scanner:price>1.42</scanner:price>
-      <scanner:subtype>won</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>BFRI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>23020000</scanner:marketCap>
-      <scanner:enterpriseValue>25860000</scanner:enterpriseValue>
-      <scanner:fwdPE>9.44</scanner:fwdPE>
-      <scanner:fwdEvEbitda>6.65</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;FDA approves Ameluz for sBCC; first PDT for skin cancer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received FDA approval of its sNDA for Ameluz (aminolevulinic acid HCl) topical gel 10% with BF-RhodoLED PDT for superficial basal cell carcinoma in adults. Ameluz becomes the first and only PDT approved in the US to treat a skin cancer. Phase 3 trial showed 66% composite complete response vs 5% placebo; launch planned late Q4 2026 through Q1 2027.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Biofrontera Inc., a biopharmaceutical company, engages in the commercialization of pharmaceutical products for the treatment of dermatological conditions in the United States. It offers Ameluz, BF-RhodoLED, RhodoLED XL lamp series, and RhodoLED Lamps, which are used for the treatment of actinic keratosis, which are pre-cancerous skin lesions. The company was incorporated in 2015 and is headquartered in Woburn, Massachusetts.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; sBCC launch late Q4 2026 through Q1 2027&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.42 · Mkt cap $23.0M · EV $25.9M · Fwd P/E 9.4x · Fwd EV/EBITDA 6.7x · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1858685/000149315226042508/0001493152-26-042508-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BFRI, BFRIW&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
