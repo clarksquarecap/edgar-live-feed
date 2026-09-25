@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 15:16:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:48:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Self Tender · UTMD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/706698/000109690626001447/utmd_sctoc.htm</link>
+      <guid isPermaLink="false">0001096906-26-001447</guid>
+      <pubDate>Fri, 25 Sep 2026 11:48:33 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+      <category>SC TO-C</category>
+      <scanner:headline>Offers to buy back up to 650,000 shares at $75.00/share; expires Oct 7</scanner:headline>
+      <scanner:shortName>UTAH MEDICAL PRODUCTS</scanner:shortName>
+      <scanner:price>74.37</scanner:price>
+      <scanner:subtype>self_tender</scanner:subtype>
+      <scanner:form>SC TO-C</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>UTMD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC TO-C</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>237990000</scanner:marketCap>
+      <scanner:enterpriseValue>150660000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>4.17</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>7.21</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>7.25</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>57.90</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Offers to buy back up to 650,000 shares at $75.00/share; expires Oct 7&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is offering to purchase up to 650,000 shares of its common stock at $75.00 per share. The offer is scheduled to expire on October 7, 2026, at 5:00 p.m. New York City time, unless extended.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Utah Medical Products, Inc. offers medical devices for the healthcare industry in the United States, Europe, and internationally. It offers fetal monitoring accessories, vacuum-assisted delivery systems, and other labor and delivery tools; DISPOSA-HOOD infant respiratory hoods; and DELTRAN PLUS blood pressure monitoring systems.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; $75.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-07&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-07&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $74.37 · Mkt cap $238.0M · EV $150.7M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/706698/000109690626001447/0001096906-26-001447-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UTMD&lt;/b&gt; · SC TO-C · Instruments / Medical Devices (3841) · prefill_form:SC TO-C · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚖️ Litigation · Won · PHAR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1828316/000182831626000041/pharmingannouncesusfdaacce.htm</link>
@@ -15365,39 +15402,6 @@
 &lt;p&gt;&lt;i&gt;Px $103.41 · Mkt cap $9.37B · EV $14.89B · Fwd P/E 9.5x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1535929/000114036126036449/0001140361-26-036449-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VOYA, VOYA-PB&lt;/b&gt; · PRRN14A · Insurance (6311) · prefill_form:PRRN14A · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · CR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1944013/000162828026061780/cr-20260914.htm</link>
-      <guid isPermaLink="false">0001628280-26-061780</guid>
-      <pubDate>Mon, 14 Sep 2026 11:19:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires U.S. pump business from Trillium for $240M</scanner:headline>
-      <scanner:shortName>Crane Co</scanner:shortName>
-      <scanner:price>200.00</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>CR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>11665270000</scanner:marketCap>
-      <scanner:enterpriseValue>12432870000</scanner:enterpriseValue>
-      <scanner:fwdPE>28.09</scanner:fwdPE>
-      <scanner:fwdEvEbitda>18.79</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires U.S. pump business from Trillium for $240M&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Crane Company entered a definitive agreement to acquire the U.S. pump business from First Reserve-Backed Trillium Flow Technologies for approximately $240 million, representing ~14.6x estimated 2026 adjusted EBITDA. The business expects full year revenue of ~$115 million. Transaction expected to close in Q4, subject to regulatory approvals.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Crane Company, together with its subsidiaries, engages in the manufacture and sale of engineered industrial products in the United States, Canada, the United Kingdom, Continental Europe, and internationally. The company operates in two segments, Aerospace &amp;amp; Advanced Technologies and Process Flow Technologies.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Trillium Flow Technologies (First Reserve-Backed)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 240000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Regulatory approvals&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $200.00 · Mkt cap $11.67B · EV $12.43B · Fwd P/E 28.1x · Fwd EV/EBITDA 18.8x · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1944013/000162828026061780/0001628280-26-061780-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CR&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Fabricated Metals (3490) · 8k_tier1:7.01 · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
