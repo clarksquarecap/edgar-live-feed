@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 21:11:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:12:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$JBI 🔎 Strat Review · Portfolio Review
+Announces operational restructuring for $10.8M annualized savings
+Mcap $562M · EV $1.1B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1839839/000110465926111032/tm2626113d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111032</guid>
+      <pubDate>Fri, 25 Sep 2026 16:12:18 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>portfolio_review</category>
+    </item>
     <item>
       <title>$PSKY 🤝 Merger
 To distribute ~470M warrants contingent on WBD merger; to list on NYSE Oct 6
@@ -907,7 +917,7 @@ Mcap $243M · EV $243M · Financials</title>
 Consent solicitation to remove five directors; claims 46% support
 Mcap $231M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002644/dfan14909002b_09242026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002634</guid>
+      <guid isPermaLink="false">0000921895-26-002488</guid>
       <pubDate>Thu, 24 Sep 2026 16:23:31 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
     </item>
