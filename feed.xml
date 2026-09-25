@@ -6,8 +6,44 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:04:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:13:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · TPL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1811074/000110465926110972/tm264934d5_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-110972</guid>
+      <pubDate>Fri, 25 Sep 2026 15:13:13 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Files definitive proxy materials for acquisition</scanner:headline>
+      <scanner:shortName>Texas Pacific Land</scanner:shortName>
+      <scanner:price>341.18</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>TPL</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>23330690000</scanner:marketCap>
+      <scanner:enterpriseValue>23100090000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>25.74</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>27.57</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>23.35</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>27.37</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>93.34</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Files definitive proxy materials for acquisition&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed definitive additional soliciting materials related to an acquisition. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Texas Pacific Land Corporation engages in the land and resource management, and water services and operations businesses. The Land and Resource Management segment manages surface acres of land, and oil and gas royalty interest in Permian Basin. This segment also engages in easements, such as transporting oil, gas and related hydrocarbons, power line and utility, and subsurface wellbore easements.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $341.18 · Mkt cap $23.33B · EV $23.10B · Fwd EV/EBITDA 23.4x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1811074/000110465926110972/0001104659-26-110972-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TPL&lt;/b&gt; · DEFA14A · Holding / Investment Offices (6792) · prefill_form:DEFA14A · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Recap · MSTR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526402802/mstr-20260925.htm</link>
@@ -15362,36 +15398,6 @@
 &lt;p&gt;&lt;i&gt;Px $18.53 · Mkt cap $1.92B · EV $1.96B · Fwd P/E 75.9x · Fwd EV/EBITDA 10.8x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1712189/000095014226002544/0000950142-26-002544-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TH&lt;/b&gt; · SCHEDULE 13D/A · Hotels / Lodging (7000) · fresh_13d · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · MDCX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1997296/000095014226002546/0000950142-26-002546-index.htm</link>
-      <guid isPermaLink="false">0000950142-26-002546</guid>
-      <pubDate>Mon, 14 Sep 2026 15:50:01 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Discloses 5.3% beneficial ownership via 13D</scanner:headline>
-      <scanner:shortName>Medicus Pharma</scanner:shortName>
-      <scanner:price>0.1600</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>MDCX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>10270000</scanner:marketCap>
-      <scanner:enterpriseValue>16770000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Discloses 5.3% beneficial ownership via 13D&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Dr. Raza Bokhari, CEO and Executive Chairman of Medicus Pharma Ltd., filed a Schedule 13D disclosing beneficial ownership of 4,859,349 common shares (5.3% of class), including 1,125,000 shares underlying exercisable options and 793,173 shares held by RBx Capital, LP, an entity he controls. The filing states the securities are held for investment purposes and in connection with his officer/director role, with no activist agenda.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Medicus Pharma Ltd., a biotech/life sciences company, focuses on developing clinical development programs of therapeutic assets in the United States. It is developing SKNJCT-003, which is in Phase 2 study for the treatment of basal cell carcinoma of the skin. The company has a strategic collaboration with the Gorlin Syndrome Alliance to access to SKINJECT in Patients with Gorlin Syndrome.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.3%&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1600 · Mkt cap $10.3M · EV $16.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1997296/000095014226002546/0000950142-26-002546-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MDCX, MDCXW&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
