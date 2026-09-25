@@ -6,8 +6,43 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 12:49:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:02:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · WEAV</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1609151/000114036126037628/ny20081403x2_defm14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-036669</guid>
+      <pubDate>Fri, 25 Sep 2026 08:01:59 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>DEFM14A</category>
+      <scanner:headline>Acquired by Francisco Partners affiliate for $7.40 cash; vote Oct 22</scanner:headline>
+      <scanner:shortName>Weave Communications</scanner:shortName>
+      <scanner:price>7.34</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>DEFM14A</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>WEAV</scanner:ticker>
+      <scanner:filings>4</scanner:filings>
+      <scanner:filingForms>PREM14A, DEFA14A, 8-K, DEFM14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>585590000</scanner:marketCap>
+      <scanner:enterpriseValue>558510000</scanner:enterpriseValue>
+      <scanner:fwdPE>37.01</scanner:fwdPE>
+      <scanner:fwdEvEbitda>26.58</scanner:fwdEvEbitda>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Francisco Partners for $7.40 cash/share&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Agreed to be acquired by affiliates of Francisco Partners for $7.40 per share in cash. The merger agreement was signed August 18, 2026. Stockholders will vote at a special meeting; the board recommends approval.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Weave Communications, Inc. operates an AI-powered patient communications, engagement, and payments platform for small and medium-sized healthcare businesses. It offers AI-receptionist; Unified Phone Number; Customized Phone System, a smarter phone system to identify whether incoming calls are from new or current patients, provide information at every call, and manage heavy call times; Softphones to make and receive calls from anywhere with an internet connection; Text Messaging and SMS response …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Francisco Partners (via Willow Parent LLC)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 7.40&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote on merger&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.34 · Mkt cap $585.6M · EV $558.5M · Fwd P/E 37.0x · Fwd EV/EBITDA 26.6x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000114036126036669/0001140361-26-036669-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WEAV&lt;/b&gt; · PREM14A · Business Services (7372) · prefill_form:PREM14A · filed 2026-09-15&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFM14A · Sep 25 08:01 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000114036126037628/ny20081403x2_defm14a.htm'&gt;Acquired by Francisco Partners affiliate for $7.40 cash; vote Oct 22&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 21 16:35 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000160915126000105/weav-20260921.htm'&gt;HSR cleared; Francisco Partners merger expected Q4 close&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 21 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000160915126000107/weave-8xkxhsr.htm'&gt;HSR cleared for Francisco Partners merger; close Q4&lt;/a&gt;&lt;/li&gt;&lt;li&gt;PREM14A · Sep 15 15:52 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000114036126036669/ny20081403x1_prem14a.htm'&gt;Acquired by Francisco Partners for $7.40 cash/share&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · HLSQ</title>
       <link>https://www.sec.gov/Archives/edgar/data/1739174/000121390026103251/ea0306570-8k_tessera.htm</link>
@@ -5585,41 +5620,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.2100 · Mkt cap $3.6M · EV $5.4M · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/923601/000149315226043599/0001493152-26-043599-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RIME&lt;/b&gt; · 8-K · Items 1.01, 2.01, 2.03, 3.02, 3.03, 5.02, 5.03, 7.01, 9.01 · Business Services (7373) · 8k_tier1:1.01,2.01,3.03,7.01 · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · WEAV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1609151/000160915126000105/weav-20260921.htm</link>
-      <guid isPermaLink="false">0001140361-26-036669</guid>
-      <pubDate>Mon, 21 Sep 2026 16:35:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>HSR cleared; Francisco Partners merger expected Q4 close</scanner:headline>
-      <scanner:shortName>Weave Communications</scanner:shortName>
-      <scanner:price>7.34</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>WEAV</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>PREM14A, DEFA14A, 8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>585590000</scanner:marketCap>
-      <scanner:enterpriseValue>558510000</scanner:enterpriseValue>
-      <scanner:fwdPE>37.01</scanner:fwdPE>
-      <scanner:fwdEvEbitda>26.58</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Francisco Partners for $7.40 cash/share&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Agreed to be acquired by affiliates of Francisco Partners for $7.40 per share in cash. The merger agreement was signed August 18, 2026. Stockholders will vote at a special meeting; the board recommends approval.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Weave Communications, Inc. operates an AI-powered patient communications, engagement, and payments platform for small and medium-sized healthcare businesses. It offers AI-receptionist; Unified Phone Number; Customized Phone System, a smarter phone system to identify whether incoming calls are from new or current patients, provide information at every call, and manage heavy call times; Softphones to make and receive calls from anywhere with an internet connection; Text Messaging and SMS response …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Francisco Partners (via Willow Parent LLC)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 7.40&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote on merger&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.34 · Mkt cap $585.6M · EV $558.5M · Fwd P/E 37.0x · Fwd EV/EBITDA 26.6x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000114036126036669/0001140361-26-036669-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WEAV&lt;/b&gt; · PREM14A · Business Services (7372) · prefill_form:PREM14A · filed 2026-09-15&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 21 16:35 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000160915126000105/weav-20260921.htm'&gt;HSR cleared; Francisco Partners merger expected Q4 close&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 21 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000160915126000107/weave-8xkxhsr.htm'&gt;HSR cleared for Francisco Partners merger; close Q4&lt;/a&gt;&lt;/li&gt;&lt;li&gt;PREM14A · Sep 15 15:52 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000114036126036669/ny20081403x1_prem14a.htm'&gt;Acquired by Francisco Partners for $7.40 cash/share&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>💔 Busted · TOMZ</title>
