@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:14:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:23:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚔️ Proxy Contest · BETR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000183585626000060/betr-defa14aseptember25.htm</link>
+      <guid isPermaLink="false">0001835856-26-000060</guid>
+      <pubDate>Fri, 25 Sep 2026 15:23:43 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+      <category>acquisition</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Interim CEO addresses former CEO's status, board dispute on X</scanner:headline>
+      <scanner:shortName>Better Home &amp; Finance Holding Co</scanner:shortName>
+      <scanner:price>10.43</scanner:price>
+      <scanner:subtype />
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>BETR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>205940000</scanner:marketCap>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Interim CEO addresses former CEO&amp;#39;s status, board dispute on X&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Better Home &amp;amp; Finance Holding Co&amp;#39;s Interim CEO, Daniel Lewis, used X (formerly Twitter) to address the status of former CEO Vishal Garg, stating Garg is no longer CEO due to a breach of fiduciary duty, a view supported by the entire board (excluding Mr. Garg). Lewis also discussed the company&amp;#39;s strategic focus on wholesale distribution and non-QM lending, while acknowledging public debate about the company&amp;#39;s direction.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Better Home &amp;amp; Finance Holding Company operates as a homeownership company in the United States. The company provides government-sponsored enterprise (GSE) conforming loans, Federal Housing Administration insured loans, Department of Veterans Affairs guaranteed loans, and jumbo loans to GSEs, banks, insurance companies, asset managers, and mortgage real estate investment trusts. It offers real estate agent services, title insurance and settlement services, and homeowners insurance services.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Vishal Garg&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.43 · Mkt cap $205.9M · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000183585626000060/0001835856-26-000060-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BETR, BETRW&lt;/b&gt; · DEFA14A · Non-Depository Credit (6163) · prefill_form:DEFA14A · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · GOW</title>
       <link>https://www.sec.gov/Archives/edgar/data/2097702/000121390026103502/ea0306714-6k_gowell.htm</link>
@@ -15358,37 +15388,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TECH&lt;/b&gt; · DEFA14A · Chemicals / Pharma (2836) · prefill_form:DEFA14A · filed 2026-09-09&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 14 15:59 · &lt;a href='https://www.sec.gov/Archives/edgar/data/842023/000114036126036499/ef20081960_8k.htm'&gt;Merck KGaA merger vote Sept 23; supplements proxy after shareholder suit&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 14 15:58 · &lt;a href='https://www.sec.gov/Archives/edgar/data/842023/000114036126036500/ef20081960_defa14a.htm'&gt;Acquired by Merck KGaA; vote Sept 23; suit seeks to enjoin&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 09 16:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/842023/000114036126036072/ef20081813_defa14a.htm'&gt;Acquired by Merck KGaA for $73.00 cash/share; German approval received&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · TLX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2007191/000162828026061892/telix-6kpixclarafdaapproval.htm</link>
-      <guid isPermaLink="false">0001628280-26-061892</guid>
-      <pubDate>Mon, 14 Sep 2026 15:58:36 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>6-K</category>
-      <scanner:headline>FDA approves Pixclara FET-PET for glioma imaging</scanner:headline>
-      <scanner:shortName>Telix Pharmaceuticals</scanner:shortName>
-      <scanner:price>11.77</scanner:price>
-      <scanner:subtype>won</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>TLX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3819250000</scanner:marketCap>
-      <scanner:enterpriseValue>4159290000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>69.26</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;FDA approves Pixclara FET-PET for glioma imaging&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced FDA approval of its NDA for Pixclara (floretyrosine F 18), the first FDA-approved FET-PET imaging drug for glioma. Indicated to differentiate recurrent or progressive glioma from treatment-related change in adults and pediatric patients 1 month and older, addressing ~24,000 new US glioma cases annually. Approval expands Telix&amp;#39;s Precision Medicine franchise and reinforces its theranostics leadership.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Telix Pharmaceuticals Limited, a commercial-stage biopharmaceutical company, focuses on the development and commercialization of therapeutic and diagnostic radiopharmaceuticals. The company operates through three segments: Precision Medicine, Therapeutics, and Manufacturing Solutions. Its lead therapeutic product candidate is TLX591, a lutetium-labeled radio antibody-drug conjugate (rADC), which is in a Phase 3 clinical trial in patients with advanced prostate cancer.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $11.77 · Mkt cap $3.82B · EV $4.16B · Fwd EV/EBITDA 69.3x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2007191/000162828026061892/0001628280-26-061892-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TLX, TLPPF&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:17:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:23:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Interim CEO addresses former CEO's status, board dispute on X
+Vishal Garg
+Mcap $206M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000183585626000060/betr-defa14aseptember25.htm</link>
+      <guid isPermaLink="false">0001835856-26-000060</guid>
+      <pubDate>Fri, 25 Sep 2026 15:23:43 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$GOW 🤝 Merger
 Completes business combination with Inflection Point; NASDAQ listing Sept 28
@@ -688,15 +698,6 @@ Mcap $175M · EV $432M · Energy</title>
       <pubDate>Thu, 24 Sep 2026 15:26:48 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$HCWC 📍 Stake
-Discloses 9.99% stake in Host Digital via 13D
-Mcap $226M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1948864/000095014226002581/0000950142-26-002581-index.htm</link>
-      <guid isPermaLink="false">0000950142-26-002581</guid>
-      <pubDate>Thu, 24 Sep 2026 15:18:41 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
