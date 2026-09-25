@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:46:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:48:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TPL ⚔️ Proxy
+Sets 2027 AGM for May 6; shareholder nomination window Jan 6-Feb 5
+Mcap $23B · EV $23B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1811074/000110465926111009/tm2626094d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111009</guid>
+      <pubDate>Fri, 25 Sep 2026 15:47:55 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
+    <item>
+      <title>$RKTO 👀 Activist
+Sets annual meeting for Dec 17; shareholder nomination deadline Oct 5
+Mcap $19M · EV $11M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1711786/000121390026103530/ea0306677-8k_rocket.htm</link>
+      <guid isPermaLink="false">0001213900-26-103530</guid>
+      <pubDate>Fri, 25 Sep 2026 15:47:11 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$SOBR 🧊 Liquidation
 Board approves option for stockholders to vote on dissolution; now a shell company
@@ -825,15 +843,6 @@ Mcap $121M · EV $277M · Cons Stpl</title>
       <guid isPermaLink="false">0001341004-26-000047</guid>
       <pubDate>Thu, 24 Sep 2026 15:55:05 -0500</pubDate>
       <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$SKYE 📍 Stake
-Increases stake to 25.7% of class
-Mcap $8M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1516551/000187354526000009/0001873545-26-000009-index.htm</link>
-      <guid isPermaLink="false">0001873545-26-000009</guid>
-      <pubDate>Thu, 24 Sep 2026 15:47:19 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
