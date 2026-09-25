@@ -6,8 +6,83 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 21:01:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:02:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔐 Going Private · Definitive · BZFD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1828972/000149315226044350/0001493152-26-044350-index.htm</link>
+      <guid isPermaLink="false">0001493152-26-044350</guid>
+      <pubDate>Fri, 25 Sep 2026 16:02:17 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>definitive</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Acquires 55.7% stake from issuer for $1.09/share; now majority holder</scanner:headline>
+      <scanner:shortName>BuzzFeed</scanner:shortName>
+      <scanner:price>1.04</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>BZFD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>85830000</scanner:marketCap>
+      <scanner:enterpriseValue>120240000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.70</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.72</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>1.77</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>40.88</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires 55.7% stake from issuer for $1.09/share; now majority holder&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Allen Family Digital, LLC purchased 4.3 million shares of BuzzFeed Class A Common Stock from the issuer for $1.09 per share, totaling $4.687 million. This transaction, which closed on September 23, 2026, increases Allen Family Digital&amp;#39;s beneficial ownership to 50 million shares, representing approximately 55.7% of the outstanding Class A Common Stock. The audit committee of BuzzFeed&amp;#39;s board determined the purchase was reasonable.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BuzzFeed, Inc., a digital media company, distributes content across owned and operated, and third-party platforms in the United States and internationally. The company offers BuzzFeed that provides entertainment, pop culture, and the internet with articles, lists, quizzes, videos, and original series; Tasty, a platform for food content; and HuffPost, a media platform for news, politics, opinion, entertainment, features, and lifestyle content.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Offer price (target&amp;#39;s shares):&lt;/b&gt; 1.09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 4687000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 55.7%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.04 · Mkt cap $85.8M · EV $120.2M · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1828972/000149315226044350/0001493152-26-044350-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BZFD, BZFDW&lt;/b&gt; · SCHEDULE 13D/A · Communications (4899) · fresh_13d · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📤 Divestiture · TWI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/899751/000089975126000069/twi-20260921.htm</link>
+      <guid isPermaLink="false">0000899751-26-000069</guid>
+      <pubDate>Fri, 25 Sep 2026 16:01:31 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells Italtractor ITM to USCO for $207M cash + $6M earnout; close Jan 2027</scanner:headline>
+      <scanner:shortName>TITAN INTERNATIONAL</scanner:shortName>
+      <scanner:price>7.07</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>TWI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>456310000</scanner:marketCap>
+      <scanner:enterpriseValue>1001870000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.54</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>4.00</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>8.76</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>4.04</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>13.43</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells Italtractor ITM to USCO for $207M cash + $6M earnout; close Jan 2027&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a Sale and Purchase Agreement to sell all outstanding equity interests of its wholly-owned subsidiary, Italtractor ITM S.p.A., to USCO S.p.A. for approximately $207 million in cash, plus up to a $6 million earnout payment. The transaction is subject to antitrust and governmental foreign direct investment approvals and is expected to close in January 2027. Titan intends to use a portion of the proceeds to reduce existing debt and strengthen its balance sheet.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Titan International, Inc., together with its subsidiaries, manufactures and sells wheels, tires, and undercarriage systems and components for off-highway industry in North America, Europe, CIS, Latin America, Asia, and internationally. It operates through Agricultural, Earthmoving/Construction, and Consumer segments.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; USCO S.p.A.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $207 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; January 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Regulatory approvals&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.07 · Mkt cap $456.3M · EV $1.00B · Fwd EV/EBITDA 8.8x · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/899751/000089975126000069/0000899751-26-000069-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TWI&lt;/b&gt; · 8-K · Items 1.01, 5.02, 7.01, 9.01 · Primary Metals (3312) · 8k_tier1:1.01,7.01 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧭 Domicile · ASLE</title>
       <link>https://www.sec.gov/Archives/edgar/data/1754170/000110465926111023/asle-20260925x8k.htm</link>
@@ -15436,66 +15511,6 @@
 &lt;p&gt;&lt;i&gt;Px $5.71 · Mkt cap $11.2M · EV $13.9M · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1782265/000149315226042674/0001493152-26-042674-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GIXI&lt;/b&gt; · 6-K · Business Services (7372) · prefill_form:6-K · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · BRNX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1901215/000121390026099900/ea0305197-6k_brenx.htm</link>
-      <guid isPermaLink="false">0001213900-26-099900</guid>
-      <pubDate>Tue, 15 Sep 2026 07:51:15 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Settles EIB debt for €1.1M; eliminates $4.8M</scanner:headline>
-      <scanner:shortName>BRENX</scanner:shortName>
-      <scanner:price>2.76</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>BRNX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>4680000</scanner:marketCap>
-      <scanner:enterpriseValue>4480000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Settles EIB debt for €1.1M; eliminates $4.8M&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a settlement with the European Investment Bank (EIB) to eliminate approximately $4.8 million of debt. The settlement involves an initial €1.1 million payment and cancellation of the EIB facility, reducing total liabilities from $8.9M to $4.1M (54% cut) and increasing shareholders&amp;#39; equity from $4.6M to $8.2M (77% increase). A potential €2.9 million contingent payment is due if a qualifying transaction occurs within one year.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BrenX Ltd. develops, owns, operates, and optimizes integrated industrial energy infrastructure. The company provides an end-to-end platform that combines thermal energy storage, electricity generation and management, industrial heat solutions, and digital optimization capabilities. Its core offering centers on the bGen thermal storage technology, a system that converts electricity and recovered heat into dispatchable thermal energy for industrial applications.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; European Investment Bank (EIB)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $4.8M&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.76 · Mkt cap $4.7M · EV $4.5M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1901215/000121390026099900/0001213900-26-099900-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BRNX&lt;/b&gt; · 6-K · Fabricated Metals (3433) · prefill_form:6-K · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Preliminary · WNFT</title>
-      <link>https://www.otcmarkets.com/stock/WNFT/news/535163</link>
-      <guid isPermaLink="false">OTC-535163</guid>
-      <pubDate>Tue, 15 Sep 2026 07:43:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-      <category>OTC</category>
-      <scanner:headline>Signs LOI to acquire RedTrace Technologies</scanner:headline>
-      <scanner:shortName>Worldwide NFT</scanner:shortName>
-      <scanner:price>0.2200</scanner:price>
-      <scanner:subtype>preliminary</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>WNFT</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>20590000</scanner:marketCap>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Signs LOI to acquire RedTrace Technologies&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced it has signed a letter of intent to acquire RedTrace Technologies, Inc. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Worldwide NFT, Inc. does not have significant operations. Previously, the company was an exploration stage mining company that engaged in the exploration and mining of gold and silver properties. It intends to effect a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or similar business combination with one or more businesses. The company was formerly known as Goff, Corp. and changed its name to Worldwide NFT, Inc. in January 2022. Worldwide NFT, Inc.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; RedTrace Technologies, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.2200 · Mkt cap $20.6M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WNFT&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
