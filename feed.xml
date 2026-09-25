@@ -6,8 +6,74 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 11:56:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:57:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · CTVA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526401618/d181849d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-401618</guid>
+      <pubDate>Fri, 25 Sep 2026 06:56:58 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Vylor Form 10 effective; spin-off expected Oct 1, VYLR to list on NYSE</scanner:headline>
+      <scanner:shortName>Corteva</scanner:shortName>
+      <scanner:price>79.45</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>CTVA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>53655900000</scanner:marketCap>
+      <scanner:enterpriseValue>56386900000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>3.17</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>6.39</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>20.37</scanner:fwdPE>
+      <scanner:fwdEvEbitda>12.81</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>6.39</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>49.54</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Vylor Form 10 effective; spin-off expected Oct 1, VYLR to list on NYSE&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced the effectiveness of Vylor&amp;#39;s Form 10 registration statement, progressing the spin-off of Vylor into an independent, publicly traded company. Each Corteva stockholder of record as of September 24, 2026, will receive one share of Vylor common stock for every Corteva share held. Vylor common stock is authorized for listing on the NYSE under the symbol &amp;quot;VYLR&amp;quot; and is expected to begin regular-way trading on October 1, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Corteva, Inc. operates in the agriculture business. The company operates through two segments, Seed and Crop Protection. The Seed segment develops and supplies advanced germplasm and traits that produce optimum yield for farms. It offers trait technologies that enhance resistance to weather, disease, insects, and herbicides used to control weeds, as well as food and nutritional characteristics.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Vylor common stock begins trading on NYSE&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $79.45 · Mkt cap $53.66B · EV $56.39B · Fwd P/E 20.4x · Fwd EV/EBITDA 12.8x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1755672/000119312526401618/0001193125-26-401618-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CTVA&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Agriculture (0100) · 8k_tier1:8.01 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🧬 Spin-Off · VYLR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526401621/d118532d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-396054</guid>
+      <pubDate>Fri, 25 Sep 2026 06:56:50 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>spinco_new</category>
+      <category>8-K</category>
+      <scanner:headline>Form 10 effective for spin-off from Corteva; NYSE listing Oct 1</scanner:headline>
+      <scanner:shortName>Vylor</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>VYLR</scanner:ticker>
+      <scanner:filings>3</scanner:filings>
+      <scanner:filingForms>10-12B/A, 8-K x2</scanner:filingForms>
+      <scanner:related>CTVA</scanner:related>
+      <description>&lt;p&gt;&lt;b&gt;Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Will be spun off from Corteva through a pro-rata distribution of one share of Vylor common stock for each Corteva share held as of the September 24, 2026 record date. Distribution expected October 1, 2026, with Vylor listing on NYSE under VYLR. The spin-off is intended to be tax-free and requires no stockholder vote.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Corteva, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Record date Sep 24, 2026; distribution Oct 1, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/0001193125-26-396054-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VYLR&lt;/b&gt; · 10-12B/A · Agriculture (0100) · prefill_form:10-12B · filed 2026-09-21&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 25 06:56 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526401621/d118532d8k.htm'&gt;Form 10 effective for spin-off from Corteva; NYSE listing Oct 1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 21 07:30 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1755672/000119312526396123/d144225d8k.htm'&gt;Files Form 10/A for Vylor seed spinoff&lt;/a&gt;&lt;/li&gt;&lt;li&gt;10-12B/A · Sep 21 06:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/ctva_form_10-12ba_3.htm'&gt;Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty CTVA also filed 8-K&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · FMS</title>
       <link>https://www.sec.gov/Archives/edgar/data/1333141/000110465926110608/tm2626162d1_6k.htm</link>
@@ -6264,33 +6330,6 @@
 &lt;p&gt;&lt;i&gt;Px $11.77 · Mkt cap $3.82B · EV $4.16B · Fwd EV/EBITDA 69.3x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2007191/000162828026062813/0001628280-26-062813-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TLX, TLPPF&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · VYLR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526396123/d144225d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-396054</guid>
-      <pubDate>Mon, 21 Sep 2026 07:30:36 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>spinco_new</category>
-      <category>8-K</category>
-      <scanner:headline>Files Form 10/A for Vylor seed spinoff</scanner:headline>
-      <scanner:shortName>Vylor</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>VYLR</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>10-12B/A, 8-K</scanner:filingForms>
-      <scanner:related>CTVA</scanner:related>
-      <description>&lt;p&gt;&lt;b&gt;Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will be spun off from Corteva through a pro-rata distribution of one share of Vylor common stock for each Corteva share held as of the September 24, 2026 record date. Distribution expected October 1, 2026, with Vylor listing on NYSE under VYLR. The spin-off is intended to be tax-free and requires no stockholder vote.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Corteva, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Record date Sep 24, 2026; distribution Oct 1, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/0001193125-26-396054-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VYLR&lt;/b&gt; · 10-12B/A · Agriculture (0100) · prefill_form:10-12B · filed 2026-09-21&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 21 07:30 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1755672/000119312526396123/d144225d8k.htm'&gt;Files Form 10/A for Vylor seed spinoff&lt;/a&gt;&lt;/li&gt;&lt;li&gt;10-12B/A · Sep 21 06:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/ctva_form_10-12ba_3.htm'&gt;Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty CTVA also filed 8-K&lt;/p&gt;</description>
     </item>
     <item>
       <title>🔐 Going Private · PRTH</title>
@@ -15332,37 +15371,6 @@
 &lt;p&gt;&lt;i&gt;Px $126.00 · Mkt cap $4.28B · EV $5.63B · Fwd P/E 18.7x · Fwd EV/EBITDA 13.6x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1114483/000114036126036420/0001140361-26-036420-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ITGR&lt;/b&gt; · DEFM14A · Instruments / Medical Devices (3845) · prefill_form:DEFM14A · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · NOMA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1994214/000149315226042486/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042486</guid>
-      <pubDate>Mon, 14 Sep 2026 07:15:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires Fox Soccer Academies for $2M cash + $2.6M deferred + earnout</scanner:headline>
-      <scanner:shortName>Nomadar</scanner:shortName>
-      <scanner:price>1.45</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>NOMA</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>25790000</scanner:marketCap>
-      <scanner:enterpriseValue>27140000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Fox Soccer Academies for $2M cash + $2.6M deferred + earnout&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Agreed to acquire 100% of Fox Soccer Academy entities (NY, NC, UK, Austria) from the Sellers. Consideration includes $2M base cash, $500k in Nomadar shares, $2.6M deferred payments, and up to $1.5M earnout, plus 49% of the subsidiary&amp;#39;s membership interests. Closing expected within 60 days subject to customary conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nomadar Corp., a sport technology business, focuses on developing and operating sport technology platforms. It provides high performance training programs for young athletes in soccer programs. The company also operates the Mirandilla Stadium and holds trademark rights to the Mágico González brand. It serves professional sports teams, athletes, coaches, recreational sports enthusiasts, and end user customers. The company was formerly known as Sportech City USA, Corp.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Fox Soccer Academy Sellers&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing within 60 days; subject to conditions&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.45 · Mkt cap $25.8M · EV $27.1M · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1994214/000149315226042486/0001493152-26-042486-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NOMA&lt;/b&gt; · 8-K · Items 1.01, 3.02, 7.01, 9.01 · Amusement / Recreation (7900) · 8k_tier1:1.01,7.01 · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
