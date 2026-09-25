@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 21:12:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:18:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NDRA 🤝 Merger
+Communicates on proposed merger with Renergen, Noble Africa
+Mcap $9M · EV $8M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1681682/000121390026103599/ea0306729-425_endra.htm</link>
+      <guid isPermaLink="false">0001213900-26-103599</guid>
+      <pubDate>Fri, 25 Sep 2026 16:18:35 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$JBI 🔎 Strat Review · Portfolio Review
 Announces operational restructuring for $10.8M annualized savings
@@ -920,16 +930,6 @@ Mcap $231M · Financials</title>
       <guid isPermaLink="false">0000921895-26-002488</guid>
       <pubDate>Thu, 24 Sep 2026 16:23:31 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$UTMD 💧 Capital Return · Self-tender
-Commences $75/share tender for up to 650K shares; expires Oct 7
-Mcap $239M · EV $151M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/706698/000109690626001439/utmd_toc.htm</link>
-      <guid isPermaLink="false">0001096906-26-001428</guid>
-      <pubDate>Thu, 24 Sep 2026 16:15:39 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
