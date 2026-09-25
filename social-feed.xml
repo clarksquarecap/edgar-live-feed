@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:38:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HIG ⚖️ Litigation · Settled
+Settles reinsurance dispute with NICO for $1.12B cash; expects $497M pre-tax gain
+vs National Indemnity
+Mcap $34B · EV $39B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/874766/000087476626000064/hig-20260923.htm</link>
+      <guid isPermaLink="false">0000874766-26-000064</guid>
+      <pubDate>Fri, 25 Sep 2026 15:32:34 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$NXTC 🤝 Merger · Preliminary
 Seeks court validation of reverse split for proposed Avere merger; hearing Nov 6
@@ -765,16 +776,6 @@ Mcap $530M · EV $517M · Cons Disc</title>
       <guid isPermaLink="false">0001539497-26-002587</guid>
       <pubDate>Thu, 24 Sep 2026 15:40:41 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$PRFX 👀 Activist
-Demands special meeting to replace board at PRF Technologies
-5.716 stake
-Mcap $4M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1801834/000107997326001274/0001079973-26-001274-index.htm</link>
-      <guid isPermaLink="false">0001079973-26-001274</guid>
-      <pubDate>Thu, 24 Sep 2026 15:34:11 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>

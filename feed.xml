@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:33:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:38:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Settled · HIG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/874766/000087476626000064/hig-20260923.htm</link>
+      <guid isPermaLink="false">0000874766-26-000064</guid>
+      <pubDate>Fri, 25 Sep 2026 15:32:34 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+      <category>8-K</category>
+      <scanner:headline>Settles reinsurance dispute with NICO for $1.12B cash; expects $497M pre-tax gain</scanner:headline>
+      <scanner:shortName>HARTFORD INSURANCE</scanner:shortName>
+      <scanner:price>124.25</scanner:price>
+      <scanner:subtype>settled</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>HIG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>34045900000</scanner:marketCap>
+      <scanner:enterpriseValue>38638900000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.32</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.48</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>9.67</scanner:fwdPE>
+      <scanner:fwdEvGrossProfit>3.50</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>37.87</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Settles reinsurance dispute with NICO for $1.12B cash; expects $497M pre-tax gain&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Settled a dispute with National Indemnity Company (NICO), a Berkshire Hathaway subsidiary, regarding an Aggregate Excess of Loss Reinsurance Agreement. The company received a cash payment of $1.12 billion, terminating the agreement and resolving a confidential arbitration. HIG expects to recognize a pre-tax net gain of $497 million for the three and nine months ended September 30, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The Hartford Insurance Group, Inc., together with its subsidiaries, provides insurance and financial services to individual and business customers in the United States, the United Kingdom, and internationally. It operates through Business Insurance, Personal Insurance, Property &amp;amp; Casualty Other Operations, Employee Benefits and Hartford Funds.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; National Indemnity Company&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1.12 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $124.25 · Mkt cap $34.05B · EV $38.64B · Fwd P/E 9.7x · Financials / Insurance&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/874766/000087476626000064/0000874766-26-000064-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HIG, HIG-PG&lt;/b&gt; · 8-K · Items 1.02, 7.01, 9.01 · Insurance (6331) · 8k_tier1:1.02,7.01 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · NXTC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1661059/000110465926110971/nxtc-20260921x8k.htm</link>
@@ -15396,36 +15434,6 @@
 &lt;p&gt;&lt;i&gt;Px $56.33 · Mkt cap $23.38B · EV $31.85B · Fwd EV/EBITDA 3.6x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/904851/000155485526002000/0001554855-26-002000-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;YPF&lt;/b&gt; · 6-K · Petroleum Refining (2911) · prefill_form:6-K · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · TVA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033991/000119312526390812/tvaplus_ai_425_sept_2026.htm</link>
-      <guid isPermaLink="false">0001193125-26-390812</guid>
-      <pubDate>Tue, 15 Sep 2026 05:06:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquires PlusAI for $800M pre-money; up to $300M capital</scanner:headline>
-      <scanner:shortName>Texas Ventures Acquisition III</scanner:shortName>
-      <scanner:price>10.55</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>TVA</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>316500000</scanner:marketCap>
-      <scanner:enterpriseValue>316240000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires PlusAI for $800M pre-money; up to $300M capital&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced a definitive business combination with Plus Automation, Inc. (PlusAI), valuing PlusAI at approximately $800 million pre-money. The transaction could bring up to approximately $300 million in capital, including $60+ million of committed financing and approximately $236 million from TVA&amp;#39;s trust. PlusAI targets 2027 launch of factory-built autonomous trucks.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Texas Ventures Acquisition III Corp does not have significant operations. It focuses on effecting a merger, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses in any business or industry. The company was incorporated in 2024 and is based in Mountainside, New Jersey.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Plus Automation, Inc. (PlusAI)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $800M pre-money&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.55 · Mkt cap $316.5M · EV $316.2M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2033991/000119312526390812/0001193125-26-390812-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TVA, TVACU, TVACW&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
