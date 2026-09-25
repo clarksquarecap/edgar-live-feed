@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:48:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:54:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · MARA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1507605/000095014226002607/eh260835247_8k.htm</link>
+      <guid isPermaLink="false">0000950142-26-002607</guid>
+      <pubDate>Fri, 25 Sep 2026 15:48:22 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Amends acquisition terms, allowing contingent sale of Project Company</scanner:headline>
+      <scanner:shortName>MARA Holdings</scanner:shortName>
+      <scanner:price>12.55</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>MARA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>4990990000</scanner:marketCap>
+      <scanner:enterpriseValue>7134520000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>8.87</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>22.11</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>7.67</scanner:fwdPE>
+      <scanner:fwdEvEbitda>10.44</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>22.63</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>40.12</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Amends acquisition terms, allowing contingent sale of Project Company&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Amended its Membership Interest Purchase Agreement for MAT 1177 LLC, which its subsidiary acquired on July 2, 2026. The amendment revises milestone payments and, crucially, replaces a reconveyance clause with a provision to market the Project Company for sale to a third party if certain trigger events related to an audit and MARA&amp;#39;s election not to proceed occur. The original aggregate purchase price for the acquisition was $600 million, assuming all milestones are achieved.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; MARA Holdings, Inc. operates as an energy and digital infrastructure company in North America, the Middle East, Europe, and Latin America. The company leverages Bitcoin Mining and Artificial Intelligence compute to monetize excess energy and underutilized power, optimize power management across operations and support AI inference applications. The company was formerly known as Marathon Digital Holdings, Inc. and changed its name to MARA Holdings, Inc. in August 2024. MARA Holdings, Inc.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; HIF USA LLC (original seller, with right of first offer)&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Audit conclusion and buyer election to proceed with Project&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $12.55 · Mkt cap $4.99B · EV $7.13B · Fwd P/E 7.7x · Fwd EV/EBITDA 10.4x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1507605/000095014226002607/0000950142-26-002607-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MARA&lt;/b&gt; · 8-K · Items 1.01 · Non-Depository Credit (6199) · 8k_tier1:1.01 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚔️ Proxy Contest · TPL</title>
       <link>https://www.sec.gov/Archives/edgar/data/1811074/000110465926111009/tm2626094d1_8k.htm</link>
@@ -15409,33 +15448,6 @@
 &lt;p&gt;&lt;i&gt;Px $50.10 · Mkt cap $61.20B · Fwd P/E 10.8x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/92230/000009223026000105/0000092230-26-000105-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TFC, TFC-PI, TFC-PO, TFC-PR&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Depository Institutions (6021) · 8k_tier1:7.01 · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BFCH</title>
-      <link>https://www.otcmarkets.com/stock/BFCH/news/535083</link>
-      <guid isPermaLink="false">OTC-535083</guid>
-      <pubDate>Tue, 15 Sep 2026 05:43:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>OTC</category>
-      <scanner:headline>Acquires 1ENERGY via UNLOCKD brand; third brand added</scanner:headline>
-      <scanner:shortName>BitFrontier Capital</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>BFCH</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires 1ENERGY via UNLOCKD brand; third brand added&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;BitFrontier Capital Holdings&amp;#39; UNLOCKD brand signed a binding agreement to acquire 1ENERGY, adding a third brand to its portfolio; no financial terms were disclosed. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BitFrontier Capital Holdings, Inc., a blockchain-oriented company, focuses on the cryptocurrency markets. It engages in cryptocurrency mining and blockchain consulting activities. The company was formerly known as Purio, Inc. BitFrontier Capital Holdings, Inc. is based in Crestview, Florida.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; 1ENERGY&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BFCH&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
