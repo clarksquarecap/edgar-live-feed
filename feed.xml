@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 10:19:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:48:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · BILI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1723690/000119312526401540/d172127d6k.htm</link>
+      <guid isPermaLink="false">0001193125-26-401540</guid>
+      <pubDate>Fri, 25 Sep 2026 05:48:05 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>6-K</category>
+      <scanner:headline>Proposes off-market share buy-back; EGM vote Oct 28</scanner:headline>
+      <scanner:shortName>Bilibili</scanner:shortName>
+      <scanner:price>14.81</scanner:price>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>BILI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>6281770000</scanner:marketCap>
+      <scanner:enterpriseValue>4099670000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.89</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.39</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>13.54</scanner:fwdPE>
+      <scanner:fwdEvEbitda>6.42</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>2.39</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>37.01</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Proposes off-market share buy-back; EGM vote Oct 28&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced a proposed off-market share buy-back of its Class Y and Class Z ordinary shares. An Extraordinary General Meeting (EGM) is scheduled for October 28, 2026, for shareholders to vote on the proposal. The record date for EGM voting eligibility is October 9, 2026, Hong Kong time.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Bilibili Inc. provides online entertainment services for the young generations in the People’s Republic of China. It offers a range of digital content, including professional user generated videos (PUGV), mobile games, and value-added services, such as live broadcasting, occupationally generated videos, audio drama on Maoer, comics on Bilibili Comic, PUGV content in fan charging program and premium courses, and Bilibili premium courses and community-based avatar decoration.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $14.81 · Mkt cap $6.28B · EV $4.10B · Fwd P/E 13.5x · Fwd EV/EBITDA 6.4x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1723690/000119312526401540/0001193125-26-401540-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BILI, BLBLF&lt;/b&gt; · 6-K · Business Services (7374) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Buyback Authorization · LYG</title>
       <link>https://www.sec.gov/Archives/edgar/data/1160106/000165495426008566/a3270w.htm</link>
@@ -15305,36 +15343,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.6800 · Mkt cap $69.2M · EV $188.1M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1400438/000106299326004904/0001062993-26-004904-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LGO&lt;/b&gt; · 6-K · Mining; Nonmetallic (1400) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Special Dividend · AIJTY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1713923/000110465926107260/tm2625373d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-107260</guid>
-      <pubDate>Mon, 14 Sep 2026 06:31:36 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-      <category>6-K</category>
-      <scanner:headline>Special dividend $0.499/ADS; ex-date Oct 20, due-bill applies</scanner:headline>
-      <scanner:shortName>Jianpu Technology</scanner:shortName>
-      <scanner:price>0.9500</scanner:price>
-      <scanner:subtype>special_dividend</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>AIJTY</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>19040000</scanner:marketCap>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Special dividend $0.499/ADS; ex-date Oct 20, due-bill applies&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced FINRA set October 20, 2026 as the ex-dividend date for its special cash dividend of US$0.02495 per ordinary share, or US$0.499 per ADS, exceeding 25% of the ADS price. Payment date is October 19, 2026, with due-bill procedures applied. Dividend was originally announced September 2, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Jianpu Technology Inc. operates an open financial technology platform under the Rong360 brand in the People’s Republic of China. The company offers online discovery and recommendation services of financial products through its platform; loan products comprising personal consumptive needs and other personal expenses, and small and medium enterprises loans; and sales and marketing solutions, and digital intelligence as a service solution for financial service providers.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 0.499&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-19&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Ex-dividend date October 20, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.9500 · Mkt cap $19.0M · EV $-27.4M · Financials / Consumer Finance&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1713923/000110465926107260/0001104659-26-107260-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AIJTY&lt;/b&gt; · 6-K · Business Services (7370) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
