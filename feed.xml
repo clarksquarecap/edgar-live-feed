@@ -6,8 +6,86 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:28:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:29:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · FOXF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1424929/000142492926000052/foxf-20260925.htm</link>
+      <guid isPermaLink="false">0001424929-26-000052</guid>
+      <pubDate>Fri, 25 Sep 2026 15:29:13 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells Marucci Sports for $225M; $200M cash applied to debt</scanner:headline>
+      <scanner:shortName>FOX FACTORY</scanner:shortName>
+      <scanner:price>18.56</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>FOXF</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>778410000</scanner:marketCap>
+      <scanner:enterpriseValue>1397080000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.95</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.24</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>11.16</scanner:fwdPE>
+      <scanner:fwdEvEbitda>7.30</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.24</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>29.49</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells Marucci Sports for $225M; $200M cash applied to debt&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed the sale of its wholly owned indirect subsidiary, Wheelhouse Holdings Inc., parent company of Marucci Sports, LLC, to Squared Up Holdings, LLC for an enterprise value of $225 million. The consideration includes $200 million in cash at closing, which was applied to debt reduction, and an unsecured subordinated convertible promissory note for $25 million due December 31, 2026. This transaction reduces Fox Factory&amp;#39;s net leverage from 3.7 times to approximately 2.7 times and is expected to reduce annualized interest expense by approximately $16 million.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Fox Factory Holding Corp. designs, engineers, manufactures, and markets performance-defining products and systems in North America, Europe, Asia, and internationally. It operates through Powered Vehicles Group (PVG), Aftermarket Applications Group (AAG), and Specialty Sports Group (SSG) segments. The company offers powered vehicle products for off-road vehicles and trucks, side-by-sides, on-road vehicles with and without off-road capabilities, all-terrain vehicles, snowmobiles, specialty vehicle…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Squared Up Holdings, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $225,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-12-31&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $18.56 · Mkt cap $778.4M · EV $1.40B · Fwd P/E 11.2x · Fwd EV/EBITDA 7.3x · Consumer Discretionary / Automobile Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1424929/000142492926000052/0001424929-26-000052-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FOXF&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Transportation Equipment (3751) · 8k_tier1:7.01 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚖️ Litigation · Settled · ACHC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1520697/000143774926031225/achc20260923_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-031225</guid>
+      <pubDate>Fri, 25 Sep 2026 15:28:52 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+      <category>8-K</category>
+      <scanner:headline>Receives preliminary court approval for derivative action settlement</scanner:headline>
+      <scanner:shortName>Acadia Healthcare</scanner:shortName>
+      <scanner:price>28.11</scanner:price>
+      <scanner:subtype>settled</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>ACHC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2588190000</scanner:marketCap>
+      <scanner:enterpriseValue>5217250000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.55</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.77</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>16.85</scanner:fwdPE>
+      <scanner:fwdEvEbitda>8.49</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.82</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>41.06</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Receives preliminary court approval for derivative action settlement&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received preliminary court approval for the proposed settlement of stockholder derivative actions filed nominally on its behalf against individual defendants. The settlement resolves claims related to previously disclosed securities litigation. The Stipulation of Settlement is dated July 31, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Acadia Healthcare Company, Inc. provides behavioral healthcare services in the United States and Puerto Rico. The company owns and operates acute inpatient psychiatric facilities; specialty treatment facilities comprising residential recovery facilities and eating disorder facilities; comprehensive treatment centers; and residential treatment centers, as well as facilities providing outpatient behavioral healthcare services for the behavioral healthcare and recovery needs of communities.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Individual Defendants&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Final court approval&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $28.11 · Mkt cap $2.59B · EV $5.22B · Fwd P/E 16.9x · Fwd EV/EBITDA 8.5x · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1520697/000143774926031225/0001437749-26-031225-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACHC&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Health Services (8093) · 8k_tier1:8.01 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · IMCC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1792030/000117891326004610/zk2636158.htm</link>
@@ -15343,71 +15421,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NDRA&lt;/b&gt; · 425 · Instruments / Medical Devices (3845) · prefill_form:425 · filed 2026-09-09&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 14 16:29 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1681682/000121390026099784/ea0304649-425_endra.htm'&gt;Acquired by Noble Africa (ASP Isotopes) in proposed merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 09 05:38 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1681682/000147793226005473/aspi_425.htm'&gt;Acquired by Noble Africa (ASP Isotopes sub) via reverse merger; ASPI to own 89% of combined co&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · TOPP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1960847/000121390026099778/ea0305353-8k_toppoint.htm</link>
-      <guid isPermaLink="false">0001213900-26-099323</guid>
-      <pubDate>Mon, 14 Sep 2026 16:20:09 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Reincorporates from Nevada to Delaware; effective Sept 25</scanner:headline>
-      <scanner:shortName>Toppoint Holdings</scanner:shortName>
-      <scanner:price>0.1600</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>TOPP</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3780000</scanner:marketCap>
-      <scanner:enterpriseValue>350000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Stockholders approve Nevada-to-Delaware reincorporation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Toppoint Holdings&amp;#39; stockholders approved a reincorporation from Nevada to Delaware, along with a reverse stock split (up to 1-for-900) and an increase in authorized shares from 300M to 1B. The reincorporation and share increase have not yet become effective; the company intends to implement them following completion of applicable filings.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Toppoint Holdings Inc., through its subsidiary, Toppoint Inc., engages in the provision of truckload services and solutions focused on the recycling export supply chain in the United States. It transports food waste, wastepaper, scrap metal, logs, batteries, and import products; and manages 20’, 40’, and 45’ containers, including refrigerated and Hazmat cargo. The company also coordinates import brokers to customer’s docks.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1600 · Mkt cap $3.8M · EV $350K · Industrials / Ground Transportation&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1960847/000121390026099323/0001213900-26-099323-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TOPP&lt;/b&gt; · 8-K · Items 5.07, 8.01 · Trucking / Warehousing (4210) · 8k_tier1:8.01 · filed 2026-09-11&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 14 16:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1960847/000121390026099778/ea0305353-8k_toppoint.htm'&gt;Reincorporates from Nevada to Delaware; effective Sept 25&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 11 16:07 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1960847/000121390026099323/ea0305018-8k_toppoint.htm'&gt;Stockholders approve Nevada-to-Delaware reincorporation&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · ADUS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468328/000143774926030348/adus20260914_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-030348</guid>
-      <pubDate>Mon, 14 Sep 2026 16:19:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires AccentCare's personal care division for $275M cash</scanner:headline>
-      <scanner:shortName>Addus HomeCare</scanner:shortName>
-      <scanner:price>117.33</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>ADUS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2141960000</scanner:marketCap>
-      <scanner:enterpriseValue>2151220000</scanner:enterpriseValue>
-      <scanner:fwdPE>16.80</scanner:fwdPE>
-      <scanner:fwdEvEbitda>10.97</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires AccentCare&amp;#39;s personal care division for $275M cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Signed a definitive agreement to acquire AccentCare&amp;#39;s personal care division (outside New York) for approximately $275.0M cash, subject to customary working capital adjustments. The acquired operations serve ~13,700 customers across a 10-state footprint and add ~$280M annualized revenue (~19% of Addus&amp;#39; revenue base). Closing is subject to regulatory approvals and HSR waiting period; no financing condition, funded via revolver and cash on hand.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Addus HomeCare Corporation, together with its subsidiaries, provides personal care services to elderly, chronically ill, disabled persons, and individuals who are at risk of hospitalization or institutionalization in the United States. The company operates through three segments: Personal Care, Hospice, and Home Health. Its Personal Care segment provides non-medical assistance with activities of daily living.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; AccentCare, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $275,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Regulatory approvals and HSR waiting period expiration&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $117.33 · Mkt cap $2.14B · EV $2.15B · Fwd P/E 16.8x · Fwd EV/EBITDA 11.0x · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1468328/000143774926030348/0001437749-26-030348-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ADUS&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Health Services (8082) · 8k_tier1:1.01,7.01 · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
