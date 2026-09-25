@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 10:05:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:11:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · NIMU</title>
+      <link>https://www.sec.gov/Archives/edgar/data/720762/000149315226044216/forms-4a.htm</link>
+      <guid isPermaLink="false">0001493152-26-044216</guid>
+      <pubDate>Fri, 25 Sep 2026 05:11:39 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>S-4/A</category>
+      <scanner:headline>Acquires Gravitics Inc. in definitive stock merger</scanner:headline>
+      <scanner:shortName>NON INVASIVE MONITORING SYSTEMS</scanner:shortName>
+      <scanner:price>11.50</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>S-4/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>NIMU</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>S-4/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>11880000</scanner:marketCap>
+      <scanner:enterpriseValue>12830000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Gravitics Inc. in definitive stock merger&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;(NIMU) is acquiring Gravitics Inc. in a definitive stock merger, as evidenced by this S-4/A filing. The merger agreement was dated March 6, 2026. This amendment provides updated financial information related to the transaction.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Non-Invasive Monitoring Systems, Inc. does not have significant operations. Previously, it was involved in the research, development, manufacture, marketing, and sale of non-invasive, motorized, and whole body periodic acceleration platforms. Non-Invasive Monitoring Systems, Inc. was incorporated in 1980 and is based in Miami, Florida.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Gravitics Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-03-06&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $11.50 · Mkt cap $11.9M · EV $12.8M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/720762/000149315226044216/0001493152-26-044216-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NIMU&lt;/b&gt; · S-4/A · Transportation Equipment (3760) · prefill_form:S-4 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · JAGX</title>
       <link>https://www.sec.gov/Archives/edgar/data/1585608/000119312526401239/d130901d8k.htm</link>
@@ -15306,37 +15337,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.31 · Mkt cap $154.9M · EV $311.8M · Fwd EV/EBITDA 12.6x · Consumer Staples / Personal Care Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1840199/000184019926000101/0001840199-26-000101-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WALD, WALDW&lt;/b&gt; · 6-K · Chemicals / Pharma (2844) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · EMCGF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1869601/000149315226042465/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042465</guid>
-      <pubDate>Mon, 14 Sep 2026 05:20:06 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Tianji terminates merger agreement; deal dead</scanner:headline>
-      <scanner:shortName>Embrace Change Acquisition</scanner:shortName>
-      <scanner:price>11.21</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>EMCGF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>27150000</scanner:marketCap>
-      <scanner:enterpriseValue>29880000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Tianji terminates merger agreement; deal dead&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a termination notice from Tianji Tire Global on September 10, 2026, terminating the merger agreement pursuant to Section 11.1(d)(i) after the August 12, 2026 Outside Date passed without consummation. The SPAC&amp;#39;s business combination with Tianji is dead; the path forward has reset.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Embrace Change Acquisition Corp. does not have significant operations. It intends to enter into a merger, share exchange, asset acquisition, share purchase, recapitalization, reorganization, or similar business combination with one or more businesses or entities. The company was incorporated in 2021 and is based in San Diego, California.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Tianji Tire Global (Cayman) Limited&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $11.21 · Mkt cap $27.1M · EV $29.9M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1869601/000149315226042465/0001493152-26-042465-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EMCGF&lt;/b&gt; · 8-K · Items 1.01 · Holding / Investment Offices (6770) · 8k_tier1:1.01 · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
