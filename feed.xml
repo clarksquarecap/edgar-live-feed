@@ -6,8 +6,147 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:58:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · CEPU</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1717161/000129281426004710/cepu20260925_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004710</guid>
+      <pubDate>Fri, 25 Sep 2026 15:58:05 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>6-K</category>
+      <scanner:headline>Repurchases 100,000 shares for ARS 200.76M</scanner:headline>
+      <scanner:shortName>CENTRAL PUERTO</scanner:shortName>
+      <scanner:price>13.20</scanner:price>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Utilities</scanner:sector>
+      <scanner:ticker>CEPU</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2011400000</scanner:marketCap>
+      <scanner:enterpriseValue>2576370000</scanner:enterpriseValue>
+      <scanner:fwdPE>6.37</scanner:fwdPE>
+      <scanner:fwdEvEbitda>5.17</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>6.71</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Repurchases 100,000 shares for ARS 200.76M&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Repurchased 100,000 of its own common shares on September 25, 2026, for a total cash amount of ARS 200,763,464. The average price per share was ARS 2,007.63. The transaction did not exceed 25% of the average daily trading volume over the prior 90 business days.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Central Puerto S.A. engages in the electric power generation activities in Argentina. It operates in three segments: Electric Power Generation From Conventional Sources, Electric Power Generation From Renewable Sources and Forest Activity, and Management and Operations of Thermal Plants. The company’s power generation assets include combined cycle, gas and steam turbine, co-generation, hydroelectric, wind turbines, and solar panels.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; ARS 2,007.63&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; ARS 200,763,464&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $13.20 · Mkt cap $2.01B · EV $2.58B · Fwd P/E 6.4x · Fwd EV/EBITDA 5.2x · Utilities / Independent Power and Renewable Electricity Producers&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1717161/000129281426004710/0001292814-26-004710-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CEPU&lt;/b&gt; · 6-K · Utilities (4911) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🔀 Split-Off · MDT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026063600/a425-mdtwebsitex92526.htm</link>
+      <guid isPermaLink="false">0001628280-26-062507</guid>
+      <pubDate>Fri, 25 Sep 2026 15:57:46 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+      <category>issuer_tender</category>
+      <category>425</category>
+      <scanner:headline>Offers to exchange MiniMed Group shares for up to 225.36M of its own shares</scanner:headline>
+      <scanner:shortName>Medtronic</scanner:shortName>
+      <scanner:price>90.96</scanner:price>
+      <scanner:subtype />
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>MDT</scanner:ticker>
+      <scanner:filings>12</scanner:filings>
+      <scanner:filingForms>SC TO-I/A, 8-K, 425 x10</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>116350380000</scanner:marketCap>
+      <scanner:enterpriseValue>136139380000</scanner:enterpriseValue>
+      <scanner:fwdPE>15.32</scanner:fwdPE>
+      <scanner:fwdEvEbitda>12.45</scanner:fwdEvEbitda>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Offers 225.4M MiniMed shares (80.1%) for MDT&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is conducting an exchange offer to exchange up to 225,361,295 newly issued MiniMed Group common shares (approximately 80.1% of MiniMed) for outstanding Medtronic ordinary shares. If oversubscribed, Medtronic may exchange up to an additional 27,452,053 MiniMed shares. This amendment corrects a typographical error in the guaranteed delivery procedures.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Medtronic plc develops, manufactures, and sells device-based medical therapies to healthcare systems, physicians, clinicians, and patients in the United States, Ireland, and internationally. It operates through three segments: The Cardiovascular Portfolio, Neuroscience Portfolio, and Medical Surgical Portfolio.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $90.96 · Mkt cap $116.35B · EV $136.14B · Fwd P/E 15.3x · Fwd EV/EBITDA 12.4x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062507/0001628280-26-062507-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MDT&lt;/b&gt; · SC TO-I/A · Instruments / Medical Devices (3845) · prefill_form:SC TO-I · filed 2026-09-17&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (12)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 25 15:57 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026063600/a425-mdtwebsitex92526.htm'&gt;Offers to exchange MiniMed Group shares for up to 225.36M of its own shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 25 15:24 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026063578/a425-fidelitymessagetomdt4.htm'&gt;Offers to exchange MDT shares for MiniMed shares at 7.53% premium; deadline Oct 5&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 24 15:54 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026063443/a425-mdtwebsitex92426.htm'&gt;Split-off exchange: up to 225.4M MiniMed shares for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 23 15:59 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026063241/a425-mdtwebsitex92326.htm'&gt;Launches split-off: exchange up to 225.4M MiniMed shares for MDT&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 22 16:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026063063/a425-mdtwebsitex92226.htm'&gt;Offers up to 225.4M MiniMed shares in split-off exchange for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 21 16:32 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062929/a425-mdtwebsitex92126.htm'&gt;Launches split-off: offers up to 225.4M MiniMed shares for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 21 15:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062882/minimed-425splitxoff.htm'&gt;Splits off MiniMed diabetes business via exchange offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 21 15:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062885/minimed-425splitxoffroadsh.htm'&gt;Splits off MiniMed via exchange offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 18 15:53 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062753/a425-mdtwebsitex91826.htm'&gt;Offers to exchange up to 225.4M MiniMed shares for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 17 15:46 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062544/a425-mdtwebsitex91726.htm'&gt;Exchanges up to 225.4M MiniMed shares for MDT in split-off&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 17 15:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062505/mdt-20260917.htm'&gt;Offers up to 225.4M MiniMed shares for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-I/A · Sep 17 15:32 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062507/mdt-amendedscheduleissuert.htm'&gt;Offers 225.4M MiniMed shares (80.1%) for MDT&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>⚔️ Proxy Contest · EMPD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829794/000092189526002648/dfan13914005_09252026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002648</guid>
+      <pubDate>Fri, 25 Sep 2026 15:57:37 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+      <category>activist</category>
+      <category>DFAN14A</category>
+      <scanner:headline>Faces ATG Capital proxy contest; ISS recommends 2 dissident nominees</scanner:headline>
+      <scanner:shortName>Empery Digital</scanner:shortName>
+      <scanner:price>2.89</scanner:price>
+      <scanner:subtype />
+      <scanner:form>DFAN14A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>EMPD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DFAN14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>82360000</scanner:marketCap>
+      <scanner:enterpriseValue>134330000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>213.84</scanner:evSalesLtm>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Faces ATG Capital proxy contest; ISS recommends 2 dissident nominees&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Faces a proxy contest from ATG Capital, which is seeking to elect four director nominees to the board at the October 14, 2026 Annual Meeting. Leading proxy advisory firm ISS recommended stockholders vote for two of ATG Capital&amp;#39;s nominees, Gabriel D. Gliksberg and Aaron T. Morris, and withhold support from two incumbent directors. ATG Capital, beneficial owner of over 16% of EMPD shares, urges stockholders to elect all four of its independent nominees.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Empery Digital Inc. engages in digital asset treasury business in the United States. The company was formerly known as Volcon, Inc. and changed its name to Empery Digital Inc. in July 2025. Empery Digital Inc. was incorporated in 2020 and is based in Round Rock, Texas.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ATG Capital&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 16%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Annual Meeting October 14, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.89 · Mkt cap $82.4M · EV $134.3M · Consumer Discretionary / Automobiles&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000092189526002648/0000921895-26-002648-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EMPD&lt;/b&gt; · DFAN14A · Non-Depository Credit (6199) · prefill_form:DFAN14A · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🔎 Strategic Review · Formal Alternatives · COTY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1024305/000102430526000065/coty-20260925.htm</link>
+      <guid isPermaLink="false">0001024305-26-000065</guid>
+      <pubDate>Fri, 25 Sep 2026 15:57:25 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+      <category>DEFR14A</category>
+      <scanner:headline>Continues strategic review of consumer beauty business</scanner:headline>
+      <scanner:shortName>COTY</scanner:shortName>
+      <scanner:price>2.64</scanner:price>
+      <scanner:subtype>formal_alternatives</scanner:subtype>
+      <scanner:form>DEFR14A</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>COTY</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFR14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2316210000</scanner:marketCap>
+      <scanner:enterpriseValue>5825410000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.00</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.60</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>8.07</scanner:fwdPE>
+      <scanner:fwdEvEbitda>7.27</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>1.60</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>62.89</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Continues strategic review of consumer beauty business&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced it is continuing its strategic review of the Company’s consumer beauty business, including its mass color cosmetics and Brazil businesses. The review, initially announced in September 2025, is expected to be completed in fiscal year 2027. The company also highlighted past actions like the Wella stake monetization and Gucci Beauty license transition.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Coty Inc., together with its subsidiaries, manufactures, markets, distributes, and sells branded beauty products in the United States and internationally. It operates through two segments: Prestige and Consumer Beauty. The company provides fragrances, color cosmetics, and skin and body care products. It offers prestige products through prestige retailers, including perfumeries, department stores, e-retailers, direct-to-consumer websites, and duty-free shops under Burberry, Calvin Klein, Chloe, D…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; FY2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Completion of strategic review&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.64 · Mkt cap $2.32B · EV $5.83B · Fwd P/E 8.1x · Fwd EV/EBITDA 7.3x · Consumer Staples / Personal Care Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1024305/000102430526000065/0001024305-26-000065-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;COTY&lt;/b&gt; · DEFR14A · Chemicals / Pharma (2844) · prefill_form:DEFR14A · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · MSTR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526402937/mstr-20260925.htm</link>
@@ -1001,41 +1140,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 25 15:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/763744/000076374426000088/employeemessagevfinal.htm'&gt;Merger with Patrick Industries progressing; shareholder vote expected late 2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;S-4 · Sep 23 16:31 · &lt;a href='https://www.sec.gov/Archives/edgar/data/76605/000162828026063259/patrickindustries-sx4.htm'&gt;Acquires LCI Industries in 1.2440x stock-for-stock merger&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;Acquirer PATK also filed S-4&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔀 Split-Off · MDT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026063578/a425-fidelitymessagetomdt4.htm</link>
-      <guid isPermaLink="false">0001628280-26-062507</guid>
-      <pubDate>Fri, 25 Sep 2026 15:24:58 -0500</pubDate>
-      <category>SPLIT_OFF</category>
-      <category>issuer_tender</category>
-      <category>425</category>
-      <scanner:headline>Offers to exchange MDT shares for MiniMed shares at 7.53% premium; deadline Oct 5</scanner:headline>
-      <scanner:shortName>Medtronic</scanner:shortName>
-      <scanner:price>90.96</scanner:price>
-      <scanner:subtype />
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>MDT</scanner:ticker>
-      <scanner:filings>11</scanner:filings>
-      <scanner:filingForms>SC TO-I/A, 8-K, 425 x9</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>116350380000</scanner:marketCap>
-      <scanner:enterpriseValue>136139380000</scanner:enterpriseValue>
-      <scanner:fwdPE>15.32</scanner:fwdPE>
-      <scanner:fwdEvEbitda>12.45</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Offers 225.4M MiniMed shares (80.1%) for MDT&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is conducting an exchange offer to exchange up to 225,361,295 newly issued MiniMed Group common shares (approximately 80.1% of MiniMed) for outstanding Medtronic ordinary shares. If oversubscribed, Medtronic may exchange up to an additional 27,452,053 MiniMed shares. This amendment corrects a typographical error in the guaranteed delivery procedures.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Medtronic plc develops, manufactures, and sells device-based medical therapies to healthcare systems, physicians, clinicians, and patients in the United States, Ireland, and internationally. It operates through three segments: The Cardiovascular Portfolio, Neuroscience Portfolio, and Medical Surgical Portfolio.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $90.96 · Mkt cap $116.35B · EV $136.14B · Fwd P/E 15.3x · Fwd EV/EBITDA 12.4x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062507/0001628280-26-062507-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MDT&lt;/b&gt; · SC TO-I/A · Instruments / Medical Devices (3845) · prefill_form:SC TO-I · filed 2026-09-17&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (11)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 25 15:24 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026063578/a425-fidelitymessagetomdt4.htm'&gt;Offers to exchange MDT shares for MiniMed shares at 7.53% premium; deadline Oct 5&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 24 15:54 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026063443/a425-mdtwebsitex92426.htm'&gt;Split-off exchange: up to 225.4M MiniMed shares for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 23 15:59 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026063241/a425-mdtwebsitex92326.htm'&gt;Launches split-off: exchange up to 225.4M MiniMed shares for MDT&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 22 16:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026063063/a425-mdtwebsitex92226.htm'&gt;Offers up to 225.4M MiniMed shares in split-off exchange for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 21 16:32 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062929/a425-mdtwebsitex92126.htm'&gt;Launches split-off: offers up to 225.4M MiniMed shares for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 21 15:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062882/minimed-425splitxoff.htm'&gt;Splits off MiniMed diabetes business via exchange offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 21 15:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062885/minimed-425splitxoffroadsh.htm'&gt;Splits off MiniMed via exchange offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 18 15:53 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062753/a425-mdtwebsitex91826.htm'&gt;Offers to exchange up to 225.4M MiniMed shares for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 17 15:46 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062544/a425-mdtwebsitex91726.htm'&gt;Exchanges up to 225.4M MiniMed shares for MDT in split-off&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 17 15:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062505/mdt-20260917.htm'&gt;Offers up to 225.4M MiniMed shares for MDT shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-I/A · Sep 17 15:32 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1613103/000162828026062507/mdt-amendedscheduleissuert.htm'&gt;Offers 225.4M MiniMed shares (80.1%) for MDT&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🧭 Domicile · TPL</title>
@@ -15379,93 +15483,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.7100 · Mkt cap $1.1M · EV $-1.4M · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1969863/000175392626001776/0001753926-26-001776-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SUGP&lt;/b&gt; · 6-K · Business Services (7381) · prefill_form:6-K · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · VYLR-W</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526391356/ctva_form_10-12ba_2.htm</link>
-      <guid isPermaLink="false">0001193125-26-391356</guid>
-      <pubDate>Tue, 15 Sep 2026 07:07:59 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>spinco_new</category>
-      <category>10-12B/A</category>
-      <scanner:headline>Spun off from Corteva; 1 VYLR per CTVA share; NYSE listing</scanner:headline>
-      <scanner:shortName>Vylor</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>10-12B/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>VYLR-W</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>10-12B/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Spun off from Corteva; 1 VYLR per CTVA share; NYSE listing&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will be spun off from Corteva via a pro rata distribution of all Vylor common stock to Corteva stockholders. Each Corteva stockholder receives one VYLR share for every CTVA share held as of the September 24, 2026 record date; distribution expected October 1, 2026. Vylor will list on NYSE under VYLR; transaction intended to be tax-free.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Corteva, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Distribution date October 1, 2026; record date September 24, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526391356/0001193125-26-391356-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VYLR-W&lt;/b&gt; · 10-12B/A · Agriculture (0100) · prefill_form:10-12B · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · LIND</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1512499/000143774926030390/lindb20260914_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-030390</guid>
-      <pubDate>Tue, 15 Sep 2026 07:01:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires 60% of White Desert &amp; Echo Charlie for ~$61M cash</scanner:headline>
-      <scanner:shortName>LINDBLAD EXPEDITIONS</scanner:shortName>
-      <scanner:price>26.00</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>LIND</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1706110000</scanner:marketCap>
-      <scanner:enterpriseValue>2093090000</scanner:enterpriseValue>
-      <scanner:fwdPE>117.08</scanner:fwdPE>
-      <scanner:fwdEvEbitda>16.70</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires 60% of White Desert &amp;amp; Echo Charlie for ~$61M cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Acquired a 60% controlling interest in White Desert Ltd, PNR Airways Ltd, and Echo Charlie Ltd for approximately $61 million in cash plus ~$6 million for cash on the balance sheet, subject to customary true-ups. The deal includes options to purchase the remaining 40% in two equal tranches within 30 days of December 31, 2030 and 2031, priced on EBITDA. White Desert is a luxury Antarctic expedition operator; Echo Charlie is a new aviation travel brand. Founder Patrick Woodhead will join as Strategic Innovation Advisor.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lindblad Expeditions Holdings, Inc. provides marine expedition adventures and travel experience worldwide. It operates through Lindblad and Land Experiences segments. The Lindblad segment provides ship-based expeditions aboard customized, nimble, and intimately-scaled vessels, which offers up-close experiences in the planet’s wild and remote places, and capitals of culture; and offers expedition ship which is equipped with state-of-the-art tools for in-depth exploration with infrastructure and p…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; White Desert Ltd, PNR Airways Ltd, Echo Charlie Ltd&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; ~$67M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 60%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $26.00 · Mkt cap $1.71B · EV $2.09B · Fwd P/E 117.1x · Fwd EV/EBITDA 16.7x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1512499/000143774926030390/0001437749-26-030390-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LIND&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Transportation Services (4700) · 8k_tier1:1.01,7.01 · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · PAUIF</title>
-      <link>https://www.otcmarkets.com/stock/PAUIF/news/535107</link>
-      <guid isPermaLink="false">OTC-535107</guid>
-      <pubDate>Tue, 15 Sep 2026 06:13:37 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>divestiture</category>
-      <category>OTC</category>
-      <scanner:headline>Sells Colorado assets to DISA Uranium; receives equity investment</scanner:headline>
-      <scanner:shortName>Premier American Uranium</scanner:shortName>
-      <scanner:price>0.4100</scanner:price>
-      <scanner:subtype />
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>PAUIF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>36460000</scanner:marketCap>
-      <scanner:enterpriseValue>29670000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells Colorado assets to DISA Uranium; receives equity investment&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced a strategic partnership with DISA Uranium involving the sale of Colorado assets and an equity investment. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Premier American Uranium Inc. engages in the acquisition, exploration, and development of uranium and vanadium mineral properties in the United States. The company&amp;#39;s flagship property is the 100% owned Cebolleta Project comprising 6,717 acres of privately held mineral rights and approximately 5,700 acres of surface rights located in New Mexico. Premier American Uranium Inc.was based in Toronto, Canada.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; DISA Uranium&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.4100 · Mkt cap $36.5M · EV $29.7M · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PAUIF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

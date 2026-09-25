@@ -6,8 +6,47 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:57:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:58:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CEPU 💧 Capital Return · Buyback
+Repurchases 100,000 shares for ARS 200.76M
+Mcap $2.0B · EV $2.6B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1717161/000129281426004710/cepu20260925_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004710</guid>
+      <pubDate>Fri, 25 Sep 2026 15:58:05 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Offers to exchange MiniMed Group shares for up to 225.36M of its own shares
+Mcap $113B · EV $133B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026063600/a425-mdtwebsitex92526.htm</link>
+      <guid isPermaLink="false">0001628280-26-062507</guid>
+      <pubDate>Fri, 25 Sep 2026 15:57:46 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
+    <item>
+      <title>$EMPD ⚔️ Proxy
+Faces ATG Capital proxy contest; ISS recommends 2 dissident nominees
+16% stake
+Mcap $82M · EV $134M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829794/000092189526002648/dfan13914005_09252026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002648</guid>
+      <pubDate>Fri, 25 Sep 2026 15:57:37 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
+    <item>
+      <title>$COTY 🔎 Strat Review · Strat Alts
+Continues strategic review of consumer beauty business
+Mcap $2.3B · EV $5.8B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1024305/000102430526000065/coty-20260925.htm</link>
+      <guid isPermaLink="false">0001024305-26-000065</guid>
+      <pubDate>Fri, 25 Sep 2026 15:57:25 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+    </item>
     <item>
       <title>$MSTR 🪙 Debt Restr.
 Seeks vote on preferred stock term changes at Special Meeting
@@ -269,15 +308,6 @@ Mcap $2.0B · EV $3.0B · Cons Disc</title>
       <pubDate>Fri, 25 Sep 2026 15:26:03 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MDT 🪓 Split-off
-Offers to exchange MDT shares for MiniMed shares at 7.53% premium; deadline Oct 5
-Mcap $113B · EV $133B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026063578/a425-fidelitymessagetomdt4.htm</link>
-      <guid isPermaLink="false">0001628280-26-062507</guid>
-      <pubDate>Fri, 25 Sep 2026 15:24:58 -0500</pubDate>
-      <category>SPLIT_OFF</category>
     </item>
     <item>
       <title>$TPL 🌍 Re-domicile
