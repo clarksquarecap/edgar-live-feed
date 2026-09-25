@@ -6,8 +6,41 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 13:59:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 15:16:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Won · PHAR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1828316/000182831626000041/pharmingannouncesusfdaacce.htm</link>
+      <guid isPermaLink="false">0001828316-26-000041</guid>
+      <pubDate>Fri, 25 Sep 2026 10:15:58 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+      <category>6-K</category>
+      <scanner:headline>FDA accepts sNDA for Joenja® lower doses; Priority Review granted, PDUFA Jan 30, 2027</scanner:headline>
+      <scanner:shortName>Pharming Group</scanner:shortName>
+      <scanner:price>10.59</scanner:price>
+      <scanner:subtype>won</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>PHAR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>734920000</scanner:marketCap>
+      <scanner:enterpriseValue>690120000</scanner:enterpriseValue>
+      <scanner:fwdPE>57.86</scanner:fwdPE>
+      <scanner:fwdEvEbitda>16.67</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>2.26</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;FDA accepts sNDA for Joenja® lower doses; Priority Review granted, PDUFA Jan 30, 2027&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced the U.S. FDA accepted its supplemental New Drug Application (sNDA) for lower doses of Joenja® to treat children aged 4+ weighing 13-27 kg with APDS. The application received Priority Review, with a Prescription Drug User Fee Act (PDUFA) target action date of January 30, 2027. This follows a recent approval for children aged 4-11 weighing at least 27 kg.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Pharming Group N.V., a biopharmaceutical company, develops and commercializes protein replacement therapies and precision medicines for the treatment of rare diseases in the United States, Europe, and internationally. The company’s lead product is RUCONEST, a recombinant C1 esterase inhibitor for the treatment of acute attacks in adult and adolescent patients with acute hereditary angioedema (HAE); and Joenja (leniolisib), an oral small molecule PI3K? inhibitor for the treatment of activated pho…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-01-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2027-01-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.59 · Mkt cap $734.9M · EV $690.1M · Fwd P/E 57.9x · Fwd EV/EBITDA 16.7x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1828316/000182831626000041/0001828316-26-000041-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PHAR&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · DT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1773383/000136157026000021/0001361570-26-000021-index.htm</link>
@@ -15365,37 +15398,6 @@
 &lt;p&gt;&lt;i&gt;Px $200.00 · Mkt cap $11.67B · EV $12.43B · Fwd P/E 28.1x · Fwd EV/EBITDA 18.8x · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1944013/000162828026061780/0001628280-26-061780-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CR&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Fabricated Metals (3490) · 8k_tier1:7.01 · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · ONDS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1646188/000121390026099531/ea0304980-8k_ondas.htm</link>
-      <guid isPermaLink="false">0001213900-26-099531</guid>
-      <pubDate>Mon, 14 Sep 2026 09:48:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires Gate &amp; Bron for $105M cash + 10.69M shares + earn-out</scanner:headline>
-      <scanner:shortName>Ondas</scanner:shortName>
-      <scanner:price>7.38</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>ONDS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>4125090000</scanner:marketCap>
-      <scanner:enterpriseValue>2787280000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Gate &amp;amp; Bron for $105M cash + 10.69M shares + earn-out&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Acquired 100% of Gate Technologies and Bron Technologies for $105M cash, 10,689,655 shares, plus $25M working capital adjustment. Up to $22.5M additional within 9 months and up to $185M earn-out in shares over 2 years. The acquisition adds electronic safe &amp;amp; arm and fuzing technology to Ondas&amp;#39; precision-strike platform.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ondas Inc. provides private wireless, drone, and automated data solutions in the United States and internationally. It operates through the Ondas Networks and Ondas Autonomous Systems segments. The company offers Counter-UAS (CUAS) and site protection systems, including iron drone raider, a fully autonomous interceptor drone system for neutralizing small hostile drones; sentrycs CoRF, Cyber/RF-based CUAS platform for detection, identification, tracking, and mitigation of unauthorized drones; opt…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Gate Technologies Ltd. and Bron Technologies sp. z.o.o&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $130M cash + 10.69M shares + up to $22.5M + $185M earn-out&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Earn-out milestones; $22.5M due within 9 months&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.38 · Mkt cap $4.13B · EV $2.79B · Information Technology / Communications Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1646188/000121390026099531/0001213900-26-099531-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ONDS&lt;/b&gt; · 8-K · Items 1.01, 2.01, 3.02, 7.01, 8.01, 9.01 · Electronic Equipment (3663) · 8k_tier1:1.01,2.01,7.01,8.01 · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
