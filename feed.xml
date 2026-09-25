@@ -6,8 +6,44 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 19:46:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 19:46:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · DYNR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1111741/000119312526402740/8-k_-_shareholder_direct.htm</link>
+      <guid isPermaLink="false">0001193125-26-402740</guid>
+      <pubDate>Fri, 25 Sep 2026 14:46:35 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>8-K</category>
+      <scanner:headline>Sets annual meeting for Nov 18; shareholder nomination deadline Oct 5</scanner:headline>
+      <scanner:shortName>DYNARESOURCE</scanner:shortName>
+      <scanner:price>0.8700</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>DYNR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>27100000</scanner:marketCap>
+      <scanner:enterpriseValue>52260000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.90</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.88</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>2.66</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>31.14</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sets annual meeting for Nov 18; shareholder nomination deadline Oct 5&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced its 2026 Annual Meeting of Stockholders will be held on November 18, 2026. Due to the change in meeting date, the deadline for shareholder director nominations and proposals is October 5, 2026, at 5:00 p.m. Eastern time. The record date for voting is October 2, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; DynaResource, Inc., together with its subsidiaries, engages in the acquisition, investment, exploration, development, operation, production, and sale of precious metal properties in Mexico and the United States. The company explores for gold and silver deposits. It holds 100% interest in the San Jose de Gracia project comprising 33 contiguous mining concessions covering an area of approximately 9,920 hectares located in the Culiacan mining district of Sinaloa State, Mexico.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-05&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.8700 · Mkt cap $27.1M · EV $52.3M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1111741/000119312526402740/0001193125-26-402740-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DYNR&lt;/b&gt; · 8-K · Items 5.08 · Metal Mining (1000) · 8k_tier1:5.08 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · CubeBio Holdings</title>
       <link>https://www.sec.gov/Archives/edgar/data/2058261/000182912626010425/cubebioholding_f4a2.htm</link>
@@ -15341,39 +15377,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2024-11-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing of business combination&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1853047/000109690626001362/0001096906-26-001362-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;8-K · Items 5.07, 8.01 · Holding / Investment Offices (6770) · 8k_tier1:8.01 · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · DMAA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028614/000121390026099743/ea0305461-8k425_drugs.htm</link>
-      <guid isPermaLink="false">0001213900-26-099738</guid>
-      <pubDate>Mon, 14 Sep 2026 15:44:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquires Power Analytics Global in $2.85B de-SPAC</scanner:headline>
-      <scanner:shortName>Drugs Made In America Acquisition</scanner:shortName>
-      <scanner:price>10.82</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>DMAA</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K, 425</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>262190000</scanner:marketCap>
-      <scanner:enterpriseValue>262520000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Amends PAGC merger; $2.85B closing valuation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into an amended and restated definitive merger agreement with Power Analytics Global Corp (PAGC), fixing a closing valuation of $2.85B. The transaction will be structured as a domestication to Delaware followed by a merger of a subsidiary with PAGC, with PAGC surviving as a wholly-owned subsidiary. The deal is subject to shareholder approval and other conditions, including PAGC&amp;#39;s acquisition of APQC.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Drugs Made In America Acquisition Corp. does not have significant operations. It intends to effect a merger, share exchange, asset acquisition, share purchase, recapitalization, reorganization, or other similar business combinations with one or more businesses. Drugs Made In America Acquisition Corp. was incorporated in 2024 and is based in New York, New York.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Power Analytics Global Corp&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 2850000000&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.82 · Mkt cap $262.2M · EV $262.5M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2028614/000121390026099738/0001213900-26-099738-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DMAA, DMAAR, DMAAU&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Holding / Investment Offices (6770) · 8k_tier1:1.01 · filed 2026-09-14&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 14 15:44 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2028614/000121390026099743/ea0305461-8k425_drugs.htm'&gt;Acquires Power Analytics Global in $2.85B de-SPAC&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 14 15:35 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2028614/000121390026099738/ea0305461-8k425_drugs.htm'&gt;Amends PAGC merger; $2.85B closing valuation&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
