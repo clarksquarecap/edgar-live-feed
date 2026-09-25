@@ -6,8 +6,16 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 18:11:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:23:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HEDCX 📍 Stake
+Increases stake in Calamos Aksia Hedged Strategies Fund to 39.52%</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2063706/000110465926110920/0001104659-26-110920-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-110920</guid>
+      <pubDate>Fri, 25 Sep 2026 13:23:54 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$CGC ⚔️ Proxy
 AGM adjourned to Oct 23 due to lack of quorum; continues vote solicitation
@@ -688,15 +696,6 @@ Mcap $2.6B · Financials</title>
       <pubDate>Thu, 24 Sep 2026 14:52:42 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$AASP 📍 Stake
-Reports 17.5% stake in Agassi Sports
-Mcap $65M · EV $65M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/930245/000147237526000219/0001472375-26-000219-index.htm</link>
-      <guid isPermaLink="false">0001472375-26-000219</guid>
-      <pubDate>Thu, 24 Sep 2026 13:20:51 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>

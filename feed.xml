@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 18:11:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:23:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · HEDCX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2063706/000110465926110920/0001104659-26-110920-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-110920</guid>
+      <pubDate>Fri, 25 Sep 2026 13:23:54 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases stake in Calamos Aksia Hedged Strategies Fund to 39.52%</scanner:headline>
+      <scanner:shortName>Calamos Aksia Hedged Strategies Fund</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>HEDCX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Increases stake in Calamos Aksia Hedged Strategies Fund to 39.52%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ltd. and Aksia LLC reported increasing their beneficial ownership in Calamos Aksia Hedged Strategies Fund to 39.52% of Class I Shares. The reporting persons acquired an additional 1,189,364.153 shares through multiple purchases between July 24 and September 23, 2026, at prices ranging from $10.46 to $10.51 per share. The aggregate purchase price for the total 2,628,728.927 shares held is approximately $26.29 million.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 39.52%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2063706/000110465926110920/0001104659-26-110920-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HEDCX&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚔️ Proxy Contest · CGC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1737927/000110465926110873/tm2626166d1_defa14a.htm</link>
@@ -15368,37 +15392,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.25 · Mkt cap $11.4M · EV $9.9M · Materials / Containers and Packaging&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1964314/000149315226042574/0001493152-26-042574-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JBDI&lt;/b&gt; · 6-K · Fabricated Metals (3412) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · FHB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/36377/000110465926107495/tm2621888-3_s4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-107495</guid>
-      <pubDate>Mon, 14 Sep 2026 15:13:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4/A</category>
-      <scanner:headline>Acquires TriCo Bancshares for 2.095 FHB shares/share (~$63.12, $2.0B); vote Oct 29</scanner:headline>
-      <scanner:shortName>FIRST HAWAIIAN</scanner:shortName>
-      <scanner:price>25.79</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4/A</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>FHB</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3133880000</scanner:marketCap>
-      <scanner:fwdPE>10.81</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires TriCo Bancshares for 2.095 FHB shares/share (~$63.12, $2.0B); vote Oct 29&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will acquire TriCo Bancshares in a stock-for-stock merger. TriCo shareholders receive 2.095 First Hawaiian shares per TriCo share, valued at approximately $63.12 per share (~$2.0 billion aggregate) based on the July 10, 2026 closing price. First Hawaiian expects to issue ~67.1 million shares; existing FHB holders will own ~65% and former TriCo holders ~35% post-close. Special meetings for both companies are scheduled for October 29, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; First Hawaiian, Inc. operates as a bank holding company for First Hawaiian Bank that provides a range of banking products and services to consumer and commercial customers in the United States. It operates in two segments: Retail Banking and Commercial Banking. The company offers various deposit products, including checking, savings, and time deposit accounts, and other deposit accounts.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; TriCo Bancshares&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms paid for TriCo Bancshares:&lt;/b&gt; 2.095 FHB shares (~$63.12)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $2.0 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; October 29, 2026 special meetings&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $25.79 · Mkt cap $3.13B · Fwd P/E 10.8x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/36377/000110465926107495/0001104659-26-107495-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FHB&lt;/b&gt; · S-4/A · Depository Institutions (6022) · prefill_form:S-4 · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
