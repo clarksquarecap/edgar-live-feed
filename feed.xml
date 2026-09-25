@@ -6,8 +6,40 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 17:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:11:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚔️ Proxy Contest · CGC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1737927/000110465926110873/tm2626166d1_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-110873</guid>
+      <pubDate>Fri, 25 Sep 2026 13:11:21 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+      <category>acquisition</category>
+      <category>DEFA14A</category>
+      <scanner:headline>AGM adjourned to Oct 23 due to lack of quorum; continues vote solicitation</scanner:headline>
+      <scanner:shortName>Canopy Growth</scanner:shortName>
+      <scanner:price>0.9400</scanner:price>
+      <scanner:subtype />
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>CGC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>397980000</scanner:marketCap>
+      <scanner:enterpriseValue>355210000</scanner:enterpriseValue>
+      <scanner:fwdEvEbitda>81.05</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>6.10</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;AGM adjourned to Oct 23 due to lack of quorum; continues vote solicitation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation announced its Annual General and Special Meeting of shareholders, scheduled for September 25, 2026, was convened and then adjourned due to a lack of requisite quorum. The meeting will reconvene on October 23, 2026, at 1:00 p.m. ET, with a new proxy voting deadline of 9:00 a.m. ET on the same day. The company will continue to solicit votes for the proposals outlined in its definitive proxy statement dated August 7, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Canopy Growth Corporation, together with its subsidiaries, engages in the production, distribution, and sale of cannabis and cannabis-related products for medical and adult use in Canada, Germany, the United States, and internationally. The company operates through two segments, Cannabis and Storz &amp;amp; Bickel.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-23&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.9400 · Mkt cap $398.0M · EV $355.2M · Fwd EV/EBITDA 81.0x · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1737927/000110465926110873/0001104659-26-110873-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CGC&lt;/b&gt; · DEFA14A · Chemicals / Pharma (2833) · prefill_form:DEFA14A · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🏛️ Insolvency · Other · MT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1243429/000124342926000084/arcelormittalform6-kseptem.htm</link>
@@ -15367,32 +15399,6 @@
 &lt;p&gt;&lt;i&gt;Px $25.79 · Mkt cap $3.13B · Fwd P/E 10.8x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/36377/000110465926107495/0001104659-26-107495-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FHB&lt;/b&gt; · S-4/A · Depository Institutions (6022) · prefill_form:S-4 · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Preliminary · SNRY</title>
-      <link>https://www.otcmarkets.com/stock/SNRY/news/535010</link>
-      <guid isPermaLink="false">OTC-535010</guid>
-      <pubDate>Mon, 14 Sep 2026 13:57:12 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-      <category>OTC</category>
-      <scanner:headline>Pursues merger with Colorado solar partner under LOI</scanner:headline>
-      <scanner:shortName>Solar Energy Initiatives</scanner:shortName>
-      <scanner:subtype>preliminary</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>SNRY</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Pursues merger with Colorado solar partner under LOI&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is moving toward a potential merger with a Colorado solar technology partner under a letter of intent. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Solar Energy Initiatives, Inc., together with its subsidiaries, provides solar products and solutions in the United States and the Caribbean. It designs, markets, sells, owns, and operates solar power systems for residential, municipal, and commercial customers; and designs, develops, and manages solar parks. The company also distributes solar panels, inverters, and solar thermal systems; and sources solar components.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Colorado solar technology partner&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SNRY&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 17:25:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:11:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CGC ⚔️ Proxy
+AGM adjourned to Oct 23 due to lack of quorum; continues vote solicitation
+Mcap $398M · EV $355M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1737927/000110465926110873/tm2626166d1_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-110873</guid>
+      <pubDate>Fri, 25 Sep 2026 13:11:21 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$MT 🔥 Insolvency
 Unable to restart Kryvyi Rih operations; expects $1B impairment
@@ -688,16 +697,6 @@ Mcap $65M · EV $65M · Comms</title>
       <guid isPermaLink="false">0001472375-26-000219</guid>
       <pubDate>Thu, 24 Sep 2026 13:20:51 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$MGLD 📤 Divestiture
-Sells Printstock unit to TAG Investments for NZ$2.45M cash
-to TAG Investments Limited · NZ$2,450,000 (~US$1,400,000) deal · close 2026-11-20
-Mcap $41M · EV $31M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1005101/000149315226044118/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044118</guid>
-      <pubDate>Thu, 24 Sep 2026 13:07:05 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
