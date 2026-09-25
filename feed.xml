@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 10:48:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:05:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Won · NKTR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/906709/000121390026103215/ea0306370-8k_nektar.htm</link>
+      <guid isPermaLink="false">0001213900-26-103215</guid>
+      <pubDate>Fri, 25 Sep 2026 06:05:23 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+      <category>8-K</category>
+      <scanner:headline>Won $90M jury verdict vs Eli Lilly for contract breach</scanner:headline>
+      <scanner:shortName>NEKTAR THERAPEUTICS</scanner:shortName>
+      <scanner:price>59.38</scanner:price>
+      <scanner:subtype>won</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>NKTR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1968690000</scanner:marketCap>
+      <scanner:enterpriseValue>1420280000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>27.09</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>27.09</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>26.02</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Won $90M jury verdict vs Eli Lilly for contract breach&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced a jury verdict finding Eli Lilly and Company breached the implied covenant of good faith and fair dealing in their License Agreement. The jury awarded Nektar $90 million in damages plus interest. The verdict is subject to post-trial proceedings and potential appeal.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nektar Therapeutics, a biopharmaceutical company, focuses on discovering and developing medicines in the field of immunotherapy in the United States and internationally. It develops rezpegaldesleukin, which is in Phase 2b to treat underlying immune system imbalance in people with autoimmune disorders and inflammatory diseases; NKTR-0165 to treat ulcerative colitis, vitiligo, and multiple sclerosis; NKTR-0166 to treat autoimmune disease; NKTR-422 to treat fibrotic diseases; and NKTR-255 to treat …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Eli Lilly and Company&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 90000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; post-trial proceedings and appeal&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $59.38 · Mkt cap $1.97B · EV $1.42B · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/906709/000121390026103215/0001213900-26-103215-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NKTR&lt;/b&gt; · 8-K · Items 8.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Buyback Authorization · BILI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1723690/000119312526401540/d172127d6k.htm</link>
@@ -15312,37 +15349,6 @@
 &lt;p&gt;&lt;i&gt;Px $99.09 · Mkt cap $4.31B · Fwd P/E 12.9x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1077428/000107742826000061/0001077428-26-000061-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TCBI, TCBIO&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Depository Institutions (6022) · 8k_tier1:3.01,7.01 · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · LGO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1400438/000106299326004904/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-004904</guid>
-      <pubDate>Mon, 14 Sep 2026 06:38:26 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Debt-restructuring deal with Caixa; extends $6M note to 2028</scanner:headline>
-      <scanner:shortName>Largo</scanner:shortName>
-      <scanner:price>0.6800</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>LGO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>69180000</scanner:marketCap>
-      <scanner:enterpriseValue>188090000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Debt-restructuring deal with Caixa; extends $6M note to 2028&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Executed a definitive debt-restructuring agreement with Caixa Econômica Federal on Sept 11, 2026, part of a broader restructuring with Brazilian banks. Also extended its US$6.0M promissory note with ARG to Feb 2028. Company is implementing cost initiatives and expects 2026 vanadium production toward lower end of guidance.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Largo Inc., together with its subsidiaries, produces, supplies, and sells vanadium and ilmenite products in Canada and internationally. It operates through six segments: Sales and Trading; Mine Properties; Corporate; Exploration and Evaluation Properties; Clean Energy; and Largo Physical Vanadium. The company offers vanadium pentoxide flakes and powder, vanadium trioxide powder, and ferrovanadium, as well as ilmenite concentrate; and vanadium flow battery electrolyte and technology.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Caixa Econômica Federal&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.6800 · Mkt cap $69.2M · EV $188.1M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1400438/000106299326004904/0001062993-26-004904-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LGO&lt;/b&gt; · 6-K · Mining; Nonmetallic (1400) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
