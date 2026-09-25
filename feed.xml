@@ -6,25 +6,25 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 11:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:37:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
       <title>🤝 Merger · Definitive · BACC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2059654/000118518526004322/bacc8k425092426.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/2059654/000118518526004321/bacc8k425092426.htm</link>
       <guid isPermaLink="false">0001185185-26-004322</guid>
-      <pubDate>Fri, 25 Sep 2026 06:36:44 -0500</pubDate>
+      <pubDate>Fri, 25 Sep 2026 06:37:44 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquires Blockfusion USA in definitive business combination; shareholder vote pending</scanner:headline>
+      <category>8-K</category>
+      <scanner:headline>Progresses Blockfusion business combination; shareholder vote pending</scanner:headline>
       <scanner:shortName>Blue Acquisition Corp/Cayman</scanner:shortName>
       <scanner:price>10.50</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
+      <scanner:form>8-K</scanner:form>
       <scanner:sector>Financials</scanner:sector>
       <scanner:ticker>BACC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425, 8-K</scanner:filingForms>
       <scanner:related />
       <scanner:marketCap>293600000</scanner:marketCap>
       <scanner:enterpriseValue>293400000</scanner:enterpriseValue>
@@ -37,7 +37,72 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-11-19&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; shareholder vote&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $10.50 · Mkt cap $293.6M · EV $293.4M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004322/0001185185-26-004322-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BACC, BACCR, BACCU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-25&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BACC, BACCR, BACCU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-25&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 25 06:37 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004321/bacc8k425092426.htm'&gt;Progresses Blockfusion business combination; shareholder vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 25 06:36 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004322/bacc8k425092426.htm'&gt;Acquires Blockfusion USA in definitive business combination; shareholder vote pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>📤 Divestiture · HBNB</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2054507/000121390026103218/ea0306663-6k_hotel101.htm</link>
+      <guid isPermaLink="false">0001213900-26-103218</guid>
+      <pubDate>Fri, 25 Sep 2026 06:37:33 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Sells 780 Hotel101 units to consortium for ~$205M; includes Niseko, Madrid</scanner:headline>
+      <scanner:shortName>Hotel101 Global</scanner:shortName>
+      <scanner:price>4.72</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Real Estate</scanner:sector>
+      <scanner:ticker>HBNB</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1104660000</scanner:marketCap>
+      <scanner:enterpriseValue>1200580000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>15.82</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>37.00</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>37.45</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>42.77</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells 780 Hotel101 units to consortium for ~$205M; includes Niseko, Madrid&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced its subsidiaries entered agreements to sell 780 Hotel101 units to DD Hotel101 Worldwide One Pte. Ltd., a third-party investment consortium, for an expected total contract price of approximately US$205 million. The units include 280 at Hotel101-Niseko (Japan) and 200 at Hotel101-Madrid (Spain). An additional 300 units at Hotel101-Libis (Philippines) were acquired from an affiliate for $33 million. The transaction was reviewed and approved by the Company’s Audit Committee and Board of Directors.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Hotel101 Global Holdings Corp. operates prop-tech hospitality platform internationally. It is involved in the pre-sales of units from each hotel’s construction phase; and long-term recurring revenue derived from day-to-day hotel operations. The company is based in Singapore, Singapore. Hotel101 Global Holdings Corp. operates as a subsidiary of DoubleDragon Corporation.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; DD Hotel101 Worldwide One Pte. Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 205000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $4.72 · Mkt cap $1.10B · EV $1.20B · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2054507/000121390026103218/0001213900-26-103218-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HBNB&lt;/b&gt; · 6-K · Hotels / Lodging (7011) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🎯 Tender · CDLR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1978867/000197886726000117/a6-kxcadelerxkrollindepend.htm</link>
+      <guid isPermaLink="false">0001104659-26-109516</guid>
+      <pubDate>Fri, 25 Sep 2026 06:37:21 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>tender_offer</category>
+      <category>6-K</category>
+      <scanner:headline>Receives voluntary offer from Cadeler plc to exchange each share for 1 Cadeler plc share</scanner:headline>
+      <scanner:shortName>Cadeler</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>CDLR</scanner:ticker>
+      <scanner:filings>3</scanner:filings>
+      <scanner:filingForms>SC TO-T, SC 14D9, 6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Tendered for by Cadeler plc in 1-for-1 share exchange&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a tender offer from Cadeler plc (NewCo) to exchange each Cadeler share for one NewCo share, as part of a redomiciliation from Denmark to the UK. The offer expires on October 21, 2026. Each Cadeler ADS (representing 4 shares) will receive 4 NewCo shares. The offer is conditioned on &amp;gt;90% tender, with a possible squeeze-out for non-tendering shareholders.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Offer expiration Oct 21, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000110465926109516/0001104659-26-109516-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CDLR&lt;/b&gt; · SC TO-T · Water Transportation (4412) · prefill_form:SC TO-T · filed 2026-09-22&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Sep 25 06:37 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000197886726000117/a6-kxcadelerxkrollindepend.htm'&gt;Receives voluntary offer from Cadeler plc to exchange each share for 1 Cadeler plc share&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC 14D9 · Sep 22 11:14 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000110465926109532/tm2625350-2_sc14d9.htm'&gt;Receives 1-for-1 share exchange offer from NewCo; expires Oct 21&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-T · Sep 22 09:59 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000110465926109516/tm2625350-1_sctot.htm'&gt;Tendered for by Cadeler plc in 1-for-1 share exchange&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>💧 Capital Return · Self Tender · ACDVF</title>
@@ -4133,32 +4198,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HVII, HVIIR, HVIIU&lt;/b&gt; · 425 · Utilities (4911) · prefill_form:425 · filed 2026-09-22&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 22 11:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1846416/000149315226043680/form8-k.htm'&gt;Signs forward purchase agreement with New Circle Capital for up to 5M shares at ~$10.60&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 22 11:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1846416/000149315226043683/form425.htm'&gt;Acquires ONE Nuclear in business combination; redemption ~$10.60/share&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🎯 Tender · CDLR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1978867/000110465926109532/tm2625350-2_sc14d9.htm</link>
-      <guid isPermaLink="false">0001104659-26-109516</guid>
-      <pubDate>Tue, 22 Sep 2026 11:14:19 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>tender_offer</category>
-      <category>SC 14D9</category>
-      <scanner:headline>Receives 1-for-1 share exchange offer from NewCo; expires Oct 21</scanner:headline>
-      <scanner:shortName>Cadeler</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>SC 14D9</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>CDLR</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>SC TO-T, SC 14D9</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Tendered for by Cadeler plc in 1-for-1 share exchange&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a tender offer from Cadeler plc (NewCo) to exchange each Cadeler share for one NewCo share, as part of a redomiciliation from Denmark to the UK. The offer expires on October 21, 2026. Each Cadeler ADS (representing 4 shares) will receive 4 NewCo shares. The offer is conditioned on &amp;gt;90% tender, with a possible squeeze-out for non-tendering shareholders.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Offer expiration Oct 21, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000110465926109516/0001104659-26-109516-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CDLR&lt;/b&gt; · SC TO-T · Water Transportation (4412) · prefill_form:SC TO-T · filed 2026-09-22&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SC 14D9 · Sep 22 11:14 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000110465926109532/tm2625350-2_sc14d9.htm'&gt;Receives 1-for-1 share exchange offer from NewCo; expires Oct 21&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-T · Sep 22 09:59 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000110465926109516/tm2625350-1_sctot.htm'&gt;Tendered for by Cadeler plc in 1-for-1 share exchange&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🧭 Domicile · CDLR</title>
@@ -15318,38 +15357,6 @@
 &lt;p&gt;&lt;i&gt;Px $33.02 · Mkt cap $2.07B · EV $1.45B · Fwd P/E 10.4x · Fwd EV/EBITDA 5.5x · Consumer Discretionary / Diversified Consumer Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1046568/000119312526389857/0001193125-26-389857-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PRDO&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Education (8200) · 8k_tier1:1.01,7.01 · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · THRY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1556739/000155673926000042/thryv-20260912.htm</link>
-      <guid isPermaLink="false">0001556739-26-000042</guid>
-      <pubDate>Mon, 14 Sep 2026 07:07:40 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Sells print directories business to Carolwood for $142M cash</scanner:headline>
-      <scanner:shortName>Thryv Holdings</scanner:shortName>
-      <scanner:price>1.79</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>THRY</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>79550000</scanner:marketCap>
-      <scanner:enterpriseValue>316460000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>4.87</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells print directories business to Carolwood for $142M cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Agreed to sell its print directories business (Yellow/White Pages in US, Australia, NZ, plus digital editions) to Carolwood L.P. for $142M cash. Proceeds will repay debt and strengthen the balance sheet. Transaction expected to close in Q4 2026, subject to customary conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Thryv Holdings, Inc. provides digital marketing solutions and cloud-based tools to the small-to-medium-sized businesses in the United States. It operates in two segments, Thryv Marketing Services and Thryv SaaS. The company provides print yellow pages, internet yellow pages, search engine marketing, and other digital media solutions, such as online display and social advertising, online presence and video, and search engine optimization tools.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Carolwood L.P.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $142,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing expected Q4 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.79 · Mkt cap $79.5M · EV $316.5M · Fwd EV/EBITDA 4.9x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1556739/000155673926000042/0001556739-26-000042-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;THRY&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Business Services (7310) · 8k_tier1:1.01 · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
