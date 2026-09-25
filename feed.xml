@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:41:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:42:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · IBG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1924482/000173112226001286/e7963_6-k.htm</link>
+      <guid isPermaLink="false">0001731122-26-001286</guid>
+      <pubDate>Fri, 25 Sep 2026 15:42:45 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Reports negative equity, Nasdaq non-compliance; 45 days to submit compliance plan</scanner:headline>
+      <scanner:shortName>Innovation Beverage</scanner:shortName>
+      <scanner:price>0.9400</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>IBG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1750000</scanner:marketCap>
+      <scanner:enterpriseValue>2280000</scanner:enterpriseValue>
+      <scanner:fwdEvGrossProfit>1.01</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Reports negative equity, Nasdaq non-compliance; 45 days to submit compliance plan&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Nasdaq notice for non-compliance with the minimum stockholders&amp;#39; equity requirement, reporting ($1,469,914) in stockholders&amp;#39; equity as of December 31, 2025. The company has until November 6, 2026, to submit a plan to regain compliance, which may grant an extension of up to 180 days.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Innovation Beverage Group Limited, together with its subsidiaries, engages in developing, manufacturing, selling, and exporting alcoholic beverages in Australia and the United States. The company offers bitters under the Australian Bitters Company and BitterTales brands; bottled cocktails under the Twisted Shaker brand; light spirits; and mixers.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-11-06&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.9400 · Mkt cap $1.8M · EV $2.3M · Consumer Staples / Beverages&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1924482/000173112226001286/0001731122-26-001286-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IBG&lt;/b&gt; · 6-K · Food &amp;amp; Kindred (2080) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · AIRE</title>
       <link>https://www.sec.gov/Archives/edgar/data/1859199/000121390026103543/ea0305215-02.htm</link>
@@ -15402,37 +15433,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.02 · Mkt cap $12.32B · EV $8.26B · Fwd P/E 26.7x · Fwd EV/EBITDA 12.0x · Industrials / Ground Transportation&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1855612/000185561226000135/0001855612-26-000135-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GRAB, GRABW&lt;/b&gt; · 6-K · Business Services (7389) · prefill_form:6-K · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · OMEX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/798528/000119312526391074/d104064ds4a.htm</link>
-      <guid isPermaLink="false">0001193125-26-391074</guid>
-      <pubDate>Tue, 15 Sep 2026 05:21:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4/A</category>
-      <scanner:headline>Reverse-merged into AOM; OMEX holders retain 6.6%; renamed AOMC</scanner:headline>
-      <scanner:shortName>ODYSSEY MARINE EXPLORATION</scanner:shortName>
-      <scanner:price>0.7100</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4/A</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>OMEX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>43730000</scanner:marketCap>
-      <scanner:enterpriseValue>13130000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Reverse-merged into AOM; OMEX holders retain 6.6%; renamed AOMC&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is being reverse-merged into American Ocean Minerals Corporation (AOM) in a stock-for-stock deal. Each AOM share converts to 4.5017 Odyssey shares (0.1801 post 1-for-25 reverse split); existing Odyssey stockholders retain ~6.6% of the combined company, renamed &amp;#39;American Ocean Minerals Corporation&amp;#39; and trading on Nasdaq as AOMC. AOM&amp;#39;s board and management take control. ~$75.6M bridge + ~$156.4M PIPE fund the combined company. Special meeting vote pending.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Odyssey Marine Exploration, Inc., together with its subsidiaries, discovers, validates, and develops seafloor mineral resources including polymetallic nodules for battery metals and subsea phosphate deposits for fertilizers. The company offers comprehensive research, marine operations, environmental stewardship, and regulatory compliance support and explores for phosphate and gold deposits.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; American Ocean Minerals Corporation (AOM)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 4.5017 OMEX shares per AOM share (0.1801 post-split)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-08&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Odyssey Special Meeting (date TBD)&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.7100 · Mkt cap $43.7M · EV $13.1M · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/798528/000119312526391074/0001193125-26-391074-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OMEX&lt;/b&gt; · S-4/A · Water Transportation (4400) · prefill_form:S-4 · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
