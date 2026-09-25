@@ -6,8 +6,40 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 13:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:08:56 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🏛️ Insolvency · Other · BAK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426004695/bak20260925_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004695</guid>
+      <pubDate>Fri, 25 Sep 2026 08:08:46 -0500</pubDate>
+      <category>INSOLVENCY</category>
+      <category>other</category>
+      <category>6-K</category>
+      <scanner:headline>Court issues decision in extrajudicial reorganization proceeding</scanner:headline>
+      <scanner:shortName>BRASKEM SA</scanner:shortName>
+      <scanner:price>1.52</scanner:price>
+      <scanner:subtype>other</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>BAK</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>590760000</scanner:marketCap>
+      <scanner:enterpriseValue>12506780000</scanner:enterpriseValue>
+      <scanner:fwdEvEbitda>7.96</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>7.99</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Court issues decision in extrajudicial reorganization proceeding&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Braskem S.A. was informed of a decision issued by the 2nd Bankruptcy and Judicial Reorganization Court of São Paulo in its extrajudicial reorganization proceeding. The Company and certain subsidiaries are the debtors in this proceeding. Braskem is currently assessing the consequences and next steps.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Braskem S.A., together with its subsidiaries, engages in the manufacture, sale, import, and export of chemicals, petrochemicals, and fuels in Brazil. The company supplies electricity and other inputs to second-generation producers; sells utilities, such as steam, water, compressed air and industrial gases; industrial services; and engages in the production, supply, and sale of electric energy and gas.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.52 · Mkt cap $590.8M · EV $12.51B · Fwd EV/EBITDA 8.0x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1071438/000129281426004695/0001292814-26-004695-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BAK&lt;/b&gt; · 6-K · Chemicals / Pharma (2860) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Voluntary · ZSPC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1637147/000110465926110659/tm2626026d1_25.htm</link>
@@ -15351,39 +15383,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Fanatics/Topps&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MDCE&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · MAKO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1784930/000106299326004908/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-004908</guid>
-      <pubDate>Mon, 14 Sep 2026 08:42:26 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Sells gold stream to Sailfish for 70M shares (~49% stake)</scanner:headline>
-      <scanner:shortName>Mako Mining</scanner:shortName>
-      <scanner:price>9.82</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>MAKO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>881440000</scanner:marketCap>
-      <scanner:enterpriseValue>807610000</scanner:enterpriseValue>
-      <scanner:fwdPE>13.17</scanner:fwdPE>
-      <scanner:fwdEvEbitda>6.86</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells gold stream to Sailfish for 70M shares (~49% stake)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a non-binding LOI to sell a long-term gold stream to Sailfish Royalty Corp. Sailfish will issue 70M common shares (at $5.76/share, ~$403M) to Mako, giving Mako ~49% of Sailfish. The stream requires Mako to deliver 650-1,000 oz/month for 240 months at 25% of LBMA PM fix. Transaction aims to lower cost of capital and facilitate shareholder returns and accretive acquisitions; subject to definitive agreement and approvals.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Mako Mining Corp. engages in mineral exploration and exploitation activities in Nicaragua, the United States, and Guyana. The company explores for gold and silver deposits. Its primary asset is its 100%-owned San Albino mine comprising the San Albino and the Las Conchitas gold deposits, which consist of five mineral concessions covering an area of approximately 22,422 hectares located within the San Albino-Murra Property in Nueva Segovia, Nicaragua.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Sailfish Royalty Corp.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 403,200,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 49%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Execution of definitive gold purchase agreement&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $9.82 · Mkt cap $881.4M · EV $807.6M · Fwd P/E 13.2x · Fwd EV/EBITDA 6.9x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1784930/000106299326004908/0001062993-26-004908-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MAKO&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
