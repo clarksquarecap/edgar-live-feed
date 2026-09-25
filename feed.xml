@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 21:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:28:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · SBXD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2015947/000110465926111044/tm2626181d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111044</guid>
+      <pubDate>Fri, 25 Sep 2026 16:27:56 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>8-K</category>
+      <scanner:headline>Forced NYSE delisting; trading suspended, moving to OTC Sept 28</scanner:headline>
+      <scanner:shortName>SilverBox Corp IV</scanner:shortName>
+      <scanner:price>11.39</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>SBXD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>71290000</scanner:marketCap>
+      <scanner:enterpriseValue>71790000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Forced NYSE delisting; trading suspended, moving to OTC Sept 28&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received notice from NYSE Regulation of a forced delisting due to failing to maintain the $40M average market capitalization standard. Trading in its units, Class A ordinary shares, and warrants on the NYSE has been suspended as of September 25, 2026. Effective September 28, 2026, the securities may be quoted and traded on the over-the-counter market.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SilverBox Corp IV does not have significant operations. It intends to effect a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company focus for the target business in the field of consumer, food and agriculture, e-commerce, internet and retail, financial services and technology, media, entertainment, hospitality, business services, software, SaaS, telecommunications services and technology,…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $11.39 · Mkt cap $71.3M · EV $71.8M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2015947/000110465926111044/0001104659-26-111044-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SBXD, SBXD-UN, SBXD-WT&lt;/b&gt; · 8-K · Items 3.01 · Holding / Investment Offices (6770) · 8k_tier1:3.01 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📈 Rights · KLXE</title>
       <link>https://www.sec.gov/Archives/edgar/data/1738827/000119312526402987/d149973d8k.htm</link>
@@ -15536,32 +15566,6 @@
 &lt;p&gt;&lt;i&gt;Px $4.25 · Mkt cap $1.27B · EV $3.53B · Fwd EV/EBITDA 8.0x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1715497/000114036126036608/0001140361-26-036608-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BORR&lt;/b&gt; · 6-K · Oil &amp;amp; Gas (1381) · prefill_form:6-K · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · RINTX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/351601/000119312526391565/d77484ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-390256</guid>
-      <pubDate>Tue, 15 Sep 2026 10:59:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Acquired by B Capital/CalPERS consortium; shareholder vote Nov 24</scanner:headline>
-      <scanner:shortName>RUSSELL INVESTMENT CO</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>RINTX</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>DEFA14A x2</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Solicits votes for B Capital consortium acquisition; meeting Nov 24&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Company is soliciting shareholder votes for the special meeting on November 24, 2026, regarding the acquisition of Russell Investments by a consortium led by B Capital Group Management, L.P. and including CalPERS. The transaction was announced on July 2, 2026, and is expected to close by end of Q1 2027, subject to regulatory approvals.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; B Capital Group Management, L.P. consortium (incl. CalPERS)&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q1 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting Nov 24, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/351601/000119312526390256/0001193125-26-390256-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RINTX&lt;/b&gt; · DEFA14A · prefill_form:DEFA14A · filed 2026-09-14&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Sep 15 10:59 · &lt;a href='https://www.sec.gov/Archives/edgar/data/351601/000119312526391565/d77484ddefa14a.htm'&gt;Acquired by B Capital/CalPERS consortium; shareholder vote Nov 24&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 14 13:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/351601/000119312526390256/d161590ddefa14a.htm'&gt;Solicits votes for B Capital consortium acquisition; meeting Nov 24&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
