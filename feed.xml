@@ -6,8 +6,44 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 19:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 19:27:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · CRTD</title>
+      <link>https://www.otcmarkets.com/stock/CRTD/news/536454</link>
+      <guid isPermaLink="false">OTC-536454</guid>
+      <pubDate>Fri, 25 Sep 2026 14:27:37 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>OTC</category>
+      <scanner:headline>Approved premium tender offer for Vocal, Inc. crowdfunding shares</scanner:headline>
+      <scanner:shortName>Creatd</scanner:shortName>
+      <scanner:price>3.91</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>CRTD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>OTC</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>12990000</scanner:marketCap>
+      <scanner:enterpriseValue>13180000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>11.29</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>13.15</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>11.40</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>85.86</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Approved premium tender offer for Vocal, Inc. crowdfunding shares&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced the approval of a premium tender offer to acquire Regulation Crowdfunding shares of Vocal, Inc. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Creatd, Inc., a technology company, provides economic opportunities for creators in the United States. It operates through two segments Vocal and OG Collection. The company offers digital publishing platform that organized into niche-communities for hosting various rich media content. It also provides studio/agency Service, such as digital marketing and e-commerce solutions to business-to-business and business-to-consumer product and service brands; sells books and archival materials.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Vocal, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.91 · Mkt cap $13.0M · EV $13.2M · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CRTD&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧬 Spin-Off · G-Private Equity</title>
       <link>https://www.sec.gov/Archives/edgar/data/2060316/000119312526402689/d293378d1012ga.htm</link>
@@ -15347,36 +15383,6 @@
 &lt;p&gt;&lt;i&gt;Px $83.54 · Mkt cap $39.87B · EV $53.13B · Fwd P/E 16.4x · Fwd EV/EBITDA 11.1x · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/96021/000110465926107510/0001104659-26-107510-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SYY&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Wholesale; Nondurable (5140) · 8k_tier1:8.01 · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · QNCX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1662774/000119312526390652/qncx-20260908.htm</link>
-      <guid isPermaLink="false">0001193125-26-390652</guid>
-      <pubDate>Mon, 14 Sep 2026 15:36:25 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Sells AIDE assets to Ayma for $450K cash</scanner:headline>
-      <scanner:shortName>Quince Therapeutics</scanner:shortName>
-      <scanner:price>28.50</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>QNCX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>30050000</scanner:marketCap>
-      <scanner:enterpriseValue>57880000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells AIDE assets to Ayma for $450K cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Completed the sale of its Quince SpA subsidiary, AIDE IP, and eDSP systems to Ayma Therapeutics for $450,000 cash. The sale includes all equity of Quince SpA, IP assets, and machines. The company also disclosed the departure of President Charles Ryan with a severance package.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Quince Therapeutics, Inc., a biotechnology company, focuses on acquiring, developing, and commercializing therapeutics for patients with debilitating and rare diseases. The company’s lead asset candidature comprises eDSP, which is in Phase 3, for the treatment of rare pediatric neurodegenerative disease, including A-T, an inherited autosomal recessive neurodegenerative and immunodeficiency disorder caused by mutations in ATM gene.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ayma Therapeutics, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $450,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $28.50 · Mkt cap $30.1M · EV $57.9M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1662774/000119312526390652/0001193125-26-390652-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QNCX&lt;/b&gt; · 8-K · Items 2.01, 5.02, 9.01 · Chemicals / Pharma (2836) · 8k_tier1:2.01 · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
