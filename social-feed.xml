@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:31:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:33:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NXTC 🤝 Merger · Preliminary
+Seeks court validation of reverse split for proposed Avere merger; hearing Nov 6
+Avere Therapeutics · empty
+Mcap $24M · EV $9M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1661059/000110465926110971/nxtc-20260921x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-110975</guid>
+      <pubDate>Fri, 25 Sep 2026 15:32:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$SYY 🤝 Merger
 Secures C$1.5B debt financing for pending acquisition of JRD Unico &amp; Warehouse Realty
@@ -105,17 +116,6 @@ Mcap $2.0B · EV $3.0B · Cons Disc</title>
       <pubDate>Fri, 25 Sep 2026 15:26:03 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NXTC 🤝 Merger · Preliminary
-Seeks court validation of reverse split for proposed Avere merger
-Avere Therapeutics
-Mcap $24M · EV $9M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1661059/000110465926110975/nxtc-20260915x425.htm</link>
-      <guid isPermaLink="false">0001104659-26-110975</guid>
-      <pubDate>Fri, 25 Sep 2026 15:25:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
     <item>
       <title>$MDT 🪓 Split-off
@@ -775,27 +775,6 @@ Mcap $4M · Healthcare</title>
       <guid isPermaLink="false">0001079973-26-001274</guid>
       <pubDate>Thu, 24 Sep 2026 15:34:11 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$LEA 💧 Capital Return · Buyback
-Increases buyback authorization to $1.5B (~26% of cap); extended to 2029
-Mcap $6.0B · EV $8.6B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/842162/000084216226000080/lear-20260924.htm</link>
-      <guid isPermaLink="false">0000842162-26-000080</guid>
-      <pubDate>Thu, 24 Sep 2026 15:32:38 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$BRVO 🤝 Merger
-Acquired by MWP via $3.16M preferred issuance; 77% control
-MWP Entertainment Group · 3161000 deal · cash+stk
-Mcap $1M · EV $2M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1444839/000109181826000148/brvo-092426_8k.htm</link>
-      <guid isPermaLink="false">0001091818-26-000148</guid>
-      <pubDate>Thu, 24 Sep 2026 15:32:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
