@@ -6,8 +6,35 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 20:54:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 20:57:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MSTR 🪙 Debt Restr.
+Seeks vote on preferred stock term changes at Special Meeting
+Mcap $62B · EV $81B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526402937/mstr-20260925.htm</link>
+      <guid isPermaLink="false">0001193125-26-402937</guid>
+      <pubDate>Fri, 25 Sep 2026 15:56:55 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$TRMD 📍 Stake
+Increases TORM plc stake to 19.85% via $202.9M secondary offerings
+Mcap $3.6B · EV $4.3B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1655891/000114036126037709/0001140361-26-037709-index.htm</link>
+      <guid isPermaLink="false">0001140361-26-037709</guid>
+      <pubDate>Fri, 25 Sep 2026 15:48:33 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$VEON 📍 Stake
+Letterone Investment Holdings reports 45.46% stake in VEON
+Mcap $5.0B · EV $8.6B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468091/000119312526402899/0001193125-26-402899-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-402899</guid>
+      <pubDate>Fri, 25 Sep 2026 15:48:29 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$MARA 📤 Divestiture
 Amends acquisition terms, allowing contingent sale of Project Company
@@ -823,35 +850,6 @@ Mcap $11M · EV $24M · Healthcare</title>
       <pubDate>Thu, 24 Sep 2026 16:07:03 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$WTTR 🤝 Merger
-Acquires Pilot Water Solutions for $600M cash + $100M stock + $15M contingent
-$715M (incl. $15M contingent) deal · cash+stk · close Q4 2026
-Mcap $2.5B · EV $2.8B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1693256/000110465926110440/tm2625939d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-110440</guid>
-      <pubDate>Thu, 24 Sep 2026 15:55:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CRCW 🪙 Debt Restr.
-Issues 234M shares to extend notes to Aug 2027
-Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1688126/000149315226044159/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044159</guid>
-      <pubDate>Thu, 24 Sep 2026 15:55:33 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$WALD 🌑 Going Dark
-Voluntary delisting from Nasdaq; last trade Oct 2
-Mcap $121M · EV $277M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840199/000134100426000047/form6-k.htm</link>
-      <guid isPermaLink="false">0001341004-26-000047</guid>
-      <pubDate>Thu, 24 Sep 2026 15:55:05 -0500</pubDate>
-      <category>GOING_DARK</category>
     </item>
   </channel>
 </rss>
