@@ -6,8 +6,41 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 17:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:25:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🏛️ Insolvency · Other · MT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1243429/000124342926000084/arcelormittalform6-kseptem.htm</link>
+      <guid isPermaLink="false">0001243429-26-000084</guid>
+      <pubDate>Fri, 25 Sep 2026 12:24:53 -0500</pubDate>
+      <category>INSOLVENCY</category>
+      <category>other</category>
+      <category>6-K</category>
+      <scanner:headline>Unable to restart Kryvyi Rih operations; expects $1B impairment</scanner:headline>
+      <scanner:shortName>ArcelorMittal</scanner:shortName>
+      <scanner:price>70.71</scanner:price>
+      <scanner:subtype>other</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>MT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>53192160000</scanner:marketCap>
+      <scanner:enterpriseValue>64720740000</scanner:enterpriseValue>
+      <scanner:fwdPE>11.50</scanner:fwdPE>
+      <scanner:fwdEvEbitda>6.83</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>11.69</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Unable to restart Kryvyi Rih operations; expects $1B impairment&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced it is unable to safely and sustainably restart operations at its Ukrainian subsidiary, ArcelorMittal Kryvyi Rih, following multiple recent missile strikes. The company expects to record a non-cash impairment charge of approximately US$1 billion, principally reflecting damage to property, plant, and equipment. Discussions are ongoing with the Government of Ukraine to preserve infrastructure for future restart options.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ArcelorMittal S.A., together with its subsidiaries, operates as integrated steel and mining companies in the Americas, Europe, Asia, and Africa. It offers semi-finished flat products, including slabs; finished flat products comprising plates, hot- and cold-rolled coils and sheets, hot-dipped and electro-galvanized coils and sheets, tinplate, and color coated coils and sheets; semi-finished long products, such as blooms and billets; finished long products consisting of bars, wire-rods, structural…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $70.71 · Mkt cap $53.19B · EV $64.72B · Fwd P/E 11.5x · Fwd EV/EBITDA 6.8x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1243429/000124342926000084/0001243429-26-000084-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MT, AMSYF, ARCXF&lt;/b&gt; · 6-K · Primary Metals (3312) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧬 Spin-Off · MSGR</title>
       <link>https://www.sec.gov/Archives/edgar/data/2132873/000119312526402509/d127770d1012ba.htm</link>
@@ -15360,40 +15393,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Colorado solar technology partner&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SNRY&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Unsolicited · ACB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1683541/000127956926000881/aurora_6k.htm</link>
-      <guid isPermaLink="false">0001756770-26-000091</guid>
-      <pubDate>Mon, 14 Sep 2026 13:31:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-      <category>6-K</category>
-      <scanner:headline>Rejects Curaleaf hostile bid; board urges no tender</scanner:headline>
-      <scanner:shortName>AURORA CANNABIS</scanner:shortName>
-      <scanner:price>3.83</scanner:price>
-      <scanner:subtype>unsolicited</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>ACB</scanner:ticker>
-      <scanner:filings>4</scanner:filings>
-      <scanner:filingForms>425, 8-K x2, 6-K</scanner:filingForms>
-      <scanner:related>CURLF</scanner:related>
-      <scanner:marketCap>241860000</scanner:marketCap>
-      <scanner:enterpriseValue>186080000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>10.96</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Rejects Curaleaf hostile bid; board urges no tender&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Responded to Curaleaf&amp;#39;s application to halt its ATM program, reiterating that the hostile bid undervalues the company. The board unanimously recommends shareholders reject the bid and not tender, and urges those who have tendered to withdraw. Aurora also filed a complaint with the Alberta Securities Commission about deficiencies in Curaleaf&amp;#39;s bid.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Aurora Cannabis Inc., together with its subsidiaries, engages in the production, distribution, and sale of cannabis products in Canada and internationally. The company offers pharmaceutical-grade cannabis products; and medical and consumer cannabis products. It also provides harvested cannabis, trim, cannabis oils, capsules, edibles, vaporizers, dried and fresh cannabis, cannabis plants, cannabis seeds, edible cannabis, cannabis extracts, flowers, vapes / inhalable extracts, edibles / pastilles,…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Curaleaf Holdings, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.83 · Mkt cap $241.9M · EV $186.1M · Fwd EV/EBITDA 11.0x · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1683541/000127956926000881/0001279569-26-000881-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACB&lt;/b&gt; · 6-K · Chemicals / Pharma (2833) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Sep 14 13:31 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1683541/000127956926000881/aurora_6k.htm'&gt;Rejects Curaleaf hostile bid; board urges no tender&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 08 16:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000095/curlf-20260908.htm'&gt;Proposes Aurora acquisition; 45% premium, US$5.00 cap&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 02 12:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000090/curlf-20260902.htm'&gt;Responds to Aurora circular; reaffirms hostile bid with 45% premium&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 02 12:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000091/ax9226curaleafrespondstoau.htm'&gt;Reaffirms hostile stock offer for Aurora; 45% premium, $5 cap&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty CURLF also filed 425, 8-K x2&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
