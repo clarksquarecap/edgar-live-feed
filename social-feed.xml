@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 21:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:08:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BZFD 📦 Going Private
@@ -111,6 +111,17 @@ Mcap $62B · EV $81B · Tech</title>
       <guid isPermaLink="false">0001193125-26-402937</guid>
       <pubDate>Fri, 25 Sep 2026 15:56:55 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$PULM 🤝 Merger
+Acquires Eos SENOLYTIX; to issue 75.2M shares; Eos holders to own 94%; vote Oct 16
+100.0M deal · stock · close Q4 2026
+Mcap $6M · EV $5M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574235/000149315226044341/formdefm14a.htm</link>
+      <guid isPermaLink="false">0001493152-26-043145</guid>
+      <pubDate>Fri, 25 Sep 2026 15:56:24 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
     </item>
     <item>
       <title>$TRMD 📍 Stake
@@ -904,28 +915,6 @@ Mcap $5.1B · EV $6.7B · Comms</title>
       <link>https://www.sec.gov/Archives/edgar/data/1418819/000095010326014464/dp253851_8k.htm</link>
       <guid isPermaLink="false">0000950103-26-013945</guid>
       <pubDate>Thu, 24 Sep 2026 16:08:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$UYSC 🤝 Merger
-Amends Isdera merger; sets Company Net Value at $920M
-Isdera Group Limited
-Mcap $57M · EV $58M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2036973/000118518526004284/uysc8k425092326.htm</link>
-      <guid isPermaLink="false">0001185185-26-004286</guid>
-      <pubDate>Thu, 24 Sep 2026 16:08:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SNTI 🤝 Merger
-Acquired by Celadon Partners; CVRs up to $60M; vote Oct 8
-$60,000,000 (aggregate CVR cap) deal
-Mcap $11M · EV $24M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1854270/000114036126037574/ny20078262x6_defm14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-037574</guid>
-      <pubDate>Thu, 24 Sep 2026 16:07:03 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
