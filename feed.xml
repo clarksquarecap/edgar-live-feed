@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 12:42:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:42:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · LUMN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/18926/000094787126000891/ss6865668_8k.htm</link>
+      <guid isPermaLink="false">0000947871-26-000891</guid>
+      <pubDate>Fri, 25 Sep 2026 07:42:32 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>8-K</category>
+      <scanner:headline>Voluntary NYSE delisting for common stock, notes; relisting on Nasdaq Oct 6</scanner:headline>
+      <scanner:shortName>Lumen Technologies</scanner:shortName>
+      <scanner:price>5.86</scanner:price>
+      <scanner:subtype>voluntary</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>LUMN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>6044270000</scanner:marketCap>
+      <scanner:enterpriseValue>17663270000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.49</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.12</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>5.71</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.17</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>47.79</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Voluntary NYSE delisting for common stock, notes; relisting on Nasdaq Oct 6&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced its intention to voluntarily delist its common stock and associated preferred stock purchase rights, along with its 6.500% Notes due 2051 and 6.750% Notes due 2052, from the NYSE. The company&amp;#39;s securities have been approved for listing on Nasdaq. Delisting from NYSE is expected on October 5, 2026, with listing on Nasdaq effective October 6, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lumen Technologies, Inc., a networking company, provides integrated products and services to business and mass customers in the United States and internationally. The company operates in two segments, Business and Mass Markets. It offers dark fiber and conduit, edge cloud, internet protocol (IP), voice over IP, managed security, software-defined wide area networks, unified communications and collaboration, and optical services; ethernet and VPN data networks services; and legacy services to mana…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-06&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.86 · Mkt cap $6.04B · EV $17.66B · Fwd EV/EBITDA 5.7x · Communication Services / Diversified Telecommunication Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/18926/000094787126000891/0000947871-26-000891-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LUMN&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Communications (4813) · 8k_tier1:3.01,7.01 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · FTHM</title>
       <link>https://www.sec.gov/Archives/edgar/data/1753162/000162828026063504/fthm-20260924.htm</link>
@@ -15338,30 +15375,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AVXL&lt;/b&gt; · PRRN14A · Chemicals / Pharma (2836) · prefill_form:PRRN14A · filed 2026-08-27&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (9)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Sep 14 08:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000173112226001235/e7943_defa14a.htm'&gt;Faces PVG proxy contest; ISS backs all six nominees&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 10 15:40 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000149315226042192/formdfan14a.htm'&gt;Nominates six directors at Anavex; investor call Sept 16&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 10 05:04 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000149315226042019/formdfan14a.htm'&gt;Faces PVG proxy contest; six nominees; AGM Sept 24&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 09 16:30 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000149315226041997/formdfan14a.htm'&gt;Launches proxy contest at Anavex for 2026 AGM&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 04 05:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000149315226041425/formdfan14a.htm'&gt;Nominates 6-director slate at Anavex; AGM Sept 24&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 03 05:11 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000149315226041287/formdfan14a.htm'&gt;Faces PVG proxy contest; 6 nominees for 2026 AGM&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 02 05:17 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000149315226041140/formdfan14a.htm'&gt;Faces PVG proxy contest; 2026 AGM&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFC14A · Aug 27 16:23 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000149315226040438/formdefc14a.htm'&gt;Nominates 6-director slate at Anavex; AGM Sept 24&lt;/a&gt;&lt;/li&gt;&lt;li&gt;PRRN14A · Aug 27 05:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000149315226040286/formprrn14a.htm'&gt;Faces 6-director proxy contest from PVG; AGM Sept 24&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Accelerated Share Repurchase · FMX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1061736/000162828026061700/a6kcover-september2026.htm</link>
-      <guid isPermaLink="false">0001628280-26-061700</guid>
-      <pubDate>Mon, 14 Sep 2026 08:08:59 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>accelerated_share_repurchase</category>
-      <category>6-K</category>
-      <scanner:headline>Launches $280M accelerated share repurchase for ADS</scanner:headline>
-      <scanner:shortName>MEXICAN ECONOMIC DEVELOPMENT</scanner:shortName>
-      <scanner:subtype>accelerated_share_repurchase</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>FMX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Launches $280M accelerated share repurchase for ADS&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;FEMSA entered into an ASR agreement with a US financial institution to repurchase up to $280M of its ADS. Final settlement expected before year-end 2026; number of ADS repurchased based on daily VWAP less discount.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 280000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Final settlement before year-end 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1061736/000162828026061700/0001628280-26-061700-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FMX&lt;/b&gt; · 6-K · Food &amp;amp; Kindred (2086) · prefill_form:6-K · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
