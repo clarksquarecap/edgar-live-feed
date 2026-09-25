@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 13:46:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:59:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · DT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1773383/000136157026000021/0001361570-26-000021-index.htm</link>
+      <guid isPermaLink="false">0001361570-26-000021</guid>
+      <pubDate>Fri, 25 Sep 2026 08:59:32 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Pictet Asset Management continues activist engagement at DT; holds 4.95% stake</scanner:headline>
+      <scanner:shortName>Dynatrace</scanner:shortName>
+      <scanner:price>58.86</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>DT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>16958640000</scanner:marketCap>
+      <scanner:enterpriseValue>15961970000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>7.62</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>9.33</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>28.62</scanner:fwdPE>
+      <scanner:fwdEvEbitda>21.62</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>9.31</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>81.60</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Pictet Asset Management continues activist engagement at DT; holds 4.95% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Pictet Asset Management SA, an investment adviser, reported a 4.95% stake in Dynatrace, Inc. as of September 24, 2026. The firm stated it is actively engaging with the issuer to discuss and promote initiatives aligned with its investment strategy, including long-term strategy, governance, and financial performance. Pictet may seek to influence policies and practices through discussions with the board and management, reserving the right to change its intentions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Dynatrace, Inc. engages in the advancement of observability for digital businesses, which transforms the complexity of modern digital ecosystems in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. The company operates Dynatrace, an AI-powered observability platform, which provides solutions, including infrastructure, application, threat, and AI observability; digital experience; log analytics; application security; software delivery; and business analytics.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 4.95%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $58.86 · Mkt cap $16.96B · EV $15.96B · Fwd P/E 28.6x · Fwd EV/EBITDA 21.6x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1773383/000136157026000021/0001361570-26-000021-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DT&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7372) · amended_13d · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Voluntary · LODFF</title>
       <link>https://www.otcmarkets.com/stock/LODFF/news/536438</link>
@@ -15357,38 +15396,6 @@
 &lt;p&gt;&lt;i&gt;Px $7.38 · Mkt cap $4.13B · EV $2.79B · Information Technology / Communications Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1646188/000121390026099531/0001213900-26-099531-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ONDS&lt;/b&gt; · 8-K · Items 1.01, 2.01, 3.02, 7.01, 8.01, 9.01 · Electronic Equipment (3663) · 8k_tier1:1.01,2.01,7.01,8.01 · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · ONCO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1782107/000121390026099528/ea0305157-8k_onconetix.htm</link>
-      <guid isPermaLink="false">0001213900-26-099464</guid>
-      <pubDate>Mon, 14 Sep 2026 09:48:21 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Bridges $5M to Realbotix; cancels at close, cuts cash needed</scanner:headline>
-      <scanner:shortName>Onconetix</scanner:shortName>
-      <scanner:price>0.7600</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>ONCO</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>425, DEFA14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2990000</scanner:marketCap>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Provides $5M bridge financing to Realbotix; $2.5M advanced&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Provided a $5M bridge financing facility to Realbotix LLC, with an initial advance of $2.5M, to support working capital ahead of the pending all-stock acquisition. The facility is non-interest bearing and will be cancelled upon closing; cash required at closing reduced by principal plus $500K. The acquisition was announced Feb 12, 2026, and is subject to shareholder and regulatory approvals.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Onconetix, Inc., a biotechnology company, focuses on the research, development, and commercialization of solutions for men’s health and oncology in the United States, the European Union, and Non-European Union. The company offers Proclarix, an in vitro protein-based blood diagnostic test for prostate cancer.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Realbotix LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-02-12&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.7600 · Mkt cap $3.0M · EV $-2.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1782107/000121390026099464/0001213900-26-099464-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ONCO&lt;/b&gt; · 425 · Chemicals / Pharma (2834) · prefill_form:425 · filed 2026-09-14&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Sep 14 09:48 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1782107/000121390026099528/ea0305157-8k_onconetix.htm'&gt;Bridges $5M to Realbotix; cancels at close, cuts cash needed&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 07:35 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1782107/000121390026099464/ea0305331-425_onconetix.htm'&gt;Provides $5M bridge financing to Realbotix; $2.5M advanced&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
