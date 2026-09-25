@@ -6,8 +6,41 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 11:44:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:56:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · FMS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1333141/000110465926110608/tm2626162d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-110608</guid>
+      <pubDate>Fri, 25 Sep 2026 06:56:29 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Exits China PD business, discontinues 4008A system; expects €110M Q3 charge</scanner:headline>
+      <scanner:shortName>Fresenius Medical Care AG</scanner:shortName>
+      <scanner:price>22.35</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>FMS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>11865870000</scanner:marketCap>
+      <scanner:enterpriseValue>24257860000</scanner:enterpriseValue>
+      <scanner:fwdPE>9.38</scanner:fwdPE>
+      <scanner:fwdEvEbitda>6.02</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>4.16</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Exits China PD business, discontinues 4008A system; expects €110M Q3 charge&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced refinements to its China commercial strategy, including discontinuing production and sales of its 4008A hemodialysis system locally and exiting its China peritoneal dialysis (PD) business. These portfolio optimization actions are expected to result in one-time costs of approximately €110 million, primarily from impairment charges, scrappage, and termination costs. The charge will be recognized as a special item in the third quarter of 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Fresenius Medical Care AG provides dialysis and related services for individuals with renal diseases in Germany, the United States, and internationally. The company offers dialysis treatment and related laboratory and diagnostic services through a network of outpatient dialysis clinics; materials, training, and patient support services comprising clinical monitoring, follow-up assistance, and arranging for delivery of the supplies to the patient’s residence; and dialysis services under contract …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Q3 2026 cost recognition&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $22.35 · Mkt cap $11.87B · EV $24.26B · Fwd P/E 9.4x · Fwd EV/EBITDA 6.0x · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1333141/000110465926110608/0001104659-26-110608-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FMS, FMCQF&lt;/b&gt; · 6-K · Health Services (8090) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔎 Strategic Review · Portfolio Review · QUCY</title>
       <link>https://www.sec.gov/Archives/edgar/data/1874252/000121390026103219/ea0306620-8k_quantum.htm</link>
@@ -15330,36 +15363,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.45 · Mkt cap $25.8M · EV $27.1M · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1994214/000149315226042486/0001493152-26-042486-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NOMA&lt;/b&gt; · 8-K · Items 1.01, 3.02, 7.01, 9.01 · Amusement / Recreation (7900) · 8k_tier1:1.01,7.01 · filed 2026-09-14&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · SRRK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1727196/000110465926107273/tm2625362d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-107273</guid>
-      <pubDate>Mon, 14 Sep 2026 07:08:33 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>8-K</category>
-      <scanner:headline>FDA approves ISEMBYLD for SMA; launch underway</scanner:headline>
-      <scanner:shortName>Scholar Rock</scanner:shortName>
-      <scanner:price>55.41</scanner:price>
-      <scanner:subtype>won</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>SRRK</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>6748120000</scanner:marketCap>
-      <scanner:enterpriseValue>6459870000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;FDA approves ISEMBYLD for SMA; launch underway&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced FDA approval of ISEMBYLD (apitegromab-mstn) for spinal muscular atrophy in adults and children ≥2 years on SMN2-targeted therapy. Phase 3 SAPPHIRE showed 2.2-point HFMSE improvement vs placebo (p=0.0121). U.S. commercial launch started; investor call Sep 14.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Scholar Rock Holding Corporation, a biopharmaceutical company, focuses on improving the lives of children and adults with spinal muscular atrophy (SMA) and other rare, severe, and debilitating neuromuscular diseases. The company’s novel understanding of the molecular mechanisms of growth factor activation within the transforming growth factor beta (TGFβ) superfamily has enabled the development of a proprietary platform.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Investor call Sep 14, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $55.41 · Mkt cap $6.75B · EV $6.46B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1727196/000110465926107273/0001104659-26-107273-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SRRK&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Chemicals / Pharma (2836) · 8k_tier1:7.01,8.01 · filed 2026-09-14&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
