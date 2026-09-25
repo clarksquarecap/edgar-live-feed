@@ -6,25 +6,64 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 21:09:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:11:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
-      <title>🤝 Merger · Definitive · NMP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2054876/000121390026103593/ea0306553-8k425_nmp.htm</link>
-      <guid isPermaLink="false">0001213900-26-103593</guid>
-      <pubDate>Fri, 25 Sep 2026 16:09:07 -0500</pubDate>
+      <title>🤝 Merger · Definitive · PSKY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/tm2610616d11_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111034</guid>
+      <pubDate>Fri, 25 Sep 2026 16:11:33 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Amends GTS business combination agreement; extends audit delivery date to Oct 9</scanner:headline>
+      <category>8-K</category>
+      <scanner:headline>To distribute ~470M warrants contingent on WBD merger; to list on NYSE Oct 6</scanner:headline>
+      <scanner:shortName>Paramount Skydance</scanner:shortName>
+      <scanner:price>9.96</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>PSKY</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>11421410000</scanner:marketCap>
+      <scanner:enterpriseValue>27035410000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.93</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.79</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>12.13</scanner:fwdPE>
+      <scanner:fwdEvEbitda>7.00</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>2.76</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>33.33</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;To distribute ~470M warrants contingent on WBD merger; to list on NYSE Oct 6&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation announced a plan to distribute approximately 470 million warrants to its Class B Common Stock holders, contingent on the closing of its previously announced acquisition of Warner Bros. Discovery, Inc. Each warrant will entitle the holder to purchase one Class B Common Stock at an initial exercise price between $12.00 and $16.02 per share. The company also plans to transfer its Class B Common Stock listing from Nasdaq to the NYSE, with trading expected to begin on October 6, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Paramount Skydance Corporation operates as a media and entertainment company worldwide. It operates in three segments: Studios, Direct-to-Consumer, and TV Media. The company operates CBS Television Network, a domestic broadcast television network; CBS Stations, a television station; international free-to-air networks comprising Network 10, Channel 5, Telefe, and Chilevisión; and domestic premium and basic cable networks, such as Nickelodeon, MTV, CMT, Comedy Central, BET, Paramount+ with SHOWTIM…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Warner Bros. Discovery, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; NYSE listing October 6, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $9.96 · Mkt cap $11.42B · EV $27.04B · Fwd P/E 12.1x · Fwd EV/EBITDA 7.0x · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/0001104659-26-111034-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PSKY&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Communications (4833) · 8k_tier1:3.01,7.01 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · NMP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2054876/000121390026103585/ea0306553-8k425_nmp.htm</link>
+      <guid isPermaLink="false">0001213900-26-103593</guid>
+      <pubDate>Fri, 25 Sep 2026 16:10:43 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Extends financial delivery deadline for GTS Holdings business combination</scanner:headline>
       <scanner:shortName>NMP Acquisition</scanner:shortName>
       <scanner:price>10.40</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
+      <scanner:form>8-K</scanner:form>
       <scanner:sector>Financials</scanner:sector>
       <scanner:ticker>NMP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425, 8-K</scanner:filingForms>
       <scanner:related />
       <scanner:marketCap>165780000</scanner:marketCap>
       <scanner:enterpriseValue>165680000</scanner:enterpriseValue>
@@ -37,7 +76,40 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-09&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $10.40 · Mkt cap $165.8M · EV $165.7M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2054876/000121390026103593/0001213900-26-103593-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NMP, NMPAR, NMPAU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-25&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NMP, NMPAR, NMPAU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-25&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 25 16:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2054876/000121390026103585/ea0306553-8k425_nmp.htm'&gt;Extends financial delivery deadline for GTS Holdings business combination&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 25 16:09 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2054876/000121390026103593/ea0306553-8k425_nmp.htm'&gt;Amends GTS business combination agreement; extends audit delivery date to Oct 9&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · KEY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/91576/000162828026063618/key-20260925.htm</link>
+      <guid isPermaLink="false">0001628280-26-063618</guid>
+      <pubDate>Fri, 25 Sep 2026 16:09:48 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>8-K</category>
+      <scanner:headline>Board authorized $3B share repurchase program</scanner:headline>
+      <scanner:shortName>KEYCORP</scanner:shortName>
+      <scanner:price>20.61</scanner:price>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>KEY</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>21609350000</scanner:marketCap>
+      <scanner:fwdPE>10.34</scanner:fwdPE>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Board authorized $3B share repurchase program&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;KeyCorp&amp;#39;s board authorized a share repurchase program of up to $3 billion in May 2026. The company expects to repurchase at least $1.3 billion of shares in 2026, with $341 million already repurchased in Q2 2026. This authorization is part of KeyCorp&amp;#39;s strategy to productively deploy excess capital.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; KeyCorp operates as the holding company for KeyBank National Association that provides various retail and commercial banking products and services in the United States. It operates in two segments, Consumer Bank and Commercial Bank. The company offers various deposits and investment products; personal finance and financial wellness, lending, student loan refinancing, mortgage and home equity, credit card, treasury, and business advisory; commercial leasing, investment management, consumer financ…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 3,000,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $20.61 · Mkt cap $21.61B · Fwd P/E 10.3x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/91576/000162828026063618/0001628280-26-063618-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KEY, KEY-PI, KEY-PJ, KEY-PK, KEY-PL&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Depository Institutions (6021) · 8k_tier1:7.01 · filed 2026-09-25&lt;/p&gt;</description>
     </item>
     <item>
       <title>🔐 Going Private · Definitive · BZFD</title>
@@ -15450,67 +15522,6 @@
 &lt;p&gt;&lt;i&gt;Px $6.95 · Mkt cap $149.3M · EV $465.2M · Fwd P/E 7.2x · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1552198/000110465926107736/0001104659-26-107736-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WHF, WHFCL&lt;/b&gt; · 8-K · Items 8.01 · 8k_tier1:8.01 · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · FEAM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1888654/000119312526391409/feam-20260914.htm</link>
-      <guid isPermaLink="false">0001193125-26-391409</guid>
-      <pubDate>Tue, 15 Sep 2026 08:11:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires Searles Valley assets in 363 sale for $3.4M cash + 8.3M shares + $6.2M note</scanner:headline>
-      <scanner:shortName>5E Advanced Materials</scanner:shortName>
-      <scanner:price>1.33</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>FEAM</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>55220000</scanner:marketCap>
-      <scanner:enterpriseValue>29950000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Searles Valley assets in 363 sale for $3.4M cash + 8.3M shares + $6.2M note&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into an Asset Purchase Agreement to acquire specified assets from Searles Valley Minerals Inc. and affiliates in a Section 363 bankruptcy sale. Consideration includes approximately $3.4 million cash, 8.3 million shares of FEAM common stock, and a $6.2 million senior unsecured promissory note. The acquisition is subject to Bankruptcy Court approval and other conditions, including receipt of $10 million bridge financing.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; 5E Advanced Materials, Inc., an exploration stage company, engages in the exploration and development of mineral properties primarily in the United States. The company primarily explores for borates and lithium deposits. It holds 100% interest in the Fort Cady project located in the Mojave Desert region in eastern San Bernardino County, California; and a 100% earn-in agreement in the Salt Wells Projects covering an area of 14 square miles situated in Churchill County, Nevada.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Searles Valley Minerals Inc. and affiliates&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Bankruptcy Court approval&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.33 · Mkt cap $55.2M · EV $29.9M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1888654/000119312526391409/0001193125-26-391409-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FEAM, FEAV&lt;/b&gt; · 8-K · Items 1.01, 3.02, 7.01, 9.01 · Mining; Nonmetallic (1400) · 8k_tier1:1.01,7.01 · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · OBK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1516912/000151691226000050/obnk-20260915.htm</link>
-      <guid isPermaLink="false">0001516912-26-000050</guid>
-      <pubDate>Tue, 15 Sep 2026 08:07:31 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>8-K</category>
-      <scanner:headline>Transfers listing to Texas Stock Exchange; NYSE ends Oct 12</scanner:headline>
-      <scanner:shortName>Origin Bancorp</scanner:shortName>
-      <scanner:price>54.41</scanner:price>
-      <scanner:subtype>voluntary</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>OBK</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1678530000</scanner:marketCap>
-      <scanner:fwdPE>12.53</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Transfers listing to Texas Stock Exchange; NYSE ends Oct 12&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will voluntarily withdraw its common stock listing from NYSE and transfer to TXSE, effective Oct 13, 2026. Trading on NYSE ends Oct 12. Ticker remains OBK.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Origin Bancorp, Inc. operates as a bank holding company for Origin Bank that provides banking and financial services to small and medium-sized businesses, municipalities, and retail clients in Texas, Louisiana, Alabama, and Mississippi. It provides noninterest and interest-bearing checking accounts, savings deposits, money market accounts, and time deposits; and offers commercial real estate, construction and land development, consumer, residential real estate, commercial and industrial, mortgag…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Trading commences on TXSE Oct 13, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $54.41 · Mkt cap $1.68B · Fwd P/E 12.5x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1516912/000151691226000050/0001516912-26-000050-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OBK&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Depository Institutions (6022) · 8k_tier1:3.01,7.01 · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
