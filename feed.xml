@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 25 Sep 2026 21:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 21:09:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · NMP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2054876/000121390026103593/ea0306553-8k425_nmp.htm</link>
+      <guid isPermaLink="false">0001213900-26-103593</guid>
+      <pubDate>Fri, 25 Sep 2026 16:09:07 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>Amends GTS business combination agreement; extends audit delivery date to Oct 9</scanner:headline>
+      <scanner:shortName>NMP Acquisition</scanner:shortName>
+      <scanner:price>10.40</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>NMP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>165780000</scanner:marketCap>
+      <scanner:enterpriseValue>165680000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Amends GTS business combination agreement; extends audit delivery date to Oct 9&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into Amendment No. 1 to its Business Combination Agreement with GTS Holdings, LLC. The amendment extends the deadline for GTS to deliver audited financials to NMP to October 9, 2026. NMP may further extend this date at its sole discretion.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; NMP Acquisition Corp. does not have significant operations. It intends to effect a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2024 and is based in Palo Alto, California.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; GTS Holdings, LLC&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-09&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.40 · Mkt cap $165.8M · EV $165.7M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2054876/000121390026103593/0001213900-26-103593-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NMP, NMPAR, NMPAU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-25&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔐 Going Private · Definitive · BZFD</title>
       <link>https://www.sec.gov/Archives/edgar/data/1828972/000149315226044350/0001493152-26-044350-index.htm</link>
@@ -15480,37 +15511,6 @@
 &lt;p&gt;&lt;i&gt;Px $54.41 · Mkt cap $1.68B · Fwd P/E 12.5x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1516912/000151691226000050/0001516912-26-000050-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OBK&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Depository Institutions (6022) · 8k_tier1:3.01,7.01 · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Preliminary · GIXI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1782265/000149315226042674/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042674</guid>
-      <pubDate>Tue, 15 Sep 2026 08:05:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-      <category>6-K</category>
-      <scanner:headline>Invests $500K in Ottonomy via SAFE; LOI for potential majority</scanner:headline>
-      <scanner:shortName>Gix Internet</scanner:shortName>
-      <scanner:price>5.71</scanner:price>
-      <scanner:subtype>preliminary</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>GIXI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>11230000</scanner:marketCap>
-      <scanner:enterpriseValue>13940000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Invests $500K in Ottonomy via SAFE; LOI for potential majority&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Signed a $500,000 SAFE investment in Ottonomy, a Physical AI robotics company, and entered a non-binding LOI contemplating potential additional investments that could lead to a majority interest. The SAFE is expected to close the week of September 16, 2026. The LOI is subject to due diligence and definitive agreements.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Gix Internet Ltd provides marketing technology solutions in Israel. It develops various technological software solutions, which perform automation, optimization, and monetization of internet campaigns. The company was incorporated in 1978 and is based in Herzliya, Israel.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ottonomy, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $500,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; SAFE closing; LOI negotiations&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.71 · Mkt cap $11.2M · EV $13.9M · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1782265/000149315226042674/0001493152-26-042674-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GIXI&lt;/b&gt; · 6-K · Business Services (7372) · prefill_form:6-K · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
