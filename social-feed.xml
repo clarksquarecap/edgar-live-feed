@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 26 Sep 2026 20:50:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 21:01:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CTNT 👀 Activist
@@ -256,110 +256,6 @@ Mcap $86M · EV $120M · Comms</title>
       <guid isPermaLink="false">0001493152-26-044350</guid>
       <pubDate>Fri, 25 Sep 2026 16:02:17 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TWI 📤 Divestiture
-Sells Italtractor ITM to USCO for $207M cash + $6M earnout; close Jan 2027
-to USCO S.p.A. · $207 million deal · close January 2027
-Mcap $456M · EV $1.0B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/899751/000089975126000069/twi-20260921.htm</link>
-      <guid isPermaLink="false">0000899751-26-000069</guid>
-      <pubDate>Fri, 25 Sep 2026 16:01:31 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ASLE 🌍 Re-domicile
-Completes redomestication from Delaware to Texas
-Mcap $262M · EV $430M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1754170/000110465926111023/asle-20260925x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111023</guid>
-      <pubDate>Fri, 25 Sep 2026 16:00:58 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$VYLR 🪓 Spinoff
-Spin-off from Corteva effective; shares to trade Oct 1 on NYSE as VYLR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526402928/ck0002128626-20260924.htm</link>
-      <guid isPermaLink="false">0001193125-26-396054</guid>
-      <pubDate>Fri, 25 Sep 2026 15:59:59 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$GIPR 🪙 Debt Restr.
-Redeems $4.16M preferred equity investment from Loci Capital
-Mcap $1M · EV $83M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1651721/000119312526402935/gipr-20260925.htm</link>
-      <guid isPermaLink="false">0001193125-26-402935</guid>
-      <pubDate>Fri, 25 Sep 2026 15:59:27 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$OPTT 🪙 Debt Restr.
-Exchanges convertible notes, reprices warrants; conversion price cut to $2.45
-Mcap $19M · EV $21M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1378140/000149315226044336/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044336</guid>
-      <pubDate>Fri, 25 Sep 2026 15:58:50 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$CEPU 💧 Capital Return · Buyback
-Repurchases 100,000 shares for ARS 200.76M
-Mcap $2.0B · EV $2.6B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1717161/000129281426004710/cepu20260925_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004710</guid>
-      <pubDate>Fri, 25 Sep 2026 15:58:05 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$MDT 🪓 Split-off
-Offers to exchange MiniMed Group shares for up to 225.36M of its own shares
-Mcap $113B · EV $133B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026063600/a425-mdtwebsitex92526.htm</link>
-      <guid isPermaLink="false">0001628280-26-062507</guid>
-      <pubDate>Fri, 25 Sep 2026 15:57:46 -0500</pubDate>
-      <category>SPLIT_OFF</category>
-    </item>
-    <item>
-      <title>$EMPD ⚔️ Proxy
-Faces ATG Capital proxy contest; ISS recommends 2 dissident nominees
-16% stake
-Mcap $82M · EV $134M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000092189526002648/dfan13914005_09252026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002648</guid>
-      <pubDate>Fri, 25 Sep 2026 15:57:37 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$COTY 🔎 Strat Review · Strat Alts
-Continues strategic review of consumer beauty business
-Mcap $2.3B · EV $5.8B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1024305/000102430526000065/coty-20260925.htm</link>
-      <guid isPermaLink="false">0001024305-26-000065</guid>
-      <pubDate>Fri, 25 Sep 2026 15:57:25 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$MSTR 🪙 Debt Restr.
-Seeks vote on preferred stock term changes at Special Meeting
-Mcap $62B · EV $81B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526402937/mstr-20260925.htm</link>
-      <guid isPermaLink="false">0001193125-26-402937</guid>
-      <pubDate>Fri, 25 Sep 2026 15:56:55 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$PULM 🤝 Merger
-Acquires Eos SENOLYTIX; to issue 75.2M shares; Eos holders to own 94%; vote Oct 16
-100.0M deal · stock · close Q4 2026
-Mcap $6M · EV $5M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574235/000149315226044341/formdefm14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-043145</guid>
-      <pubDate>Fri, 25 Sep 2026 15:56:24 -0500</pubDate>
-      <category>MERGER</category>
       <category>definitive</category>
     </item>
   </channel>
