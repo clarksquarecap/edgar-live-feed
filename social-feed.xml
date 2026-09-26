@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 26 Sep 2026 20:06:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 20:17:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CTNT 👀 Activist
@@ -633,26 +633,6 @@ Mcap $206M · Financials</title>
       <guid isPermaLink="false">0001835856-26-000060</guid>
       <pubDate>Fri, 25 Sep 2026 15:23:43 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$GOW 🤝 Merger
-Completes business combination with Inflection Point; NASDAQ listing Sept 28
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2097702/000121390026103502/ea0306714-6k_gowell.htm</link>
-      <guid isPermaLink="false">0001213900-26-103502</guid>
-      <pubDate>Fri, 25 Sep 2026 15:14:36 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TPL 🤝 Merger
-Files definitive proxy materials for acquisition
-Mcap $23B · EV $23B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1811074/000110465926110972/tm264934d5_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-110972</guid>
-      <pubDate>Fri, 25 Sep 2026 15:13:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
