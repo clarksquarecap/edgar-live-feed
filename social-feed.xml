@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 26 Sep 2026 14:04:36 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 15:16:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CTNT 👀 Activist
@@ -757,16 +757,6 @@ Mcap $238M · EV $151M · Healthcare</title>
       <pubDate>Fri, 25 Sep 2026 11:48:33 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$PHAR ⚖️ Litigation · Won
-FDA accepts sNDA for Joenja® lower doses; Priority Review granted, PDUFA Jan 30, 2027
-Mcap $735M · EV $690M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1828316/000182831626000041/pharmingannouncesusfdaacce.htm</link>
-      <guid isPermaLink="false">0001828316-26-000041</guid>
-      <pubDate>Fri, 25 Sep 2026 10:15:58 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
