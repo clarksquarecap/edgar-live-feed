@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 26 Sep 2026 21:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 21:12:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CTNT 👀 Activist
@@ -205,47 +205,6 @@ Mcap $9M · EV $8M · Healthcare</title>
       <pubDate>Fri, 25 Sep 2026 16:18:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$JBI 🔎 Strat Review · Portfolio Review
-Announces operational restructuring for $10.8M annualized savings
-Mcap $562M · EV $1.1B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1839839/000110465926111032/tm2626113d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111032</guid>
-      <pubDate>Fri, 25 Sep 2026 16:12:18 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
-    </item>
-    <item>
-      <title>$PSKY 🤝 Merger
-To distribute ~470M warrants contingent on WBD merger; to list on NYSE Oct 6
-Warner Bros. Discovery
-Mcap $11B · EV $27B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/tm2610616d11_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111034</guid>
-      <pubDate>Fri, 25 Sep 2026 16:11:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NMP 🤝 Merger
-Extends financial delivery deadline for GTS Holdings business combination
-Mcap $166M · EV $166M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2054876/000121390026103585/ea0306553-8k425_nmp.htm</link>
-      <guid isPermaLink="false">0001213900-26-103593</guid>
-      <pubDate>Fri, 25 Sep 2026 16:10:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$KEY 💧 Capital Return · Buyback
-Board authorized $3B share repurchase program
-Mcap $22B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/91576/000162828026063618/key-20260925.htm</link>
-      <guid isPermaLink="false">0001628280-26-063618</guid>
-      <pubDate>Fri, 25 Sep 2026 16:09:48 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
