@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 26 Sep 2026 12:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 12:47:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CTNT 👀 Activist
@@ -870,17 +870,6 @@ Mcap $4M · EV $24M · Industrials</title>
       <pubDate>Fri, 25 Sep 2026 07:49:08 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$LUMN 📉 Delisting · Voluntary
-Voluntary NYSE delisting for common stock, notes; relisting on Nasdaq Oct 6
-effective 2026-10-06
-Mcap $6.0B · EV $18B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/18926/000094787126000891/ss6865668_8k.htm</link>
-      <guid isPermaLink="false">0000947871-26-000891</guid>
-      <pubDate>Fri, 25 Sep 2026 07:42:32 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
