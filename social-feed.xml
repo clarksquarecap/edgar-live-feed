@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 26 Sep 2026 17:22:33 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 17:28:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CTNT 👀 Activist
@@ -720,24 +720,6 @@ Mcap $398M · EV $355M · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-110873</guid>
       <pubDate>Fri, 25 Sep 2026 13:11:21 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$MT 🔥 Insolvency
-Unable to restart Kryvyi Rih operations; expects $1B impairment
-Mcap $53B · EV $65B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1243429/000124342926000084/arcelormittalform6-kseptem.htm</link>
-      <guid isPermaLink="false">0001243429-26-000084</guid>
-      <pubDate>Fri, 25 Sep 2026 12:24:53 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>other</category>
-    </item>
-    <item>
-      <title>$MSGR 🪓 Spinoff
-Spin-off from MSG Sports; will trade as MSGR on NYSE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2132873/000119312526402509/d127770d1012ba.htm</link>
-      <guid isPermaLink="false">0001193125-26-402509</guid>
-      <pubDate>Fri, 25 Sep 2026 12:24:23 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
