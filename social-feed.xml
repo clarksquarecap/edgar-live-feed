@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 26 Sep 2026 12:53:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:04:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CTNT 👀 Activist
@@ -837,17 +837,6 @@ Mcap $6M · EV $17M · Cons Disc</title>
       <pubDate>Fri, 25 Sep 2026 08:08:23 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$WEAV 🤝 Merger
-Acquired by Francisco Partners affiliate for $7.40 cash; vote Oct 22
-Willow Parent · cash
-Mcap $587M · EV $560M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1609151/000114036126037628/ny20081403x2_defm14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-036669</guid>
-      <pubDate>Fri, 25 Sep 2026 08:01:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
