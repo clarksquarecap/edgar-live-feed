@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 26 Sep 2026 10:08:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:13:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CTNT 👀 Activist
@@ -1012,39 +1012,6 @@ Mcap $81B · Financials</title>
       <pubDate>Fri, 25 Sep 2026 05:18:56 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$ADXN 🔎 Strat Review · Portfolio Review
-Regains GABAB PAM rights from Indivior; evaluating strategic options
-advisor: Indivior UK Limited
-Mcap $4M · EV $3M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574232/000117184326006225/f6k_092526.htm</link>
-      <guid isPermaLink="false">0001171843-26-006225</guid>
-      <pubDate>Fri, 25 Sep 2026 05:13:01 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
-    </item>
-    <item>
-      <title>$MACI 🤝 Merger
-Acquires Everli Global in $180M SPAC business combination; vote pending
-180,000,000 deal · stock
-Mcap $105M · EV $110M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2016221/000121390026103194/ea0273491-08.htm</link>
-      <guid isPermaLink="false">0001213900-26-103194</guid>
-      <pubDate>Fri, 25 Sep 2026 05:12:07 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NIMU 🤝 Merger
-Acquires Gravitics Inc. in definitive stock merger
-stock
-Mcap $12M · EV $13M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/720762/000149315226044216/forms-4a.htm</link>
-      <guid isPermaLink="false">0001493152-26-044216</guid>
-      <pubDate>Fri, 25 Sep 2026 05:11:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
