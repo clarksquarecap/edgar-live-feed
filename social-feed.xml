@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 26 Sep 2026 17:28:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 18:12:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CTNT 👀 Activist
@@ -711,15 +711,6 @@ Increases stake in Calamos Aksia Hedged Strategies Fund to 39.52%</title>
       <guid isPermaLink="false">0001104659-26-110920</guid>
       <pubDate>Fri, 25 Sep 2026 13:23:54 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$CGC ⚔️ Proxy
-AGM adjourned to Oct 23 due to lack of quorum; continues vote solicitation
-Mcap $398M · EV $355M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1737927/000110465926110873/tm2626166d1_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-110873</guid>
-      <pubDate>Fri, 25 Sep 2026 13:11:21 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
