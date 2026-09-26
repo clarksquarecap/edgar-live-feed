@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 26 Sep 2026 19:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 19:50:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CTNT 👀 Activist
@@ -674,15 +674,6 @@ Mcap $10M · EV $20M · Industrials</title>
       <pubDate>Fri, 25 Sep 2026 14:52:31 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DYNR 👀 Activist
-Sets annual meeting for Nov 18; shareholder nomination deadline Oct 5
-Mcap $27M · EV $52M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1111741/000119312526402740/8-k_-_shareholder_direct.htm</link>
-      <guid isPermaLink="false">0001193125-26-402740</guid>
-      <pubDate>Fri, 25 Sep 2026 14:46:35 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
