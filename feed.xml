@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 21:25:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:32:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · GCTK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1506983/000149315226044657/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044657</guid>
+      <pubDate>Mon, 28 Sep 2026 16:32:05 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Amends convertible notes &amp; warrants to remove downward price adjustments</scanner:headline>
+      <scanner:shortName>Glucotrack</scanner:shortName>
+      <scanner:price>1.80</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>GCTK</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1450000</scanner:marketCap>
+      <scanner:enterpriseValue>2290000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>32.32</scanner:evSalesLtm>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Amends convertible notes &amp;amp; warrants to remove downward price adjustments&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Amended its senior secured convertible promissory notes and common stock purchase warrants. The amendments remove provisions permitting downward adjustment to the Floor Price and revise anti-dilution provisions to establish an absolute floor. The September Note Amendments became effective on September 28, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; GlucoTrack, Inc., a medical device company, focuses on the development of an implantable continuous blood glucose monitor (CBGM) for people with diabetes in the United States. The company develops the GlucoTrack CBGM, a long-term implantable blood-based CBGM for use by Type 1 diabetes patients and insulin-dependent Type 2 diabetes patients. The company was formerly known as Integrity Applications, Inc. and changed its name to GlucoTrack, Inc. in November 2021. GlucoTrack, Inc.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.80 · Mkt cap $1.4M · EV $2.3M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1506983/000149315226044657/0001493152-26-044657-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GCTK&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Instruments / Medical Devices (3841) · 8k_tier1:1.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚔️ Proxy Contest · BETR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002660/dfan14909002_09282026.htm</link>
@@ -15867,39 +15898,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 17 06:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1625297/000110465926108418/tm2623753d8_425.htm'&gt;Declares $8.13/sh special dividend for Supernus merger; close Nov 2&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFM14A · Sep 11 15:53 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1356576/000110465926107109/tm2625197-1_defm14a.htm'&gt;Acquired by Indivior for 1.5401 INDV shares; vote Oct 15&lt;/a&gt;&lt;/li&gt;&lt;li&gt;S-4/A · Sep 09 16:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1625297/000110465926106390/tm2623753-3_s4a.htm'&gt;Acquires Supernus in all-stock merger; 1.5401x ratio, $1B special dividend&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;Acquirer INDV also filed S-4/A, 425&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Special Dividend · INDV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1625297/000110465926108417/tm2623753d7_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-108417</guid>
-      <pubDate>Thu, 17 Sep 2026 06:19:45 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-      <category>8-K</category>
-      <scanner:headline>Declares $8.13/share special dividend; contingent on Supernus merger close</scanner:headline>
-      <scanner:shortName>Indivior Pharmaceuticals</scanner:shortName>
-      <scanner:price>34.23</scanner:price>
-      <scanner:subtype>special_dividend</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>INDV</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>4067930000</scanner:marketCap>
-      <scanner:enterpriseValue>4354930000</scanner:enterpriseValue>
-      <scanner:fwdPE>7.74</scanner:fwdPE>
-      <scanner:fwdEvEbitda>5.94</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Declares $8.13/share special dividend; contingent on Supernus merger close&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Indivior&amp;#39;s board declared a special cash dividend of $8.13 per share, payable to holders of record as of October 30, 2026. Payment is contingent on the closing of the merger with Supernus, expected on or about November 2, 2026, with payment anticipated on November 6, 2026. Supernus stockholders will not receive the dividend on shares received in the merger.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Indivior Pharmaceuticals, Inc., together with its subsidiaries, engages in the development, manufacture, and sale of buprenorphine-based prescription drugs for the treatment of opioid dependence and related disorders in the United States, Europe, Canada, Australia, and internationally. It develops medicines to treat substance use disorders.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Supernus Pharmaceuticals, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; 8.13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-11-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Merger closing and stockholder votes&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $34.23 · Mkt cap $4.07B · EV $4.35B · Fwd P/E 7.7x · Fwd EV/EBITDA 5.9x · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1625297/000110465926108417/0001104659-26-108417-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;INDV&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01,8.01 · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
