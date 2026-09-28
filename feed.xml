@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 16:40:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:52:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · PC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1998056/000149315226044487/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044487</guid>
+      <pubDate>Mon, 28 Sep 2026 11:51:59 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>6-K</category>
+      <scanner:headline>Receives Nasdaq delisting determination; intends to appeal</scanner:headline>
+      <scanner:shortName>Premium Catering</scanner:shortName>
+      <scanner:price>9.40</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>PC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>30500000</scanner:marketCap>
+      <scanner:enterpriseValue>23200000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Receives Nasdaq delisting determination; intends to appeal&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited received a Staff Delisting Determination from Nasdaq on September 22, 2026, citing discretionary authority under Rule IM-5101-4 due to potential third-party misconduct impacting its securities. The company intends to appeal the determination by requesting an oral hearing before the Nasdaq Hearings Panel by September 29, 2026. A timely request will stay the delisting, but the trading halt remains in effect.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Premium Catering (Holdings) Limited, through its subsidiary, engages in the food catering business for function, events, and workers in Singapore. It provides Halal food catering offering Indian, Bangladesh, and Chinese cuisine; and budget prepared meals to foreign workers, students, and other individuals residing in dormitories, as well foreign workers in the marine, and manufacturing industries.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nasdaq&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $9.40 · Mkt cap $30.5M · EV $23.2M · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1998056/000149315226044487/0001493152-26-044487-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PC&lt;/b&gt; · 6-K · Retail; Food Service (5812) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Buyback Authorization · RACE</title>
       <link>https://www.sec.gov/Archives/edgar/data/1648416/000164841626000123/fnvbb280926prcov.htm</link>
@@ -15720,36 +15751,6 @@
 &lt;p&gt;&lt;i&gt;Px $6.11 · Mkt cap $17.8M · EV $30.3M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1840317/000121390026100507/0001213900-26-100507-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VEEA, VEEAW&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Business Services (7373) · 8k_tier1:8.01 · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · RITR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1951229/000121390026100503/ea0305520-6k_reitar.htm</link>
-      <guid isPermaLink="false">0001213900-26-100503</guid>
-      <pubDate>Wed, 16 Sep 2026 15:06:42 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>6-K</category>
-      <scanner:headline>Forced Nasdaq delisting; suspension Sept 17</scanner:headline>
-      <scanner:shortName>Reitar Logtech</scanner:shortName>
-      <scanner:price>0.0800</scanner:price>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>RITR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>4960000</scanner:marketCap>
-      <scanner:enterpriseValue>59530000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting; suspension Sept 17&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Nasdaq Staff Delisting Determination because its closing bid price stayed at or below $0.10 for 10 consecutive trading days (Aug 25–Sep 9, 2026). Trading suspends at the open on Sept 17, 2026; the company has requested a hearing to appeal, but a timely request will not stay the suspension.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Reitar Logtech Holdings Limited, through its subsidiaries, provides construction management and engineering design services in Hong Kong. The company operates in two segments, Construction Management and Engineering Design Services; and Asset Management and Professional Consultancy Services. It provides construction management and engineering design services for cold storage facilities, automated warehouses, renovated offices, and tailor-made electrical systems.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Hearing request deadline Sept 17, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0800 · Mkt cap $5.0M · EV $59.5M · Industrials / Construction and Engineering&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1951229/000121390026100503/0001213900-26-100503-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RITR&lt;/b&gt; · 6-K · Real Estate (6510) · prefill_form:6-K · filed 2026-09-16&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
