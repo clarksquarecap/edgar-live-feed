@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 14:14:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:52:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Lost · POR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/784977/000119312526404006/por-20260925.htm</link>
+      <guid isPermaLink="false">0001193125-26-404006</guid>
+      <pubDate>Mon, 28 Sep 2026 09:52:03 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>lost</category>
+      <category>8-K</category>
+      <scanner:headline>OPUC imposes onerous conditions on holding company reorganization</scanner:headline>
+      <scanner:shortName>PORTLAND GENERAL ELECTRIC CO</scanner:shortName>
+      <scanner:price>45.57</scanner:price>
+      <scanner:subtype>lost</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Utilities</scanner:sector>
+      <scanner:ticker>POR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>5509920000</scanner:marketCap>
+      <scanner:enterpriseValue>11088920000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>3.14</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>6.60</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>12.68</scanner:fwdPE>
+      <scanner:fwdEvEbitda>8.23</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>6.60</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>47.54</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;OPUC imposes onerous conditions on holding company reorganization&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Company announced that the Oregon Public Utility Commission (OPUC) issued a final order on its application to reorganize under a holding company structure. While the order includes approximately $83 million in customer benefits, it imposes conditions, specifically relating to dividend limitations, that the Company believes may not be feasible. The Company does not expect to proceed with the reorganization unless these provisions are clarified or modified.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Portland General Electric Company, an integrated electric utility company, engages in the generation, wholesale purchase, transmission, distribution, and retail sale of electricity in the state of Oregon. It operates six thermal plants, four wind farms, and seven hydroelectric facilities. As of December 31, 2025, the company owned an electric transmission system consisting of 1,744 circuit miles, including 287 circuit miles of 500 kilovolt line, 414 circuit miles of 230 kilovolt line, and 577 mi…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Oregon Public Utility Commission&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Evaluation of options, including reconsideration or judicial review&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $45.57 · Mkt cap $5.51B · EV $11.09B · Fwd P/E 12.7x · Fwd EV/EBITDA 8.2x · Utilities / Electric Utilities&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/784977/000119312526404006/0001193125-26-404006-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;POR&lt;/b&gt; · 8-K · Items 8.01 · Utilities (4911) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · VOXR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1907909/000165495426008589/voxr_6k.htm</link>
@@ -15703,38 +15742,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.78 · Mkt cap $33.7M · EV $70.1M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1844971/000119312526392929/0001193125-26-392929-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VIP, GREEL&lt;/b&gt; · SCHEDULE 13D · Non-Depository Credit (6199) · fresh_13d · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · MTN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/812011/000090266426003838/p26-1873dfan14a.htm</link>
-      <guid isPermaLink="false">0000902664-26-003838</guid>
-      <pubDate>Wed, 16 Sep 2026 13:39:56 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>DFAN14A</category>
-      <scanner:headline>Launches activist campaign at Vail Resorts</scanner:headline>
-      <scanner:shortName>VAIL RESORTS</scanner:shortName>
-      <scanner:price>138.07</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DFAN14A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>MTN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DFAN14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>4919920000</scanner:marketCap>
-      <scanner:enterpriseValue>8170400000</scanner:enterpriseValue>
-      <scanner:fwdPE>22.52</scanner:fwdPE>
-      <scanner:fwdEvEbitda>9.95</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Launches activist campaign at Vail Resorts&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Oasis Management, along with Seth Fischer and others, filed a Schedule 13D on September 16, 2026, disclosing a stake in Vail Resorts and signaling an activist purpose. The DFAN14A incorporates Item 4 &amp;#39;Purpose of Transaction,&amp;#39; indicating a transformative agenda. Campaign is in early stages.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Vail Resorts, Inc., together with its subsidiaries, operates mountain resorts and regional ski areas in the United States and internationally. It operates in three segments: Mountain, Lodging, and Real Estate. The Mountain segment operates destination mountain resorts and regional ski areas. This segment is also involved in ancillary activities, including ski school, dining, and retail/rental operations, as well as real estate brokerage activities.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $138.07 · Mkt cap $4.92B · EV $8.17B · Fwd P/E 22.5x · Fwd EV/EBITDA 9.9x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/812011/000090266426003838/0000902664-26-003838-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MTN&lt;/b&gt; · DFAN14A · Amusement / Recreation (7990) · prefill_form:DFAN14A · filed 2026-09-16&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
