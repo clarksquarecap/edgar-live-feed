@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 17:27:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:33:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Preliminary · MSGY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2020228/000121390026103905/ea030687201-6k_masonglory.htm</link>
+      <guid isPermaLink="false">0001213900-26-103905</guid>
+      <pubDate>Mon, 28 Sep 2026 12:33:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+      <category>6-K</category>
+      <scanner:headline>Raises $1.0M via private placement to fund continued Beta Beteiligungs acquisition</scanner:headline>
+      <scanner:shortName>Masonglory</scanner:shortName>
+      <scanner:price>3.06</scanner:price>
+      <scanner:subtype>preliminary</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>MSGY</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>17110000</scanner:marketCap>
+      <scanner:enterpriseValue>16940000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.72</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>16.31</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>16.31</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>4.41</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Raises $1.0M via private placement to fund continued Beta Beteiligungs acquisition&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited entered a securities purchase agreement on September 25, 2026, for a private placement of 667,000 Class A ordinary shares at $1.50 per share, raising $1,000,500. Purchasers also receive Series A and B warrants. The company will use proceeds to fund the continued acquisition of equity interests in Beta Beteiligungs und Besitz GmbH, an Austrian construction materials distributor. An initial 20% stake was acquired on August 12, 2026, but further acquisition terms are still under negotiation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Masonglory Limited, through its subsidiaries, provides wet trades and other ancillary services in Hong Kong. The company offers plastering on floors, ceilings, and walls; tile laying on internal and external walls and floors; brick laying; floor screeding; and marble works. It also provides project portfolio which includes private sector projects, such as private residential and commercial development; and public sector projects, including infrastructure and public facilities developments.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Beta Beteiligungs und Besitz GmbH&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.06 · Mkt cap $17.1M · EV $16.9M · Industrials / Construction and Engineering&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2020228/000121390026103905/0001213900-26-103905-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MSGY&lt;/b&gt; · 6-K · Construction; Special Trade (1700) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · KNRX</title>
       <link>https://www.sec.gov/Archives/edgar/data/1982960/000149315226044495/form6-k.htm</link>
@@ -15738,37 +15775,6 @@
 &lt;p&gt;&lt;i&gt;Px $83.00 · Mkt cap $95.7M · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1947463/000110465926108257/0001104659-26-108257-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NACB&lt;/b&gt; · S-4/A · Depository Institutions (6022) · prefill_form:S-4 · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · HEPA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1583771/000149315226042907/0001493152-26-042907-index.htm</link>
-      <guid isPermaLink="false">0001493152-26-042907</guid>
-      <pubDate>Wed, 16 Sep 2026 15:25:44 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Acquires 10.2% stake in Hepion for $500K ($0.05/sh) + warrants</scanner:headline>
-      <scanner:shortName>Hepion Pharmaceuticals</scanner:shortName>
-      <scanner:price>0.0700</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>HEPA</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>7760000</scanner:marketCap>
-      <scanner:enterpriseValue>7830000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires 10.2% stake in Hepion for $500K ($0.05/sh) + warrants&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;KI Holdings acquired 10,000,000 shares of Hepion Pharmaceuticals (10.2% of class) for $500,000 ($0.05 per share) plus a warrant to buy 10M more shares at $0.06. The purchase was made for investment purposes; no plans or proposals stated.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Hepion Pharmaceuticals, Inc., a biopharmaceutical company, focuses on the development of treatment for hepatocellular carcinoma (HCC), metabolic liver diseases, and chronic liver diseases in the United States. It developed Rencofilstat, a therapeutic drug candidate that binds and inhibits the function of a specific class of isomerase enzymes called cyclophilins that regulates protein folding, as well as preclinical experiments of Rencofilstat reflects decreased liver fibrosis; liver inflammation…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; $0.05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $500,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10.2%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-03&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0700 · Mkt cap $7.8M · EV $7.8M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1583771/000149315226042907/0001493152-26-042907-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HEPA, CTRVP&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-16&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
