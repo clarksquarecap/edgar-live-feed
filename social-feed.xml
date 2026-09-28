@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 20:40:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 20:41:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AIFU 👀 Activist
+Takes 63.37% stake in AIFU; intends to engage on strategy
+Mcap $74M · EV $80M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1413855/000121390026104075/0001213900-26-104075-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-104075</guid>
+      <pubDate>Mon, 28 Sep 2026 15:41:36 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$ISBA 🤝 Merger
+Mails Grand River merger election forms; cash ~$5.71/share or 0.1413x stock; election deadline Oct 23
+Grand River Commerce · cash+stk · close Q4 2026
+Mcap $293M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/842517/000084251726000224/isba-20260928.htm</link>
+      <guid isPermaLink="false">0000842517-26-000222</guid>
+      <pubDate>Mon, 28 Sep 2026 15:41:17 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$CMBMF 🧊 Liquidation
+To dissolve and wind up; subsidiary in administration sells defense unit for up to $35M
+Mcap $3M · EV $72M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1738177/000119312526405403/cmbmf-20260922.htm</link>
+      <guid isPermaLink="false">0001193125-26-405403</guid>
+      <pubDate>Mon, 28 Sep 2026 15:40:58 -0500</pubDate>
+      <category>LIQUIDATION</category>
+    </item>
     <item>
       <title>$KDP 📤 Divestiture
 Redeems Chobani equity, sells assets for $525M cash + $400M note
