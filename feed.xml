@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 20:30:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 20:31:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · CZNL</title>
+      <link>https://www.otcmarkets.com/stock/CZNL/news/536594</link>
+      <guid isPermaLink="false">0000318300-26-000202</guid>
+      <pubDate>Mon, 28 Sep 2026 15:31:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>OTC</category>
+      <scanner:headline>Acquired by Peoples Bancorp; regulatory approvals received</scanner:headline>
+      <scanner:shortName>Citizens National</scanner:shortName>
+      <scanner:price>87.00</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>CZNL</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>8-K, OTC</scanner:filingForms>
+      <scanner:related>PEBO</scanner:related>
+      <scanner:marketCap>84990000</scanner:marketCap>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Peoples Bancorp; regulatory approvals received&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Peoples Bancorp Inc. received regulatory approvals for its merger with Citizens National Corporation. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Citizens National Corporation operates as the bank holding company for Citizens Bank of Kentucky that provides various banking products and services in Eastern Kentucky, the United States. It offers deposit products, including checking and savings accounts, term certificate, individual retirement accounts, and certificates of deposits; lending products comprising residential mortgage, commercial, installment, consumer, home equity, and business loans; healthcare, online, and mobile banking servi…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Peoples Bancorp Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $87.00 · Mkt cap $85.0M · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CZNL&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-28&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;OTC · Sep 28 15:31 · &lt;a href='https://www.otcmarkets.com/stock/CZNL/news/536594'&gt;Acquired by Peoples Bancorp; regulatory approvals received&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 28 15:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/318300/000031830026000202/pebo-20260928.htm'&gt;Receives regulatory approvals for merger with Citizens National Corp.&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer PEBO also filed 8-K&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Rumor Response · GEN</title>
       <link>https://www.sec.gov/Archives/edgar/data/849399/000084939926000071/gen-20260928.htm</link>
@@ -202,37 +233,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;SC TO-I/A · Holding / Investment Offices (6798) · prefill_form:SC TO-I · filed 2026-09-22&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SC TO-I/A · Sep 28 15:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1755755/000143774926031347/vhti20260928_sctoia.htm'&gt;Launches $30M self-tender for 909,090 Class A shares at $33.00; expires Oct 5&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-I/A · Sep 22 15:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1755755/000143774926030920/vhti20260921_sctoia.htm'&gt;$30M self-tender at $33.00/share; expires Oct 5&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · PEBO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/318300/000031830026000202/pebo-20260928.htm</link>
-      <guid isPermaLink="false">0000318300-26-000202</guid>
-      <pubDate>Mon, 28 Sep 2026 15:20:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Receives regulatory approvals for merger with Citizens National Corp.</scanner:headline>
-      <scanner:shortName>PEOPLES BANCORP</scanner:shortName>
-      <scanner:price>39.14</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>PEBO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1383160000</scanner:marketCap>
-      <scanner:fwdPE>10.51</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Receives regulatory approvals for merger with Citizens National Corp.&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced it has received all necessary regulatory approvals for its merger with Citizens National Corporation, with Peoples as the surviving corporation. The merger agreement was dated April 20, 2026, and approved by Citizens&amp;#39; shareholders on August 6, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Peoples Bancorp Inc. operates as the financial holding company for Peoples Bank that provides commercial and consumer banking products and services. The company accepts various deposit products, including demand deposit accounts, savings accounts, money market accounts, certificates of deposit, and governmental deposits; and provides commercial and industrial, commercial real estate, construction, finance, residential real estate, and consumer indirect and direct loans, as well as home equity li…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Citizens National Corporation&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Merger closing&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $39.14 · Mkt cap $1.38B · Fwd P/E 10.5x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/318300/000031830026000202/0000318300-26-000202-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PEBO&lt;/b&gt; · 8-K · Items 8.01 · Depository Institutions (6022) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · KMB</title>
