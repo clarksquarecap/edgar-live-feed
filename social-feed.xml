@@ -6,8 +6,35 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 20:41:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 20:42:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TH 📍 Stake
+Reports 27.8% stake in Target Hospitality Corp.
+Mcap $2.1B · EV $2.1B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1712189/000095014226002613/0000950142-26-002613-index.htm</link>
+      <guid isPermaLink="false">0000950142-26-002613</guid>
+      <pubDate>Mon, 28 Sep 2026 15:42:48 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$SLXN 👀 Activist
+Disputes validity of SLXN share issuances; holds 17.7% stake
+Mcap $1M · EV $610K · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2022416/000121390026104066/0001213900-26-104066-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-104066</guid>
+      <pubDate>Mon, 28 Sep 2026 15:42:27 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$HCHL 🪙 Debt Restr.
+Controlling shareholders lose 12M Class B shares to Sky Way after loan default
+Mcap $118M · EV $119M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2046656/000121390026104069/0001213900-26-104069-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-104069</guid>
+      <pubDate>Mon, 28 Sep 2026 15:42:15 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$AIFU 👀 Activist
 Takes 63.37% stake in AIFU; intends to engage on strategy
