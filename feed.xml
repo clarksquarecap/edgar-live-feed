@@ -6,8 +6,42 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 13:34:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:14:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · VOXR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1907909/000165495426008589/voxr_6k.htm</link>
+      <guid isPermaLink="false">0001654954-26-008589</guid>
+      <pubDate>Mon, 28 Sep 2026 09:13:57 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Acquires 0.75% silver royalty over Sorby Hills Project for $13M cash</scanner:headline>
+      <scanner:shortName>VOX ROYALTY</scanner:shortName>
+      <scanner:price>5.27</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>VOXR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>377820000</scanner:marketCap>
+      <scanner:enterpriseValue>346570000</scanner:enterpriseValue>
+      <scanner:fwdPE>27.88</scanner:fwdPE>
+      <scanner:fwdEvEbitda>10.09</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>10.98</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires 0.75% silver royalty over Sorby Hills Project for $13M cash&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Subsidiary, Vox Australia, entered a binding agreement to acquire an effective 0.75% net smelter return royalty over the construction-stage Sorby Hills silver-lead project in Western Australia for $13,000,000 in cash from a private seller. The transaction is subject to customary conditions and Foreign Investment Review Board approval. Closing is expected in the fourth quarter of 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Vox Royalty Corp. operates as a mining royalty company. The company holds a portfolio of 70 precious metals royalties in Australia, Canada, the United States of America, South Africa, Brazil, and Peru. The company was founded in 2014 and is based in Westminster, Colorado.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; private seller&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 13,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Foreign Investment Review Board approval&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.27 · Mkt cap $377.8M · EV $346.6M · Fwd P/E 27.9x · Fwd EV/EBITDA 10.1x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1907909/000165495426008589/0001654954-26-008589-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VOXR&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · SPCIBDC</title>
       <link>https://www.sec.gov/Archives/edgar/data/2031283/000082047826000016/0000820478-26-000016-index.htm</link>
@@ -15701,41 +15735,6 @@
 &lt;p&gt;&lt;i&gt;Px $138.07 · Mkt cap $4.92B · EV $8.17B · Fwd P/E 22.5x · Fwd EV/EBITDA 9.9x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/812011/000090266426003838/0000902664-26-003838-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MTN&lt;/b&gt; · DFAN14A · Amusement / Recreation (7990) · prefill_form:DFAN14A · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Unsolicited · CURLF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1756770/000175677026000111/curlf-20260916.htm</link>
-      <guid isPermaLink="false">OTC-533807</guid>
-      <pubDate>Wed, 16 Sep 2026 11:34:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-      <category>8-K</category>
-      <scanner:headline>Hostile tender for Aurora at $4.00/sh (45% premium)</scanner:headline>
-      <scanner:shortName>Curaleaf Holdings</scanner:shortName>
-      <scanner:price>8.35</scanner:price>
-      <scanner:subtype>unsolicited</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>CURLF</scanner:ticker>
-      <scanner:filings>8</scanner:filings>
-      <scanner:filingForms>OTC, 6-K, 425 x3, 8-K x3</scanner:filingForms>
-      <scanner:related>ACB</scanner:related>
-      <scanner:marketCap>2213030000</scanner:marketCap>
-      <scanner:enterpriseValue>3232300000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>12.29</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Hostile bid for Aurora: $4.00/share (0.3463 CURLF + $0.75 cash)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Curaleaf commenced an unsolicited take-over bid for all Aurora shares at US$4.00 per share, comprising 0.3463 Curaleaf shares plus US$0.75 cash. Aurora&amp;#39;s board formed a special committee and advises shareholders to take no action; offer open until at least Dec 1, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Curaleaf Holdings, Inc. engages in the retail and wholesale of cannabis products in the United States and internationally. The company operates licensed cultivation; and pharma-grade cannabis processing and manufacturing facilities. It also supplies cannabis on a wholesale basis to Australia, New Zealand, the United Kingdom and various European countries, including Germany, Italy, Poland, the Czech Republic, Switzerland, Sweden and Norway.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Aurora Cannabis Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; US$4.00 per Aurora share&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; at least Dec 1, 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Aurora board recommendation within 15 days&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $8.35 · Mkt cap $2.21B · EV $3.23B · Fwd EV/EBITDA 12.3x · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/CURLF/news/533807'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CURLF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-02&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (8)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 16 11:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000111/curlf-20260916.htm'&gt;Hostile tender for Aurora at $4.00/sh (45% premium)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 16 11:33 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000110/ax91626curaleafbrochurefor.htm'&gt;Hostile tender for Aurora at $4.00/share (0.3463 CURLF + $0.75 cash)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 15 15:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000106/curlf-20260915.htm'&gt;Tender offer for Aurora: $4.00/share (0.3463 CURA + $0.75 cash), 45% premium&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 14 14:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000102/curlf-20260914.htm'&gt;Seeks ASC halt on Aurora&amp;#39;s ATM program; $4.00/share offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 14:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000103/ax91426curaleafsubmitsappt.htm'&gt;Seeks ASC halt on Aurora&amp;#39;s ATM dilution during $4.00/share offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 08 16:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000094/ax9826curaleafissuesfactsh.htm'&gt;Reaffirms $4.00/share bid for Aurora; 45% premium&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 02 07:17 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1683541/000127956926000846/aurora_6k.htm'&gt;Rejects Curaleaf&amp;#39;s hostile bid; urges shareholders not to tender&lt;/a&gt;&lt;/li&gt;&lt;li&gt;OTC · Sep 02 06:19 · &lt;a href='https://www.prnewswire.com/news-releases/aurora-cannabis-inc-urges-shareholders-to-take-no-action-at-this-time-in-respect-to-the-unsolicited-take-over-bid-by-curaleaf-holdings-inc-302854811.html'&gt;Hostile bid for Aurora: $4.00/share (0.3463 CURLF + $0.75 cash)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty ACB also filed 6-K&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
