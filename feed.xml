@@ -6,8 +6,81 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 21:11:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:12:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · GRDN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1802255/000119312526405492/0001193125-26-405492-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-405492</guid>
+      <pubDate>Mon, 28 Sep 2026 16:12:08 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Faces Bindley Capital group with 26.4% stake</scanner:headline>
+      <scanner:shortName>Guardian Pharmacy Services</scanner:shortName>
+      <scanner:price>40.74</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>GRDN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2610340000</scanner:marketCap>
+      <scanner:enterpriseValue>2571830000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.76</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.12</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>30.50</scanner:fwdPE>
+      <scanner:fwdEvEbitda>19.37</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>8.12</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>21.63</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Faces Bindley Capital group with 26.4% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is the subject of an amended Schedule 13D filing by Bindley Capital Partners I, LLC and its affiliates, reporting a collective ownership of 26.4% of the company&amp;#39;s Class A common stock. The filing indicates that William E. Bindley and Thomas J. Salentine, Jr. share voting and investment power over a significant portion of these shares.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Guardian Pharmacy Services, Inc., a pharmacy service company, provides a suite of technology-enabled services to help residents of long-term health care facilities (LTCFs) in the United States. The company’s individualized clinical, drug dispensing, and administration capabilities are used to serve the needs of residents in lower acuity LTCFs, such as assisted living facilities, behavioral health facilities, and group homes.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Bindley Capital Partners I, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 26.4%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-27&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $40.74 · Mkt cap $2.61B · EV $2.57B · Fwd P/E 30.5x · Fwd EV/EBITDA 19.4x · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1802255/000119312526405492/0001193125-26-405492-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GRDN&lt;/b&gt; · SCHEDULE 13D/A · Retail; Misc (5912) · amended_13d · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙 Debt Restr. · SJT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/319655/000119312526405498/sjt_-9.28_2026_8-k_ops.htm</link>
+      <guid isPermaLink="false">0001193125-26-405498</guid>
+      <pubDate>Mon, 28 Sep 2026 16:11:34 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Evaluates financing options for $2M credit facility maturing May 2027</scanner:headline>
+      <scanner:shortName>SAN JUAN BASIN ROYALTY</scanner:shortName>
+      <scanner:price>3.73</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>SJT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>159400000</scanner:marketCap>
+      <scanner:enterpriseValue>160340000</scanner:enterpriseValue>
+      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Evaluates financing options for $2M credit facility maturing May 2027&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is evaluating options for its $2,000,000 credit facility with Texas Bank, which matures on May 21, 2027. The Trust is in discussions with Texas Bank for an extension, renewal, or replacement, and is exploring other financing sources, including commercial lenders, Unit Holders, and private lenders, to address its liquidity position.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; San Juan Basin Royalty Trust operates as an express trust in Texas. It has a 75% net overriding royalty interest in Southland&amp;#39;s oil and natural gas interests in properties located in the San Juan Basin in northwestern New Mexico. The company also owns subject interests consist of working interests, royalty interests, overriding royalty interests, and other contractual rights in 119,000 net-producing acres in San Juan, Rio Arriba, and Sandoval Counties of northwestern New Mexico.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Texas Bank&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; May 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; May 21, 2027 credit facility maturity&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.73 · Mkt cap $159.4M · EV $160.3M · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/319655/000119312526405498/0001193125-26-405498-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SJT&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Holding / Investment Offices (6792) · 8k_tier1:7.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · FFAI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1805521/000121390026104130/ea0306819-8k_faraday.htm</link>
@@ -15824,69 +15897,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.8000 · Mkt cap $3.9M · EV $200.2M · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1296484/000117184326006081/0001171843-26-006081-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TOPS&lt;/b&gt; · 6-K · Water Transportation (4412) · prefill_form:6-K · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · YI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738906/000110465926108394/0001104659-26-108394-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-108394</guid>
-      <pubDate>Thu, 17 Sep 2026 05:27:52 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Insiders file 13D; disclose 20.7% / 20.5% / 21.4% stakes</scanner:headline>
-      <scanner:shortName>111</scanner:shortName>
-      <scanner:price>3.38</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>YI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>29730000</scanner:marketCap>
-      <scanner:enterpriseValue>152190000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Insiders file 13D; disclose 20.7% / 20.5% / 21.4% stakes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D from co-founders Gang Yu and Junling Liu and Junling Liu&amp;#39;s wholly-owned entity Sunny Bay Global Limited, disclosing beneficial ownership of 20.7%, 20.5%, and 21.4% of the company&amp;#39;s ordinary shares, respectively. The reporting persons hold Class B shares with 15 votes per share, giving them significant voting control. The filing is an original 13D, indicating non-passive intent.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; 111, Inc., together with its subsidiaries, operates an integrated online and offline platform in the healthcare market in the People&amp;#39;s Republic of China. It operates through two segments, B2C and B2B. The company offers supply chain integration services that help pharmaceutical companies manage products through online and offline channels; product promotion, customer analytics, patient education, and brand awareness services; and marketing and channel data services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Gang Yu, Junling Liu, Sunny Bay Global Limited&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 20.7% / 20.5% / 21.4%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.38 · Mkt cap $29.7M · EV $152.2M · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1738906/000110465926108394/0001104659-26-108394-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;YI&lt;/b&gt; · SCHEDULE 13D · Retail; Misc (5912) · fresh_13d · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · LUCMF</title>
-      <link>https://www.otcmarkets.com/stock/LUCMF/news/535458</link>
-      <guid isPermaLink="false">OTC-535458</guid>
-      <pubDate>Thu, 17 Sep 2026 05:17:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>OTC</category>
-      <scanner:headline>Definitive agreement to acquire El Barqueño from Agnico Eagle</scanner:headline>
-      <scanner:shortName>Luca Mining</scanner:shortName>
-      <scanner:price>0.7600</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>LUCMF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>214450000</scanner:marketCap>
-      <scanner:enterpriseValue>240520000</scanner:enterpriseValue>
-      <scanner:fwdPE>5.73</scanner:fwdPE>
-      <scanner:fwdEvEbitda>3.19</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Definitive agreement to acquire El Barqueño from Agnico Eagle&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Has entered into a definitive agreement to acquire the El Barqueño asset from Agnico Eagle. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Luca Mining Corp. engages in the acquisition, exploration, and development of mineral resource properties in North America. The company explores for gold, silver, zinc, concentrate, lead, and copper deposits, as well as base and precious metals. It holds 100% interest in the Campo Morado mine that consists of six mining concessions covering an area of approximately 12,090 hectares located in Guerrero state, Mexico; and 100 % interest the Tahuehueto covering an area of approximately 7,492 hectare…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Agnico Eagle&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.7600 · Mkt cap $214.4M · EV $240.5M · Fwd P/E 5.7x · Fwd EV/EBITDA 3.2x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LUCMF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
