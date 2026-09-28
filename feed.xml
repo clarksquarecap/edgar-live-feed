@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 10:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:49:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · ZTO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1677250/000110465926111134/tm2626456d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111134</guid>
+      <pubDate>Mon, 28 Sep 2026 05:49:04 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>6-K</category>
+      <scanner:headline>Repurchased 9M ADSs from Aug 12-Sep 21 at $19.26-$23.00/ADS</scanner:headline>
+      <scanner:shortName>ZTO Express</scanner:shortName>
+      <scanner:price>19.49</scanner:price>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>ZTO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>14812660000</scanner:marketCap>
+      <scanner:enterpriseValue>13461380000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.69</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>6.72</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>9.46</scanner:fwdPE>
+      <scanner:fwdEvEbitda>5.42</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>6.72</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>25.10</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Repurchased 9M ADSs from Aug 12-Sep 21 at $19.26-$23.00/ADS&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Reported the repurchase of 9,000,000 American depositary shares (ADSs) between August 12, 2026, and September 21, 2026. The shares were repurchased at prices ranging from $19.26 to $23.00 per ADS. Each ADS represents one Class A ordinary share.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ZTO Express (Cayman) Inc. provides express delivery and other value-added logistics services in the People&amp;#39;s Republic of China. It also offers less-than-truckload (LTL) logistics services; integrated logistics solutions for warehousing, distribution, and transportation; and freight forwarding services. The company was founded in 2002 and is headquartered in Shanghai, the People&amp;#39;s Republic of China.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $19.49 · Mkt cap $14.81B · EV $13.46B · Fwd P/E 9.5x · Fwd EV/EBITDA 5.4x · Industrials / Air Freight and Logistics&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1677250/000110465926111134/0001104659-26-111134-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZTO, ZTOEF&lt;/b&gt; · 6-K · Trucking / Warehousing (4210) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔎 Strategic Review · Formal Alternatives · YI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1738906/000095010326014553/dp253899_6k.htm</link>
@@ -15575,37 +15614,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Forge Nano Inc&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2101833/000110465926107980/0001104659-26-107980-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NANO&lt;/b&gt; · S-4/A · Industrial Machinery (3559) · prefill_form:S-4 · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · GPUS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/896493/000092189526002550/0000921895-26-002550-index.htm</link>
-      <guid isPermaLink="false">0000921895-26-002550</guid>
-      <pubDate>Tue, 15 Sep 2026 16:37:33 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Raises stake to 63.5% via preferred conversions</scanner:headline>
-      <scanner:shortName>Hyperscale Data</scanner:shortName>
-      <scanner:price>0.1900</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>GPUS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>33740000</scanner:marketCap>
-      <scanner:enterpriseValue>144290000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Raises stake to 63.5% via preferred conversions&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Ault &amp;amp; Company and Milton C. Ault III reported beneficial ownership of 63.5% of Hyperscale Data&amp;#39;s Class A common stock (318,613,936 shares on an as-converted basis), reflecting conversion of Series C/G/H convertible preferred stock at a $0.1763 conversion price. Amendment 19 updates ownership after preferred conversions and warrant exercises.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Hyperscale Data, Inc., together with its subsidiaries, provides crane rental and lifting solutions for oilfield, construction, commercial, and infrastructure markets in North America, Europe, the Middle East, and internationally. It operates through Technology and Finance (Fintech); Sentinum; AGREE; Energy and Infrastructure (Energy); ROI; and TurnOnGreen segments.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 63.5%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1900 · Mkt cap $33.7M · EV $144.3M · Industrials / Industrial Conglomerates&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/896493/000092189526002550/0000921895-26-002550-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GPUS, GPUS-PD&lt;/b&gt; · SCHEDULE 13D/A · Industrial Machinery (3533) · fresh_13d · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
