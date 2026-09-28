@@ -6,8 +6,44 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 14:52:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:10:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Won · CV</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1378325/000137832526000045/cv-20260925.htm</link>
+      <guid isPermaLink="false">0001378325-26-000045</guid>
+      <pubDate>Mon, 28 Sep 2026 10:10:16 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+      <category>8-K</category>
+      <scanner:headline>FDA clears AI Highlights for CapsoCam Plus system</scanner:headline>
+      <scanner:shortName>CapsoVision</scanner:shortName>
+      <scanner:price>6.63</scanner:price>
+      <scanner:subtype>won</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>CV</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>332810000</scanner:marketCap>
+      <scanner:enterpriseValue>324420000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>23.35</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>45.90</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>45.90</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>50.88</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;FDA clears AI Highlights for CapsoCam Plus system&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced FDA clearance for its AI Highlights™ feature for the CapsoCam Plus® system on September 25, 2026. This AI-assisted reading tool is designed to aid physicians in reviewing small bowel capsule endoscopy studies, particularly for suspected bleeding, by recognizing and highlighting suspected abnormal lesions. The clearance is expected to support physician efficiency and improve reading performance as capsule endoscopy adoption expands.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CapsoVision, Inc., a medical technology company, manufactures and markets endoscopic video imaging devices focused on internal imaging of the gastrointestinal system. The company offers CapsoCam Plus, a capsule endoscopy system for visualization of the small bowel mucosa in adults and children aged 2 years and above; and CapsoCam Colon for visualization of the colon and detection and measurement of polyps, as well as develops CapsoColon 3D for large intestines (colon).&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $6.63 · Mkt cap $332.8M · EV $324.4M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1378325/000137832526000045/0001378325-26-000045-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CV&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Instruments / Medical Devices (3845) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚖️ Litigation · Lost · POR</title>
       <link>https://www.sec.gov/Archives/edgar/data/784977/000119312526404006/por-20260925.htm</link>
@@ -15711,37 +15747,6 @@
 &lt;p&gt;&lt;i&gt;Px $11.23 · Mkt cap $101.9M · EV $101.1M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2118032/000119312526392963/0001193125-26-392963-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RACC&lt;/b&gt; · 425 · Chemicals / Pharma (2834) · prefill_form:425 · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · VIP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1844971/000119312526392929/0001193125-26-392929-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-392929</guid>
-      <pubDate>Wed, 16 Sep 2026 13:40:26 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Takes 8.23% stake in Vulcan Infrastructure</scanner:headline>
-      <scanner:shortName>Vulcan Infrastructure &amp; Power</scanner:shortName>
-      <scanner:price>1.78</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>VIP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>33730000</scanner:marketCap>
-      <scanner:enterpriseValue>70130000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Takes 8.23% stake in Vulcan Infrastructure&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;MIG REF II INFR, LLC and Eric W. Rosenthal filed a Schedule 13D disclosing beneficial ownership of 2,923,976 shares of Vulcan Infrastructure and Power Inc. Class A Common Stock, representing 8.23% of shares outstanding as of September 10, 2026. The stake is held directly by MIG, with voting and investment decisions managed by Machine Investment Group, LP. The filing also references a convertible note and warrant subject to regulatory approvals.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Vulcan Infrastructure and Power Inc., together with its subsidiaries, operates as an integrated cryptocurrency datacenter and power generation company in the United States. It owns and operates 106MW of power facility; and cryptocurrency datacenter in New York, as well as hosts, powers, and provides technical support and other related services to bitcoin mining equipment. The company had 111.5MW of active self-mining, hosting, and power generation across sites in New York and North Dakota.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Vulcan Infrastructure and Power Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 8.23%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.78 · Mkt cap $33.7M · EV $70.1M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1844971/000119312526392929/0001193125-26-392929-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VIP, GREEL&lt;/b&gt; · SCHEDULE 13D · Non-Depository Credit (6199) · fresh_13d · filed 2026-09-16&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
