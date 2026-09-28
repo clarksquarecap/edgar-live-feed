@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 12:50:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:57:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · FRFFF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/915191/000110465926111201/tm2626192d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111201</guid>
+      <pubDate>Mon, 28 Sep 2026 07:57:27 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>6-K</category>
+      <scanner:headline>Commences NCIB for up to 10% of Subordinate Voting &amp; Series K Preferred shares</scanner:headline>
+      <scanner:shortName>FAIRFAX FINANCIAL HOLDINGS LTD/ CAN</scanner:shortName>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>FRFFF</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Commences NCIB for up to 10% of Subordinate Voting &amp;amp; Series K Preferred shares&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited announced a Normal Course Issuer Bid (NCIB) to repurchase up to 10% of its public float of Subordinate Voting Shares and Cumulative 5-Year Rate Reset Preferred Shares, Series K. The NCIB will commence on September 30, 2026, and end on September 29, 2027. Shares will be purchased through the TSX and may be cancelled or reserved for share-based awards.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/915191/000110465926111201/0001104659-26-111201-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FRFFF, FRFHF&lt;/b&gt; · 6-K · Insurance (6331) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚖️ Litigation · Settled · CAAP</title>
       <link>https://www.sec.gov/Archives/edgar/data/1717393/000110465926111196/tm2626455d1_6k.htm</link>
@@ -15696,29 +15720,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NMHI&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · BPRE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1551047/000090266426003831/p26-1834dfan14a.htm</link>
-      <guid isPermaLink="false">0000902664-26-003831</guid>
-      <pubDate>Wed, 16 Sep 2026 07:36:35 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>DFAN14A</category>
-      <scanner:headline>Launches FireBluerock campaign to oust Bluerock board</scanner:headline>
-      <scanner:shortName>Bluerock Private Real Estate Fund</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>DFAN14A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>BPRE</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DFAN14A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Launches FireBluerock campaign to oust Bluerock board&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Saba Capital Management launched a campaign website (FireBluerock.com) to solicit proxies against Bluerock Private Real Estate Fund&amp;#39;s board. The campaign signals an activist push for board changes, with further solicitation materials to follow.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1551047/000090266426003831/0000902664-26-003831-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BPRE&lt;/b&gt; · DFAN14A · prefill_form:DFAN14A · filed 2026-09-16&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
