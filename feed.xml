@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 10:49:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:58:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · FIP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1899883/000114036126037763/ef20082849_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-037763</guid>
+      <pubDate>Mon, 28 Sep 2026 05:57:56 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires DRUbit for $255M enterprise value; subject to HSR</scanner:headline>
+      <scanner:shortName>FTAI Infrastructure</scanner:shortName>
+      <scanner:price>3.13</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>FIP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>369320000</scanner:marketCap>
+      <scanner:enterpriseValue>4197460000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>6.37</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>15.94</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>14.23</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>15.94</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>39.95</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires DRUbit for $255M enterprise value; subject to HSR&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;FTAI Infrastructure Inc.&amp;#39;s indirect subsidiary, Drub LLC, entered into a Membership Interest Purchase Agreement to acquire all outstanding membership interests of DRUbit LLC for an enterprise value of $255 million. The transaction is subject to customary closing conditions, including the expiration or termination of the HSR Act waiting period. The deal is expected to close within five months of the execution date.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; FTAI Infrastructure Inc. engages in acquiring, developing, and operating assets and businesses that represent infrastructure for customers in the transportation, energy, and industrial products industries in North America. It operates through four segments: Railroad, Ports and Terminals, Power and Gas, and Sustainability and Energy Transition.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; DRUbit LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $255 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 100%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-27&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q1 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR Act expiration or termination&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.13 · Mkt cap $369.3M · EV $4.20B · Fwd EV/EBITDA 14.2x · Industrials / Ground Transportation&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1899883/000114036126037763/0001140361-26-037763-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FIP&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Railroad (4011) · 8k_tier1:1.01,7.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Buyback Authorization · ZTO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1677250/000110465926111134/tm2626456d1_6k.htm</link>
@@ -15591,29 +15629,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.88 · Mkt cap $127.7M · EV $1.17B · Real Estate / Hotel and Resort REITs&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1574085/000139834426017023/0001398344-26-017023-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BHR, BHR-PB, BHR-PD&lt;/b&gt; · SCHEDULE 13D/A · Holding / Investment Offices (6798) · fresh_13d · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · NANO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2101833/000110465926107980/none-20260915xs4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-107980</guid>
-      <pubDate>Tue, 15 Sep 2026 16:52:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4/A</category>
-      <scanner:headline>Acquires Forge Nano in SPAC business combination</scanner:headline>
-      <scanner:shortName>ATII Holdings</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>NANO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Forge Nano in SPAC business combination&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;(formerly Archimedes Tech SPAC Partners II) filed an amended S-4 registration statement for its business combination with Forge Nano Inc. The merger will combine the SPAC with the nano-coating technology company, with the combined entity to operate under the NANO ticker.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Forge Nano Inc&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2101833/000110465926107980/0001104659-26-107980-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NANO&lt;/b&gt; · S-4/A · Industrial Machinery (3559) · prefill_form:S-4 · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
