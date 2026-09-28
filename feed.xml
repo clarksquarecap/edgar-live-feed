@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 21:02:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:04:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · RNG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1384905/000138490526000050/rng-20260928.htm</link>
+      <guid isPermaLink="false">0001384905-26-000050</guid>
+      <pubDate>Mon, 28 Sep 2026 16:04:01 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>8-K</category>
+      <scanner:headline>Adjusts annual meeting date to Nov 2; sets Oct 9 deadline for director nominations</scanner:headline>
+      <scanner:shortName>RingCentral</scanner:shortName>
+      <scanner:price>76.13</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>RNG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>6359830000</scanner:marketCap>
+      <scanner:enterpriseValue>7612470000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.95</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>4.10</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>14.40</scanner:fwdPE>
+      <scanner:fwdEvEbitda>10.33</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>4.10</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>71.86</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Adjusts annual meeting date to Nov 2; sets Oct 9 deadline for director nominations&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Has scheduled its 2026 Annual Meeting of Stockholders for November 2, 2026. Due to the meeting being more than 30 days earlier than the prior year&amp;#39;s anniversary, the deadline for shareholder proposals and director nominations has been adjusted to October 9, 2026. This adjustment is in accordance with Rule 14a-5(f) and Rule 14a-4(c) under the Exchange Act.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; RingCentral, Inc., an agentic voice AI–powered cloud business communication services provider, delivering an integrated platform for business phone, SMS, contact center, workforce engagement management, video collaboration, and messaging. The company’s products include RingEX, a AI-powered unified communications as a service platform for collaboration across voice, messaging, and video; RingCentral Contact Center, a contact center solution that delivers AI-powered omni-channel and workforce enga…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-11-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-09&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $76.13 · Mkt cap $6.36B · EV $7.61B · Fwd P/E 14.4x · Fwd EV/EBITDA 10.3x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1384905/000138490526000050/0001384905-26-000050-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RNG&lt;/b&gt; · 8-K · Items 5.08, 8.01, 9.01 · Business Services (7374) · 8k_tier1:5.08,8.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · VACI</title>
       <link>https://www.sec.gov/Archives/edgar/data/2080023/000121390026104119/ea0306906-8k425_viking1.htm</link>
@@ -15846,39 +15884,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.38 · Mkt cap $29.7M · EV $152.2M · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1738906/000095010326014068/0000950103-26-014068-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;YI&lt;/b&gt; · 6-K · Retail; Misc (5912) · prefill_form:6-K · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · SNY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1121404/000119312526393653/d517247d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-393653</guid>
-      <pubDate>Thu, 17 Sep 2026 05:15:20 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Sells 20 mature medicines and 3 sites to Cheplapharm for 26.4% stake</scanner:headline>
-      <scanner:shortName>Sanofi</scanner:shortName>
-      <scanner:price>42.59</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>SNY</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>102187030000</scanner:marketCap>
-      <scanner:enterpriseValue>122361400000</scanner:enterpriseValue>
-      <scanner:fwdPE>8.78</scanner:fwdPE>
-      <scanner:fwdEvEbitda>7.25</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells 20 mature medicines and 3 sites to Cheplapharm for 26.4% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Agreed to transfer 20 mature medicines (including Lovenox/Clexane) and three manufacturing sites (Hungary, Singapore, France) to Cheplapharm in exchange for a 26.4% equity stake in Cheplapharm. Commercial transfer begins Q1 2027, sites follow, with completion expected by Q3 2027 subject to regulatory approvals and employee consultations. No impact on 2026 guidance.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sanofi engages in the research, development, manufacture, and marketing of therapeutic solutions. It provides immunology and inflammation, rare diseases neurology, oncology, and other vaccines. It also offers poliomyelitis, pertussis, and haemophilus influenzae type b (Hib) pediatric vaccines; respiratory syncytial virus protection and hexavalent combination vaccines that includes hepatitis A, typhoid, yellow fever, and rabies vaccines.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Cheplapharm&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 26.4%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Regulatory approvals and employee consultations&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $42.59 · Mkt cap $102.19B · EV $122.36B · Fwd P/E 8.8x · Fwd EV/EBITDA 7.2x · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1121404/000119312526393653/0001193125-26-393653-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SNY, SNYNF&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
