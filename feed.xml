@@ -6,8 +6,42 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 10:12:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:13:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Special Dividend · TIMB</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1826168/000129281426004718/timb20260925_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004718</guid>
+      <pubDate>Mon, 28 Sep 2026 05:13:09 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>special_dividend</category>
+      <category>6-K</category>
+      <scanner:headline>Proposes R$515M interest on equity distribution (~R$0.2167/share)</scanner:headline>
+      <scanner:shortName>TIM</scanner:shortName>
+      <scanner:price>18.16</scanner:price>
+      <scanner:subtype>special_dividend</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>TIMB</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>8575890000</scanner:marketCap>
+      <scanner:enterpriseValue>10878090000</scanner:enterpriseValue>
+      <scanner:fwdPE>9.86</scanner:fwdPE>
+      <scanner:fwdEvEbitda>3.80</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.77</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Proposes R$515M interest on equity distribution (~R$0.2167/share)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;TIM S.A.&amp;#39;s Fiscal Council approved a proposal for the distribution of R$515,000,000.00 (R$0.2166801148 per share) as Interest on Shareholders&amp;#39; Equity. The payment is expected by January 22, 2027, with the record date for entitlement being September 22, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; TIM S.A. engages in the telecommunications sector in Brazil. It offers landline switched telephone services in local, national, and international long-distance modes, as well as personal mobile and multimedia communication services. The company is based in Rio de Janeiro, Brazil. TIM S.A. is a subsidiary of TIM Brasil Serviços e Participações S.A.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Per share (BRL):&lt;/b&gt; R$0.2166801148&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; R$515,000,000.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-01-22&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $18.16 · Mkt cap $8.58B · EV $10.88B · Fwd P/E 9.9x · Fwd EV/EBITDA 3.8x · Communication Services / Wireless Telecommunication Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1826168/000129281426004718/0001292814-26-004718-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TIMB&lt;/b&gt; · 6-K · Communications (4813) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Unsolicited · GFI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1172724/000162828026063642/sens28september2026.htm</link>
@@ -15525,39 +15559,6 @@
 &lt;p&gt;&lt;i&gt;Px $19.23 · Mkt cap $752.7M · EV $578.7M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1674632/000119312526392088/0001193125-26-392088-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BBNX&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Instruments / Medical Devices (3841) · 8k_tier1:7.01,8.01 · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · JBS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1791942/000121390026100180/ea0305591-8k_jbs.htm</link>
-      <guid isPermaLink="false">0001213900-26-100180</guid>
-      <pubDate>Tue, 15 Sep 2026 16:09:05 -0500</pubDate>
-      <category>MERGER</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Combines leather assets with Viva in 50/50 JV</scanner:headline>
-      <scanner:shortName>JBS</scanner:shortName>
-      <scanner:price>12.28</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>JBS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>13397320000</scanner:marketCap>
-      <scanner:enterpriseValue>36403420000</scanner:enterpriseValue>
-      <scanner:fwdPE>12.83</scanner:fwdPE>
-      <scanner:fwdEvEbitda>6.67</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Combines leather assets with Viva in 50/50 JV&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;JBS N.V.&amp;#39;s subsidiary JBS S.A. signed an association agreement with Viva Holding to combine leather production and chemical assets into a new 50/50-owned company, JBS Viva. JBS will contribute its leather division via JBS Couros; Viva contributes its leather and chemical businesses. Excluded assets (collagen, gelatin, Cactus TX plant, etc.) remain outside. Closing subject to customary conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; JBS N.V., together with its subsidiaries, engages in the processing of animal proteins, encompassing activities related to beef, pork, lamb, and poultry worldwide. The company is involved in the production and marketing of prepared foods and other related products, as well as operations in leather, collagen, hygiene and beauty products, metal packaging, biodiesel, and other related businesses.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Viva Holding Ltda.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 50%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Satisfaction of conditions precedent&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $12.28 · Mkt cap $13.40B · EV $36.40B · Fwd P/E 12.8x · Fwd EV/EBITDA 6.7x · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1791942/000121390026100180/0001213900-26-100180-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JBS&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Food &amp;amp; Kindred (2011) · 8k_tier1:8.01 · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
