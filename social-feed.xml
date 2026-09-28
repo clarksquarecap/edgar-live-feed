@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 10:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:30:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FLZH 📉 Delisting · Forced
+Nasdaq continued listing hearing Oct 6; commenced trading on OTCID
+effective 2026-10-06
+Mcap $4M · EV $72M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1706524/000121390026103692/ea0306693-8k_flash.htm</link>
+      <guid isPermaLink="false">0001213900-26-103692</guid>
+      <pubDate>Mon, 28 Sep 2026 05:29:59 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
+    <item>
+      <title>$CELU 🪙 Debt Restr.
+Issued $11.01M senior secured convertible notes + warrants; purchaser gains board seat
+Mcap $40M · EV $109M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1752828/000149315226044421/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044421</guid>
+      <pubDate>Mon, 28 Sep 2026 05:29:43 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$BUR ⚖️ Litigation · Won
+Wins $1.4B entitlement from $5.7B jury verdict in patent case
+Mcap $799M · EV $3.1B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1714174/000171417426000106/bur-20260928.htm</link>
+      <guid isPermaLink="false">0001714174-26-000106</guid>
+      <pubDate>Mon, 28 Sep 2026 05:29:14 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
     <item>
       <title>$NIO 📤 Divestiture
 Sells 30% stake in NIO Power to Geely for equity + RMB640M cash
