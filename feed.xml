@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 10:30:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:39:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · WBUY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1946703/000121390026103727/ea0306044-6k_webuy.htm</link>
+      <guid isPermaLink="false">0001213900-26-103727</guid>
+      <pubDate>Mon, 28 Sep 2026 05:38:59 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Enters definitive share purchase agreement with Dogwood Partners</scanner:headline>
+      <scanner:shortName>WEBUY GLOBAL</scanner:shortName>
+      <scanner:price>0.8300</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>WBUY</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>4330000</scanner:marketCap>
+      <scanner:enterpriseValue>2170000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.12</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>0.96</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>0.96</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>12.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Enters definitive share purchase agreement with Dogwood Partners&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Disclosed a definitive share purchase agreement with Dogwood Partners on July 23, 2026, which includes an equity line of credit. The company also referenced a share swap agreement with New Retail International Pte Ltd, dated March 21, 2025.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Webuy Global Ltd provides outbound and inbound travel services through WeTrip travel platform in Singapore, Indonesia, and Malaysia. It offers travel booking services, itinerary planning, travel product distribution, and inbound China travel services; outbound travel services under the Webuy Travel brand; and other services to premium travel segment under the Altitude brand. The company was founded in 2019 and is headquartered in Singapore.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Dogwood Partners&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-23&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.8300 · Mkt cap $4.3M · EV $2.2M · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1946703/000121390026103727/0001213900-26-103727-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WBUY&lt;/b&gt; · 6-K · Retail; Misc (5900) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · FLZH</title>
       <link>https://www.sec.gov/Archives/edgar/data/1706524/000121390026103692/ea0306693-8k_flash.htm</link>
@@ -15559,37 +15596,6 @@
 &lt;p&gt;&lt;i&gt;Px $8.88 · Mkt cap $1.72B · EV $10.43B · Fwd P/E 21.7x · Fwd EV/EBITDA 6.0x · Communication Services / Diversified Telecommunication Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1712184/000171218426000148/0001712184-26-000148-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LILA, LILAB, LILAK, LILAP&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Communications (4841) · 8k_tier1:7.01 · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · EVGN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574565/000117891326004516/zk2636119.htm</link>
-      <guid isPermaLink="false">0001178913-26-004516</guid>
-      <pubDate>Tue, 15 Sep 2026 16:30:24 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Faces dissident tender offer threat from L.I.A. Pure Capital and Invest Pro Shukai Hon</scanner:headline>
-      <scanner:shortName>Evogene</scanner:shortName>
-      <scanner:price>0.5300</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>EVGN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>8220000</scanner:marketCap>
-      <scanner:enterpriseValue>10030000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Faces dissident tender offer threat from L.I.A. Pure Capital and Invest Pro Shukai Hon&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Faces a special tender offer threat from dissident shareholders L.I.A. Pure Capital Ltd. and Invest Pro Shukai Hon Ltd., who challenged the September 4 AGM voting results and served notice on September 8 of intent to launch a tender offer under Section 328 of the Israeli Companies Law. The company is in discussions to resolve the matter. Two directors, Yoshinori Oikawa and Yael Margolin, resigned on September 9, unrelated to the dispute.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Evogene Ltd., together with its subsidiaries, operates as a computational biology company in Israel, the United States, Europe, and Africa. It operates through three segments: Agriculture, Human Health, and Industrial Applications. The company engages in the agricultural activities, including seed traits and ag-chemicals activities; and design novel small molecules for drug development by utilizing ChemPass AI, a computational generative AI engine.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; L.I.A. Pure Capital Ltd. and Invest Pro Shukai Hon Ltd.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Ongoing discussions with dissident shareholders&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.5300 · Mkt cap $8.2M · EV $10.0M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1574565/000117891326004516/0001178913-26-004516-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EVGN&lt;/b&gt; · 6-K · Chemicals / Pharma (2870) · prefill_form:6-K · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
