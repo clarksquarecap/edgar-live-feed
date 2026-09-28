@@ -6,8 +6,39 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 10:14:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:23:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GPUS 📍 Stake
+Ault &amp; Co. reports 60.8% stake in Hyperscale Data
+Mcap $28M · EV $139M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/896493/000119380526001290/0001193805-26-001290-index.htm</link>
+      <guid isPermaLink="false">0001193805-26-001290</guid>
+      <pubDate>Mon, 28 Sep 2026 05:16:52 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$IPEX 🤝 Merger
+Acquires GOWell Technology; combined entity to trade as GOW on Nasdaq Sept 28
+stock
+Mcap $33M · EV $34M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2028355/000121390026103669/ea0306567-8k_inflection5.htm</link>
+      <guid isPermaLink="false">0001213900-26-103502</guid>
+      <pubDate>Mon, 28 Sep 2026 05:16:37 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$CRAC 🤝 Merger
+Extends Carvix business combination outside date to Feb 10, 2027
+empty · close 2027-02-10
+Mcap $229M · EV $229M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2070887/000121390026103656/ea0306690-8k425_crown1.htm</link>
+      <guid isPermaLink="false">0001213900-26-103658</guid>
+      <pubDate>Mon, 28 Sep 2026 05:16:37 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$KEN 📤 Divestiture
 Sells subsidiary's distributed energy business for NIS 272M (~$90M)
@@ -79,17 +110,6 @@ Mcap $53B · EV $113B · Utilities</title>
       <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926111074/tm2624792d3_425.htm</link>
       <guid isPermaLink="false">0001104659-26-111074</guid>
       <pubDate>Mon, 28 Sep 2026 05:10:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CRAC 🤝 Merger
-Extends Carvix business combination outside date to Feb 10, 2027
-empty · close 2027-02-10
-Mcap $229M · EV $229M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2070887/000121390026103658/ea0306690-8k425_crown1.htm</link>
-      <guid isPermaLink="false">0001213900-26-103658</guid>
-      <pubDate>Mon, 28 Sep 2026 05:09:38 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
