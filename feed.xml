@@ -6,8 +6,40 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 21:04:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:11:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · FFAI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1805521/000121390026104130/ea0306819-8k_faraday.htm</link>
+      <guid isPermaLink="false">0001213900-26-104130</guid>
+      <pubDate>Mon, 28 Sep 2026 16:10:59 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells robotics business to AIxCrypto Holdings for $200M stock; close Q4 2026</scanner:headline>
+      <scanner:shortName>FARADAY FUTURE INTELLIGENT ELECTRIC</scanner:shortName>
+      <scanner:price>1.41</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>FFAI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>6210000</scanner:marketCap>
+      <scanner:enterpriseValue>177370000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>117.15</scanner:evSalesLtm>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells robotics business to AIxCrypto Holdings for $200M stock; close Q4 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a non-binding term sheet to sell its robotics business to AIxCrypto Holdings, Inc., its majority-owned subsidiary, for an aggregate purchase price of US$200 million. The consideration will be paid in AIxC common stock and non-voting convertible preferred stock. The transaction, reviewed by a special committee, is expected to close in the fourth quarter of 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Faraday Future Intelligent Electric Inc. is a U.S.-based Physical AI ecosystem company that offers robotics and mobility solutions through AI innovation and technologies. The company focuses in two product strategies within the Embodied AI (EAI) robotics business; EAI humanoid and bionic robots, and EAI automotive-focused robots. The company was formerly known as Faraday&amp;amp;Future Inc. and changed its name to Faraday Future Intelligent Electric Inc. in July 2022.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; AIxCrypto Holdings, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; execution of definitive agreements&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.41 · Mkt cap $6.2M · EV $177.4M · Consumer Discretionary / Automobiles&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1805521/000121390026104130/0001213900-26-104130-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FFAI&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Transportation Equipment (3711) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · VACI</title>
       <link>https://www.sec.gov/Archives/edgar/data/2080023/000121390026104115/ea0306906-8k425_viking1.htm</link>
@@ -15855,37 +15887,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $0.7600 · Mkt cap $214.4M · EV $240.5M · Fwd P/E 5.7x · Fwd EV/EBITDA 3.2x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LUCMF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Unsolicited · YI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738906/000095010326014068/dp253510_6k.htm</link>
-      <guid isPermaLink="false">0000950103-26-014068</guid>
-      <pubDate>Thu, 17 Sep 2026 05:15:40 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-      <category>6-K</category>
-      <scanner:headline>Unsolicited $4.52/ADS go-private bid from co-founders + sponsor</scanner:headline>
-      <scanner:shortName>111</scanner:shortName>
-      <scanner:price>3.38</scanner:price>
-      <scanner:subtype>unsolicited</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>YI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>29730000</scanner:marketCap>
-      <scanner:enterpriseValue>152190000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Unsolicited $4.52/ADS go-private bid from co-founders + sponsor&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received an unsolicited preliminary non-binding proposal from its co-founders (Dr. Gang Yu and Junling Liu) and Huadeng Tech BioArray Ventures to acquire all outstanding Class A shares not already owned by the Buyer Group at $0.226 per Class A share or $4.52 per ADS (1 ADS = 20 Class A shares) in cash. The board has not yet evaluated the proposal; no assurance of a definitive offer.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; 111, Inc., together with its subsidiaries, operates an integrated online and offline platform in the healthcare market in the People&amp;#39;s Republic of China. It operates through two segments, B2C and B2B. The company offers supply chain integration services that help pharmaceutical companies manage products through online and offline channels; product promotion, customer analytics, patient education, and brand awareness services; and marketing and channel data services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Buyer Group (co-founders + Huadeng Tech BioArray Ventures)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $4.52 per ADS&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Board evaluation of proposal&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.38 · Mkt cap $29.7M · EV $152.2M · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1738906/000095010326014068/0000950103-26-014068-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;YI&lt;/b&gt; · 6-K · Retail; Misc (5912) · prefill_form:6-K · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
