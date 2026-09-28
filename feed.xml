@@ -6,8 +6,42 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 10:10:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:12:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Unsolicited · GFI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1172724/000162828026063642/sens28september2026.htm</link>
+      <guid isPermaLink="false">0001628280-26-063642</guid>
+      <pubDate>Mon, 28 Sep 2026 05:12:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+      <category>6-K</category>
+      <scanner:headline>Proposes to acquire Northern Star for A$27.00/share cash+stock; board rejected</scanner:headline>
+      <scanner:shortName>GOLD FIELDS</scanner:shortName>
+      <scanner:price>40.38</scanner:price>
+      <scanner:subtype>unsolicited</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>GFI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>35903860000</scanner:marketCap>
+      <scanner:enterpriseValue>36593820000</scanner:enterpriseValue>
+      <scanner:fwdPE>8.08</scanner:fwdPE>
+      <scanner:fwdEvEbitda>4.42</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>5.55</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Proposes to acquire Northern Star for A$27.00/share cash+stock; board rejected&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited confirms it submitted a non-binding, indicative proposal to acquire Northern Star Resources Ltd for A$27.00 per share, consisting of 0.3125 Gold Fields shares and A$7.25 cash. The offer represents a 22% premium to Northern Star&amp;#39;s closing price on September 11, 2026. Northern Star&amp;#39;s board rejected the proposal, but Gold Fields remains open to constructive dialogue.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Gold Fields Limited operates as a gold producer with reserves and resources in South Africa, Ghana, Australia, Peru, Canada, and Chile. It also explores for gold, copper and silver deposits. Gold Fields Limited was founded in 1887 and is based in Sandton, South Africa.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Northern Star Resources Ltd&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price (AUD):&lt;/b&gt; A$27.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 22%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 33%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $40.38 · Mkt cap $35.90B · EV $36.59B · Fwd P/E 8.1x · Fwd EV/EBITDA 4.4x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1172724/000162828026063642/0001628280-26-063642-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GFI, GFIOF&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · RACC</title>
       <link>https://www.sec.gov/Archives/edgar/data/2118032/000119312526403078/d149484ds4a.htm</link>
@@ -15524,40 +15558,6 @@
 &lt;p&gt;&lt;i&gt;Px $12.28 · Mkt cap $13.40B · EV $36.40B · Fwd P/E 12.8x · Fwd EV/EBITDA 6.7x · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1791942/000121390026100180/0001213900-26-100180-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JBS&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Food &amp;amp; Kindred (2011) · 8k_tier1:8.01 · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Unsolicited · SKYA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/38264/000168316826007172/forward_8k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042586</guid>
-      <pubDate>Tue, 15 Sep 2026 16:08:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
-      <category>8-K</category>
-      <scanner:headline>Proposes $2.13/share (0.306 FWDI shares) for SkyAI</scanner:headline>
-      <scanner:shortName>SkyAI</scanner:shortName>
-      <scanner:price>1.40</scanner:price>
-      <scanner:subtype>unsolicited</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>SKYA</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>DEFA14A, 8-K</scanner:filingForms>
-      <scanner:related>FWDI</scanner:related>
-      <scanner:marketCap>59320000</scanner:marketCap>
-      <scanner:enterpriseValue>47550000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Rejects Forward&amp;#39;s all-stock acquisition proposal&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;SkyAI&amp;#39;s Special Committee reviewed and rejected Forward Industries&amp;#39; unsolicited, non-binding, all-stock acquisition proposal, concluding it was not in shareholders&amp;#39; best interests. The board reaffirms its Solana DAT strategy and recommends voting FOR director nominees and the 2026 Equity Incentive Plan at the Annual Meeting on September 18, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SkyAI, Inc. engages in building an Agentic finance for the global south. It combines stablecoin rails with AI to deliver financial access, education, and actionable intelligence to the underbanked users in Asia, Latin America, and Africa. The company was formerly known as Sharps Technology, Inc. and changed its name to SkyAI, Inc. in May 2026. SkyAI, Inc. was incorporated in 2017 and is based in Melville, New York.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Forward Industries, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Annual Meeting Sept 18, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.40 · Mkt cap $59.3M · EV $47.5M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1737995/000149315226042586/0001493152-26-042586-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SKYA, SKYAW&lt;/b&gt; · DEFA14A · Non-Depository Credit (6199) · prefill_form:DEFA14A · filed 2026-09-14&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 15 16:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/38264/000168316826007172/forward_8k.htm'&gt;Proposes $2.13/share (0.306 FWDI shares) for SkyAI&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 14 15:32 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1737995/000149315226042586/formdefa14a.htm'&gt;Rejects Forward&amp;#39;s all-stock acquisition proposal&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer FWDI also filed 8-K&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
