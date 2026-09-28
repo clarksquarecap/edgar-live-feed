@@ -6,8 +6,83 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 12:05:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:13:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Won · MIRM</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1759425/000175942526000049/mirm-20260925.htm</link>
+      <guid isPermaLink="false">0001759425-26-000049</guid>
+      <pubDate>Mon, 28 Sep 2026 07:13:05 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+      <category>8-K</category>
+      <scanner:headline>FDA approves Atebrioz for FOP; Phase 3 brelovitug met primary endpoint</scanner:headline>
+      <scanner:shortName>Mirum Pharmaceuticals</scanner:shortName>
+      <scanner:price>89.70</scanner:price>
+      <scanner:subtype>won</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>MIRM</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>5824420000</scanner:marketCap>
+      <scanner:enterpriseValue>6149080000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>9.95</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>12.17</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>12.17</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>81.72</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;FDA approves Atebrioz for FOP; Phase 3 brelovitug met primary endpoint&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced FDA approval of Atebrioz™ (zilurgisertib) tablets to reduce heterotopic ossification in adult and pediatric FOP patients. The company also announced that brelovitug met its primary endpoint in the Phase 3 AZURE-1 study for chronic hepatitis delta virus, with 56% of patients in the 300 mg QW arm achieving the combined endpoint of virologic response and ALT normalization at Week 24.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Mirum Pharmaceuticals, Inc., a biopharmaceutical company, focuses on the development and commercialization of novel therapies for debilitating rare and orphan diseases. Its lead product candidate is LIVMARLI (maralixibat), an orally administered and minimally absorbed ileal bile acid transporter (IBAT) inhibitor that is approved for the treatment of cholestatic pruritus in patients with Alagille syndrome in the United States and internationally.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $89.70 · Mkt cap $5.82B · EV $6.15B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1759425/000175942526000049/0001759425-26-000049-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MIRM&lt;/b&gt; · 8-K · Items 8.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙 Debt Restr. · MSTR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526403425/mstr-20260928.htm</link>
+      <guid isPermaLink="false">0001193125-26-402937</guid>
+      <pubDate>Mon, 28 Sep 2026 07:12:01 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Seeks shareholder vote on changes to preferred stock terms</scanner:headline>
+      <scanner:shortName>Strategy</scanner:shortName>
+      <scanner:price>158.60</scanner:price>
+      <scanner:subtype />
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>MSTR</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>DEFA14A x2</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>62094720000</scanner:marketCap>
+      <scanner:enterpriseValue>80858410000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>162.25</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>240.02</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>2.30</scanner:fwdPE>
+      <scanner:fwdEvGrossProfit>240.69</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>67.60</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Seeks vote on preferred stock term changes at Special Meeting&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is soliciting proxies for a Special Meeting of Stockholders to vote on proposed changes to the terms of its Series A Perpetual Strife, Variable Rate Series A Perpetual Stretch, 8.00% Series A Perpetual Strike, and 10.00% Series A Perpetual Stride Preferred Stock. The company has filed preliminary proxy materials and will mail definitive materials to shareholders.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Strategy Inc, together with its subsidiaries, operates as a bitcoin treasury company in the United States, Europe, the Middle East, Africa, and internationally. It offers investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed income instruments.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special Meeting of Stockholders&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $158.60 · Mkt cap $62.09B · EV $80.86B · Fwd P/E 2.3x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1050446/000119312526402937/0001193125-26-402937-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MSTR, STRC, STRD, STRF, STRK&lt;/b&gt; · DEFA14A · Non-Depository Credit (6199) · prefill_form:DEFA14A · filed 2026-09-25&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Sep 28 07:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1050446/000119312526403425/mstr-20260928.htm'&gt;Seeks shareholder vote on changes to preferred stock terms&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 25 15:56 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1050446/000119312526402937/mstr-20260925.htm'&gt;Seeks vote on preferred stock term changes at Special Meeting&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · AIMD</title>
       <link>https://www.sec.gov/Archives/edgar/data/1014763/000149315226044454/form8-k.htm</link>
@@ -2383,43 +2458,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.64 · Mkt cap $2.32B · EV $5.83B · Fwd P/E 8.1x · Fwd EV/EBITDA 7.3x · Consumer Staples / Personal Care Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1024305/000102430526000065/0001024305-26-000065-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;COTY&lt;/b&gt; · DEFR14A · Chemicals / Pharma (2844) · prefill_form:DEFR14A · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · MSTR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526402937/mstr-20260925.htm</link>
-      <guid isPermaLink="false">0001193125-26-402937</guid>
-      <pubDate>Fri, 25 Sep 2026 15:56:55 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Seeks vote on preferred stock term changes at Special Meeting</scanner:headline>
-      <scanner:shortName>Strategy</scanner:shortName>
-      <scanner:price>158.60</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>MSTR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFA14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>62094720000</scanner:marketCap>
-      <scanner:enterpriseValue>80858410000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>162.25</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>240.02</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>2.30</scanner:fwdPE>
-      <scanner:fwdEvGrossProfit>240.69</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>67.60</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Seeks vote on preferred stock term changes at Special Meeting&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is soliciting proxies for a Special Meeting of Stockholders to vote on proposed changes to the terms of its Series A Perpetual Strife, Variable Rate Series A Perpetual Stretch, 8.00% Series A Perpetual Strike, and 10.00% Series A Perpetual Stride Preferred Stock. The company has filed preliminary proxy materials and will mail definitive materials to shareholders.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Strategy Inc, together with its subsidiaries, operates as a bitcoin treasury company in the United States, Europe, the Middle East, Africa, and internationally. It offers investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed income instruments.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special Meeting of Stockholders&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $158.60 · Mkt cap $62.09B · EV $80.86B · Fwd P/E 2.3x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1050446/000119312526402937/0001193125-26-402937-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MSTR, STRC, STRD, STRF, STRK&lt;/b&gt; · DEFA14A · Non-Depository Credit (6199) · prefill_form:DEFA14A · filed 2026-09-25&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · PULM</title>
@@ -15646,39 +15684,6 @@
 &lt;p&gt;&lt;i&gt;Px $47.26 · Mkt cap $75.42B · EV $82.53B · Fwd P/E 26.2x · Fwd EV/EBITDA 23.2x · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1937926/000117184326006060/0001171843-26-006060-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BAM&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Securities / Broker-Dealers (6282) · 8k_tier1:8.01 · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Lost · TCOM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1269238/000119312526392473/d167816d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-392473</guid>
-      <pubDate>Wed, 16 Sep 2026 05:17:37 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
-      <category>6-K</category>
-      <scanner:headline>Fined RMB5.2B by SAMR anti-monopoly penalty</scanner:headline>
-      <scanner:shortName>Trip.com Group</scanner:shortName>
-      <scanner:price>39.25</scanner:price>
-      <scanner:subtype>lost</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>TCOM</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>24715930000</scanner:marketCap>
-      <scanner:enterpriseValue>17748380000</scanner:enterpriseValue>
-      <scanner:fwdPE>11.88</scanner:fwdPE>
-      <scanner:fwdEvEbitda>7.52</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Fined RMB5.2B by SAMR anti-monopoly penalty&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Reported a RMB5.2 billion (US$763 million) anti-monopoly penalty from China&amp;#39;s SAMR, driving a Q2 net loss of RMB2.4 billion. Excluding the penalty, net income would have been RMB2.7 billion. The penalty is a one-time charge in general and administrative expenses.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Trip.com Group Limited, through its subsidiaries, operates as a travel service provider for accommodation reservation, transportation ticketing, packaged tours, in-destination, corporate travel management, and other travel-related services in China and internationally. It acts as an agent for hotel-related transactions and selling air tickets, as well as provides train, long-distance bus, and ferry tickets; travel insurance products, such as flight delay, air accident, and baggage loss coverage;…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; SAMR&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $39.25 · Mkt cap $24.72B · EV $17.75B · Fwd P/E 11.9x · Fwd EV/EBITDA 7.5x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1269238/000119312526392473/0001193125-26-392473-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TCOM, TRPCF&lt;/b&gt; · 6-K · Business Services (7389) · prefill_form:6-K · filed 2026-09-16&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
