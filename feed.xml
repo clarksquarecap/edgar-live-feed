@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 20:42:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 20:48:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · SUNC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2089661/000208966126000070/suncform25notificationofre.htm</link>
+      <guid isPermaLink="false">0002089661-26-000070</guid>
+      <pubDate>Mon, 28 Sep 2026 15:48:53 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>25</category>
+      <scanner:headline>Voluntary NYSE delisting of Common Units effective today</scanner:headline>
+      <scanner:shortName>SunocoCorp</scanner:shortName>
+      <scanner:price>75.30</scanner:price>
+      <scanner:subtype>voluntary</scanner:subtype>
+      <scanner:form>25</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>SUNC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>25</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3931790000</scanner:marketCap>
+      <scanner:enterpriseValue>23755790000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.60</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>5.03</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>5.74</scanner:fwdPE>
+      <scanner:fwdEvEbitda>6.39</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>5.03</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>11.93</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Voluntary NYSE delisting of Common Units effective today&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Has filed Form 25 to voluntarily withdraw its Common Units Representing Limited Liability Company Interests from listing and registration on the New York Stock Exchange. The delisting is effective on September 28, 2026, as the company has complied with 17 CFR 240.12d2-2(c).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SunocoCorp LLC engages in energy infrastructure and distribution of motor fuels in North America, the Greater Caribbean, and Europe. It operates through four segments: Fuel Distribution, Pipeline Systems, Terminals, and Refinery. Its midstream operations include a network of approximately 14,000 miles of pipeline and 160 terminals. It distributes its fuel to partner-branded retail locations, as well as to independent dealers and commercial customers.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $75.30 · Mkt cap $3.93B · EV $23.76B · Fwd P/E 5.7x · Fwd EV/EBITDA 6.4x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2089661/000208966126000070/0002089661-26-000070-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SUNC&lt;/b&gt; · 25 · Petroleum Refining (2911) · prefill_form:25 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · TH</title>
       <link>https://www.sec.gov/Archives/edgar/data/1712189/000095014226002613/0000950142-26-002613-index.htm</link>
@@ -15828,40 +15866,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CLYD&lt;/b&gt; · SC TO-I · Chemicals / Pharma (2834) · prefill_form:SC TO-I · filed 2026-09-15&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 17 05:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2094256/000110465926108353/tm2625583d1_8k.htm'&gt;Launches $15M self-tender at $6.6609/share&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-I · Sep 15 08:33 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2094256/000110465926107741/tm2625364d1_sctoi.htm'&gt;Offers $15M self-tender at $6.6609/share&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · IBO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1834105/000149315226042975/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042161</guid>
-      <pubDate>Thu, 17 Sep 2026 05:08:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>F-4 filed for merger with Zoar Limited; vote pending</scanner:headline>
-      <scanner:shortName>IMPACT BIOMEDICAL</scanner:shortName>
-      <scanner:price>0.4800</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>IBO</scanner:ticker>
-      <scanner:filings>5</scanner:filings>
-      <scanner:filingForms>F-4, 425 x3, 8-K</scanner:filingForms>
-      <scanner:related>ZOAR</scanner:related>
-      <scanner:marketCap>52200000</scanner:marketCap>
-      <scanner:enterpriseValue>55430000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;F-4 filed for merger with Zoar Limited; vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that Zoar Limited filed a Form F-4 registration statement with the SEC for the proposed business combination, which includes Impact&amp;#39;s preliminary proxy statement. The merger is expected to create a pharmaceutical company focused on API development and supply. Completion is subject to SEC effectiveness, Impact stockholder approval, and NYSE American listing approval.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Impact BioMedical Inc. discovers, develops, and commercializes products and technologies to address unmet needs in human healthcare and wellness for specialty biopharmaceuticals, antivirals, antimicrobials, consumer healthcare, and wellness products in the United States. The company provides Linebacker, a platform of small molecule electrophilically enhanced polyphenol compounds with application in oncology, inflammatory disorders, and neurology; and Laetose technology that is derived from a uni…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Zoar Limited&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; SEC effectiveness and stockholder vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.4800 · Mkt cap $52.2M · EV $55.4M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1834105/000149315226042975/0001493152-26-042975-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IBO&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01 · filed 2026-09-17&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (5)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 17 05:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1834105/000149315226042975/form8-k.htm'&gt;F-4 filed for merger with Zoar Limited; vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 17 05:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2078148/000149315226042978/form425.htm'&gt;Files F-4 for merger with Impact Biomedical&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 15 05:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2078148/000149315226042640/form425.htm'&gt;Acquires Impact Biomedical; corrects exchange ratio to 1:1 post-split&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 15 05:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2078148/000149315226042644/form425.htm'&gt;Acquires Impact Biomedical; corrects exchange ratio to 1:1 after 1-for-12.62 reverse split&lt;/a&gt;&lt;/li&gt;&lt;li&gt;F-4 · Sep 10 15:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2078148/000149315226042161/formf-4.htm'&gt;Acquires Impact BioMedical for up to 180M shares&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer ZOAR also filed 425 x3&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
