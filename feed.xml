@@ -6,8 +6,118 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 11:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:09:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · JAGX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1585608/000119312526403356/d187815d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-400087</guid>
+      <pubDate>Mon, 28 Sep 2026 06:08:27 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Issues 481,584 shares to Streeterville for $3.4M debt reduction</scanner:headline>
+      <scanner:shortName>Jaguar Health</scanner:shortName>
+      <scanner:price>8.91</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>JAGX</scanner:ticker>
+      <scanner:filings>3</scanner:filings>
+      <scanner:filingForms>8-K x3</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3070000</scanner:marketCap>
+      <scanner:enterpriseValue>15890000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.57</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>0.69</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>1.08</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>82.31</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Exchanges $5.05M debt for 547,898 shares with Streeterville&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Issued 547,898 shares of common stock to Streeterville Capital in exchange for a $5,049,909.26 reduction in the outstanding balance of its secured promissory note. The exchange reduces debt and increases share count; the company had approximately 1,281,867 shares outstanding after the transaction.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Jaguar Health, Inc., a commercial-stage pharmaceuticals company, focuses on developing plant-based prescription medicines for people and animals with gastrointestinal distress. It operates through two segments, Animal Health and Human Health. The company focuses on developing and commercializing prescription and non-prescription products for companion and production animals; and human products.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Streeterville Capital, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5,049,909.26&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $8.91 · Mkt cap $3.1M · EV $15.9M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526400087/0001193125-26-400087-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JAGX&lt;/b&gt; · 8-K · Items 1.01, 3.02, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01,8.01 · filed 2026-09-24&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 28 06:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526403356/d187815d8k.htm'&gt;Issues 481,584 shares to Streeterville for $3.4M debt reduction&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 25 05:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526401239/d130901d8k.htm'&gt;Exchanges $6.73M debt for 729,989 shares with Streeterville; Streeterville now holds ~50%&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 24 05:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526400087/d161376d8k.htm'&gt;Exchanges $5.05M debt for 547,898 shares with Streeterville&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>⚖️ Litigation · Lost · FLUT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1635327/000119312526403357/d484581d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-403357</guid>
+      <pubDate>Mon, 28 Sep 2026 06:08:11 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>lost</category>
+      <category>8-K</category>
+      <scanner:headline>Ceases Brazil operations after government ban on online betting; $70M revenue hit</scanner:headline>
+      <scanner:shortName>Flutter Entertainment</scanner:shortName>
+      <scanner:price>83.23</scanner:price>
+      <scanner:subtype>lost</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>FLUT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>14443660000</scanner:marketCap>
+      <scanner:enterpriseValue>26012660000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.52</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.57</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>13.87</scanner:fwdPE>
+      <scanner:fwdEvEbitda>9.01</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.57</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>42.46</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Ceases Brazil operations after government ban on online betting; $70M revenue hit&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Has ceased its online sports betting and iGaming operations in Brazil following a provisional executive order by the Brazilian Government banning such activities. This ban is expected to reduce 2026 revenue by approximately $70 million and adjusted EBITDA by $20 million. Flutter is reviewing all available options, including a potential appeal, and the order requires Congressional approval within 120 days.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Flutter Entertainment plc operates as a sports betting and gaming company in the United States, the United Kingdom, Ireland, Australia, Italy, and internationally. It provides sportsbooks; iGaming products, such as blackjack, roulette, slot machines, poker, and rummy, as well as lottery products; and sports betting products, which include Betfair betting exchanges, daily fantasy sports, and horse racing wagering under the TVG brand.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Brazilian Government&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Congressional review of ban within 120 days&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $83.23 · Mkt cap $14.44B · EV $26.01B · Fwd P/E 13.9x · Fwd EV/EBITDA 9.0x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1635327/000119312526403357/0001193125-26-403357-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FLUT&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Business Services (7370) · 8k_tier1:7.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>👀 Activist · PRFX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1801834/000117891326004625/zk2636164.htm</link>
+      <guid isPermaLink="false">0001178913-26-004625</guid>
+      <pubDate>Mon, 28 Sep 2026 06:07:46 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Faces board challenge from S.H.N. Financial; seeks to remove directors</scanner:headline>
+      <scanner:shortName>PRF Technologies</scanner:shortName>
+      <scanner:price>0.9800</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>PRFX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3420000</scanner:marketCap>
+      <scanner:evGrossProfitLtm>78.58</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>78.58</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Faces board challenge from S.H.N. Financial; seeks to remove directors&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a letter from S.H.N. Financial Investments Ltd., which holds approximately 5.7% of voting rights, requesting a special general meeting. S.H.N. seeks to remove the company&amp;#39;s directors, excluding external directors, and appoint three of its own nominees. The company is currently reviewing the letter and considering its next steps.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; PRF Technologies Ltd., a specialty pharmaceutical company, focuses on reformulation of established therapeutics in Israel. It develops OcuRing-K, a bio-erodible sustained-release implant applied to the haptic of an intraocular lens for use in cataract surgery; and PRF-110, a viscous clear oil-based solution that is instilled directly into the surgical wound to provide localized and extended post-operative analgesia. The company was formerly known as PainReform Ltd.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; S.H.N. Financial Investments Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.7%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.9800 · Mkt cap $3.4M · EV $-7.5M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1801834/000117891326004625/0001178913-26-004625-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PRFX&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · PBM</title>
       <link>https://www.sec.gov/Archives/edgar/data/1985062/000121390026103733/ea0306807-6k_psyence.htm</link>
@@ -4346,45 +4456,6 @@
 &lt;p&gt;&lt;i&gt;Px $11.50 · Mkt cap $11.9M · EV $12.8M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/720762/000149315226044216/0001493152-26-044216-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NIMU&lt;/b&gt; · S-4/A · Transportation Equipment (3760) · prefill_form:S-4 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · JAGX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1585608/000119312526401239/d130901d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-400087</guid>
-      <pubDate>Fri, 25 Sep 2026 05:05:23 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Exchanges $6.73M debt for 729,989 shares with Streeterville; Streeterville now holds ~50%</scanner:headline>
-      <scanner:shortName>Jaguar Health</scanner:shortName>
-      <scanner:price>8.91</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>JAGX</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3070000</scanner:marketCap>
-      <scanner:enterpriseValue>15890000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.57</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>0.69</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>1.08</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>82.31</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Exchanges $5.05M debt for 547,898 shares with Streeterville&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Issued 547,898 shares of common stock to Streeterville Capital in exchange for a $5,049,909.26 reduction in the outstanding balance of its secured promissory note. The exchange reduces debt and increases share count; the company had approximately 1,281,867 shares outstanding after the transaction.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Jaguar Health, Inc., a commercial-stage pharmaceuticals company, focuses on developing plant-based prescription medicines for people and animals with gastrointestinal distress. It operates through two segments, Animal Health and Human Health. The company focuses on developing and commercializing prescription and non-prescription products for companion and production animals; and human products.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Streeterville Capital, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5,049,909.26&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $8.91 · Mkt cap $3.1M · EV $15.9M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526400087/0001193125-26-400087-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JAGX&lt;/b&gt; · 8-K · Items 1.01, 3.02, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01,8.01 · filed 2026-09-24&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 25 05:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526401239/d130901d8k.htm'&gt;Exchanges $6.73M debt for 729,989 shares with Streeterville; Streeterville now holds ~50%&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 24 05:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526400087/d161376d8k.htm'&gt;Exchanges $5.05M debt for 547,898 shares with Streeterville&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · IPXG</title>
@@ -15569,66 +15640,6 @@
 &lt;p&gt;&lt;i&gt;Px $12.77 · Mkt cap $79.3M · EV $9.15B · Fwd EV/EBITDA 33.5x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1749723/000174972326000139/0001749723-26-000139-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NFE, NFEGP&lt;/b&gt; · SCHEDULE 13D/A · Utilities (4924) · fresh_13d · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · HSDT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1610853/000121390026100250/0001213900-26-100250-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-100250</guid>
-      <pubDate>Tue, 15 Sep 2026 19:10:54 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Raises stake to 9.76% via warrant exercise</scanner:headline>
-      <scanner:shortName>Solana Co</scanner:shortName>
-      <scanner:price>2.21</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>HSDT</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>139660000</scanner:marketCap>
-      <scanner:enterpriseValue>136010000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Raises stake to 9.76% via warrant exercise&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Pantera Capital and affiliates increased their aggregate stake in Solana Co to 9.76% (5,997,319 shares) from a prior level, reflecting the exercise of 1,000,000 warrants. The filing is Amendment No. 2 to the Schedule 13D originally filed September 25, 2025.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Solana Company operates as a listed digital asset treasury. The company enhances Solana tokens per share on the commercially viable blockchain for decentralized finance and consumer applications. It also focuses on neurological wellness. In addition, the company offers Portable Neuromodulation Stimulator, a non-implantable medical device, which delivers mild electrical stimulation to the surface of the tongue to provide treatment of gait deficit and chronic balance deficit.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.76%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.21 · Mkt cap $139.7M · EV $136.0M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1610853/000121390026100250/0001213900-26-100250-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HSDT&lt;/b&gt; · SCHEDULE 13D/A · Non-Depository Credit (6199) · fresh_13d · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔎 Strategic Review · Formal Alternatives · OILFF</title>
-      <link>https://www.otcmarkets.com/stock/OILFF/news/535242</link>
-      <guid isPermaLink="false">OTC-535242</guid>
-      <pubDate>Tue, 15 Sep 2026 19:04:06 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-      <category>OTC</category>
-      <scanner:headline>Launches strategic review; Kassem named interim CEO</scanner:headline>
-      <scanner:shortName>Nextleaf Solutions</scanner:shortName>
-      <scanner:price>0.0300</scanner:price>
-      <scanner:subtype>formal_alternatives</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>OILFF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>4280000</scanner:marketCap>
-      <scanner:enterpriseValue>4500000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Launches strategic review; Kassem named interim CEO&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced a strategic review and appointed Sam Kassem as interim CEO. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nextleaf Solutions Ltd., a cannabis extraction technology company, engages in the manufacture and distribution of cannabinoid vapes, oils, and softgels in Canada. The company is involved in toll processing, bulk ingredient supply, manufacturing and commercialization; extraction, distillation, and purification of CBD oils and THC cannabinoid ingredients, as well as engages in licensed processing activities.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0300 · Mkt cap $4.3M · EV $4.5M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OILFF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
