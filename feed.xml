@@ -6,8 +6,108 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 20:05:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 20:07:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · Out Of Court Restructuring · IQST</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1527702/000166357726000309/iqst8k092826.htm</link>
+      <guid isPermaLink="false">0001663577-26-000309</guid>
+      <pubDate>Mon, 28 Sep 2026 15:07:45 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>out_of_court_restructuring</category>
+      <category>8-K</category>
+      <scanner:headline>Restructures $500K GlobeTopper payment to cash; 51% stake pledged, faces rescission</scanner:headline>
+      <scanner:shortName>iQSTEL</scanner:shortName>
+      <scanner:price>0.9900</scanner:price>
+      <scanner:subtype>out_of_court_restructuring</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>IQST</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>10790000</scanner:marketCap>
+      <scanner:enterpriseValue>15800000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.04</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.51</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>10.73</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>1.51</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>2.66</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Restructures $500K GlobeTopper payment to cash; 51% stake pledged, faces rescission&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Amended its Unit Purchase Agreement for the 51% acquisition of GlobeTopper, converting a $500,000 stock payment obligation into a cash payment. The company is now obligated to pay $500,000 in cash installments, secured by the 51% GlobeTopper interest. Failure to pay could lead to acceleration of the debt, foreclosure on the collateral, or rescission of the original acquisition, requiring the return of the 51% stake to the seller.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; iQSTEL Inc. provides telecommunication services as a wholesale carrier of voice, short message service (SMS), and data for other telecom companies. The company provides VoIP, SMS, proprietary Internet of Things, and international fiber-optic communication services; international long-distance voice services for telecommunications operators; submarine fiber optic network capacity for internet, such as 4G and 5G; and network infrastructure services to the retail end users.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Craig Span&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 51%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.9900 · Mkt cap $10.8M · EV $15.8M · Fwd EV/EBITDA 10.7x · Communication Services / Diversified Telecommunication Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1527702/000166357726000309/0001663577-26-000309-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IQST&lt;/b&gt; · 8-K · Items 1.01, 2.03, 7.01, 9.01 · Communications (4813) · 8k_tier1:1.01,7.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · YMT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1991605/000121390026104027/ea0306833-6k_yimutian.htm</link>
+      <guid isPermaLink="false">0001213900-26-104027</guid>
+      <pubDate>Mon, 28 Sep 2026 15:06:44 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Completes 3 acquisitions for $51.96M in shares; expects Nasdaq compliance</scanner:headline>
+      <scanner:shortName>Yimutian</scanner:shortName>
+      <scanner:price>1.76</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>YMT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>860000</scanner:marketCap>
+      <scanner:enterpriseValue>7720000</scanner:enterpriseValue>
+      <scanner:fwdEvGrossProfit>0.45</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Completes 3 acquisitions for $51.96M in shares; expects Nasdaq compliance&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed three acquisitions for an aggregate of $51,961,390 in Class A ordinary shares. This includes 100% of Qingdao Xingongguan for $5.8M, assets from Zhaodong Guohe for $21.16M, and 33.33% of Qingdao Quanao for $25M. The company believes these transactions enable it to meet Nasdaq&amp;#39;s $2.5M stockholders&amp;#39; equity requirement for continued listing.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Yimutian Inc., through its subsidiaries, provides agricultural B2B platform services for agricultural product transaction in the People’s Republic of China. The company develops Yimutian App, an agricultural product B2B e-commerce platform; and Douniu App, an online agricultural product wholesale market circulation platform that matches offline transactions of agricultural products between sellers and wholesale buyers.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Qingdao Xingongguan, Zhaodong Guohe, Qingdao Quanao&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 51961390&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Nasdaq compliance confirmation&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.76 · Mkt cap $860K · EV $7.7M · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1991605/000121390026104027/0001213900-26-104027-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;YMT&lt;/b&gt; · 6-K · Business Services (7374) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Preliminary · FRSX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691221/000149315226044554/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044554</guid>
+      <pubDate>Mon, 28 Sep 2026 15:06:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+      <category>6-K</category>
+      <scanner:headline>Plans 50.01% acquisition of 270MW European Data Center developer</scanner:headline>
+      <scanner:shortName>Foresight Autonomous</scanner:shortName>
+      <scanner:price>1.17</scanner:price>
+      <scanner:subtype>preliminary</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>FRSX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>4750000</scanner:marketCap>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Plans 50.01% acquisition of 270MW European Data Center developer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a non-binding term sheet to acquire a 50.01% controlling interest in a company developing data centers in Poland. The target company is advancing two projects in Warsaw and Wroclaw with a combined planned capacity of up to 270 MW. The purchase price will be determined by an independent valuation and financed through a seller loan, with additional shareholder loans of up to $3.5 million from current shareholders.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Foresight Autonomous Holdings Ltd., a technology company, engages in the development of three-dimensional (3D) perception systems and cellular-based applications for the automotive industry in Israel, Japan, the United States, South Korea, France, and internationally. It develops in-line-of-sight vision solutions and beyond-line-of-site accident-prevention solutions.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Data Centers Company&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 50.01%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Definitive agreement&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.17 · Mkt cap $4.8M · EV $-1.9M · Consumer Discretionary / Automobile Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1691221/000149315226044554/0001493152-26-044554-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FRSX&lt;/b&gt; · 6-K · Business Services (7372) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🎯 Tender · RGR</title>
       <link>https://www.sec.gov/Archives/edgar/data/95029/000207709626000271/ea0306719-01.htm</link>
@@ -15687,99 +15787,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.2700 · Mkt cap $1.2M · EV $28.7M · Fwd EV/EBITDA 5.1x · Consumer Staples / Personal Care Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1562733/000121390026100556/0001213900-26-100556-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SNYR&lt;/b&gt; · 8-K · Items 3.01 · Chemicals / Pharma (2833) · 8k_tier1:3.01 · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · CLOQ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1437517/000149315226042937/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-042937</guid>
-      <pubDate>Wed, 16 Sep 2026 16:00:15 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Restructures convertible notes; converts interest to stock at $0.10; creates dual-class</scanner:headline>
-      <scanner:shortName>CYBERLOQ TECHNOLOGIES</scanner:shortName>
-      <scanner:price>0.1700</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>CLOQ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>25050000</scanner:marketCap>
-      <scanner:enterpriseValue>28580000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Restructures convertible notes; converts interest to stock at $0.10; creates dual-class&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into restated promissory notes with all convertible note holders, consolidating debt, extending maturity to Sept 1, 2028, and converting accrued interest through Aug 31, 2026 into common stock at $0.10 per share. The company will have no outstanding convertible debt after issuance. Separately, shareholders approved a charter amendment creating Class A voting and Class B non-voting common stock, with existing shares redesignated as Class A.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cyberloq Technologies, Inc., a development-stage technology company, focuses on fraud prevention and credit management solutions in the United States. It provides CyberloQ, a banking fraud prevention software platform for institutional clients to combat fraudulent transactions and unauthorized access to customer accounts and digital asset; TurnScor, a web-based proprietary software platform, which allows customers to monitor and manage their credit from the privacy of their own homes; and Cyberl…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-12&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1700 · Mkt cap $25.1M · EV $28.6M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1437517/000149315226042937/0001493152-26-042937-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CLOQ&lt;/b&gt; · 8-K · Items 1.01, 5.03, 5.07, 9.01 · Business Services (7372) · 8k_tier1:1.01 · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · RGR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/95029/000117494726000877/form8k-36350_rgr.htm</link>
-      <guid isPermaLink="false">0001174947-26-000877</guid>
-      <pubDate>Wed, 16 Sep 2026 15:52:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Regulatory conditions met for Beretta deal; rights plan terminated</scanner:headline>
-      <scanner:shortName>STURM RUGER &amp; CO</scanner:shortName>
-      <scanner:price>37.08</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>RGR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>594870000</scanner:marketCap>
-      <scanner:enterpriseValue>478900000</scanner:enterpriseValue>
-      <scanner:fwdPE>19.87</scanner:fwdPE>
-      <scanner:fwdEvEbitda>8.30</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Regulatory conditions met for Beretta deal; rights plan terminated&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that regulatory conditions under its Strategic Cooperation Agreement with Beretta Holding have been satisfied, and the board terminated the shareholder rights plan effective immediately. The rights plan expiration was accelerated from October 13, 2026 to September 16, 2026. Terms of the agreement remain unchanged.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sturm, Ruger &amp;amp; Company, Inc., together with its subsidiaries, designs, manufactures, and sells firearms under the Ruger name and trademark in the United States. It operates in two segments, Firearms and Castings. The company offers single-shot, autoloading, bolt-action, and modern sporting rifles; rimfire and centerfire autoloading pistols; single-action and double-action revolvers; over-under shotguns; and firearms accessories and replacement parts, as well as manufactures lever-action rifles u…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Beretta Holding S.A.&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $37.08 · Mkt cap $594.9M · EV $478.9M · Fwd P/E 19.9x · Fwd EV/EBITDA 8.3x · Consumer Discretionary / Leisure Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/95029/000117494726000877/0001174947-26-000877-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RGR&lt;/b&gt; · 8-K · Items 1.01, 1.02, 3.03, 7.01, 9.01 · Fabricated Metals (3480) · 8k_tier1:1.01,1.02,3.03,7.01 · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · NSLR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1509470/000080724926000084/0000807249-26-000084-index.htm</link>
-      <guid isPermaLink="false">0000807249-26-000084</guid>
-      <pubDate>Wed, 16 Sep 2026 15:34:59 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Faces Gabelli 13D/A; group holds ~7.1% of NSLR</scanner:headline>
-      <scanner:shortName>Neostellar Capital</scanner:shortName>
-      <scanner:price>7.96</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>NSLR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>209400000</scanner:marketCap>
-      <scanner:enterpriseValue>258920000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Faces Gabelli 13D/A; group holds ~7.1% of NSLR&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Faces an amended Schedule 13D from the Gabelli group (GAMCO Investors, Gabelli Funds, GAMCO Asset Management, et al.) reporting aggregate beneficial ownership of ~7.1% of common stock (1,895,410 shares). Gabelli Funds holds 6.1% (1,614,410 shares); GAMCO Asset Management holds 1.0% (274,000 shares).&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Neostellar Capital Corp., formerly known as SuRo Capital Corp. is a venture capital, mezzanine, secondary(direct) and business development company specializing in growth capital, emerging growth, late stage and venture capital-backed private companies. It prefers to invest in energy and utilities, consumer, technology, media and communication sectors. The company prefers to invest in United States of America and Canada. The firm only seeks minority stakes. Neostellar Capital Corp.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; GAMCO Investors, Inc. / Gabelli group&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.1%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.96 · Mkt cap $209.4M · EV $258.9M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1509470/000080724926000084/0000807249-26-000084-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NSLR, NSLRL&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-16&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
