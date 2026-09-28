@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 20:09:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 20:15:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · SVAQ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085659/000121390026104040/ea0300424-02.htm</link>
+      <guid isPermaLink="false">0001213900-26-104040</guid>
+      <pubDate>Mon, 28 Sep 2026 15:15:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>S-4</category>
+      <scanner:headline>Acquires EigenQ Inc. in business combination; will rename to EigenQ Holdings</scanner:headline>
+      <scanner:shortName>EigenQ</scanner:shortName>
+      <scanner:price>10.11</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>S-4</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>SVAQ</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>S-4</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>296430000</scanner:marketCap>
+      <scanner:enterpriseValue>295250000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires EigenQ Inc. in business combination; will rename to EigenQ Holdings&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Silicon Valley Acquisition Corp. (SVAQ) filed an S-4 registration statement for its business combination with EigenQ, Inc. Upon closing, SVAQ will reincorporate from the Cayman Islands to Delaware and be renamed EigenQ Holdings, Inc. The transaction involves the issuance of SVAQ securities to EigenQ shareholders.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Silicon Valley Acquisition Corp. does not have significant operations. The company focuses on effecting a merger, share exchange, asset acquisition, share purchase, recapitalization, reorganization, or other similar business combination with one or more businesses. It intends to target companies in the fintech and digital assets, AI and digital infrastructure, energy transition and sustainability, mobility and autotech, technology, consumer, mining, and healthcare industries.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-06&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.11 · Mkt cap $296.4M · EV $295.2M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2085659/000121390026104040/0001213900-26-104040-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SVAQ, SVAQU, SVAQW&lt;/b&gt; · S-4 · Business Services (7372) · prefill_form:S-4 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · ALST</title>
       <link>https://www.otcmarkets.com/stock/ALST/news/536589</link>
@@ -15752,36 +15783,6 @@
 &lt;p&gt;&lt;i&gt;Px $4.84 · Mkt cap $883.3M · EV $2.26B · Fwd EV/EBITDA 7.8x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1881487/000110465926108302/0001104659-26-108302-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACDC&lt;/b&gt; · 8-K · Items 1.01, 2.03, 9.01 · Oil &amp;amp; Gas (1389) · 8k_tier1:1.01 · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · BCBP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1228454/000119312526393183/d156244d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-393183</guid>
-      <pubDate>Wed, 16 Sep 2026 16:00:57 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Markets $210M problem loans + cannabis business; Q3 loss up to $136M</scanner:headline>
-      <scanner:shortName>BCB BANCORP</scanner:shortName>
-      <scanner:price>8.25</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>BCBP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>152780000</scanner:marketCap>
-      <scanner:fwdPE>21.11</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Markets $210M problem loans + cannabis business; Q3 loss up to $136M&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced it is marketing for sale a ~$210M portfolio of problem loans, ~$27M of CRE loans, and its cannabis-related business (loans ~$69M, deposits ~$70M), with non-binding indications of interest received. The company expects a Q3 2026 net loss of $126.2-136.1M, including an ~$87M pre-tax loss from loan sales and a $50M valuation allowance on deferred tax assets. It also launched an underwritten common stock offering.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BCB Bancorp, Inc. operates as the bank holding company for BCB Community Bank that provides various banking products and services to businesses and individuals in the United States. The company offers insured deposit products, including savings and club accounts, interest and non-interest-bearing demand, money market, certificates of deposit, and individual retirement accounts.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Q3 2026 earnings; completion of loan and cannabis business sales&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $8.25 · Mkt cap $152.8M · Fwd P/E 21.1x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1228454/000119312526393183/0001193125-26-393183-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BCBP&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Depository Institutions (6035) · 8k_tier1:8.01 · filed 2026-09-16&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
