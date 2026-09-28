@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 11:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:37:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Won · METC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1687187/000121390026103743/ea0306775-8k_ramaco.htm</link>
+      <guid isPermaLink="false">0001213900-26-103743</guid>
+      <pubDate>Mon, 28 Sep 2026 06:37:17 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+      <category>8-K</category>
+      <scanner:headline>Won $30.0M jury verdict in insurance coverage litigation</scanner:headline>
+      <scanner:shortName>Ramaco Resources</scanner:shortName>
+      <scanner:price>9.02</scanner:price>
+      <scanner:subtype>won</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>METC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>521050000</scanner:marketCap>
+      <scanner:enterpriseValue>706930000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.37</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>9.60</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>9.86</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>9.60</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>14.29</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Won $30.0M jury verdict in insurance coverage litigation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced that its subsidiary, Ramaco Resources, LLC, won a $30.0 million jury verdict in its insurance coverage lawsuit against Federal Insurance Company and ACE American Insurance Company. The award includes $2.5 million for aggravation and inconvenience and $27.5 million for net economic loss. The court entered judgment on September 25, 2026, though post-trial motions and appeals are possible.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ramaco Resources, Inc. engages in the development, operation, and sale of metallurgical coal. The company’s development portfolio includes the Elk Creek project that covers an area of approximately 20,200 acres located in southern West Virginia; the Berwind property covering an area of approximately 62,500 acres situated on the border of West Virginia and Virginia; the Knox Creek property, which covers an area of approximately 88,850 acres is located in Virginia; the Maben property covering an a…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Federal Insurance Company and ACE American Insurance Company&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Post-trial motions due by October 23, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $9.02 · Mkt cap $521.0M · EV $706.9M · Fwd EV/EBITDA 9.9x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1687187/000121390026103743/0001213900-26-103743-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;METC, METCB, METCI, METCZ&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Coal Mining (1220) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · BRX</title>
       <link>https://www.sec.gov/Archives/edgar/data/1581068/000110465926111144/tm2626458d1_8k.htm</link>
@@ -15624,37 +15662,6 @@
 &lt;p&gt;&lt;i&gt;Px $24.26 · Mkt cap $259.4M · EV $559.0M · Fwd P/E 8.2x · Fwd EV/EBITDA 6.0x · Information Technology / Technology Hardware, Storage and Peripherals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1641614/000110465926108019/0001104659-26-108019-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PMTS&lt;/b&gt; · SCHEDULE 13D/A · Printing (2750) · fresh_13d · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · BZFD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1828972/000149315226042803/0001493152-26-042803-index.htm</link>
-      <guid isPermaLink="false">0001493152-26-042803</guid>
-      <pubDate>Tue, 15 Sep 2026 20:02:22 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Buys 1.7M shares at $1.06, stake to 53.5%</scanner:headline>
-      <scanner:shortName>BuzzFeed</scanner:shortName>
-      <scanner:price>1.05</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>BZFD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>92500000</scanner:marketCap>
-      <scanner:enterpriseValue>126900000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Buys 1.7M shares at $1.06, stake to 53.5%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Allen Family Digital increased its stake in BuzzFeed to 53.5% by purchasing 1.7M shares at $1.06 per share for $1.8M. The purchase was made pursuant to a Share Purchase Agreement with BuzzFeed. AFD now holds 45.7M shares.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BuzzFeed, Inc., a digital media company, distributes content across owned and operated, and third-party platforms in the United States and internationally. The company offers BuzzFeed that provides entertainment, pop culture, and the internet with articles, lists, quizzes, videos, and original series; Tasty, a platform for food content; and HuffPost, a media platform for news, politics, opinion, entertainment, features, and lifestyle content.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 1.06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $1,802,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 53.5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.05 · Mkt cap $92.5M · EV $126.9M · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1828972/000149315226042803/0001493152-26-042803-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BZFD, BZFDW&lt;/b&gt; · SCHEDULE 13D/A · Communications (4899) · fresh_13d · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
