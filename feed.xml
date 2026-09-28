@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 20:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 20:19:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · KMB</title>
+      <link>https://www.sec.gov/Archives/edgar/data/55785/000110465926111354/tm2625576d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111354</guid>
+      <pubDate>Mon, 28 Sep 2026 15:19:35 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Commences $7B debt exchange for Kenvue notes ahead of merger close</scanner:headline>
+      <scanner:shortName>KIMBERLY CLARK</scanner:shortName>
+      <scanner:price>98.78</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>KMB</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>32735750000</scanner:marketCap>
+      <scanner:enterpriseValue>38442750000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.32</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>6.16</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>14.03</scanner:fwdPE>
+      <scanner:fwdEvEbitda>10.45</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>6.16</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>37.61</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Commences $7B debt exchange for Kenvue notes ahead of merger close&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kimberly-Clark Corporation announced the commencement of an exchange offer for any and all outstanding notes issued by Kenvue Inc., for up to $7.0 billion aggregate principal amount of new Kimberly-Clark notes and cash. This offer is in connection with Kimberly-Clark&amp;#39;s previously announced definitive merger agreement to acquire Kenvue. The merger is expected to close in the fourth quarter of calendar year 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Kimberly-Clark Corporation, together with its subsidiaries, manufactures and markets personal care products in the United States. It operates in two segments, North America and International Personal Care. The North America segment offers disposable diapers, training and youth pants, swimpants, baby wipes, feminine and incontinence care products, reusable underwear, facial and bathroom tissue, paper towels, napkins, wipers, tissue, towels, soaps and sanitizers, and other related products under t…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Kenvue Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-11-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Merger consummation in Q4 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $98.78 · Mkt cap $32.74B · EV $38.44B · Fwd P/E 14.0x · Fwd EV/EBITDA 10.4x · Consumer Staples / Household Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/55785/000110465926111354/0001104659-26-111354-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KMB&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Paper (2670) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚖️ Litigation · Won · TPST</title>
       <link>https://www.sec.gov/Archives/edgar/data/1544227/000121390026104034/ea0306741-8k_tempest.htm</link>
@@ -15768,39 +15807,6 @@
 &lt;p&gt;&lt;i&gt;Px $6.07 · Mkt cap $5.0M · EV $35.1M · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2030763/000149315226042951/0001493152-26-042951-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MEDS&lt;/b&gt; · 8-K · Items 1.01, 2.03, 3.02, 7.01, 9.01 · Wholesale; Nondurable (5122) · 8k_tier1:1.01,7.01 · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Special Dividend · CEPU</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1717161/000129281426004574/cepu20260916_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004574</guid>
-      <pubDate>Wed, 16 Sep 2026 16:17:27 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-      <category>6-K</category>
-      <scanner:headline>Declares ARS 164/share special dividend; sells AbraSilver stake for C$228M</scanner:headline>
-      <scanner:shortName>CENTRAL PUERTO</scanner:shortName>
-      <scanner:price>13.65</scanner:price>
-      <scanner:subtype>special_dividend</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Utilities</scanner:sector>
-      <scanner:ticker>CEPU</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2200530000</scanner:marketCap>
-      <scanner:enterpriseValue>2770260000</scanner:enterpriseValue>
-      <scanner:fwdPE>6.81</scanner:fwdPE>
-      <scanner:fwdEvEbitda>5.45</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Declares ARS 164/share special dividend; sells AbraSilver stake for C$228M&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Sold its 100% stake in AbraSilver Resource Corp. for C$228,406,885, realizing a gain of C$192,665,408. The proceeds fund an extraordinary cash dividend of ARS 247,344,290,288 (ARS 164 per share), payable on September 25, 2026 to holders of record September 18, 2026. Foreign shareholders may elect to receive payment in USD abroad.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Central Puerto S.A. engages in the electric power generation activities in Argentina. It operates in three segments: Electric Power Generation From Conventional Sources, Electric Power Generation From Renewable Sources and Forest Activity, and Management and Operations of Thermal Plants. The company’s power generation assets include combined cycle, gas and steam turbine, co-generation, hydroelectric, wind turbines, and solar panels.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; ARS 164&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Payment date Sept 25, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $13.65 · Mkt cap $2.20B · EV $2.77B · Fwd P/E 6.8x · Fwd EV/EBITDA 5.5x · Utilities / Independent Power and Renewable Electricity Producers&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1717161/000129281426004574/0001292814-26-004574-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CEPU&lt;/b&gt; · 6-K · Utilities (4911) · prefill_form:6-K · filed 2026-09-16&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
