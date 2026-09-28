@@ -6,25 +6,64 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 11:44:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:51:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
-      <title>🤝 Merger · Definitive · ITMSF</title>
-      <link>https://www.otcmarkets.com/stock/ITMSF/news/536529</link>
-      <guid isPermaLink="false">OTC-536529</guid>
-      <pubDate>Mon, 28 Sep 2026 06:44:43 -0500</pubDate>
+      <title>🤝 Merger · Definitive · TDG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1260221/000126022126000064/tdg-20260928.htm</link>
+      <guid isPermaLink="false">0001260221-26-000064</guid>
+      <pubDate>Mon, 28 Sep 2026 06:51:18 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>OTC</category>
-      <scanner:headline>Acquires PCI; shareholders approve acquisition</scanner:headline>
+      <category>8-K</category>
+      <scanner:headline>Completes acquisition of Prince &amp; Izant for $1.066B cash</scanner:headline>
+      <scanner:shortName>TransDigm Group</scanner:shortName>
+      <scanner:price>1116.20</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>TDG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>61699660000</scanner:marketCap>
+      <scanner:enterpriseValue>92494660000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>9.24</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>15.45</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>24.05</scanner:fwdPE>
+      <scanner:fwdEvEbitda>15.44</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>15.45</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>59.82</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Completes acquisition of Prince &amp;amp; Izant for $1.066B cash&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Incorporated completed its acquisition of Prince &amp;amp; Izant, a portfolio company of Industrial Growth Partners, for approximately $1.066 billion in cash, including certain tax benefits. The acquisition was financed through cash on hand. Prince &amp;amp; Izant is expected to generate approximately $390 million in revenue for the calendar year ending December 31, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; TransDigm Group Incorporated designs, produces, and supplies aircraft components in the United States and internationally. The Power &amp;amp; Control segment offers mechanical/electro-mechanical actuators and controls, ignition systems and engine technology, specialized pumps and valves, power conditioning devices, specialized AC/DC electric motors and generators, batteries and chargers, databus and power controls, sensor products, switches and relay panels, hoists, winches and lifting devices, cargo l…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Prince &amp;amp; Izant&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1.066 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-27&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1,116.20 · Mkt cap $61.70B · EV $92.49B · Fwd P/E 24.1x · Fwd EV/EBITDA 15.4x · Industrials / Aerospace and Defense&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1260221/000126022126000064/0001260221-26-000064-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TDG&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Transportation Equipment (3728) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · ITMSF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1285170/000117184326006245/f6k_092626.htm</link>
+      <guid isPermaLink="false">OTC-536529</guid>
+      <pubDate>Mon, 28 Sep 2026 06:50:54 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>PCI shareholders approve acquisition; close mid-Oct 2026</scanner:headline>
       <scanner:shortName>Intermap Technologies</scanner:shortName>
       <scanner:price>0.6500</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
+      <scanner:form>6-K</scanner:form>
       <scanner:sector>Information Technology</scanner:sector>
       <scanner:ticker>ITMSF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>OTC, 6-K</scanner:filingForms>
       <scanner:related />
       <scanner:marketCap>46420000</scanner:marketCap>
       <scanner:enterpriseValue>32510000</scanner:enterpriseValue>
@@ -37,7 +76,9 @@
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Intermap Technologies Corporation, a geospatial intelligence company, provides various geospatial solutions and analytics in the United States, the Asia Pacific, and Europe. The company offers core digital map products comprising digital surface model, a digital elevation model that measures the top surface of the earth and objects located on it; digital terrain model, a geometrically correct reference frame over which other data layers, such as aerial photography and other types of images; mult…&lt;/p&gt;
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; PCI&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $0.6500 · Mkt cap $46.4M · EV $32.5M · Fwd P/E 0.2x · Fwd EV/EBITDA 4.2x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ITMSF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-28&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ITMSF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-28&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Sep 28 06:50 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1285170/000117184326006245/f6k_092626.htm'&gt;PCI shareholders approve acquisition; close mid-Oct 2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;OTC · Sep 28 06:44 · &lt;a href='https://www.otcmarkets.com/stock/ITMSF/news/536529'&gt;Acquires PCI; shareholders approve acquisition&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>📍 Stake · NEXCF</title>
@@ -15634,29 +15675,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CCXI, CCXIU, CCXIW&lt;/b&gt; · 425 · Industrial Machinery (3569) · prefill_form:425 · filed 2026-09-16&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 16 05:04 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2074973/000121390026100252/ea030561001-425_churchill11.htm'&gt;Acquires Agility Robotics in $2.5B SPAC merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 16 05:04 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2074973/000121390026100254/ea030561002-425_churchill11.htm'&gt;Acquires Agility Robotics in $2.5B SPAC merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 16 05:04 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2074973/000121390026100256/ea030561003-425_churchill11.htm'&gt;Acquires Agility Robotics in $2.5B SPAC merger&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · MSGR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2132873/000119312526392242/d127770d1012ba.htm</link>
-      <guid isPermaLink="false">0001193125-26-392242</guid>
-      <pubDate>Wed, 16 Sep 2026 05:03:50 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>spinco_new</category>
-      <category>10-12B/A</category>
-      <scanner:headline>Spin-off from MSG Sports; 1-for-2 distribution; NYSE: MSGR</scanner:headline>
-      <scanner:shortName>MSGS Spinco</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>10-12B/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>MSGR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>10-12B/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Spin-off from MSG Sports; 1-for-2 distribution; NYSE: MSGR&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;(to be renamed MSG Rangers Corp.) will be spun off from Madison Square Garden Sports Corp. (to be renamed MSG Knickerbockers Corp.) via a pro-rata distribution of one Spinco share for every two MSG Sports shares held. The Class A common stock will list on NYSE under MSGR. The distribution is expected to be tax-free.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Madison Square Garden Sports Corp.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2132873/000119312526392242/0001193125-26-392242-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MSGR&lt;/b&gt; · 10-12B/A · Amusement / Recreation (7990) · prefill_form:10-12B · filed 2026-09-16&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
