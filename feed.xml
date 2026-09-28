@@ -6,8 +6,41 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 21:47:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:10:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · CIGI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/913353/000149315226044677/0001493152-26-044677-index.htm</link>
+      <guid isPermaLink="false">0001493152-26-044677</guid>
+      <pubDate>Mon, 28 Sep 2026 17:10:42 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases stake in Colliers to 6.6%</scanner:headline>
+      <scanner:shortName>Colliers International</scanner:shortName>
+      <scanner:price>89.91</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Real Estate</scanner:sector>
+      <scanner:ticker>CIGI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>4621300000</scanner:marketCap>
+      <scanner:enterpriseValue>8927740000</scanner:enterpriseValue>
+      <scanner:fwdPE>11.30</scanner:fwdPE>
+      <scanner:fwdEvEbitda>10.03</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.74</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Increases stake in Colliers to 6.6%&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Spruce House Investment Management LLC and its affiliates reported an aggregate beneficial ownership of 3,282,012 subordinate voting shares of Colliers International Group Inc., representing approximately 6.6% of the outstanding shares. This includes 3,235,000 shares held by Spruce Partnership and 47,012 shares directly by Benjamin Stein. The shares were acquired through open market purchases and an underwritten public offering, with 165,200 shares purchased at $121.00 per share.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Colliers International Group Inc. provides commercial real estate, engineering, and investment management solutions in the United States, Canada, Europe, Australia, the United Kingdom, Poland, China, India, and internationally. The company offers capital markets services for property sales, debt finance, mortgage investment banking, and landlord and tenant representation services; and outsourcing services, such as building operations and maintenance, facilities management, lease administration, …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $89.91 · Mkt cap $4.62B · EV $8.93B · Fwd P/E 11.3x · Fwd EV/EBITDA 10.0x · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/913353/000149315226044677/0001493152-26-044677-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CIGI&lt;/b&gt; · SCHEDULE 13D/A · Real Estate (6500) · amended_13d · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · LFCR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1005286/000092189526002661/0000921895-26-002661-index.htm</link>
@@ -15875,32 +15908,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $1.70 · Mkt cap $33.9M · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FCUL&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · LNTO</title>
-      <link>https://www.otcmarkets.com/stock/LNTO/news/535512</link>
-      <guid isPermaLink="false">OTC-535512</guid>
-      <pubDate>Thu, 17 Sep 2026 07:16:12 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>OTC</category>
-      <scanner:headline>Acquires Airtopia Adventure Parks</scanner:headline>
-      <scanner:shortName>Lelantos Holdings</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>LNTO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Airtopia Adventure Parks&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Filed an acquisition report with OTC Markets regarding its acquisition of Airtopia Adventure Parks. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lelantos Holdings, Inc. owns and operates family entertainment center (FEC) and indoor adventure parks. It offers active play, arcade, birthday parties, group events, food and beverage, memberships, and premium experiences. It also engages in providing solar infrastructure and energy storage system (ESS) architecture, advanced monitoring and controls software development, and microgrid design and installation services. The company is based in Tucson, Arizona.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Airtopia Adventure Parks&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LNTO&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
