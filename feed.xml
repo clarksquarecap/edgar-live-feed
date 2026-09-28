@@ -6,8 +6,70 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 11:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:44:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · ITMSF</title>
+      <link>https://www.otcmarkets.com/stock/ITMSF/news/536529</link>
+      <guid isPermaLink="false">OTC-536529</guid>
+      <pubDate>Mon, 28 Sep 2026 06:44:43 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>OTC</category>
+      <scanner:headline>Acquires PCI; shareholders approve acquisition</scanner:headline>
+      <scanner:shortName>Intermap Technologies</scanner:shortName>
+      <scanner:price>0.6500</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>ITMSF</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>OTC</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>46420000</scanner:marketCap>
+      <scanner:enterpriseValue>32510000</scanner:enterpriseValue>
+      <scanner:fwdPE>0.25</scanner:fwdPE>
+      <scanner:fwdEvEbitda>4.22</scanner:fwdEvEbitda>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires PCI; shareholders approve acquisition&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced that PCI shareholders have approved its acquisition. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Intermap Technologies Corporation, a geospatial intelligence company, provides various geospatial solutions and analytics in the United States, the Asia Pacific, and Europe. The company offers core digital map products comprising digital surface model, a digital elevation model that measures the top surface of the earth and objects located on it; digital terrain model, a geometrically correct reference frame over which other data layers, such as aerial photography and other types of images; mult…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; PCI&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.6500 · Mkt cap $46.4M · EV $32.5M · Fwd P/E 0.2x · Fwd EV/EBITDA 4.2x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ITMSF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📍 Stake · NEXCF</title>
+      <link>https://www.otcmarkets.com/stock/NEXCF/news/536530</link>
+      <guid isPermaLink="false">OTC-536530</guid>
+      <pubDate>Mon, 28 Sep 2026 06:44:33 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>acquisition</category>
+      <category>OTC</category>
+      <scanner:headline>CEO Evan Gappelberg acquires 7.4M shares</scanner:headline>
+      <scanner:shortName>Nextech3D.AI</scanner:shortName>
+      <scanner:price>0.0600</scanner:price>
+      <scanner:subtype />
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>NEXCF</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>OTC</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>14270000</scanner:marketCap>
+      <scanner:enterpriseValue>17140000</scanner:enterpriseValue>
+      <scanner:fwdEvGrossProfit>11.36</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;CEO Evan Gappelberg acquires 7.4M shares&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced that its CEO, Evan Gappelberg, acquired 7.4 million shares of the company&amp;#39;s common stock. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nextech3D.AI Corporation, a technology company, provides AI-powered solutions for the events industry in Canada. It offers ARway.ai, which includes spatial computing, digital mapping, and event technology solutions; and MapD, which enables event organizers to create interactive floor plans, manage booth inventory, exhibitor self-service portals, facilitate booth sales, and deliver digital venue mapping solutions for trade shows, conferences, and exhibitions.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Evan Gappelberg&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0600 · Mkt cap $14.3M · EV $17.1M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NEXCF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · VLY</title>
       <link>https://www.sec.gov/Archives/edgar/data/714310/000119312526403391/d31493d8k.htm</link>
@@ -15595,71 +15657,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Madison Square Garden Sports Corp.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2132873/000119312526392242/0001193125-26-392242-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MSGR&lt;/b&gt; · 10-12B/A · Amusement / Recreation (7990) · prefill_form:10-12B · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚔️ Proxy Contest · BHR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000139834426017029/fp0100879-1_dfan14a.htm</link>
-      <guid isPermaLink="false">0001398344-26-016786</guid>
-      <pubDate>Wed, 16 Sep 2026 05:03:18 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>activist</category>
-      <category>DFAN14A</category>
-      <scanner:headline>Nominates 5-director slate at Braemar; AGM Nov 13</scanner:headline>
-      <scanner:shortName>Braemar Hotels &amp; Resorts</scanner:shortName>
-      <scanner:price>1.85</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DFAN14A</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>BHR</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>DFAN14A x3</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>130490000</scanner:marketCap>
-      <scanner:enterpriseValue>1168740000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Nominates majority slate for Braemar board control&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Al Shams Investments, largest shareholder of Braemar Hotels &amp;amp; Resorts, intends to nominate a complete slate of independent directors sufficient to constitute a change in control of the board at the 2026 Annual Meeting. The filing follows Braemar&amp;#39;s announcement of a compressed nomination window (Sept 14 deadline) which Al Shams calls governance gamesmanship. Al Shams holds 6,513,000 shares of common stock.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Braemar Hotels &amp;amp; Resorts Inc. is a real estate investment trust focused on the high-growth luxury hotel and resort sector. The Company targets high-performance luxury urban and resort properties, specializing in assets that generate revenue per available room at least twice the U.S. national average. Its industry-leading portfolio features luxury properties across the United States and the U.S. territories in the Caribbean.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Sept 14 director nomination deadline&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.85 · Mkt cap $130.5M · EV $1.17B · Real Estate / Hotel and Resort REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1574085/000139834426016786/0001398344-26-016786-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BHR, BHR-PB, BHR-PD&lt;/b&gt; · DFAN14A · Holding / Investment Offices (6798) · prefill_form:DFAN14A · filed 2026-09-08&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DFAN14A · Sep 16 05:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1574085/000139834426017029/fp0100879-1_dfan14a.htm'&gt;Nominates 5-director slate at Braemar; AGM Nov 13&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 14 15:58 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1574085/000139834426016990/fp0100868-1_dfan14a.htm'&gt;Nominates 5 independent directors at Braemar; AGM Nov 13&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 08 15:57 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1574085/000139834426016786/fp0100791-1_dfan14a.htm'&gt;Nominates majority slate for Braemar board control&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · FTK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/928054/000110465926108028/0001104659-26-108028-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-108028</guid>
-      <pubDate>Tue, 15 Sep 2026 20:47:42 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Raises Flotek stake to 54.5% via warrant exercise and debt-for-share swaps</scanner:headline>
-      <scanner:shortName>FLOTEK INDUSTRIES</scanner:shortName>
-      <scanner:price>26.98</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>FTK</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>952830000</scanner:marketCap>
-      <scanner:enterpriseValue>1005610000</scanner:enterpriseValue>
-      <scanner:fwdPE>42.81</scanner:fwdPE>
-      <scanner:fwdEvEbitda>19.07</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Raises Flotek stake to 54.5% via warrant exercise and debt-for-share swaps&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;ProFrac Holding Corp. increased its stake in Flotek Industries to 54.5% (20,937,915 shares) after exercising a warrant for 6,000,000 shares and transferring 2,306,806 shares to THRC and Farris C. Wilks in exchange for $60,000,000 of Alpine Holdings term loans.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Flotek Industries, Inc. operates as a chemical and data analytics company in the United States, the United Arab Emirates, and internationally. It operates in two segments, Chemistry Technologies (CT) and Data Analytics (DA). The CT segment offers chemistry solutions, such as proprietary chemistries, specialty chemistries, logistics, and technology services for desired chemical applications program to integrated oil and gas companies, oilfield services companies, independent oil and gas companies…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 54.5%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $26.98 · Mkt cap $952.8M · EV $1.01B · Fwd P/E 42.8x · Fwd EV/EBITDA 19.1x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/928054/000110465926108028/0001104659-26-108028-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FTK&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2890) · fresh_13d · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
