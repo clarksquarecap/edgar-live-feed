@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 10:27:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:28:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · Definitive · NIO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1736541/000110465926111125/tm2626448d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111125</guid>
+      <pubDate>Mon, 28 Sep 2026 05:28:47 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Sells 30% stake in NIO Power to Geely for equity + RMB640M cash</scanner:headline>
+      <scanner:shortName>NIO</scanner:shortName>
+      <scanner:price>3.58</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>NIO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>8959720000</scanner:marketCap>
+      <scanner:enterpriseValue>8387320000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.50</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.87</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>6.99</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>2.87</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>17.36</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells 30% stake in NIO Power to Geely for equity + RMB640M cash&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into definitive agreements to sell a 30.0% equity interest in its battery swapping and charging subsidiary, NIO Power, to a Geely Holding Group subsidiary. The consideration for the 30% stake, which values NIO Power at approximately RMB16 billion post-money, includes 100% equity of Yiyi Internet Technology (Chongqing) Co., Ltd. and RMB640 million in cash. Concurrently, NIO China will acquire a 10.0% stake in Geely&amp;#39;s Haohan Energy charging business for cash. The transactions are subject to regulatory clearances and customary closing conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; NIO Inc. designs, develops, manufactures, and sells smart electric vehicles in China, Europe, and internationally. It offers five and six-seater electric SUVs, as well as smart electric sedans. The company also offers power solutions, including Power Home, a home charging solution; Power Swap, a battery-swapping service; Power Charger and Destination Charger; Power Mobile, a mobile charging service through charging vans; Power Map, an application that provides access to a network of public charg…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Geely Holding Group&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; RMB4.8 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Regulatory clearances&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.58 · Mkt cap $8.96B · EV $8.39B · Fwd EV/EBITDA 7.0x · Consumer Discretionary / Automobiles&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1736541/000110465926111125/0001104659-26-111125-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NIO, NIOIF&lt;/b&gt; · 6-K · Transportation Equipment (3711) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · PLTS</title>
       <link>https://www.sec.gov/Archives/edgar/data/2053033/000149315226044418/form6-k.htm</link>
@@ -15538,39 +15576,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.51 · Mkt cap $79.3M · Fwd P/E 5.1x · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1822523/000182912626010121/0001829126-26-010121-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AFCG&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-15&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Buyback Authorization · DHI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/882184/000088218426000108/dhi-20260915.htm</link>
-      <guid isPermaLink="false">0000882184-26-000108</guid>
-      <pubDate>Tue, 15 Sep 2026 16:20:58 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-      <category>8-K</category>
-      <scanner:headline>Authorizes $5B buyback; FY26 repurchases ≥$3.25B</scanner:headline>
-      <scanner:shortName>HORTON D R</scanner:shortName>
-      <scanner:price>140.20</scanner:price>
-      <scanner:subtype>buyback_authorization</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>DHI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>38993150000</scanner:marketCap>
-      <scanner:enterpriseValue>44689350000</scanner:enterpriseValue>
-      <scanner:fwdPE>13.32</scanner:fwdPE>
-      <scanner:fwdEvEbitda>10.52</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Authorizes $5B buyback; FY26 repurchases ≥$3.25B&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;D.R. Horton&amp;#39;s board authorized an additional $5.0 billion share repurchase program with no expiration, on top of ~$53 million remaining under the prior authorization. The company expects total fiscal 2026 repurchases of at least $3.25 billion.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; D.R. Horton, Inc. operates as a homebuilding company in East, North, Southeast, South Central, Southwest, and Northwest regions in the United States. It engages in the acquisition and development of land; and construction and sale of residential homes in 126 markets across 36 states under the names of D.R. Horton. The company also constructs and sells single-family detached homes; and attached homes, such as townhomes and duplexes.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5.0 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $140.20 · Mkt cap $38.99B · EV $44.69B · Fwd P/E 13.3x · Fwd EV/EBITDA 10.5x · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/882184/000088218426000108/0000882184-26-000108-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DHI&lt;/b&gt; · 8-K · Items 8.01 · Construction; General (1531) · 8k_tier1:8.01 · filed 2026-09-15&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
