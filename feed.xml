@@ -6,25 +6,49 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 13:34:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:34:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
+      <title>📍 Stake · SPCIBDC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2031283/000082047826000016/0000820478-26-000016-index.htm</link>
+      <guid isPermaLink="false">0000820478-26-000016</guid>
+      <pubDate>Mon, 28 Sep 2026 08:34:47 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>STRS Ohio reports 6.8% stake in Stone Point Credit Income Fund</scanner:headline>
+      <scanner:shortName>Stone Point Credit Income Fund</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>SPCIBDC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;STRS Ohio reports 6.8% stake in Stone Point Credit Income Fund&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;State Teachers Retirement System of Ohio (STRS Ohio) reported a 6.8% beneficial ownership stake in Stone Point Credit Income Fund, holding 1,138,351.59 shares as of September 21, 2026. The shares were acquired for investment purposes through a Subscription Agreement, with total funds of $28,525,497.15 used for the acquisition at an approximate price of $25.06 per share.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 25.06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 28525497.15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.8%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2031283/000082047826000016/0000820478-26-000016-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SPCIBDC&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>🤝 Merger · Definitive · PAAC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2087446/000121390026103792/ea0306731-8k425_proem1.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/2087446/000121390026103789/ea0306731-8k425_proem1.htm</link>
       <guid isPermaLink="false">0001213900-26-103792</guid>
-      <pubDate>Mon, 28 Sep 2026 08:33:57 -0500</pubDate>
+      <pubDate>Mon, 28 Sep 2026 08:34:28 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquires Astro Digital for $525M+ stock; will rename to Astro Digital, Inc.</scanner:headline>
+      <category>8-K</category>
+      <scanner:headline>Acquires Astro Digital for $525M in SPAC business combination</scanner:headline>
       <scanner:shortName>Proem Acquisition Corp. I</scanner:shortName>
       <scanner:price>10.12</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
+      <scanner:form>8-K</scanner:form>
       <scanner:sector>Financials</scanner:sector>
       <scanner:ticker>PAAC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425, 8-K</scanner:filingForms>
       <scanner:related />
       <scanner:marketCap>178470000</scanner:marketCap>
       <scanner:enterpriseValue>177840000</scanner:enterpriseValue>
@@ -37,7 +61,9 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-26&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $10.12 · Mkt cap $178.5M · EV $177.8M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2087446/000121390026103792/0001213900-26-103792-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PAAC, PAACU, PAACW&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-28&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PAAC, PAACU, PAACW&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-28&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 28 08:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2087446/000121390026103789/ea0306731-8k425_proem1.htm'&gt;Acquires Astro Digital for $525M in SPAC business combination&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 28 08:33 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2087446/000121390026103792/ea0306731-8k425_proem1.htm'&gt;Acquires Astro Digital for $525M+ stock; will rename to Astro Digital, Inc.&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · COLA</title>
@@ -15710,39 +15736,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (8)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 16 11:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000111/curlf-20260916.htm'&gt;Hostile tender for Aurora at $4.00/sh (45% premium)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 16 11:33 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000110/ax91626curaleafbrochurefor.htm'&gt;Hostile tender for Aurora at $4.00/share (0.3463 CURLF + $0.75 cash)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 15 15:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000106/curlf-20260915.htm'&gt;Tender offer for Aurora: $4.00/share (0.3463 CURA + $0.75 cash), 45% premium&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 14 14:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000102/curlf-20260914.htm'&gt;Seeks ASC halt on Aurora&amp;#39;s ATM program; $4.00/share offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 14 14:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000103/ax91426curaleafsubmitsappt.htm'&gt;Seeks ASC halt on Aurora&amp;#39;s ATM dilution during $4.00/share offer&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 08 16:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1756770/000175677026000094/ax9826curaleafissuesfactsh.htm'&gt;Reaffirms $4.00/share bid for Aurora; 45% premium&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 02 07:17 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1683541/000127956926000846/aurora_6k.htm'&gt;Rejects Curaleaf&amp;#39;s hostile bid; urges shareholders not to tender&lt;/a&gt;&lt;/li&gt;&lt;li&gt;OTC · Sep 02 06:19 · &lt;a href='https://www.prnewswire.com/news-releases/aurora-cannabis-inc-urges-shareholders-to-take-no-action-at-this-time-in-respect-to-the-unsolicited-take-over-bid-by-curaleaf-holdings-inc-302854811.html'&gt;Hostile bid for Aurora: $4.00/share (0.3463 CURLF + $0.75 cash)&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;Counterparty ACB also filed 6-K&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · DT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1773383/000136157026000020/0001361570-26-000020-index.htm</link>
-      <guid isPermaLink="false">0001361570-26-000020</guid>
-      <pubDate>Wed, 16 Sep 2026 11:20:27 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Discloses 5.04% stake in Dynatrace</scanner:headline>
-      <scanner:shortName>Dynatrace</scanner:shortName>
-      <scanner:price>55.20</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>DT</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>15944250000</scanner:marketCap>
-      <scanner:enterpriseValue>14947580000</scanner:enterpriseValue>
-      <scanner:fwdPE>26.12</scanner:fwdPE>
-      <scanner:fwdEvEbitda>19.66</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Discloses 5.04% stake in Dynatrace&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Pictet Asset Management SA disclosed a 5.04% stake in Dynatrace, Inc. (DT) in a Schedule 13D filed on September 16, 2026. The investment adviser holds 14,564,509 shares with sole voting power over 12,773,058 shares. The filing states it is actively engaging with the issuer on governance and long-term strategy but has no current plans for a change in control.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Dynatrace, Inc. engages in the advancement of observability for digital businesses, which transforms the complexity of modern digital ecosystems in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. The company operates Dynatrace, an AI-powered observability platform, which provides solutions, including infrastructure, application, threat, and AI observability; digital experience; log analytics; application security; software delivery; and business analytics.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.04%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $55.20 · Mkt cap $15.94B · EV $14.95B · Fwd P/E 26.1x · Fwd EV/EBITDA 19.7x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1773383/000136157026000020/0001361570-26-000020-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DT&lt;/b&gt; · SCHEDULE 13D · Business Services (7372) · fresh_13d · filed 2026-09-16&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
