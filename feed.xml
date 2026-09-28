@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 28 Sep 2026 20:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 20:37:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · USAC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1522727/000152272726000092/usacform25-notificationofr.htm</link>
+      <guid isPermaLink="false">0001522727-26-000092</guid>
+      <pubDate>Mon, 28 Sep 2026 15:37:36 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>25</category>
+      <scanner:headline>Voluntary NYSE delisting of Common Units effective Sep 28</scanner:headline>
+      <scanner:shortName>USA Compression Partners</scanner:shortName>
+      <scanner:price>25.31</scanner:price>
+      <scanner:subtype>voluntary</scanner:subtype>
+      <scanner:form>25</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>USAC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>25</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3701850000</scanner:marketCap>
+      <scanner:enterpriseValue>6649890000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>5.65</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.56</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>16.41</scanner:fwdPE>
+      <scanner:fwdEvEbitda>8.14</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>8.56</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>66.07</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Voluntary NYSE delisting of Common Units effective Sep 28&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed a Form 25 to voluntarily withdraw its Common Units from listing and registration on the New York Stock Exchange. The delisting is effective on September 28, 2026, as the issuer has complied with the rules for voluntary withdrawal under 17 CFR 240.12d2-2(c).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; USA Compression Partners, LP provides natural gas compression services in the United States. The company offers compression services to oil companies and independent producers, processors, gatherers, and transporters of natural gas and crude oil, as well as for infrastructure applications, including centralized natural gas gathering systems and processing facilities, and gas lift applications in crude oil wells.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $25.31 · Mkt cap $3.70B · EV $6.65B · Fwd P/E 16.4x · Fwd EV/EBITDA 8.1x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1522727/000152272726000092/0001522727-26-000092-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;USAC&lt;/b&gt; · 25 · Utilities (4922) · prefill_form:25 · filed 2026-09-28&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · CZNL</title>
       <link>https://www.otcmarkets.com/stock/CZNL/news/536594</link>
@@ -15789,39 +15827,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.66 · Mkt cap $625.0M · EV $778.8M · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1795851/000166357726000281/0001663577-26-000281-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SWRD&lt;/b&gt; · SCHEDULE 13D · Non-Depository Credit (6153) · fresh_13d · filed 2026-09-16&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · SWRD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1795851/000166357726000279/0001663577-26-000279-index.htm</link>
-      <guid isPermaLink="false">0001663577-26-000277</guid>
-      <pubDate>Wed, 16 Sep 2026 18:05:20 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Discloses 19.2% stake via 13D</scanner:headline>
-      <scanner:shortName>Stewards</scanner:shortName>
-      <scanner:price>2.66</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>SWRD</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>625000000</scanner:marketCap>
-      <scanner:enterpriseValue>778820000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Discloses 9.6% beneficial ownership&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Shaun Quin and S&amp;amp;T Quin Family Limited Partnership filed a Schedule 13D disclosing beneficial ownership of 20,210,213 shares (9.6%) of Stewards, Inc. common stock. The shares are held for investment and in connection with Quin&amp;#39;s role as CEO and director. No plans for changes in control or other transformative actions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Stewards Inc. offers alternative financing solutions to small and mid-sized businesses in the United States. It operates through Financing Solutions and Real Estate Operations segments. The company provides revenue-based funding and related financing products; and operates a direct and syndication revenue-based funding platform. It also offers equipment financing, business term loans, merchant cash advances, and line of credit. The company was formerly known as FAVO Capital, Inc.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.6%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.66 · Mkt cap $625.0M · EV $778.8M · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1795851/000166357726000277/0001663577-26-000277-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SWRD&lt;/b&gt; · SCHEDULE 13D · Non-Depository Credit (6153) · fresh_13d · filed 2026-09-16&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SCHEDULE 13D · Sep 16 18:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1795851/000166357726000279/0001663577-26-000279-index.htm'&gt;Discloses 19.2% stake via 13D&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SCHEDULE 13D · Sep 16 17:58 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1795851/000166357726000277/0001663577-26-000277-index.htm'&gt;Discloses 9.6% beneficial ownership&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
