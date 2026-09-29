@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 10:50:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:02:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DAIC 🤝 Merger
+Acquires Envoy Technologies for $65M in stock; close targeted Oct 6
+65,000,000 deal · stock · close 2026-10-06
+Mcap $8M · EV $10M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026104296/ea0306797-8k_cidhold.htm</link>
+      <guid isPermaLink="false">0001213900-26-104296</guid>
+      <pubDate>Tue, 29 Sep 2026 06:02:40 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AZN 🤝 Merger
 Invests $2B for 12% stake in Summit Therapeutics; close within 1 week
@@ -1124,17 +1135,6 @@ Mcap $21M · EV $14M · Healthcare</title>
       <pubDate>Mon, 28 Sep 2026 06:07:12 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$FIP 🤝 Merger
-Acquires DRUbit for $255M enterprise value; subject to HSR
-$255 million deal · cash · close Q1 2027
-Mcap $369M · EV $4.2B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1899883/000114036126037763/ef20082849_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-037763</guid>
-      <pubDate>Mon, 28 Sep 2026 05:57:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
