@@ -6,8 +6,39 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 20:15:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:17:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TONT 🤝 Merger
+Extends business combination deadline to Oct 27, 2026
+empty · close 2026-10-27
+Mcap $154M · EV $155M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1897463/000110465926111929/tm2618324d25_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111929</guid>
+      <pubDate>Tue, 29 Sep 2026 15:17:31 -0500</pubDate>
+      <category>MERGER</category>
+    </item>
+    <item>
+      <title>$ATEK 🤝 Merger
+Waives Nasdaq listing for warrants in Ace Green Recycling business combination
+empty
+Mcap $94M · EV $96M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1882198/000121390026104648/ea0306930-8k_athena2.htm</link>
+      <guid isPermaLink="false">0001213900-26-104648</guid>
+      <pubDate>Tue, 29 Sep 2026 15:16:30 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$FOXF 📤 Divestiture
+Sells Marucci Sports subsidiary to Squared Up Holdings for $225M
+225000000 deal
+Mcap $778M · EV $1.4B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1424929/000142492926000057/foxf-20260925.htm</link>
+      <guid isPermaLink="false">0001424929-26-000052</guid>
+      <pubDate>Tue, 29 Sep 2026 15:16:19 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$BHR 📤 Divestiture
 Sells Four Seasons Scottsdale resort to Evergreen Acquisitions for $372M
@@ -935,25 +966,6 @@ Mcap $14M · EV $20M · Healthcare</title>
       <pubDate>Mon, 28 Sep 2026 15:18:17 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$RUBI 💧 Capital Return · Special Div
-Sets record date for 0.50 common shares per common share stock dividend
-Mcap $680K · EV $81M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1943421/000117184326006252/f6k_092826.htm</link>
-      <guid isPermaLink="false">0001171843-26-006252</guid>
-      <pubDate>Mon, 28 Sep 2026 15:17:07 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$IMCC 📤 Divestiture
-Provides update on sale of I.M.C. Holdings Ltd. and German operations
-Mcap $2M · EV $11M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1792030/000117891326004635/zk2636166.htm</link>
-      <guid isPermaLink="false">0001178913-26-004635</guid>
-      <pubDate>Mon, 28 Sep 2026 15:16:42 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
