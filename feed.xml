@@ -6,8 +6,107 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 10:03:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:05:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · BAYA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1969475/000149315226044680/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044680</guid>
+      <pubDate>Tue, 29 Sep 2026 05:05:01 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>8-K</category>
+      <scanner:headline>Nasdaq delisting affirmed; plans to trade on OTC Markets</scanner:headline>
+      <scanner:shortName>Bayview Acquisition</scanner:shortName>
+      <scanner:price>12.14</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financial Services</scanner:sector>
+      <scanner:ticker>BAYA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>33242864</scanner:marketCap>
+      <scanner:enterpriseValue>35117677</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Nasdaq delisting affirmed; plans to trade on OTC Markets&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received notice that Nasdaq&amp;#39;s Listing and Hearing Review Council affirmed the decision to delist its securities due to failure to complete its business combination with Oabay Inc. Trading was suspended on July 7, 2026. The company anticipates Nasdaq will file a Form 25-NSE to remove its securities from listing and plans to list its Ordinary Shares and Rights on the OTC Markets under tickers “BAYA” and “BAYAR” respectively.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $12.14 · Mkt cap $33.2M · EV $35.1M · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1969475/000149315226044680/0001493152-26-044680-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BAYA&lt;/b&gt; · 8-K · Items 3.01, 9.01 · Holding / Investment Offices (6770) · 8k_tier1:3.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📤 Divestiture · NHP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1561032/000156103226000066/hct-20260925.htm</link>
+      <guid isPermaLink="false">0001561032-26-000066</guid>
+      <pubDate>Tue, 29 Sep 2026 05:04:44 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells 40 outpatient medical facilities for ~$531M; close Q4 2026</scanner:headline>
+      <scanner:shortName>National Healthcare Properties</scanner:shortName>
+      <scanner:price>16.12</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Real Estate</scanner:sector>
+      <scanner:ticker>NHP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1024350000</scanner:marketCap>
+      <scanner:enterpriseValue>1636020000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>4.75</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>12.54</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>25.60</scanner:fwdPE>
+      <scanner:fwdEvEbitda>13.90</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>12.51</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>37.88</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells 40 outpatient medical facilities for ~$531M; close Q4 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced that certain purchaser termination rights have expired under an agreement to sell its portfolio of 40 outpatient medical facilities to an unaffiliated third party for approximately $531 million. The transaction is expected to close in the fourth quarter of 2026, subject to customary closing conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; National Healthcare Properties, Inc. is a self-managed real estate investment trust focused on acquiring, owning and investing in a diversified portfolio of healthcare real estate, with an emphasis on providing senior housing to serve a growing elderly population in the United States. National Healthcare Properties, Inc. was incorporated in 2012 in Maryland, USA.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; unaffiliated third party&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 531000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing in Q4 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $16.12 · Mkt cap $1.02B · EV $1.64B · Fwd P/E 25.6x · Fwd EV/EBITDA 13.9x · Real Estate / Health Care REITs&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1561032/000156103226000066/0001561032-26-000066-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NHP, HLTC, NHPBP&lt;/b&gt; · 8-K · Items 1.01 · Holding / Investment Offices (6798) · 8k_tier1:1.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · QNC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2106613/000110465926111438/tm2626471d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111438</guid>
+      <pubDate>Tue, 29 Sep 2026 05:04:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Acquires Plurilock for C$0.28/share (30% cash, 70% stock); 100% premium</scanner:headline>
+      <scanner:shortName>Quantum eMotion</scanner:shortName>
+      <scanner:price>2.20</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>QNC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>409530000</scanner:marketCap>
+      <scanner:enterpriseValue>385600000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Plurilock for C$0.28/share (30% cash, 70% stock); 100% premium&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive arrangement agreement to acquire 100% of Plurilock Security Inc. for aggregate equity consideration of approximately C$33.8 million. Plurilock shareholders will receive C$0.084 in cash and 0.0763 QeM common shares for each Plurilock share, implying total consideration of C$0.28 per share. This represents an implied premium of approximately 100% to Plurilock’s 20-trading-day volume-weighted average price as of September 25, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Quantum eMotion Corp. engages in the development of quantum-based cryptographic solutions in Canada. It offers hardware and software products. The company provides Sentry-Q, a next generation quantum safe encryption platform, secures sensitive data across networks and applications; eFlux-Q, a cloud based entropy distribution system, delivers quantum generated entropy on demand; eCrypto-Q, builds quantum resilient; eHot-Q, enables encryption and secure key generation for real-time digital asset p…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Plurilock Security Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price for Plurilock Security (CAD):&lt;/b&gt; C$0.28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; C$33.8M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 100%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.20 · Mkt cap $409.5M · EV $385.6M · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2106613/000110465926111438/0001104659-26-111438-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QNC&lt;/b&gt; · 6-K · Business Services (7372) · prefill_form:6-K · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · AAPG</title>
       <link>https://www.sec.gov/Archives/edgar/data/2023311/000121390026104196/ea0306919-6k_ascentage.htm</link>
@@ -15815,101 +15914,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACVA&lt;/b&gt; · SC TO-T · Business Services (7389) · prefill_form:SC TO-T · filed 2026-09-17&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SC 14D9 · Sep 17 08:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526393862/d136775dsc14d9.htm'&gt;Copart tender offer at $10.50/share cash; expires Sept 30&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-T · Sep 17 07:44 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526393827/d160557dsctot.htm'&gt;Acquires ACV Auctions for $10.50/share cash; expires Sep 30&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · SGRY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1638833/000163883326000085/sgry-20260914.htm</link>
-      <guid isPermaLink="false">0001638833-26-000085</guid>
-      <pubDate>Thu, 17 Sep 2026 08:06:45 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Sells Mountain View &amp; Idaho Falls hospitals to Intermountain Health for $796.6M cash</scanner:headline>
-      <scanner:shortName>Surgery Partners</scanner:shortName>
-      <scanner:price>13.93</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>SGRY</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1806860000</scanner:marketCap>
-      <scanner:enterpriseValue>7454860000</scanner:enterpriseValue>
-      <scanner:fwdPE>24.76</scanner:fwdPE>
-      <scanner:fwdEvEbitda>13.55</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells Mountain View &amp;amp; Idaho Falls hospitals to Intermountain Health for $796.6M cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Completed the sale of Mountain View Hospital and Idaho Falls Community Hospital to Intermountain Health for approximately $796.6 million in cash, subject to adjustments. Proceeds will be used primarily to pay down debt.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Surgery Partners, Inc., together with its subsidiaries, owns and operates a network of surgical facilities and ancillary services in the United States. The company provides ambulatory surgery centers and surgical hospitals that offer non-emergency surgical procedures in various specialties, including orthopedics and pain management, ophthalmology, gastroenterology, and general surgery.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Intermountain Health&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $796.6 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-21&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $13.93 · Mkt cap $1.81B · EV $7.45B · Fwd P/E 24.8x · Fwd EV/EBITDA 13.6x · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1638833/000163883326000085/0001638833-26-000085-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SGRY&lt;/b&gt; · 8-K · Items 2.01, 9.01 · Health Services (8062) · 8k_tier1:2.01 · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · FSRL</title>
-      <link>https://www.otcmarkets.com/stock/FSRL/news/535520</link>
-      <guid isPermaLink="false">0001104659-26-108432</guid>
-      <pubDate>Thu, 17 Sep 2026 07:44:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>OTC</category>
-      <scanner:headline>Regulatory approvals received for merger with Colony Bankcorp</scanner:headline>
-      <scanner:shortName>First Reliance Bancshares</scanner:shortName>
-      <scanner:price>19.48</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>FSRL</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K, OTC</scanner:filingForms>
-      <scanner:related>CBAN</scanner:related>
-      <scanner:marketCap>153770000</scanner:marketCap>
-      <scanner:fwdPE>12.48</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Regulatory approvals received for merger with Colony Bankcorp&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that regulatory approvals have been received for its pending merger with Colony Bankcorp. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; First Reliance Bancshares, Inc. operates as the bank holding company for First Reliance Bank that provides banking products and services in North and South Carolina. It provides checking, savings, money market, Christmas and vacation club accounts, and individual retirement accounts, as well as certificates of deposit.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Colony Bankcorp, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $19.48 · Mkt cap $153.8M · Fwd P/E 12.5x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FSRL&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-17&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;OTC · Sep 17 07:44 · &lt;a href='https://www.otcmarkets.com/stock/FSRL/news/535520'&gt;Regulatory approvals received for merger with Colony Bankcorp&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 17 07:37 · &lt;a href='https://www.sec.gov/Archives/edgar/data/711669/000110465926108432/cban-20260917x8k.htm'&gt;Acquires First Reliance for ~$163M; regulatory approvals received; vote Oct 14&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer CBAN also filed 8-K&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · VBNK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1690639/000169063926000056/a6-kxspecialmeetingreporto.htm</link>
-      <guid isPermaLink="false">0001690639-26-000056</guid>
-      <pubDate>Thu, 17 Sep 2026 07:30:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>6-K</category>
-      <scanner:headline>Shareholders approve reorganization resolution (99.69% FOR)</scanner:headline>
-      <scanner:shortName>VersaBank</scanner:shortName>
-      <scanner:price>22.62</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>VBNK</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>735550000</scanner:marketCap>
-      <scanner:fwdPE>13.64</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Shareholders approve reorganization resolution (99.69% FOR)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Shareholders approved the reorganization resolution at the special meeting held September 16, 2026, with 99.69% of votes cast in favor. The resolution was described in the management proxy circular. This clears a key condition for the pending acquisition.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VersaBank provides various banking products and services in Canada and the United States. The company operates through four segments: Digital Banking Canada, Digital Banking USA, DRTC (Cybersecurity), and Digital Meteor. It offers deposit products, such as guaranteed investment certificates, registered retirement savings plans, and tax-free savings accounts, as well as deposit insurance products.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Px $22.62 · Mkt cap $735.5M · Fwd P/E 13.6x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1690639/000169063926000056/0001690639-26-000056-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VBNK&lt;/b&gt; · 6-K · Depository Institutions (6029) · prefill_form:6-K · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
