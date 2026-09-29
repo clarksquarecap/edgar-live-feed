@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 21:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:30:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EMPD 🤝 Merger
+Files additional soliciting materials for acquisition vote
+empty
+Mcap $82M · EV $134M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826007487/empery_defa14a.htm</link>
+      <guid isPermaLink="false">0001683168-26-007487</guid>
+      <pubDate>Tue, 29 Sep 2026 16:30:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EVV 📍 Stake
 SIT Investment Associates reports 7.7% stake in Eaton Vance Ltd Duration Income Fund
@@ -1000,15 +1011,6 @@ Mcap $1M · EV $2M · Healthcare</title>
       <guid isPermaLink="false">0001493152-26-044657</guid>
       <pubDate>Mon, 28 Sep 2026 16:32:05 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Faces Vishal Garg consent solicitation to remove 5 directors
-Mcap $206M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002660/dfan14909002_09282026.htm</link>
-      <guid isPermaLink="false">0001835856-26-000060</guid>
-      <pubDate>Mon, 28 Sep 2026 16:25:14 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
     </item>
   </channel>
 </rss>
