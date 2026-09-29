@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 10:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:32:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WSE 💧 Capital Return · Buyback
+Repurchased 1.49M Class A shares as part of £405M (~$540M) buyback
+Mcap $12B · EV $6.9B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2099039/000165495426008613/a6551w.htm</link>
+      <guid isPermaLink="false">0001654954-26-008613</guid>
+      <pubDate>Tue, 29 Sep 2026 05:32:42 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$SANG 🤝 Merger
 Acquired by BRC Group Holdings for $4.925 cash + 0.04767 BRC shares; 47% premium
@@ -1153,68 +1163,6 @@ Mcap $4M · EV $2M · Cons Stpl</title>
       <link>https://www.sec.gov/Archives/edgar/data/1946703/000121390026103727/ea0306044-6k_webuy.htm</link>
       <guid isPermaLink="false">0001213900-26-103727</guid>
       <pubDate>Mon, 28 Sep 2026 05:38:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FLZH 📉 Delisting · Forced
-Nasdaq continued listing hearing Oct 6; commenced trading on OTCID
-effective 2026-10-06
-Mcap $4M · EV $72M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1706524/000121390026103692/ea0306693-8k_flash.htm</link>
-      <guid isPermaLink="false">0001213900-26-103692</guid>
-      <pubDate>Mon, 28 Sep 2026 05:29:59 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$CELU 🪙 Debt Restr.
-Issued $11.01M senior secured convertible notes + warrants; purchaser gains board seat
-Mcap $40M · EV $109M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1752828/000149315226044421/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044421</guid>
-      <pubDate>Mon, 28 Sep 2026 05:29:43 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$BUR ⚖️ Litigation · Won
-Wins $1.4B entitlement from $5.7B jury verdict in patent case
-Mcap $799M · EV $3.1B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1714174/000171417426000106/bur-20260928.htm</link>
-      <guid isPermaLink="false">0001714174-26-000106</guid>
-      <pubDate>Mon, 28 Sep 2026 05:29:14 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$NIO 📤 Divestiture
-Sells 30% stake in NIO Power to Geely for equity + RMB640M cash
-to Geely Holding · RMB4.8 billion deal
-Mcap $9.0B · EV $8.4B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1736541/000110465926111125/tm2626448d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111125</guid>
-      <pubDate>Mon, 28 Sep 2026 05:28:47 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PLTS 📉 Delisting · Forced
-Nasdaq delisting upheld by Panel; trading suspended Sept 23
-Mcap $316M · EV $317M · Technology</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2053033/000149315226044418/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044418</guid>
-      <pubDate>Mon, 28 Sep 2026 05:27:45 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$NG 🤝 Merger
-Acquires Paulson's 40% Donlin Gold stake for ~$2.065B stock; close Q4 2026
-2065000000 deal · stock
-Mcap $3.1B · EV $2.9B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1173420/000110465926111118/tm2625949d3_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-109678</guid>
-      <pubDate>Mon, 28 Sep 2026 05:27:18 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>

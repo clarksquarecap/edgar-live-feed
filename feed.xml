@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 10:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:32:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · WSE</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2099039/000165495426008613/a6551w.htm</link>
+      <guid isPermaLink="false">0001654954-26-008613</guid>
+      <pubDate>Tue, 29 Sep 2026 05:32:42 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>6-K</category>
+      <scanner:headline>Repurchased 1.49M Class A shares as part of £405M (~$540M) buyback</scanner:headline>
+      <scanner:shortName>Wise Group</scanner:shortName>
+      <scanner:price>11.50</scanner:price>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>WSE</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>11777560000</scanner:marketCap>
+      <scanner:enterpriseValue>6875260000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.75</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.26</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>19.43</scanner:fwdPE>
+      <scanner:fwdEvEbitda>8.86</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.29</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>84.15</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Repurchased 1.49M Class A shares as part of £405M (~$540M) buyback&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Repurchased a total of 1,494,000 Class A ordinary shares between September 21-25, 2026, across Nasdaq and the London Stock Exchange. These repurchases are part of the company&amp;#39;s share buyback program, announced on July 21, 2026, which targets repurchases of up to £405 million (approximately $540 million). The repurchased shares will be held in treasury.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Wise Group plc provides cross-border and domestic financial services in the United Kingdom, the rest of Europe, the Asia-Pacific, North America, and internationally. It offers money transfers, currency conversions, and account services. The company’s products include Wise Account, a solution for individual customers to send, spend, hold, and get paid in one or more currencies; Wise Business, which offers the main features of the Wise Account product along with business-specific functionalities d…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 540000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-21&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $11.50 · Mkt cap $11.78B · EV $6.88B · Fwd P/E 19.4x · Fwd EV/EBITDA 8.9x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2099039/000165495426008613/0001654954-26-008613-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WSE&lt;/b&gt; · 6-K · Business Services (7389) · prefill_form:6-K · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · SANG</title>
       <link>https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/tm2626529d1_6k.htm</link>
@@ -15926,37 +15965,6 @@
 &lt;p&gt;&lt;i&gt;Px $37.08 · Mkt cap $594.9M · EV $478.9M · Fwd P/E 19.9x · Fwd EV/EBITDA 8.3x · Consumer Discretionary / Leisure Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/95029/000119380526001242/0001193805-26-001242-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RGR&lt;/b&gt; · SC TO-T · Fabricated Metals (3480) · prefill_form:SC TO-T · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · HLSQ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1739174/000121390026100950/0001213900-26-100950-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-100950</guid>
-      <pubDate>Thu, 17 Sep 2026 15:10:05 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Acquires 4.86% stake in Tessera via MEA sale; +65k pending</scanner:headline>
-      <scanner:shortName>Tessera Defense &amp; Homeland Security</scanner:shortName>
-      <scanner:price>0.9800</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>HLSQ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2860000</scanner:marketCap>
-      <scanner:enterpriseValue>16920000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires 4.86% stake in Tessera via MEA sale; +65k pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Mayers Ventures LLC acquired 130,000 shares of Tessera Defense and Homeland Security Inc. (4.86%) as consideration for selling 15% of MEA Testing Systems Ltd. to Tessera. An additional 65,000 shares are due upon NYSE authorization. The shares were acquired for investment purposes; Mayers may engage in discussions with management.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Tessera Defense and Homeland Security Inc. develops and provides defense, homeland security, and critical infrastructure technologies. The company develops threat detection technology for defense and security applications, including counter-drone systems, perimeter and border security, wide-area surveillance, and aerial firefighting.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Tessera Defense and Homeland Security Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 4.86%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; NYSE authorization for additional 65,000 shares&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.9800 · Mkt cap $2.9M · EV $16.9M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1739174/000121390026100950/0001213900-26-100950-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HLSQ, PHGE&lt;/b&gt; · SCHEDULE 13D · Business Services (7372) · fresh_13d · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
