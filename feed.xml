@@ -6,8 +6,85 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 12:09:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:22:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧭 Domicile · EHGO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1879754/000118518526004392/ehgo6k092926.htm</link>
+      <guid isPermaLink="false">0001185185-26-004392</guid>
+      <pubDate>Tue, 29 Sep 2026 07:22:41 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Proposes re-domiciliation to BVI from Cayman, 5-for-1 reverse split; vote Oct 10</scanner:headline>
+      <scanner:shortName>EShallGo</scanner:shortName>
+      <scanner:price>0.8200</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>EHGO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>4650000</scanner:marketCap>
+      <scanner:enterpriseValue>7410000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.45</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.00</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>3.14</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>15.14</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Proposes re-domiciliation to BVI from Cayman, 5-for-1 reverse split; vote Oct 10&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is seeking shareholder approval at an Extraordinary General Meeting on October 10, 2026, for a re-domiciliation from the Cayman Islands to the British Virgin Islands. The company also proposes a 5-for-1 reverse stock split of its Class A and Class B ordinary shares, which will update its authorized share capital.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Eshallgo Inc. engages in the sale, leasing, and maintenance of printers and copiers in the People’s Republic of China. It sells office furniture, IT products, water dispensers, printing papers, and other products; and provides maintenance services with enterprise resource planning systems, as well as after-sale maintenance and repair. The company distributes its products under the HP, Epson, Xerox, Sharp, Toshiba, Konica, and Kyocera brand name.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on re-domiciliation and reverse split&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.8200 · Mkt cap $4.7M · EV $7.4M · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1879754/000118518526004392/0001185185-26-004392-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EHGO&lt;/b&gt; · 6-K · Business Services (7359) · prefill_form:6-K · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🎯 Tender · ACVA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526406053/d104484dsc14d9a.htm</link>
+      <guid isPermaLink="false">0001193125-26-406039</guid>
+      <pubDate>Tue, 29 Sep 2026 07:22:09 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>tender_offer</category>
+      <category>SC 14D9/A</category>
+      <scanner:headline>Receives $10.50/share cash tender offer from Copart; HSR refiled</scanner:headline>
+      <scanner:shortName>ACV Auctions</scanner:shortName>
+      <scanner:price>10.46</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SC 14D9/A</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>ACVA</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>SC TO-T/A, SC 14D9/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1776190000</scanner:marketCap>
+      <scanner:enterpriseValue>1783630000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.23</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.30</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>37.54</scanner:fwdPE>
+      <scanner:fwdEvEbitda>19.92</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>8.30</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>26.81</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Copart for $10.50/share cash; HSR refiled, lawsuits pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is the target of a tender offer by Apple Merger Sub, Inc., a wholly-owned subsidiary of Copart, Inc., for $10.50 per share in cash. Copart refiled its HSR notification on September 28, 2026, with the waiting period now expected to expire on October 13, 2026. Three shareholder lawsuits have been filed against ACV and its board, alleging disclosure deficiencies and seeking to enjoin the transaction.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ACV Auctions Inc. provides a wholesale auction marketplace to facilitate business-to-business used vehicle sales between a selling and buying dealership. The company offers marketplace platform includes digital marketplace that connects buyers and sellers by providing auctions, which facilitates real-time transactions of wholesale vehicles; Run List for pre-filtering and pre-screening of vehicles up to 24 hours prior to an auction taking place; ACV transportation service to enable the buyers to …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Copart, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $10.50&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR waiting period expires Oct 13, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.46 · Mkt cap $1.78B · EV $1.78B · Fwd P/E 37.5x · Fwd EV/EBITDA 19.9x · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/0001193125-26-406039-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACVA&lt;/b&gt; · SC TO-T/A · Business Services (7389) · prefill_form:SC TO-T · filed 2026-09-29&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SC 14D9/A · Sep 29 07:22 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526406053/d104484dsc14d9a.htm'&gt;Receives $10.50/share cash tender offer from Copart; HSR refiled&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-T/A · Sep 29 07:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/d126618dsctota.htm'&gt;Acquired by Copart for $10.50/share cash; HSR refiled, lawsuits pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Special Dividend · ATOS</title>
       <link>https://www.sec.gov/Archives/edgar/data/1488039/000119312526406036/atos-20260929.htm</link>
@@ -103,45 +180,6 @@
 &lt;p&gt;&lt;i&gt;Px $11.62 · Mkt cap $230.4M · EV $-11.5M · Fwd EV/EBITDA 0.1x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1664710/000166471026000059/0001664710-26-000059-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KROS&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01 · filed 2026-09-29&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🎯 Tender · ACVA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/d126618dsctota.htm</link>
-      <guid isPermaLink="false">0001193125-26-406039</guid>
-      <pubDate>Tue, 29 Sep 2026 07:06:25 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>tender_offer</category>
-      <category>SC TO-T/A</category>
-      <scanner:headline>Acquired by Copart for $10.50/share cash; HSR refiled, lawsuits pending</scanner:headline>
-      <scanner:shortName>ACV Auctions</scanner:shortName>
-      <scanner:price>10.46</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SC TO-T/A</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>ACVA</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SC TO-T/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1776190000</scanner:marketCap>
-      <scanner:enterpriseValue>1783630000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>2.23</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>8.30</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>37.54</scanner:fwdPE>
-      <scanner:fwdEvEbitda>19.92</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>8.30</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>26.81</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Copart for $10.50/share cash; HSR refiled, lawsuits pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is the target of a tender offer by Apple Merger Sub, Inc., a wholly-owned subsidiary of Copart, Inc., for $10.50 per share in cash. Copart refiled its HSR notification on September 28, 2026, with the waiting period now expected to expire on October 13, 2026. Three shareholder lawsuits have been filed against ACV and its board, alleging disclosure deficiencies and seeking to enjoin the transaction.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ACV Auctions Inc. provides a wholesale auction marketplace to facilitate business-to-business used vehicle sales between a selling and buying dealership. The company offers marketplace platform includes digital marketplace that connects buyers and sellers by providing auctions, which facilitates real-time transactions of wholesale vehicles; Run List for pre-filtering and pre-screening of vehicles up to 24 hours prior to an auction taking place; ACV transportation service to enable the buyers to …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Copart, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $10.50&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR waiting period expires Oct 13, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.46 · Mkt cap $1.78B · EV $1.78B · Fwd P/E 37.5x · Fwd EV/EBITDA 19.9x · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/0001193125-26-406039-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACVA&lt;/b&gt; · SC TO-T/A · Business Services (7389) · prefill_form:SC TO-T · filed 2026-09-29&lt;/p&gt;</description>
     </item>
     <item>
       <title>🎯 Tender · SSTI</title>
@@ -15971,37 +16009,6 @@
 &lt;p&gt;&lt;i&gt;Px $14.85 · Mkt cap $10.57B · EV $49.54B · Fwd P/E 7.1x · Fwd EV/EBITDA 16.6x · Utilities / Independent Power and Renewable Electricity Producers&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/874761/000114036126036994/0001140361-26-036994-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AES&lt;/b&gt; · 8-K · Items 8.01 · Utilities (4991) · 8k_tier1:8.01 · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · RGS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/716643/000114036126036995/ny20079436x2_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-036995</guid>
-      <pubDate>Thu, 17 Sep 2026 15:46:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Acquired in pending merger; proxy supplement filed</scanner:headline>
-      <scanner:shortName>REGIS</scanner:shortName>
-      <scanner:price>27.65</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>RGS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFA14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>69020000</scanner:marketCap>
-      <scanner:enterpriseValue>344420000</scanner:enterpriseValue>
-      <scanner:fwdPE>10.13</scanner:fwdPE>
-      <scanner:fwdEvEbitda>11.32</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired in pending merger; proxy supplement filed&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Corporation filed definitive additional proxy materials in connection with its pending acquisition. The DEFA14A supplements the merger proxy solicitation for the shareholder vote on the transaction.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Regis Corporation owns and franchises hair care salons primarily in North America. The company operates in two segments: Franchise Salons and Company-Owned Salons. Its salons provide haircutting; styling, including shampooing and conditioning; and hair coloring, as well as sell various hair care and other beauty products. It also offers business performance coaching, stylist training and education, site approval, marketing, loyalty and CRM programs, and technology support.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Px $27.65 · Mkt cap $69.0M · EV $344.4M · Fwd P/E 10.1x · Fwd EV/EBITDA 11.3x · Consumer Discretionary / Diversified Consumer Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/716643/000114036126036995/0001140361-26-036995-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RGS&lt;/b&gt; · DEFA14A · Personal Services (7200) · prefill_form:DEFA14A · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

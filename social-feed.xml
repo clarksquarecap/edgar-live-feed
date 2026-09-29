@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 12:16:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:22:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EHGO 🌍 Re-domicile
+Proposes re-domiciliation to BVI from Cayman, 5-for-1 reverse split; vote Oct 10
+Mcap $5M · EV $7M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1879754/000118518526004392/ehgo6k092926.htm</link>
+      <guid isPermaLink="false">0001185185-26-004392</guid>
+      <pubDate>Tue, 29 Sep 2026 07:22:41 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
+    <item>
+      <title>$ACVA 🎯 Tender
+Receives $10.50/share cash tender offer from Copart; HSR refiled
+cash · close 2026-10-13
+Mcap $1.8B · EV $1.8B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526406053/d104484dsc14d9a.htm</link>
+      <guid isPermaLink="false">0001193125-26-406039</guid>
+      <pubDate>Tue, 29 Sep 2026 07:22:09 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$ATOS 💧 Capital Return · Special Div
 Plans CVR issuance to shareholders for 25% of voucher proceeds, capped at $50M
@@ -36,16 +55,6 @@ Mcap $230M · Healthcare</title>
       <pubDate>Tue, 29 Sep 2026 07:07:33 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$ACVA 🎯 Tender
-Acquired by Copart for $10.50/share cash; HSR refiled, lawsuits pending
-cash · close 2026-10-13
-Mcap $1.8B · EV $1.8B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/d126618dsctota.htm</link>
-      <guid isPermaLink="false">0001193125-26-406039</guid>
-      <pubDate>Tue, 29 Sep 2026 07:06:25 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
     <item>
       <title>$SSTI 🎯 Tender
@@ -1085,17 +1094,6 @@ Mcap $9M · EV $11M · Industrials</title>
       <guid isPermaLink="false">0001868419-26-000044</guid>
       <pubDate>Mon, 28 Sep 2026 07:27:24 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$ZBAO 🤝 Merger
-Acquires NEXSYS TECH for $1 cash + up to $7.5M earn-out shares for AI infrastructure
-NEXSYS TECH SDN. BHD. · 7500001 deal · cash+stk
-Mcap $3M · EV $11M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1966750/000121390026103756/ea0306837-6k_zhibao.htm</link>
-      <guid isPermaLink="false">0001213900-26-103756</guid>
-      <pubDate>Mon, 28 Sep 2026 07:20:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
