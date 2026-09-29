@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 11:54:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:06:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ACVA 🎯 Tender
+Acquired by Copart for $10.50/share cash; HSR refiled, lawsuits pending
+cash · close 2026-10-13
+Mcap $1.8B · EV $1.8B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/d126618dsctota.htm</link>
+      <guid isPermaLink="false">0001193125-26-406039</guid>
+      <pubDate>Tue, 29 Sep 2026 07:06:25 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$SSTI 🎯 Tender
 Acquired by Transom Capital for $8.00 cash + CVR up to $3.00/share
@@ -1067,49 +1077,6 @@ Mcap $5.8B · EV $6.1B · Healthcare</title>
       <pubDate>Mon, 28 Sep 2026 07:13:05 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$AIMD 📤 Divestiture
-Licenses VELDONA® platform rights to BioPhoenix for $600K upfront + 25% sublicensing
-to BioPhoenix Co. · $10.0 million deal
-Mcap $10M · EV $22M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1014763/000149315226044454/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044454</guid>
-      <pubDate>Mon, 28 Sep 2026 07:05:14 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ASST 🤝 Merger
-Merger with Semler Scientific progressing; updates on holdings
-empty
-Mcap $2.5B · EV $3.0B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1920406/000162828026063653/asst-20260928.htm</link>
-      <guid isPermaLink="false">0001628280-26-063653</guid>
-      <pubDate>Mon, 28 Sep 2026 07:04:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LCCC 🤝 Merger
-Extends CPRO Korea business combination deadline to Nov 1, 2026 with $67.5K payment
-CPRO Electronics Co. · close 2026-11-01
-Mcap $40M · EV $40M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2049248/000192998026000535/lccc_8k.htm</link>
-      <guid isPermaLink="false">0001929980-26-000535</guid>
-      <pubDate>Mon, 28 Sep 2026 07:04:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LGPS 🤝 Merger
-Completes 100% acquisition of I-FLATZ, expanding into Kansai region
-I-FLATZ Co.
-Mcap $19M · EV $136M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2040290/000149315226044452/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044452</guid>
-      <pubDate>Mon, 28 Sep 2026 07:03:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>

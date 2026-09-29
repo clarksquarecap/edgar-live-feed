@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 11:48:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:06:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🎯 Tender · ACVA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/d126618dsctota.htm</link>
+      <guid isPermaLink="false">0001193125-26-406039</guid>
+      <pubDate>Tue, 29 Sep 2026 07:06:25 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>tender_offer</category>
+      <category>SC TO-T/A</category>
+      <scanner:headline>Acquired by Copart for $10.50/share cash; HSR refiled, lawsuits pending</scanner:headline>
+      <scanner:shortName>ACV Auctions</scanner:shortName>
+      <scanner:price>10.46</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SC TO-T/A</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>ACVA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC TO-T/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1776190000</scanner:marketCap>
+      <scanner:enterpriseValue>1783630000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.23</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.30</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>37.54</scanner:fwdPE>
+      <scanner:fwdEvEbitda>19.92</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>8.30</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>26.81</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Copart for $10.50/share cash; HSR refiled, lawsuits pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is the target of a tender offer by Apple Merger Sub, Inc., a wholly-owned subsidiary of Copart, Inc., for $10.50 per share in cash. Copart refiled its HSR notification on September 28, 2026, with the waiting period now expected to expire on October 13, 2026. Three shareholder lawsuits have been filed against ACV and its board, alleging disclosure deficiencies and seeking to enjoin the transaction.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ACV Auctions Inc. provides a wholesale auction marketplace to facilitate business-to-business used vehicle sales between a selling and buying dealership. The company offers marketplace platform includes digital marketplace that connects buyers and sellers by providing auctions, which facilitates real-time transactions of wholesale vehicles; Run List for pre-filtering and pre-screening of vehicles up to 24 hours prior to an auction taking place; ACV transportation service to enable the buyers to …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Copart, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $10.50&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR waiting period expires Oct 13, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.46 · Mkt cap $1.78B · EV $1.78B · Fwd P/E 37.5x · Fwd EV/EBITDA 19.9x · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/0001193125-26-406039-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACVA&lt;/b&gt; · SC TO-T/A · Business Services (7389) · prefill_form:SC TO-T · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🎯 Tender · SSTI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1351636/000119312526406024/d107296d8k.htm</link>
@@ -15964,37 +16003,6 @@
 &lt;p&gt;&lt;i&gt;Px $26.61 · Mkt cap $959.2M · EV $760.6M · Fwd P/E 6.5x · Fwd EV/EBITDA 3.4x · Consumer Discretionary / Diversified Consumer Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1600222/000095014226002563/0000950142-26-002563-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PXED&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Education (8200) · 8k_tier1:8.01 · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · XRPN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2044009/000119312526394363/d141989d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-394363</guid>
-      <pubDate>Thu, 17 Sep 2026 15:38:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Business combination with Ripple Labs; $30M convertible notes financing</scanner:headline>
-      <scanner:shortName>Armada Acquisition Corp. II</scanner:shortName>
-      <scanner:price>10.54</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>XRPN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>332640000</scanner:marketCap>
-      <scanner:enterpriseValue>332590000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Business combination with Ripple Labs; $30M convertible notes financing&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that Evernorth Holdings Inc. entered into a note purchase agreement to issue $30M 4.00% Convertible Senior PIK Notes due 2031, conditioned on closing of the previously announced business combination with Ripple Labs. The deal is expected to close in Q4 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Armada Acquisition Corp. II focuses on effecting a merger, share exchange, asset acquisition, share purchase, recapitalization, reorganization or other similar business combination with one or more businesses in the technological services. The company was incorporated in 2024 and is based in Miami, Florida.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ripple Labs Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.54 · Mkt cap $332.6M · EV $332.6M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2044009/000119312526394363/0001193125-26-394363-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;XRPN, XRPNU, XRPNW&lt;/b&gt; · 8-K · Items 8.01 · Holding / Investment Offices (6770) · 8k_tier1:8.01 · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
