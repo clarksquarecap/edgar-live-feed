@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 20:58:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:06:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VIP 🪙 Debt Restr.
+Exchanges $2.79M 2026 Notes for $2.83M 2030 Notes + warrants
+Mcap $57M · EV $94M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1844971/000162828026063839/gree-20260923.htm</link>
+      <guid isPermaLink="false">0001628280-26-063839</guid>
+      <pubDate>Tue, 29 Sep 2026 16:06:09 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$UTMD 💧 Capital Return · Self-tender
+Launches self-tender for 650,000 shares at $75.00/share; expires Oct 7
+Mcap $238M · EV $151M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/706698/000109690626001481/utah_sctoia.htm</link>
+      <guid isPermaLink="false">0001096906-26-001447</guid>
+      <pubDate>Tue, 29 Sep 2026 16:04:52 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$KTF 📍 Stake
 Reports 22.9% stake in DWS Municipal Income Trust
@@ -987,26 +1006,6 @@ Mcap $6M · EV $177M · Cons Disc</title>
       <guid isPermaLink="false">0001213900-26-104130</guid>
       <pubDate>Mon, 28 Sep 2026 16:10:59 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$VACI 🤝 Merger
-Completes business combination with NorthStar; combined entity to trade as NSTR
-NorthStar Earth &amp; Space · close 2026-09-30
-Mcap $217M · EV $216M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2080023/000121390026104115/ea0306906-8k425_viking1.htm</link>
-      <guid isPermaLink="false">0001213900-26-104119</guid>
-      <pubDate>Mon, 28 Sep 2026 16:04:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RNG 👀 Activist
-Adjusts annual meeting date to Nov 2; sets Oct 9 deadline for director nominations
-Mcap $6.4B · EV $7.6B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1384905/000138490526000050/rng-20260928.htm</link>
-      <guid isPermaLink="false">0001384905-26-000050</guid>
-      <pubDate>Mon, 28 Sep 2026 16:04:01 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
