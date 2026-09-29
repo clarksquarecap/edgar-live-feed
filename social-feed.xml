@@ -6,8 +6,39 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 20:37:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:38:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BIYA 📤 Divestiture
+Sells Juxing, Shenzhen Pengze &amp; VIEs; Shenzhen Pengze Future for RMB1.00
+to independent third party
+Mcap $14M · EV $13M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1944712/000121390026104687/ea0306763-6k_baiya.htm</link>
+      <guid isPermaLink="false">0001213900-26-104687</guid>
+      <pubDate>Tue, 29 Sep 2026 15:38:27 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$PATK 🤝 Merger
+LCI Industries merger on track; HSR refiled, shareholder vote mid-Nov
+Mcap $2.2B · EV $3.8B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/76605/000007660526000088/patk092826-425filingxcompa.htm</link>
+      <guid isPermaLink="false">0001628280-26-063259</guid>
+      <pubDate>Tue, 29 Sep 2026 15:37:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$HAVA 🤝 Merger
+Acquires OAG International in $300M business combination
+300000000 deal · stock
+Mcap $212M · EV $211M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2042460/000121390026104699/ea0304769-8k425_harvard.htm</link>
+      <guid isPermaLink="false">0001213900-26-104699</guid>
+      <pubDate>Tue, 29 Sep 2026 15:37:30 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$WTRG 🤝 Merger
 Updates on integration with American Water; merger expected to close Q1 2027
@@ -1005,25 +1036,6 @@ Mcap $305M · EV $224M · Financials</title>
       <pubDate>Mon, 28 Sep 2026 15:38:39 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$WALD 🌑 Going Dark
-Voluntary Nasdaq delisting &amp; SEC deregistration approved; to trade OTC as MLKM
-Mcap $122M · EV $279M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1840199/000184019926000108/a1wald6-k_earningsreleasex.htm</link>
-      <guid isPermaLink="false">0001341004-26-000047</guid>
-      <pubDate>Mon, 28 Sep 2026 15:38:24 -0500</pubDate>
-      <category>GOING_DARK</category>
-    </item>
-    <item>
-      <title>$USAC 📉 Delisting · Voluntary
-Voluntary NYSE delisting of Common Units effective Sep 28
-Mcap $3.7B · EV $6.6B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1522727/000152272726000092/usacform25-notificationofr.htm</link>
-      <guid isPermaLink="false">0001522727-26-000092</guid>
-      <pubDate>Mon, 28 Sep 2026 15:37:36 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
     </item>
   </channel>
 </rss>
