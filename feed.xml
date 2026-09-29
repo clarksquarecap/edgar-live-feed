@@ -6,8 +6,44 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 21:08:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:14:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · INM</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1728328/000119312526407792/d131177ds4a.htm</link>
+      <guid isPermaLink="false">0001193125-26-407792</guid>
+      <pubDate>Tue, 29 Sep 2026 16:14:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>S-4/A</category>
+      <scanner:headline>Acquires Mentari Therapeutics for ~2.0065 INM shares/Mentari share; redomiciles to Nevada</scanner:headline>
+      <scanner:shortName>InMed Pharmaceuticals</scanner:shortName>
+      <scanner:price>1.38</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>S-4/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>INM</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>S-4/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>9040000</scanner:marketCap>
+      <scanner:enterpriseValue>6800000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.38</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.99</scanner:evGrossProfitLtm>
+      <scanner:grossMarginLtm>34.53</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Mentari Therapeutics for ~2.0065 INM shares/Mentari share; redomiciles to Nevada&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive merger agreement to acquire Mentari Therapeutics, Inc. InMed will redomesticate from British Columbia, Canada, to Nevada and change its name to Mentari Therapeutics, Inc. Mentari stockholders are estimated to receive approximately 2.0065 InMed Common Shares for each Mentari Common Stock or Series A Preferred Stock share. The transaction also includes a reverse stock split of InMed shares.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; InMed Pharmaceuticals Inc. operates as a pharmaceutical drug development company in the United States. The company researches and develops cannabinoid-based pharmaceuticals products. Its product candidates include INM-901 for Alzheimer’s disease, INM-089 for dry age-related macular degeneration, and INM-755, a cannabinol cream. The company was formerly known as Cannabis Technologies Inc. and changed its name to InMed Pharmaceuticals Inc. in October 2014. InMed Pharmaceuticals Inc.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Mentari Therapeutics, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-19&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; InMed Shareholders Meeting&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.38 · Mkt cap $9.0M · EV $6.8M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1728328/000119312526407792/0001193125-26-407792-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;INM&lt;/b&gt; · S-4/A · Chemicals / Pharma (2834) · prefill_form:S-4 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚔️ Proxy Contest · UMH</title>
       <link>https://www.sec.gov/Archives/edgar/data/752642/000090266426003983/0000902664-26-003983-index.htm</link>
@@ -16149,39 +16185,6 @@
 &lt;p&gt;&lt;i&gt;Px $578.29 · Mkt cap $6.13B · Fwd P/E 11.7x · Financials / Consumer Finance&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/885550/000088555026000192/0000885550-26-000192-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CACC&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Non-Depository Credit (6141) · 8k_tier1:1.01,7.01 · filed 2026-09-18&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · MG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1436126/000119312526395732/0001193125-26-395732-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-395732</guid>
-      <pubDate>Fri, 18 Sep 2026 16:31:00 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Increases stake in Mistras Group to 6.1%</scanner:headline>
-      <scanner:shortName>Mistras Group</scanner:shortName>
-      <scanner:price>19.53</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>MG</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>630950000</scanner:marketCap>
-      <scanner:enterpriseValue>854360000</scanner:enterpriseValue>
-      <scanner:fwdPE>16.35</scanner:fwdPE>
-      <scanner:fwdEvEbitda>8.32</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Increases stake in Mistras Group to 6.1%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Mill Road Capital III, L.P. increased its beneficial ownership in Mistras Group to 1,938,316 shares (6.1% of class) via open-market purchases, including 1,002 shares at $17.0580 on 8/12/2026. The fund acquired shares using working capital and margin loan proceeds.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Mistras Group, Inc. provides technology-enabled industrial asset integrity and laboratory testing solutions in the United States, Europe, the Middle East, Africa, Asia, and South America. The company offers non-destructive testing (NDT) services; pipeline inspections; Plant Condition Management Software; maintenance planning; and specialized engineering solutions.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.1%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $19.53 · Mkt cap $631.0M · EV $854.4M · Fwd P/E 16.4x · Fwd EV/EBITDA 8.3x · Industrials / Professional Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1436126/000119312526395732/0001193125-26-395732-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MG&lt;/b&gt; · SCHEDULE 13D/A · Engineering / Accounting (8711) · fresh_13d · filed 2026-09-18&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
