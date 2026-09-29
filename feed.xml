@@ -6,8 +6,43 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 21:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:23:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · EVV</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1222922/000076931726000011/0000769317-26-000011-index.htm</link>
+      <guid isPermaLink="false">0000769317-26-000011</guid>
+      <pubDate>Tue, 29 Sep 2026 16:23:30 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>SIT Investment Associates reports 7.7% stake in Eaton Vance Ltd Duration Income Fund</scanner:headline>
+      <scanner:shortName>Eaton Vance Ltd Duration Income Fund</scanner:shortName>
+      <scanner:price>8.37</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Financial Services</scanner:sector>
+      <scanner:ticker>EVV</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>972622960</scanner:marketCap>
+      <scanner:enterpriseValue>1756297550</scanner:enterpriseValue>
+      <scanner:evSalesLtm>12.91</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>12.91</scanner:evGrossProfitLtm>
+      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;SIT Investment Associates reports 7.7% stake in Eaton Vance Ltd Duration Income Fund&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;SIT Investment Associates Inc. and Sit Fixed Income Advisors II LLC /ADV reported a combined beneficial ownership of 7.7% of Eaton Vance Ltd Duration Income Fund&amp;#39;s common stock. The reported stake is based on 116,203,460 shares outstanding as of March 31, 2026. This Schedule 13D/A amends previous filings.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.7%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $8.37 · Mkt cap $972.6M · EV $1.76B · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1222922/000076931726000011/0000769317-26-000011-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EVV&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · LGO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1400438/000106299326005110/form6k.htm</link>
@@ -16155,38 +16190,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.50 · Mkt cap $161.3M · EV $272.4M · Industrials / Professional Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/KPGHF/news/535718'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KPGHF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · NFE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1749723/000119312526395888/0001193125-26-395888-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-395888</guid>
-      <pubDate>Fri, 18 Sep 2026 20:54:45 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Takes 14.7% stake via preferred conversion; seeks engagement</scanner:headline>
-      <scanner:shortName>New Fortress Energy</scanner:shortName>
-      <scanner:price>12.77</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>NFE</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>79290000</scanner:marketCap>
-      <scanner:enterpriseValue>9152980000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>33.48</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Takes 14.7% stake via preferred conversion; seeks engagement&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Strategic Value Partners (SVP), led by Victor Khosla, disclosed a 14.7% beneficial stake in New Fortress Energy, comprising 1.32M Class A shares plus 17.89M shares issuable upon conversion of Series A Mandatorily Convertible Preferred Stock. The preferred converts automatically on the third anniversary of issue. SVP is a known distressed/activist investor, signaling potential pressure for structural or strategic changes at the LNG company.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; New Fortress Energy Inc. operates as an integrated gas-to-power energy infrastructure company that provides energy and development services to end-users worldwide. The company operates in two segments, Terminals and Infrastructure, and Ships. The Terminals and Infrastructure segment engages in the natural gas procurement and liquefaction; and logistics, shipping, facilities and conversion, or development of natural gas-fired power generation.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 14.7%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $12.77 · Mkt cap $79.3M · EV $9.15B · Fwd EV/EBITDA 33.5x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1749723/000119312526395888/0001193125-26-395888-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NFE, NFEGP&lt;/b&gt; · SCHEDULE 13D · Utilities (4924) · fresh_13d · filed 2026-09-18&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
