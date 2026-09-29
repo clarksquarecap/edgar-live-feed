@@ -6,8 +6,41 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 10:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:13:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SWRD 🤝 Merger
+Acquires Envy Pompano Beach assets for $90M; complex stock &amp; debt financing
+$90.0 million deal · cash+stk
+Mcap $503M · EV $656M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1795851/000166357726000311/swrd_8k092326.htm</link>
+      <guid isPermaLink="false">0001663577-26-000311</guid>
+      <pubDate>Tue, 29 Sep 2026 05:13:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$FWAC 🤝 Merger
+Acquires Olympian Group in $400M stock deal; $10/share value
+$400,000,000 deal · stock
+Mcap $128M · EV $127M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2116105/000182912626010508/futurewaveacq_8k.htm</link>
+      <guid isPermaLink="false">0001829126-26-010509</guid>
+      <pubDate>Tue, 29 Sep 2026 05:12:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$VRME 🤝 Merger
+Acquires OpenWorld; shareholders approved merger, files pro forma financials
+Open World · stock
+Mcap $13M · EV $9M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1104038/000121465926012121/vm928261425.htm</link>
+      <guid isPermaLink="false">0001214659-26-011753</guid>
+      <pubDate>Tue, 29 Sep 2026 05:12:19 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BIOM 🤝 Merger
 Acquires Canvas 2709, LLC; exits shell status; registers shares for OTC trading
@@ -1185,27 +1218,6 @@ Mcap $619M · EV $13B · Materials</title>
       <pubDate>Mon, 28 Sep 2026 05:13:45 -0500</pubDate>
       <category>INSOLVENCY</category>
       <category>other</category>
-    </item>
-    <item>
-      <title>$TIMB 💧 Capital Return · Special Div
-Proposes R$515M interest on equity distribution (~R$0.2167/share)
-Mcap $8.6B · EV $11B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1826168/000129281426004718/timb20260925_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004718</guid>
-      <pubDate>Mon, 28 Sep 2026 05:13:09 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$GFI 🤝 Merger · Unsolicited
-Proposes to acquire Northern Star for A$27.00/share cash+stock; board rejected
-Northern Star Resources · 22% prem · cash+stk
-Mcap $36B · EV $37B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1172724/000162828026063642/sens28september2026.htm</link>
-      <guid isPermaLink="false">0001628280-26-063642</guid>
-      <pubDate>Mon, 28 Sep 2026 05:12:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>unsolicited</category>
     </item>
   </channel>
 </rss>
