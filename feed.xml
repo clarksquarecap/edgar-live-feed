@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 15:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:35:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Special Dividend · Stone Point Credit</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1825384/000110465926111809/tm2626492d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111809</guid>
+      <pubDate>Tue, 29 Sep 2026 12:35:42 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>special_dividend</category>
+      <category>8-K</category>
+      <scanner:headline>Declares $0.430/share special dividend; payable Sep 30</scanner:headline>
+      <scanner:shortName>Stone Point Credit</scanner:shortName>
+      <scanner:subtype>special_dividend</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector />
+      <scanner:ticker />
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Declares $0.430/share special dividend; payable Sep 30&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation&amp;#39;s Board declared a special cash distribution of $0.430 per share of common stock. The distribution is payable on September 30, 2026, to stockholders of record as of September 29, 2026. This represents an annualized distribution yield of approximately 8.8%.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; 0.430&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1825384/000110465926111809/0001104659-26-111809-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;8-K · Items 8.01, 9.01 · 8k_tier1:8.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · BLMZF</title>
       <link>https://www.sec.gov/Archives/edgar/data/1984014/000198401426000011/form6k_0929.txt</link>
@@ -16018,37 +16042,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MACI, MACIU, MACIW&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Business Services (7389) · 8k_tier1:7.01 · filed 2026-09-18&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 18 08:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2016221/000121390026101181/ea0305899-8k425_melar1.htm'&gt;Acquires Everli Global; S-4 filed, shareholder vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 18 08:17 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2016221/000121390026101166/ea0305899-8k425_melar1.htm'&gt;Acquires Everli in business combination; S-4 filed&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · FFAI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1805521/000121390026101175/ea0305734-8k_faraday.htm</link>
-      <guid isPermaLink="false">0001213900-26-101175</guid>
-      <pubDate>Fri, 18 Sep 2026 08:17:18 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Converts $5.88M convertible note to non-convertible debt; cuts dilution ~25%</scanner:headline>
-      <scanner:shortName>FARADAY FUTURE INTELLIGENT ELECTRIC</scanner:shortName>
-      <scanner:price>1.69</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>FFAI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>6520000</scanner:marketCap>
-      <scanner:enterpriseValue>177680000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Converts $5.88M convertible note to non-convertible debt; cuts dilution ~25%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Amended its $10M senior convertible note with an institutional investor, returning $5.0M restricted cash and reducing outstanding obligations from ~$10.88M to ~$5.88M. The remaining balance converts to non-convertible debt repayable in cash within six months, eliminating potential equity dilution by ~25.16% at the $5.00/share conversion floor.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Faraday Future Intelligent Electric Inc. is a U.S.-based Physical AI ecosystem company that offers robotics and mobility solutions through AI innovation and technologies. The company focuses in two product strategies within the Embodied AI (EAI) robotics business; EAI humanoid and bionic robots, and EAI automotive-focused robots. The company was formerly known as Faraday&amp;amp;Future Inc. and changed its name to Faraday Future Intelligent Electric Inc. in July 2022.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; institutional investor&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 10.88M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Full repayment of $5.88M within six months&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.69 · Mkt cap $6.5M · EV $177.7M · Consumer Discretionary / Automobiles&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1805521/000121390026101175/0001213900-26-101175-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FFAI&lt;/b&gt; · 8-K · Items 1.01, 1.02, 7.01, 9.01 · Transportation Equipment (3711) · 8k_tier1:1.01,1.02,7.01 · filed 2026-09-18&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
