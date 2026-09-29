@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 16:42:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:55:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BLMZF 📤 Divestiture
@@ -1059,16 +1059,6 @@ Mcap $82M · EV $72M · Financials</title>
       <guid isPermaLink="false">0001493152-26-044491</guid>
       <pubDate>Mon, 28 Sep 2026 12:09:12 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$PC 📉 Delisting · Forced
-Receives Nasdaq delisting determination; intends to appeal
-Mcap $30M · EV $23M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1998056/000149315226044487/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044487</guid>
-      <pubDate>Mon, 28 Sep 2026 11:51:59 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
