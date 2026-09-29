@@ -6,8 +6,41 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 12:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:07:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Special Dividend · KROS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1664710/000166471026000059/kros-20260929.htm</link>
+      <guid isPermaLink="false">0001664710-26-000059</guid>
+      <pubDate>Tue, 29 Sep 2026 07:07:33 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>special_dividend</category>
+      <category>8-K</category>
+      <scanner:headline>To distribute 25% of $20M Takeda milestone payment to stockholders</scanner:headline>
+      <scanner:shortName>Keros Therapeutics</scanner:shortName>
+      <scanner:price>11.62</scanner:price>
+      <scanner:subtype>special_dividend</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>KROS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>230390000</scanner:marketCap>
+      <scanner:evGrossProfitLtm>0.20</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>0.12</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>0.20</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;To distribute 25% of $20M Takeda milestone payment to stockholders&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced it will receive a $20 million development milestone payment from its partner Takeda Pharmaceuticals U.S.A., Inc. The company expects to distribute 25% of the net cash proceeds from this milestone payment, approximately $5 million, to its stockholders. This distribution follows the dosing of the first patient in the ELRiSE MF clinical trial.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Keros Therapeutics, Inc., a clinical-stage biopharmaceutical company, develops and commercializes novel therapeutics to treat patients with disorders linked to dysfunctional signaling of the transforming growth factor-beta family of proteins in the United States. It develops rinvatercept, which acts as a ligand trap and inhibits the biological effects of myostatin and activin A in Phase 1 clinical trials for Duchenne Muscular Dystrophy and Amyotrophic Lateral Sclerosis; and elritercept to target…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $11.62 · Mkt cap $230.4M · EV $-11.5M · Fwd EV/EBITDA 0.1x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1664710/000166471026000059/0001664710-26-000059-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KROS&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🎯 Tender · ACVA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/d126618dsctota.htm</link>
@@ -15970,39 +16003,6 @@
 &lt;p&gt;&lt;i&gt;Px $35.34 · Mkt cap $3.62B · EV $4.33B · Fwd P/E 8.6x · Fwd EV/EBITDA 5.2x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1655891/000114036126036989/0001140361-26-036989-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TRMD&lt;/b&gt; · SCHEDULE 13D/A · Water Transportation (4412) · fresh_13d · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · PXED</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1600222/000095014226002563/eh260831783_8k.htm</link>
-      <guid isPermaLink="false">0000950142-26-002563</guid>
-      <pubDate>Thu, 17 Sep 2026 15:39:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires Fuel50 for $31.5M cash + up to $8.5M earnout</scanner:headline>
-      <scanner:shortName>Phoenix Education Partners</scanner:shortName>
-      <scanner:price>26.61</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>PXED</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>959220000</scanner:marketCap>
-      <scanner:enterpriseValue>760630000</scanner:enterpriseValue>
-      <scanner:fwdPE>6.51</scanner:fwdPE>
-      <scanner:fwdEvEbitda>3.35</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Fuel50 for $31.5M cash + up to $8.5M earnout&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Agreed to acquire Fuel50 Inc., an AI-powered workforce transformation platform, for approximately $31.5 million in cash, subject to customary adjustments, plus earnout payments of up to $8.5 million through 2027. The merger will be effected via a wholly-owned subsidiary, with Fuel50 surviving as a wholly-owned subsidiary. The acquisition is funded with cash on hand and expected to close within 30 days, subject to Fuel50 stockholder approval and other customary conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Phoenix Education Partners, Inc., through its subsidiary, The University of Phoenix, Inc., provides online higher education for working adults in the United States. It develops talent solutions programs for employers, including a talent-sourcing platform that connects employers with students whose skills profiles align with job postings; and an AI-powered tool that scans an employer’s inventory of sought-after skills and designs development pathways to internal job opportunities.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Fuel50 Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $31.5 million (plus up to $8.5 million earnout)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026 (within 30 days)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Fuel50 stockholder approval and closing conditions&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $26.61 · Mkt cap $959.2M · EV $760.6M · Fwd P/E 6.5x · Fwd EV/EBITDA 3.4x · Consumer Discretionary / Diversified Consumer Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1600222/000095014226002563/0000950142-26-002563-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PXED&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Education (8200) · 8k_tier1:8.01 · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
