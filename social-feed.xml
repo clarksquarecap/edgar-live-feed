@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 21:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:42:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HVII 🤝 Merger
+Completes business combination with ONE Nuclear Energy LLC; now trades as ONEN
+$1,000,000,000 deal · stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1846416/000149315226044924/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044924</guid>
+      <pubDate>Tue, 29 Sep 2026 16:41:54 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$KENYF 🤝 Merger
 Closes acquisition of Cobequid-Chedabucto Hydrogen Project
@@ -1051,17 +1061,6 @@ Mcap $159M · EV $348M · Healthcare</title>
       <guid isPermaLink="false">0000921895-26-002661</guid>
       <pubDate>Mon, 28 Sep 2026 16:46:59 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$GIGGF 🤝 Merger
-Acquires 100% ownership of Turnagain Project from Mitsubishi
-empty
-Mcap $7M · EV $8M · Materials</title>
-      <link>https://www.otcmarkets.com/stock/GIGGF/news/536604</link>
-      <guid isPermaLink="false">OTC-536604</guid>
-      <pubDate>Mon, 28 Sep 2026 16:40:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
