@@ -6,8 +6,42 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 10:14:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:15:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · Strategic Private Placement · SMMT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1599298/000119312526405776/d178892d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-405776</guid>
+      <pubDate>Tue, 29 Sep 2026 05:15:46 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>strategic_private_placement</category>
+      <category>8-K</category>
+      <scanner:headline>Issues $2.0B convertible preferred to AstraZeneca; grants M&amp;A rights</scanner:headline>
+      <scanner:shortName>Summit Therapeutics</scanner:shortName>
+      <scanner:price>15.48</scanner:price>
+      <scanner:subtype>strategic_private_placement</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>SMMT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>12349160000</scanner:marketCap>
+      <scanner:enterpriseValue>11678870000</scanner:enterpriseValue>
+      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Issues $2.0B convertible preferred to AstraZeneca; grants M&amp;amp;A rights&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive agreement to issue $2.0 billion of Class A Convertible Preferred Stock to AstraZeneca Holdings B.V., a subsidiary of AstraZeneca plc, in a private placement. Each preferred share is convertible into 1,000 common shares, based on a common stock price of $18.3561. The agreement includes preemptive rights and certain rights for AstraZeneca in the event of a third-party acquisition proposal for Summit. Closing is expected within five business days of the agreement date.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Summit Therapeutics Inc., a biopharmaceutical company, focuses on discovery, development, and commercialization of patient, physician, caregiver, and societal friendly medicinal therapies. Its lead development candidate is ivonescimab, a bispecific antibody for immunotherapy through blockade of PD-1 with the anti-angiogenesis for the treatment of non-small lung cancer (NSCLC) and colorectal cancer (CRC).&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; AstraZeneca Holdings B.V.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 18.3561&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 2.0 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-03&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; closing of the Private Placement&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $15.48 · Mkt cap $12.35B · EV $11.68B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1599298/000119312526405776/0001193125-26-405776-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SMMT&lt;/b&gt; · 8-K · Items 1.01, 3.02, 5.03, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01,8.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚱️ Liquidation · WLK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1262823/000126282326000067/wlk-20260924.htm</link>
@@ -15906,37 +15940,6 @@
 &lt;p&gt;&lt;i&gt;Px $34.96 · Mkt cap $5.93B · EV $6.82B · Fwd P/E 8.9x · Fwd EV/EBITDA 6.9x · Industrials / Professional Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1398659/000114036126036971/0001140361-26-036971-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;G&lt;/b&gt; · S-4/A · Engineering / Accounting (8742) · prefill_form:S-4 · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Self Tender · HERZ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/880406/000165495426008429/herz_scto1.htm</link>
-      <guid isPermaLink="false">0001654954-26-008429</guid>
-      <pubDate>Thu, 17 Sep 2026 15:06:39 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-      <category>SC TO-I</category>
-      <scanner:headline>Self-tender up to 5% (100,886 sh) at 97.5% NAV; expires Oct 15</scanner:headline>
-      <scanner:shortName>Herzfeld Credit Income Fund</scanner:shortName>
-      <scanner:price>15.80</scanner:price>
-      <scanner:subtype>self_tender</scanner:subtype>
-      <scanner:form>SC TO-I</scanner:form>
-      <scanner:sector>Financial Services</scanner:sector>
-      <scanner:ticker>HERZ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SC TO-I</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>30784198</scanner:marketCap>
-      <scanner:enterpriseValue>30776820</scanner:enterpriseValue>
-      <scanner:fwdEvSales>9.50</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Self-tender up to 5% (100,886 sh) at 97.5% NAV; expires Oct 15&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Commenced a tender offer to purchase up to 5% of its outstanding common shares (100,886 shares) at 97.5% of NAV per share. Based on 8/31/26 NAV of $19.13, that implies ~$18.65/share. Offer expires Oct 15, 2026; pro-rata if oversubscribed.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1881528.56&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Offer expiration Oct 15, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $15.80 · Mkt cap $30.8M · EV $30.8M · Fwd EV/Sales 9.5x · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/880406/000165495426008429/0001654954-26-008429-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HERZ&lt;/b&gt; · SC TO-I · prefill_form:SC TO-I · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
