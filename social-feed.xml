@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 13:04:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:05:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ONAR 🪙 Debt Restr.
+Secured convertible notes for $3.55M proceeds + $6.38M debt exchange; Nasdaq uplist trigger
+Mcap $3M · EV $9M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1682265/000147793226005870/onar_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-005870</guid>
+      <pubDate>Tue, 29 Sep 2026 08:05:42 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$YMAT 🔎 Strat Review · Portfolio Review
+CEO relocates to US to lead growth initiatives; evaluating manufacturing expansion
+Mcap $6M · EV $19M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1875016/000149315226044808/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044808</guid>
+      <pubDate>Tue, 29 Sep 2026 08:04:45 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>portfolio_review</category>
+    </item>
     <item>
       <title>$TAOP 🪙 Debt Restr.
 Auditors raise substantial doubt about ability to continue as going concern
@@ -1018,17 +1037,6 @@ Mcap $1.8B · EV $2.8B · Real Estate</title>
       <link>https://www.sec.gov/Archives/edgar/data/1052752/000119312526403487/gty-20260922.htm</link>
       <guid isPermaLink="false">0001193125-26-403487</guid>
       <pubDate>Mon, 28 Sep 2026 08:06:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LFCR 🤝 Merger
-Acquired by Webster Equity Partners affiliate for $6.28 cash + CVR
-cash · close 2027-06-27
-Mcap $159M · EV $348M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1005286/000114036126037768/ef20082009_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-037768</guid>
-      <pubDate>Mon, 28 Sep 2026 08:05:41 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
