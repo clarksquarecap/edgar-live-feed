@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 10:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:14:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WLK 🧊 Liquidation
+Closes Cologne PVC plant; expects $205M pre-tax charges
+Mcap $8.5B · EV $13B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1262823/000126282326000067/wlk-20260924.htm</link>
+      <guid isPermaLink="false">0001262823-26-000067</guid>
+      <pubDate>Tue, 29 Sep 2026 05:14:34 -0500</pubDate>
+      <category>LIQUIDATION</category>
+    </item>
+    <item>
+      <title>$NWS 💧 Capital Return · Buyback
+Authorizes $1B share repurchase program for Class A &amp; B common
+Mcap $16B · EV $17B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1564708/000156470826000211/nws-20260928.htm</link>
+      <guid isPermaLink="false">0001564708-26-000211</guid>
+      <pubDate>Tue, 29 Sep 2026 05:13:24 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$SWRD 🤝 Merger
 Acquires Envy Pompano Beach assets for $90M; complex stock &amp; debt financing
@@ -1198,26 +1217,6 @@ Mcap $229M · EV $229M · Financials</title>
       <pubDate>Mon, 28 Sep 2026 05:16:37 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$KEN 📤 Divestiture
-Sells subsidiary's distributed energy business for NIS 272M (~$90M)
-90000000 deal · close Q1 2027
-Mcap $3.3B · EV $6.5B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1611005/000117891326004619/zk2636163.htm</link>
-      <guid isPermaLink="false">0001178913-26-004619</guid>
-      <pubDate>Mon, 28 Sep 2026 05:14:39 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BAK 🔥 Insolvency
-Responds to MPSP recommendation on extrajudicial reorganization, subsidiary Chapter 11
-Mcap $619M · EV $13B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1071438/000129281426004716/bak20260925_6k1.htm</link>
-      <guid isPermaLink="false">0001292814-26-004695</guid>
-      <pubDate>Mon, 28 Sep 2026 05:13:45 -0500</pubDate>
-      <category>INSOLVENCY</category>
-      <category>other</category>
     </item>
   </channel>
 </rss>

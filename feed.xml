@@ -6,8 +6,80 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 10:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:14:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚱️ Liquidation · WLK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1262823/000126282326000067/wlk-20260924.htm</link>
+      <guid isPermaLink="false">0001262823-26-000067</guid>
+      <pubDate>Tue, 29 Sep 2026 05:14:34 -0500</pubDate>
+      <category>LIQUIDATION</category>
+      <category>restructuring</category>
+      <category>8-K</category>
+      <scanner:headline>Closes Cologne PVC plant; expects $205M pre-tax charges</scanner:headline>
+      <scanner:shortName>WESTLAKE</scanner:shortName>
+      <scanner:price>66.84</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>WLK</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>8541920000</scanner:marketCap>
+      <scanner:enterpriseValue>13068920000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.16</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>12.02</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>18.83</scanner:fwdPE>
+      <scanner:fwdEvEbitda>6.63</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>11.42</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>9.62</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Closes Cologne PVC plant; expects $205M pre-tax charges&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation approved a plan to cease operation of its polyvinyl chloride (PVC) production plant in Cologne, Germany, with cessation expected in Q1 2027. The closure will result in a workforce reduction of approximately 120 employees and pre-tax charges of approximately $205 million, including $105 million non-cash and $100 million cash charges.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Westlake Corporation manufactures and markets performance and essential materials, and housing and infrastructure products in the United States, Canada, Germany, China, Mexico, Brazil, France, Italy, and internationally. It operates through two segments, Performance and Essential Materials and The Housing and Infrastructure Products.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q1 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Q1 2027&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $66.84 · Mkt cap $8.54B · EV $13.07B · Fwd P/E 18.8x · Fwd EV/EBITDA 6.6x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1262823/000126282326000067/0001262823-26-000067-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WLK&lt;/b&gt; · 8-K · Items 2.05, 7.01 · Chemicals / Pharma (2860) · 8k_tier1:2.05,7.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · NWS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1564708/000156470826000211/nws-20260928.htm</link>
+      <guid isPermaLink="false">0001564708-26-000211</guid>
+      <pubDate>Tue, 29 Sep 2026 05:13:24 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>8-K</category>
+      <scanner:headline>Authorizes $1B share repurchase program for Class A &amp; B common</scanner:headline>
+      <scanner:shortName>NEWS</scanner:shortName>
+      <scanner:price>31.75</scanner:price>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>NWS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>15952520000</scanner:marketCap>
+      <scanner:enterpriseValue>17476520000</scanner:enterpriseValue>
+      <scanner:fwdPE>22.41</scanner:fwdPE>
+      <scanner:fwdEvEbitda>9.70</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.39</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Authorizes $1B share repurchase program for Class A &amp;amp; B common&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation disclosed its ongoing stock repurchase program, authorized for up to $1 billion of its outstanding Class A and Class B common stock. The 2025 Repurchase Program, initially authorized on July 15, 2025, allows for repurchases from time to time in the open market or otherwise, subject to market conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; News Corporation, a media and information services company, creates and distributes authoritative and engaging content, and other products and services for consumers and businesses in the United States, Canada, Europe, Australasia, and internationally. It operates through five segments: Dow Jones, Digital Real Estate Services, Book Publishing, News Media, and Other.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1,000,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-07-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $31.75 · Mkt cap $15.95B · EV $17.48B · Fwd P/E 22.4x · Fwd EV/EBITDA 9.7x · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1564708/000156470826000211/0001564708-26-000211-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NWS, NWSA, NWSLL&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Printing (2711) · 8k_tier1:8.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · SWRD</title>
       <link>https://www.sec.gov/Archives/edgar/data/1795851/000166357726000311/swrd_8k092326.htm</link>
@@ -15865,67 +15937,6 @@
 &lt;p&gt;&lt;i&gt;Px $15.80 · Mkt cap $30.8M · EV $30.8M · Fwd EV/Sales 9.5x · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/880406/000165495426008429/0001654954-26-008429-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HERZ&lt;/b&gt; · SC TO-I · prefill_form:SC TO-I · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · RARE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1515673/000151567326000006/rare-20260917.htm</link>
-      <guid isPermaLink="false">0001515673-26-000006</guid>
-      <pubDate>Thu, 17 Sep 2026 15:00:15 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>8-K</category>
-      <scanner:headline>Receives FDA full approval for FAYUVI (MPS IIIA)</scanner:headline>
-      <scanner:shortName>Ultragenyx Pharmaceutical</scanner:shortName>
-      <scanner:price>14.50</scanner:price>
-      <scanner:subtype>won</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>RARE</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1265960000</scanner:marketCap>
-      <scanner:enterpriseValue>2038960000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Receives FDA full approval for FAYUVI (MPS IIIA)&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Ultragenyx announced FDA granted standard full approval of FAYUVI (rebisufligene etisparvovec-hopf) for pediatric MPS IIIA, the first-ever approved treatment for Sanfilippo syndrome type A. The company also received a Priority Review Voucher. This is the second gene therapy approval for Ultragenyx.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ultragenyx Pharmaceutical Inc., a biopharmaceutical company, focuses on the identification, acquisition, development, and commercialization of novel products for the treatment of rare and ultra-rare genetic diseases in North America, Latin America, Europe, the Middle East, Africa, and the Asia-Pacific.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $14.50 · Mkt cap $1.27B · EV $2.04B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1515673/000151567326000006/0001515673-26-000006-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RARE&lt;/b&gt; · 8-K · Items 8.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · BHR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000100901226000008/PX14A6G.txt</link>
-      <guid isPermaLink="false">0001009012-26-000008</guid>
-      <pubDate>Thu, 17 Sep 2026 14:59:53 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>PX14A6G</category>
-      <scanner:headline>Faces Zazove activist push for independent board; AGM Nov 13</scanner:headline>
-      <scanner:shortName>Braemar Hotels &amp; Resorts</scanner:shortName>
-      <scanner:price>1.88</scanner:price>
-      <scanner:subtype />
-      <scanner:form>PX14A6G</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>BHR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>PX14A6G</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>127740000</scanner:marketCap>
-      <scanner:enterpriseValue>1165990000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Faces Zazove activist push for independent board; AGM Nov 13&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Faces an activist campaign from Zazove Associates, which is urging shareholders to elect a new independent board and objecting to the Ashford termination agreement that could pay Ashford nearly $480M. The company set a short nomination window (Sept 14) for the Nov 13 annual meeting.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Braemar Hotels &amp;amp; Resorts Inc. is a real estate investment trust focused on the high-growth luxury hotel and resort sector. The Company targets high-performance luxury urban and resort properties, specializing in assets that generate revenue per available room at least twice the U.S. national average. Its industry-leading portfolio features luxury properties across the United States and the U.S. territories in the Caribbean.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Zazove Associates, LLC&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Annual Meeting Nov 13&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.88 · Mkt cap $127.7M · EV $1.17B · Real Estate / Hotel and Resort REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1574085/000100901226000008/0001009012-26-000008-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BHR, BHR-PB, BHR-PD&lt;/b&gt; · PX14A6G · Holding / Investment Offices (6798) · prefill_form:PX14A6G · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
