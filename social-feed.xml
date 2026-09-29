@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 12:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:37:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KITT 🪙 Debt Restr.
+Receives waiver on Series C preferred stock triggering event through 2027
+Mcap $2M · EV $23M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849820/000184982026000155/kitt-20260923.htm</link>
+      <guid isPermaLink="false">0001849820-26-000155</guid>
+      <pubDate>Tue, 29 Sep 2026 07:37:01 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$BLEG 🤝 Merger
 Acquires Kharkiv, Ukraine facility for autonomous defense; changes name to T4 Robotics
@@ -1075,24 +1084,6 @@ Mcap $3M · EV $3M · Financials</title>
       <pubDate>Mon, 28 Sep 2026 07:42:18 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$GPK 📤 Divestiture
-Completes Croatia divestiture; announces additional facility closures
-Mcap $2.8B · EV $8.3B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1408075/000119312526403456/gpk-20260928.htm</link>
-      <guid isPermaLink="false">0001193125-26-403456</guid>
-      <pubDate>Mon, 28 Sep 2026 07:35:30 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$WKEY 🌍 Re-domicile
-Redomiciliation to British Virgin Islands effective Oct 2; new ticker WQEY
-Mcap $51M · EV $37M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026103764/ea0306757-6k_wisekey.htm</link>
-      <guid isPermaLink="false">0001213900-26-103517</guid>
-      <pubDate>Mon, 28 Sep 2026 07:34:09 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>

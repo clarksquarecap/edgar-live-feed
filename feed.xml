@@ -6,8 +6,40 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 12:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:37:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · KITT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849820/000184982026000155/kitt-20260923.htm</link>
+      <guid isPermaLink="false">0001849820-26-000155</guid>
+      <pubDate>Tue, 29 Sep 2026 07:37:01 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Receives waiver on Series C preferred stock triggering event through 2027</scanner:headline>
+      <scanner:shortName>Nauticus Robotics</scanner:shortName>
+      <scanner:price>1.81</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>KITT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2250000</scanner:marketCap>
+      <scanner:enterpriseValue>22920000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>5.62</scanner:evSalesLtm>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Receives waiver on Series C preferred stock triggering event through 2027&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a waiver from a Series C Convertible Preferred Stock holder, postponing a &amp;#39;Triggering Event&amp;#39; from September 30, 2026, through December 31, 2027. This waiver prevents an increase in the dividend rate to 18% per annum and a 125% conversion multiplier (25% premium) that would have applied if the preferred shares remained outstanding.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nauticus Robotics, Inc. engages in the development of electric autonomous robotic solutions for subsea applications. The company offers Aquanaut, an autonomous underwater vehicle with sensor suite, which provides capability to observe and inspect subsea assets or other subsea features; Olympic Arm, an all-electric manipulator designed for a variety of intervention tasks on work class remotely operated vehicles; and ToolKITT, a software platform, which consists of interrelated products for ocean …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Series C Preferred Stock holder&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-12-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2027-12-31&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.81 · Mkt cap $2.2M · EV $22.9M · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1849820/000184982026000155/0001849820-26-000155-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KITT, KITTW&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Industrial Machinery (3569) · 8k_tier1:1.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · BLEG</title>
       <link>https://www.otcmarkets.com/stock/BLEG/news/536722</link>
@@ -15986,36 +16018,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CHR&lt;/b&gt; · 6-K · Business Services (7374) · prefill_form:6-K · filed 2026-09-17&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SCHEDULE 13D/A · Sep 17 16:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738758/000121390026101030/0001213900-26-101030-index.htm'&gt;Change in control: Lioness acquires 96.4% voting power for $500&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 17 16:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738758/000121390026101022/ea0305782-6k_cheer.htm'&gt;Control sold to Lioness Limited; 96.44% voting power transfers&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · VEXTF</title>
-      <link>https://www.otcmarkets.com/stock/VEXTF/news/535583</link>
-      <guid isPermaLink="false">OTC-535583</guid>
-      <pubDate>Thu, 17 Sep 2026 16:10:04 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>restructuring</category>
-      <category>OTC</category>
-      <scanner:headline>Restructures Ohio seller notes ahead of Dec 2026 maturity</scanner:headline>
-      <scanner:shortName>Vext Science</scanner:shortName>
-      <scanner:price>0.1900</scanner:price>
-      <scanner:subtype />
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>VEXTF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>46920000</scanner:marketCap>
-      <scanner:enterpriseValue>76600000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>4.24</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Restructures Ohio seller notes ahead of Dec 2026 maturity&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced the reopening of its Jackson, Ohio dispensary and a restructuring of its Ohio seller notes ahead of the December 2026 maturity. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Vext Science, Inc., through its subsidiaries, engages in integrated cannabis operations in the United States. It owns and manages cultivation facilities, manufacturing units, and dispensaries; and involves in the cultivation, extraction, manufacture, and sale of THC and CBD cartridges, concentrates, edibles, and extracts.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1900 · Mkt cap $46.9M · EV $76.6M · Fwd EV/EBITDA 4.2x · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VEXTF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
