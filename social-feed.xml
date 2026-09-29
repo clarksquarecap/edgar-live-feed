@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 15:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:42:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BLMZF 📤 Divestiture
@@ -1069,16 +1069,6 @@ Mcap $30M · EV $23M · Cons Disc</title>
       <pubDate>Mon, 28 Sep 2026 11:51:59 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$RACE 💧 Capital Return · Buyback
-Reports €29.8M share repurchases under €3.5B buyback program
-Mcap $78B · EV $80B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1648416/000164841626000123/fnvbb280926prcov.htm</link>
-      <guid isPermaLink="false">0001648416-26-000123</guid>
-      <pubDate>Mon, 28 Sep 2026 11:40:01 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
