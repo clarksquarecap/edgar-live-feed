@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 13:30:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:37:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$COLA 🤝 Merger
+Adjourns shareholder meeting for WISeSat.Space business combination to Sep 30
+empty
+Mcap $47M · EV $47M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2028201/000121390026104375/ea0306954-8k_columbus.htm</link>
+      <guid isPermaLink="false">0001213900-26-102547</guid>
+      <pubDate>Tue, 29 Sep 2026 08:37:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SMA 🤝 Merger
 Expands North America platform with ~$140M strategic investments, including $54M Canadian JV
@@ -1090,14 +1101,6 @@ Mcap $378M · EV $347M · Materials</title>
       <pubDate>Mon, 28 Sep 2026 09:13:57 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SPCIBDC 📍 Stake
-STRS Ohio reports 6.8% stake in Stone Point Credit Income Fund</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2031283/000082047826000016/0000820478-26-000016-index.htm</link>
-      <guid isPermaLink="false">0000820478-26-000016</guid>
-      <pubDate>Mon, 28 Sep 2026 08:34:47 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
