@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 21:14:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:22:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LGO 🪙 Debt Restr.
+Closes $5.7M registered direct offering; discloses going concern
+Mcap $52M · EV $169M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1400438/000106299326005110/form6k.htm</link>
+      <guid isPermaLink="false">0001062993-26-005110</guid>
+      <pubDate>Tue, 29 Sep 2026 16:22:10 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$D 🤝 Merger
+Acquired by NextEra Energy; shareholders approved; close H2 2027
+empty
+Mcap $53B · EV $113B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926111985/tm2626617d1_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-111074</guid>
+      <pubDate>Tue, 29 Sep 2026 16:21:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$INM 🤝 Merger
 Acquires Mentari Therapeutics for ~2.0065 INM shares/Mentari share; redomiciles to Nevada
@@ -980,36 +1000,6 @@ Mcap $206M · Financials</title>
       <guid isPermaLink="false">0001835856-26-000060</guid>
       <pubDate>Mon, 28 Sep 2026 16:25:14 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$EMPD ⚔️ Proxy
-Nominates 4-director slate at Empery Digital; ISS supports 2 nominees; vote Oct 14
-16% stake
-Mcap $82M · EV $134M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000092189526002659/dfan13914005_09282026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002648</guid>
-      <pubDate>Mon, 28 Sep 2026 16:18:57 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$WAFD 🤝 Merger
-Acquires EverBank Financial Corp; EverBank owners to hold 59.2% of combined entity; new ticker EVBK
-stock · close early 2027
-Mcap $2.3B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/936528/000114036126037850/ef20082870_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-037850</guid>
-      <pubDate>Mon, 28 Sep 2026 16:18:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MSTR 🪙 Debt Restr.
-Proposes changes to terms of multiple preferred stock series for vote
-Mcap $62B · EV $81B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526405530/mstr-20260928.htm</link>
-      <guid isPermaLink="false">0001193125-26-402937</guid>
-      <pubDate>Mon, 28 Sep 2026 16:18:14 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>

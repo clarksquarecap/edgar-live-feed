@@ -6,8 +6,80 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 21:14:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:22:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · LGO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1400438/000106299326005110/form6k.htm</link>
+      <guid isPermaLink="false">0001062993-26-005110</guid>
+      <pubDate>Tue, 29 Sep 2026 16:22:10 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Closes $5.7M registered direct offering; discloses going concern</scanner:headline>
+      <scanner:shortName>Largo</scanner:shortName>
+      <scanner:price>0.5000</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>LGO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>52390000</scanner:marketCap>
+      <scanner:enterpriseValue>168700000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Closes $5.7M registered direct offering; discloses going concern&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Closed its registered direct offering, raising approximately US$5.7 million by selling 10,200,000 common shares and warrants at US$0.56 per unit. Proceeds will be used for working capital, including paying trade creditors. The company also disclosed substantial doubt about its ability to continue as a going concern.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Largo Inc., together with its subsidiaries, produces, supplies, and sells vanadium and ilmenite products in Canada and internationally. It operates through six segments: Sales and Trading; Mine Properties; Corporate; Exploration and Evaluation Properties; Clean Energy; and Largo Physical Vanadium. The company offers vanadium pentoxide flakes and powder, vanadium trioxide powder, and ferrovanadium, as well as ilmenite concentrate; and vanadium flow battery electrolyte and technology.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 0.56&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 5700000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.5000 · Mkt cap $52.4M · EV $168.7M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1400438/000106299326005110/0001062993-26-005110-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LGO&lt;/b&gt; · 6-K · Mining; Nonmetallic (1400) · prefill_form:6-K · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · D</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926111985/tm2626617d1_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-111074</guid>
+      <pubDate>Tue, 29 Sep 2026 16:21:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>Acquired by NextEra Energy; shareholders approved; close H2 2027</scanner:headline>
+      <scanner:shortName>DOMINION ENERGY</scanner:shortName>
+      <scanner:price>60.68</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Utilities</scanner:sector>
+      <scanner:ticker>D</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425 x2</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>53369630000</scanner:marketCap>
+      <scanner:enterpriseValue>112683630000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>6.22</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>13.45</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>16.55</scanner:fwdPE>
+      <scanner:fwdEvEbitda>11.77</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>13.45</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>46.22</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Merger with NextEra Energy progressing; S-4 effective&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is progressing its definitive business combination transaction with NextEra Energy. NextEra Energy filed an S-4 registration statement on July 9, 2026, which was declared effective by the SEC on July 23, 2026. A definitive joint proxy statement/prospectus was filed and mailed around July 28, 2026. This communication includes a social media post from NextEra Energy highlighting a third-party&amp;#39;s planned expansion if the combination is completed.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Dominion Energy, Inc. provides regulated electricity and natural gas services in the United States. It operates through Dominion Energy Virginia, Dominion Energy South Carolina, and Contracted Energy segments. The Dominion Energy Virginia segment engages in the generation, distribution, and transmission of electricity to approximately 2.8 million residential, commercial, industrial, and governmental customers in Virginia and North Carolina.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; NextEra Energy, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-09&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $60.68 · Mkt cap $53.37B · EV $112.68B · Fwd P/E 16.6x · Fwd EV/EBITDA 11.8x · Utilities / Multi-Utilities&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/715957/000110465926111074/0001104659-26-111074-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;D&lt;/b&gt; · 425 · Utilities (4911) · prefill_form:425 · filed 2026-09-28&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 29 16:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/715957/000110465926111985/tm2626617d1_425.htm'&gt;Acquired by NextEra Energy; shareholders approved; close H2 2027&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 28 05:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/715957/000110465926111074/tm2624792d3_425.htm'&gt;Merger with NextEra Energy progressing; S-4 effective&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · INM</title>
       <link>https://www.sec.gov/Archives/edgar/data/1728328/000119312526407792/d131177ds4a.htm</link>
@@ -7148,45 +7220,6 @@
 &lt;p&gt;&lt;i&gt;Px $117.97 · Mkt cap $10.41B · EV $10.63B · Fwd P/E 15.4x · Fwd EV/EBITDA 11.7x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1604778/000110465926111071/0001104659-26-111071-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QRVO&lt;/b&gt; · 425 · Electronic Equipment (3674) · prefill_form:425 · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · D</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926111074/tm2624792d3_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-111074</guid>
-      <pubDate>Mon, 28 Sep 2026 05:10:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Merger with NextEra Energy progressing; S-4 effective</scanner:headline>
-      <scanner:shortName>DOMINION ENERGY</scanner:shortName>
-      <scanner:price>60.68</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Utilities</scanner:sector>
-      <scanner:ticker>D</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>53369630000</scanner:marketCap>
-      <scanner:enterpriseValue>112683630000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>6.22</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>13.45</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>16.55</scanner:fwdPE>
-      <scanner:fwdEvEbitda>11.77</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>13.45</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>46.22</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Merger with NextEra Energy progressing; S-4 effective&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is progressing its definitive business combination transaction with NextEra Energy. NextEra Energy filed an S-4 registration statement on July 9, 2026, which was declared effective by the SEC on July 23, 2026. A definitive joint proxy statement/prospectus was filed and mailed around July 28, 2026. This communication includes a social media post from NextEra Energy highlighting a third-party&amp;#39;s planned expansion if the combination is completed.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Dominion Energy, Inc. provides regulated electricity and natural gas services in the United States. It operates through Dominion Energy Virginia, Dominion Energy South Carolina, and Contracted Energy segments. The Dominion Energy Virginia segment engages in the generation, distribution, and transmission of electricity to approximately 2.8 million residential, commercial, industrial, and governmental customers in Virginia and North Carolina.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; NextEra Energy, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-09&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $60.68 · Mkt cap $53.37B · EV $112.68B · Fwd P/E 16.6x · Fwd EV/EBITDA 11.8x · Utilities / Multi-Utilities&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/715957/000110465926111074/0001104659-26-111074-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;D&lt;/b&gt; · 425 · Utilities (4911) · prefill_form:425 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
     <item>
       <title>👀 Activist · CTNT</title>
@@ -16154,37 +16187,6 @@
 &lt;p&gt;&lt;i&gt;Px $12.77 · Mkt cap $79.3M · EV $9.15B · Fwd EV/EBITDA 33.5x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1749723/000119312526395888/0001193125-26-395888-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NFE, NFEGP&lt;/b&gt; · SCHEDULE 13D · Utilities (4924) · fresh_13d · filed 2026-09-18&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Settled · CACC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/885550/000088555026000192/cacc-20260917.htm</link>
-      <guid isPermaLink="false">0000885550-26-000192</guid>
-      <pubDate>Fri, 18 Sep 2026 16:37:47 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-      <category>8-K</category>
-      <scanner:headline>Settles multi-state AG probe for $15.5M cash + $60M trust + $634M debt relief</scanner:headline>
-      <scanner:shortName>CREDIT ACCEPTANCE</scanner:shortName>
-      <scanner:price>578.29</scanner:price>
-      <scanner:subtype>settled</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>CACC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>6128800000</scanner:marketCap>
-      <scanner:fwdPE>11.73</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Settles multi-state AG probe for $15.5M cash + $60M trust + $634M debt relief&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Settled the NY AG lawsuit and multi-state investigation with 40 state AGs and DC. It will pay $15.5M to AGs, $60M to a consumer remediation trust, and waive ~$634M in customer balances. No admission of wrongdoing; subject to court approval; no additional charges beyond previously accrued amounts.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Credit Acceptance Corporation engages in the provision of financing programs, and related products and services in the United States. It advances money to automobile dealers in exchange for the right to service the underlying consumer loans; and buys the consumer loans from the dealers and keeps the amount collected from the consumers.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; State AGs (40 states + DC)&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Court approval&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $578.29 · Mkt cap $6.13B · Fwd P/E 11.7x · Financials / Consumer Finance&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/885550/000088555026000192/0000885550-26-000192-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CACC&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Non-Depository Credit (6141) · 8k_tier1:1.01,7.01 · filed 2026-09-18&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
