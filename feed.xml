@@ -6,8 +6,44 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 12:57:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:04:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · TAOP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1552670/000149315226044809/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044809</guid>
+      <pubDate>Tue, 29 Sep 2026 08:04:21 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Auditors raise substantial doubt about ability to continue as going concern</scanner:headline>
+      <scanner:shortName>Taoping</scanner:shortName>
+      <scanner:price>0.5200</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>TAOP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>5030000</scanner:marketCap>
+      <scanner:enterpriseValue>14550000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.47</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>4.32</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>4.42</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>10.93</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Auditors raise substantial doubt about ability to continue as going concern&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Taoping Inc.&amp;#39;s independent registered auditors have expressed substantial doubt about the company&amp;#39;s ability to continue as a going concern. This disclosure was made in connection with the unaudited consolidated financial statements for the six months ended June 30, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Taoping Inc. provides cloud-app technologies for smart city IoT platforms, digital advertising delivery, and other internet-based information systems in China. It operates through Cloud-based Technology, Traditional Information Technology, and Smart Elevator segment. The company offers cloud-based products, high-end data storage servers, and related services to private sectors, including new media, healthcare, education and residential community management, and other industries and applications;…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.5200 · Mkt cap $5.0M · EV $14.6M · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1552670/000149315226044809/0001493152-26-044809-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TAOP&lt;/b&gt; · 6-K · Business Services (7372) · prefill_form:6-K · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · CAPS</title>
       <link>https://www.sec.gov/Archives/edgar/data/887151/000143774926031423/caps20260928_8k.htm</link>
@@ -15991,37 +16027,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MOD&lt;/b&gt; · 425 · Transportation Equipment (3714) · prefill_form:425 · filed 2026-09-17&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 17 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/67347/000110465926108614/tm2625565d1_8k.htm'&gt;Spins off Performance Technologies; $159M cash distribution; Gentherm merger Oct 1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 17 16:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/67347/000110465926108615/tm2625565d2_425.htm'&gt;Spins off Performance Technologies; record date Sept 28, merger with Gentherm Oct 1&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Settled · MEDS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2030763/000149315226043169/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-043169</guid>
-      <pubDate>Thu, 17 Sep 2026 16:27:05 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-      <category>8-K</category>
-      <scanner:headline>Settles MIPA litigation for $450K; extinguishes ~$19M liability</scanner:headline>
-      <scanner:shortName>DataMeds AI</scanner:shortName>
-      <scanner:price>6.07</scanner:price>
-      <scanner:subtype>settled</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>MEDS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>4960000</scanner:marketCap>
-      <scanner:enterpriseValue>35130000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Settles MIPA litigation for $450K; extinguishes ~$19M liability&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Settled litigation with Brian Norton, RxERP, Nomad Capital and Strategix Global related to the 2023 Membership Interest Purchase Agreement. Paid $450,000; $350,000 to repurchase and extinguish 364,099 shares of common stock and $100,000 to settle MIPA claims. Anticipates extinguishing approximately $19 million in liability; parties dismissed Florida and Delaware litigation with prejudice.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; DataMEDS AI, Inc. operates as a health IT company in the United States. The company focuses on the vertical integration of technology, pharmacy, pharmaceutical-adjacent, and telemedicine business units to deliver an enhanced healthcare experience for consumers. It offers tools, such as the EinsteinRx, a pharmacy dispensing AI platform; the PharmacyChain, a smart contracts platform; Patient Rx Adherence Tool; and HubRx AI.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Brian Norton, RxERP, Nomad Capital, Strategix Global&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $450,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Dismissal of Florida and Delaware litigation with prejudice&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $6.07 · Mkt cap $5.0M · EV $35.1M · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2030763/000149315226043169/0001493152-26-043169-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MEDS&lt;/b&gt; · 8-K · Items 8.01 · Wholesale; Nondurable (5122) · 8k_tier1:8.01 · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 12:57:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:04:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TAOP 🪙 Debt Restr.
+Auditors raise substantial doubt about ability to continue as going concern
+Mcap $5M · EV $15M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1552670/000149315226044809/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044809</guid>
+      <pubDate>Tue, 29 Sep 2026 08:04:21 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$CAPS 🪙 Debt Restr.
 Retires 85% of convertible note principal, reducing balance to $1M
@@ -1022,36 +1031,6 @@ Mcap $159M · EV $348M · Healthcare</title>
       <pubDate>Mon, 28 Sep 2026 08:05:41 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$DGCMF 🤝 Merger
-Acquires Solana; adopts AI and digital-infrastructure strategy
-Mcap $2M · EV $50K · Financials</title>
-      <link>https://www.otcmarkets.com/stock/DGCMF/news/536555</link>
-      <guid isPermaLink="false">OTC-536555</guid>
-      <pubDate>Mon, 28 Sep 2026 07:59:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$LFCR 📦 Going Private
-Acquired by Webster Equity Partners affiliates for $6.28 cash + 1 CVR per share
-cash
-Mcap $159M · EV $348M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1005286/000114036126037767/ef20082009_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-037767</guid>
-      <pubDate>Mon, 28 Sep 2026 07:58:33 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$KOD ⚖️ Litigation · Won
-Zenkuda &amp; tabirafusp-ted meet primary endpoints in DAYBREAK wAMD study; BLA planned 4Q26
-Mcap $2.0B · EV $2.0B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468748/000119312526403481/d185059d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-403481</guid>
-      <pubDate>Mon, 28 Sep 2026 07:58:08 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
