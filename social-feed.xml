@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 11:42:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:48:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SSTI 🎯 Tender
+Acquired by Transom Capital for $8.00 cash + CVR up to $3.00/share
+Transom Capital Group · cash+stk · close Q4 2026
+Mcap $72M · EV $71M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1351636/000119312526406024/d107296d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-406024</guid>
+      <pubDate>Tue, 29 Sep 2026 06:48:34 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$HCNWF 🤝 Merger
 Acquires REVS Charging, establishing U.S. operating platform
@@ -1120,26 +1130,6 @@ Mcap $46M · EV $33M · Tech</title>
       <link>https://www.sec.gov/Archives/edgar/data/1285170/000117184326006245/f6k_092626.htm</link>
       <guid isPermaLink="false">OTC-536529</guid>
       <pubDate>Mon, 28 Sep 2026 06:50:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NEXCF 📍 Stake
-CEO Evan Gappelberg acquires 7.4M shares
-Mcap $14M · EV $17M · Tech</title>
-      <link>https://www.otcmarkets.com/stock/NEXCF/news/536530</link>
-      <guid isPermaLink="false">OTC-536530</guid>
-      <pubDate>Mon, 28 Sep 2026 06:44:33 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$VLY 🤝 Merger
-Acquires Bluevine Inc. for $340M cash &amp; 6.3M shares to boost digital small business
-$340,000,000 deal · cash+stk
-Mcap $7.2B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/714310/000119312526403391/d31493d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-403391</guid>
-      <pubDate>Mon, 28 Sep 2026 06:44:00 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
