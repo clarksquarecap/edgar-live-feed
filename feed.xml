@@ -6,8 +6,84 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 20:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:26:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · XYL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1524472/000152447226000134/xyl-20260929.htm</link>
+      <guid isPermaLink="false">0001524472-26-000134</guid>
+      <pubDate>Tue, 29 Sep 2026 15:26:38 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Raises $1.5B in senior notes to finance Cornell Pump, Roper Pump acquisition</scanner:headline>
+      <scanner:shortName>Xylem</scanner:shortName>
+      <scanner:price>100.94</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>XYL</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>23561150000</scanner:marketCap>
+      <scanner:enterpriseValue>25585150000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.80</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>7.14</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>17.45</scanner:fwdPE>
+      <scanner:fwdEvEbitda>11.65</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>7.26</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>39.24</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Raises $1.5B in senior notes to finance Cornell Pump, Roper Pump acquisition&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed a public offering of $1.5 billion in aggregate principal amount of senior notes across three tranches (5.250% due 2029, 5.450% due 2032, and 5.850% due 2037). The company intends to use the net proceeds, along with cash on hand, to finance the previously announced acquisition of the Cornell Pump and Roper Pump businesses. A special mandatory redemption clause requires the company to redeem the notes at 101% if the acquisition is not consummated by August 10, 2027, or if the agreement is terminated.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Xylem Inc., together with its subsidiaries, engages in the design, manufacture, and servicing of engineered products and solutions for utility, industrial, and residential and commercial building services settings worldwide. It operates through Water Infrastructure; Applied Water; Measurement and Control Solutions; and Water Solutions and Services segments.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Cornell Pump and Roper Pump businesses&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; August 10, 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Acquisition closing by August 10, 2027&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $100.94 · Mkt cap $23.56B · EV $25.59B · Fwd P/E 17.4x · Fwd EV/EBITDA 11.7x · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1524472/000152447226000134/0001524472-26-000134-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;XYL&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Industrial Machinery (3561) · 8k_tier1:8.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙 Debt Restr. · JAGX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1585608/000119312526407517/d78419dprer14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-407517</guid>
+      <pubDate>Tue, 29 Sep 2026 15:25:40 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>PRER14A</category>
+      <scanner:headline>Seeks vote on debt-to-equity conversion, warrant repricing, 1:150 reverse split</scanner:headline>
+      <scanner:shortName>Jaguar Health</scanner:shortName>
+      <scanner:price>7.70</scanner:price>
+      <scanner:subtype />
+      <scanner:form>PRER14A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>JAGX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>PRER14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2650000</scanner:marketCap>
+      <scanner:enterpriseValue>15480000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.56</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>0.68</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>0.68</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>82.31</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Seeks vote on debt-to-equity conversion, warrant repricing, 1:150 reverse split&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Seeks shareholder approval for a special meeting on November 6, 2026, to vote on several capital structure changes. These include issuing common stock for Series Q Preferred Stock and CVP Debt to Chicago Venture Partners, L.P., repricing investor warrants to $1.00 per share, and a reverse stock split between 1-for-2 and 1-for-150. The company also proposes reducing the Floor Price in its ELOC Agreement with C/M Capital Master Fund, LP.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Jaguar Health, Inc., a commercial-stage pharmaceuticals company, focuses on developing plant-based prescription medicines for people and animals with gastrointestinal distress. It operates through two segments, Animal Health and Human Health. The company focuses on developing and commercializing prescription and non-prescription products for companion and production animals; and human products.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Chicago Venture Partners, L.P.; C/M Capital Master Fund, LP&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-11-06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on November 6, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.70 · Mkt cap $2.6M · EV $15.5M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526407517/0001193125-26-407517-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JAGX&lt;/b&gt; · PRER14A · Chemicals / Pharma (2834) · prefill_form:PRER14A · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Self Tender · CLYD</title>
       <link>https://www.sec.gov/Archives/edgar/data/2094256/000110465926111941/tm2626544d1_sctoia.htm</link>
@@ -16024,51 +16100,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RAKR&lt;/b&gt; · SCHEDULE 13D · Food &amp;amp; Kindred (2086) · fresh_13d · filed 2026-09-11&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SCHEDULE 13D · Sep 18 14:28 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1872292/000149315226043321/0001493152-26-043321-index.htm'&gt;Discloses 16% beneficial ownership via late 13D&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SCHEDULE 13D · Sep 11 20:45 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1872292/000149315226042451/0001493152-26-042451-index.htm'&gt;Reports 6.2% beneficial ownership via 13D&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · BBAIX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2097545/000092963826003569/0000929638-26-003569-index.htm</link>
-      <guid isPermaLink="false">0000929638-26-003569</guid>
-      <pubDate>Fri, 18 Sep 2026 12:35:48 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Receives 13D/A from Brown Brothers Harriman; stake 66.23%</scanner:headline>
-      <scanner:shortName>AMG BBH Asset-Backed Credit Fund</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>BBAIX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Brown Brothers Harriman; stake 66.23%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D/A from Brown Brothers Harriman &amp;amp; Co and Brown Brothers Harriman Credit Partners, LLC, increasing their aggregate beneficial ownership to 66.23% of Class S Units. The reporting persons acquired additional units through purchases on September 15-17, 2026 at prices around $11.28-$11.29 per unit.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Brown Brothers Harriman &amp;amp; Co&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 66.23%&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2097545/000092963826003569/0000929638-26-003569-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BBAIX&lt;/b&gt; · SCHEDULE 13D/A · amended_13d · filed 2026-09-18&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🌑 Going Dark · SEQC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1779977/000121390026101303/ea0305943-1515d_seeqc.htm</link>
-      <guid isPermaLink="false">0001213900-26-101303</guid>
-      <pubDate>Fri, 18 Sep 2026 12:15:33 -0500</pubDate>
-      <category>GOING_DARK</category>
-      <category>delisting</category>
-      <category>15-15D</category>
-      <scanner:headline>Terminates SEC registration; 56 holders of record</scanner:headline>
-      <scanner:shortName>SeeQC</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>15-15D</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>SEQC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>15-15D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Terminates SEC registration; 56 holders of record&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Filed Form 15-15D to terminate registration of its common stock under Section 12(g) of the Securities Exchange Act, citing Rule 12h-3(b)(1)(i). The company reports 56 holders of record as of the certification date, indicating a voluntary exit from public reporting obligations as a standalone company.&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1779977/000121390026101303/0001213900-26-101303-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SEQC&lt;/b&gt; · 15-15D · Business Services (7374) · prefill_form:15-15D · filed 2026-09-18&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
