@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 21:31:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:32:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ATER 📍 Stake
+Former controlling holder sells preferred stake; board member resigns, new director appointed
+Mcap $11M · EV $8M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1757715/000143774926031486/ater20260929_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-031486</guid>
+      <pubDate>Tue, 29 Sep 2026 16:32:41 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$SVAQ 🤝 Merger
+Files S-4 for business combination with EigenQ, Inc.; shareholder vote pending
+empty
+Mcap $296M · EV $295M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085659/000121390026104765/ea0306963-8k425_silicon.htm</link>
+      <guid isPermaLink="false">0001213900-26-103766</guid>
+      <pubDate>Tue, 29 Sep 2026 16:32:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Seeks to remove 5 directors from Better Home &amp; Finance board via consent solicitation
+Mcap $206M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002674/dfan14909002_09292026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002634</guid>
+      <pubDate>Tue, 29 Sep 2026 16:31:55 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$QSEA 💧 Capital Return · Self-tender
 Seeks vote to extend business combination deadline to Feb 19, 2027; offers ~$10.84/share redemption
@@ -1014,24 +1043,6 @@ Mcap $3.6B · EV $17B · Utilities</title>
       <pubDate>Mon, 28 Sep 2026 16:34:06 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$POLA 🪙 Debt Restr.
-CEO converts $614,700 debt to preferred equity + warrants
-Mcap $6M · EV $9M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1622345/000149315226044656/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044656</guid>
-      <pubDate>Mon, 28 Sep 2026 16:32:32 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$GCTK 🪙 Debt Restr.
-Amends convertible notes &amp; warrants to remove downward price adjustments
-Mcap $1M · EV $2M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1506983/000149315226044657/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044657</guid>
-      <pubDate>Mon, 28 Sep 2026 16:32:05 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
