@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 20:41:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:48:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BSAA 📦 Going Private
+Control of 80% stake transferred to A SPAC (Holdings) Group Corp.
+Mcap $23M · EV $22M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2051587/000121390026104725/ea0306891-8k_bestspac1.htm</link>
+      <guid isPermaLink="false">0001213900-26-104725</guid>
+      <pubDate>Tue, 29 Sep 2026 15:48:09 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Offers to exchange MDT shares for 225.36M MiniMed Group shares
+Mcap $113B · EV $133B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026063823/a425-mdtwebsitex92926.htm</link>
+      <guid isPermaLink="false">0001628280-26-062507</guid>
+      <pubDate>Tue, 29 Sep 2026 15:47:04 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
     <item>
       <title>$HAVA 🤝 Merger
 Acquires OAG Pipeline Technologies in $300M business combination
@@ -912,15 +930,6 @@ Mcap $6.4B · EV $7.6B · Tech</title>
       <category>ACTIVIST_INITIAL</category>
     </item>
     <item>
-      <title>$MDT 🪓 Split-off
-Offers to exchange MDT shares for 225.36M MiniMed Group shares
-Mcap $113B · EV $133B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026063742/a425-mdtwebsitex92826.htm</link>
-      <guid isPermaLink="false">0001628280-26-062507</guid>
-      <pubDate>Mon, 28 Sep 2026 15:56:07 -0500</pubDate>
-      <category>SPLIT_OFF</category>
-    </item>
-    <item>
       <title>$SBXD 📉 Delisting · Forced
 Forced NYSE delisting effective today; now trading on OTCID Basic Market
 Mcap $71M · EV $72M · Financials</title>
@@ -950,53 +959,6 @@ Mcap $3.9B · EV $24B · Energy</title>
       <pubDate>Mon, 28 Sep 2026 15:48:53 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$TH 📍 Stake
-Reports 27.8% stake in Target Hospitality Corp.
-Mcap $2.1B · EV $2.1B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1712189/000095014226002613/0000950142-26-002613-index.htm</link>
-      <guid isPermaLink="false">0000950142-26-002613</guid>
-      <pubDate>Mon, 28 Sep 2026 15:42:48 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SLXN 👀 Activist
-Disputes validity of SLXN share issuances; holds 17.7% stake
-Mcap $1M · EV $610K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2022416/000121390026104066/0001213900-26-104066-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-104066</guid>
-      <pubDate>Mon, 28 Sep 2026 15:42:27 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$HCHL 🪙 Debt Restr.
-Controlling shareholders lose 12M Class B shares to Sky Way after loan default
-Mcap $118M · EV $119M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2046656/000121390026104069/0001213900-26-104069-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-104069</guid>
-      <pubDate>Mon, 28 Sep 2026 15:42:15 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$AIFU 👀 Activist
-Takes 63.37% stake in AIFU; intends to engage on strategy
-Mcap $74M · EV $80M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1413855/000121390026104075/0001213900-26-104075-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-104075</guid>
-      <pubDate>Mon, 28 Sep 2026 15:41:36 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$ISBA 🤝 Merger
-Mails Grand River merger election forms; cash ~$5.71/share or 0.1413x stock; election deadline Oct 23
-Grand River Commerce · cash+stk · close Q4 2026
-Mcap $293M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/842517/000084251726000224/isba-20260928.htm</link>
-      <guid isPermaLink="false">0000842517-26-000222</guid>
-      <pubDate>Mon, 28 Sep 2026 15:41:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
