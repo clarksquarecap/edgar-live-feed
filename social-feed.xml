@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 10:05:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:11:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BIOM 🤝 Merger
+Acquires Canvas 2709, LLC; exits shell status; registers shares for OTC trading
+Mcap $500K · EV $1M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1091326/000149315226044715/form10-12ga.htm</link>
+      <guid isPermaLink="false">0001493152-26-044715</guid>
+      <pubDate>Tue, 29 Sep 2026 05:11:35 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AIXC 🤝 Merger · Preliminary
 Proposes $200M acquisition of FFAI's Robotics Business for stock
@@ -1196,39 +1206,6 @@ Mcap $36B · EV $37B · Materials</title>
       <pubDate>Mon, 28 Sep 2026 05:12:01 -0500</pubDate>
       <category>MERGER</category>
       <category>unsolicited</category>
-    </item>
-    <item>
-      <title>$RACC 🤝 Merger
-Acquires OHB Pediatrics via share exchange; PIPE $55M, backstop $75M
-stock
-Mcap $99M · EV $99M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2118032/000119312526403078/d149484ds4a.htm</link>
-      <guid isPermaLink="false">0001193125-26-403078</guid>
-      <pubDate>Mon, 28 Sep 2026 05:10:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$QRVO 🤝 Merger
-Acquired by Skyworks; debt exchange offer extended to Oct 2, 2026
-Skyworks Solutions · close Q4 2026
-Mcap $10B · EV $11B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1604778/000110465926111071/tm2626179d1_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-111071</guid>
-      <pubDate>Mon, 28 Sep 2026 05:10:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$D 🤝 Merger
-Merger with NextEra Energy progressing; S-4 effective
-empty
-Mcap $53B · EV $113B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926111074/tm2624792d3_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-111074</guid>
-      <pubDate>Mon, 28 Sep 2026 05:10:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
