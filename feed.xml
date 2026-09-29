@@ -6,8 +6,43 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 20:58:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:58:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · KTF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/839533/000076931726000010/0000769317-26-000010-index.htm</link>
+      <guid isPermaLink="false">0000769317-26-000010</guid>
+      <pubDate>Tue, 29 Sep 2026 15:58:36 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Reports 22.9% stake in DWS Municipal Income Trust</scanner:headline>
+      <scanner:shortName>DWS MUNICIPAL INCOME</scanner:shortName>
+      <scanner:price>8.06</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Financial Services</scanner:sector>
+      <scanner:ticker>KTF</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>315733066</scanner:marketCap>
+      <scanner:enterpriseValue>520733066</scanner:enterpriseValue>
+      <scanner:evSalesLtm>19.69</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>19.69</scanner:evGrossProfitLtm>
+      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Reports 22.9% stake in DWS Municipal Income Trust&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;SIT Investment Associates Inc. reported a 22.9% beneficial ownership stake in DWS Municipal Income Trust as of September 28, 2026. This Amendment No. 13 to its Schedule 13D details transactions in the last 60 days. The reported stake is based on 39,183,709 shares outstanding.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 22.9%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $8.06 · Mkt cap $315.7M · EV $520.7M · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/839533/000076931726000010/0000769317-26-000010-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KTF&lt;/b&gt; · SCHEDULE 13D/A · amended_13d · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚱️ Liquidation · ELME</title>
       <link>https://www.sec.gov/Archives/edgar/data/104894/000010489426000117/elme-20260928.htm</link>
@@ -16137,28 +16172,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.2900 · Mkt cap $8.8M · EV $7.9M · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1811216/000110465926108972/0001104659-26-108972-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BAOS&lt;/b&gt; · 6-K · Business Services (7389) · prefill_form:6-K · filed 2026-09-18&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · MN8 Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2136853/000162828026062754/cik0001563922-20260918.htm</link>
-      <guid isPermaLink="false">0001628280-26-062754</guid>
-      <pubDate>Fri, 18 Sep 2026 16:03:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4/A</category>
-      <scanner:headline>Amends S-4 registration for pending merger</scanner:headline>
-      <scanner:shortName>MN8 Energy</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker />
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Amends S-4 registration for pending merger&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Filed an amended S-4 registration statement in connection with its pending merger transaction. The amendment updates financial and operational disclosures for the deal, which remains in progress.&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2136853/000162828026062754/0001628280-26-062754-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;S-4/A · Utilities (4931) · prefill_form:S-4 · filed 2026-09-18&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
