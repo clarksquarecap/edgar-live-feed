@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 20:26:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:28:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LXEO 🤝 Merger
+Completes Mantle Therapeutics acquisition for $5.3M cash + $3M stock upfront
+$8,300,000 deal · cash+stk
+Mcap $258M · EV $53M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1907108/000119312526407555/lxeo-20260929.htm</link>
+      <guid isPermaLink="false">0001193125-26-407555</guid>
+      <pubDate>Tue, 29 Sep 2026 15:27:57 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MRDN ⚖️ Litigation · Lost
+Faces Brazilian ban on online betting &amp; casino services
+Mcap $155M · EV $155M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437925/000147793226005898/meridian_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-005898</guid>
+      <pubDate>Tue, 29 Sep 2026 15:27:04 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>lost</category>
+    </item>
     <item>
       <title>$XYL 🤝 Merger
 Raises $1.5B in senior notes to finance Cornell Pump, Roper Pump acquisition
@@ -981,28 +1002,6 @@ Mcap $911M · EV $1.1B · Materials</title>
       <guid isPermaLink="false">0001062993-26-005085</guid>
       <pubDate>Mon, 28 Sep 2026 15:28:40 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$PLRZ 🤝 Merger
-Acquires QuantumX Labs Inc. as subsequent event
-empty
-Mcap $26M · EV $14M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1893645/000121390026104045/ea0304568-6k_polyrizon.htm</link>
-      <guid isPermaLink="false">0001213900-26-104045</guid>
-      <pubDate>Mon, 28 Sep 2026 15:27:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FNWD 🤝 Merger
-Acquired by First Financial for 1.35 FFBC shares; vote Nov 2
-$208.3 million deal · stock
-Mcap $187M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/919864/000110465926111383/tm2626185-1_defm14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-109997</guid>
-      <pubDate>Mon, 28 Sep 2026 15:27:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
