@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 20:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:15:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BHR 📤 Divestiture
+Sells Four Seasons Scottsdale resort to Evergreen Acquisitions for $372M
+Mcap $114M · EV $1.2B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1574085/000157408526000146/bhr-20260923.htm</link>
+      <guid isPermaLink="false">0001574085-26-000146</guid>
+      <pubDate>Tue, 29 Sep 2026 15:15:33 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$FUFU 🤝 Merger
 Receives CFIUS clearance for 51% stake in Uni-Titan LLC
@@ -945,17 +954,6 @@ Mcap $2M · EV $11M · Healthcare</title>
       <guid isPermaLink="false">0001178913-26-004635</guid>
       <pubDate>Mon, 28 Sep 2026 15:16:42 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SVAQ 🤝 Merger
-Acquires EigenQ Inc. in business combination; will rename to EigenQ Holdings
-stock
-Mcap $296M · EV $295M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2085659/000121390026104040/ea0300424-02.htm</link>
-      <guid isPermaLink="false">0001213900-26-104040</guid>
-      <pubDate>Mon, 28 Sep 2026 15:15:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
