@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 13:05:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:12:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MNY 👀 Activist
+Faces Honig call for sale process; 9.0% stake
+Jonathan Honig
+Mcap $30M · EV $2M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1974044/000092189526002662/0000921895-26-002662-index.htm</link>
+      <guid isPermaLink="false">0000921895-26-002662</guid>
+      <pubDate>Tue, 29 Sep 2026 08:12:24 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$ONAR 🪙 Debt Restr.
 Secured convertible notes for $3.55M proceeds + $6.38M debt exchange; Nasdaq uplist trigger
@@ -1028,17 +1038,6 @@ Mcap $19M · EV $19M · Financials</title>
       <guid isPermaLink="false">0001493152-26-043815</guid>
       <pubDate>Mon, 28 Sep 2026 08:13:46 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$GTY 🤝 Merger
-Acquires 41 convenience stores from Refuel for $260.9M; closed
-260.9 million deal · cash
-Mcap $1.8B · EV $2.8B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1052752/000119312526403487/gty-20260922.htm</link>
-      <guid isPermaLink="false">0001193125-26-403487</guid>
-      <pubDate>Mon, 28 Sep 2026 08:06:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
