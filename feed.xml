@@ -6,8 +6,117 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 20:28:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:29:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · LFCR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1005286/000110465926111939/0001104659-26-111939-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-111939</guid>
+      <pubDate>Tue, 29 Sep 2026 15:29:16 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Receives 13D/A from Wynnefield Capital reporting 10.3% stake</scanner:headline>
+      <scanner:shortName>LIFECORE BIOMEDICAL INC. \DE\</scanner:shortName>
+      <scanner:price>4.20</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>LFCR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>158980000</scanner:marketCap>
+      <scanner:enterpriseValue>348300000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.69</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.58</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>14.01</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>8.58</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>31.37</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Wynnefield Capital reporting 10.3% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Schedule 13D/A filing from Wynnefield Capital Management, LLC and its affiliates, reporting a combined beneficial ownership of 3,956,385 shares, representing 10.3% of Lifecore Biomedical&amp;#39;s common stock. This includes shares issuable upon conversion of Series A Preferred Stock.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lifecore Biomedical, Inc., together with its subsidiaries, operates as an integrated contract development and manufacturing organization that serves customers in the United States, Belgium, the Netherlands, and internationally. It provides services in the development, manufacture, aseptic fill, and finish of formulations and highly viscous sterile injectable pharmaceutical drug or medical device products in syringes, vials, and cartridges in various modalities.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Wynnefield Capital&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10.3%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-27&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $4.20 · Mkt cap $159.0M · EV $348.3M · Fwd EV/EBITDA 14.0x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1005286/000110465926111939/0001104659-26-111939-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LFCR&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · NVT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1720635/000110465926111938/tm2626249d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111938</guid>
+      <pubDate>Tue, 29 Sep 2026 15:28:38 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Secures $800M debt financing for $1.75B Maverick Power acquisition</scanner:headline>
+      <scanner:shortName>nVent Electric</scanner:shortName>
+      <scanner:price>161.75</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>NVT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>25978200000</scanner:marketCap>
+      <scanner:enterpriseValue>27355100000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>5.66</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>15.52</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>28.46</scanner:fwdPE>
+      <scanner:fwdEvEbitda>21.13</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>15.88</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>36.45</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Secures $800M debt financing for $1.75B Maverick Power acquisition&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed a public offering of $800.0 million aggregate principal amount of 6.150% Senior Notes due 2036. The proceeds, along with other borrowings and cash on hand, will finance the acquisition of Maverick Power, LLC for approximately $1.75 billion. The acquisition is expected to close by November 20, 2026, with a potential extension to February 19, 2027.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; nVent Electric plc designs, manufactures, markets, installs, and services electrical connection and protection solutions in the America, Europe, the Middle East, India, Africa, the Asia Pacific, and internationally. It operates in two segments, Systems Protection and Electrical Connections. The company provides solutions to protect electronics, systems, and data in mission critical applications, including data centers. It also offers solutions that connect power and data infrastructure.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Maverick Power, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1.75 billion&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-11-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Acquisition close by 2026-11-20&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $161.75 · Mkt cap $25.98B · EV $27.36B · Fwd P/E 28.5x · Fwd EV/EBITDA 21.1x · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1720635/000110465926111938/0001104659-26-111938-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NVT&lt;/b&gt; · 8-K · Items 2.03, 8.01, 9.01 · Industrial Machinery (3550) · 8k_tier1:8.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📤 Divestiture · AVAT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2092446/000110465926111940/tm2626493d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111940</guid>
+      <pubDate>Tue, 29 Sep 2026 15:28:23 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells AVAX tokens to Avalanche (BVI) for $15M cash</scanner:headline>
+      <scanner:shortName>Avalanche Treasury</scanner:shortName>
+      <scanner:price>1.88</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>AVAT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>73010000</scanner:marketCap>
+      <scanner:enterpriseValue>92640000</scanner:enterpriseValue>
+      <scanner:fwdEvGrossProfit>22.10</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells AVAX tokens to Avalanche (BVI) for $15M cash&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation completed the sale of 2,082,371.607744 AVAX tokens to Avalanche (BVI), Inc. for aggregate gross proceeds of $15,000,000. The company expects to use the proceeds to reduce debt and for general corporate purposes.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Avalanche Treasury Corporation operates as a digital asset treasury company that provides investors with exposure to the Avalanche ecosystem as businesses move on-chain. The company provides access to Avalanche, a blockchain technology platform that offers flexibility, interoperability, and speed without requiring investors to directly hold digital assets. It caters to enterprises, financial institutions, consumer applications, and governments.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Avalanche (BVI), Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 15,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.88 · Mkt cap $73.0M · EV $92.6M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2092446/000110465926111940/0001104659-26-111940-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AVAT&lt;/b&gt; · 8-K · Items 8.01 · Non-Depository Credit (6199) · 8k_tier1:8.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · LXEO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1907108/000119312526407555/lxeo-20260929.htm</link>
@@ -16013,101 +16122,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.87 · Mkt cap $40.6M · EV $304.0M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1503802/000119312526395517/0001193125-26-395517-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KPTI&lt;/b&gt; · 8-K · Items 3.03, 5.03, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:3.03 · filed 2026-09-18&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · SOBR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1425627/000147793226005700/sobr_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-005700</guid>
-      <pubDate>Fri, 18 Sep 2026 15:19:20 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>busted_ma</category>
-      <category>8-K</category>
-      <scanner:headline>Terminates merger with Clean World Ventures; mutual release</scanner:headline>
-      <scanner:shortName>SOBR Safe</scanner:shortName>
-      <scanner:price>0.2100</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>SOBR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2100000</scanner:marketCap>
-      <scanner:enterpriseValue>1670000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Terminates merger with Clean World Ventures; mutual release&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Terminated its Agreement and Plan of Merger with Clean World Ventures, Inc. effective September 17, 2026, via a Mutual Termination Agreement and Release. The parties mutually released claims related to the Merger Agreement, and SOBR will withdraw its Form S-4 registration statement filed June 9, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SOBR Safe, Inc. a hardware and software company, provides non-invasive technologies to monitor and identify the presence of alcohol in North America. The company offers SOBRcheck and SOBRsure that enables non-invasive alcohol monitoring and detection, biometric identity verification, and qualified, real-time cloud-based informational alerts and reporting; and SOBRsafe, touch-based alcohol awareness tracking products.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Clean World Ventures, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-24&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.2100 · Mkt cap $2.1M · EV $1.7M · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1425627/000147793226005700/0001477932-26-005700-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SOBR&lt;/b&gt; · 8-K · Items 1.02, 9.01 · Printing (2721) · 8k_tier1:1.02 · filed 2026-09-18&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚔️ Proxy Contest · AVXL</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1314052/000149315226043345/formdfan14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-042718</guid>
-      <pubDate>Fri, 18 Sep 2026 15:16:48 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>activist</category>
-      <category>DFAN14A</category>
-      <scanner:headline>Launches proxy contest for 6 seats at Anavex; Glass Lewis supports GOLD card</scanner:headline>
-      <scanner:shortName>ANAVEX LIFE SCIENCES</scanner:shortName>
-      <scanner:price>2.62</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DFAN14A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>AVXL</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>DFAN14A x3</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>242870000</scanner:marketCap>
-      <scanner:enterpriseValue>124540000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Seeks 6 board seats at Anavex; ISS backs incumbents&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;PVG Asset Management, holding 337,663 AVXL shares, is waging a proxy contest to elect six nominees to Anavex&amp;#39;s board. ISS supported the incumbent board despite acknowledging governance failures and poor oversight. PVG urges stockholders to vote the GOLD proxy card; investor call on Sept 16.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Anavex Life Sciences Corp. operates as a biopharmaceutical company. It engages in developing innovative treatments for Alzheimer’s disease, Parkinson’s disease, schizophrenia, neurodevelopmental, neurodegenerative, and rare diseases, including Rett syndrome, and other central nervous system (CNS) disorders, pain, and various types of cancer .&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026 annual meeting&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.62 · Mkt cap $242.9M · EV $124.5M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000149315226042718/0001493152-26-042718-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AVXL&lt;/b&gt; · DFAN14A · Chemicals / Pharma (2836) · prefill_form:DFAN14A · filed 2026-09-15&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DFAN14A · Sep 18 15:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000149315226043345/formdfan14a.htm'&gt;Launches proxy contest for 6 seats at Anavex; Glass Lewis supports GOLD card&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 17 11:57 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000149315226043079/formdfan14a.htm'&gt;Faces PVG proxy contest; Glass Lewis backs 2 nominees&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 15 12:53 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1314052/000149315226042718/formdfan14a.htm'&gt;Seeks 6 board seats at Anavex; ISS backs incumbents&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · LXP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/910108/000110465926108934/tm2624432d2_defm14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-108934</guid>
-      <pubDate>Fri, 18 Sep 2026 15:15:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFM14A</category>
-      <scanner:headline>Acquired by Brookfield/CPPIB for $61.20 cash/share; vote Oct 26</scanner:headline>
-      <scanner:shortName>LXP Industrial</scanner:shortName>
-      <scanner:price>60.80</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFM14A</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>LXP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFM14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3588730000</scanner:marketCap>
-      <scanner:enterpriseValue>5047560000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>19.19</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Brookfield/CPPIB for $61.20 cash/share; vote Oct 26&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will be acquired by Leopard REIT LLC, jointly owned by Brookfield and CPPIB, for $61.20 per common share in cash. The merger agreement was signed July 19, 2026; the special meeting to approve the merger is scheduled for October 26, 2026. The board unanimously recommends voting FOR the merger.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; LXP Industrial Trust is a publicly traded real estate investment trust (REIT) focused on Class A warehouse and distribution investments in 12 target markets across the Sunbelt and lower Midwest. LXP seeks to expand its warehouse and distribution portfolio through acquisitions, build-to-suit transactions, sale-leaseback transactions, development projects and other transactions. LXP Industrial Trust was incorporated in 1993 and is based in West Palm Beach, United States.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Brookfield/CPPIB (Leopard REIT LLC)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 61.20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 3608184556.8&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 12.3%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-19&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on Oct 26, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $60.80 · Mkt cap $3.59B · EV $5.05B · Fwd EV/EBITDA 19.2x · Real Estate / Industrial REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/910108/000110465926108934/0001104659-26-108934-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LXP, LXP-PC&lt;/b&gt; · DEFM14A · Holding / Investment Offices (6798) · prefill_form:DEFM14A · filed 2026-09-18&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

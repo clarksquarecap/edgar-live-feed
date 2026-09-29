@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 20:28:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:29:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LFCR 📍 Stake
+Receives 13D/A from Wynnefield Capital reporting 10.3% stake
+Mcap $159M · EV $348M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1005286/000110465926111939/0001104659-26-111939-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-111939</guid>
+      <pubDate>Tue, 29 Sep 2026 15:29:16 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$NVT 🤝 Merger
+Secures $800M debt financing for $1.75B Maverick Power acquisition
+1.75 billion deal · close 2026-11-20
+Mcap $26B · EV $27B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1720635/000110465926111938/tm2626249d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111938</guid>
+      <pubDate>Tue, 29 Sep 2026 15:28:38 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$AVAT 📤 Divestiture
+Sells AVAX tokens to Avalanche (BVI) for $15M cash
+15,000,000 deal
+Mcap $73M · EV $93M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2092446/000110465926111940/tm2626493d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111940</guid>
+      <pubDate>Tue, 29 Sep 2026 15:28:23 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$LXEO 🤝 Merger
 Completes Mantle Therapeutics acquisition for $5.3M cash + $3M stock upfront
@@ -984,24 +1014,6 @@ Mcap $13B · EV $21B · Tech</title>
       <pubDate>Mon, 28 Sep 2026 15:30:54 -0500</pubDate>
       <category>MERGER</category>
       <category>rumor_response</category>
-    </item>
-    <item>
-      <title>$TRMD 📍 Stake
-OCM Njord Holdings holds 6.17% of A shares
-Mcap $3.6B · EV $4.3B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1655891/000091957426006535/p15101807_6-k.htm</link>
-      <guid isPermaLink="false">0000919574-26-006535</guid>
-      <pubDate>Mon, 28 Sep 2026 15:29:02 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$LAR 📍 Stake
-Receives $180M strategic investment from Ganfeng; stake to 16.1% FD
-Mcap $911M · EV $1.1B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1440972/000106299326005085/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-005085</guid>
-      <pubDate>Mon, 28 Sep 2026 15:28:40 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
