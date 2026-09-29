@@ -6,8 +6,85 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 12:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:57:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · CAPS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/887151/000143774926031423/caps20260928_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-031423</guid>
+      <pubDate>Tue, 29 Sep 2026 07:57:23 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Retires 85% of convertible note principal, reducing balance to $1M</scanner:headline>
+      <scanner:shortName>Capstone Holding</scanner:shortName>
+      <scanner:price>0.1600</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>CAPS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3270000</scanner:marketCap>
+      <scanner:enterpriseValue>33600000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.56</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.20</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>2.20</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>25.40</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Retires 85% of convertible note principal, reducing balance to $1M&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced it has retired approximately 85% of its original $6.82 million in convertible note principal, reducing the remaining balance to $1 million. This was achieved through conversions of the notes, fully retiring the July 2025 note and leaving only the October 2025 note outstanding. The company also issued 2,446,825 shares upon conversion of notes and 3,358,743 shares under an equity line of credit.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Capstone Holding Corp., through its subsidiaries, engages in the distribution and installation of building products in the United States and Canada. It operates in two segments, TotalStone and Carolina Stone. The company offers manufactured stone veneer under the Cultured Stone, Dutch Quality Stone, and Toro Stone brand names; natural stone under the Pangaea Stone brand name; panelized stone system under the Interloc brand name; mechanically attached stone veneer systems under the Beon Stone bra…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $6.82 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.1600 · Mkt cap $3.3M · EV $33.6M · Industrials / Trading Companies and Distributors&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/887151/000143774926031423/0001437749-26-031423-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CAPS&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Wholesale; Durable (5030) · 8k_tier1:7.01,8.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🎯 Tender · SSTI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1351636/000114036126037933/ef20082891_formsctoc.htm</link>
+      <guid isPermaLink="false">0001193125-26-406024</guid>
+      <pubDate>Tue, 29 Sep 2026 07:56:58 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>acquisition</category>
+      <category>SC TO-C</category>
+      <scanner:headline>Target of tender offer from Transom Signal MergerSub; merger agreement signed</scanner:headline>
+      <scanner:shortName>SOUNDTHINKING</scanner:shortName>
+      <scanner:price>5.47</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SC TO-C</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>SSTI</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>8-K, SC TO-C</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>72010000</scanner:marketCap>
+      <scanner:enterpriseValue>71030000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.73</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.42</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>4.98</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>1.47</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>50.99</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Transom Capital for $8.00 cash + CVR up to $3.00/share&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive merger agreement with Transom Signal AcquireCo, LLC, an affiliate of Transom Capital Group, LLC. The agreement provides for a tender offer to acquire all outstanding shares for $8.00 per share in cash plus one non-transferable contingent value right (CVR) per share, representing a potential additional cash payment of up to $3.00 per CVR. The board unanimously recommended stockholders tender their shares, and the transaction is expected to close in Q4 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SoundThinking, Inc., a public safety technology company, provides data-driven solutions and strategic advisory services for law enforcement, security teams, and civic leadership. Its SafetySmart platform that includes data-driven tools comprising ShotSpotter, an outdoor gunshot detection, location, and alerting system; CrimeTracer, an agency-wide crime data and intelligence platform that enables investigators, analysts, patrol officers and command staff to search through criminal justice records…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Transom Capital Group, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; $8.00 cash + 1 CVR (up to $3.00)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Tender offer commencement within 15 business days&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.47 · Mkt cap $72.0M · EV $71.0M · Fwd EV/EBITDA 5.0x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1351636/000119312526406024/0001193125-26-406024-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SSTI&lt;/b&gt; · 8-K · Items 1.01, 5.02, 7.01, 9.01 · Business Services (7372) · 8k_tier1:1.01,7.01 · filed 2026-09-29&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SC TO-C · Sep 29 07:56 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1351636/000114036126037933/ef20082891_formsctoc.htm'&gt;Target of tender offer from Transom Signal MergerSub; merger agreement signed&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 29 06:48 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1351636/000119312526406024/d107296d8k.htm'&gt;Acquired by Transom Capital for $8.00 cash + CVR up to $3.00/share&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · PSRUD</title>
       <link>https://www.otcmarkets.com/stock/PSRUD/news/536456</link>
@@ -344,44 +421,6 @@
 &lt;p&gt;&lt;i&gt;Px $11.62 · Mkt cap $230.4M · EV $-11.5M · Fwd EV/EBITDA 0.1x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1664710/000166471026000059/0001664710-26-000059-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KROS&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01 · filed 2026-09-29&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🎯 Tender · SSTI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1351636/000119312526406024/d107296d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-406024</guid>
-      <pubDate>Tue, 29 Sep 2026 06:48:34 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Acquired by Transom Capital for $8.00 cash + CVR up to $3.00/share</scanner:headline>
-      <scanner:shortName>SOUNDTHINKING</scanner:shortName>
-      <scanner:price>5.47</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>SSTI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>72010000</scanner:marketCap>
-      <scanner:enterpriseValue>71030000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.73</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>1.42</scanner:evGrossProfitLtm>
-      <scanner:fwdEvEbitda>4.98</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>1.47</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>50.99</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Transom Capital for $8.00 cash + CVR up to $3.00/share&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into a definitive merger agreement with Transom Signal AcquireCo, LLC, an affiliate of Transom Capital Group, LLC. The agreement provides for a tender offer to acquire all outstanding shares for $8.00 per share in cash plus one non-transferable contingent value right (CVR) per share, representing a potential additional cash payment of up to $3.00 per CVR. The board unanimously recommended stockholders tender their shares, and the transaction is expected to close in Q4 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SoundThinking, Inc., a public safety technology company, provides data-driven solutions and strategic advisory services for law enforcement, security teams, and civic leadership. Its SafetySmart platform that includes data-driven tools comprising ShotSpotter, an outdoor gunshot detection, location, and alerting system; CrimeTracer, an agency-wide crime data and intelligence platform that enables investigators, analysts, patrol officers and command staff to search through criminal justice records…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Transom Capital Group, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; $8.00 cash + 1 CVR (up to $3.00)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Tender offer commencement within 15 business days&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.47 · Mkt cap $72.0M · EV $71.0M · Fwd EV/EBITDA 5.0x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1351636/000119312526406024/0001193125-26-406024-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SSTI&lt;/b&gt; · 8-K · Items 1.01, 5.02, 7.01, 9.01 · Business Services (7372) · 8k_tier1:1.01,7.01 · filed 2026-09-29&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · HCNWF</title>
@@ -15983,37 +16022,6 @@
 &lt;p&gt;&lt;i&gt;Px $6.07 · Mkt cap $5.0M · EV $35.1M · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2030763/000149315226043169/0001493152-26-043169-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MEDS&lt;/b&gt; · 8-K · Items 8.01 · Wholesale; Nondurable (5122) · 8k_tier1:8.01 · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · VBNK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1690639/000106299326005004/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-005004</guid>
-      <pubDate>Thu, 17 Sep 2026 16:26:58 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Shareholders approve reorganization into Delaware holding company</scanner:headline>
-      <scanner:shortName>VersaBank</scanner:shortName>
-      <scanner:price>22.62</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>VBNK</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>735550000</scanner:marketCap>
-      <scanner:fwdPE>13.64</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Shareholders approve reorganization into Delaware holding company&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Shareholders voted 99.69% in favor of the reorganization creating Versa Bancorp, a new Delaware corporation, as the direct holding company of the Bank. The reorganization is targeted for completion by end of October 2026, subject to regulatory approvals from the Canadian Minister of Finance and the US Federal Reserve Board.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VersaBank provides various banking products and services in Canada and the United States. The company operates through four segments: Digital Banking Canada, Digital Banking USA, DRTC (Cybersecurity), and Digital Meteor. It offers deposit products, such as guaranteed investment certificates, registered retirement savings plans, and tax-free savings accounts, as well as deposit insurance products.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Versa Bancorp&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Regulatory approvals (Minister of Finance Canada, Federal Reserve Board)&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $22.62 · Mkt cap $735.5M · Fwd P/E 13.6x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1690639/000106299326005004/0001062993-26-005004-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VBNK&lt;/b&gt; · 6-K · Depository Institutions (6029) · prefill_form:6-K · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

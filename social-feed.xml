@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 12:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:57:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CAPS 🪙 Debt Restr.
+Retires 85% of convertible note principal, reducing balance to $1M
+Mcap $3M · EV $34M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/887151/000143774926031423/caps20260928_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-031423</guid>
+      <pubDate>Tue, 29 Sep 2026 07:57:23 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$SSTI 🎯 Tender · Preliminary
+Target of tender offer from Transom Signal MergerSub; merger agreement signed
+Mcap $72M · EV $71M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1351636/000114036126037933/ef20082891_formsctoc.htm</link>
+      <guid isPermaLink="false">0001193125-26-406024</guid>
+      <pubDate>Tue, 29 Sep 2026 07:56:58 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$PSRUD 🤝 Merger · Preliminary
 Subsidiary pursues acquisition of ~250 motion-picture titles for global distribution expansion
@@ -104,16 +123,6 @@ Mcap $230M · Healthcare</title>
       <pubDate>Tue, 29 Sep 2026 07:07:33 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$SSTI 🎯 Tender
-Acquired by Transom Capital for $8.00 cash + CVR up to $3.00/share
-Transom Capital Group · cash+stk · close Q4 2026
-Mcap $72M · EV $71M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1351636/000119312526406024/d107296d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-406024</guid>
-      <pubDate>Tue, 29 Sep 2026 06:48:34 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
     <item>
       <title>$HCNWF 🤝 Merger
@@ -1043,15 +1052,6 @@ Mcap $2.0B · EV $2.0B · Healthcare</title>
       <pubDate>Mon, 28 Sep 2026 07:58:08 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$FRFFF 💧 Capital Return · Buyback
-Commences NCIB for up to 10% of Subordinate Voting &amp; Series K Preferred shares</title>
-      <link>https://www.sec.gov/Archives/edgar/data/915191/000110465926111201/tm2626192d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111201</guid>
-      <pubDate>Mon, 28 Sep 2026 07:57:27 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
