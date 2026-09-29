@@ -6,8 +6,77 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 21:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 21:07:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · GME</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326380/000092189526002669/0000921895-26-002669-index.htm</link>
+      <guid isPermaLink="false">0000921895-26-002669</guid>
+      <pubDate>Tue, 29 Sep 2026 16:07:50 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases stake in GameStop to 8.8% via open market purchases</scanner:headline>
+      <scanner:shortName>GameStop</scanner:shortName>
+      <scanner:price>23.76</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>GME</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>12087840000</scanner:marketCap>
+      <scanner:enterpriseValue>11360740000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>3.20</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.44</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>12.78</scanner:fwdPE>
+      <scanner:fwdEvGrossProfit>8.23</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>37.89</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Increases stake in GameStop to 8.8% via open market purchases&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Activist Ryan Cohen increased his beneficial ownership in GameStop Corp. to 8.8% of outstanding Class A Common Stock. He purchased 450,000 shares on September 29, 2026, at an average price of approximately $23.47 per share in open market transactions. His aggregate ownership now totals 44,683,306 shares, including warrants.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; GameStop Corp., a specialty retailer, provides games, collectibles, and entertainment products through its stores and e-commerce platforms in United States, Australia and Europe. The company sells new and pre-owned gaming platforms; accessories, such as controllers, gaming headsets, and other peripheral devices; new and pre-owned gaming software; and in-game digital currency, digital downloadable content, and full-game downloads.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 8.8%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $23.76 · Mkt cap $12.09B · EV $11.36B · Fwd P/E 12.8x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1326380/000092189526002669/0000921895-26-002669-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GME, GME-WT&lt;/b&gt; · SCHEDULE 13D/A · Retail; Furniture (5734) · fresh_13d · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · SGLA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1433551/000149315226044888/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044888</guid>
+      <pubDate>Tue, 29 Sep 2026 16:06:54 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Xing Da Plastics (60%) &amp; Invent Fortune (100%) for 41.3M shares</scanner:headline>
+      <scanner:shortName>Sino Green Land</scanner:shortName>
+      <scanner:price>0.5300</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>SGLA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>61840000</scanner:marketCap>
+      <scanner:enterpriseValue>64910000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>39.88</scanner:evSalesLtm>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Xing Da Plastics (60%) &amp;amp; Invent Fortune (100%) for 41.3M shares&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed the acquisition of 60% of Xing Da Plastics Sdn. Bhd. and 100% of Invent Fortune Sdn. Bhd. As consideration, the Company issued an aggregate of 4,800,000 shares of its common stock to the Xing Da sellers and 36,527,833.33 shares to the Invent Fortune sellers, totaling 41,327,833.33 shares. The shares were issued in reliance upon the exemption from registration provided by Section 4(a)(2) of the Securities Act.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sino Green Land Corporation engages in the manufacturing and selling of recovered and recycled products in Malaysia. The company offers PET bottle flakes and strapping belts, and HDPE pellets. The company is based in Semenyih, Malaysia.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Xing Da Plastics Sdn. Bhd. and Invent Fortune Sdn. Bhd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.5300 · Mkt cap $61.8M · EV $64.9M · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1433551/000149315226044888/0001493152-26-044888-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SGLA&lt;/b&gt; · 8-K · Items 2.01, 3.02 · Wholesale; Durable (5090) · 8k_tier1:2.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · VIP</title>
       <link>https://www.sec.gov/Archives/edgar/data/1844971/000162828026063839/gree-20260923.htm</link>
@@ -16111,70 +16180,6 @@
 &lt;p&gt;&lt;i&gt;Px $19.53 · Mkt cap $631.0M · EV $854.4M · Fwd P/E 16.4x · Fwd EV/EBITDA 8.3x · Industrials / Professional Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1436126/000119312526395732/0001193125-26-395732-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MG&lt;/b&gt; · SCHEDULE 13D/A · Engineering / Accounting (8711) · fresh_13d · filed 2026-09-18&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Self Tender · XFLT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1703079/000121390026101507/ea0305940-01_sctoi.htm</link>
-      <guid isPermaLink="false">0001213900-26-101507</guid>
-      <pubDate>Fri, 18 Sep 2026 16:30:04 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-      <category>SC TO-I</category>
-      <scanner:headline>Tender for up to 12.5% of shares at 98% NAV</scanner:headline>
-      <scanner:shortName>XAI Floating Rate &amp; Alternative Income</scanner:shortName>
-      <scanner:price>19.32</scanner:price>
-      <scanner:subtype>self_tender</scanner:subtype>
-      <scanner:form>SC TO-I</scanner:form>
-      <scanner:sector>Financial Services</scanner:sector>
-      <scanner:ticker>XFLT</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SC TO-I</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>294260678</scanner:marketCap>
-      <scanner:fwdPE>4.20</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Tender for up to 12.5% of shares at 98% NAV&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is offering to repurchase up to 1,903,861 common shares (~12.5% of outstanding) at 98% of NAV per share, determined on the pricing date after expiration. The offer expires October 19, 2026, and is part of a standstill agreement with Bulldog Investors. Estimated cost if fully subscribed is ~$42.8 million.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; ~$42.8 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 12.5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-19&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Expiration: Oct 19, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $19.32 · Mkt cap $294.3M · Fwd P/E 4.2x · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1703079/000121390026101507/0001213900-26-101507-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;XFLT&lt;/b&gt; · SC TO-I · prefill_form:SC TO-I · filed 2026-09-18&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · PAAI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/894871/000149315226043382/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-043212</guid>
-      <pubDate>Fri, 18 Sep 2026 16:14:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Signs 10-year platform deal with RTB; RTB to buy 49.5% stake for $89.6M</scanner:headline>
-      <scanner:shortName>Paradium.AI</scanner:shortName>
-      <scanner:price>3.34</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>PAAI</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>159020000</scanner:marketCap>
-      <scanner:enterpriseValue>247730000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>7.31</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Roundtable to acquire 49.5% stake at $3.80/sh; close Q4 2026&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Signed a 10-year strategic platform agreement with Roundtable (RTB Digital, Nasdaq: RTB) under which Roundtable will provide technology, monetization and operating services while PAAI retains brand/domain/IP ownership. Separately, Roundtable agreed to acquire ~49.5% of PAAI&amp;#39;s outstanding common stock from Simplify Inventions at $3.80/share; Simplify retains ~23.1%. Transactions subject to conditions including Roundtable funding; close scheduled before end of Q4 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Paradium AI, Inc. operates an artificial intelligence technology platform for digital media, content creation, and monetization. The company operates through four segments: Sports &amp;amp; Leisure, Finance, Lifestyle, and Platform &amp;amp; Other. Its Sports &amp;amp; Leisure segment produces content on sports and leisure topics through media brands including Athlon Sports and the Adventure Sports Network, which includes Surfer, Powder, and Bike Magazine.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; RTB Digital, Inc. (Roundtable)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 3.80&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 49.5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Funding conditions satisfaction prior to Q4 2026 close&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.34 · Mkt cap $159.0M · EV $247.7M · Fwd EV/EBITDA 7.3x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/894871/000149315226043212/0001493152-26-043212-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PAAI&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Communications (4841) · 8k_tier1:7.01 · filed 2026-09-18&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 18 16:14 · &lt;a href='https://www.sec.gov/Archives/edgar/data/894871/000149315226043382/form8-k.htm'&gt;Signs 10-year platform deal with RTB; RTB to buy 49.5% stake for $89.6M&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 18 05:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/894871/000149315226043212/form8-k.htm'&gt;Roundtable to acquire 49.5% stake at $3.80/sh; close Q4 2026&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
