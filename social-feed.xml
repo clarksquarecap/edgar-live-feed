@@ -6,16 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 11:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:09:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ALDX ⚖️ Litigation · Lost
+To appeal FDA rejection of reproxalap NDA for dry eye disease
+Mcap $70M · EV $25M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1341235/000119312526405954/aldx-20260929.htm</link>
+      <guid isPermaLink="false">0001193125-26-405954</guid>
+      <pubDate>Tue, 29 Sep 2026 06:09:20 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>lost</category>
+    </item>
     <item>
       <title>$DAIC 🤝 Merger
 Acquires Envoy Technologies for $65M in stock; close targeted Oct 6
-65,000,000 deal · stock · close 2026-10-06
+$65,000,000 deal · stock · close 2026-10-06
 Mcap $8M · EV $10M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026104296/ea0306797-8k_cidhold.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026104299/ea0306797-8k_cidhold.htm</link>
       <guid isPermaLink="false">0001213900-26-104296</guid>
-      <pubDate>Tue, 29 Sep 2026 06:02:40 -0500</pubDate>
+      <pubDate>Tue, 29 Sep 2026 06:08:40 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -1094,47 +1104,6 @@ Mcap $30B · EV $25B · Comms</title>
       <pubDate>Mon, 28 Sep 2026 06:18:30 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$JAGX 🪙 Debt Restr.
-Issues 481,584 shares to Streeterville for $3.4M debt reduction
-Mcap $3M · EV $15M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1585608/000119312526403356/d187815d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-400087</guid>
-      <pubDate>Mon, 28 Sep 2026 06:08:27 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$FLUT ⚖️ Litigation · Lost
-Ceases Brazil operations after government ban on online betting; $70M revenue hit
-vs Brazilian Government
-Mcap $14B · EV $26B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1635327/000119312526403357/d484581d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-403357</guid>
-      <pubDate>Mon, 28 Sep 2026 06:08:11 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
-    </item>
-    <item>
-      <title>$PRFX 👀 Activist
-Faces board challenge from S.H.N. Financial; seeks to remove directors
-5.7% stake
-Mcap $3M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1801834/000117891326004625/zk2636164.htm</link>
-      <guid isPermaLink="false">0001178913-26-004625</guid>
-      <pubDate>Mon, 28 Sep 2026 06:07:46 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$PBM 🤝 Merger · Preliminary
-Subsidiary secures exclusive US ibogaine license from PsyLabs; $1.3M milestones
-Psyence Labs · cash · close 2026-11-30
-Mcap $21M · EV $14M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1985062/000121390026103733/ea0306807-6k_psyence.htm</link>
-      <guid isPermaLink="false">0001213900-26-103733</guid>
-      <pubDate>Mon, 28 Sep 2026 06:07:12 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>

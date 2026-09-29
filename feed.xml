@@ -6,25 +6,56 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 11:02:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:09:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
+      <title>⚖️ Litigation · Lost · ALDX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1341235/000119312526405954/aldx-20260929.htm</link>
+      <guid isPermaLink="false">0001193125-26-405954</guid>
+      <pubDate>Tue, 29 Sep 2026 06:09:20 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>lost</category>
+      <category>8-K</category>
+      <scanner:headline>To appeal FDA rejection of reproxalap NDA for dry eye disease</scanner:headline>
+      <scanner:shortName>Aldeyra Therapeutics</scanner:shortName>
+      <scanner:price>1.16</scanner:price>
+      <scanner:subtype>lost</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>ALDX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>69980000</scanner:marketCap>
+      <scanner:enterpriseValue>25030000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;To appeal FDA rejection of reproxalap NDA for dry eye disease&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced its intent to submit a Formal Dispute Resolution Request (FDRR) to the FDA&amp;#39;s Office of New Drugs, appealing the March 16, 2026 Complete Response Letter that denied approval of its New Drug Application for reproxalap for dry eye disease. The company expects to submit the FDRR and meet with the OND in Q4 2026. This action extends Aldeyra&amp;#39;s projected operational cash runway into 2029.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Aldeyra Therapeutics, Inc., a biotechnology company, discovers and develops therapies designed to treat immune-mediated diseases. Its lead product candidate is reproxalap, a reactive aldehyde species (RASP) modulator, which is in Phase III clinical trial for the treatment of dry eye disease and allergic conjunctivitis; and ADX-2191, a dihydrofolate reductase inhibitor for the treatment of primary vitreoretinal lymphoma and retinitis pigmentosa.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; FDA&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; FDRR submission and OND meeting in Q4 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.16 · Mkt cap $70.0M · EV $25.0M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1341235/000119312526405954/0001193125-26-405954-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ALDX&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01,8.01 · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>🤝 Merger · Definitive · DAIC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026104296/ea0306797-8k_cidhold.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/2033770/000121390026104299/ea0306797-8k_cidhold.htm</link>
       <guid isPermaLink="false">0001213900-26-104296</guid>
-      <pubDate>Tue, 29 Sep 2026 06:02:40 -0500</pubDate>
+      <pubDate>Tue, 29 Sep 2026 06:08:40 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>8-K</category>
+      <category>DEFA14A</category>
       <scanner:headline>Acquires Envoy Technologies for $65M in stock; close targeted Oct 6</scanner:headline>
       <scanner:shortName>CID Holdco</scanner:shortName>
       <scanner:price>3.26</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
+      <scanner:form>DEFA14A</scanner:form>
       <scanner:sector>Information Technology</scanner:sector>
       <scanner:ticker>DAIC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>8-K, DEFA14A</scanner:filingForms>
       <scanner:related />
       <scanner:marketCap>7620000</scanner:marketCap>
       <scanner:enterpriseValue>9510000</scanner:enterpriseValue>
@@ -43,7 +74,9 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2027-01-31&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $3.26 · Mkt cap $7.6M · EV $9.5M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2033770/000121390026104296/0001213900-26-104296-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DAIC, DAICW&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Business Services (7373) · 8k_tier1:1.01 · filed 2026-09-29&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DAIC, DAICW&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Business Services (7373) · 8k_tier1:1.01 · filed 2026-09-29&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Sep 29 06:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2033770/000121390026104299/ea0306797-8k_cidhold.htm'&gt;Acquires Envoy Technologies for $65M in stock; close targeted Oct 6&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 29 06:02 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2033770/000121390026104296/ea0306797-8k_cidhold.htm'&gt;Acquires Envoy Technologies for $65M in stock; close targeted Oct 6&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · AZN</title>
@@ -15940,36 +15973,6 @@
 &lt;p&gt;&lt;i&gt;Px $12.97 · Mkt cap $127.4M · EV $107.1M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1446159/000117184326006093/0001171843-26-006093-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AGPU&lt;/b&gt; · 8-K · Items 1.01, 2.01, 9.01 · Non-Depository Credit (6199) · 8k_tier1:1.01,2.01 · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔎 Strategic Review · Formal Alternatives · LOOP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1504678/000143774926030685/loop20260917_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-030685</guid>
-      <pubDate>Thu, 17 Sep 2026 15:17:31 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-      <category>8-K</category>
-      <scanner:headline>Forms Strategic Alternatives Committee; weighs sale, merger, going-private</scanner:headline>
-      <scanner:shortName>Loop Industries</scanner:shortName>
-      <scanner:price>0.5400</scanner:price>
-      <scanner:subtype>formal_alternatives</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>LOOP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>23440000</scanner:marketCap>
-      <scanner:enterpriseValue>25390000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Forms Strategic Alternatives Committee; weighs sale, merger, going-private&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced its Board formed a Strategic Alternatives Committee to evaluate strategic and financial alternatives, including a potential sale, merger, or going-private transaction. The committee&amp;#39;s immediate priority is securing capital for the India joint venture through project-level debt, strategic capital, or equity financing. No timetable has been set, and no decision has been made.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Loop Industries, Inc., a technology company, focuses on depolymerizing waste polyethylene terephthalate (PET) plastics and polyester fibers into its base building block monomers. The company&amp;#39;s technology depolymerizes plastic bottles, packaging, and textiles, such as carpets and clothing into base building block monomers, dimethyl terephthalate, and monoethylene glycol.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.5400 · Mkt cap $23.4M · EV $25.4M · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1504678/000143774926030685/0001437749-26-030685-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LOOP&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Chemicals / Pharma (2800) · 8k_tier1:7.01 · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
