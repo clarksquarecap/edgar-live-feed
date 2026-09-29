@@ -6,8 +6,42 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 11:17:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:41:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Buyback Authorization · ALM</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1670061/000149315226044777/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044777</guid>
+      <pubDate>Tue, 29 Sep 2026 06:41:07 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+      <category>6-K</category>
+      <scanner:headline>Reports $48M share buyback; plans automatic repurchase program</scanner:headline>
+      <scanner:shortName>Almonty Industries</scanner:shortName>
+      <scanner:price>13.21</scanner:price>
+      <scanner:subtype>buyback_authorization</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>ALM</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3810830000</scanner:marketCap>
+      <scanner:enterpriseValue>3519240000</scanner:enterpriseValue>
+      <scanner:fwdPE>16.23</scanner:fwdPE>
+      <scanner:fwdEvEbitda>10.56</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>121.68</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Reports $48M share buyback; plans automatic repurchase program&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Has bought back and cancelled 2,914,739 common shares for approximately $48 million under its previously announced share repurchase program. The company intends to continue repurchasing shares and will implement an automatic repurchase plan to facilitate ongoing buybacks, including during blackout periods.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Almonty Industries Inc. engages in mining, processing, and shipping of tungsten concentrates. The company explores for tin and tungsten deposits. It holds 100% interests in the Canada, Korea, Portugal, Spain, and the United States projects and mines. The company is headquartered in Dillon, Montana.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 48000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $13.21 · Mkt cap $3.81B · EV $3.52B · Fwd P/E 16.2x · Fwd EV/EBITDA 10.6x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1670061/000149315226044777/0001493152-26-044777-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ALM&lt;/b&gt; · 6-K · Metal Mining (1000) · prefill_form:6-K · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · JELD</title>
       <link>https://www.sec.gov/Archives/edgar/data/1674335/000167433526000126/jeld-20260929.htm</link>
@@ -15956,38 +15990,6 @@
 &lt;p&gt;&lt;i&gt;Px $38.41 · Mkt cap $8.64B · EV $12.37B · Fwd P/E 36.2x · Fwd EV/EBITDA 19.1x · Real Estate / Industrial REITs&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1571283/000157128326000051/0001571283-26-000051-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;REXR, REXR-PB, REXR-PC&lt;/b&gt; · 8-K · Items 2.01, 7.01, 9.01 · Holding / Investment Offices (6798) · 8k_tier1:2.01,7.01 · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Buyback Authorization · PDS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1013605/000117184326006095/f6k_091726.htm</link>
-      <guid isPermaLink="false">0001171843-26-006095</guid>
-      <pubDate>Thu, 17 Sep 2026 15:33:58 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-      <category>6-K</category>
-      <scanner:headline>Renews NCIB to repurchase up to 10% of public float</scanner:headline>
-      <scanner:shortName>PRECISION DRILLING</scanner:shortName>
-      <scanner:price>87.08</scanner:price>
-      <scanner:subtype>buyback_authorization</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>PDS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1097500000</scanner:marketCap>
-      <scanner:enterpriseValue>1551830000</scanner:enterpriseValue>
-      <scanner:fwdPE>12.52</scanner:fwdPE>
-      <scanner:fwdEvEbitda>4.17</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Renews NCIB to repurchase up to 10% of public float&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced TSX approval to renew its Normal Course Issuer Bid, authorizing purchase of up to 1,229,799 common shares (~10% of public float) for cancellation. Purchases commence September 21, 2026 and run through September 20, 2027. Prior NCIB bought 668,674 shares at CAD$102.54 average.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Precision Drilling Corporation, a drilling company, provides onshore drilling services to exploration and production companies in the oil and natural gas and geothermal industries in the United States, Canada, and internationally. It operates through Contract Drilling Services; and Completion and Production Services segments. The Contract Drilling Services segment offers onshore well drilling services to exploration and production companies in the oil, natural gas, and geothermal industry.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Purchases commence Sept 21, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $87.08 · Mkt cap $1.10B · EV $1.55B · Fwd P/E 12.5x · Fwd EV/EBITDA 4.2x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1013605/000117184326006095/0001171843-26-006095-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PDS&lt;/b&gt; · 6-K · Oil &amp;amp; Gas (1381) · prefill_form:6-K · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
