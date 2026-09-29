@@ -6,8 +6,41 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 10:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:26:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · SANG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/tm2626529d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111514</guid>
+      <pubDate>Tue, 29 Sep 2026 05:25:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Acquired by BRC Group Holdings for $4.925 cash + 0.04767 BRC shares; 47% premium</scanner:headline>
+      <scanner:shortName>Sangoma Technologies</scanner:shortName>
+      <scanner:price>3.59</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>SANG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>118560000</scanner:marketCap>
+      <scanner:enterpriseValue>142610000</scanner:enterpriseValue>
+      <scanner:fwdEvEbitda>4.32</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>0.95</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by BRC Group Holdings for $4.925 cash + 0.04767 BRC shares; 47% premium&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation entered into a definitive agreement to be acquired by a wholly-owned subsidiary of BRC Group Holdings, Inc. for US$4.925 in cash and 0.04767 of a BRC common share per Sangoma share. The transaction values Sangoma at an enterprise value of approximately US$204 million (C$289 million). The consideration implies a value of US$5.225 (C$7.40) per Sangoma share, representing a premium of approximately 47% based on Sangoma&amp;#39;s closing price on the TSX as of September 28, 2026. The Board unanimously recommends shareholders vote in favor, and officers/directors holding approximately 27% of shares have signed voting support agreements.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sangoma Technologies Corporation, together with its subsidiaries, develops, manufactures, distributes, and supports voice and data connectivity components for software-based communication applications in the United States of America and internationally. The company offers communications platforms comprising pure cloud and hybrid unified communications as a service, and on-premises systems; retail and wholesale SIP trunking, as well as fax as a service; Sangoma TeamHub, a unified communications a…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BRC Group Holdings, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 5.225&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 204000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 47%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; early 2027&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.59 · Mkt cap $118.6M · EV $142.6M · Fwd EV/EBITDA 4.3x · Information Technology / Communications Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/0001104659-26-111514-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SANG&lt;/b&gt; · 6-K · Business Services (7370) · prefill_form:6-K · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · HCM</title>
       <link>https://www.sec.gov/Archives/edgar/data/1648257/000164825726000061/hcm-20260928x6k.htm</link>
@@ -15924,37 +15957,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.9800 · Mkt cap $2.9M · EV $16.9M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1739174/000121390026100950/0001213900-26-100950-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HLSQ, PHGE&lt;/b&gt; · SCHEDULE 13D · Business Services (7372) · fresh_13d · filed 2026-09-17&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · FBLG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1958777/000149315226043112/0001493152-26-043112-index.htm</link>
-      <guid isPermaLink="false">0001493152-26-043112</guid>
-      <pubDate>Thu, 17 Sep 2026 15:08:07 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Receives 13D from CSO for 7.5% stake</scanner:headline>
-      <scanner:shortName>FibroBiologics</scanner:shortName>
-      <scanner:price>1.55</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>FBLG</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>10320000</scanner:marketCap>
-      <scanner:enterpriseValue>8270000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D from CSO for 7.5% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D from its Chief Scientific Officer, Hamid Khoja, disclosing beneficial ownership of 630,009 shares (7.5%) after a private placement of 298,508 shares and warrants at $1.675 per share for gross proceeds of ~$0.5M. The warrants are exercisable at $1.55 per share for five years. Khoja acquired the stake for investment purposes and in support of the company&amp;#39;s business plan.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; FibroBiologics, Inc., a clinical-stage biotechnology company, engages in the development and commercialization of fibroblast-based therapies for patients suffering from chronic diseases. The company’s product pipeline includes CYWC628 which has completed pre-clinical trial for the treatment of wound healing; CYMS101 which has completed Phase 1 trial for the treatment of multiple sclerosis; CybroCell for the treatment of degenerative disc disease; and CYPS317 for the treatment of psoriasis.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Hamid Khoja&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.55 · Mkt cap $10.3M · EV $8.3M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1958777/000149315226043112/0001493152-26-043112-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FBLG&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-17&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
