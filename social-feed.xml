@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 29 Sep 2026 13:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:28:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$UMH ⚔️ Proxy
+Launches campaign website, seeks board change at UMH for 2027 AGM
+Mcap $1.3B · EV $2.4B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/752642/000090266426003971/p26-1951dfan14a.htm</link>
+      <guid isPermaLink="false">0000902664-26-003971</guid>
+      <pubDate>Tue, 29 Sep 2026 08:28:03 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$CRTD 🤝 Merger · Preliminary
 Acquires 10% stake in C2 Live; LOI for remaining 90%
@@ -1067,17 +1076,6 @@ STRS Ohio reports 6.8% stake in Stone Point Credit Income Fund</title>
       <guid isPermaLink="false">0000820478-26-000016</guid>
       <pubDate>Mon, 28 Sep 2026 08:34:47 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$COLA 🤝 Merger
-Adjourns shareholder meeting for WISeSat.Space business combination vote to Sep 29
-empty
-Mcap $47M · EV $47M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028201/000121390026103784/ea0306809-8k_columbus.htm</link>
-      <guid isPermaLink="false">0001213900-26-102547</guid>
-      <pubDate>Mon, 28 Sep 2026 08:26:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
