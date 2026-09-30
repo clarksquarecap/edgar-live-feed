@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:15:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:16:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CMMB 🤝 Merger
+Acquired by Scipher Medicine in reverse merger; combined entity to list as SCIP
+stock · close Q4 2026
+Mcap $12M · EV $5M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1534248/000117891326004676/zk2636151.htm</link>
+      <guid isPermaLink="false">0001178913-26-004676</guid>
+      <pubDate>Wed, 30 Sep 2026 15:16:30 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DJT 🤝 Merger
 Acquires Rumble for $2.5B all-stock; RUM holders get 0.5 DJT shares
@@ -1245,27 +1256,6 @@ Mcap $154M · EV $155M · Financials</title>
       <guid isPermaLink="false">0001104659-26-111929</guid>
       <pubDate>Tue, 29 Sep 2026 15:17:31 -0500</pubDate>
       <category>MERGER</category>
-    </item>
-    <item>
-      <title>$ATEK 🤝 Merger
-Waives Nasdaq listing for warrants in Ace Green Recycling business combination
-empty
-Mcap $94M · EV $96M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1882198/000121390026104648/ea0306930-8k_athena2.htm</link>
-      <guid isPermaLink="false">0001213900-26-104648</guid>
-      <pubDate>Tue, 29 Sep 2026 15:16:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FOXF 📤 Divestiture
-Sells Marucci Sports subsidiary to Squared Up Holdings for $225M
-225000000 deal
-Mcap $778M · EV $1.4B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1424929/000142492926000057/foxf-20260925.htm</link>
-      <guid isPermaLink="false">0001424929-26-000052</guid>
-      <pubDate>Tue, 29 Sep 2026 15:16:19 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
