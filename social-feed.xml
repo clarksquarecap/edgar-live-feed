@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 13:02:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:11:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$CBNK 📤 Divestiture
@@ -1101,34 +1101,6 @@ Mcap $30M · EV $2M · Comms</title>
       <guid isPermaLink="false">0000921895-26-002662</guid>
       <pubDate>Tue, 29 Sep 2026 08:12:24 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$ONAR 🪙 Debt Restr.
-Secured convertible notes for $3.55M proceeds + $6.38M debt exchange; Nasdaq uplist trigger
-Mcap $3M · EV $9M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1682265/000147793226005870/onar_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-005870</guid>
-      <pubDate>Tue, 29 Sep 2026 08:05:42 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$YMAT 🔎 Strat Review · Portfolio Review
-CEO relocates to US to lead growth initiatives; evaluating manufacturing expansion
-Mcap $6M · EV $19M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1875016/000149315226044808/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044808</guid>
-      <pubDate>Tue, 29 Sep 2026 08:04:45 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
-    </item>
-    <item>
-      <title>$TAOP 🪙 Debt Restr.
-Auditors raise substantial doubt about ability to continue as going concern
-Mcap $5M · EV $15M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1552670/000149315226044809/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044809</guid>
-      <pubDate>Tue, 29 Sep 2026 08:04:21 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
