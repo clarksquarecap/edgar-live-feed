@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 13:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:26:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · NACB</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1947463/000110465926112138/tm2621296d7_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-112138</guid>
+      <pubDate>Wed, 30 Sep 2026 08:26:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>Acquires National Capital Bancorp; receives OCC approval, Fed waiver; close Q4 2026</scanner:headline>
+      <scanner:shortName>ODNB Financial</scanner:shortName>
+      <scanner:price>84.70</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>NACB</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>97610000</scanner:marketCap>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires National Capital Bancorp; receives OCC approval, Fed waiver; close Q4 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation announced it received OCC approval and a Federal Reserve waiver for its previously announced merger with National Capital Bancorp, Inc. The combined entity, to be named National Capital Bancorp, Inc., expects to list on Nasdaq under the ticker NACB. The merger remains subject to Virginia SCC and shareholder approvals, with an expected close in Q4 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; National Capital Bancorp, Inc. operates as the bank holding company for The National Capital Bank of Washington that provides various banking products and services to individuals and businesses in Washington. It offers savings and checking accounts; debit and credit cards; money transfer services; online and mobile banking services; personal loans, home equity lines of credit, residential mortgages, ready reserves, and overdraft transfers; and residential mortgage lending and first-time home buy…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; National Capital Bancorp, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Virginia SCC and shareholder approvals&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $84.70 · Mkt cap $97.6M · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1947463/000110465926112138/0001104659-26-112138-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NACB&lt;/b&gt; · 425 · Depository Institutions (6022) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Self Tender · WEBC</title>
       <link>https://www.otcmarkets.com/stock/WEBC/news/536919</link>
@@ -16323,37 +16353,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Expiration date October 15, 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1793855/000110465926109410/0001104659-26-109410-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ASGI, ASGI-RW&lt;/b&gt; · 8-K · Items 1.01, 8.01, 9.01 · 8k_tier1:1.01,8.01 · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · SWRD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1795851/000166357726000301/swrd_8k091726.htm</link>
-      <guid isPermaLink="false">0001663577-26-000301</guid>
-      <pubDate>Tue, 22 Sep 2026 05:05:32 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>busted_ma</category>
-      <category>8-K</category>
-      <scanner:headline>Terminates $20M Hawthorne property deal; $900K deposit returned</scanner:headline>
-      <scanner:shortName>Stewards</scanner:shortName>
-      <scanner:price>1.99</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financial Services</scanner:sector>
-      <scanner:ticker>SWRD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>420188426</scanner:marketCap>
-      <scanner:enterpriseValue>574000426</scanner:enterpriseValue>
-      <scanner:fwdEvSales>33.93</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Terminates $20M Hawthorne property deal; $900K deposit returned&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Terminated its $20M cash purchase of The Hawthorne property in Chatham, MA from John E. Swenson Co. after a deposit dispute. Settlement returns $900K of the $1M deposit to Stewards, pays $100K to Swenson, and dismisses the lawsuit with prejudice. The company will not acquire the property.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; John E. Swenson Co., Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $20,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Dismissal of the Action with prejudice within 3 business days of settlement distribution&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.99 · Mkt cap $420.2M · EV $574.0M · Fwd EV/Sales 33.9x · Financial Services / Financial Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1795851/000166357726000301/0001663577-26-000301-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SWRD&lt;/b&gt; · 8-K · Items 1.02, 8.01 · Non-Depository Credit (6153) · 8k_tier1:1.02,8.01 · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
