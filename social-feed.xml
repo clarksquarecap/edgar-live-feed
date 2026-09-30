@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:15:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DJT 🤝 Merger
+Acquires Rumble for $2.5B all-stock; RUM holders get 0.5 DJT shares
+$2,500,000,000 deal · stock · close H1 2027
+Mcap $2.5B · EV $2.6B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849635/000143774926031600/djt20260930c_425.htm</link>
+      <guid isPermaLink="false">0001437749-26-031600</guid>
+      <pubDate>Wed, 30 Sep 2026 15:15:20 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BCO 🤝 Merger
 Acquisition of NCR Atleos on track for Q1 2027 close; proposes UK divestiture
@@ -1255,25 +1266,6 @@ Mcap $778M · EV $1.4B · Cons Disc</title>
       <guid isPermaLink="false">0001424929-26-000052</guid>
       <pubDate>Tue, 29 Sep 2026 15:16:19 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BHR 📤 Divestiture
-Sells Four Seasons Scottsdale resort to Evergreen Acquisitions for $372M
-Mcap $114M · EV $1.2B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1574085/000157408526000146/bhr-20260923.htm</link>
-      <guid isPermaLink="false">0001574085-26-000146</guid>
-      <pubDate>Tue, 29 Sep 2026 15:15:33 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$FUFU 🤝 Merger
-Receives CFIUS clearance for 51% stake in Uni-Titan LLC
-Mcap $228M · EV $308M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1921158/000121390026104649/ea0306535-6k_bitfufu.htm</link>
-      <guid isPermaLink="false">0001213900-26-104649</guid>
-      <pubDate>Tue, 29 Sep 2026 15:14:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>

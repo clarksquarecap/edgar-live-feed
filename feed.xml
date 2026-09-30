@@ -6,8 +6,42 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:15:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · DJT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849635/000143774926031600/djt20260930c_425.htm</link>
+      <guid isPermaLink="false">0001437749-26-031600</guid>
+      <pubDate>Wed, 30 Sep 2026 15:15:20 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>Acquires Rumble for $2.5B all-stock; RUM holders get 0.5 DJT shares</scanner:headline>
+      <scanner:shortName>Trump Media &amp; Technology</scanner:shortName>
+      <scanner:price>9.10</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>DJT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2529270000</scanner:marketCap>
+      <scanner:enterpriseValue>2597420000</scanner:enterpriseValue>
+      <scanner:grossMarginLtm>33.69</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Rumble for $2.5B all-stock; RUM holders get 0.5 DJT shares&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a definitive agreement to acquire Rumble Inc., the video-sharing platform, in an all-stock transaction valued at approximately $2.5 billion. Rumble shareholders will receive 0.5 shares of DJT common stock for each RUM share. The deal is expected to close in the first half of 2027, subject to regulatory and shareholder approvals.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Trump Media &amp;amp; Technology Group Corp. engages in social media and streaming services in the United States. It operates Truth Social, a social media platform for free expression; and Truth+, a streaming platform focusing on family-friendly live TV channels and on-demand content. The company also offers Truth.Fi, a financial service and FinTech brand that incorporates America First investment vehicles; and a digital asset strategy including a bitcoin treasury. Trump Media &amp;amp; Technology Group Corp.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Rumble Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $2,500,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; H1 2027&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $9.10 · Mkt cap $2.53B · EV $2.60B · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1849635/000143774926031600/0001437749-26-031600-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DJT, DJTWW&lt;/b&gt; · 425 · Business Services (7370) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · AMG BBH Asset-Backed Credit Fund</title>
       <link>https://www.sec.gov/Archives/edgar/data/2097545/000092963826003756/0000929638-26-003756-index.htm</link>
@@ -16363,36 +16397,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.7487 · Mkt cap $18.6M · EV $10.7M · Fwd EV/EBITDA 1.4x · Fwd EV/Sales 0.9x · Healthcare / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1711786/000121390026102217/0001213900-26-102217-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RKTO&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · ACRE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1529377/000162828026063051/acre-20260918.htm</link>
-      <guid isPermaLink="false">0001628280-26-063051</guid>
-      <pubDate>Tue, 22 Sep 2026 15:43:25 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Sells NC office property for $64M cash</scanner:headline>
-      <scanner:shortName>Ares Commercial Real Estate</scanner:shortName>
-      <scanner:price>4.38</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>ACRE</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>242511134</scanner:marketCap>
-      <scanner:fwdPE>28.20</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells NC office property for $64M cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Completed the sale of a multi-building office property in North Carolina to an unaffiliated buyer for $64 million cash. The property was acquired via deed in lieu of foreclosure in September 2024 and classified as held for sale in Q1 2026. Pro forma balance sheet reflects a $61.9M cash increase and removal of the $53.9M held-for-sale asset.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; unaffiliated buyer&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $64 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $4.38 · Mkt cap $242.5M · Fwd P/E 28.2x · Real Estate / Mortgage Real Estate Investment Trusts (REITs)&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1529377/000162828026063051/0001628280-26-063051-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACRE&lt;/b&gt; · 8-K · Items 2.01, 9.01 · Holding / Investment Offices (6798) · 8k_tier1:2.01 · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
