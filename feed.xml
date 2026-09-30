@@ -6,8 +6,87 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:34:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:36:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · ALG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/897077/000089707726000102/alg-20260929.htm</link>
+      <guid isPermaLink="false">0000897077-26-000102</guid>
+      <pubDate>Wed, 30 Sep 2026 15:36:18 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>restructuring</category>
+      <category>8-K</category>
+      <scanner:headline>Ceases Dixie Chopper product line; expects $15M-$20M charges</scanner:headline>
+      <scanner:shortName>ALAMO GROUP</scanner:shortName>
+      <scanner:price>154.82</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>ALG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1932630000</scanner:marketCap>
+      <scanner:enterpriseValue>2016490000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.21</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>5.01</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>14.23</scanner:fwdPE>
+      <scanner:fwdEvEbitda>8.04</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>4.98</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>24.21</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Ceases Dixie Chopper product line; expects $15M-$20M charges&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Decided to cease production of its Dixie Chopper branded line of products on September 29, 2026. The company estimates it will incur approximately $15.0 million to $20.0 million in charges in Q3 2026, including $1.0 million to $4.0 million in cash expenditures. These charges are related to inventory returns, contractual purchase commitments, and other associated costs.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Alamo Group Inc. manufactures and sells industrial and vegetation management equipment for governmental, industrial, and agricultural uses worldwide. It operates in two segments, Vegetation Management and Industrial Equipment. The Vegetation Management segment offers tractor powered equipment such as rotary, finishing, flail, and disc mowers; rotary cutters; front end loaders, backhoes, tillers, posthole diggers, scraper blades, cultivators, subsoilers, and other tractor attachments and implemen…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $154.82 · Mkt cap $1.93B · EV $2.02B · Fwd P/E 14.2x · Fwd EV/EBITDA 8.0x · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/897077/000089707726000102/0000897077-26-000102-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ALG&lt;/b&gt; · 8-K · Items 2.05, 2.06 · Industrial Machinery (3523) · 8k_tier1:2.05 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · PSKY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2041610/000110465926112347/tm2626659d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111034</guid>
+      <pubDate>Wed, 30 Sep 2026 15:35:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Clears WBD merger antitrust, WGA lawsuits; no-close order modified</scanner:headline>
+      <scanner:shortName>Paramount Skydance</scanner:shortName>
+      <scanner:price>9.96</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>PSKY</scanner:ticker>
+      <scanner:filings>3</scanner:filings>
+      <scanner:filingForms>8-K x3</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>11421410000</scanner:marketCap>
+      <scanner:enterpriseValue>27035410000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.93</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.79</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>12.13</scanner:fwdPE>
+      <scanner:fwdEvEbitda>7.00</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>2.76</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>33.33</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;To distribute ~470M warrants contingent on WBD merger; to list on NYSE Oct 6&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation announced a plan to distribute approximately 470 million warrants to its Class B Common Stock holders, contingent on the closing of its previously announced acquisition of Warner Bros. Discovery, Inc. Each warrant will entitle the holder to purchase one Class B Common Stock at an initial exercise price between $12.00 and $16.02 per share. The company also plans to transfer its Class B Common Stock listing from Nasdaq to the NYSE, with trading expected to begin on October 6, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Paramount Skydance Corporation operates as a media and entertainment company worldwide. It operates in three segments: Studios, Direct-to-Consumer, and TV Media. The company operates CBS Television Network, a domestic broadcast television network; CBS Stations, a television station; international free-to-air networks comprising Network 10, Channel 5, Telefe, and Chilevisión; and domestic premium and basic cable networks, such as Nickelodeon, MTV, CMT, Comedy Central, BET, Paramount+ with SHOWTIM…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Warner Bros. Discovery, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; NYSE listing October 6, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $9.96 · Mkt cap $11.42B · EV $27.04B · Fwd P/E 12.1x · Fwd EV/EBITDA 7.0x · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/0001104659-26-111034-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PSKY&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Communications (4833) · 8k_tier1:3.01,7.01 · filed 2026-09-25&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 30 15:35 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2041610/000110465926112347/tm2626659d1_8k.htm'&gt;Clears WBD merger antitrust, WGA lawsuits; no-close order modified&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 28 07:28 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2041610/000110465926111174/tm2610616d13_8k.htm'&gt;Secures $44.4B debt financing for WBD acquisition&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 25 16:11 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/tm2610616d11_8k.htm'&gt;To distribute ~470M warrants contingent on WBD merger; to list on NYSE Oct 6&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · VRM</title>
       <link>https://www.sec.gov/Archives/edgar/data/1580864/000119312526409064/vrm-20260930.htm</link>
@@ -9212,47 +9291,6 @@
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Sep 28 07:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026103764/ea0306757-6k_wisekey.htm'&gt;Redomiciliation to British Virgin Islands effective Oct 2; new ticker WQEY&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 25 15:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026103517/ea0306680-6k_wisekey.htm'&gt;Reports Class B share election results for BVI redomiciliation merger&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>🤝 Merger · Definitive · PSKY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2041610/000110465926111174/tm2610616d13_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111034</guid>
-      <pubDate>Mon, 28 Sep 2026 07:28:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Secures $44.4B debt financing for WBD acquisition</scanner:headline>
-      <scanner:shortName>Paramount Skydance</scanner:shortName>
-      <scanner:price>9.96</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>PSKY</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>11421410000</scanner:marketCap>
-      <scanner:enterpriseValue>27035410000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.93</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>2.79</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>12.13</scanner:fwdPE>
-      <scanner:fwdEvEbitda>7.00</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>2.76</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>33.33</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;To distribute ~470M warrants contingent on WBD merger; to list on NYSE Oct 6&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Corporation announced a plan to distribute approximately 470 million warrants to its Class B Common Stock holders, contingent on the closing of its previously announced acquisition of Warner Bros. Discovery, Inc. Each warrant will entitle the holder to purchase one Class B Common Stock at an initial exercise price between $12.00 and $16.02 per share. The company also plans to transfer its Class B Common Stock listing from Nasdaq to the NYSE, with trading expected to begin on October 6, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Paramount Skydance Corporation operates as a media and entertainment company worldwide. It operates in three segments: Studios, Direct-to-Consumer, and TV Media. The company operates CBS Television Network, a domestic broadcast television network; CBS Stations, a television station; international free-to-air networks comprising Network 10, Channel 5, Telefe, and Chilevisión; and domestic premium and basic cable networks, such as Nickelodeon, MTV, CMT, Comedy Central, BET, Paramount+ with SHOWTIM…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Warner Bros. Discovery, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; NYSE listing October 6, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $9.96 · Mkt cap $11.42B · EV $27.04B · Fwd P/E 12.1x · Fwd EV/EBITDA 7.0x · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/0001104659-26-111034-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PSKY&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Communications (4833) · 8k_tier1:3.01,7.01 · filed 2026-09-25&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 28 07:28 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2041610/000110465926111174/tm2610616d13_8k.htm'&gt;Secures $44.4B debt financing for WBD acquisition&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 25 16:11 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2041610/000110465926111034/tm2610616d11_8k.htm'&gt;To distribute ~470M warrants contingent on WBD merger; to list on NYSE Oct 6&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>🤝 Merger · Definitive · BEAG</title>
       <link>https://www.sec.gov/Archives/edgar/data/1852207/000121390026103758/ea0305453-8k425_bold.htm</link>
       <guid isPermaLink="false">0001213900-26-103760</guid>
@@ -16446,39 +16484,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-26&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1610590/000121390026102336/0001213900-26-102336-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MBAI&lt;/b&gt; · SCHEDULE 13D · Business Services (7373) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · PODC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1940177/000121390026102325/0001213900-26-102325-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-102325</guid>
-      <pubDate>Tue, 22 Sep 2026 20:04:11 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Raises PodcastOne stake to 68.8%</scanner:headline>
-      <scanner:shortName>PodcastOne</scanner:shortName>
-      <scanner:price>2.07</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>PODC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>72303943</scanner:marketCap>
-      <scanner:enterpriseValue>65430943</scanner:enterpriseValue>
-      <scanner:fwdPE>29.57</scanner:fwdPE>
-      <scanner:fwdEvEbitda>6.76</scanner:fwdEvEbitda>
-      <scanner:fwdEvSales>0.90</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Raises PodcastOne stake to 68.8%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;LiveOne, Inc. increased its beneficial ownership in PodcastOne, Inc. to 68.8% (20,804,235 shares) through acquisition of additional shares. The shares were acquired for investment purposes; LiveOne may engage in discussions regarding strategic direction.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 68.8%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.07 · Mkt cap $72.3M · EV $65.4M · Fwd P/E 29.6x · Fwd EV/EBITDA 6.8x · Fwd EV/Sales 0.9x · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1940177/000121390026102325/0001213900-26-102325-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PODC&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7370) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
