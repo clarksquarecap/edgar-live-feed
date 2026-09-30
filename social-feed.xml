@@ -6,8 +6,30 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 10:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:22:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MGLD 📦 Going Private
+Acquired by Madison Dearborn Partners for $2.00/share cash; shareholder approval received
+cash
+Mcap $82M · EV $72M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1005101/000149315226044987/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-044491</guid>
+      <pubDate>Wed, 30 Sep 2026 05:21:06 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$OCLT 🤝 Merger
+Acquires AIRE Inc. in $1B SPAC merger; AIRE holders get 100M shares
+1,000,000,000 deal · stock
+Mcap $103M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2137679/000182912626010594/oceanlightacq_8k.htm</link>
+      <guid isPermaLink="false">0001829126-26-010595</guid>
+      <pubDate>Wed, 30 Sep 2026 05:20:56 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NTES 💧 Capital Return · Buyback
 Discloses 10% share repurchase authorization; repurchased 15,695 shares
@@ -77,17 +99,6 @@ Mcap $1.9B · EV $1.8B · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/834365/000119312526408201/d47823d425.htm</link>
       <guid isPermaLink="false">0001193125-26-408198</guid>
       <pubDate>Wed, 30 Sep 2026 05:17:45 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$OCLT 🤝 Merger
-Acquires AIRE Inc. in $1B all-stock business combination
-1,000,000,000 deal · stock
-Mcap $103M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2137679/000182912626010595/oceanlightacq_425.htm</link>
-      <guid isPermaLink="false">0001829126-26-010595</guid>
-      <pubDate>Wed, 30 Sep 2026 05:16:31 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
