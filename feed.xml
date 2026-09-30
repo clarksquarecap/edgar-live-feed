@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 12:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:03:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · ZIM</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1654126/000117891326004656/zk2636172.htm</link>
+      <guid isPermaLink="false">0001178913-26-004656</guid>
+      <pubDate>Wed, 30 Sep 2026 07:03:18 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>GCA halts review of Hapag-Lloyd merger; revised proposal expected</scanner:headline>
+      <scanner:shortName>ZIM Integrated Shipping Services</scanner:shortName>
+      <scanner:price>28.75</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>ZIM</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3464940000</scanner:marketCap>
+      <scanner:enterpriseValue>7142940000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.11</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.58</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>1.56</scanner:fwdPE>
+      <scanner:fwdEvEbitda>2.59</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.56</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>30.96</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;GCA halts review of Hapag-Lloyd merger; revised proposal expected&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a letter from the Israeli Government Companies Authority (GCA) stating that the GCA has ceased handling the application for approval of the pending merger transaction with Hapag-Lloyd. This decision was made because Hapag-Lloyd and FIMI did not submit a detailed revised proposal by the deadline. Hapag-Lloyd intends to submit a new proposal for GCA approval.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ZIM Integrated Shipping Services Ltd., together with its subsidiaries, provides container shipping and related services in Israel and internationally. The company offers door-to-door and port-to-port transportation services for various types of customers, including end-users, consolidators, and freight forwarders.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Hapag-Lloyd&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Submission of revised proposal to GCA&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $28.75 · Mkt cap $3.46B · EV $7.14B · Fwd P/E 1.6x · Fwd EV/EBITDA 2.6x · Industrials / Marine Transportation&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1654126/000117891326004656/0001178913-26-004656-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZIM&lt;/b&gt; · 6-K · Water Transportation (4412) · prefill_form:6-K · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · HSCS</title>
       <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026104895/ea0307146-defa14a_heart.htm</link>
@@ -16263,39 +16302,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.2100 · Mkt cap $3.6M · EV $5.4M · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/923601/000149315226043599/0001493152-26-043599-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RIME&lt;/b&gt; · 8-K · Items 1.01, 2.01, 2.03, 3.02, 3.03, 5.02, 5.03, 7.01, 9.01 · Business Services (7373) · 8k_tier1:1.01,2.01,3.03,7.01 · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · TOMZ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/314227/000165495426008492/tomz_8k.htm</link>
-      <guid isPermaLink="false">0001654954-26-008492</guid>
-      <pubDate>Mon, 21 Sep 2026 16:35:57 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>busted_ma</category>
-      <category>8-K</category>
-      <scanner:headline>Mutually terminates merger with Carbonium Core; no fee</scanner:headline>
-      <scanner:shortName>TOMI Environmental Solutions</scanner:shortName>
-      <scanner:price>1.43</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>TOMZ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>11890000</scanner:marketCap>
-      <scanner:enterpriseValue>14960000</scanner:enterpriseValue>
-      <scanner:fwdPE>65.20</scanner:fwdPE>
-      <scanner:fwdEvEbitda>10.95</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Mutually terminates merger with Carbonium Core; no fee&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;TOMI Environmental Solutions and Carbonium Core mutually terminated their merger agreement effective September 15, 2026. No termination fee is payable by either party; each bears its own fees. TOMI&amp;#39;s board approved the termination on September 20, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; TOMI Environmental Solutions, Inc. provides disinfection and decontamination essentials in the United States and internationally. The company’s disinfection solutions include SteraPak, SteraMist surface units, SteraMist environment systems, total transport units, SteraMist transport units, NV+, custom engineered systems, SteraMist Hybrid disinfection systems, SteraMist integrated systems, and stainless steel 90-degree applicators.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Carbonium Core, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.43 · Mkt cap $11.9M · EV $15.0M · Fwd P/E 65.2x · Fwd EV/EBITDA 10.9x · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/314227/000165495426008492/0001654954-26-008492-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TOMZ&lt;/b&gt; · 8-K · Items 1.02, 7.01, 9.01 · Chemicals / Pharma (2860) · 8k_tier1:1.02,7.01 · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
