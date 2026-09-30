@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:22:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:29:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SPKL 🤝 Merger
+Acquires ZincFive in $600M all-stock business combination
+600000000 deal · stock
+Mcap $100M · EV $104M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1884046/000110465926112345/spkl-20260929xs4.htm</link>
+      <guid isPermaLink="false">0001104659-26-112345</guid>
+      <pubDate>Wed, 30 Sep 2026 15:28:58 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MASK 📍 Stake
 Acquires 13.4% stake in MASK from issuer for $1.0M via subscription
@@ -920,15 +931,6 @@ Mcap $11M · EV $8M · Cons Disc</title>
       <category>STAKE_DISCLOSURE</category>
     </item>
     <item>
-      <title>$BETR ⚔️ Proxy
-Seeks to remove 5 directors from Better Home &amp; Finance board via consent solicitation
-Mcap $206M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002674/dfan14909002_09292026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002634</guid>
-      <pubDate>Tue, 29 Sep 2026 16:31:55 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
       <title>$QSEA 💧 Capital Return · Self-tender
 Seeks vote to extend business combination deadline to Feb 19, 2027; offers ~$10.84/share redemption
 Mcap $108M · EV $108M · Financials</title>
@@ -1213,77 +1215,6 @@ Mcap $159M · EV $348M · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-111939</guid>
       <pubDate>Tue, 29 Sep 2026 15:29:16 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NVT 🤝 Merger
-Secures $800M debt financing for $1.75B Maverick Power acquisition
-1.75 billion deal · close 2026-11-20
-Mcap $26B · EV $27B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1720635/000110465926111938/tm2626249d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111938</guid>
-      <pubDate>Tue, 29 Sep 2026 15:28:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AVAT 📤 Divestiture
-Sells AVAX tokens to Avalanche (BVI) for $15M cash
-15,000,000 deal
-Mcap $73M · EV $93M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2092446/000110465926111940/tm2626493d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111940</guid>
-      <pubDate>Tue, 29 Sep 2026 15:28:23 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$LXEO 🤝 Merger
-Completes Mantle Therapeutics acquisition for $5.3M cash + $3M stock upfront
-$8,300,000 deal · cash+stk
-Mcap $258M · EV $53M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1907108/000119312526407555/lxeo-20260929.htm</link>
-      <guid isPermaLink="false">0001193125-26-407555</guid>
-      <pubDate>Tue, 29 Sep 2026 15:27:57 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MRDN ⚖️ Litigation · Lost
-Faces Brazilian ban on online betting &amp; casino services
-Mcap $155M · EV $155M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1437925/000147793226005898/meridian_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-005898</guid>
-      <pubDate>Tue, 29 Sep 2026 15:27:04 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
-    </item>
-    <item>
-      <title>$XYL 🤝 Merger
-Raises $1.5B in senior notes to finance Cornell Pump, Roper Pump acquisition
-close August 10, 2027
-Mcap $24B · EV $26B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1524472/000152447226000134/xyl-20260929.htm</link>
-      <guid isPermaLink="false">0001524472-26-000134</guid>
-      <pubDate>Tue, 29 Sep 2026 15:26:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$JAGX 🪙 Debt Restr.
-Seeks vote on debt-to-equity conversion, warrant repricing, 1:150 reverse split
-Mcap $3M · EV $15M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1585608/000119312526407517/d78419dprer14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-407517</guid>
-      <pubDate>Tue, 29 Sep 2026 15:25:40 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$CLYD 💧 Capital Return · Self-tender
-Extends $15M self-tender at $6.6609/share to Oct 12</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2094256/000110465926111941/tm2626544d1_sctoia.htm</link>
-      <guid isPermaLink="false">0001104659-26-111941</guid>
-      <pubDate>Tue, 29 Sep 2026 15:24:49 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
