@@ -6,8 +6,80 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 21:18:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:20:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚱️ Liquidation · PTPI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1815903/000110465926112399/tm2626722d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112399</guid>
+      <pubDate>Wed, 30 Sep 2026 16:19:55 -0500</pubDate>
+      <category>LIQUIDATION</category>
+      <category>restructuring</category>
+      <category>8-K</category>
+      <scanner:headline>Enters Assignment for Benefit of Creditors; ceases operations</scanner:headline>
+      <scanner:shortName>Petros Pharmaceuticals</scanner:shortName>
+      <scanner:price>0.0100</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>PTPI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>190000</scanner:marketCap>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Enters Assignment for Benefit of Creditors; ceases operations&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a General Assignment for the Benefit of Creditors (ABC) on September 30, 2026, assigning all assets to PT Liquidation, LLC for creditor benefit. This constitutes a liquidation event, leading the Company to cease substantially all business operations and lose its going concern ability. The ABC triggered defaults on obligations and requires immediate redemption of Series A Convertible Preferred Stock.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Petros Pharmaceuticals, Inc., a healthcare technology company, focuses on developing and licensing proprietary software as a service (SaaS) platform and Software as a medical device web application designed to assist pharmaceutical companies. The company is based in New York, New York.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; PT Liquidation, LLC&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $190K · EV $-3.3M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1815903/000110465926112399/0001104659-26-112399-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PTPI&lt;/b&gt; · 8-K · Items 1.03, 2.04, 5.02 · Chemicals / Pharma (2834) · 8k_tier1:1.03,2.04 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · VAL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1451505/000110465926112402/tm2626691d1_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-038107</guid>
+      <pubDate>Wed, 30 Sep 2026 16:19:42 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Valaris; HSR cleared; 15.235 RIG shares/share; close Q4 2026</scanner:headline>
+      <scanner:shortName>Valaris</scanner:shortName>
+      <scanner:price>78.51</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>VAL</scanner:ticker>
+      <scanner:filings>3</scanner:filings>
+      <scanner:filingForms>DEFA14A, 8-K x2</scanner:filingForms>
+      <scanner:related>RIG</scanner:related>
+      <scanner:marketCap>5447240000</scanner:marketCap>
+      <scanner:enterpriseValue>6068640000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.84</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>11.45</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>12.86</scanner:fwdPE>
+      <scanner:fwdEvEbitda>8.39</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>11.61</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>24.78</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Transocean for 15.235 shares per VAL share; HSR cleared; close Q4 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited announced that it and Transocean Ltd. received notification that the U.S. Department of Justice has closed its HSR Act investigation, clearing a key condition for their business combination. Under the agreement dated February 9, 2026, Transocean will acquire all Valaris shares for 15.235 Transocean shares per Valaris share. The companies anticipate closing the transaction in the fourth quarter of 2026, subject to the satisfaction or waiver of remaining conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Valaris Limited, together with its subsidiaries, provides offshore contract drilling services in Brazil, the United Kingdom, Gulf of America, Australia, Angola, and internationally. It operates through four segments: Floaters, Jackups, ARO, and Other. The company owns an offshore drilling rig fleet, which includes drillships, dynamically positioned semisubmersible rigs, a moored semisubmersible rig, and jackup rigs. It also offers management services on rigs owned by third parties.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Transocean Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 15.235 shares of Transocean per Valaris Share&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-02-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Remaining conditions to closing&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $78.51 · Mkt cap $5.45B · EV $6.07B · Fwd P/E 12.9x · Fwd EV/EBITDA 8.4x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/314808/000114036126038107/0001140361-26-038107-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VAL, VAL-WT&lt;/b&gt; · DEFA14A · Oil &amp;amp; Gas (1381) · prefill_form:DEFA14A · filed 2026-09-30&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 30 16:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1451505/000110465926112402/tm2626691d1_8k.htm'&gt;Acquires Valaris; HSR cleared; 15.235 RIG shares/share; close Q4 2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 30 16:07 · &lt;a href='https://www.sec.gov/Archives/edgar/data/314808/000114036126038106/ef20083020_8k.htm'&gt;Acquired by Transocean; HSR cleared; 15.235 RIG shares per VAL share; close Q4 2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 30 16:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/314808/000114036126038107/ef20093020_defa14a.htm'&gt;Acquired by Transocean for 15.235 shares per VAL share; HSR cleared; close Q4 2026&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer RIG also filed 8-K&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🎯 Tender · Unsolicited · BLPRCRS</title>
       <link>https://www.sec.gov/Archives/edgar/data/1803498/000121390026105306/ea0306841-01_8k.htm</link>
@@ -177,47 +249,6 @@
 &lt;p&gt;&lt;i&gt;Px $8.45 · Mkt cap $406.6M · EV $437.5M · Industrials / Professional Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1937987/000119312526409204/0001193125-26-409204-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FBYD, FBYDP, FBYDW&lt;/b&gt; · SCHEDULE 13D/A · Amusement / Recreation (7990) · amended_13d · filed 2026-09-30&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · VAL</title>
-      <link>https://www.sec.gov/Archives/edgar/data/314808/000114036126038106/ef20083020_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-038107</guid>
-      <pubDate>Wed, 30 Sep 2026 16:07:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquired by Transocean; HSR cleared; 15.235 RIG shares per VAL share; close Q4 2026</scanner:headline>
-      <scanner:shortName>Valaris</scanner:shortName>
-      <scanner:price>78.51</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>VAL</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>DEFA14A, 8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>5447240000</scanner:marketCap>
-      <scanner:enterpriseValue>6068640000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>2.84</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>11.45</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>12.86</scanner:fwdPE>
-      <scanner:fwdEvEbitda>8.39</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>11.61</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>24.78</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Transocean for 15.235 shares per VAL share; HSR cleared; close Q4 2026&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Limited announced that it and Transocean Ltd. received notification that the U.S. Department of Justice has closed its HSR Act investigation, clearing a key condition for their business combination. Under the agreement dated February 9, 2026, Transocean will acquire all Valaris shares for 15.235 Transocean shares per Valaris share. The companies anticipate closing the transaction in the fourth quarter of 2026, subject to the satisfaction or waiver of remaining conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Valaris Limited, together with its subsidiaries, provides offshore contract drilling services in Brazil, the United Kingdom, Gulf of America, Australia, Angola, and internationally. It operates through four segments: Floaters, Jackups, ARO, and Other. The company owns an offshore drilling rig fleet, which includes drillships, dynamically positioned semisubmersible rigs, a moored semisubmersible rig, and jackup rigs. It also offers management services on rigs owned by third parties.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Transocean Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 15.235 shares of Transocean per Valaris Share&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-02-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Remaining conditions to closing&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $78.51 · Mkt cap $5.45B · EV $6.07B · Fwd P/E 12.9x · Fwd EV/EBITDA 8.4x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/314808/000114036126038107/0001140361-26-038107-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VAL, VAL-WT&lt;/b&gt; · DEFA14A · Oil &amp;amp; Gas (1381) · prefill_form:DEFA14A · filed 2026-09-30&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 30 16:07 · &lt;a href='https://www.sec.gov/Archives/edgar/data/314808/000114036126038106/ef20083020_8k.htm'&gt;Acquired by Transocean; HSR cleared; 15.235 RIG shares per VAL share; close Q4 2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 30 16:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/314808/000114036126038107/ef20093020_defa14a.htm'&gt;Acquired by Transocean for 15.235 shares per VAL share; HSR cleared; close Q4 2026&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · D</title>
@@ -16571,30 +16602,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1468091/000146809126000034/0001468091-26-000034-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VEON&lt;/b&gt; · 6-K · Communications (4812) · prefill_form:6-K · filed 2026-09-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · LGO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1400438/000106299326005058/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-005058</guid>
-      <pubDate>Wed, 23 Sep 2026 07:57:59 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Executes definitive debt-restructuring agreements covering 48% of $82M bank debt</scanner:headline>
-      <scanner:shortName>Largo</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>LGO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Executes definitive debt-restructuring agreements covering 48% of $82M bank debt&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Executed definitive debt-restructuring agreements with Banco do Brasil and Caixa Econômica Federal, covering approximately 48% of its $82M commercial bank senior debt. The company also outlined a strategic shift toward higher-margin products, including copper-PGM concentrates generating &amp;gt;90% operating margins, and is evaluating doubling copper-PGM production in 2027.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Banco do Brasil and Caixa Econômica Federal&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Completion of remaining Brazilian bank lender agreements&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1400438/000106299326005058/0001062993-26-005058-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LGO&lt;/b&gt; · 6-K · Mining; Nonmetallic (1400) · prefill_form:6-K · filed 2026-09-23&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
