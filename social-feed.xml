@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:17:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CHPT ⚖️ Litigation · Settled
+Settles securities class action for $11M cash; subject to court approval
+vs Farooq Khan
+Mcap $256M · EV $410M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1777393/000162828026063975/chpt-20260928.htm</link>
+      <guid isPermaLink="false">0001628280-26-063975</guid>
+      <pubDate>Wed, 30 Sep 2026 15:17:37 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
+    <item>
+      <title>$BDMD 🪙 Debt Restr.
+Secures $4.35M senior OID convertible note with 1st-priority lien on US assets
+Mcap $34M · EV $52M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1982444/000110465926112324/tm2626149d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112324</guid>
+      <pubDate>Wed, 30 Sep 2026 15:17:14 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$RDHL 📤 Divestiture
+Sells interest in Talicia Holdings joint venture
+Mcap $3M · EV $30K · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1553846/000110465926112334/rdhl-20260630x6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112334</guid>
+      <pubDate>Wed, 30 Sep 2026 15:17:02 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CMMB 🤝 Merger
 Acquired by Scipher Medicine in reverse merger; combined entity to list as SCIP
@@ -1246,16 +1275,6 @@ Mcap $56M · EV $83M · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-111920</guid>
       <pubDate>Tue, 29 Sep 2026 15:17:57 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$TONT 🤝 Merger
-Extends business combination deadline to Oct 27, 2026
-empty · close 2026-10-27
-Mcap $154M · EV $155M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1897463/000110465926111929/tm2618324d25_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111929</guid>
-      <pubDate>Tue, 29 Sep 2026 15:17:31 -0500</pubDate>
-      <category>MERGER</category>
     </item>
   </channel>
 </rss>

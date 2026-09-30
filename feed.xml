@@ -6,8 +6,120 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:16:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:17:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Settled · CHPT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1777393/000162828026063975/chpt-20260928.htm</link>
+      <guid isPermaLink="false">0001628280-26-063975</guid>
+      <pubDate>Wed, 30 Sep 2026 15:17:37 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+      <category>8-K</category>
+      <scanner:headline>Settles securities class action for $11M cash; subject to court approval</scanner:headline>
+      <scanner:shortName>ChargePoint Holdings</scanner:shortName>
+      <scanner:price>10.07</scanner:price>
+      <scanner:subtype>settled</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>CHPT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>255620000</scanner:marketCap>
+      <scanner:enterpriseValue>410390000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.95</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.93</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>2.90</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>32.38</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Settles securities class action for $11M cash; subject to court approval&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a Settlement Term Sheet to resolve a securities class action for a total cash payment of $11,000,000. The proposed settlement, which does not include any admission of wrongdoing, is subject to court approval. The Company expects to execute a final agreement and seek preliminary approval within 30 days.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ChargePoint Holdings, Inc., together with its subsidiaries, provides electric vehicle (EV) charging technology solutions in the United States and internationally. The company offers a range of networked charging systems; charger management system, support, and e-mobility service providers solutions; and ChargePoint mobile application.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Farooq Khan&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 11,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Court approval of settlement&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.07 · Mkt cap $255.6M · EV $410.4M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1777393/000162828026063975/0001628280-26-063975-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CHPT&lt;/b&gt; · 8-K · Items 8.01 · Electronic Equipment (3690) · 8k_tier1:8.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙 Debt Restr. · BDMD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1982444/000110465926112324/tm2626149d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112324</guid>
+      <pubDate>Wed, 30 Sep 2026 15:17:14 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Secures $4.35M senior OID convertible note with 1st-priority lien on US assets</scanner:headline>
+      <scanner:shortName>Baird Medical Investment</scanner:shortName>
+      <scanner:price>0.8000</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>BDMD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>33660000</scanner:marketCap>
+      <scanner:enterpriseValue>51770000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.11</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.47</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>7.02</scanner:fwdPE>
+      <scanner:fwdEvEbitda>6.35</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>2.42</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>85.63</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Secures $4.35M senior OID convertible note with 1st-priority lien on US assets&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a Securities Purchase Agreement to issue a senior 8% original issue discount convertible promissory note for US$4,347,826. The note is convertible into ordinary shares at a variable price and is secured by a first-priority perfected security interest in all equity interests of its US operating subsidiary and substantially all US assets. The company also issued 110,070 ordinary shares as an additional 2% OID.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Baird Medical Investment Holdings Limited, together with its subsidiaries, engages in research, development, manufacturing, and sales of microwave ablation and other medical devices in the People’s Republic of China. The company offers microwave ablation apparatus and needles; and long and fine microwave ablation needles for the treatment of benign and malignant tumors, including thyroid nodules, liver cancer, lung cancer, and breast lumps, and uterine fibroids, as well as soft tissue ablation.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; institutional investor&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; US$4,347,826&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.8000 · Mkt cap $33.7M · EV $51.8M · Fwd P/E 7.0x · Fwd EV/EBITDA 6.3x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1982444/000110465926112324/0001104659-26-112324-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BDMD, BDMDW&lt;/b&gt; · 6-K · Instruments / Medical Devices (3841) · prefill_form:6-K · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📤 Divestiture · RDHL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1553846/000110465926112334/rdhl-20260630x6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112334</guid>
+      <pubDate>Wed, 30 Sep 2026 15:17:02 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Sells interest in Talicia Holdings joint venture</scanner:headline>
+      <scanner:shortName>RedHill Biopharma</scanner:shortName>
+      <scanner:price>0.4900</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>RDHL</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2930000</scanner:marketCap>
+      <scanner:enterpriseValue>30000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.09</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>0.09</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>0.60</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells interest in Talicia Holdings joint venture&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed the sale of its interest in the Talicia Holdings joint venture on August 28, 2026. This transaction was disclosed as an operational highlight in the company&amp;#39;s first half 2026 financial results.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; RedHill Biopharma Ltd., a specialty biopharmaceutical company, primarily focuses on gastrointestinal and infectious diseases. The company develops and commercializes Talicia for the treatment of H. pylori infection in adults; and Aemcolo for the treatment of travelers’ diarrhea in adults. Its pipeline consists of five therapeutic candidates, which are in clinical development include opaganib for treating patients hospitalized with SARS-CoV-2 severe COVID-19 pneumonia, prostate cancer, nuclear ra…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.4900 · Mkt cap $2.9M · EV $30K · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1553846/000110465926112334/0001104659-26-112334-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RDHL&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · CMMB</title>
       <link>https://www.sec.gov/Archives/edgar/data/1534248/000117891326004676/zk2636151.htm</link>
@@ -16297,105 +16409,6 @@
 &lt;p&gt;&lt;i&gt;Px $110.38 · Mkt cap $3.64B · EV $3.77B · Fwd P/E 168.4x · Fwd EV/EBITDA 28.7x · Fwd EV/Sales 3.9x · Healthcare / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1388658/000138865826000080/0001388658-26-000080-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IRTC&lt;/b&gt; · 8-K · Items 7.01 · Instruments / Medical Devices (3841) · 8k_tier1:7.01 · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · DHTI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/725394/000168316826007291/dalrada_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-007291</guid>
-      <pubDate>Tue, 22 Sep 2026 16:05:10 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>busted_ma</category>
-      <category>8-K</category>
-      <scanner:headline>Faces $1.16M default demand from IBS; disputes</scanner:headline>
-      <scanner:shortName>Dalrada Technology</scanner:shortName>
-      <scanner:price>0.0084</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>DHTI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1015327</scanner:marketCap>
-      <scanner:enterpriseValue>20066561</scanner:enterpriseValue>
-      <scanner:fwdPE>0.84</scanner:fwdPE>
-      <scanner:fwdEvEbitda>8.36</scanner:fwdEvEbitda>
-      <scanner:fwdEvSales>0.80</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Faces $1.16M default demand from IBS; disputes&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Dalrada&amp;#39;s subsidiary Genefic terminated financing agreements with IBS, but IBS declared events of default and demanded $1.16M plus $875k collateral. Dalrada disputes the defaults and the asserted early termination fees.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; IBS Equity Fund III, LLC and IBS Private Credit Fund IV, LLC&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-16&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0084 · Mkt cap $1.0M · EV $20.1M · Fwd P/E 0.8x · Fwd EV/EBITDA 8.4x · Fwd EV/Sales 0.8x · Industrials / Industrial Conglomerates&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/725394/000168316826007291/0001683168-26-007291-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DHTI&lt;/b&gt; · 8-K · Items 1.02, 2.04, 8.01 · Business Services (7363) · 8k_tier1:1.02,2.04,8.01 · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · EQBK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1227500/000119312526398104/d20635d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-395695</guid>
-      <pubDate>Tue, 22 Sep 2026 16:04:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquires Lincoln Bancorp for ~$123.8M cash/stock; close Q4 2026</scanner:headline>
-      <scanner:shortName>EQUITY BANCSHARES</scanner:shortName>
-      <scanner:price>50.25</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>EQBK</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>425 x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1030650000</scanner:marketCap>
-      <scanner:fwdPE>9.67</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Lincoln Bancorp in all-stock merger; S-4 registration pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is acquiring Lincoln Bancorp in a proposed all-stock merger, issuing Class A common stock to Lincoln shareholders. The company intends to file an S-4 registration statement with a proxy statement/prospectus for Lincoln shareholder approval. The merger remains subject to regulatory and shareholder approvals.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Equity Bancshares, Inc. operates as the bank holding company for Equity Bank that provides a range of banking, mortgage banking, and financial services to individual and corporate customers. It accepts demand, savings, money market, and time deposits. The company’s loan products include commercial and industrial, commercial real estate, commercial lines of credit, working capital, term, equipment and aircraft financing, acquisition, expansion and development, borrowing base, real estate construc…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Lincoln Bancorp&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; S-4 filing and Lincoln shareholder vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $50.25 · Mkt cap $1.03B · Fwd P/E 9.7x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1227500/000119312526395695/0001193125-26-395695-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EQBK&lt;/b&gt; · 425 · Depository Institutions (6022) · prefill_form:425 · filed 2026-09-18&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 22 16:04 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1227500/000119312526398104/d20635d425.htm'&gt;Acquires Lincoln Bancorp for ~$123.8M cash/stock; close Q4 2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 18 16:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1227500/000119312526395695/d155452d425.htm'&gt;Acquires Lincoln Bancorp in all-stock merger; S-4 registration pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · TPVG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1580345/000121390026102233/0001213900-26-102233-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-102233</guid>
-      <pubDate>Tue, 22 Sep 2026 15:56:32 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Adviser TriplePoint Capital files 13D on 5.68% stake</scanner:headline>
-      <scanner:shortName>TriplePoint Venture Growth BDC</scanner:shortName>
-      <scanner:price>4.84</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Financial Services</scanner:sector>
-      <scanner:ticker>TPVG</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>197035059</scanner:marketCap>
-      <scanner:enterpriseValue>627216059</scanner:enterpriseValue>
-      <scanner:fwdPE>5.73</scanner:fwdPE>
-      <scanner:fwdEvEbitda>20.91</scanner:fwdEvEbitda>
-      <scanner:fwdEvSales>6.95</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Adviser TriplePoint Capital files 13D on 5.68% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D from its external investment adviser TriplePoint Capital LLC, which disclosed direct ownership of 2,312,354 shares (5.68%) of TPVG common stock. Related entities including Madera Ventures bring aggregate reported ownership to approximately 7.4%. No activist agenda stated; this is a related-party ownership disclosure.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; TriplePoint Capital LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.68%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-12-11&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $4.84 · Mkt cap $197.0M · EV $627.2M · Fwd P/E 5.7x · Fwd EV/EBITDA 20.9x · Fwd EV/Sales 6.9x · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1580345/000121390026102233/0001213900-26-102233-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TPVG&lt;/b&gt; · SCHEDULE 13D · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
