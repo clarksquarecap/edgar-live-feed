@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:21:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · FANG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1539838/000110465926112325/tm2626600d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112325</guid>
+      <pubDate>Wed, 30 Sep 2026 15:21:05 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Amends Stockholders Agreement, reducing Stephens board seats based on stake</scanner:headline>
+      <scanner:shortName>Diamondback Energy</scanner:shortName>
+      <scanner:price>183.76</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>FANG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>51510480000</scanner:marketCap>
+      <scanner:enterpriseValue>69747480000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>4.27</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>5.95</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>9.79</scanner:fwdPE>
+      <scanner:fwdEvEbitda>5.53</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>5.96</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>71.74</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Amends Stockholders Agreement, reducing Stephens board seats based on stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into an amendment to its Stockholders Agreement with SGF FANG Holdings, LP. The amendment stipulates that the Stephens Majority is entitled to designate two directors if their aggregate beneficial ownership is at least 10% but less than 25% of outstanding shares, and no directors if below 10%. In connection with a board stepdown, Darin Holderness and Lance Robertson resigned from the Board.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Diamondback Energy, Inc., an independent oil and natural gas company, acquires, develops, explores, and exploits unconventional, onshore oil and natural gas reserves in the Permian Basin in West Texas, the United States. The company primarily focuses on the development of the Spraberry and Wolfcamp formations of the Midland Basin; and the Wolfcamp and Bone Spring formations of the Delaware Basin, both of which are part of the Permian Basin in West Texas and New Mexico. Diamondback Energy, Inc.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; SGF FANG Holdings, LP&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10%-25%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $183.76 · Mkt cap $51.51B · EV $69.75B · Fwd P/E 9.8x · Fwd EV/EBITDA 5.5x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1539838/000110465926112325/0001104659-26-112325-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FANG&lt;/b&gt; · 8-K · Items 1.01, 5.02, 9.01 · Oil &amp;amp; Gas (1311) · 8k_tier1:1.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · INGN</title>
       <link>https://www.sec.gov/Archives/edgar/data/1294133/000129413326000037/ingn-20260928.htm</link>
@@ -16383,37 +16422,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.9800 · Mkt cap $47.6M · EV $25.6M · Fwd EV/Sales 21.4x · Healthcare / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1785530/000114036126037334/0001140361-26-037334-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HOWL&lt;/b&gt; · S-4 · Chemicals / Pharma (2834) · prefill_form:S-4 · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · NAMS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1936258/000123191926001215/0001231919-26-001215-index.htm</link>
-      <guid isPermaLink="false">0001231919-26-001215</guid>
-      <pubDate>Tue, 22 Sep 2026 16:10:03 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Discloses 6.1% stake</scanner:headline>
-      <scanner:shortName>NewAmsterdam Pharma Co</scanner:shortName>
-      <scanner:price>22.58</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Healthcare</scanner:sector>
-      <scanner:ticker>NAMS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2699149276</scanner:marketCap>
-      <scanner:enterpriseValue>2020968276</scanner:enterpriseValue>
-      <scanner:fwdEvSales>75.72</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Discloses 6.1% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Frazier Life Sciences X, L.P. and affiliated entities disclosed a 6.1% stake in NewAmsterdam Pharma Co N.V. (NAMS) as of September 18, 2026. The group holds 7,329,857 ordinary shares, including 500,333 shares issuable upon exercise of warrants. The filing is an amendment to Schedule 13D.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.1%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $22.58 · Mkt cap $2.70B · EV $2.02B · Fwd EV/Sales 75.7x · Healthcare / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1936258/000123191926001215/0001231919-26-001215-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NAMS, NAMSW&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
