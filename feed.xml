@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:06:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:08:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · BCO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/78890/000007889026000058/bco-20260930.htm</link>
+      <guid isPermaLink="false">0000078890-26-000058</guid>
+      <pubDate>Wed, 30 Sep 2026 15:08:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquisition of NCR Atleos on track for Q1 2027 close; proposes UK divestiture</scanner:headline>
+      <scanner:shortName>BRINKS CO</scanner:shortName>
+      <scanner:price>101.02</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>BCO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>4247480000</scanner:marketCap>
+      <scanner:enterpriseValue>7276380000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.33</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>5.02</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>10.78</scanner:fwdPE>
+      <scanner:fwdEvEbitda>6.75</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>5.07</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>26.43</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquisition of NCR Atleos on track for Q1 2027 close; proposes UK divestiture&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Brink&amp;#39;s Company announced that its acquisition of NCR Atleos Corporation remains on track to close early in the first quarter of 2027. This follows the UK CMA&amp;#39;s Phase 1 decision, which led Brink&amp;#39;s to propose the divestiture of its NoteMachine/TestLink UK business as a remedy. The company expects the divestiture will not impact the $200 million in annual run-rate cost synergies from the NCR Atleos acquisition.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The Brink&amp;#39;s Company provides cash and valuables management, digital retail solutions (DRS), and automated teller machines (ATM) managed services in North America, Latin America, Europe, and internationally. The company offers cash-in-transit services, such as armored vehicle transportation of cash and coin; cash replenishment and treasury management of automated teller machines; international transportation, pick-up, packaging, customs clearance, secure vault storage, and inventory management of…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; NCR Atleos Corporation&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; early in the first quarter of 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; CMA regulatory review completion; divestiture completion&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $101.02 · Mkt cap $4.25B · EV $7.28B · Fwd P/E 10.8x · Fwd EV/EBITDA 6.8x · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/78890/000007889026000058/0000078890-26-000058-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BCO&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Transportation Services (4731) · 8k_tier1:8.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Voluntary · FRSX</title>
       <link>https://www.sec.gov/Archives/edgar/data/1691221/000149315226045098/form6-k.htm</link>
@@ -16363,37 +16402,6 @@
 &lt;p&gt;&lt;i&gt;Px $65.83 · Mkt cap $1.12B · EV $1.44B · Fwd P/E 13.4x · Fwd EV/EBITDA 8.1x · Fwd EV/Sales 1.1x · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/97134/000080724926000086/0000807249-26-000086-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TNC&lt;/b&gt; · SCHEDULE 13D/A · Industrial Machinery (3580) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Lost · BYND</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1655210/000165521026000064/bynd-20260918.htm</link>
-      <guid isPermaLink="false">0001655210-26-000064</guid>
-      <pubDate>Tue, 22 Sep 2026 15:27:48 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
-      <category>8-K</category>
-      <scanner:headline>Loses trademark suit; $15.4M judgment, damages cut to $37.5K</scanner:headline>
-      <scanner:shortName>BEYOND MEAT</scanner:shortName>
-      <scanner:price>11.92</scanner:price>
-      <scanner:subtype>lost</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Defensive</scanner:sector>
-      <scanner:ticker>BYND</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>204951860</scanner:marketCap>
-      <scanner:enterpriseValue>441395860</scanner:enterpriseValue>
-      <scanner:fwdEvSales>1.81</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Loses trademark suit; $15.4M judgment, damages cut to $37.5K&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Was found liable for trademark infringement over the &amp;#39;Great Taste Plant-Based&amp;#39; tagline. The court reduced the jury&amp;#39;s actual damages from $23.5M to $37,500, kept the $15.4M disgorgement award, and entered judgment of $15,437,500. Both parties may pursue further motion practice or appeals.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Sonate Corporation (Vegadelphia Foods)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 15437500&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Possible appeals by either party&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $11.92 · Mkt cap $205.0M · EV $441.4M · Fwd EV/Sales 1.8x · Consumer Defensive / Food Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1655210/000165521026000064/0001655210-26-000064-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BYND&lt;/b&gt; · 8-K · Items 8.01 · Food &amp;amp; Kindred (2000) · 8k_tier1:8.01 · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
