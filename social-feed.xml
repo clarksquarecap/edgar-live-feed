@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:59:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:06:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VAL 🤝 Merger
+Acquired by Transocean for 15.235 shares per VAL share; HSR cleared; close Q4 2026
+stock
+Mcap $5.4B · EV $6.1B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/314808/000114036126038107/ef20093020_defa14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-038107</guid>
+      <pubDate>Wed, 30 Sep 2026 16:06:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SPKL 🤝 Merger
 Increases redemption price to $11.70/share for ZincFive merger
@@ -1224,25 +1235,6 @@ Mcap $62M · EV $65M · Industrials</title>
       <pubDate>Tue, 29 Sep 2026 16:06:54 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$VIP 🪙 Debt Restr.
-Exchanges $2.79M 2026 Notes for $2.83M 2030 Notes + warrants
-Mcap $57M · EV $94M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1844971/000162828026063839/gree-20260923.htm</link>
-      <guid isPermaLink="false">0001628280-26-063839</guid>
-      <pubDate>Tue, 29 Sep 2026 16:06:09 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$UTMD 💧 Capital Return · Self-tender
-Launches self-tender for 650,000 shares at $75.00/share; expires Oct 7
-Mcap $238M · EV $151M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/706698/000109690626001481/utah_sctoia.htm</link>
-      <guid isPermaLink="false">0001096906-26-001447</guid>
-      <pubDate>Tue, 29 Sep 2026 16:04:52 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
