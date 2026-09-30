@@ -6,25 +6,62 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 21:06:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:07:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
+      <title>📍 Stake · FBYD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1937987/000119312526409204/0001193125-26-409204-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-409204</guid>
+      <pubDate>Wed, 30 Sep 2026 16:07:44 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Infinite Acquisitions reports 26.71% stake in Falcon's Beyond Global</scanner:headline>
+      <scanner:shortName>Falcon's Beyond Global</scanner:shortName>
+      <scanner:price>8.45</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>FBYD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>406620000</scanner:marketCap>
+      <scanner:enterpriseValue>437510000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>20.22</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>31.15</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>31.05</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>64.93</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Infinite Acquisitions reports 26.71% stake in Falcon&amp;#39;s Beyond Global&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Infinite Acquisitions Partners LLC and Erudite Cria, Inc. reported a combined beneficial ownership of 13,113,249 shares, representing 26.71% of Falcon&amp;#39;s Beyond Global, Inc.&amp;#39;s Class A common stock. This includes 12,713,249 shares of Class A Common Stock, 150,000 shares received from earnout targets, and 250,000 Class A Earnout Shares held in escrow. The filing is an amendment to their Schedule 13D.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Falcon&amp;#39;s Beyond Global, Inc. operates as an entertainment company in the United States and internationally. It provides creative and advisory services including, destination strategy, master planning, experiential and attraction design, digital media, interactive software, IP development, and creative guardianship for entertainment and hospitality destinations.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 26.71%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $8.45 · Mkt cap $406.6M · EV $437.5M · Industrials / Professional Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1937987/000119312526409204/0001193125-26-409204-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FBYD, FBYDP, FBYDW&lt;/b&gt; · SCHEDULE 13D/A · Amusement / Recreation (7990) · amended_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>🤝 Merger · Definitive · VAL</title>
-      <link>https://www.sec.gov/Archives/edgar/data/314808/000114036126038107/ef20093020_defa14a.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/314808/000114036126038106/ef20083020_8k.htm</link>
       <guid isPermaLink="false">0001140361-26-038107</guid>
-      <pubDate>Wed, 30 Sep 2026 16:06:01 -0500</pubDate>
+      <pubDate>Wed, 30 Sep 2026 16:07:17 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Acquired by Transocean for 15.235 shares per VAL share; HSR cleared; close Q4 2026</scanner:headline>
+      <category>8-K</category>
+      <scanner:headline>Acquired by Transocean; HSR cleared; 15.235 RIG shares per VAL share; close Q4 2026</scanner:headline>
       <scanner:shortName>Valaris</scanner:shortName>
       <scanner:price>78.51</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
+      <scanner:form>8-K</scanner:form>
       <scanner:sector>Energy</scanner:sector>
       <scanner:ticker>VAL</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>DEFA14A, 8-K</scanner:filingForms>
       <scanner:related />
       <scanner:marketCap>5447240000</scanner:marketCap>
       <scanner:enterpriseValue>6068640000</scanner:enterpriseValue>
@@ -45,7 +82,50 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-02-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Remaining conditions to closing&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $78.51 · Mkt cap $5.45B · EV $6.07B · Fwd P/E 12.9x · Fwd EV/EBITDA 8.4x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/314808/000114036126038107/0001140361-26-038107-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VAL, VAL-WT&lt;/b&gt; · DEFA14A · Oil &amp;amp; Gas (1381) · prefill_form:DEFA14A · filed 2026-09-30&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VAL, VAL-WT&lt;/b&gt; · DEFA14A · Oil &amp;amp; Gas (1381) · prefill_form:DEFA14A · filed 2026-09-30&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 30 16:07 · &lt;a href='https://www.sec.gov/Archives/edgar/data/314808/000114036126038106/ef20083020_8k.htm'&gt;Acquired by Transocean; HSR cleared; 15.235 RIG shares per VAL share; close Q4 2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 30 16:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/314808/000114036126038107/ef20093020_defa14a.htm'&gt;Acquired by Transocean for 15.235 shares per VAL share; HSR cleared; close Q4 2026&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · D</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926112387/tm2626727d2_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-111074</guid>
+      <pubDate>Wed, 30 Sep 2026 16:06:35 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>Acquired by NextEra Energy; S-4 effective, proxy materials mailed</scanner:headline>
+      <scanner:shortName>DOMINION ENERGY</scanner:shortName>
+      <scanner:price>60.68</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Utilities</scanner:sector>
+      <scanner:ticker>D</scanner:ticker>
+      <scanner:filings>4</scanner:filings>
+      <scanner:filingForms>425 x4</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>53369630000</scanner:marketCap>
+      <scanner:enterpriseValue>112683630000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>6.22</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>13.45</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>16.55</scanner:fwdPE>
+      <scanner:fwdEvEbitda>11.77</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>13.45</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>46.22</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Merger with NextEra Energy progressing; S-4 effective&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is progressing its definitive business combination transaction with NextEra Energy. NextEra Energy filed an S-4 registration statement on July 9, 2026, which was declared effective by the SEC on July 23, 2026. A definitive joint proxy statement/prospectus was filed and mailed around July 28, 2026. This communication includes a social media post from NextEra Energy highlighting a third-party&amp;#39;s planned expansion if the combination is completed.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Dominion Energy, Inc. provides regulated electricity and natural gas services in the United States. It operates through Dominion Energy Virginia, Dominion Energy South Carolina, and Contracted Energy segments. The Dominion Energy Virginia segment engages in the generation, distribution, and transmission of electricity to approximately 2.8 million residential, commercial, industrial, and governmental customers in Virginia and North Carolina.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; NextEra Energy, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-09&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $60.68 · Mkt cap $53.37B · EV $112.68B · Fwd P/E 16.6x · Fwd EV/EBITDA 11.8x · Utilities / Multi-Utilities&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/715957/000110465926111074/0001104659-26-111074-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;D&lt;/b&gt; · 425 · Utilities (4911) · prefill_form:425 · filed 2026-09-28&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 30 16:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/715957/000110465926112387/tm2626727d2_425.htm'&gt;Acquired by NextEra Energy; S-4 effective, proxy materials mailed&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 30 16:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/715957/000110465926112389/tm2626727d1_425.htm'&gt;Combination with NextEra Energy progressing; new Richmond co-HQ planned&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 29 16:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/715957/000110465926111985/tm2626617d1_425.htm'&gt;Acquired by NextEra Energy; shareholders approved; close H2 2027&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 28 05:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/715957/000110465926111074/tm2624792d3_425.htm'&gt;Merger with NextEra Energy progressing; S-4 effective&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · SPKL</title>
@@ -4112,47 +4192,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.5000 · Mkt cap $52.4M · EV $168.7M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1400438/000106299326005110/0001062993-26-005110-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LGO&lt;/b&gt; · 6-K · Mining; Nonmetallic (1400) · prefill_form:6-K · filed 2026-09-29&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · D</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926111985/tm2626617d1_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-111074</guid>
-      <pubDate>Tue, 29 Sep 2026 16:21:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquired by NextEra Energy; shareholders approved; close H2 2027</scanner:headline>
-      <scanner:shortName>DOMINION ENERGY</scanner:shortName>
-      <scanner:price>60.68</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Utilities</scanner:sector>
-      <scanner:ticker>D</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>425 x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>53369630000</scanner:marketCap>
-      <scanner:enterpriseValue>112683630000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>6.22</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>13.45</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>16.55</scanner:fwdPE>
-      <scanner:fwdEvEbitda>11.77</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>13.45</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>46.22</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Merger with NextEra Energy progressing; S-4 effective&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is progressing its definitive business combination transaction with NextEra Energy. NextEra Energy filed an S-4 registration statement on July 9, 2026, which was declared effective by the SEC on July 23, 2026. A definitive joint proxy statement/prospectus was filed and mailed around July 28, 2026. This communication includes a social media post from NextEra Energy highlighting a third-party&amp;#39;s planned expansion if the combination is completed.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Dominion Energy, Inc. provides regulated electricity and natural gas services in the United States. It operates through Dominion Energy Virginia, Dominion Energy South Carolina, and Contracted Energy segments. The Dominion Energy Virginia segment engages in the generation, distribution, and transmission of electricity to approximately 2.8 million residential, commercial, industrial, and governmental customers in Virginia and North Carolina.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; NextEra Energy, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-09&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $60.68 · Mkt cap $53.37B · EV $112.68B · Fwd P/E 16.6x · Fwd EV/EBITDA 11.8x · Utilities / Multi-Utilities&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/715957/000110465926111074/0001104659-26-111074-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;D&lt;/b&gt; · 425 · Utilities (4911) · prefill_form:425 · filed 2026-09-28&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 29 16:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/715957/000110465926111985/tm2626617d1_425.htm'&gt;Acquired by NextEra Energy; shareholders approved; close H2 2027&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 28 05:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/715957/000110465926111074/tm2624792d3_425.htm'&gt;Merger with NextEra Energy progressing; S-4 effective&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · INM</title>
@@ -16523,29 +16562,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2006986/000110465926109821/0001104659-26-109821-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ADGM&lt;/b&gt; · 8-K · Items 2.05, 8.01, 9.01 · Instruments / Medical Devices (3841) · 8k_tier1:2.05,8.01 · filed 2026-09-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔎 Strategic Review · Formal Alternatives · VBIO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1787740/000168316826007300/valion_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-007300</guid>
-      <pubDate>Wed, 23 Sep 2026 07:06:20 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-      <category>8-K</category>
-      <scanner:headline>Appoints interim CEO; evaluates strategic alternatives</scanner:headline>
-      <scanner:shortName>Valion Bio</scanner:shortName>
-      <scanner:subtype>formal_alternatives</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>VBIO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Appoints interim CEO; evaluates strategic alternatives&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Appointed Dean Zikria as Interim CEO and announced board leadership changes. The company is evaluating strategic, commercial and government opportunities, and the interim CEO is eligible for a cash bonus upon closing of a strategic transaction (reverse merger, merger, or acquisition).&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1787740/000168316826007300/0001683168-26-007300-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VBIO&lt;/b&gt; · 8-K · Items 5.02, 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01 · filed 2026-09-23&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

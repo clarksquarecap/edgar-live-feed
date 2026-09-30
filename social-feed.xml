@@ -6,16 +6,36 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 21:06:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:07:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
+      <title>$FBYD 📍 Stake
+Infinite Acquisitions reports 26.71% stake in Falcon's Beyond Global
+Mcap $407M · EV $438M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1937987/000119312526409204/0001193125-26-409204-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-409204</guid>
+      <pubDate>Wed, 30 Sep 2026 16:07:44 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
       <title>$VAL 🤝 Merger
-Acquired by Transocean for 15.235 shares per VAL share; HSR cleared; close Q4 2026
+Acquired by Transocean; HSR cleared; 15.235 RIG shares per VAL share; close Q4 2026
 stock
 Mcap $5.4B · EV $6.1B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/314808/000114036126038107/ef20093020_defa14a.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/314808/000114036126038106/ef20083020_8k.htm</link>
       <guid isPermaLink="false">0001140361-26-038107</guid>
-      <pubDate>Wed, 30 Sep 2026 16:06:01 -0500</pubDate>
+      <pubDate>Wed, 30 Sep 2026 16:07:17 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$D 🤝 Merger
+Acquired by NextEra Energy; S-4 effective, proxy materials mailed
+empty
+Mcap $53B · EV $113B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926112387/tm2626727d2_425.htm</link>
+      <guid isPermaLink="false">0001104659-26-111074</guid>
+      <pubDate>Wed, 30 Sep 2026 16:06:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -1186,17 +1206,6 @@ Mcap $52M · EV $169M · Materials</title>
       <category>DEBT_RESTRUCTURING</category>
     </item>
     <item>
-      <title>$D 🤝 Merger
-Acquired by NextEra Energy; shareholders approved; close H2 2027
-empty
-Mcap $53B · EV $113B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926111985/tm2626617d1_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-111074</guid>
-      <pubDate>Tue, 29 Sep 2026 16:21:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
       <title>$INM 🤝 Merger
 Acquires Mentari Therapeutics for ~2.0065 INM shares/Mentari share; redomiciles to Nevada
 stock
@@ -1215,26 +1224,6 @@ Mcap $1.3B · EV $2.4B · Real Estate</title>
       <guid isPermaLink="false">0000902664-26-003971</guid>
       <pubDate>Tue, 29 Sep 2026 16:08:14 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$GME 👀 Activist
-Increases stake in GameStop to 8.8% via open market purchases
-Mcap $12B · EV $11B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326380/000092189526002669/0000921895-26-002669-index.htm</link>
-      <guid isPermaLink="false">0000921895-26-002669</guid>
-      <pubDate>Tue, 29 Sep 2026 16:07:50 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$SGLA 🤝 Merger
-Acquires Xing Da Plastics (60%) &amp; Invent Fortune (100%) for 41.3M shares
-stock
-Mcap $62M · EV $65M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1433551/000149315226044888/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044888</guid>
-      <pubDate>Tue, 29 Sep 2026 16:06:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
