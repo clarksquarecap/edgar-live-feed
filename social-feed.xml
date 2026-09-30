@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:49:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MCY 👀 Activist
+Joseph discloses 35.3% stake, seeks strategic review, M&amp;A, board changes
+Mcap $5.5B · EV $4.8B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/64996/000119312526409121/0001193125-26-409121-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-409121</guid>
+      <pubDate>Wed, 30 Sep 2026 15:49:11 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$MSGS 🪓 Spinoff
+Approves spin-off of MSGS Spinco; record Oct 20, distribute Oct 26
+Mcap $10.0B · EV $11B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1636519/000119312526409143/d126791d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-409143</guid>
+      <pubDate>Wed, 30 Sep 2026 15:47:27 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$WETH 💧 Capital Return · Special Div
 Provides update on previously announced special cash dividend of up to $0.5M
@@ -1228,25 +1246,6 @@ Mcap $23M · EV $22M · Financials</title>
       <guid isPermaLink="false">0001213900-26-104723</guid>
       <pubDate>Tue, 29 Sep 2026 15:49:30 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$CICB 📤 Divestiture
-Sells $180M loan portfolio to Senior Loan Fund Partners JV; repays $315M debt
-$180.0 million deal
-Mcap $348M · EV $1.5B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1534254/000110465926111961/tm2626587d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111961</guid>
-      <pubDate>Tue, 29 Sep 2026 15:49:08 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BSAA 📦 Going Private
-Control of 80% stake transferred to A SPAC (Holdings) Group Corp.
-Mcap $23M · EV $22M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2051587/000121390026104725/ea0306891-8k_bestspac1.htm</link>
-      <guid isPermaLink="false">0001213900-26-104725</guid>
-      <pubDate>Tue, 29 Sep 2026 15:48:09 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
   </channel>
 </rss>

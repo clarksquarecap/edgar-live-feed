@@ -6,8 +6,83 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:49:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · MCY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/64996/000119312526409121/0001193125-26-409121-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-409121</guid>
+      <pubDate>Wed, 30 Sep 2026 15:49:11 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Joseph discloses 35.3% stake, seeks strategic review, M&amp;A, board changes</scanner:headline>
+      <scanner:shortName>MERCURY GENERAL</scanner:shortName>
+      <scanner:price>98.83</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>MCY</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>5531660000</scanner:marketCap>
+      <scanner:enterpriseValue>4792960000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.76</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.82</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>8.25</scanner:fwdPE>
+      <scanner:fwdEvGrossProfit>2.79</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>26.81</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Joseph discloses 35.3% stake, seeks strategic review, M&amp;amp;A, board changes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Vicky Wai Yee Joseph, a director, disclosed a 35.3% beneficial ownership stake in Mercury General Corporation. The Reporting Person intends to engage with management and the board to explore extraordinary corporate transactions, including mergers, reorganizations, take-private transactions, asset sales, and changes to capitalization, dividend policy, or board composition.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Mercury General Corporation, together with its subsidiaries, engages in writing personal automobile insurance in the United States. It also writes homeowners, commercial automobile, commercial property, mechanical protection, and umbrella insurance products. The company’s automobile insurance products include collision, property damage, bodily injury, comprehensive, personal injury protection, underinsured and uninsured motorist, and other hazards; and homeowners insurance products comprise dwel…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 35.3%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-26&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $98.83 · Mkt cap $5.53B · EV $4.79B · Fwd P/E 8.2x · Financials / Insurance&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/64996/000119312526409121/0001193125-26-409121-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MCY&lt;/b&gt; · SCHEDULE 13D · Insurance (6331) · fresh_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🧬 Spin-Off · MSGS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1636519/000119312526409143/d126791d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-409143</guid>
+      <pubDate>Wed, 30 Sep 2026 15:47:27 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Approves spin-off of MSGS Spinco; record Oct 20, distribute Oct 26</scanner:headline>
+      <scanner:shortName>Madison Square Garden Sports</scanner:shortName>
+      <scanner:price>405.38</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>MSGS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>9965240000</scanner:marketCap>
+      <scanner:enterpriseValue>10961040000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>9.50</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>28.27</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>28.42</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>33.60</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Approves spin-off of MSGS Spinco; record Oct 20, distribute Oct 26&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Approved the spin-off of MSGS Spinco, Inc., distributing one share of MSGS Spinco Class A common stock for every two shares of its own Class A common stock held. The record date for the distribution is October 20, 2026, with the distribution effective on October 26, 2026. Post-spin, the parent will rename to MSG Knickerbockers Corp. (MSGK) and the spin-off will be MSG Rangers Corp. (MSGR), both trading on NYSE.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Madison Square Garden Sports Corp. operates as a professional sports company in the United States. It owns and operates a portfolio of assets that consists of the New York Knickerbockers of the National Basketball Association (NBA) and the New York Rangers of the National Hockey League. The company’s other professional franchises include development league teams, the Hartford Wolf Pack of the American Hockey League and the Westchester Knicks of the NBA G League.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-26&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-26&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $405.38 · Mkt cap $9.97B · EV $10.96B · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1636519/000119312526409143/0001193125-26-409143-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MSGS&lt;/b&gt; · 8-K · Items 1.01, 5.02, 7.01, 8.01, 9.01 · Amusement / Recreation (7990) · 8k_tier1:1.01,7.01,8.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Special Dividend · WETH</title>
       <link>https://www.sec.gov/Archives/edgar/data/1826660/000121390026105275/ea0307194-8k_wetouch.htm</link>
@@ -16434,63 +16509,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;S-4/A · Sep 23 05:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2097508/000118518526004213/bldcs4a4091826.htm'&gt;Acquires Blue Acquisition Corp. in $450M stock merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 22 05:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004183/bacc8k425092026.htm'&gt;Amends BCA with Blockfusion: earnout up to 15M shares, new warrant terms&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 22 05:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004185/bacc8k425092026.htm'&gt;Amends Blockfusion deal: earnout up to 15M shares, CoreWeave warrant adjusted&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;Counterparty BLDC also filed S-4/A&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · DXLG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/813298/000119312526398319/d76201dprer14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-398319</guid>
-      <pubDate>Wed, 23 Sep 2026 05:05:47 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>PRER14A</category>
-      <scanner:headline>Board opposes FBB merger; recommends 'no' on 55% stock issuance</scanner:headline>
-      <scanner:shortName>DESTINATION XL</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>PRER14A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>DXLG</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>PRER14A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Board opposes FBB merger; recommends &amp;#39;no&amp;#39; on 55% stock issuance&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Destination XL Group&amp;#39;s board determined the merger with FBB Holdings is no longer advisable due to FBB&amp;#39;s declining performance, increased debt, and dilution to DXL stockholders. The board recommends voting against the issuance proposal, but is contractually obligated to submit it. The special meeting will vote on the issuance, reverse stock split, and incentive plan amendment; FBB stockholders would receive 55% of the combined company.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; FBB Holdings I, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-12-11&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/813298/000119312526398319/0001193125-26-398319-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DXLG&lt;/b&gt; · PRER14A · Retail; Apparel (5651) · prefill_form:PRER14A · filed 2026-09-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · KUST</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1342958/000149315226043769/formdefr14a.htm</link>
-      <guid isPermaLink="false">0001493152-26-042812</guid>
-      <pubDate>Wed, 23 Sep 2026 05:05:09 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFR14A</category>
-      <scanner:headline>Acquires TFL, LLC; issues &gt;20% shares, change of control</scanner:headline>
-      <scanner:shortName>KUSTOM ENTERTAINMENT</scanner:shortName>
-      <scanner:price>0.5800</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFR14A</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>KUST</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>PRER14A x2, DEFR14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3780000</scanner:marketCap>
-      <scanner:enterpriseValue>4880000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires TFL, LLC; 20%+ share issuance, change of control; vote Oct 5&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a Unit Purchase Agreement with TFL, LLC and certain sellers to acquire a business, requiring shareholder approval for issuance of 20%+ of outstanding shares and resulting in a change of control. The annual meeting is scheduled for October 5, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Kustom Entertainment, Inc. produces and sells digital video imaging, storage, and disinfectant and related safety products for use in law enforcement, security, and commercial applications in the United States. It operates through two segments: Video Solutions and Entertainment. The company offers in-car digital video mirror systems for law enforcement; in-car digital video event recorder systems for commercial fleets and fleet managers; a suite of data management web-based tools to assist fleet…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; TFL, LLC&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on October 5, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.5800 · Mkt cap $3.8M · EV $4.9M · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1342958/000149315226042812/0001493152-26-042812-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KUST&lt;/b&gt; · PRER14A · Electronic Equipment (3663) · prefill_form:PRER14A · filed 2026-09-16&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFR14A · Sep 23 05:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1342958/000149315226043769/formdefr14a.htm'&gt;Acquires TFL, LLC; issues &amp;gt;20% shares, change of control&lt;/a&gt;&lt;/li&gt;&lt;li&gt;PRER14A · Sep 18 13:44 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1342958/000149315226043302/formprer14a.htm'&gt;Acquires TFL, LLC; issues 20%+ shares, change of control; vote Oct 5&lt;/a&gt;&lt;/li&gt;&lt;li&gt;PRER14A · Sep 16 05:14 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1342958/000149315226042812/formprer14a.htm'&gt;Acquires TFL, LLC; 20%+ share issuance, change of control; vote Oct 5&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
