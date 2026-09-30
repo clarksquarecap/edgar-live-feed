@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 12:25:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:26:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔐 Going Private · ITGR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1114483/000095010326014831/dp254070_8k.htm</link>
+      <guid isPermaLink="false">0000950103-26-014831</guid>
+      <pubDate>Wed, 30 Sep 2026 07:25:50 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Acquired by KKR affiliate; HSR cleared; shareholder vote Oct 21</scanner:headline>
+      <scanner:shortName>Integer Holdings</scanner:shortName>
+      <scanner:price>126.33</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>ITGR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>4294220000</scanner:marketCap>
+      <scanner:enterpriseValue>5637370000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>3.06</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>11.73</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>18.87</scanner:fwdPE>
+      <scanner:fwdEvEbitda>13.64</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>11.71</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>26.08</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by KKR affiliate; HSR cleared; shareholder vote Oct 21&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received early HSR termination for its merger with Armstrong Parent, Inc., an affiliate of Kohlberg Kravis Roberts &amp;amp; Co. L.P. The company will become a wholly-owned subsidiary of Parent. A special shareholder meeting to approve the merger is scheduled for October 21, 2026, with closing expected by year-end 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Integer Holdings Corporation operates as a medical device contract development and manufacturing company in the United States, Costa Rica, Puerto Rico, Ireland, and internationally. The company offers products for interventional cardiology, structural heart, heart failure, peripheral vascular, neurovascular, interventional oncology, electrophysiology, vascular access, infusion therapy, hemodialysis, non-vascular, urology, and gastroenterology procedures.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Armstrong Parent, Inc. (KKR affiliate)&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; end of calendar year 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-21&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $126.33 · Mkt cap $4.29B · EV $5.64B · Fwd P/E 18.9x · Fwd EV/EBITDA 13.6x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1114483/000095010326014831/0000950103-26-014831-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ITGR&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Instruments / Medical Devices (3845) · 8k_tier1:8.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · LND</title>
       <link>https://www.sec.gov/Archives/edgar/data/1499849/000121390026104904/ea0307156-6k_brasil.htm</link>
@@ -16268,36 +16307,6 @@
 &lt;p&gt;&lt;i&gt;Px $22.76 · Mkt cap $11.42B · EV $10.69B · Fwd P/E 14.1x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1326380/000092189526002607/0000921895-26-002607-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GME, GME-WT&lt;/b&gt; · SCHEDULE 13D/A · Retail; Furniture (5734) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · RAKR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1872292/000149315226043601/0001493152-26-043601-index.htm</link>
-      <guid isPermaLink="false">0001493152-26-043601</guid>
-      <pubDate>Mon, 21 Sep 2026 16:36:03 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Amends 13D to add 264K option shares; holds 16.2%</scanner:headline>
-      <scanner:shortName>Rainmaker Worldwide</scanner:shortName>
-      <scanner:price>0.0100</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Utilities</scanner:sector>
-      <scanner:ticker>RAKR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>510000</scanner:marketCap>
-      <scanner:enterpriseValue>5420000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Amends 13D to add 264K option shares; holds 16.2%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Michael John O&amp;#39;Connor and Larchwood Management Partners Inc. amended their Schedule 13D to correct an omission of 264,000 shares issuable upon exercise of a stock option. O&amp;#39;Connor directly holds 16.2% and Larchwood holds 5.4% of Rainmaker Worldwide&amp;#39;s common stock. The amendment also details prior conversions, gifts, and sales.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Rainmaker Worldwide Inc. engages in the specialization of freshwater production in the Caribbean. The company provides purification technologies, which include air-to-water, which extracts water from humidity; and water-to-water that transforms contaminated water into clean water. Rainmaker Worldwide Inc. was founded in 1998 and is based in Las Vegas, Nevada.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 16.2%&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $510K · EV $5.4M · Utilities / Water Utilities&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1872292/000149315226043601/0001493152-26-043601-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RAKR&lt;/b&gt; · SCHEDULE 13D/A · Food &amp;amp; Kindred (2086) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
