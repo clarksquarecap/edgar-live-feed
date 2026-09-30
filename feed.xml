@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 00:45:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:52:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · TBN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1997652/000119312526408033/0001193125-26-408033-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-408033</guid>
+      <pubDate>Tue, 29 Sep 2026 19:52:00 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Reports 10.4% stake in Tamboran Resources</scanner:headline>
+      <scanner:shortName>Tamboran Resources</scanner:shortName>
+      <scanner:price>33.02</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>TBN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1431930000</scanner:marketCap>
+      <scanner:enterpriseValue>1471420000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Reports 10.4% stake in Tamboran Resources&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Bryan Sheffield and affiliated entities reported a beneficial ownership of 3,646,756 shares, representing 10.4% of Tamboran Resources Corporation&amp;#39;s common stock. This filing is Amendment No. 7 to their initial Schedule 13D.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Tamboran Resources Corporation, a natural gas company, engages in developing unconventional gas resources in the Northern Territory of Australia. Its assets include a 25% non-operated working interest in EP 161; a 61.25% working interest in EPs 76, 98, and 117; and a 100% working interest in EPs 136 and 143, located in the Betaloo Basin. The company was founded in 2009 and is headquartered in Sydney, Australia.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10.4%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $33.02 · Mkt cap $1.43B · EV $1.47B · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1997652/000119312526408033/0001193125-26-408033-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TBN, TBNRL&lt;/b&gt; · SCHEDULE 13D/A · Oil &amp;amp; Gas (1311) · fresh_13d · filed 2026-09-29&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · GPI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1031203/000090514826004293/0000905148-26-004293-index.htm</link>
@@ -16173,39 +16204,6 @@
 &lt;p&gt;&lt;i&gt;Px $11.77 · Mkt cap $3.82B · EV $4.16B · Fwd EV/EBITDA 69.3x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2007191/000162828026062813/0001628280-26-062813-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TLX, TLPPF&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔐 Going Private · PRTH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1653558/000121390026101651/ea0306047-8k_priority.htm</link>
-      <guid isPermaLink="false">0001213900-26-101651</guid>
-      <pubDate>Mon, 21 Sep 2026 06:44:26 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Acquired by CEO-led WD Capital for $8.05 cash/share</scanner:headline>
-      <scanner:shortName>Priority Technology</scanner:shortName>
-      <scanner:price>5.83</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>PRTH</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>480630000</scanner:marketCap>
-      <scanner:enterpriseValue>1416280000</scanner:enterpriseValue>
-      <scanner:fwdPE>4.63</scanner:fwdPE>
-      <scanner:fwdEvEbitda>5.73</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by CEO-led WD Capital for $8.05 cash/share&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a merger agreement to be acquired by WD Capital Partners Parent Inc., an entity controlled by CEO Thomas C. Priore, for $8.05 per share in cash. The special committee of independent directors approved the deal, with Barclays providing a fairness opinion. The merger is subject to stockholder approval and regulatory approvals.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Priority Technology Holdings, Inc. operates as a payment technology company in the United States. The company operates through three segments: Merchant Solutions, Payables, and Treasury Solutions. The company offers merchant solutions, such as full-service acquiring and payment-enabled solutions for B2C transactions, leveraging proprietary software platform, distributed through independent sales organizations, direct sales, and vertically focused independent software vendors channels.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; WD Capital Partners Parent Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 8.05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.83 · Mkt cap $480.6M · EV $1.42B · Fwd P/E 4.6x · Fwd EV/EBITDA 5.7x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1653558/000121390026101651/0001213900-26-101651-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PRTH, PRTHU&lt;/b&gt; · 8-K · Items 1.01, 5.02, 8.01, 9.01 · Business Services (7389) · 8k_tier1:1.01,8.01 · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
