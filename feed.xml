@@ -6,8 +6,80 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 21:40:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:41:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Lost · LQDA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1819576/000110465926112420/tm2626740d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112420</guid>
+      <pubDate>Wed, 30 Sep 2026 16:40:57 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>lost</category>
+      <category>8-K</category>
+      <scanner:headline>Lost patent infringement ruling to United Therapeutics on YUTREPIA claims</scanner:headline>
+      <scanner:shortName>Liquidia</scanner:shortName>
+      <scanner:price>30.26</scanner:price>
+      <scanner:subtype>lost</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>LQDA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>6327380000</scanner:marketCap>
+      <scanner:enterpriseValue>6226100000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>13.81</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>14.92</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>16.77</scanner:fwdPE>
+      <scanner:fwdEvEbitda>13.07</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>15.56</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>92.54</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Lost patent infringement ruling to United Therapeutics on YUTREPIA claims&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced a District Court ruled that two claims of United Therapeutics&amp;#39; &amp;#39;327 patent are valid and infringed by Liquidia&amp;#39;s YUTREPIA. The claims cover treatment of PH-ILD patients with inhaled treprostinil. The parties must submit proposed remedies within one week, which could include removing the PH-ILD indication or broader product restrictions. Liquidia plans to appeal and remove PH-ILD from YUTREPIA&amp;#39;s label.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Liquidia Corporation, a biopharmaceutical company, develops, manufactures, and commercializes various products for rare cardiopulmonary diseases in the United States. The company’s lead product candidates include YUTREPIA, an inhaled dry powder formulation of treprostinil for the treatment of pulmonary arterial hypertension (PAH) and pulmonary hypertension associated with interstitial lung disease (PH-ILD).&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; United Therapeutics Corporation&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Submission of proposed remedies within one week&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $30.26 · Mkt cap $6.33B · EV $6.23B · Fwd P/E 16.8x · Fwd EV/EBITDA 13.1x · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1819576/000110465926112420/0001104659-26-112420-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LQDA&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📤 Divestiture · LAB</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1162194/000114036126038110/ef20082995_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-038111</guid>
+      <pubDate>Wed, 30 Sep 2026 16:40:45 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells mass cytometry business to Element Biosystems for $5.5M cash</scanner:headline>
+      <scanner:shortName>STANDARD BIOTOOLS</scanner:shortName>
+      <scanner:price>0.7400</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>LAB</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425, 8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>280030000</scanner:marketCap>
+      <scanner:fwdEvEbitda>4.35</scanner:fwdEvEbitda>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells mass cytometry business to Element Biosystems for $5.5M cash&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive agreement to sell its mass cytometry business to Element Biosystems, LLC, a subsidiary of GMT Venture Partners, LLC, for $5.5 million in cash. This agreement follows the termination of a prior purchase agreement with Multiplex Bio Inc., for which Standard BioTools will pay a $1.5 million termination fee, partially covered by GMT Venture. The transaction is subject to stockholder approval and other customary closing conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Standard BioTools Inc., together with its subsidiaries, develops, manufactures, and sells a range of instrumentation, consumables, and services to scientists and biomedical researchers to develop therapeutics in the Americas, Europe, the Middle East, Africa, and the Asia pacific. The company operates through Proteomics and Genomics segments. Its proteomics and genomics include instruments, consumables, and assays for clinical and diagnostic uses.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Element Biosystems, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5.5 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; June 30, 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; stockholder approval&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.7400 · Mkt cap $280.0M · EV $-168.6M · Fwd EV/EBITDA 4.3x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1162194/000114036126038111/0001140361-26-038111-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LAB&lt;/b&gt; · 425 · Chemicals / Pharma (2834) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 30 16:40 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1162194/000114036126038110/ef20082995_8k.htm'&gt;Sells mass cytometry business to Element Biosystems for $5.5M cash&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 30 16:39 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1162194/000114036126038111/ef20082995_425.htm'&gt;Sells mass cytometry business to Element Biosystems for $5.5M cash&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · CLGN</title>
       <link>https://www.sec.gov/Archives/edgar/data/1631487/000121390026105352/ea0306778-6k_collplant.htm</link>
@@ -72,37 +144,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WKEY, WSKEF&lt;/b&gt; · 6-K · Business Services (7374) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Sep 30 16:39 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026105356/ea0306423-6k_wisekey.htm'&gt;Shareholders approve redomiciliation; direct Nasdaq/SIX listing as WISeQey (WQEY) expected Oct&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 28 07:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026103764/ea0306757-6k_wisekey.htm'&gt;Redomiciliation to British Virgin Islands effective Oct 2; new ticker WQEY&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 25 15:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026103517/ea0306680-6k_wisekey.htm'&gt;Reports Class B share election results for BVI redomiciliation merger&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · LAB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1162194/000114036126038111/ef20082995_425.htm</link>
-      <guid isPermaLink="false">0001140361-26-038111</guid>
-      <pubDate>Wed, 30 Sep 2026 16:39:21 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>425</category>
-      <scanner:headline>Sells mass cytometry business to Element Biosystems for $5.5M cash</scanner:headline>
-      <scanner:shortName>STANDARD BIOTOOLS</scanner:shortName>
-      <scanner:price>0.7400</scanner:price>
-      <scanner:subtype />
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>LAB</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>280030000</scanner:marketCap>
-      <scanner:fwdEvEbitda>4.35</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells mass cytometry business to Element Biosystems for $5.5M cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into a definitive agreement to sell its mass cytometry business to Element Biosystems, LLC, a subsidiary of GMT Venture Partners, LLC, for $5.5 million in cash. This agreement follows the termination of a prior purchase agreement with Multiplex Bio Inc., for which Standard BioTools will pay a $1.5 million termination fee, partially covered by GMT Venture. The transaction is subject to stockholder approval and other customary closing conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Standard BioTools Inc., together with its subsidiaries, develops, manufactures, and sells a range of instrumentation, consumables, and services to scientists and biomedical researchers to develop therapeutics in the Americas, Europe, the Middle East, Africa, and the Asia pacific. The company operates through Proteomics and Genomics segments. Its proteomics and genomics include instruments, consumables, and assays for clinical and diagnostic uses.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Element Biosystems, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5.5 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; June 30, 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; stockholder approval&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.7400 · Mkt cap $280.0M · EV $-168.6M · Fwd EV/EBITDA 4.3x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1162194/000114036126038111/0001140361-26-038111-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LAB&lt;/b&gt; · 425 · Chemicals / Pharma (2834) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · Mediobanca - Banca di Credito Finanziario SpA</title>
@@ -16657,33 +16698,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2092574/000110465926109988/0001104659-26-109988-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SWMR&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7372) · fresh_13d · filed 2026-09-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Settled · RGNX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/873303/000119312526399416/srpt-20260923.htm</link>
-      <guid isPermaLink="false">0001193125-26-399377</guid>
-      <pubDate>Wed, 23 Sep 2026 15:23:26 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-      <category>8-K</category>
-      <scanner:headline>Settles patent litigation with REGENXBIO for $39M</scanner:headline>
-      <scanner:shortName>REGENXBIO</scanner:shortName>
-      <scanner:subtype>settled</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>RGNX</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related>SRPT</scanner:related>
-      <description>&lt;p&gt;&lt;b&gt;Settles patent litigation with Sarepta for $39M cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;REGENXBIO and UPenn settled all patent infringement litigation with Sarepta and Catalent over ELEVIDYS (SRP-9001). Sarepta will pay REGENXBIO $39.0 million within 10 days; all claims released with a covenant not to sue on AAVrh74-based capsid products.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Sarepta Therapeutics, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $39.0 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1590877/000119312526399377/0001193125-26-399377-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RGNX&lt;/b&gt; · 8-K · Items 1.01 · Chemicals / Pharma (2836) · 8k_tier1:1.01 · filed 2026-09-23&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 23 15:23 · &lt;a href='https://www.sec.gov/Archives/edgar/data/873303/000119312526399416/srpt-20260923.htm'&gt;Settles patent litigation with REGENXBIO for $39M&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 23 15:14 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1590877/000119312526399377/rgnx-20260923.htm'&gt;Settles patent litigation with Sarepta for $39M cash&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty SRPT also filed 8-K&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
