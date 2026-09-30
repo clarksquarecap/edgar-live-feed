@@ -6,8 +6,40 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 10:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:08:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · SAIH</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847075/000121390026104816/ea0306713-6k_saiheat.htm</link>
+      <guid isPermaLink="false">0001213900-26-104816</guid>
+      <pubDate>Wed, 30 Sep 2026 05:08:00 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Acquires Canopy Wave in reverse merger for 3.3M shares + $4.5M PIPE</scanner:headline>
+      <scanner:shortName>SAIHEAT</scanner:shortName>
+      <scanner:price>30.82</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>SAIH</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>56470000</scanner:marketCap>
+      <scanner:enterpriseValue>56510000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>12.50</scanner:evSalesLtm>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Canopy Wave in reverse merger for 3.3M shares + $4.5M PIPE&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited announced it is acquiring Canopy Wave Inc. in a reverse merger, issuing 3,306,269 ordinary shares to Canopy Wave sellers and raising approximately $4.5 million from PIPE investors at $18.15 per share. The aggregate merger consideration is based on a pre-money equity valuation of Canopy Wave of $60.0 million and SAIHEAT of $40.0 million. Post-closing, former Canopy Wave stockholders will hold approximately 54.19% of economic interests and 78.44% of voting power, and Canopy Wave&amp;#39;s management will lead the combined company.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SAIHEAT Limited engages in the development of liquid cooling technologies for cryptocurrency assets. It provides SAIHUB CAB, an indoor cabinet that turns traditional air-cooled bitcoin mining machines into liquid-cooled bitcoin mining machines; ULTIWIT System, a series of outdoor infrastructure products; and advanced computing center ecosystem, a suite of liquid-cooling system that enable carbon-negative data center operations by repurposing waste computing heat.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Canopy Wave Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price for Canopy Wave:&lt;/b&gt; US$18.15 per share&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 60.0M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-10&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $30.82 · Mkt cap $56.5M · EV $56.5M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1847075/000121390026104816/0001213900-26-104816-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SAIH, SAIHW&lt;/b&gt; · 6-K · Non-Depository Credit (6199) · prefill_form:6-K · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚖️ Litigation · Won · TLX</title>
       <link>https://www.sec.gov/Archives/edgar/data/2007191/000162828026063875/telix-6kbipassgainsfdafast.htm</link>
@@ -16193,39 +16225,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1864843/000106299326005029/0001062993-26-005029-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ECAT&lt;/b&gt; · SCHEDULE 13D/A · amended_13d · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔐 Going Private · PRTH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1653558/000121390026101765/0001213900-26-101765-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-101765</guid>
-      <pubDate>Mon, 21 Sep 2026 13:57:15 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Takes PRTH private via merger with WD Capital Partners; owns 56.5%</scanner:headline>
-      <scanner:shortName>Priority Technology</scanner:shortName>
-      <scanner:price>5.83</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>PRTH</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>480630000</scanner:marketCap>
-      <scanner:enterpriseValue>1416280000</scanner:enterpriseValue>
-      <scanner:fwdPE>4.63</scanner:fwdPE>
-      <scanner:fwdEvEbitda>5.73</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Takes PRTH private via merger with WD Capital Partners; owns 56.5%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Thomas C. Priore, along with John V. Priore and AESV CreditCard Consulting, entered into a merger agreement to take Priority Technology Holdings private. The merger will be effected via WD Capital Partners Parent Inc. and its merger sub, with the company surviving as a wholly owned subsidiary of Parent. Priore currently owns 56.5% of the company&amp;#39;s common stock.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Priority Technology Holdings, Inc. operates as a payment technology company in the United States. The company operates through three segments: Merchant Solutions, Payables, and Treasury Solutions. The company offers merchant solutions, such as full-service acquiring and payment-enabled solutions for B2C transactions, leveraging proprietary software platform, distributed through independent sales organizations, direct sales, and vertically focused independent software vendors channels.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 56.5%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.83 · Mkt cap $480.6M · EV $1.42B · Fwd P/E 4.6x · Fwd EV/EBITDA 5.7x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1653558/000121390026101765/0001213900-26-101765-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PRTH, PRTHU&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7389) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
