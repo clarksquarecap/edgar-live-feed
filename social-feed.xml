@@ -6,8 +6,41 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 10:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:16:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CHBKF 🤝 Merger
+To become wholly owned subsidiary of Chiba Financial Group via joint share transfer; effective Apr 1, 2027
+The Chiba Bank · close 2027-04-01
+Mcap $995M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2088711/000119312526408219/d157849d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-408219</guid>
+      <pubDate>Wed, 30 Sep 2026 05:16:48 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$OCLT 🤝 Merger
+Acquires AIRE Inc. in $1B all-stock business combination
+1,000,000,000 deal · stock
+Mcap $103M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2137679/000182912626010595/oceanlightacq_425.htm</link>
+      <guid isPermaLink="false">0001829126-26-010595</guid>
+      <pubDate>Wed, 30 Sep 2026 05:16:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$BLFS 🤝 Merger
+Acquired by Repligen for $11.25 cash + 0.1442 shares; vote Oct 5
+cash+stk
+Mcap $1.9B · EV $1.8B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/834365/000119312526408198/d39870ddefa14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-408198</guid>
+      <pubDate>Wed, 30 Sep 2026 05:16:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$EZRA 📤 Divestiture
 Sells employee benefits business to Altruis Benefit Mgmt for $8M cash, note &amp; earnout
@@ -1010,17 +1043,6 @@ Mcap $2.4B · EV $1.1B · Healthcare</title>
       <guid isPermaLink="false">0001648257-26-000061</guid>
       <pubDate>Tue, 29 Sep 2026 05:22:45 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AIR 🤝 Merger
-Acquires 65% stake in MRO Panama for $1.82B cash + $781M Series A Preferred
-MRO Holdings · $2,600,000,000 deal · cash+stk · close February 2027
-Mcap $4.5B · EV $5.5B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1750/000110465926111482/tm2626100d3_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111482</guid>
-      <pubDate>Tue, 29 Sep 2026 05:16:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
