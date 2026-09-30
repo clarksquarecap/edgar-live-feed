@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:33:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:34:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · VRM</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1580864/000119312526409064/vrm-20260930.htm</link>
+      <guid isPermaLink="false">0001193125-26-409064</guid>
+      <pubDate>Wed, 30 Sep 2026 15:34:42 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Subsidiary Vroom Automotive issues $20M preferred units to repay obligations</scanner:headline>
+      <scanner:shortName>Vroom</scanner:shortName>
+      <scanner:price>9.84</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>VRM</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>50200000</scanner:marketCap>
+      <scanner:enterpriseValue>833680000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>4.01</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>6.08</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>6.08</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>65.90</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Subsidiary Vroom Automotive issues $20M preferred units to repay obligations&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Automotive, a subsidiary of Vroom, Inc., issued 16,000 Series A1 and 4,000 Series B1 preferred units to SPE Holdings 2026-1 for aggregate gross proceeds of $20,000,000. The Series B1 units are convertible into common units of Vroom Automotive. Proceeds will be used to repay certain obligations and purchase residual interests in asset-backed securitization trusts.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Vroom, Inc., through its subsidiaries, operates as an automotive finance company. It offers vehicle financing to its customers through third party dealers under the UACC brand. The company also provides an artificial intelligence-powered analytics and digital services platform for automotive dealers, automotive financial services companies, and automotive industry. The company was formerly known as Auto America, Inc. and changed its name to Vroom, Inc. in July 2015. Vroom, Inc.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; SPE Holdings 2026-1&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 20,000,000&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $9.84 · Mkt cap $50.2M · EV $833.7M · Financials / Consumer Finance&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1580864/000119312526409064/0001193125-26-409064-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VRM, VRMWW&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Retail; Auto (5500) · 8k_tier1:1.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Recap · TRAK</title>
       <link>https://www.sec.gov/Archives/edgar/data/50471/000143774926031604/trak20260930_8k.htm</link>
@@ -16442,37 +16479,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.07 · Mkt cap $72.3M · EV $65.4M · Fwd P/E 29.6x · Fwd EV/EBITDA 6.8x · Fwd EV/Sales 0.9x · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1940177/000121390026102325/0001213900-26-102325-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PODC&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7370) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · AERT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1853044/000182912626010323/0001829126-26-010323-index.htm</link>
-      <guid isPermaLink="false">0001829126-26-010323</guid>
-      <pubDate>Tue, 22 Sep 2026 18:32:08 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>CEO Khare boosts stake to 10.5% via option grants</scanner:headline>
-      <scanner:shortName>Aeries Technology</scanner:shortName>
-      <scanner:price>6.90</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Other</scanner:sector>
-      <scanner:ticker>AERT</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>35947786</scanner:marketCap>
-      <scanner:enterpriseValue>41975786</scanner:enterpriseValue>
-      <scanner:fwdEvSales>0.55</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;CEO Khare boosts stake to 10.5% via option grants&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;CEO Bhisham Khare filed Amendment No. 4 to his Schedule 13D, reporting beneficial ownership of 581,828 Class A ordinary shares (10.5% of class). The increase stems from a September 18, 2026 stock option grant for 37,000 shares at $6.91, plus prior options and exchange rights. No activist agenda is stated.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10.5%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $6.90 · Mkt cap $35.9M · EV $42.0M · Fwd EV/Sales 0.5x · Other / Professional Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1853044/000182912626010323/0001829126-26-010323-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AERT, AERTW&lt;/b&gt; · SCHEDULE 13D/A · Engineering / Accounting (8742) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
