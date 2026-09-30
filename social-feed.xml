@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 11:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:17:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GENMF 🤝 Merger
+Acquires Elton Resources Corp. shares
+Mcap $125M · EV $103M · Materials</title>
+      <link>https://www.otcmarkets.com/stock/GENMF/news/536872</link>
+      <guid isPermaLink="false">OTC-536872</guid>
+      <pubDate>Wed, 30 Sep 2026 06:17:41 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$ONAR 🤝 Merger
+Acquires Advertise Purple; adds $17.1M revenue, $4.4M net income
+empty
+Mcap $3M · EV $9M · Comms</title>
+      <link>https://www.otcmarkets.com/stock/ONAR/news/536881</link>
+      <guid isPermaLink="false">0001477932-26-005919</guid>
+      <pubDate>Wed, 30 Sep 2026 06:17:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$SEED 📤 Divestiture
 Sells 70.5% stake in Xinjiang Originbo to Hunan Xindaxin for RMB108M (~$15M)
@@ -37,17 +58,6 @@ Mcap $581M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1419536/000141953626000145/cbnk-20260929.htm</link>
       <guid isPermaLink="false">0001419536-26-000146</guid>
       <pubDate>Wed, 30 Sep 2026 06:09:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ONAR 🤝 Merger
-Acquires Advertise Purple for $12.825M cash, $7M note &amp; up to $8M earnout
-$27.825M deal · cash+stk
-Mcap $3M · EV $9M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1682265/000147793226005919/onar_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-005919</guid>
-      <pubDate>Wed, 30 Sep 2026 06:09:38 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -1077,15 +1087,6 @@ Mcap $3.8B · EV $3.5B · Materials</title>
       <pubDate>Tue, 29 Sep 2026 06:41:07 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$JELD 🪙 Debt Restr.
-Launches debt exchange for 2027 Notes, 2028 Term Loans for New First Lien Notes
-Mcap $154M · EV $1.5B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1674335/000167433526000126/jeld-20260929.htm</link>
-      <guid isPermaLink="false">0001674335-26-000126</guid>
-      <pubDate>Tue, 29 Sep 2026 06:17:08 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
