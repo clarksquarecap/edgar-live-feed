@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 21:41:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 22:52:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · SAMG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1549966/000101359426000998/0001013594-26-000998-index.htm</link>
+      <guid isPermaLink="false">0001013594-26-000998</guid>
+      <pubDate>Wed, 30 Sep 2026 17:52:46 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Equinox Partners discloses 7.1% stake in SAMG, seeks changes to capital allocation</scanner:headline>
+      <scanner:shortName>Silvercrest Asset Management</scanner:shortName>
+      <scanner:price>10.56</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>SAMG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>82830000</scanner:marketCap>
+      <scanner:enterpriseValue>121670000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.97</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.24</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>15.15</scanner:fwdPE>
+      <scanner:fwdEvEbitda>7.11</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.20</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>29.94</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Equinox Partners discloses 7.1% stake in SAMG, seeks changes to capital allocation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Equinox Partners Investment Management LLC and its affiliates disclosed a 7.1% stake in Silvercrest Asset Management Group Inc. The Reporting Persons believe the shares were undervalued and represent an attractive investment opportunity. They intend to engage with management and the Board, and may propose changes to capital allocation, capitalization, ownership structure, or operations.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Silvercrest Asset Management Group Inc., a wealth management firm, provides financial advisory and related family office services in the United States. The company serves ultra-high net worth individuals and families, as well as their trusts; endowments; foundations; and other institutional investors. It also manages funds of funds and other investment funds. The company was founded in 2002 and is headquartered in New York, New York.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.1%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.56 · Mkt cap $82.8M · EV $121.7M · Fwd P/E 15.2x · Fwd EV/EBITDA 7.1x · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1549966/000101359426000998/0001013594-26-000998-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SAMG&lt;/b&gt; · SCHEDULE 13D · Securities / Broker-Dealers (6282) · fresh_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚖️ Litigation · Lost · LQDA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1819576/000110465926112420/tm2626740d1_8k.htm</link>
@@ -16674,30 +16713,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Director appointment effective October 1, 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/938323/000090266426003927/0000902664-26-003927-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PSO, PSORF&lt;/b&gt; · SCHEDULE 13D/A · Printing (2731) · fresh_13d · filed 2026-09-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · SWMR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2092574/000110465926109988/0001104659-26-109988-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-109988</guid>
-      <pubDate>Wed, 23 Sep 2026 15:30:11 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Exercises options for 235k shares; stake now 28.7%</scanner:headline>
-      <scanner:shortName>Swarmer</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>SWMR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Exercises options for 235k shares; stake now 28.7%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Board member and former CEO Serhii Kupriienko exercised options for 235,163 shares at $0.00001/share on Sept 21, 2026, raising his beneficial ownership to 4,674,528 shares (28.7% of class). He holds additional options vesting beyond 60 days.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 28.7%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2092574/000110465926109988/0001104659-26-109988-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SWMR&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7372) · fresh_13d · filed 2026-09-23&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
