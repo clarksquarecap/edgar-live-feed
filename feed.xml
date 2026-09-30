@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 18:52:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:03:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · ABPO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1893219/000135445726000926/0001354457-26-000926-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000926</guid>
+      <pubDate>Wed, 30 Sep 2026 14:03:52 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <scanner:headline>Forced Nasdaq delisting effective Oct 12, 2026</scanner:headline>
+      <scanner:shortName>Abpro Holdings</scanner:shortName>
+      <scanner:price>0.4100</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>25-NSE</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>ABPO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>25-NSE</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2230000</scanner:marketCap>
+      <scanner:evGrossProfitLtm>3.44</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>3.38</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Oct 12, 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Will be delisted from the Nasdaq Stock Market LLC, effective at the opening of trading on October 12, 2026. This follows a final determination by the Nasdaq Listing and Hearing Review Council, affirming a prior panel decision to suspend the company for non-compliance with listing rules.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Abpro Holdings, Inc., a biotechnology company, focuses on the development of novel antibodies using discovery and engineering platforms for immuno-oncology, ophthalmology, and infectious disease in the United States. Its platforms include DiversImmune, an antibody discovery platform that generates a diverse collection of proprietary antibodies against clinically validated and novel targets; and MultiMab, an engineering platform that provides flexibility to combine antibody building blocks in dif…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-12&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.4100 · Mkt cap $2.2M · EV $-1.3M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1893219/000135445726000926/0001354457-26-000926-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ABPO, ABPWW&lt;/b&gt; · 25-NSE · Chemicals / Pharma (2836) · prefill_form:25-NSE · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔎 Strategic Review · Formal Alternatives · FNV</title>
       <link>https://www.sec.gov/Archives/edgar/data/1456346/000110465926112276/fnv-20260930x6k.htm</link>
@@ -16342,34 +16373,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Redemption ~Oct 2; last trading day Oct 2; Form 15 to follow&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1882464/000149315226043686/0001493152-26-043686-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MSSAF, MSSUF, MSSWF&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Holding / Investment Offices (6770) · 8k_tier1:8.01 · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · NHIC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2043699/000135445726000892/0001354457-26-000892-index.htm</link>
-      <guid isPermaLink="false">0001354457-26-000892</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:45 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>delisting</category>
-      <category>25-NSE</category>
-      <scanner:headline>Delisted from Nasdaq effective 2026-09-22</scanner:headline>
-      <scanner:shortName>NewHold Investment Corp. III</scanner:shortName>
-      <scanner:price>8.64</scanner:price>
-      <scanner:subtype />
-      <scanner:form>25-NSE</scanner:form>
-      <scanner:sector>Financial Services</scanner:sector>
-      <scanner:ticker>NHIC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>25-NSE</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>238574272</scanner:marketCap>
-      <scanner:enterpriseValue>238210272</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Delisted from Nasdaq effective 2026-09-22&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Was delisted from Nasdaq on 2026-09-22. The delisting covers Class A ordinary shares, warrants, and units.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Px $8.64 · Mkt cap $238.6M · EV $238.2M · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2043699/000135445726000892/0001354457-26-000892-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NHIC, NHICU, NHICW&lt;/b&gt; · 25-NSE · Holding / Investment Offices (6770) · prefill_form:25-NSE · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
