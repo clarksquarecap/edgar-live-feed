@@ -6,25 +6,67 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 12:47:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:49:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
-      <title>🤝 Merger · Definitive · DJT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1849635/000143774926031536/djt20260930_425.htm</link>
-      <guid isPermaLink="false">0001437749-26-031536</guid>
-      <pubDate>Wed, 30 Sep 2026 07:47:31 -0500</pubDate>
+      <title>🤝 Merger · Definitive · QRVO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/4127/000110465926112129/tm2626657d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111071</guid>
+      <pubDate>Wed, 30 Sep 2026 07:49:21 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Files S-4 for merger with TAE Technologies; provides $200M convertible note</scanner:headline>
+      <category>8-K</category>
+      <scanner:headline>Updates on definitive merger with Qorvo; S-4 effective, proxy mailed</scanner:headline>
+      <scanner:shortName>Qorvo</scanner:shortName>
+      <scanner:price>117.97</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>QRVO</scanner:ticker>
+      <scanner:filings>3</scanner:filings>
+      <scanner:filingForms>425 x2, 8-K</scanner:filingForms>
+      <scanner:related>SWKS</scanner:related>
+      <scanner:marketCap>10407510000</scanner:marketCap>
+      <scanner:enterpriseValue>10627700000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.92</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>6.01</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>15.39</scanner:fwdPE>
+      <scanner:fwdEvEbitda>11.71</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>6.01</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>48.53</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Skyworks; debt exchange offer extended to Oct 2, 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Qorvo&amp;#39;s debt exchange offer, contingent on its merger with Skyworks, has been extended to October 2, 2026. Holders of Qorvo&amp;#39;s 4.375% Senior Notes due 2029 ($850M outstanding) and 3.375% Senior Notes due 2031 ($700M outstanding) are offered new Skyworks notes. As of September 25, 2026, 91.68% of 2029 notes and 93.33% of 2031 notes have been tendered.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Qorvo, Inc. engages in development and commercialization of technologies and products for wireless, wired, and power markets in the United States, China, rest of Asia, Taiwan, and Europe. It operates through three segments: High Performance Analog (HPA), Connectivity and Sensors Group (CSG), and Advanced Cellular Group (ACG).&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Skyworks Solutions, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; October 2, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $117.97 · Mkt cap $10.41B · EV $10.63B · Fwd P/E 15.4x · Fwd EV/EBITDA 11.7x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1604778/000110465926111071/0001104659-26-111071-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QRVO&lt;/b&gt; · 425 · Electronic Equipment (3674) · prefill_form:425 · filed 2026-09-28&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 30 07:49 · &lt;a href='https://www.sec.gov/Archives/edgar/data/4127/000110465926112129/tm2626657d1_8k.htm'&gt;Updates on definitive merger with Qorvo; S-4 effective, proxy mailed&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 30 07:47 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1604778/000110465926112130/tm2626657d2_425.htm'&gt;Merger with Skyworks progressing; S-4 effective, joint proxy mailed&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 28 05:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1604778/000110465926111071/tm2626179d1_425.htm'&gt;Acquired by Skyworks; debt exchange offer extended to Oct 2, 2026&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer SWKS also filed 8-K&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · DJT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849635/000143774926031535/djt20260930_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-031536</guid>
+      <pubDate>Wed, 30 Sep 2026 07:48:30 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Files S-4 for TAE Technologies merger; amends $200M convertible note</scanner:headline>
       <scanner:shortName>Trump Media &amp; Technology</scanner:shortName>
       <scanner:price>9.10</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
+      <scanner:form>8-K</scanner:form>
       <scanner:sector>Communication Services</scanner:sector>
       <scanner:ticker>DJT</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:filings>3</scanner:filings>
+      <scanner:filingForms>425, S-4, 8-K</scanner:filingForms>
       <scanner:related />
       <scanner:marketCap>2529270000</scanner:marketCap>
       <scanner:enterpriseValue>2597420000</scanner:enterpriseValue>
@@ -40,7 +82,9 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-12-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; S-4 effectiveness, shareholder vote&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $9.10 · Mkt cap $2.53B · EV $2.60B · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1849635/000143774926031536/0001437749-26-031536-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DJT, DJTWW&lt;/b&gt; · 425 · Business Services (7370) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DJT, DJTWW&lt;/b&gt; · 425 · Business Services (7370) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 30 07:48 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1849635/000143774926031535/djt20260930_8k.htm'&gt;Files S-4 for TAE Technologies merger; amends $200M convertible note&lt;/a&gt;&lt;/li&gt;&lt;li&gt;S-4 · Sep 30 07:48 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1849635/000143774926031534/djt20260922_s4.htm'&gt;Acquires TAE Technologies in all-stock merger; pre-merger holders to own ~49.5% of combined co.&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 30 07:47 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1849635/000143774926031536/djt20260930_425.htm'&gt;Files S-4 for merger with TAE Technologies; provides $200M convertible note&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · NACB</title>
@@ -8985,45 +9029,6 @@
 &lt;p&gt;&lt;i&gt;Px $10.92 · Mkt cap $99.4M · EV $98.5M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2118032/000119312526403078/0001193125-26-403078-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RACC&lt;/b&gt; · S-4/A · Chemicals / Pharma (2834) · prefill_form:S-4 · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · QRVO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1604778/000110465926111071/tm2626179d1_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-111071</guid>
-      <pubDate>Mon, 28 Sep 2026 05:10:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquired by Skyworks; debt exchange offer extended to Oct 2, 2026</scanner:headline>
-      <scanner:shortName>Qorvo</scanner:shortName>
-      <scanner:price>117.97</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>QRVO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>10407510000</scanner:marketCap>
-      <scanner:enterpriseValue>10627700000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>2.92</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>6.01</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>15.39</scanner:fwdPE>
-      <scanner:fwdEvEbitda>11.71</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>6.01</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>48.53</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Skyworks; debt exchange offer extended to Oct 2, 2026&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Qorvo&amp;#39;s debt exchange offer, contingent on its merger with Skyworks, has been extended to October 2, 2026. Holders of Qorvo&amp;#39;s 4.375% Senior Notes due 2029 ($850M outstanding) and 3.375% Senior Notes due 2031 ($700M outstanding) are offered new Skyworks notes. As of September 25, 2026, 91.68% of 2029 notes and 93.33% of 2031 notes have been tendered.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Qorvo, Inc. engages in development and commercialization of technologies and products for wireless, wired, and power markets in the United States, China, rest of Asia, Taiwan, and Europe. It operates through three segments: High Performance Analog (HPA), Connectivity and Sensors Group (CSG), and Advanced Cellular Group (ACG).&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Skyworks Solutions, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; October 2, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $117.97 · Mkt cap $10.41B · EV $10.63B · Fwd P/E 15.4x · Fwd EV/EBITDA 11.7x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1604778/000110465926111071/0001104659-26-111071-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QRVO&lt;/b&gt; · 425 · Electronic Equipment (3674) · prefill_form:425 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
     <item>
       <title>👀 Activist · CTNT</title>
