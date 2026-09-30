@@ -6,8 +6,42 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 14:24:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:36:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Self Tender · CEPU</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1717161/000129281426004750/cepu20260930_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004750</guid>
+      <pubDate>Wed, 30 Sep 2026 09:36:41 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+      <category>6-K</category>
+      <scanner:headline>Acquires 100K shares for AR$195.1M &amp; 20K ADRs for US$240.5K</scanner:headline>
+      <scanner:shortName>CENTRAL PUERTO</scanner:shortName>
+      <scanner:price>13.20</scanner:price>
+      <scanner:subtype>self_tender</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Utilities</scanner:sector>
+      <scanner:ticker>CEPU</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2011400000</scanner:marketCap>
+      <scanner:enterpriseValue>2576370000</scanner:enterpriseValue>
+      <scanner:fwdPE>6.37</scanner:fwdPE>
+      <scanner:fwdEvEbitda>5.17</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>6.71</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires 100K shares for AR$195.1M &amp;amp; 20K ADRs for US$240.5K&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Central Puerto S.A. and its wholly owned subsidiary Proener S.A.U. acquired 100,000 of its own ordinary shares on BYMA for AR$195,131,950 and 20,000 ADRs on NYSE for US$240,540.52. The acquisitions were completed on September 30, 2026, and did not exceed 25% of the average daily trading volume.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Central Puerto S.A. engages in the electric power generation activities in Argentina. It operates in three segments: Electric Power Generation From Conventional Sources, Electric Power Generation From Renewable Sources and Forest Activity, and Management and Operations of Thermal Plants. The company’s power generation assets include combined cycle, gas and steam turbine, co-generation, hydroelectric, wind turbines, and solar panels.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $13.20 · Mkt cap $2.01B · EV $2.58B · Fwd P/E 6.4x · Fwd EV/EBITDA 5.2x · Utilities / Independent Power and Renewable Electricity Producers&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1717161/000129281426004750/0001292814-26-004750-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CEPU&lt;/b&gt; · 6-K · Utilities (4911) · prefill_form:6-K · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Buyback Authorization · E</title>
       <link>https://www.sec.gov/Archives/edgar/data/1002242/000117494726000909/form6k-36385_eni.htm</link>
@@ -16327,41 +16361,6 @@
 &lt;p&gt;&lt;i&gt;Px $140.43 · Mkt cap $5.00B · EV $8.25B · Fwd P/E 22.6x · Fwd EV/EBITDA 9.8x · Fwd EV/Sales 2.8x · Consumer Cyclical / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/812011/000090266426003894/0000902664-26-003894-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MTN&lt;/b&gt; · SCHEDULE 13D/A · Amusement / Recreation (7990) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · GPI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1031203/000090514826004248/0000905148-26-004248-index.htm</link>
-      <guid isPermaLink="false">0001031203-26-000137</guid>
-      <pubDate>Tue, 22 Sep 2026 06:19:13 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>acquisition</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Secures board seat at Group 1; standstill until 2030</scanner:headline>
-      <scanner:shortName>GROUP 1 AUTOMOTIVE</scanner:shortName>
-      <scanner:price>250.87</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Consumer Cyclical</scanner:sector>
-      <scanner:ticker>GPI</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K, SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2958664696</scanner:marketCap>
-      <scanner:enterpriseValue>8565864696</scanner:enterpriseValue>
-      <scanner:fwdPE>6.07</scanner:fwdPE>
-      <scanner:fwdEvEbitda>8.52</scanner:fwdEvEbitda>
-      <scanner:fwdEvSales>0.38</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Appoints Conifer analyst to board; standstill agreed&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a Stockholder Agreement with Conifer Management, increasing the board from 10 to 11 and appointing Conifer analyst Benjamin Hart effective Nov 1, 2026. Conifer agrees to vote with board recommendations, subject to standstill (no &amp;gt;19% ownership, no proxy solicitation) and can request waivers to exceed 19% under certain conditions. The agreement runs through the 2030 annual meeting nomination deadline with automatic extension if Hart is renominated.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Conifer Management&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Director appointment effective Nov 1, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $250.87 · Mkt cap $2.96B · EV $8.57B · Fwd P/E 6.1x · Fwd EV/EBITDA 8.5x · Fwd EV/Sales 0.4x · Consumer Cyclical / Specialty Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1031203/000103120326000137/0001031203-26-000137-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GPI&lt;/b&gt; · 8-K · Items 1.01, 5.02, 7.01, 9.01 · Retail; Auto (5500) · 8k_tier1:1.01,7.01 · filed 2026-09-22&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SCHEDULE 13D/A · Sep 22 06:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1031203/000090514826004248/0000905148-26-004248-index.htm'&gt;Secures board seat at Group 1; standstill until 2030&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 22 06:18 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1031203/000103120326000137/gpi-20260921.htm'&gt;Appoints Conifer analyst to board; standstill agreed&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
