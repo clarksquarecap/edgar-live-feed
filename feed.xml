@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 19:23:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:41:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · KVACF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1889983/000135445726000927/0001354457-26-000927-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000927</guid>
+      <pubDate>Wed, 30 Sep 2026 14:41:22 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <scanner:headline>Forced Nasdaq delisting effective Oct 12, 2026</scanner:headline>
+      <scanner:shortName>Keen Vision Acquisition</scanner:shortName>
+      <scanner:price>12.06</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>25-NSE</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>KVACF</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>25-NSE</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>69340000</scanner:marketCap>
+      <scanner:enterpriseValue>74010000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Oct 12, 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Will be removed from listing on Nasdaq effective October 12, 2026. Nasdaq Staff determined the company no longer qualified for listing under rules IM-5101-2, 5450(b)(2)(B), and 5450(a)(2). The company&amp;#39;s securities were suspended on August 3, 2026, and the delisting determination became final on that date.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Keen Vision Acquisition Corporation does not have significant operations. The company intends to effect a merger, share exchange, asset acquisition, share purchase, recapitalization, reorganization, and related business combinations with one or more businesses or entities. It also intends to focus on businesses in the biotechnology, consumer goods, and agriculture sectors.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nasdaq Stock Market LLC&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-12&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $12.06 · Mkt cap $69.3M · EV $74.0M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1889983/000135445726000927/0001354457-26-000927-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KVACF, KVAUF, KVAWF&lt;/b&gt; · 25-NSE · Holding / Investment Offices (6770) · prefill_form:25-NSE · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🌑 Going Dark · CYRB</title>
       <link>https://www.sec.gov/Archives/edgar/data/1851048/000185104826000019/cyrb15d.htm</link>
@@ -16354,29 +16385,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.72 · Mkt cap $175.0M · EV $296.7M · Fwd P/E 43.8x · Fwd EV/EBITDA 9.9x · Fwd EV/Sales 1.0x · Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1505952/000110465926109635/0001104659-26-109635-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DOMO&lt;/b&gt; · 8-K · Items 1.02, 2.01, 5.03, 7.01, 8.01, 9.01 · Business Services (7372) · 8k_tier1:1.02,2.01,7.01,8.01 · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · KCA-UN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2102713/000119312526397915/d159150d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-397915</guid>
-      <pubDate>Tue, 22 Sep 2026 15:17:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquires Nth Cycle; target signs $1B Glencore offtake</scanner:headline>
-      <scanner:shortName>Kensington Capital Acquisition Corp. VI</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>KCA-UN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Nth Cycle; target signs $1B Glencore offtake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is acquiring Nth Cycle in a business combination. Nth Cycle announced a binding term sheet with Glencore for a 10-year off-take valued over $1 billion, covering 100% of feedstock and offtake for Project SHIELD. The parties target definitive agreements by end of 2026.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nth Cycle&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2102713/000119312526397915/0001193125-26-397915-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KCA-UN, KCAC-UN, KCAC-WT&lt;/b&gt; · 425 · Chemicals / Pharma (2810) · prefill_form:425 · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
