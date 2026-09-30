@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 12:49:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:02:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · CBNK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419536/000141953626000148/cbnk-20260929.htm</link>
+      <guid isPermaLink="false">0001419536-26-000148</guid>
+      <pubDate>Wed, 30 Sep 2026 08:02:48 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells North Riverside, IL branch office; expects ~$3.3M deposit premium</scanner:headline>
+      <scanner:shortName>Capital Bancorp</scanner:shortName>
+      <scanner:price>35.65</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>CBNK</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>580750000</scanner:marketCap>
+      <scanner:fwdPE>9.70</scanner:fwdPE>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells North Riverside, IL branch office; expects ~$3.3M deposit premium&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Capital Bancorp Inc&amp;#39;s wholly owned subsidiary, Capital Bank, N.A., entered into an agreement to sell its North Riverside, Illinois branch office, including approximately $123.9 million of deposits and certain loans and other assets, to another financial institution. The Bank expects to receive a deposit premium of approximately $3.3 million and payment for the unpaid principal balance of transferred loans. The transaction is subject to customary closing conditions and regulatory approvals.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Capital Bancorp, Inc. operates as the bank holding company for Capital Bank, N.A., provides various banking products and services to businesses, not-for-profit associations, and entrepreneurs in the United States. It operates through four divisions: Commercial Banking, Capital Bank Home Loans, OpenSky, Windsor Advantage.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; another financial institution&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; regulatory approvals&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $35.65 · Mkt cap $580.8M · Fwd P/E 9.7x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1419536/000141953626000148/0001419536-26-000148-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CBNK&lt;/b&gt; · 8-K · Items 8.01 · Depository Institutions (6021) · 8k_tier1:8.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · QRVO</title>
       <link>https://www.sec.gov/Archives/edgar/data/4127/000110465926112129/tm2626657d1_8k.htm</link>
@@ -16287,37 +16318,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.0500 · Mkt cap $150K · EV $-850K · Fwd EV/EBITDA 0.2x · Industrials / Air Freight and Logistics&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1951667/000210778826000008/0002107788-26-000008-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CTNT&lt;/b&gt; · SCHEDULE 13D · Wholesale; Durable (5010) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · ENHA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1956439/000119312526397057/0001193125-26-397057-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-397057</guid>
-      <pubDate>Mon, 21 Sep 2026 20:31:04 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Raises ENHA stake to 34.3%; buys 6.08M shares for $7M</scanner:headline>
-      <scanner:shortName>Enhanced Group</scanner:shortName>
-      <scanner:price>1.43</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>ENHA</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>185720000</scanner:marketCap>
-      <scanner:enterpriseValue>166110000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Raises ENHA stake to 34.3%; buys 6.08M shares for $7M&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Apeiron Investment Group (Christian Angermayer) increased its stake in Enhanced Group Inc. to 34.3% of Class A common, purchasing 6,080,047 shares at $1.15/share for $7,000,000 on Sept 17, plus 312,820 shares for ~$496,128 in early September. Total reported ownership is 48,697,705 shares including 5,353,887 warrant shares; the group also holds 258.8M Class B shares.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Enhanced Group Inc. operates in the sports entertainment, performance technology, and lifestyle wellness markets. It engages in organizing live sporting events; producing and distributing related content; marketing lifestyle and health optimization services to customers; and operating the Live Enhanced platform, through which customers access OTC supplement blends, clinician-guided prescription-based hormone therapy, and other longevity-related protocols provided by third-party telehealth servic…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; $1.15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $7,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 34.3%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.43 · Mkt cap $185.7M · EV $166.1M · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1956439/000119312526397057/0001193125-26-397057-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ENHA&lt;/b&gt; · SCHEDULE 13D/A · Amusement / Recreation (7990) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
