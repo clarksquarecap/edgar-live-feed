@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 11:17:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:36:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · APUR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2093524/000121390026104882/ea0307166-8k425_aperture.htm</link>
+      <guid isPermaLink="false">0001213900-26-104882</guid>
+      <pubDate>Wed, 30 Sep 2026 06:36:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>Acquires Atlantic HPC Group in proposed business combination; S-4 to be filed</scanner:headline>
+      <scanner:shortName>Aperture AC</scanner:shortName>
+      <scanner:price>10.03</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>APUR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>147780000</scanner:marketCap>
+      <scanner:enterpriseValue>147330000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Atlantic HPC Group in proposed business combination; S-4 to be filed&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced a proposed business combination with Atlantic HPC Group Inc. The transaction will involve Aperture, Atlantic, and AP Ocean Merger Sub, Inc., a wholly-owned subsidiary of Aperture. A registration statement on Form S-4, including a definitive proxy statement/prospectus, will be filed with the SEC for the shareholder vote.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Aperture AC, a blank check company, focuses on effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2025 and is based in Los Angeles, California.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Atlantic HPC Group Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; S-4 filing&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.03 · Mkt cap $147.8M · EV $147.3M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2093524/000121390026104882/0001213900-26-104882-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;APUR, APURR&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · GENMF</title>
       <link>https://www.otcmarkets.com/stock/GENMF/news/536872</link>
@@ -16260,36 +16291,6 @@
 &lt;p&gt;&lt;i&gt;Px $6.45 · Mkt cap $5.8M · EV $67.8M · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1781446/000121390026101847/0001213900-26-101847-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GAUZ&lt;/b&gt; · 6-K · Electronic Equipment (3690) · prefill_form:6-K · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · CURR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1862935/000149315226043583/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-043583</guid>
-      <pubDate>Mon, 21 Sep 2026 16:35:53 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Suspends Animoca Brands acquisition; exclusivity expired</scanner:headline>
-      <scanner:shortName>Currenc Group</scanner:shortName>
-      <scanner:price>3.23</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>CURR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>358180000</scanner:marketCap>
-      <scanner:enterpriseValue>335850000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Suspends Animoca Brands acquisition; exclusivity expired&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Currenc Group and Animoca Brands mutually agreed to suspend merger negotiations for the proposed business combination. The non-binding term sheet from Nov 2025 contemplated Currenc acquiring Animoca via Australian scheme, with Animoca shareholders owning ~95% of the merged entity. Exclusivity expired June 30, 2026 without a definitive agreement; parties may resume if conditions permit.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CURRENC Group Inc., an investment holding company, engages in the provision of money transfer and airtime trading services in Malaysia and Indonesia. It operates in two segments, Remittance Services and Sales of Airtime. The company offers cross-border remittance solutions for financial institutions and payment providers, cross-border payments for non-financial businesses, airtime transfer, and retail telecom credit recharge services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Animoca Brands Corporation Limited&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.23 · Mkt cap $358.2M · EV $335.9M · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1862935/000149315226043583/0001493152-26-043583-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CURR&lt;/b&gt; · 6-K · Business Services (7389) · prefill_form:6-K · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
