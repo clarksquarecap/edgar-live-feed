@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:33:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TRAK 💧 Capital Return · Recap
+Returns $5.3M capital to shareholders via buybacks, preferred redemptions
+Mcap $149M · EV $122M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/50471/000143774926031604/trak20260930_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-031604</guid>
+      <pubDate>Wed, 30 Sep 2026 15:33:22 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+    </item>
+    <item>
+      <title>$BMRN ⚖️ Litigation · Settled
+Settles patent litigation with Ascendis; grants license for 20% US royalties
+vs Ascendis Pharma A/S
+Mcap $12B · EV $15B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1048477/000162828026063981/bmrn-20260924.htm</link>
+      <guid isPermaLink="false">0001628280-26-063981</guid>
+      <pubDate>Wed, 30 Sep 2026 15:32:32 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$GWH 📉 Delisting · Forced
 Faces NYSE delisting proceedings for non-compliance; intends to appeal

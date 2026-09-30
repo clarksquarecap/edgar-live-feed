@@ -6,8 +6,85 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:33:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Recap · TRAK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/50471/000143774926031604/trak20260930_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-031604</guid>
+      <pubDate>Wed, 30 Sep 2026 15:33:22 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+      <category>8-K</category>
+      <scanner:headline>Returns $5.3M capital to shareholders via buybacks, preferred redemptions</scanner:headline>
+      <scanner:shortName>ReposiTrak</scanner:shortName>
+      <scanner:price>8.36</scanner:price>
+      <scanner:subtype>recap</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>TRAK</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>148520000</scanner:marketCap>
+      <scanner:enterpriseValue>121560000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>5.22</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>6.08</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>12.34</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>6.12</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>85.80</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Returns $5.3M capital to shareholders via buybacks, preferred redemptions&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Reported returning $5.3 million of capital to shareholders during fiscal year 2026. This included repurchasing 143,904 common shares for $1.8 million at an average price of $12.50 per share, and redeeming 175,233 preferred shares for $1.9 million at $10.70 per share. The company also declared a quarterly dividend of $0.02 per share.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ReposiTrak, Inc., a software-as-a-service provider, operates a business-to-business, e-commerce, compliance and traceability, and supply chain management platform in North America. It offers ReposiTrak Compliance Management, which reduces potential regulatory, legal, and criminal risks from its supply chain partners; ReposiTrak Traceability Network, which captures key data elements for designated products; and ReposiTrak Supply Chain Solutions, which enable customers to manage interactions with …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; 12.50&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 5300000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $8.36 · Mkt cap $148.5M · EV $121.6M · Fwd EV/EBITDA 12.3x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/50471/000143774926031604/0001437749-26-031604-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TRAK&lt;/b&gt; · 8-K · Items 2.02, 7.01, 9.01 · Business Services (7374) · 8k_tier1:7.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚖️ Litigation · Settled · BMRN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1048477/000162828026063981/bmrn-20260924.htm</link>
+      <guid isPermaLink="false">0001628280-26-063981</guid>
+      <pubDate>Wed, 30 Sep 2026 15:32:32 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+      <category>8-K</category>
+      <scanner:headline>Settles patent litigation with Ascendis; grants license for 20% US royalties</scanner:headline>
+      <scanner:shortName>BIOMARIN PHARMACEUTICAL</scanner:shortName>
+      <scanner:price>60.02</scanner:price>
+      <scanner:subtype>settled</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>BMRN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>11589260000</scanner:marketCap>
+      <scanner:enterpriseValue>14917460000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>4.38</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.59</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>9.80</scanner:fwdPE>
+      <scanner:fwdEvEbitda>11.96</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>8.55</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>50.97</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Settles patent litigation with Ascendis; grants license for 20% US royalties&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a Settlement and License Agreement with Ascendis Pharma A/S, resolving pending litigation. BioMarin granted Ascendis a non-exclusive, worldwide, royalty-bearing license for TransCon CNP products. Ascendis will pay BioMarin a 20% royalty on annual net sales in the US and 18% in the EU, Brazil, and South Korea until May 2030.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BioMarin Pharmaceutical Inc., a biotechnology company, engages in the development and commercialization of therapies for life-threatening rare diseases and medical conditions in the United States, Europe, Latin America, the Middle East, the Asia Pacific, and internationally. The company’s products include VIMIZIM, an enzyme replacement therapy for the treatment of mucopolysaccharidosis (MPS) IV type A, a lysosomal storage disorder; VOXZOGO, a once daily injection analog of c-type natriuretic pep…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ascendis Pharma A/S&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $60.02 · Mkt cap $11.59B · EV $14.92B · Fwd P/E 9.8x · Fwd EV/EBITDA 12.0x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1048477/000162828026063981/0001628280-26-063981-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BMRN&lt;/b&gt; · 8-K · Items 1.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · GWH</title>
       <link>https://www.sec.gov/Archives/edgar/data/1819438/000181943826000086/wk-20260924.htm</link>
@@ -16396,71 +16473,6 @@
 &lt;p&gt;&lt;i&gt;Px $6.90 · Mkt cap $35.9M · EV $42.0M · Fwd EV/Sales 0.5x · Other / Professional Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1853044/000182912626010323/0001829126-26-010323-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AERT, AERTW&lt;/b&gt; · SCHEDULE 13D/A · Engineering / Accounting (8742) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · FNKO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1704711/000092189526002624/0000921895-26-002624-index.htm</link>
-      <guid isPermaLink="false">0000921895-26-002624</guid>
-      <pubDate>Tue, 22 Sep 2026 18:11:39 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Builds 21.3% economic stake in Funko via shares and swaps</scanner:headline>
-      <scanner:shortName>Funko</scanner:shortName>
-      <scanner:price>5.62</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Consumer Cyclical</scanner:sector>
-      <scanner:ticker>FNKO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>304057009</scanner:marketCap>
-      <scanner:enterpriseValue>525022009</scanner:enterpriseValue>
-      <scanner:fwdPE>35.12</scanner:fwdPE>
-      <scanner:fwdEvEbitda>5.58</scanner:fwdEvEbitda>
-      <scanner:fwdEvSales>0.55</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Builds 21.3% economic stake in Funko via shares and swaps&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Fund 1 Investments, LLC filed an amended Schedule 13D disclosing beneficial ownership of 5,497,413 shares of Funko, Inc. (9.8% of Class A common stock) and cash-settled total return swaps providing economic exposure to an additional 6,462,462 notional shares (11.5%), for total economic exposure of approximately 21.3%. The swaps do not confer voting or dispositive power. The filing is an amendment to a prior 13D.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.8%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.62 · Mkt cap $304.1M · EV $525.0M · Fwd P/E 35.1x · Fwd EV/EBITDA 5.6x · Fwd EV/Sales 0.5x · Consumer Cyclical / Leisure Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1704711/000092189526002624/0000921895-26-002624-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FNKO&lt;/b&gt; · SCHEDULE 13D/A · Miscellaneous Manufacturing (3944) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · FXAC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2121703/000182912626010318/fortunexacq_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-010319</guid>
-      <pubDate>Tue, 22 Sep 2026 16:45:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires WT Realty in $600M stock deal; 60M shares</scanner:headline>
-      <scanner:shortName>FortuneX Acquisition</scanner:shortName>
-      <scanner:price>10.09</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financial Services</scanner:sector>
-      <scanner:ticker>FXAC</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>425, 8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>127456163</scanner:marketCap>
-      <scanner:enterpriseValue>126881533</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires WT Realty in $600M all-stock business combination&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into a definitive Business Combination Agreement to acquire WT Realty Group Inc. in an all-stock deal valued at $600 million (60 million PubCo shares at $10.00 reference price). The transaction includes a domestication to Delaware and a merger with WT Realty surviving as a wholly-owned subsidiary. Closing is subject to shareholder approvals and other conditions.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; WT Realty Group Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $600,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder meeting and S-4 filing&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.09 · Mkt cap $127.5M · EV $126.9M · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2121703/000182912626010319/0001829126-26-010319-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FXAC, FXACU, FXACW&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-22&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 22 16:45 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2121703/000182912626010318/fortunexacq_8k.htm'&gt;Acquires WT Realty in $600M stock deal; 60M shares&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 22 16:45 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2121703/000182912626010319/fortunexacq_425.htm'&gt;Acquires WT Realty in $600M all-stock business combination&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
