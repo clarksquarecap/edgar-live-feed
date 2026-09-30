@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:58:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:59:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SPKL 🤝 Merger
+Increases redemption price to $11.70/share for ZincFive merger
+cash
+Mcap $100M · EV $104M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1884046/000110465926112385/tm2626457d2_8ka.htm</link>
+      <guid isPermaLink="false">0001104659-26-112385</guid>
+      <pubDate>Wed, 30 Sep 2026 15:58:52 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TXNM 🤝 Merger
 Acquired by Troy ParentCo for $61.25 cash; convertible notes become convertible
@@ -1232,15 +1243,6 @@ Mcap $238M · EV $151M · Healthcare</title>
       <pubDate>Tue, 29 Sep 2026 16:04:52 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$KTF 📍 Stake
-Reports 22.9% stake in DWS Municipal Income Trust
-Mcap $316M · EV $521M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/839533/000076931726000010/0000769317-26-000010-index.htm</link>
-      <guid isPermaLink="false">0000769317-26-000010</guid>
-      <pubDate>Tue, 29 Sep 2026 15:58:36 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
