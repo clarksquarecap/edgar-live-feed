@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 19:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:47:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · AIFA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1708341/000121390026105202/ea0307227-8k_allin.htm</link>
+      <guid isPermaLink="false">0001213900-26-105202</guid>
+      <pubDate>Wed, 30 Sep 2026 14:47:41 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Clarifies beneficial ownership of 31.3% stake amid control dispute</scanner:headline>
+      <scanner:shortName>All In FutureTech Alliance</scanner:shortName>
+      <scanner:price>4.14</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>AIFA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>25940000</scanner:marketCap>
+      <scanner:enterpriseValue>12210000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.85</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.73</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>4.01</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>49.71</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Clarifies beneficial ownership of 31.3% stake amid control dispute&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Clarified its beneficial ownership disclosure regarding a 31.3% stake held by Primo Vital Limited, a subsidiary of Ourgame International Holdings Limited. The clarification follows claims from Primo that Jingsheng (Jason) Lu was removed as a director and ceased to have authority over the shares. The company takes no position on the ongoing dispute over control of the shares.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; All In FutureTech Alliance Inc., through its subsidiaries, operates as a public esports and entertainment company worldwide. The company produces a variety of esports and gaming-related content, including tournaments, live and virtual events, and original programming. The company also engages in the development and distribution of mobile casual games; organization of events, shows, and concerts; and operation of a flagship gaming arena located at the Luxor Hotel in Las Vegas, Nevada.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Primo Vital Limited&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 31.3%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $4.14 · Mkt cap $25.9M · EV $12.2M · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1708341/000121390026105202/0001213900-26-105202-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AIFA&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Amusement / Recreation (7900) · 8k_tier1:8.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · KVACF</title>
       <link>https://www.sec.gov/Archives/edgar/data/1889983/000135445726000927/0001354457-26-000927-index.htm</link>
@@ -16352,39 +16389,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-29&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1919369/000119312526397892/0001193125-26-397892-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VISTASL&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · DOMO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1505952/000110465926109635/tm2625825d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-109635</guid>
-      <pubDate>Tue, 22 Sep 2026 15:19:33 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>busted_ma</category>
-      <category>8-K</category>
-      <scanner:headline>Sells substantially all assets to Progress for ~$221M cash; ticker to HUCK</scanner:headline>
-      <scanner:shortName>Huckleberry.ai</scanner:shortName>
-      <scanner:price>3.72</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Technology</scanner:sector>
-      <scanner:ticker>DOMO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>174974518</scanner:marketCap>
-      <scanner:enterpriseValue>296663518</scanner:enterpriseValue>
-      <scanner:fwdPE>43.76</scanner:fwdPE>
-      <scanner:fwdEvEbitda>9.92</scanner:fwdEvEbitda>
-      <scanner:fwdEvSales>0.96</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells substantially all assets to Progress for ~$221M cash; ticker to HUCK&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Completed the sale of substantially all assets and employees to Progress Software for approximately $221.0 million in cash, excluding NOLs. The company changed its name to Huckleberry.ai and will trade under HUCK on Nasdaq starting September 24, 2026. Proceeds will be used for value creation and capital return to stockholders.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Progress Software Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $221.0 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Ticker change to HUCK effective September 24, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.72 · Mkt cap $175.0M · EV $296.7M · Fwd P/E 43.8x · Fwd EV/EBITDA 9.9x · Fwd EV/Sales 1.0x · Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1505952/000110465926109635/0001104659-26-109635-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DOMO&lt;/b&gt; · 8-K · Items 1.02, 2.01, 5.03, 7.01, 8.01, 9.01 · Business Services (7372) · 8k_tier1:1.02,2.01,7.01,8.01 · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
