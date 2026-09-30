@@ -6,25 +6,56 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 11:08:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:10:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
-      <title>🤝 Merger · Definitive · CBNK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1419536/000141953626000146/amergeragreementseptember29.htm</link>
-      <guid isPermaLink="false">0001419536-26-000146</guid>
-      <pubDate>Wed, 30 Sep 2026 06:08:45 -0500</pubDate>
+      <title>🤝 Merger · Definitive · PEBO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/318300/000031830026000205/pebo-20260930.htm</link>
+      <guid isPermaLink="false">0000318300-26-000205</guid>
+      <pubDate>Wed, 30 Sep 2026 06:10:01 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquired by Peoples Bancorp for 1.11 shares per CBNK share</scanner:headline>
+      <category>8-K</category>
+      <scanner:headline>Acquires Capital Bancorp for 1.11 shares per Capital share</scanner:headline>
+      <scanner:shortName>PEOPLES BANCORP</scanner:shortName>
+      <scanner:price>39.14</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>PEBO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1383160000</scanner:marketCap>
+      <scanner:fwdPE>10.51</scanner:fwdPE>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Capital Bancorp for 1.11 shares per Capital share&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive merger agreement to acquire Capital Bancorp, Inc. Capital shareholders will receive 1.11 shares of Peoples common stock for each Capital share. The transaction, unanimously approved by both boards, is expected to close following shareholder and regulatory approvals.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Peoples Bancorp Inc. operates as the financial holding company for Peoples Bank that provides commercial and consumer banking products and services. The company accepts various deposit products, including demand deposit accounts, savings accounts, money market accounts, certificates of deposit, and governmental deposits; and provides commercial and industrial, commercial real estate, construction, finance, residential real estate, and consumer indirect and direct loans, as well as home equity li…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Capital Bancorp, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms paid for Capital Bancorp:&lt;/b&gt; 1.11 shares per Capital share&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $39.14 · Mkt cap $1.38B · Fwd P/E 10.5x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/318300/000031830026000205/0000318300-26-000205-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PEBO&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Depository Institutions (6022) · 8k_tier1:1.01,7.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · CBNK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419536/000141953626000145/cbnk-20260929.htm</link>
+      <guid isPermaLink="false">0001419536-26-000146</guid>
+      <pubDate>Wed, 30 Sep 2026 06:09:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquired by Peoples Bancorp for 1.11 shares per share; board approved</scanner:headline>
       <scanner:shortName>Capital Bancorp</scanner:shortName>
       <scanner:price>35.65</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
+      <scanner:form>8-K</scanner:form>
       <scanner:sector>Financials</scanner:sector>
       <scanner:ticker>CBNK</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425, 8-K</scanner:filingForms>
       <scanner:related />
       <scanner:marketCap>580750000</scanner:marketCap>
       <scanner:fwdPE>9.70</scanner:fwdPE>
@@ -37,7 +68,82 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $35.65 · Mkt cap $580.8M · Fwd P/E 9.7x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1419536/000141953626000146/0001419536-26-000146-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CBNK&lt;/b&gt; · 425 · Depository Institutions (6021) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CBNK&lt;/b&gt; · 425 · Depository Institutions (6021) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 30 06:09 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1419536/000141953626000145/cbnk-20260929.htm'&gt;Acquired by Peoples Bancorp for 1.11 shares per share; board approved&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 30 06:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1419536/000141953626000146/amergeragreementseptember29.htm'&gt;Acquired by Peoples Bancorp for 1.11 shares per CBNK share&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · ONAR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1682265/000147793226005919/onar_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-005919</guid>
+      <pubDate>Wed, 30 Sep 2026 06:09:38 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Advertise Purple for $12.825M cash, $7M note &amp; up to $8M earnout</scanner:headline>
+      <scanner:shortName>Onar Holding</scanner:shortName>
+      <scanner:price>0.0100</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>ONAR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3410000</scanner:marketCap>
+      <scanner:enterpriseValue>9370000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.32</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>34.87</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>34.87</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>6.64</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Advertise Purple for $12.825M cash, $7M note &amp;amp; up to $8M earnout&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation, through its subsidiary ONAR, LLC, completed the acquisition of Advertise Purple LLC. The aggregate consideration includes $12.825 million in cash, a $7.0 million unsecured promissory note, and potential cash earnout payments of up to $8.0 million based on gross profit thresholds over three annual measurement periods. Advertise Purple became an indirect wholly owned subsidiary of Onar.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ONAR Holding Corporation operates as a marketing technology company and agency network in the United States. It operates through Advertising and Marketing Services and Healthcare Marketing segment. The Advertising and Marketing Services segment provides digital marketing, creative, data science, and technology services. The Healthcare Marketing segment offers healthcare marketing solutions, specializing in medical laboratory and genetic testing marketing.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Advertise Purple LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $27.825M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $3.4M · EV $9.4M · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1682265/000147793226005919/0001477932-26-005919-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ONAR&lt;/b&gt; · 8-K · Items 1.01, 2.01, 2.03, 7.01, 9.01 · Business Services (7310) · 8k_tier1:1.01,2.01,7.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚖️ Litigation · Won · CNTB</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835268/000183526826000038/cntb-20260930.htm</link>
+      <guid isPermaLink="false">0001835268-26-000038</guid>
+      <pubDate>Wed, 30 Sep 2026 06:09:28 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+      <category>8-K</category>
+      <scanner:headline>Reports positive Phase 2 rademikibart results in COPD; 81% reduction in treatment failure</scanner:headline>
+      <scanner:shortName>Connect Biopharma</scanner:shortName>
+      <scanner:price>0.9900</scanner:price>
+      <scanner:subtype>won</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>CNTB</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>62470000</scanner:marketCap>
+      <scanner:enterpriseValue>31580000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>10.69</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>10.69</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>12.57</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Reports positive Phase 2 rademikibart results in COPD; 81% reduction in treatment failure&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced positive topline results from its global Phase 2 study of rademikibart for acute exacerbations in COPD. The study showed rademikibart significantly reduced the rate of treatment failure by 81% and new moderate to severe COPD exacerbations by 85% through Week 4 compared to placebo. It also reduced emergency department visits and hospital admissions by 100% and improved COPD symptoms.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Connect Biopharma Holdings Limited operates as a clinical-stage biopharmaceutical company in the United States. It develops rademikibart, a human monoclonal IgG4 antibody directed against IL-4Rα in two Phase 2 trials for the treatment of acute exacerbations of asthma and chronic obstructive pulmonary disease (COPD). The company was founded in 2012 and is headquartered in San Diego, California.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.9900 · Mkt cap $62.5M · EV $31.6M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1835268/000183526826000038/0001835268-26-000038-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CNTB&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01,8.01 · filed 2026-09-30&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · HRL</title>
@@ -16170,103 +16276,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-08-25&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2124478/000149315226043597/0001493152-26-043597-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SKG&lt;/b&gt; · F-4/A · Transportation Services (4731) · prefill_form:F-4 · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚔️ Proxy Contest · ETD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/896156/000092189526002611/dfan14a14857002_09212026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002611</guid>
-      <pubDate>Mon, 21 Sep 2026 16:32:07 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>activist</category>
-      <category>DFAN14A</category>
-      <scanner:headline>Proxy fight over CEO selection; Bergeron blasts board's 'reactionary' plan</scanner:headline>
-      <scanner:shortName>ETHAN ALLEN INTERIORS</scanner:shortName>
-      <scanner:price>20.97</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DFAN14A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>ETD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DFAN14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>539590000</scanner:marketCap>
-      <scanner:enterpriseValue>526940000</scanner:enterpriseValue>
-      <scanner:fwdPE>19.55</scanner:fwdPE>
-      <scanner:fwdEvEbitda>11.20</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Proxy fight over CEO selection; Bergeron blasts board&amp;#39;s &amp;#39;reactionary&amp;#39; plan&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;DGB Investment (Douglas Bergeron), holding 5.2% of Ethan Allen, issued a press release criticizing the board&amp;#39;s September 21 CEO succession plan as &amp;#39;reactionary&amp;#39; and reiterating its proxy contest to elect its slate of directors at the 2026 annual meeting. Bergeron argues the board failed to plan succession and is unqualified to select the next CEO, while his nominees have already launched an independent CEO search.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ethan Allen Interiors Inc. operates as an interior design company, and manufacturer and retailer of home furnishings in the United States and internationally. The company operates through two segments: Wholesale and Retail. It offers case goods items, such as beds, dressers, armoires, tables, chairs, buffets, entertainment units, home office furniture, and wooden accents; upholstery comprising fabric-covered items, such as sleepers, recliners and other motion furniture, chairs, ottomans, custom …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.2%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $20.97 · Mkt cap $539.6M · EV $526.9M · Fwd P/E 19.6x · Fwd EV/EBITDA 11.2x · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002611/0000921895-26-002611-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ETD&lt;/b&gt; · DFAN14A · Furniture (2511) · prefill_form:DFAN14A · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚔️ Proxy Contest · BETR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002612/dfan14a14909002b_09212026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002535</guid>
-      <pubDate>Mon, 21 Sep 2026 16:31:48 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>activist</category>
-      <category>DFAN14A</category>
-      <scanner:headline>Seeks removal of 5 directors via consent solicitation</scanner:headline>
-      <scanner:shortName>Better Home &amp; Finance Holding Co</scanner:shortName>
-      <scanner:price>13.21</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DFAN14A</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>BETR</scanner:ticker>
-      <scanner:filings>5</scanner:filings>
-      <scanner:filingForms>DFAN14A x5</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>255720000</scanner:marketCap>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Seeks removal of 5 directors and CEO; plans return as chairman&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Vishal Garg&amp;#39;s group is soliciting consents to remove five of eight directors and then CEO Daniel Lewis, aiming to install a professional CEO and have Garg return as chairman or chief product officer. Garg cites revenue growth from $20M to $54.7M and funded volume from $600M to $1.6B, with monthly losses cut from $20M to $4M. The consent solicitation is ongoing.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Better Home &amp;amp; Finance Holding Company operates as a homeownership company in the United States. The company provides government-sponsored enterprise (GSE) conforming loans, Federal Housing Administration insured loans, Department of Veterans Affairs guaranteed loans, and jumbo loans to GSEs, banks, insurance companies, asset managers, and mortgage real estate investment trusts. It offers real estate agent services, title insurance and settlement services, and homeowners insurance services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $13.21 · Mkt cap $255.7M · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002535/0000921895-26-002535-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BETR, BETRW&lt;/b&gt; · DFAN14A · Non-Depository Credit (6163) · prefill_form:DFAN14A · filed 2026-09-11&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (5)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DFAN14A · Sep 21 16:31 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002612/dfan14a14909002b_09212026.htm'&gt;Seeks removal of 5 directors via consent solicitation&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 21 13:38 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002596/dfan14a14909002_09212026.htm'&gt;Garg Group: 46% voting power backs removal of 5 directors; Oct 2 target&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 18 16:30 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002589/dfan14a14909002_09182026.htm'&gt;Nominates 3 director candidates; seeks removal of 5 via consent&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 17 16:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002573/dfan14a14909002_09172026.htm'&gt;Seeks removal of 5 directors via consent; plans UK bank sale, buyback&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 11 16:14 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1835856/000092189526002535/dfan14a14909002_09112026.htm'&gt;Seeks removal of 5 directors and CEO; plans return as chairman&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · VREX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1681622/000110465926109351/tm2622593-5_defm14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-109351</guid>
-      <pubDate>Mon, 21 Sep 2026 15:52:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFM14A</category>
-      <scanner:headline>Acquired by Teledyne for $18.90 cash/share; vote Oct 28</scanner:headline>
-      <scanner:shortName>Varex Imaging</scanner:shortName>
-      <scanner:price>18.47</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFM14A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>VREX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFM14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>779320000</scanner:marketCap>
-      <scanner:enterpriseValue>1072420000</scanner:enterpriseValue>
-      <scanner:fwdPE>19.81</scanner:fwdPE>
-      <scanner:fwdEvEbitda>8.55</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Teledyne for $18.90 cash/share; vote Oct 28&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;To be acquired by Teledyne Technologies for $18.90 per share in cash. Special meeting on October 28, 2026 to approve merger; board recommends FOR.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Varex Imaging Corporation designs, manufactures, and sells X-ray imaging components. It operates through two segments, Medical and Industrial. The Medical segment designs, manufactures, sells, and services X-ray imaging components, comprising X-ray tubes, digital detectors and accessories, ionization chambers, high voltage connectors, image-processing software and workstations, 3D reconstruction software, computer-aided diagnostic software, collimators, automatic exposure control devices, genera…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Teledyne Technologies Incorporated&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $18.90&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting October 28, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $18.47 · Mkt cap $779.3M · EV $1.07B · Fwd P/E 19.8x · Fwd EV/EBITDA 8.6x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1681622/000110465926109351/0001104659-26-109351-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VREX&lt;/b&gt; · DEFM14A · Electronic Equipment (3679) · prefill_form:DEFM14A · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,18 +6,50 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 11:08:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:10:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
-      <title>$CBNK 🤝 Merger
-Acquired by Peoples Bancorp for 1.11 shares per CBNK share
+      <title>$PEBO 🤝 Merger
+Acquires Capital Bancorp for 1.11 shares per Capital share
 stock
-Mcap $581M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1419536/000141953626000146/amergeragreementseptember29.htm</link>
-      <guid isPermaLink="false">0001419536-26-000146</guid>
-      <pubDate>Wed, 30 Sep 2026 06:08:45 -0500</pubDate>
+Mcap $1.4B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/318300/000031830026000205/pebo-20260930.htm</link>
+      <guid isPermaLink="false">0000318300-26-000205</guid>
+      <pubDate>Wed, 30 Sep 2026 06:10:01 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
+    </item>
+    <item>
+      <title>$CBNK 🤝 Merger
+Acquired by Peoples Bancorp for 1.11 shares per share; board approved
+stock
+Mcap $581M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1419536/000141953626000145/cbnk-20260929.htm</link>
+      <guid isPermaLink="false">0001419536-26-000146</guid>
+      <pubDate>Wed, 30 Sep 2026 06:09:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$ONAR 🤝 Merger
+Acquires Advertise Purple for $12.825M cash, $7M note &amp; up to $8M earnout
+$27.825M deal · cash+stk
+Mcap $3M · EV $9M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1682265/000147793226005919/onar_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-005919</guid>
+      <pubDate>Wed, 30 Sep 2026 06:09:38 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$CNTB ⚖️ Litigation · Won
+Reports positive Phase 2 rademikibart results in COPD; 81% reduction in treatment failure
+Mcap $62M · EV $32M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835268/000183526826000038/cntb-20260930.htm</link>
+      <guid isPermaLink="false">0001835268-26-000038</guid>
+      <pubDate>Wed, 30 Sep 2026 06:09:28 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
     </item>
     <item>
       <title>$HRL 🤝 Merger
@@ -1074,25 +1106,6 @@ Mcap $169M · EV $407M · Cons Disc</title>
       <guid isPermaLink="false">0001084869-26-000033</guid>
       <pubDate>Tue, 29 Sep 2026 06:10:27 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$BYSI 📤 Divestiture
-Sells BeyondSpring Ltd. to Biolin for clinical trial completion obligation
-Mcap $46M · EV $39M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1677940/000117184326006273/f8k_092826.htm</link>
-      <guid isPermaLink="false">0001171843-26-006273</guid>
-      <pubDate>Tue, 29 Sep 2026 06:09:53 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ALDX ⚖️ Litigation · Lost
-To appeal FDA rejection of reproxalap NDA for dry eye disease
-Mcap $70M · EV $25M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1341235/000119312526405954/aldx-20260929.htm</link>
-      <guid isPermaLink="false">0001193125-26-405954</guid>
-      <pubDate>Tue, 29 Sep 2026 06:09:20 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
     </item>
   </channel>
 </rss>
