@@ -6,8 +6,84 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 21:15:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:17:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · REED</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1140215/000149315226045141/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-045141</guid>
+      <pubDate>Wed, 30 Sep 2026 16:17:13 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Amends senior secured loan, converts $9.25M revolver to term loans; must raise $10M equity by Nov 6</scanner:headline>
+      <scanner:shortName>REED'S</scanner:shortName>
+      <scanner:price>0.6600</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>REED</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>7490000</scanner:marketCap>
+      <scanner:enterpriseValue>15230000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.52</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.10</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>2.09</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>24.88</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Amends senior secured loan, converts $9.25M revolver to term loans; must raise $10M equity by Nov 6&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into an amendment to its Senior Secured Loan and Security Agreement with Whitebox Advisors and Cantor Fitzgerald. The amendment converts $9.25 million in existing revolving credit commitments into new term loans, increases the interest rate, and extends the maturity date to June 30, 2027. A new event of default condition requires the Company to receive at least $10 million in aggregate cash equity contributions by November 6, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Reed&amp;#39;s, Inc. engages in the manufacture and distribution of natural beverages in the United States and the Asia-Pacific region. The company offers reed’s craft ginger beer; reed’s real ginger ales; reed’s ready to drink; reed’s functional soda; flying cauldron soda; and virgil’s handcrafted sodas. It sells its products to natural food and gourmet retailers, grocery store chains, mass merchants, club stores, convenience and drug stores, liquor stores, industrial cafeterias, and on-premise bars an…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Whitebox Advisors, Cantor Fitzgerald Securities&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-11-06&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.6600 · Mkt cap $7.5M · EV $15.2M · Consumer Staples / Beverages&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1140215/000149315226045141/0001493152-26-045141-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;REED&lt;/b&gt; · 8-K · Items 1.01, 2.03, 9.01 · Food &amp;amp; Kindred (2086) · 8k_tier1:1.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · GRND</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1820144/000182014426000033/grnd-20260930.htm</link>
+      <guid isPermaLink="false">0001820144-26-000033</guid>
+      <pubDate>Wed, 30 Sep 2026 16:16:34 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires PurposeMed for $250M cash+stock, plus $70M earnout</scanner:headline>
+      <scanner:shortName>Grindr</scanner:shortName>
+      <scanner:price>15.43</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>GRND</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2801990000</scanner:marketCap>
+      <scanner:enterpriseValue>3185080000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>6.25</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.34</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>22.79</scanner:fwdPE>
+      <scanner:fwdEvEbitda>12.59</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>8.10</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>74.94</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires PurposeMed for $250M cash+stock, plus $70M earnout&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a Securities Purchase Agreement to acquire all outstanding shares of PurposeMed Inc. for a base purchase price of $250 million, consisting of $190 million in cash and 3,851,684 shares of Grindr common stock (valued at $60 million). An additional earnout payment of up to $70 million in cash is possible based on 2027 financial performance targets. The transaction is subject to customary closing conditions and is expected to close by December 30, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Grindr Inc. operates a social networking and dating application for the lesbian, gay, bisexual, transgender, and queer (LGBTQ) communities worldwide. It manages and operates Grindr platform, a social networking platform serving and addressing the needs of gay, bisexual, and sexually explorative adults. It also offers Grindr as the Global Gayborhood in Your Pocket brand. In addition, the company provides ad-supported service and a premium subscription version. Grindr Inc.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; PurposeMed Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 250000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-12-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing by December 30, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $15.43 · Mkt cap $2.80B · EV $3.19B · Fwd P/E 22.8x · Fwd EV/EBITDA 12.6x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1820144/000182014426000033/0001820144-26-000033-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GRND&lt;/b&gt; · 8-K · Items 2.01, 3.02, 7.01, 9.01 · Business Services (7370) · 8k_tier1:2.01,7.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · EFXT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1904856/000119312526409233/apac_closing.htm</link>
@@ -16519,59 +16595,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Definitive agreement by Nov 20, 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2028293/000121390026102377/0001213900-26-102377-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RAIN, RAINW&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Industrial Machinery (3590) · 8k_tier1:1.01,7.01 · filed 2026-09-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · PHNMF</title>
-      <link>https://www.otcmarkets.com/stock/PHNMF/news/536149</link>
-      <guid isPermaLink="false">OTC-536149</guid>
-      <pubDate>Wed, 23 Sep 2026 07:13:55 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>OTC</category>
-      <scanner:headline>Sells 15% interest in Dobbin Project to SSR Mining; forms JV</scanner:headline>
-      <scanner:subtype />
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>PHNMF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Sells 15% interest in Dobbin Project to SSR Mining; forms JV&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Phenom Resources sells 15% interest in its Dobbin Project to SSR Mining and enters into a joint venture arrangement with its subsidiary Copper One USA. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; SSR Mining&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PHNMF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · Debt For Equity Swap · BYND</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1655210/000119312526398531/d186483d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-398531</guid>
-      <pubDate>Wed, 23 Sep 2026 07:13:27 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>debt_for_equity_swap</category>
-      <category>8-K</category>
-      <scanner:headline>Exchanges $15M 0% convertible notes for common stock at 96% of face</scanner:headline>
-      <scanner:shortName>BEYOND MEAT</scanner:shortName>
-      <scanner:price>11.92</scanner:price>
-      <scanner:subtype>debt_for_equity_swap</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Defensive</scanner:sector>
-      <scanner:ticker>BYND</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>204951860</scanner:marketCap>
-      <scanner:enterpriseValue>441395860</scanner:enterpriseValue>
-      <scanner:fwdEvSales>1.81</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Exchanges $15M 0% convertible notes for common stock at 96% of face&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Exchanged $15.0M principal of its 0% Convertible Senior Notes due 2027 for common stock at 96% of face value. Initial settlement of 1,097,444 shares occurred on Sept 23, with up to 848,265 additional shares due Sept 28 based on VWAP with a $7.4009 floor. This reduces debt and dilutes existing shareholders.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $15.0M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Final settlement on Sept 28, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $11.92 · Mkt cap $205.0M · EV $441.4M · Fwd EV/Sales 1.8x · Consumer Defensive / Food Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1655210/000119312526398531/0001193125-26-398531-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BYND&lt;/b&gt; · 8-K · Items 3.02, 8.01 · Food &amp;amp; Kindred (2000) · 8k_tier1:8.01 · filed 2026-09-23&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
