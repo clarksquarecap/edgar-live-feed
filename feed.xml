@@ -6,8 +6,42 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 11:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:02:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · HSCS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026104895/ea0307146-defa14a_heart.htm</link>
+      <guid isPermaLink="false">0001213900-26-104895</guid>
+      <pubDate>Wed, 30 Sep 2026 07:02:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Acquired by Fortitude Mining in all-stock transaction; shareholder vote pending</scanner:headline>
+      <scanner:shortName>HeartSciences</scanner:shortName>
+      <scanner:price>4.05</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>HSCS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>19440000</scanner:marketCap>
+      <scanner:enterpriseValue>23420000</scanner:enterpriseValue>
+      <scanner:grossMarginLtm>60.88</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Fortitude Mining in all-stock transaction; shareholder vote pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;An AI-powered medical technology company, has entered into a definitive merger agreement to combine with Fortitude Mining Holdings, Inc., a digital asset mining platform, in an all-stock transaction. HeartSciences will file a definitive proxy statement and mail it to shareholders for a special meeting to vote on the proposed transaction.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; HeartSciences Inc., a medical technology company, focuses on advancing electrocardiography (ECG) through the integration of artificial intelligence. It develops artificial intelligence-enhanced electrocardiography (AI-ECG) solutions, an algorithm to detect impaired cardiac relaxation or cardiac dysfunction; MyoVista wavECG device, a resting 12-lead ECG that provides diagnostic information related to cardiac dysfunction, as well as conventional ECG information in the same test; and MyoVista Insig…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Fortitude Mining Holdings, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; shareholder vote&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $4.05 · Mkt cap $19.4M · EV $23.4M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1468492/000121390026104895/0001213900-26-104895-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HSCS, HSCSW&lt;/b&gt; · DEFA14A · Non-Depository Credit (6199) · prefill_form:DEFA14A · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · APUR</title>
       <link>https://www.sec.gov/Archives/edgar/data/2093524/000121390026104880/ea0307166-8k425_aperture.htm</link>
@@ -16262,37 +16296,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.43 · Mkt cap $11.9M · EV $15.0M · Fwd P/E 65.2x · Fwd EV/EBITDA 10.9x · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/314227/000165495426008492/0001654954-26-008492-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TOMZ&lt;/b&gt; · 8-K · Items 1.02, 7.01, 9.01 · Chemicals / Pharma (2860) · 8k_tier1:1.02,7.01 · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · GAUZ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1781446/000121390026101847/ea0305898-6k_gauzy.htm</link>
-      <guid isPermaLink="false">0001213900-26-101847</guid>
-      <pubDate>Mon, 21 Sep 2026 16:35:54 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>6-K</category>
-      <scanner:headline>Forced Nasdaq delisting; appeals to Panel</scanner:headline>
-      <scanner:shortName>Gauzy</scanner:shortName>
-      <scanner:price>6.45</scanner:price>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>GAUZ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>5790000</scanner:marketCap>
-      <scanner:enterpriseValue>67840000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting; appeals to Panel&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a delisting notice from Nasdaq due to failure to regain compliance with the $1 bid price rule and delinquent Form 20-F. The company intends to appeal to the Nasdaq Hearings Panel, which will stay the delisting pending the hearing. Shares continue to trade on Nasdaq Global Market.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Gauzy Ltd., an integrated light and vision control company, develops, manufactures, and supplies vision and light control technologies in Israel, the United States, France, rest of Europe, Asia, and internationally. It operates through four segments: Architecture, Automotive, Safety tech, and Aeronautics.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nasdaq&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Appeal request due Sept 22, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $6.45 · Mkt cap $5.8M · EV $67.8M · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1781446/000121390026101847/0001213900-26-101847-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GAUZ&lt;/b&gt; · 6-K · Electronic Equipment (3690) · prefill_form:6-K · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
