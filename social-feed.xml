@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 11:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 11:16:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SEED 📤 Divestiture
+Sells 70.5% stake in Xinjiang Originbo to Hunan Xindaxin for RMB108M (~$15M)
+to Hunan Xindaxin Limited · RMB 108,000,000 deal · close 2027-06-30
+Mcap $11M · EV $10M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1321851/000110465926112107/tm2626674d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112107</guid>
+      <pubDate>Wed, 30 Sep 2026 06:16:39 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$PEBO 🤝 Merger
 Acquires Capital Bancorp for 1.11 shares per Capital share
@@ -1076,26 +1086,6 @@ Mcap $154M · EV $1.5B · Industrials</title>
       <guid isPermaLink="false">0001674335-26-000126</guid>
       <pubDate>Tue, 29 Sep 2026 06:17:08 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$WLDBF 💧 Capital Return · Self-tender
-Launches C$20M issuer bid for common shares
-Mcap $171M · EV $150M · Comms</title>
-      <link>https://www.otcmarkets.com/stock/WLDBF/news/536691</link>
-      <guid isPermaLink="false">OTC-536691</guid>
-      <pubDate>Tue, 29 Sep 2026 06:11:02 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-    </item>
-    <item>
-      <title>$PYRGF 🤝 Merger
-Completes 50% ownership acquisition of HPQ Silica Polvere Inc.
-Mcap $36M · EV $37M · Industrials</title>
-      <link>https://www.otcmarkets.com/stock/PYRGF/news/536688</link>
-      <guid isPermaLink="false">OTC-536688</guid>
-      <pubDate>Tue, 29 Sep 2026 06:10:50 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
