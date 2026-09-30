@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 21:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:15:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$EFXT 📤 Divestiture
+Completes Asia Pacific divestiture to INNIO Group
+Mcap $2.8B · EV $3.3B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1904856/000119312526409233/apac_closing.htm</link>
+      <guid isPermaLink="false">0001193125-26-409233</guid>
+      <pubDate>Wed, 30 Sep 2026 16:15:46 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$FBYD 📍 Stake
 Infinite Acquisitions reports 26.71% stake in Falcon's Beyond Global
@@ -1204,17 +1213,6 @@ Mcap $52M · EV $169M · Materials</title>
       <guid isPermaLink="false">0001062993-26-005110</guid>
       <pubDate>Tue, 29 Sep 2026 16:22:10 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$INM 🤝 Merger
-Acquires Mentari Therapeutics for ~2.0065 INM shares/Mentari share; redomiciles to Nevada
-stock
-Mcap $9M · EV $7M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1728328/000119312526407792/d131177ds4a.htm</link>
-      <guid isPermaLink="false">0001193125-26-407792</guid>
-      <pubDate>Tue, 29 Sep 2026 16:14:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
