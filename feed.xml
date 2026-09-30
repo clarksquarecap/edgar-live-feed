@@ -6,8 +6,41 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 12:17:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:19:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>✂️ Carve-Out · RCT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2027360/000149315226045030/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-045030</guid>
+      <pubDate>Wed, 30 Sep 2026 07:17:49 -0500</pubDate>
+      <category>CARVE_OUT</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Forms JV with MJM AlKhaleej for RedAI in Saudi Arabia/Bahrain; 51% stake</scanner:headline>
+      <scanner:shortName>RedCloud Holdings</scanner:shortName>
+      <scanner:price>0.1900</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>RCT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>11010000</scanner:marketCap>
+      <scanner:enterpriseValue>22330000</scanner:enterpriseValue>
+      <scanner:fwdEvEbitda>3.07</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>0.84</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Forms JV with MJM AlKhaleej for RedAI in Saudi Arabia/Bahrain; 51% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Through its subsidiary RedCloud UK, entered into a shareholders&amp;#39; agreement and a 20-year platform license with MJM AlKhaleej L.L.C. to establish a joint venture. The JV will operate RedCloud&amp;#39;s RedAI intelligent trade infrastructure in Saudi Arabia and Bahrain, with RedCloud UK holding a 51% ownership stake and MJM holding 49%. The JV combines RedCloud&amp;#39;s AI with MJM&amp;#39;s market access and relationships.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; RedCloud Holdings plc operates a cloud-based business-to-business open commerce platform primarily in Argentina, the United Kingdom, Brazil, Nigeria, South Africa, and internationally. The company develops and operates the RedAI infrastructure and associated products that facilitates the trading of consumer supplies of fast-moving consumer goods across business supply chains.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; MJM AlKhaleej L.L.C.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 51%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-27&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; JV incorporation&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.1900 · Mkt cap $11.0M · EV $22.3M · Fwd EV/EBITDA 3.1x · Consumer Discretionary / Distributors&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2027360/000149315226045030/0001493152-26-045030-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RCT&lt;/b&gt; · 6-K · Retail; Misc (5990) · prefill_form:6-K · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚖️ Litigation · Won · ARIS</title>
       <link>https://www.sec.gov/Archives/edgar/data/1964504/000175392626001879/g085971_6k.htm</link>
@@ -16274,40 +16307,6 @@
 &lt;p&gt;&lt;i&gt;Px $29.08 · Mkt cap $894.3M · EV $841.0M · Fwd P/E 36.7x · Fwd EV/EBITDA 10.6x · Health Care / Health Care Technology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1095565/000215202526000004/0002152025-26-000004-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HSTM&lt;/b&gt; · SCHEDULE 13D · Business Services (7370) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · VGZ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/783324/000110465926109364/tm2625813d1_8k.htm</link>
-      <guid isPermaLink="false">OTC-535753</guid>
-      <pubDate>Mon, 21 Sep 2026 16:36:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquired by Artemis Gold for 0.0966 Artemis shares per share; vote pending</scanner:headline>
-      <scanner:shortName>VISTA GOLD</scanner:shortName>
-      <scanner:price>2.74</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>VGZ</scanner:ticker>
-      <scanner:filings>4</scanner:filings>
-      <scanner:filingForms>OTC, DEFA14A x2, 8-K</scanner:filingForms>
-      <scanner:related>ARGTF</scanner:related>
-      <scanner:marketCap>329900000</scanner:marketCap>
-      <scanner:enterpriseValue>280360000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Artemis Gold for 0.0966 shares (~$2.83/share); 29% premium&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a definitive arrangement agreement with Artemis Gold, which will acquire all outstanding Vista shares. Each Vista share converts into 0.0966 Artemis Gold shares, implying US$2.83 per share and ~US$427M total value, a 29% premium to 20-day VWAP. Transaction requires shareholder, court, and regulatory approvals; outside date April 15, 2027.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Vista Gold Corp., together with its subsidiaries, operates as a development-stage company in the gold mining industry. Its flagship asset is the 100% owned Mt Todd gold project located in the Northern Territory, Australia. The company was formerly known as Granges, Inc. and changed its name to Vista Gold Corp. in November 1996. Vista Gold Corp. was incorporated in 1983 and is based in Englewood, Colorado.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Artemis Gold Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; US$2.83&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; ~US$427 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 29%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; April 15, 2027 (outside date)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder meeting; court and regulatory approvals&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.74 · Mkt cap $329.9M · EV $280.4M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/783324/000110465926109368/0001104659-26-109368-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VGZ&lt;/b&gt; · DEFA14A · Metal Mining (1040) · prefill_form:DEFA14A · filed 2026-09-21&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 21 16:36 · &lt;a href='https://www.sec.gov/Archives/edgar/data/783324/000110465926109364/tm2625813d1_8k.htm'&gt;Acquired by Artemis Gold for 0.0966 Artemis shares per share; vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 21 16:30 · &lt;a href='https://www.sec.gov/Archives/edgar/data/783324/000110465926109367/tm2625813d3_defa14a.htm'&gt;Acquired by Artemis Gold for 0.0966x/share ($2.83)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 21 16:29 · &lt;a href='https://www.sec.gov/Archives/edgar/data/783324/000110465926109368/tm2625813d1_8k.htm'&gt;Acquired by Artemis Gold for 0.0966 shares (~$2.83/share); 29% premium&lt;/a&gt;&lt;/li&gt;&lt;li&gt;OTC · Sep 21 05:49 · &lt;a href='https://www.otcmarkets.com/stock/ARGTF/news/535753'&gt;Acquires Vista Gold&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer ARGTF also filed OTC&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
