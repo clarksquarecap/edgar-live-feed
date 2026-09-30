@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:29:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:30:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ZENA 🤝 Merger
+Acquires 5 businesses; signed offers for C$40M revenue in future deals
+Mcap $137M · EV $192M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1997403/000137647426000623/zt_6k.htm</link>
+      <guid isPermaLink="false">0001376474-26-000623</guid>
+      <pubDate>Wed, 30 Sep 2026 15:30:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$STNG 📤 Divestiture
+Sells 3 product tankers for $180.5M; purchases 4 newbuilds for $415.6M
+close 2026-12-31
+Mcap $3.8B · EV $2.7B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1483934/000162828026063997/stng6k-09302026.htm</link>
+      <guid isPermaLink="false">0001628280-26-063997</guid>
+      <pubDate>Wed, 30 Sep 2026 15:29:47 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$LPA 📤 Divestiture
+Sells Parque Logístico Lima Sur to FIBRA Prime for US$145M
+US$145.0 million deal
+Mcap $89M · EV $459M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1997711/000199771126000172/latampropertiesoftheameric.htm</link>
+      <guid isPermaLink="false">0001997711-26-000172</guid>
+      <pubDate>Wed, 30 Sep 2026 15:29:27 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$SPKL 🤝 Merger
 Acquires ZincFive in $600M all-stock business combination
@@ -1186,35 +1216,6 @@ Mcap $11B · EV $20B · Utilities</title>
       <pubDate>Tue, 29 Sep 2026 15:37:04 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$VREOF 🤝 Merger
-Enters put/call agreement for loan acquisition
-empty
-Mcap $491M · EV $873M · Healthcare</title>
-      <link>https://www.otcmarkets.com/stock/VREOF/news/536814</link>
-      <guid isPermaLink="false">OTC-536814</guid>
-      <pubDate>Tue, 29 Sep 2026 15:30:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BRSP 👀 Activist
-Discloses 8.7% stake in BRSP; engaged board on ownership limit
-Mcap $514M · EV $3.0B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1717547/000092189526002666/0000921895-26-002666-index.htm</link>
-      <guid isPermaLink="false">0000921895-26-002666</guid>
-      <pubDate>Tue, 29 Sep 2026 15:29:46 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$LFCR 📍 Stake
-Receives 13D/A from Wynnefield Capital reporting 10.3% stake
-Mcap $159M · EV $348M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1005286/000110465926111939/0001104659-26-111939-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-111939</guid>
-      <pubDate>Tue, 29 Sep 2026 15:29:16 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
