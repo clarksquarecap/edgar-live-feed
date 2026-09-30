@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:49:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:49:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · KOD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468748/000110465926112371/0001104659-26-112371-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-112371</guid>
+      <pubDate>Wed, 30 Sep 2026 15:49:35 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Receives 13D/A from Baker Bros. reporting 35.0% stake</scanner:headline>
+      <scanner:shortName>Kodiak Sciences</scanner:shortName>
+      <scanner:price>32.35</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>KOD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2029080000</scanner:marketCap>
+      <scanner:enterpriseValue>1955930000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Baker Bros. reporting 35.0% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Schedule 13D/A filing from Baker Bros. Advisors LP and its affiliates, reporting an increase in their beneficial ownership to 35.0% of the company&amp;#39;s common stock. The filing indicates that Baker Bros. holds the securities for investment purposes and may discuss items of mutual interest with management. The Reporting Persons currently have no plans for extraordinary corporate transactions involving the Issuer.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Kodiak Sciences Inc., a clinical stage biopharmaceutical company, engages in the research, development, and commercialization of therapeutics to treat retinal diseases. Its lead product candidate is tarcocimab tedromer (KSI-301), an anti-vascular endothelial growth factor (VEGF) antibody biopolymer that has complete Phase 3 clinical study to treat high prevalence retinal vascular diseases; and in Phase 3 clinical study for the treatment of diabetic retinopathy, wet age-related macular degenerati…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Baker Bros. Advisors LP&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 35.0%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $32.35 · Mkt cap $2.03B · EV $1.96B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1468748/000110465926112371/0001104659-26-112371-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KOD&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2836) · fresh_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · MCY</title>
       <link>https://www.sec.gov/Archives/edgar/data/64996/000119312526409121/0001193125-26-409121-index.htm</link>
@@ -16476,39 +16507,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; early 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; customary approvals and closing conditions&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/884887/000110465926109755/0001104659-26-109755-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RCL&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Water Transportation (4400) · 8k_tier1:8.01 · filed 2026-09-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BACC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2097508/000118518526004213/bldcs4a4091826.htm</link>
-      <guid isPermaLink="false">0001185185-26-004185</guid>
-      <pubDate>Wed, 23 Sep 2026 05:10:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4/A</category>
-      <scanner:headline>Acquires Blue Acquisition Corp. in $450M stock merger</scanner:headline>
-      <scanner:shortName>Blue Acquisition Corp/Cayman</scanner:shortName>
-      <scanner:price>10.50</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4/A</scanner:form>
-      <scanner:sector>Financial Services</scanner:sector>
-      <scanner:ticker>BACC</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>425, 8-K, S-4/A</scanner:filingForms>
-      <scanner:related>BLDC</scanner:related>
-      <scanner:marketCap>293602711</scanner:marketCap>
-      <scanner:enterpriseValue>293400850</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Amends Blockfusion deal: earnout up to 15M shares, CoreWeave warrant adjusted&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;(SPAC) amended its Business Combination Agreement with Blockfusion Digital Infrastructure, increasing maximum earnout shares to 15,000,000 with VWAP thresholds of $13/$15/$17, and adjusting the CoreWeave warrant to 2,870,813 Pubco shares at $7.4643. The deal remains pending shareholder approval.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Blockfusion Digital Infrastructure, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on business combination&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.50 · Mkt cap $293.6M · EV $293.4M · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004185/0001185185-26-004185-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BACC, BACCR, BACCU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-22&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;S-4/A · Sep 23 05:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2097508/000118518526004213/bldcs4a4091826.htm'&gt;Acquires Blue Acquisition Corp. in $450M stock merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 22 05:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004183/bacc8k425092026.htm'&gt;Amends BCA with Blockfusion: earnout up to 15M shares, new warrant terms&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 22 05:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004185/bacc8k425092026.htm'&gt;Amends Blockfusion deal: earnout up to 15M shares, CoreWeave warrant adjusted&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty BLDC also filed S-4/A&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:49:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:49:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KOD 📍 Stake
+Receives 13D/A from Baker Bros. reporting 35.0% stake
+Mcap $2.0B · EV $2.0B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468748/000110465926112371/0001104659-26-112371-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-112371</guid>
+      <pubDate>Wed, 30 Sep 2026 15:49:35 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$MCY 👀 Activist
 Joseph discloses 35.3% stake, seeks strategic review, M&amp;A, board changes
@@ -1236,16 +1245,6 @@ Mcap $2.1B · EV $2.0B · Comms</title>
       <guid isPermaLink="false">0001104659-26-111962</guid>
       <pubDate>Tue, 29 Sep 2026 15:55:50 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$BSAA 👀 Activist
-Claudius Tsang acquires Sponsor, takes 80% stake in BSAA
-80.0 stake
-Mcap $23M · EV $22M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2051587/000121390026104723/0001213900-26-104723-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-104723</guid>
-      <pubDate>Tue, 29 Sep 2026 15:49:30 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
