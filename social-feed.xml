@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:47:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WETH 💧 Capital Return · Special Div
+Provides update on previously announced special cash dividend of up to $0.5M
+Mcap $14M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1826660/000121390026105275/ea0307194-8k_wetouch.htm</link>
+      <guid isPermaLink="false">0001213900-26-105275</guid>
+      <pubDate>Wed, 30 Sep 2026 15:46:54 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>special_dividend</category>
+    </item>
+    <item>
+      <title>$VRME 🤝 Merger
+Completes Legacy OpenWorld acquisition (1:77.27 share exchange); new ticker OPNW
+stock
+Mcap $13M · EV $9M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1104038/000121465926012283/w92926108k.htm</link>
+      <guid isPermaLink="false">0001214659-26-011753</guid>
+      <pubDate>Wed, 30 Sep 2026 15:46:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$BZAI 🔎 Strat Review · Portfolio Review
 Implements restructuring plan, cuts 26% workforce for $7.5M-$8.4M annual savings
@@ -1226,15 +1247,6 @@ Mcap $23M · EV $22M · Financials</title>
       <guid isPermaLink="false">0001213900-26-104725</guid>
       <pubDate>Tue, 29 Sep 2026 15:48:09 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$MDT 🪓 Split-off
-Offers to exchange MDT shares for 225.36M MiniMed Group shares
-Mcap $113B · EV $133B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026063823/a425-mdtwebsitex92926.htm</link>
-      <guid isPermaLink="false">0001628280-26-062507</guid>
-      <pubDate>Tue, 29 Sep 2026 15:47:04 -0500</pubDate>
-      <category>SPLIT_OFF</category>
     </item>
   </channel>
 </rss>
