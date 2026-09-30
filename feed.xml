@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 12:03:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:04:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Won · AEON</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1837607/000183760726000064/aeon-20260930x8k.htm</link>
+      <guid isPermaLink="false">0001837607-26-000064</guid>
+      <pubDate>Wed, 30 Sep 2026 07:03:52 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+      <category>8-K</category>
+      <scanner:headline>FDA feedback clarifies ABP-450 path; milestone warrants expire Nov 16</scanner:headline>
+      <scanner:shortName>AEON Biopharma</scanner:shortName>
+      <scanner:price>0.2600</scanner:price>
+      <scanner:subtype>won</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>AEON</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>12920000</scanner:marketCap>
+      <scanner:enterpriseValue>12260000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;FDA feedback clarifies ABP-450 path; milestone warrants expire Nov 16&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received official FDA minutes for its ABP-450 biosimilar development, with the FDA agreeing in principle to the proposed two-stage comparative pharmacodynamic study design. This feedback triggers the acceleration of two-year milestone warrants, which will now expire on November 16, 2026, instead of July 15, 2028. The company plans to submit an IND for the study in Q4 2026 and initiate it in Q1 2027.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; AEON Biopharma, Inc., a clinical stage biopharmaceutical company, focuses on developing botulinum toxins. It develops ABP-450 (prabotulinumtoxinA) injection for debilitating medical conditions, which completed Phase 2 study for the treatment of cervical dystonia and has an ongoing Phase 2 study for the treatment of chronic and episodic migraine. It also develops ABP-450 for the treatment of gastroparesis and post-traumatic stress disorder.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Warrant expiration Nov 16, 2026; IND submission Q4 2026; study initiation Q1 2027&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.2600 · Mkt cap $12.9M · EV $12.3M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1837607/000183760726000064/0001837607-26-000064-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AEON&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01,8.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · ZIM</title>
       <link>https://www.sec.gov/Archives/edgar/data/1654126/000117891326004656/zk2636172.htm</link>
@@ -16271,37 +16301,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IBAC, IBACR&lt;/b&gt; · 425 · Engineering / Accounting (8731) · prefill_form:425 · filed 2026-09-21&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 21 16:35 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1998781/000149315226043585/form8-k.htm'&gt;Secures $50M ELOC and $16.5M PIPE for GNQ merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 21 16:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1998781/000149315226043587/form425.htm'&gt;Secures $50M ELOC and $16.5M PIPE for GNQ merger&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · RIME</title>
-      <link>https://www.sec.gov/Archives/edgar/data/923601/000149315226043599/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-043599</guid>
-      <pubDate>Mon, 21 Sep 2026 16:35:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires Azure Energy's waste-to-power business for $23M in stock</scanner:headline>
-      <scanner:shortName>Algorhythm Holdings</scanner:shortName>
-      <scanner:price>0.2100</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>RIME</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3650000</scanner:marketCap>
-      <scanner:enterpriseValue>5370000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Azure Energy&amp;#39;s waste-to-power business for $23M in stock&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Through subsidiary Azure Holdings, acquired substantially all assets of Azure Energy&amp;#39;s waste/biomass-to-power business for $23M in Parent securities (4,076,312 common shares = 19.99% of outstanding + 22,038 Series B preferred). Also received 36-month option to buy 79.03% of Azure S.R.L. for $30M. CEO/CFO replaced; Andrew Thompson appointed CEO.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Algorhythm Holdings, Inc., together with its subsidiaries, operates as an AI technology and consumer electronics holding company in India. The SemiCab uses real-time data from API-based load tendering and pre-built integrations with TMS and ELD partners to orchestrate collaboration across manufacturers, retailers, distributors, and their carriers. It uses AI/ML predictions and advanced predictive optimization models to enable fully loaded round trips.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Azure Energy, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $23,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 19.99%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Option to acquire 79.03% of Azure S.R.L. exercisable for 36 months&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.2100 · Mkt cap $3.6M · EV $5.4M · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/923601/000149315226043599/0001493152-26-043599-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RIME&lt;/b&gt; · 8-K · Items 1.01, 2.01, 2.03, 3.02, 3.03, 5.02, 5.03, 7.01, 9.01 · Business Services (7373) · 8k_tier1:1.01,2.01,3.03,7.01 · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
