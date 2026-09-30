@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 10:27:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:33:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GPUS 🪙 Debt Restr.
+Guarantees $21M additional loan for affiliate Ault &amp; Co.; extends loan maturity to Dec 2027
+Mcap $28M · EV $139M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/896493/000121465926012236/z9292618k.htm</link>
+      <guid isPermaLink="false">0001214659-26-012236</guid>
+      <pubDate>Wed, 30 Sep 2026 05:33:41 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$CNDT 📤 Divestiture
 Sells Public Transit and Tolling businesses via definitive agreements
@@ -1084,16 +1093,6 @@ Mcap $257B · EV $284B · Healthcare</title>
       <pubDate>Tue, 29 Sep 2026 05:44:43 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$WSE 💧 Capital Return · Buyback
-Repurchased 1.49M Class A shares as part of £405M (~$540M) buyback
-Mcap $12B · EV $6.9B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2099039/000165495426008613/a6551w.htm</link>
-      <guid isPermaLink="false">0001654954-26-008613</guid>
-      <pubDate>Tue, 29 Sep 2026 05:32:42 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>

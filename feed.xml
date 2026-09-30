@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 10:27:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:33:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · GPUS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/896493/000121465926012236/z9292618k.htm</link>
+      <guid isPermaLink="false">0001214659-26-012236</guid>
+      <pubDate>Wed, 30 Sep 2026 05:33:41 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Guarantees $21M additional loan for affiliate Ault &amp; Co.; extends loan maturity to Dec 2027</scanner:headline>
+      <scanner:shortName>Hyperscale Data</scanner:shortName>
+      <scanner:price>0.1700</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>GPUS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>28110000</scanner:marketCap>
+      <scanner:enterpriseValue>138660000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.07</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>4.07</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>4.07</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>26.14</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Guarantees $21M additional loan for affiliate Ault &amp;amp; Co.; extends loan maturity to Dec 2027&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Hyperscale Data, Inc. and its subsidiaries, as Hyperscale Guarantors, entered into an Eighth Amendment to their Loan and Guaranty Agreement. This amendment facilitates an additional $21 million loan to affiliate Ault &amp;amp; Co., with GPUS guaranteeing the repayment. The maturity date for all loans under the agreement is extended to December 14, 2027.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Hyperscale Data, Inc., together with its subsidiaries, provides crane rental and lifting solutions for oilfield, construction, commercial, and infrastructure markets in North America, Europe, the Middle East, and internationally. It operates through Technology and Finance (Fintech); Sentinum; AGREE; Energy and Infrastructure (Energy); ROI; and TurnOnGreen segments.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; JGB Capital, LP&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 21000000&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-12-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2027-12-14&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.1700 · Mkt cap $28.1M · EV $138.7M · Industrials / Industrial Conglomerates&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/896493/000121465926012236/0001214659-26-012236-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GPUS, GPUS-PD&lt;/b&gt; · 8-K · Items 1.01, 2.03, 9.01 · Industrial Machinery (3533) · 8k_tier1:1.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · CNDT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1677703/000167770326000118/cndt-20260930.htm</link>
@@ -16224,39 +16261,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ALIS, ALISR, ALISU&lt;/b&gt; · 425 · Business Services (7374) · prefill_form:425 · filed 2026-09-21&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 21 15:43 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2026767/000149315226043574/form8-k.htm'&gt;Adds up to $30.9M forward purchase agreement with Harraden Circle for Goodvision merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 21 15:41 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2026767/000149315226043575/form425.htm'&gt;Enters prepaid forward purchase with Harraden for up to 3M shares to support Goodvision merger&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · JACK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/807882/000090266426003887/0000902664-26-003887-index.htm</link>
-      <guid isPermaLink="false">0000902664-26-003887</guid>
-      <pubDate>Mon, 21 Sep 2026 15:30:29 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Extends cooperation agreement with Jack in the Box; adds board consultation, investor day</scanner:headline>
-      <scanner:shortName>JACK IN THE BOX</scanner:shortName>
-      <scanner:price>13.33</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>JACK</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>250480000</scanner:marketCap>
-      <scanner:enterpriseValue>2685790000</scanner:enterpriseValue>
-      <scanner:fwdPE>5.17</scanner:fwdPE>
-      <scanner:fwdEvEbitda>12.22</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Extends cooperation agreement with Jack in the Box; adds board consultation, investor day&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;GreenWood Investors extended its cooperation agreement with Jack in the Box through the 2028 annual meeting, adding board consultation rights and requiring an investor day by June 30, 2027. GreenWood holds 7.1% of JACK common stock.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Jack in the Box Inc., together with its subsidiaries, develops, operates, and franchises quick-service restaurants (QSR) in the United States. It operates through Jack in the Box and Del Taco segments. The company engages in the operation of a hamburger chain under the Jack in the Box brand; and a Mexican-American QSR chain under the Del Taco brand. The company was formerly known as Foodmaker, Inc and changed its name to Jack in the Box Inc. in November 1999. Jack in the Box Inc.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.1%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Investor Day by June 30, 2027&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $13.33 · Mkt cap $250.5M · EV $2.69B · Fwd P/E 5.2x · Fwd EV/EBITDA 12.2x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/807882/000090266426003887/0000902664-26-003887-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JACK&lt;/b&gt; · SCHEDULE 13D/A · Retail; Food Service (5812) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
