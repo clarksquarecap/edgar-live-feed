@@ -6,25 +6,90 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 10:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:18:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
-      <title>🤝 Merger · Definitive · CHBKF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2088711/000119312526408219/d157849d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-408219</guid>
-      <pubDate>Wed, 30 Sep 2026 05:16:48 -0500</pubDate>
+      <title>🤝 Merger · Definitive · MKAR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2052373/000121390026104835/ea0271516-14.htm</link>
+      <guid isPermaLink="false">0001213900-26-104835</guid>
+      <pubDate>Wed, 30 Sep 2026 05:18:03 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>F-4/A</category>
+      <scanner:headline>Acquires Crown Proptech Acquisitions (CPTK) in $400M business combination</scanner:headline>
+      <scanner:shortName>Mkango Rare Earths</scanner:shortName>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>F-4/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>MKAR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>F-4/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Acquires Crown Proptech Acquisitions (CPTK) in $400M business combination&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited (MKAR) is acquiring Crown Proptech Acquisitions (CPTK) in a business combination valued at $400 million. CPTK will merge into a wholly-owned subsidiary of Mkango Rare Earths. The transaction is subject to shareholder approval and the effectiveness of this F-4 registration statement.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Crown Proptech Acquisitions&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 400,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-07-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on business combination&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2052373/000121390026104835/0001213900-26-104835-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MKAR&lt;/b&gt; · F-4/A · Metal Mining (1040) · prefill_form:F-4 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · BLFS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/834365/000119312526408201/d47823d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-408198</guid>
+      <pubDate>Wed, 30 Sep 2026 05:17:45 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
       <category>425</category>
-      <scanner:headline>To become wholly owned subsidiary of Chiba Financial Group via joint share transfer; effective Apr 1, 2027</scanner:headline>
+      <scanner:headline>Acquired by Repligen for $11.25 cash + 0.1442 shares; vote Oct 5</scanner:headline>
+      <scanner:shortName>BIOLIFE SOLUTIONS</scanner:shortName>
+      <scanner:price>39.22</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>BLFS</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>DEFA14A, 425</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1918120000</scanner:marketCap>
+      <scanner:enterpriseValue>1820790000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>17.07</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>26.83</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>126.29</scanner:fwdPE>
+      <scanner:fwdEvEbitda>48.84</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>26.78</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>63.61</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Repligen for $11.25 cash + 0.1442 shares; vote Oct 5&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered a definitive merger agreement on July 21, 2026, to be acquired by Repligen Corporation for $11.25 cash and 0.1442 shares of Repligen common stock per BioLife share. The special meeting of BioLife stockholders to vote on the merger is scheduled for October 5, 2026. The company also disclosed shareholder litigation and supplemental disclosures related to the proxy statement.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BioLife Solutions, Inc. develops, manufactures, and markets bioproduction products and services for the cell and gene therapy (CGT) industry in the United States, Europe, the Middle East, Africa, and internationally. The company’s products are used in the basic and applied research, and commercial manufacturing of biologic-based therapies.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Repligen Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; $11.25 cash + 0.1442 Repligen shares&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder vote on Oct 5, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $39.22 · Mkt cap $1.92B · EV $1.82B · Fwd P/E 126.3x · Fwd EV/EBITDA 48.8x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/834365/000119312526408198/0001193125-26-408198-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BLFS&lt;/b&gt; · DEFA14A · Instruments / Medical Devices (3845) · prefill_form:DEFA14A · filed 2026-09-30&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 30 05:17 · &lt;a href='https://www.sec.gov/Archives/edgar/data/834365/000119312526408201/d47823d425.htm'&gt;Acquired by Repligen for $11.25 cash + 0.1442 shares; vote Oct 5&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 30 05:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/834365/000119312526408198/d39870ddefa14a.htm'&gt;Acquired by Repligen for $11.25 cash + 0.1442 shares; vote Oct 5&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · CHBKF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2088606/000119312526408212/d138196d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-408219</guid>
+      <pubDate>Wed, 30 Sep 2026 05:17:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>Prepares joint share transfer plan to form Chiba Financial Group holding company with Chiba Kogyo Bank</scanner:headline>
       <scanner:shortName>Chiba Kogyo Bank</scanner:shortName>
       <scanner:price>14.30</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
       <scanner:form>425</scanner:form>
       <scanner:sector>Financials</scanner:sector>
       <scanner:ticker>CHBKF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425 x2</scanner:filingForms>
       <scanner:related />
       <scanner:marketCap>995030000</scanner:marketCap>
       <scanner:fwdPE>39.48</scanner:fwdPE>
@@ -37,7 +102,9 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-03-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-04-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-12-23&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $14.30 · Mkt cap $995.0M · Fwd P/E 39.5x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2088711/000119312526408219/0001193125-26-408219-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CHBKF&lt;/b&gt; · 425 · Depository Institutions (6021) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CHBKF&lt;/b&gt; · 425 · Depository Institutions (6021) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 30 05:17 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2088606/000119312526408212/d138196d425.htm'&gt;Prepares joint share transfer plan to form Chiba Financial Group holding company with Chiba Kogyo Bank&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 30 05:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2088711/000119312526408219/d157849d425.htm'&gt;To become wholly owned subsidiary of Chiba Financial Group via joint share transfer; effective Apr 1, 2027&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · OCLT</title>
@@ -68,45 +135,6 @@
 &lt;p&gt;&lt;i&gt;Px $9.90 · Mkt cap $102.9M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2137679/000182912626010595/0001829126-26-010595-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OCLT, OCLTR, OCLTU, OCLTW&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BLFS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/834365/000119312526408198/d39870ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-408198</guid>
-      <pubDate>Wed, 30 Sep 2026 05:16:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Acquired by Repligen for $11.25 cash + 0.1442 shares; vote Oct 5</scanner:headline>
-      <scanner:shortName>BIOLIFE SOLUTIONS</scanner:shortName>
-      <scanner:price>39.22</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>BLFS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFA14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1918120000</scanner:marketCap>
-      <scanner:enterpriseValue>1820790000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>17.07</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>26.83</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>126.29</scanner:fwdPE>
-      <scanner:fwdEvEbitda>48.84</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>26.78</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>63.61</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Repligen for $11.25 cash + 0.1442 shares; vote Oct 5&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a definitive merger agreement on July 21, 2026, to be acquired by Repligen Corporation for $11.25 cash and 0.1442 shares of Repligen common stock per BioLife share. The special meeting of BioLife stockholders to vote on the merger is scheduled for October 5, 2026. The company also disclosed shareholder litigation and supplemental disclosures related to the proxy statement.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BioLife Solutions, Inc. develops, manufactures, and markets bioproduction products and services for the cell and gene therapy (CGT) industry in the United States, Europe, the Middle East, Africa, and internationally. The company’s products are used in the basic and applied research, and commercial manufacturing of biologic-based therapies.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Repligen Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; $11.25 cash + 0.1442 Repligen shares&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder vote on Oct 5, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $39.22 · Mkt cap $1.92B · EV $1.82B · Fwd P/E 126.3x · Fwd EV/EBITDA 48.8x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/834365/000119312526408198/0001193125-26-408198-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BLFS&lt;/b&gt; · DEFA14A · Instruments / Medical Devices (3845) · prefill_form:DEFA14A · filed 2026-09-30&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · Carlyle Credit Solutions</title>
@@ -16204,41 +16232,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MG&lt;/b&gt; · 8-K · Items 1.01, 5.02, 7.01, 8.01, 9.01 · Engineering / Accounting (8711) · 8k_tier1:1.01,7.01,8.01 · filed 2026-09-18&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SCHEDULE 13D/A · Sep 21 15:14 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1436126/000110465926109294/0001104659-26-109294-index.htm'&gt;Acquired by Athena for $20.35/share cash&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 18 15:41 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1436126/000114036126037132/ef20082420_defa14a.htm'&gt;Acquired by H.I.G. Capital for $20.35/share cash; go-shop ends Oct 27&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 18 15:40 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1436126/000114036126037137/ef20082425_defa14a.htm'&gt;Acquired by H.I.G. Capital in all-cash deal; close late 2026/early 2027&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 18 15:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1436126/000114036126037107/ef20082419_8k.htm'&gt;Acquired by H.I.G. Capital for $20.35 cash/share&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · LNTH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1521036/000119312526396654/d148743d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-393460</guid>
-      <pubDate>Mon, 21 Sep 2026 15:11:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Curium merger HSR review reset; new 30-day period expires Oct 21</scanner:headline>
-      <scanner:shortName>Lantheus Holdings</scanner:shortName>
-      <scanner:price>100.54</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>LNTH</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>DEFA14A, 8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>6562480000</scanner:marketCap>
-      <scanner:enterpriseValue>6594140000</scanner:enterpriseValue>
-      <scanner:fwdPE>17.72</scanner:fwdPE>
-      <scanner:fwdEvEbitda>10.83</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Curium US Holdings; vote Oct 14&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is being acquired by Curium US Holdings LLC under a merger agreement dated August 3, 2026. The special meeting for stockholder approval is set for October 14, 2026, and the board unanimously recommends voting FOR the merger. This filing urges stockholders to vote today.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lantheus Holdings, Inc. develops, manufactures, and commercializes diagnostic and therapeutic products that assist clinicians in diagnosis and treatment of heart, cancer, and other diseases worldwide. The company offers DEFINITY, an injectable ultrasound enhancing agent used in echocardiography exams; TechneLite, a technetium generator for nuclear medicine procedures; Xenon-133, a radiopharmaceutical gas to assess pulmonary function; Neurolite, an injectable imaging agent to identify the area wi…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Curium US Holdings LLC&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-03&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting Oct 14, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $100.54 · Mkt cap $6.56B · EV $6.59B · Fwd P/E 17.7x · Fwd EV/EBITDA 10.8x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1521036/000119312526393460/0001193125-26-393460-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LNTH&lt;/b&gt; · DEFA14A · Chemicals / Pharma (2835) · prefill_form:DEFA14A · filed 2026-09-17&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 21 15:11 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1521036/000119312526396654/d148743d8k.htm'&gt;Curium merger HSR review reset; new 30-day period expires Oct 21&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 17 05:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1521036/000119312526393460/d161716ddefa14a.htm'&gt;Acquired by Curium US Holdings; vote Oct 14&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
