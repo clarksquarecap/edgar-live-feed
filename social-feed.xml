@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 02:48:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:05:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ATKR 🤝 Merger
+Acquired by Prysmian for $95.00 cash; vote Oct 7; supplements proxy
+Prysmian S.p.A. · 30.21 prem · 3315500000 deal · cash
+Mcap $3.2B · EV $3.8B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1666138/000166613826000035/defa14amds20260930.htm</link>
+      <guid isPermaLink="false">0001666138-26-000035</guid>
+      <pubDate>Wed, 30 Sep 2026 05:05:14 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NNVUF 🤝 Merger · Preliminary
 Subsidiary Spinoff Robotics signs non-binding MOU with NovaPeak for platform integration
@@ -1028,56 +1039,6 @@ Mcap $500K · EV $1M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1091326/000149315226044715/form10-12ga.htm</link>
       <guid isPermaLink="false">0001493152-26-044715</guid>
       <pubDate>Tue, 29 Sep 2026 05:11:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BAYA 📉 Delisting · Forced
-Nasdaq delisting affirmed; plans to trade on OTC Markets
-Mcap $33M · EV $35M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1969475/000149315226044680/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044680</guid>
-      <pubDate>Tue, 29 Sep 2026 05:05:01 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$NHP 📤 Divestiture
-Sells 40 outpatient medical facilities for ~$531M; close Q4 2026
-531000000 deal
-Mcap $1.0B · EV $1.6B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1561032/000156103226000066/hct-20260925.htm</link>
-      <guid isPermaLink="false">0001561032-26-000066</guid>
-      <pubDate>Tue, 29 Sep 2026 05:04:44 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$QNC 🤝 Merger
-Acquires Plurilock for C$0.28/share (30% cash, 70% stock); 100% premium
-Plurilock Security · 100% prem · C$33.8M deal · cash+stk
-Mcap $410M · EV $386M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2106613/000110465926111438/tm2626471d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111438</guid>
-      <pubDate>Tue, 29 Sep 2026 05:04:21 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$AAPG 📍 Stake
-Chairman increases stake to 10.02% with HK$2.86M open-market purchase
-Mcap $1.4B · EV $1.4B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2023311/000121390026104196/ea0306919-6k_ascentage.htm</link>
-      <guid isPermaLink="false">0001213900-26-104196</guid>
-      <pubDate>Tue, 29 Sep 2026 05:03:51 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$PAAC 🤝 Merger
-Acquires Astro Digital in definitive business combination; targeting $50M PIPE
-Mcap $178M · EV $178M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2087446/000121390026104181/ea030690302-425_proem1.htm</link>
-      <guid isPermaLink="false">0001213900-26-103792</guid>
-      <pubDate>Tue, 29 Sep 2026 05:03:22 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
