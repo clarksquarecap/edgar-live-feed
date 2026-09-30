@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 19:03:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:04:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · NCT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2018529/000149315226045086/0001493152-26-045086-index.htm</link>
+      <guid isPermaLink="false">0001493152-26-045086</guid>
+      <pubDate>Wed, 30 Sep 2026 14:04:26 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>CEO Zhu Muchun increases stake to 58.7% to maintain voting control</scanner:headline>
+      <scanner:shortName>Intercont</scanner:shortName>
+      <scanner:price>1.54</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>NCT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>500000</scanner:marketCap>
+      <scanner:enterpriseValue>10990000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.45</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.57</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>1.59</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>28.84</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;CEO Zhu Muchun increases stake to 58.7% to maintain voting control&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Muchun Zhu, CEO and Chairman of Intercont (Cayman) Ltd, and her controlled entity Beverly Holding Limited, increased their beneficial ownership to 58.7% of Class A Ordinary Shares (on an as-converted basis) and approximately 99.3% of aggregate voting power. Beverly Holding Limited acquired 1,625,000 Class B Ordinary Shares from the Issuer for $0.40 per share, totaling $650,000, on September 25, 2026. This acquisition was made to increase and maintain Ms. Zhu&amp;#39;s voting control, which had previously declined below a majority.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Intercont (Cayman) Limited, through its subsidiaries, provides maritime shipping services in Hong Kong and internationally. The company offers time charter and vessel management services worldwide. It is also involved in the processing of pulp, paper, and paperboard products. Intercont (Cayman) Limited was incorporated in 2023 and is based in Causeway Bay, Hong Kong.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; $0.40&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $650,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 58.7%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.54 · Mkt cap $500K · EV $11.0M · Industrials / Marine Transportation&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2018529/000149315226045086/0001493152-26-045086-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NCT&lt;/b&gt; · SCHEDULE 13D/A · Water Transportation (4412) · fresh_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · ABPO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1893219/000135445726000926/0001354457-26-000926-index.htm</link>
@@ -16349,30 +16386,6 @@
 &lt;p&gt;&lt;i&gt;Px $48.00 · Mkt cap $93.0M · Financial Services / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.otcmarkets.com/stock/MFBP/news/536065'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MFBP&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚱️ Liquidation · MSSAF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1882464/000149315226043686/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-043686</guid>
-      <pubDate>Tue, 22 Sep 2026 12:32:35 -0500</pubDate>
-      <category>LIQUIDATION</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Liquidates; redeems public shares at $16.41</scanner:headline>
-      <scanner:shortName>Metal Sky Star Acquisition</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>MSSAF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Liquidates; redeems public shares at $16.41&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will not complete a business combination by Oct 4, 2026, and will liquidate. Public shareholders receive approximately $16.41 per share from the trust account on or about Oct 2, 2026. Sponsor waived redemption rights; warrants and rights canceled.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 16.41&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Redemption ~Oct 2; last trading day Oct 2; Form 15 to follow&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1882464/000149315226043686/0001493152-26-043686-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MSSAF, MSSUF, MSSWF&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Holding / Investment Offices (6770) · 8k_tier1:8.01 · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
