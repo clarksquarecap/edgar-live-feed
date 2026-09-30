@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 10:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:27:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · CNDT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1677703/000167770326000118/cndt-20260930.htm</link>
+      <guid isPermaLink="false">0001677703-26-000118</guid>
+      <pubDate>Wed, 30 Sep 2026 05:27:34 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells Public Transit and Tolling businesses via definitive agreements</scanner:headline>
+      <scanner:shortName>CONDUENT</scanner:shortName>
+      <scanner:price>1.58</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>CNDT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>245720000</scanner:marketCap>
+      <scanner:enterpriseValue>1010720000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.34</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.85</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>6.62</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>1.84</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>18.61</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells Public Transit and Tolling businesses via definitive agreements&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Incorporated announced the sale of its Public Transit business and Tolling business, which are under definitive transaction agreements. The company will receive an equity interest in Quarterhill Inc. as partial consideration for the Tolling transaction.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Conduent Incorporated provides digital business solutions and services for the commercial, government, and transportation spectrum in the United States, Europe, and internationally. It operates through three segments: Commercial, Government, and Transportation. The Commercial segment offers business process services and customized solutions, customer experience management, business process as a service, integrated digital solutions, healthcare claims and administration, and human capital solutio…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Quarterhill Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.58 · Mkt cap $245.7M · EV $1.01B · Fwd EV/EBITDA 6.6x · Industrials / Professional Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1677703/000167770326000118/0001677703-26-000118-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CNDT&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Business Services (7389) · 8k_tier1:7.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔐 Going Private · MGLD</title>
       <link>https://www.sec.gov/Archives/edgar/data/1005101/000149315226044987/form8-k.htm</link>
@@ -16220,37 +16257,6 @@
 &lt;p&gt;&lt;i&gt;Px $13.33 · Mkt cap $250.5M · EV $2.69B · Fwd P/E 5.2x · Fwd EV/EBITDA 12.2x · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/807882/000090266426003887/0000902664-26-003887-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JACK&lt;/b&gt; · SCHEDULE 13D/A · Retail; Food Service (5812) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · BNC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1482541/000092189526002598/0000921895-26-002598-index.htm</link>
-      <guid isPermaLink="false">0000921895-26-002598</guid>
-      <pubDate>Mon, 21 Sep 2026 15:30:29 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Raises beneficial ownership limit on warrants to 19.99%</scanner:headline>
-      <scanner:shortName>CEA Industries</scanner:shortName>
-      <scanner:price>6.57</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>BNC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>246220000</scanner:marketCap>
-      <scanner:enterpriseValue>256550000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Raises beneficial ownership limit on warrants to 19.99%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;YZi Labs increased the beneficial ownership limitation on its Pre-Funded Warrants from 4.99% to 19.99% and on Strategic Advisor Warrants from 4.99% to 9.99%, effective Sept 17, 2026, after CEA Industries waived the 61-day notice period. YZi Labs currently owns 9,749,745 shares (19.99%) and holds additional warrants that can now be exercised to increase its stake.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CEA Industries Inc. operates as the digital asset treasury company in the United States and Canada. It operates through two segments: BNB Treasury Management and Retail and Industry. The company builds and manages corporate treasury of BNB to provide institutional-grade exposure to blockchain infrastructure and decentralized finance.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 19.99%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $6.57 · Mkt cap $246.2M · EV $256.6M · Industrials / Building Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1482541/000092189526002598/0000921895-26-002598-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BNC, BNCWW, BNCWZ&lt;/b&gt; · SCHEDULE 13D/A · Agriculture Services (0700) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

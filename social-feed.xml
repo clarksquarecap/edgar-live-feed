@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 10:22:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:27:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CNDT 📤 Divestiture
+Sells Public Transit and Tolling businesses via definitive agreements
+to Quarterhill
+Mcap $246M · EV $1.0B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1677703/000167770326000118/cndt-20260930.htm</link>
+      <guid isPermaLink="false">0001677703-26-000118</guid>
+      <pubDate>Wed, 30 Sep 2026 05:27:34 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$MGLD 📦 Going Private
 Acquired by Madison Dearborn Partners for $2.00/share cash; shareholder approval received
@@ -1084,26 +1094,6 @@ Mcap $12B · EV $6.9B · Financials</title>
       <pubDate>Tue, 29 Sep 2026 05:32:42 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$SANG 🤝 Merger
-Acquired by BRC Group Holdings for $4.925 cash + 0.04767 BRC shares; 47% premium
-47 prem · 204000000 deal · cash+stk · close early 2027
-Mcap $119M · EV $143M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/tm2626529d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111514</guid>
-      <pubDate>Tue, 29 Sep 2026 05:25:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$HCM 📤 Divestiture
-Grants GSK exclusive global rights to HMPL-A830 (ex-Greater China)
-Mcap $2.4B · EV $1.1B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1648257/000164825726000061/hcm-20260928x6k.htm</link>
-      <guid isPermaLink="false">0001648257-26-000061</guid>
-      <pubDate>Tue, 29 Sep 2026 05:22:45 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
