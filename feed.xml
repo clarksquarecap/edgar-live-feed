@@ -6,8 +6,43 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 12:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:11:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · ZTR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/836412/000106299326005116/0001062993-26-005116-index.htm</link>
+      <guid isPermaLink="false">0001062993-26-005116</guid>
+      <pubDate>Wed, 30 Sep 2026 07:11:07 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Saba Capital discloses 5.04% stake in ZTR; may seek board seats, liquidation</scanner:headline>
+      <scanner:shortName>Virtus Total Return Fund</scanner:shortName>
+      <scanner:price>6.00</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Financial Services</scanner:sector>
+      <scanner:ticker>ZTR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>333290682</scanner:marketCap>
+      <scanner:enterpriseValue>486441682</scanner:enterpriseValue>
+      <scanner:evSalesLtm>23.13</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>23.13</scanner:evGrossProfitLtm>
+      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Saba Capital discloses 5.04% stake in ZTR; may seek board seats, liquidation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Saba Capital Management, L.P. and its affiliates disclosed a 5.04% stake in Virtus Total Return Fund Inc. (ZTR). The activist investor group believes the common shares are undervalued and may engage in discussions with management and the board regarding business, operations, board appointments, governance, capitalization, and potential liquidation of the Issuer.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 16,447,386&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.04%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $6.00 · Mkt cap $333.3M · EV $486.4M · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/836412/000106299326005116/0001062993-26-005116-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZTR&lt;/b&gt; · SCHEDULE 13D · fresh_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · IRHO</title>
       <link>https://www.sec.gov/Archives/edgar/data/2051985/000121390026104901/ea0307009-8k425_iron2.htm</link>
@@ -16270,36 +16305,6 @@
 &lt;p&gt;&lt;i&gt;Px $325.16 · Mkt cap $19.00B · EV $19.91B · Fwd P/E 32.9x · Fwd EV/EBITDA 20.8x · Industrials / Aerospace and Defense&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/108312/000117184326006140/0001171843-26-006140-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WWD&lt;/b&gt; · 8-K · Items 2.05, 7.01, 9.01 · Electronic Equipment (3620) · 8k_tier1:2.05,7.01 · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · GIPR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1651721/000119312526396828/gipr-20260616.htm</link>
-      <guid isPermaLink="false">0001193125-26-396828</guid>
-      <pubDate>Mon, 21 Sep 2026 16:36:00 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Sells 8 net-lease properties for ~$11.5M to HABG Texas, DDF Candor</scanner:headline>
-      <scanner:shortName>GENERATION INCOME PROPERTIES</scanner:shortName>
-      <scanner:price>0.6800</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>GIPR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1340000</scanner:marketCap>
-      <scanner:enterpriseValue>83310000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells 8 net-lease properties for ~$11.5M to HABG Texas, DDF Candor&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Completed sale of eight net-lease properties for aggregate gross proceeds of $11,521,221: six Dollar General properties to HABG Texas LLC for $6,246,221, Fresenius property to DDF Candor LLC for $2,800,000, and Vacaville property for $2,475,000. Net proceeds from Fresenius and Dollar General were $4,050,000; Vacaville net not disclosed. Also reacquired DC 7-Eleven property from Brown Family Enterprises for $600,000 cash.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Generation Income Properties, Inc., located in Tampa, Florida, is an internally managed real estate investment trust formed to acquire and own, directly and jointly, real estate investments focused on retail, office, and industrial net lease properties in densely populated submarkets. Generation Income Properties, Inc. was established on September 19, 2015 and incorporated in Maryland, USA.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; HABG Texas LLC, DDF Candor LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 11,521,221&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.6800 · Mkt cap $1.3M · EV $83.3M · Real Estate / Diversified REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1651721/000119312526396828/0001193125-26-396828-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GIPR&lt;/b&gt; · 8-K · Items 8.01 · Holding / Investment Offices (6798) · 8k_tier1:8.01 · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
