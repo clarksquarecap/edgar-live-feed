@@ -6,8 +6,42 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 12:40:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:47:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · DJT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849635/000143774926031536/djt20260930_425.htm</link>
+      <guid isPermaLink="false">0001437749-26-031536</guid>
+      <pubDate>Wed, 30 Sep 2026 07:47:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>Files S-4 for merger with TAE Technologies; provides $200M convertible note</scanner:headline>
+      <scanner:shortName>Trump Media &amp; Technology</scanner:shortName>
+      <scanner:price>9.10</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>DJT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2529270000</scanner:marketCap>
+      <scanner:enterpriseValue>2597420000</scanner:enterpriseValue>
+      <scanner:grossMarginLtm>33.69</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Files S-4 for merger with TAE Technologies; provides $200M convertible note&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed a Form S-4 registration statement with the SEC in connection with its previously announced merger with TAE Technologies, Inc. Concurrently, TMTG and TAE entered into an Amended and Restated Unsecured Convertible Promissory Note, initially for $200 million, with an option for an additional $100 million. The note accrues 7% PIK interest and grants TMTG pre-conversion voting rights in TAE.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Trump Media &amp;amp; Technology Group Corp. engages in social media and streaming services in the United States. It operates Truth Social, a social media platform for free expression; and Truth+, a streaming platform focusing on family-friendly live TV channels and on-demand content. The company also offers Truth.Fi, a financial service and FinTech brand that incorporates America First investment vehicles; and a digital asset strategy including a bitcoin treasury. Trump Media &amp;amp; Technology Group Corp.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; TAE Technologies, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-12-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; S-4 effectiveness, shareholder vote&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $9.10 · Mkt cap $2.53B · EV $2.60B · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1849635/000143774926031536/0001437749-26-031536-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DJT, DJTWW&lt;/b&gt; · 425 · Business Services (7370) · prefill_form:425 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · NACB</title>
       <link>https://www.otcmarkets.com/stock/NACB/news/536900</link>
@@ -16279,37 +16313,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.43 · Mkt cap $185.7M · EV $166.1M · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1956439/000119312526397057/0001193125-26-397057-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ENHA&lt;/b&gt; · SCHEDULE 13D/A · Amusement / Recreation (7990) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · SION</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2036042/000134682426000239/0001346824-26-000239-index.htm</link>
-      <guid isPermaLink="false">0001346824-26-000239</guid>
-      <pubDate>Mon, 21 Sep 2026 18:02:29 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Reports 14.3% stake in Sionna</scanner:headline>
-      <scanner:shortName>Sionna Therapeutics</scanner:shortName>
-      <scanner:price>6.00</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>SION</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>269470000</scanner:marketCap>
-      <scanner:enterpriseValue>9280000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Reports 14.3% stake in Sionna&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;RA Capital Management and affiliates hold 6,476,193 shares of Sionna Therapeutics common stock, representing 14.3% of the class. Holdings are spread across RA Capital Healthcare Fund (3,448,812 shares), Nexus Fund III (2,198,082), Nexus Fund (650,307), a separately managed account (159,033), and vested options (19,959). No specific activist agenda is disclosed in this amendment.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sionna Therapeutics, Inc., a clinical-stage biopharmaceutical company, researches and develops medicines for the treatment of cystic fibrosis (CF). It develops galicaftor (SION-2222), a transmembrane domain 1 (TMD1)-directed cystic fibrosis transmembrane conductance regulator (CFTR) that has completed Phase 2 trial; navocaftor (SION-3067), a potentiator that has completed Phase 2 trial; SION-109, an intracellular loop 4 directed CFTR corrector that has completed Phase 1 trial; SION-2851, a TMD1-…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 14.3%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $6.00 · Mkt cap $269.5M · EV $9.3M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2036042/000134682426000239/0001346824-26-000239-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SION&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
