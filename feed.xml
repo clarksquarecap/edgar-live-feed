@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:08:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · AMG BBH Asset-Backed Credit Fund</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097545/000092963826003756/0000929638-26-003756-index.htm</link>
+      <guid isPermaLink="false">0000929638-26-003756</guid>
+      <pubDate>Wed, 30 Sep 2026 15:08:41 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Receives 13D/A from Brown Brothers Harriman reporting 64.75% stake</scanner:headline>
+      <scanner:shortName>AMG BBH Asset-Backed Credit Fund</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker />
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from Brown Brothers Harriman reporting 64.75% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received an amended Schedule 13D from Brown Brothers Harriman &amp;amp; Co and Brown Brothers Harriman Credit Partners, LLC, reporting an aggregate beneficial ownership of 64.75% of its Class S Units of Beneficial Interest. Brown Brothers Harriman &amp;amp; Co, on behalf of client accounts, acquired additional units at prices ranging from $11.29 to $11.38 per unit between September 18 and September 28, 2026. Brown Brothers Harriman Credit Partners, LLC also purchased units at $11.40 per unit on September 29, 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Brown Brothers Harriman &amp;amp; Co&lt;/li&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 11.40&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 64.75%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2097545/000092963826003756/0000929638-26-003756-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;SCHEDULE 13D/A · amended_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · BCO</title>
       <link>https://www.sec.gov/Archives/edgar/data/78890/000007889026000058/bco-20260930.htm</link>
@@ -16369,39 +16393,6 @@
 &lt;p&gt;&lt;i&gt;Px $4.38 · Mkt cap $242.5M · Fwd P/E 28.2x · Real Estate / Mortgage Real Estate Investment Trusts (REITs)&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1529377/000162828026063051/0001628280-26-063051-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACRE&lt;/b&gt; · 8-K · Items 2.01, 9.01 · Holding / Investment Offices (6798) · 8k_tier1:2.01 · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · TNC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/97134/000080724926000086/0000807249-26-000086-index.htm</link>
-      <guid isPermaLink="false">0000807249-26-000086</guid>
-      <pubDate>Tue, 22 Sep 2026 15:32:22 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Discloses ~6% stake in Tennant</scanner:headline>
-      <scanner:shortName>TENNANT CO</scanner:shortName>
-      <scanner:price>65.83</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>TNC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1122355616</scanner:marketCap>
-      <scanner:enterpriseValue>1438055616</scanner:enterpriseValue>
-      <scanner:fwdPE>13.36</scanner:fwdPE>
-      <scanner:fwdEvEbitda>8.12</scanner:fwdEvEbitda>
-      <scanner:fwdEvSales>1.08</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Discloses ~6% stake in Tennant&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Gabelli group (GAMCO Investors et al.) filed a Schedule 13D/A disclosing an aggregate stake of approximately 6.0% in Tennant Co (TNC). The group includes GAMCO Asset Management (4.4%), Gabelli Funds (1.4%), and other affiliated entities. No specific activist agenda is stated in the filing.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.0%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $65.83 · Mkt cap $1.12B · EV $1.44B · Fwd P/E 13.4x · Fwd EV/EBITDA 8.1x · Fwd EV/Sales 1.1x · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/97134/000080724926000086/0000807249-26-000086-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TNC&lt;/b&gt; · SCHEDULE 13D/A · Industrial Machinery (3580) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
