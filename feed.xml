@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 12:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:25:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · LND</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1499849/000121390026104904/ea0307156-6k_brasil.htm</link>
+      <guid isPermaLink="false">0001213900-26-104904</guid>
+      <pubDate>Wed, 30 Sep 2026 07:25:05 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Sells 1,752.66 arable hectares of Rio do Meio Farm for R$96.4M</scanner:headline>
+      <scanner:shortName>BrasilAgro - Brazilian Agricultural Real Estate Co</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>LND</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Sells 1,752.66 arable hectares of Rio do Meio Farm for R$96.4M&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;BrasilAgro sold 1,752.66 arable hectares of its Rio do Meio Farm in Bahia for a nominal value of R$96.4 million (present value R$78.8 million). The company expects to recognize a pre-tax gain of R$51.5 million in Q1 FY2026/2027. Payment includes an initial R$21.1 million installment, with the remaining R$75.3 million to be paid in four annual installments. Additionally, the company leased 383.44 arable hectares with a purchase option until March 2028.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; R$96.4 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Lease purchase option expires March 2028&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1499849/000121390026104904/0001213900-26-104904-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LND&lt;/b&gt; · 6-K · Agriculture (0100) · prefill_form:6-K · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>✂️ Carve-Out · RCT</title>
       <link>https://www.sec.gov/Archives/edgar/data/2027360/000149315226045030/form6-k.htm</link>
@@ -16274,39 +16298,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $510K · EV $5.4M · Utilities / Water Utilities&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1872292/000149315226043601/0001493152-26-043601-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RAKR&lt;/b&gt; · SCHEDULE 13D/A · Food &amp;amp; Kindred (2086) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · HSTM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1095565/000215202526000004/0002152025-26-000004-index.htm</link>
-      <guid isPermaLink="false">0002152025-26-000004</guid>
-      <pubDate>Mon, 21 Sep 2026 16:36:03 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Receives 13D from WJRJJ Ventures; 9.6% stake at $29.50/share</scanner:headline>
-      <scanner:shortName>HEALTHSTREAM</scanner:shortName>
-      <scanner:price>29.08</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>HSTM</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>894320000</scanner:marketCap>
-      <scanner:enterpriseValue>841020000</scanner:enterpriseValue>
-      <scanner:fwdPE>36.74</scanner:fwdPE>
-      <scanner:fwdEvEbitda>10.58</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D from WJRJJ Ventures; 9.6% stake at $29.50/share&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D from WJRJJ Ventures, LLC disclosing beneficial ownership of 2,800,000 shares (9.6%) of common stock. The stake was acquired via a securities purchase agreement dated September 11, 2026, with a purchase price of $29.50 per share for 1,355,932 newly issued shares ($40.0M) and 144,068 shares from CEO Robert A. Frist ($4.25M), plus open market purchases of 1,300,000 shares ($36.7M). WJRJJ agreed to a 12-month standstill and lock-up restrictions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; HealthStream, Inc. provides Software-as-a-Service (SaaS) based applications for healthcare organizations in the United States. The company offers hStream, a technology platform; CredentialStream, provides healthcare organizations with tools to support the provider lifecycle management from recruiting, application submission, verification of licensure and other credentials, privileging, appointments by credentialing committees, enrollment, network, management, onboarding, and performance evaluati…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; WJRJJ Ventures, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 29.50&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.6%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-11&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $29.08 · Mkt cap $894.3M · EV $841.0M · Fwd P/E 36.7x · Fwd EV/EBITDA 10.6x · Health Care / Health Care Technology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1095565/000215202526000004/0002152025-26-000004-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HSTM&lt;/b&gt; · SCHEDULE 13D · Business Services (7370) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
