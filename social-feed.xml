@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 21:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:27:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NTWO 🤝 Merger
+Progresses Fort Robotics business combination; S-4 confidentially filed
+Mcap $262M · EV $262M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2028027/000118518526004447/ntwo28k425092826.htm</link>
+      <guid isPermaLink="false">0001185185-26-004447</guid>
+      <pubDate>Wed, 30 Sep 2026 16:27:48 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$RIG 🤝 Merger
+Acquires Valaris for 15.235 shares/Valaris share; HSR cleared; close Q4 2026
+Valaris Limited · stock
+Mcap $5.8B · EV $10B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1451505/000110465926112406/tm2626691d2_defa14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-038107</guid>
+      <pubDate>Wed, 30 Sep 2026 16:27:15 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MSTR 🪙 Debt Restr.
+Seeks shareholder vote on changes to preferred stock terms at Special Meeting
+Mcap $62B · EV $81B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526409242/mstr-20260930.htm</link>
+      <guid isPermaLink="false">0001193125-26-402937</guid>
+      <pubDate>Wed, 30 Sep 2026 16:27:06 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$PTPI 🧊 Liquidation
 Enters Assignment for Benefit of Creditors; ceases operations
@@ -16,17 +46,6 @@ Mcap $190K · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-112399</guid>
       <pubDate>Wed, 30 Sep 2026 16:19:55 -0500</pubDate>
       <category>LIQUIDATION</category>
-    </item>
-    <item>
-      <title>$RIG 🤝 Merger
-Acquires Valaris; HSR cleared; 15.235 RIG shares/share; close Q4 2026
-Valaris Limited · stock
-Mcap $5.8B · EV $10B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1451505/000110465926112402/tm2626691d1_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-038107</guid>
-      <pubDate>Wed, 30 Sep 2026 16:19:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$BLPRCRS 🎯 Tender · Unsolicited
@@ -1234,24 +1253,6 @@ Mcap $82M · EV $134M · Cons Disc</title>
       <pubDate>Tue, 29 Sep 2026 16:30:28 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$EVV 📍 Stake
-SIT Investment Associates reports 7.7% stake in Eaton Vance Ltd Duration Income Fund
-Mcap $973M · EV $1.8B · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1222922/000076931726000011/0000769317-26-000011-index.htm</link>
-      <guid isPermaLink="false">0000769317-26-000011</guid>
-      <pubDate>Tue, 29 Sep 2026 16:23:30 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$LGO 🪙 Debt Restr.
-Closes $5.7M registered direct offering; discloses going concern
-Mcap $52M · EV $169M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1400438/000106299326005110/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-005110</guid>
-      <pubDate>Tue, 29 Sep 2026 16:22:10 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
