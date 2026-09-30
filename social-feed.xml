@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 21:29:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:30:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MKZR 🔎 Strat Review · Strat Alts
+Explores strategic alternatives; suspends preferred share buyback
+Mcap $4M · EV $183M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1550913/000155091326000031/mkzr-20260930.htm</link>
+      <guid isPermaLink="false">0001550913-26-000031</guid>
+      <pubDate>Wed, 30 Sep 2026 16:30:29 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+    </item>
     <item>
       <title>$CYCU ⚖️ Litigation · Settled
 Resolves John Doe defamation suit; defendant retracts false fraud claims
@@ -1273,17 +1283,6 @@ Mcap $108M · EV $108M · Financials</title>
       <pubDate>Tue, 29 Sep 2026 16:31:32 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$EMPD 🤝 Merger
-Files additional soliciting materials for acquisition vote
-empty
-Mcap $82M · EV $134M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826007487/empery_defa14a.htm</link>
-      <guid isPermaLink="false">0001683168-26-007487</guid>
-      <pubDate>Tue, 29 Sep 2026 16:30:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
