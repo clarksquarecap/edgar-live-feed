@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 18:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 18:51:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🌑 Going Dark · ZRCN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1901297/000149315226045083/form15-12g.htm</link>
+      <guid isPermaLink="false">0001493152-26-045083</guid>
+      <pubDate>Wed, 30 Sep 2026 13:51:37 -0500</pubDate>
+      <category>GOING_DARK</category>
+      <category>delisting</category>
+      <category>15-12G</category>
+      <scanner:headline>Voluntarily terminates SEC registration; will cease public reporting</scanner:headline>
+      <scanner:shortName>ZRCN</scanner:shortName>
+      <scanner:price>7.00</scanner:price>
+      <scanner:subtype />
+      <scanner:form>15-12G</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>ZRCN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>15-12G</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>72530000</scanner:marketCap>
+      <scanner:enterpriseValue>84380000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Voluntarily terminates SEC registration; will cease public reporting&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed Form 15-12G to terminate its registration under Section 12(g) of the Exchange Act and suspend its duty to file reports under Sections 13 and 15(d). The company reported approximately 160 holders of record as of the certification date. This action will result in the company ceasing to be a public reporting company.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ZRCN Inc. designs, manufactures, and sells electronic-based consumer hardware for professional contractors and do-it-yourselfers in the United States, Canada, Europe, Japan, and internationally. The company offers stud finders, metal and water detectors, electrical, wall scanners, other electronic scanning, and leveling tools. ZRCN Inc. was formerly known as Harmony Energy Technologies Corporation and changed its name to ZRCN Inc. in April 2023.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.00 · Mkt cap $72.5M · EV $84.4M · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1901297/000149315226045083/0001493152-26-045083-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZRCN&lt;/b&gt; · 15-12G · Electronic Equipment (3690) · prefill_form:15-12G · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🏛️ Insolvency · Chapter 11 · LESL</title>
       <link>https://www.sec.gov/Archives/edgar/data/1821806/000119312526408874/d175109d8k.htm</link>
@@ -16337,41 +16367,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HVII, HVIIR, HVIIU&lt;/b&gt; · 425 · Utilities (4911) · prefill_form:425 · filed 2026-09-22&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 22 11:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1846416/000149315226043680/form8-k.htm'&gt;Signs forward purchase agreement with New Circle Capital for up to 5M shares at ~$10.60&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 22 11:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1846416/000149315226043683/form425.htm'&gt;Acquires ONE Nuclear in business combination; redemption ~$10.60/share&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · CDLR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1978867/000110465926109508/tm2510458d19_425.htm</link>
-      <guid isPermaLink="false">0001978867-26-000109</guid>
-      <pubDate>Tue, 22 Sep 2026 09:15:47 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>425</category>
-      <scanner:headline>Redomiciles to UK via 1-for-1 share exchange with Cadeler plc</scanner:headline>
-      <scanner:shortName>Cadeler</scanner:shortName>
-      <scanner:price>25.18</scanner:price>
-      <scanner:subtype />
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>CDLR</scanner:ticker>
-      <scanner:filings>5</scanner:filings>
-      <scanner:filingForms>6-K, 425 x4</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2479640000</scanner:marketCap>
-      <scanner:enterpriseValue>4190720000</scanner:enterpriseValue>
-      <scanner:fwdPE>5.30</scanner:fwdPE>
-      <scanner:fwdEvEbitda>5.33</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Redomiciles to UK via 1:1 share exchange with Cadeler plc&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced the launch of a voluntary share exchange offer by Cadeler plc, a new UK-incorporated parent, to exchange each Cadeler share for one Cadeler plc share. Holders of ADSs (each representing 4 shares) will receive 4 Cadeler plc shares per ADS. The offer period runs from 22 September to 21 October 2026, with settlement expected on 29 October 2026. The redomiciliation aims to enhance marketability and attract a broader investor base.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cadeler A/S, together with its subsidiaries, operates as an offshore wind installation vessel contractor in Denmark, the United Kingdom, Germany, Poland, rest of Europe, the United States, and Taiwan. The company engages in the transport and installation of offshore wind turbine generators, foundations, and topsides and substations; maintenance of offshore wind turbine generators, and offshore structures and platforms; and offshore construction within the renewable space.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Offer expiration 21 October 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $25.18 · Mkt cap $2.48B · EV $4.19B · Fwd P/E 5.3x · Fwd EV/EBITDA 5.3x · Industrials / Construction and Engineering&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000197886726000109/0001978867-26-000109-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CDLR&lt;/b&gt; · 6-K · Water Transportation (4412) · prefill_form:6-K · filed 2026-09-21&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (5)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;425 · Sep 22 09:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000110465926109508/tm2510458d19_425.htm'&gt;Redomiciles to UK via 1-for-1 share exchange with Cadeler plc&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 22 09:09 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000110465926109504/tm2510458d17_425.htm'&gt;Launches 1:1 share exchange to redomicile Cadeler to UK&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 22 09:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000110465926109506/tm2510458d18_425.htm'&gt;Redomiciles to UK via 1:1 exchange offer; NYSE direct listing&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 21 15:41 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000110465926109343/tm2625832d1_425.htm'&gt;Redomiciles to UK via 1:1 share exchange; NYSE listing Oct 29&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 21 15:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1978867/000197886726000109/a6-kxcadelerxlaunchannounc.htm'&gt;Redomiciles to UK via 1:1 share exchange with Cadeler plc&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
