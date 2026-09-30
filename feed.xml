@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 16:33:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:02:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · AGLIBDC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2011498/000101143826000589/0001011438-26-000589-index.htm</link>
+      <guid isPermaLink="false">0001011438-26-000589</guid>
+      <pubDate>Wed, 30 Sep 2026 12:02:38 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases stake in AGL Private Credit Income Fund to 75.1% via $22.38M share purchase</scanner:headline>
+      <scanner:shortName>AGL Private Credit Income Fund</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>AGLIBDC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Increases stake in AGL Private Credit Income Fund to 75.1% via $22.38M share purchase&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Abu Dhabi Investment Authority and its affiliates (the &amp;#39;Reporting Persons&amp;#39;) increased their beneficial ownership in AGL Private Credit Income Fund to 75.1% of outstanding common shares. This increase resulted from Platinum Bird&amp;#39;s purchase of 955,608.711 common shares for $22,380,356, at a per share price of $23.42, following a drawdown notice from the Issuer on September 14, 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 23.42&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 22380356&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 75.1%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2011498/000101143826000589/0001011438-26-000589-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AGLIBDC&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧭 Domicile · CRLBF</title>
       <link>https://www.sec.gov/Archives/edgar/data/1832928/000183292826000012/a2026_form6-kmicfiling.htm</link>
@@ -16343,36 +16367,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $0.0430 · Mkt cap $7.8M · EV $11.0M · Fwd EV/Sales 44.0x · Financial Services / Consumer Finance&lt;/i&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SPST&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Preliminary · XFLH</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2088103/000118518526004190/xflh8k021326.htm</link>
-      <guid isPermaLink="false">0001185185-26-004190</guid>
-      <pubDate>Tue, 22 Sep 2026 07:34:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-      <category>8-K</category>
-      <scanner:headline>Signs non-binding LOI for business combination with Renogen Biolab</scanner:headline>
-      <scanner:shortName>XFLH Capital</scanner:shortName>
-      <scanner:price>10.06</scanner:price>
-      <scanner:subtype>preliminary</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financial Services</scanner:sector>
-      <scanner:ticker>XFLH</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>139716328</scanner:marketCap>
-      <scanner:enterpriseValue>139469586</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Signs non-binding LOI for business combination with Renogen Biolab&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;A SPAC, entered a non-binding letter of intent with Renogen Biolab Inc., a Canadian health service provider, for a proposed business combination. The parties will negotiate definitive agreements and conduct due diligence. No financial terms disclosed.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Renogen Biolab Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.06 · Mkt cap $139.7M · EV $139.5M · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2088103/000118518526004190/0001185185-26-004190-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;XFLH, XFLH-RI, XFLH-UN&lt;/b&gt; · 8-K · Items 1.01, 8.01, 9.01 · Holding / Investment Offices (6770) · 8k_tier1:1.01,8.01 · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
