@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 21:30:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:31:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CHTR 💧 Capital Return · Buyback
+Enters repurchase agreement with Cox Enterprises for ongoing share buybacks
+Mcap $13B · EV $114B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1091667/000110465926112404/0001104659-26-112404-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-112404</guid>
+      <pubDate>Wed, 30 Sep 2026 16:31:52 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
+    <item>
+      <title>$NTWO 🤝 Merger
+Files confidential S-4 for Fort Robotics business combination
+Mcap $262M · EV $262M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2028027/000118518526004446/ntwo28k425092826.htm</link>
+      <guid isPermaLink="false">0001185185-26-004447</guid>
+      <pubDate>Wed, 30 Sep 2026 16:31:26 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$MKZR 🔎 Strat Review · Strat Alts
 Explores strategic alternatives; suspends preferred share buyback
@@ -46,16 +66,6 @@ Mcap $687M · EV $686M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/2074973/000121390026105334/ea0297114-05.htm</link>
       <guid isPermaLink="false">0001213900-26-105334</guid>
       <pubDate>Wed, 30 Sep 2026 16:28:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NTWO 🤝 Merger
-Progresses Fort Robotics business combination; S-4 confidentially filed
-Mcap $262M · EV $262M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028027/000118518526004447/ntwo28k425092826.htm</link>
-      <guid isPermaLink="false">0001185185-26-004447</guid>
-      <pubDate>Wed, 30 Sep 2026 16:27:48 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -1273,16 +1283,6 @@ Mcap $11M · EV $8M · Cons Disc</title>
       <guid isPermaLink="false">0001437749-26-031486</guid>
       <pubDate>Tue, 29 Sep 2026 16:32:41 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$QSEA 💧 Capital Return · Self-tender
-Seeks vote to extend business combination deadline to Feb 19, 2027; offers ~$10.84/share redemption
-Mcap $108M · EV $108M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2047455/000182912626010575/quartzseaacq_defr14a.htm</link>
-      <guid isPermaLink="false">0001829126-26-010575</guid>
-      <pubDate>Tue, 29 Sep 2026 16:31:32 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
