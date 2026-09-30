@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 12:04:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:10:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$IRHO 🤝 Merger
+Progresses business combination with Electra Vehicles; S-4 filed
+empty
+Mcap $295M · EV $295M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2051985/000121390026104901/ea0307009-8k425_iron2.htm</link>
+      <guid isPermaLink="false">0001213900-26-104901</guid>
+      <pubDate>Wed, 30 Sep 2026 07:10:18 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$AEON ⚖️ Litigation · Won
 FDA feedback clarifies ABP-450 path; milestone warrants expire Nov 16
@@ -1079,35 +1090,6 @@ Mcap $1.8B · EV $1.8B · Industrials</title>
       <guid isPermaLink="false">0001193125-26-406039</guid>
       <pubDate>Tue, 29 Sep 2026 07:22:09 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$ATOS 💧 Capital Return · Special Div
-Plans CVR issuance to shareholders for 25% of voucher proceeds, capped at $50M
-Mcap $20M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1488039/000119312526406036/atos-20260929.htm</link>
-      <guid isPermaLink="false">0001193125-26-406036</guid>
-      <pubDate>Tue, 29 Sep 2026 07:09:17 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$IMNN 🪙 Debt Restr.
-Exchanges $1.2M of A-1 Note for Series B Preferred Stock with Streeterville Capital
-Mcap $8M · EV $11M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/749647/000149315226044792/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044792</guid>
-      <pubDate>Tue, 29 Sep 2026 07:08:27 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$KROS 💧 Capital Return · Special Div
-To distribute 25% of $20M Takeda milestone payment to stockholders
-Mcap $230M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1664710/000166471026000059/kros-20260929.htm</link>
-      <guid isPermaLink="false">0001664710-26-000059</guid>
-      <pubDate>Tue, 29 Sep 2026 07:07:33 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
     </item>
   </channel>
 </rss>
