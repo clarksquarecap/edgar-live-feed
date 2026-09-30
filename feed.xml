@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:22:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · MASK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1993097/000118518526004439/0001185185-26-004439-index.htm</link>
+      <guid isPermaLink="false">0001185185-26-004439</guid>
+      <pubDate>Wed, 30 Sep 2026 15:22:21 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Acquires 13.4% stake in MASK from issuer for $1.0M via subscription</scanner:headline>
+      <scanner:shortName>3 E Network Technology</scanner:shortName>
+      <scanner:price>0.8800</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>MASK</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3220000</scanner:marketCap>
+      <scanner:enterpriseValue>2300000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.49</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>0.81</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>0.83</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>60.05</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires 13.4% stake in MASK from issuer for $1.0M via subscription&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;3E NETWORK TECHNOLOGY PTE. LTD., controlled by CEO Tingjun Yang, acquired 701,262 Class A ordinary shares, representing 13.4% of 3 E Network Technology Group Ltd&amp;#39;s outstanding shares, for approximately US$1,000,000, or US$1.42598 per share, via a subscription agreement. The shares were acquired for investment purposes. The transaction closed on September 10, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; 3 E Network Technology Group Limited, through its subsidiaries, engages in the provision of business-to-business information technology (IT) solutions for companies in the People’s Republic of China. It offers smart property and restaurant management software systems; and clean energy related software.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 1.42598&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 13.4%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-02&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.8800 · Mkt cap $3.2M · EV $2.3M · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1993097/000118518526004439/0001185185-26-004439-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MASK&lt;/b&gt; · SCHEDULE 13D · Business Services (7371) · fresh_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · FANG</title>
       <link>https://www.sec.gov/Archives/edgar/data/1539838/000110465926112325/tm2626600d1_8k.htm</link>
@@ -16391,37 +16428,6 @@
 &lt;p&gt;&lt;i&gt;Px $21.69 · Mkt cap $3.16B · EV $3.27B · Fwd EV/EBITDA 74.5x · Fwd EV/Sales 18.3x · Technology / IT Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1549084/000149315226043737/0001493152-26-043737-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CHRN&lt;/b&gt; · PRER14A · Industrial Machinery (3569) · prefill_form:PRER14A · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · HOWL</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1785530/000114036126037334/ny20081588x1_s4.htm</link>
-      <guid isPermaLink="false">0001140361-26-037334</guid>
-      <pubDate>Tue, 22 Sep 2026 16:19:36 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4</category>
-      <scanner:headline>Acquires Ambros Therapeutics; $500M equity value; combined co trades as AMBX</scanner:headline>
-      <scanner:shortName>Werewolf Therapeutics</scanner:shortName>
-      <scanner:price>0.9800</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4</scanner:form>
-      <scanner:sector>Healthcare</scanner:sector>
-      <scanner:ticker>HOWL</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>47627084</scanner:marketCap>
-      <scanner:enterpriseValue>25640084</scanner:enterpriseValue>
-      <scanner:fwdEvSales>21.37</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Ambros Therapeutics; $500M equity value; combined co trades as AMBX&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will acquire Ambros Therapeutics via reverse triangular merger, ascribing Ambros a $500M equity value vs Werewolf&amp;#39;s $47.5M. Werewolf issues stock per exchange ratio, distributes CVRs to holders, and renames to Ambros Therapeutics. A $150M PIPE funds the combined company; post-merger ownership: Ambros holders ~72%, PIPE ~21.6%, pre-merger Werewolf holders ~6.4%. Combined company to trade as AMBX on Nasdaq.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ambros Therapeutics, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $500.0 million (Ambros equity value)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote on Required Proposals pending&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.9800 · Mkt cap $47.6M · EV $25.6M · Fwd EV/Sales 21.4x · Healthcare / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1785530/000114036126037334/0001140361-26-037334-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HOWL&lt;/b&gt; · S-4 · Chemicals / Pharma (2834) · prefill_form:S-4 · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
