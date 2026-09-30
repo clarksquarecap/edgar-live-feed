@@ -6,8 +6,44 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:36:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:45:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔎 Strategic Review · Portfolio Review · BZAI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1871638/000187163826000057/blz-20260924.htm</link>
+      <guid isPermaLink="false">0001871638-26-000057</guid>
+      <pubDate>Wed, 30 Sep 2026 15:45:26 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>portfolio_review</category>
+      <category>8-K</category>
+      <scanner:headline>Implements restructuring plan, cuts 26% workforce for $7.5M-$8.4M annual savings</scanner:headline>
+      <scanner:shortName>Blaize Holdings</scanner:shortName>
+      <scanner:price>0.4700</scanner:price>
+      <scanner:subtype>portfolio_review</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>BZAI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>68940000</scanner:marketCap>
+      <scanner:enterpriseValue>32090000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.64</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>4.70</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>5.12</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>13.56</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Implements restructuring plan, cuts 26% workforce for $7.5M-$8.4M annual savings&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Implemented a restructuring plan approved by its Board, including a 26% workforce reduction. The company expects $1.1M-$1.3M in costs, primarily severance, to be incurred mostly in Q3 2026. This plan is projected to generate $7.5M-$8.4M in annual savings, which will be reinvested into higher-growth and more profitable business areas.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Blaize Holdings, Inc. provides artificial intelligence (AI)-enabled edge computing solutions. Its portfolio includes programmable AI processors in a broad range of form factors, deployable across several verticals, including smart city, defense, retail and enterprise markets; and AI computing platforms that enable applications, such as computer vision, advanced video analytics, and AI inference, as well as software tools that allows non-expert practitioners to deploy AI applications on its hardw…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-12-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Restructuring plan substantially completed by 2026-12-31&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.4700 · Mkt cap $68.9M · EV $32.1M · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1871638/000187163826000057/0001871638-26-000057-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BZAI, BZAIW&lt;/b&gt; · 8-K · Items 2.05, 9.01 · Electronic Equipment (3674) · 8k_tier1:2.05 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · ALG</title>
       <link>https://www.sec.gov/Archives/edgar/data/897077/000089707726000102/alg-20260929.htm</link>
@@ -16460,30 +16496,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RNW&lt;/b&gt; · SC 13E3 · Utilities (4911) · prefill_form:SC 13E3 · filed 2026-09-22&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SC 13E3 · Sep 23 05:04 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1848763/000119312526398221/d72407dsc13e3.htm'&gt;Acquired by CPP Investments consortium for $7.02/share cash&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC 13E3 · Sep 22 15:51 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1848763/000119312526398027/d136127dsc13e3.htm'&gt;Taken private by CPP Investments consortium for $7.02 cash/share via UK scheme&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · MBAI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1610590/000121390026102336/0001213900-26-102336-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-102336</guid>
-      <pubDate>Tue, 22 Sep 2026 20:57:00 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Insider McGee 13D: 44.9% direct; group ~74% control</scanner:headline>
-      <scanner:shortName>MBody AI</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>MBAI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Insider McGee 13D: 44.9% direct; group ~74% control&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Regan McMillan McGee filed Schedule 13D disclosing 6,860,097 ordinary shares (44.9%) directly plus ~4.44M shares through controlled entities (McGee Group, Alpha Nexus, Monarch Forge, Atlas, Hydra, IronSphere, 17343388 Canada), bringing group control to ~73.9% of MBody AI&amp;#39;s 15,293,584 shares outstanding. Original 13D signals non-passive control intent.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Regan McMillan McGee&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 44.9%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-26&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1610590/000121390026102336/0001213900-26-102336-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MBAI&lt;/b&gt; · SCHEDULE 13D · Business Services (7373) · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

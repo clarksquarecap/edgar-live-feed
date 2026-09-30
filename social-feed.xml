@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:37:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:45:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BZAI 🔎 Strat Review · Portfolio Review
+Implements restructuring plan, cuts 26% workforce for $7.5M-$8.4M annual savings
+Mcap $69M · EV $32M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1871638/000187163826000057/blz-20260924.htm</link>
+      <guid isPermaLink="false">0001871638-26-000057</guid>
+      <pubDate>Wed, 30 Sep 2026 15:45:26 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>portfolio_review</category>
+    </item>
     <item>
       <title>$ALG 📤 Divestiture
 Ceases Dixie Chopper product line; expects $15M-$20M charges
@@ -1225,47 +1235,6 @@ Mcap $113B · EV $133B · Healthcare</title>
       <guid isPermaLink="false">0001628280-26-062507</guid>
       <pubDate>Tue, 29 Sep 2026 15:47:04 -0500</pubDate>
       <category>SPLIT_OFF</category>
-    </item>
-    <item>
-      <title>$HAVA 🤝 Merger
-Acquires OAG Pipeline Technologies in $300M business combination
-$300,000,000 deal · stock
-Mcap $212M · EV $211M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2042460/000121390026104691/ea0304769-8k425_harvard.htm</link>
-      <guid isPermaLink="false">0001213900-26-104699</guid>
-      <pubDate>Tue, 29 Sep 2026 15:39:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BHLL 🤝 Merger
-Mails proxy for Silver47 Exploration Corp. business combination vote
-Mcap $133M · EV $231M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1407583/000149315226044876/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044876</guid>
-      <pubDate>Tue, 29 Sep 2026 15:39:29 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BIYA 📤 Divestiture
-Sells Juxing, Shenzhen Pengze &amp; VIEs; Shenzhen Pengze Future for RMB1.00
-to independent third party
-Mcap $14M · EV $13M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1944712/000121390026104687/ea0306763-6k_baiya.htm</link>
-      <guid isPermaLink="false">0001213900-26-104687</guid>
-      <pubDate>Tue, 29 Sep 2026 15:38:27 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PATK 🤝 Merger
-LCI Industries merger on track; HSR refiled, shareholder vote mid-Nov
-Mcap $2.2B · EV $3.8B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/76605/000007660526000088/patk092826-425filingxcompa.htm</link>
-      <guid isPermaLink="false">0001628280-26-063259</guid>
-      <pubDate>Tue, 29 Sep 2026 15:37:55 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
