@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 12:26:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:32:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · SZZL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030663/000121390026104909/ea0307165-8k425_sizzle2.htm</link>
+      <guid isPermaLink="false">0001213900-26-104909</guid>
+      <pubDate>Wed, 30 Sep 2026 07:32:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Amends Trasteel BCA; extends audit date, revises Pubco board</scanner:headline>
+      <scanner:shortName>Sizzle Acquisition Corp. II</scanner:shortName>
+      <scanner:price>10.49</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>SZZL</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>327990000</scanner:marketCap>
+      <scanner:enterpriseValue>327650000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Amends Trasteel BCA; extends audit date, revises Pubco board&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Amended its Business Combination Agreement (BCA) with Trasteel Holding S.A. The amendment extends the PCAOB Audit Delivery Date to September 30, 2026, and revises the post-closing Pubco board composition to five directors, with one chosen by Sizzle II and four by Trasteel.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sizzle Acquisition Corp. II does not have significant operations. It focuses on effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses. The company was incorporated in 2024 and is based in Washington, District Of Columbia.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Trasteel Holding S.A.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; F-4 effectiveness and shareholder vote&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.49 · Mkt cap $328.0M · EV $327.6M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2030663/000121390026104909/0001213900-26-104909-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SZZL, SZZLR, SZZLU&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Holding / Investment Offices (6770) · 8k_tier1:1.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔐 Going Private · ITGR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1114483/000095010326014831/dp254070_8k.htm</link>
@@ -16275,38 +16306,6 @@
 &lt;p&gt;&lt;i&gt;Px $4.83 · Mkt cap $15.3M · EV $-8.9M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1787297/000114036126037256/0001140361-26-037256-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PASG&lt;/b&gt; · S-4/A · Chemicals / Pharma (2836) · prefill_form:S-4 · filed 2026-09-21&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · GME</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1326380/000092189526002607/0000921895-26-002607-index.htm</link>
-      <guid isPermaLink="false">0000921895-26-002607</guid>
-      <pubDate>Mon, 21 Sep 2026 16:36:04 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Buys 1.15M shares at $22.94, stake to 8.7%</scanner:headline>
-      <scanner:shortName>GameStop</scanner:shortName>
-      <scanner:price>22.76</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>GME</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>11421900000</scanner:marketCap>
-      <scanner:enterpriseValue>10694800000</scanner:enterpriseValue>
-      <scanner:fwdPE>14.09</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Buys 1.15M shares at $22.94, stake to 8.7%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Ryan Cohen increased his stake in GameStop Corp. to 8.7% by purchasing 1,150,680 shares at a weighted average price of $22.9375 per share on September 21, 2026. He now beneficially owns 44,233,306 shares, including 3,734,784 warrants, representing approximately 8.7% of shares outstanding.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; GameStop Corp., a specialty retailer, provides games, collectibles, and entertainment products through its stores and e-commerce platforms in United States, Australia and Europe. The company sells new and pre-owned gaming platforms; accessories, such as controllers, gaming headsets, and other peripheral devices; new and pre-owned gaming software; and in-game digital currency, digital downloadable content, and full-game downloads.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 8.7%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $22.76 · Mkt cap $11.42B · EV $10.69B · Fwd P/E 14.1x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1326380/000092189526002607/0000921895-26-002607-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GME, GME-WT&lt;/b&gt; · SCHEDULE 13D/A · Retail; Furniture (5734) · fresh_13d · filed 2026-09-21&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
