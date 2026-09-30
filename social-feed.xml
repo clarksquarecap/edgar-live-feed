@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 20:56:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:58:25 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TXNM 🤝 Merger
+Acquired by Troy ParentCo for $61.25 cash; convertible notes become convertible
+cash
+Mcap $6.4B · EV $12B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1108426/000110842626000061/pnm-20260930.htm</link>
+      <guid isPermaLink="false">0001108426-26-000061</guid>
+      <pubDate>Wed, 30 Sep 2026 15:58:19 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$INBT 🤝 Merger
+Acquires Cartesian Growth Corp II &amp; InoBat AS in business combination; vote pending
+stock</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2156068/000118518526004443/inobatbvf4a1093026.htm</link>
+      <guid isPermaLink="false">0001185185-26-004249</guid>
+      <pubDate>Wed, 30 Sep 2026 15:57:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MDT 🪓 Split-off
+Offers to exchange MiniMed Group shares for MDT common stock
+Mcap $113B · EV $133B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026064013/a425-mdtwebsitex93026.htm</link>
+      <guid isPermaLink="false">0001628280-26-062507</guid>
+      <pubDate>Wed, 30 Sep 2026 15:56:56 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
     <item>
       <title>$TZIC 🪓 Spinoff
 To be spun off from KBR; NYSE listing TZIC expected</title>
@@ -1211,35 +1241,6 @@ Mcap $316M · EV $521M · Financial Serv</title>
       <guid isPermaLink="false">0000769317-26-000010</guid>
       <pubDate>Tue, 29 Sep 2026 15:58:36 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ELME 🧊 Liquidation
-Completes asset sales, plans NYSE delisting Nov 5, and voluntary dissolution Nov 6
-Mcap $151M · EV $854M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/104894/000010489426000117/elme-20260928.htm</link>
-      <guid isPermaLink="false">0000104894-26-000117</guid>
-      <pubDate>Tue, 29 Sep 2026 15:58:01 -0500</pubDate>
-      <category>LIQUIDATION</category>
-    </item>
-    <item>
-      <title>$LEAT 👀 Activist
-Sets Oct 9 deadline for shareholder director nominations; AGM Nov 20
-Mcap $73M · EV $54M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1456189/000121390026104730/ea0306629-8k_leatt.htm</link>
-      <guid isPermaLink="false">0001213900-26-104730</guid>
-      <pubDate>Tue, 29 Sep 2026 15:57:36 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$FNGR 🤝 Merger
-Acquires Newbit Technology for $2.3M cash; close by Oct 29
-US$2,300,000 deal · cash · close 2026-10-29
-Mcap $9M · EV $8M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1602409/000149315226044880/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044880</guid>
-      <pubDate>Tue, 29 Sep 2026 15:56:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
