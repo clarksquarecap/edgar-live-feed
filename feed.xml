@@ -6,8 +6,37 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 19:47:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:06:17 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Voluntary · FRSX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1691221/000149315226045098/form6-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-045098</guid>
+      <pubDate>Wed, 30 Sep 2026 15:06:11 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>6-K</category>
+      <scanner:headline>Voluntary delisting from Tel Aviv Stock Exchange effective Jan 4, 2027</scanner:headline>
+      <scanner:shortName>Foresight Autonomous</scanner:shortName>
+      <scanner:price>1.17</scanner:price>
+      <scanner:subtype>voluntary</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>FRSX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>4750000</scanner:marketCap>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Voluntary delisting from Tel Aviv Stock Exchange effective Jan 4, 2027&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced its voluntary delisting of ordinary shares from the Tel Aviv Stock Exchange (TASE). The last day of trading on TASE will be January 1, 2027, with delisting effective January 4, 2027. The company&amp;#39;s ADSs will continue to trade on Nasdaq under FRSX, and TASE holders can convert shares to ADSs.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Foresight Autonomous Holdings Ltd., a technology company, engages in the development of three-dimensional (3D) perception systems and cellular-based applications for the automotive industry in Israel, Japan, the United States, South Korea, France, and internationally. It develops in-line-of-sight vision solutions and beyond-line-of-site accident-prevention solutions.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-01-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2027-01-04&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.17 · Mkt cap $4.8M · EV $-1.9M · Consumer Discretionary / Automobile Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1691221/000149315226045098/0001493152-26-045098-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FRSX&lt;/b&gt; · 6-K · Business Services (7372) · prefill_form:6-K · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · AIFA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1708341/000121390026105202/ea0307227-8k_allin.htm</link>
@@ -16365,30 +16394,6 @@
 &lt;p&gt;&lt;i&gt;Px $11.92 · Mkt cap $205.0M · EV $441.4M · Fwd EV/Sales 1.8x · Consumer Defensive / Food Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1655210/000165521026000064/0001655210-26-000064-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BYND&lt;/b&gt; · 8-K · Items 8.01 · Food &amp;amp; Kindred (2000) · 8k_tier1:8.01 · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · VISTASL</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1919369/000119312526397892/0001193125-26-397892-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-397892</guid>
-      <pubDate>Tue, 22 Sep 2026 15:20:06 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Increases stake to 6.5% via $12.5M private placement at $19.13/sh</scanner:headline>
-      <scanner:shortName>VISTA CREDIT STRATEGIC LENDING</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>VISTASL</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Increases stake to 6.5% via $12.5M private placement at $19.13/sh&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;SNB acquired 651,312 shares of Vista Credit at $19.13/sh for $12.46M in a private placement, raising its beneficial ownership to 6.5% of outstanding common stock.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 19.13066&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 12,460,043.43&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-29&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1919369/000119312526397892/0001193125-26-397892-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VISTASL&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
