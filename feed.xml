@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Wed, 30 Sep 2026 16:15:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:27:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔐 Going Private · OMTK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1404804/000109690626001488/omtk-20260923_8k.htm</link>
+      <guid isPermaLink="false">0001096906-26-001488</guid>
+      <pubDate>Wed, 30 Sep 2026 11:27:36 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>going_private</category>
+      <category>8-K</category>
+      <scanner:headline>Control acquired by Hard Rock Holdco via $500K Series A Preferred stock</scanner:headline>
+      <scanner:shortName>Omnitek Engineering</scanner:shortName>
+      <scanner:price>0.0100</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>OMTK</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>270000</scanner:marketCap>
+      <scanner:enterpriseValue>440000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.47</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>0.93</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>0.93</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>50.35</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Control acquired by Hard Rock Holdco via $500K Series A Preferred stock&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced that Hard Rock Holdco, LLC acquired control of the company by purchasing 5,000 shares of Series A Preferred Stock for $500,000. Each Series A share carries 50,000 votes, granting Hard Rock Holdco 250,000,000 votes and control over the board and company direction. The company also issued a warrant for 91,666,666 common shares for $550,000 and cancelled all outstanding stock options.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Omnitek Engineering Corp. develops and sells proprietary technology to convert diesel engines to an alternative fuel, natural gas engines, and complementary products in the United States and internationally. The company offers conversion kits for converting diesel engines to run on an alternative fuel, including compressed, liquefied, and renewable natural gas, as well as hydrogen and liquid petroleum gas; natural gas engines and components; and high-pressure natural gas coalescing filters.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Hard Rock Holdco, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 500000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Tranche 2 closing for additional $500K preferred stock within 90 days&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $270K · EV $440K · Consumer Discretionary / Automobile Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1404804/000109690626001488/0001096906-26-001488-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OMTK&lt;/b&gt; · 8-K · Items 3.02, 5.01, 5.03, 8.01, 9.01 · Transportation Equipment (3714) · 8k_tier1:5.01,8.01 · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Special Dividend · Audax Credit BDC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1633858/000119312526408683/ck0001633858-20260925.htm</link>
@@ -16327,30 +16364,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-08&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Record date Oct 1, 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1941131/000114036126037296/0001140361-26-037296-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TORO&lt;/b&gt; · 6-K · Water Transportation (4412) · prefill_form:6-K · filed 2026-09-22&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · IRHO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2051985/000121390026101966/ea0306110-8k425_iron2.htm</link>
-      <guid isPermaLink="false">0001213900-26-101966</guid>
-      <pubDate>Tue, 22 Sep 2026 06:58:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Recaps Electra merger milestones; post-close ticker AIBR</scanner:headline>
-      <scanner:shortName>Iron Horse Acquisition II</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>IRHO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Recaps Electra merger milestones; post-close ticker AIBR&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Issued a press release recapping milestones achieved since its April 21, 2026 merger agreement with Electra Vehicles, Inc. The business combination will be submitted to IRHO shareholders for approval, and the parties intend to file a Form S-4. Post-closing trading is expected under the ticker &amp;#39;AIBR&amp;#39; on Nasdaq.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Electra Vehicles, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; S-4 filing and shareholder vote pending&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2051985/000121390026101966/0001213900-26-101966-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IRHO, IRHOR, IRHOU&lt;/b&gt; · 425 · Business Services (7389) · prefill_form:425 · filed 2026-09-22&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
