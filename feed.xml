@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:34:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:35:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · INSG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1022652/000119312526410680/0001193125-26-410680-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-410680</guid>
+      <pubDate>Thu, 01 Oct 2026 15:35:14 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Issues 14.2% stake to Nokia for FWA business acquisition &amp; $10M investment</scanner:headline>
+      <scanner:shortName>INSEEGO</scanner:shortName>
+      <scanner:price>3.66</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>INSG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>60100000</scanner:marketCap>
+      <scanner:enterpriseValue>111920000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.65</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.58</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>1.63</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>41.10</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Issues 14.2% stake to Nokia for FWA business acquisition &amp;amp; $10M investment&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Issued 1,163,693 shares of common stock and warrants to Nokia Solutions and Networks Oy as part of its acquisition of Nokia&amp;#39;s fixed wireless access business. Concurrently, Nokia invested $10 million in Inseego, receiving an additional 775,795 shares and warrants. These transactions resulted in Nokia beneficially owning 2,721,196 shares, representing 14.2% of Inseego&amp;#39;s common stock.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Inseego Corp. engages in the design and development of cloud-managed wireless wide area network (WAN) and intelligent edge solutions for businesses, consumers, and governments in the United Stated, Europe, and internationally. The company offers 5G and 4G mobile broadband solutions, such as mobile hotspots under the MiFi brand. It also provides fixed wireless access solutions, including indoor, outdoor, and industrial routers and gateways.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nokia Solutions and Networks Oy&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 14.2%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.66 · Mkt cap $60.1M · EV $111.9M · Information Technology / Communications Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1022652/000119312526410680/0001193125-26-410680-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;INSG&lt;/b&gt; · SCHEDULE 13D · Electronic Equipment (3669) · fresh_13d · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔎 Strategic Review · Portfolio Review · NKE</title>
       <link>https://www.sec.gov/Archives/edgar/data/320187/000032018726000184/nke-20261001.htm</link>
@@ -16842,44 +16879,6 @@
 &lt;p&gt;&lt;i&gt;Px $19.64 · Mkt cap $515.6M · EV $2.09B · Fwd EV/EBITDA 16.8x · Real Estate / Residential REITs&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1620393/000143774926031229/0001437749-26-031229-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NXRT&lt;/b&gt; · SCHEDULE 13D/A · Holding / Investment Offices (6798) · fresh_13d · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Settled · HIG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/874766/000087476626000064/hig-20260923.htm</link>
-      <guid isPermaLink="false">0000874766-26-000064</guid>
-      <pubDate>Fri, 25 Sep 2026 15:32:34 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-      <category>8-K</category>
-      <scanner:headline>Settles reinsurance dispute with NICO for $1.12B cash; expects $497M pre-tax gain</scanner:headline>
-      <scanner:shortName>HARTFORD INSURANCE</scanner:shortName>
-      <scanner:price>124.25</scanner:price>
-      <scanner:subtype>settled</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>HIG</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>34045900000</scanner:marketCap>
-      <scanner:enterpriseValue>38638900000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>1.32</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>3.48</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>9.67</scanner:fwdPE>
-      <scanner:fwdEvGrossProfit>3.50</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>37.87</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Settles reinsurance dispute with NICO for $1.12B cash; expects $497M pre-tax gain&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Settled a dispute with National Indemnity Company (NICO), a Berkshire Hathaway subsidiary, regarding an Aggregate Excess of Loss Reinsurance Agreement. The company received a cash payment of $1.12 billion, terminating the agreement and resolving a confidential arbitration. HIG expects to recognize a pre-tax net gain of $497 million for the three and nine months ended September 30, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The Hartford Insurance Group, Inc., together with its subsidiaries, provides insurance and financial services to individual and business customers in the United States, the United Kingdom, and internationally. It operates through Business Insurance, Personal Insurance, Property &amp;amp; Casualty Other Operations, Employee Benefits and Hartford Funds.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; National Indemnity Company&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1.12 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $124.25 · Mkt cap $34.05B · EV $38.64B · Fwd P/E 9.7x · Financials / Insurance&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/874766/000087476626000064/0000874766-26-000064-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HIG, HIG-PG&lt;/b&gt; · 8-K · Items 1.02, 7.01, 9.01 · Insurance (6331) · 8k_tier1:1.02,7.01 · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
