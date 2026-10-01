@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:41:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚔️ Proxy Contest · GS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/886982/000119312526410742/vip_14a-12_launch_no_xbr.htm</link>
+      <guid isPermaLink="false">0001193125-26-410742</guid>
+      <pubDate>Thu, 01 Oct 2026 15:41:44 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+      <category>acquisition</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Launches Voting Instruction Program to align retail votes with Board</scanner:headline>
+      <scanner:shortName>GOLDMAN SACHS</scanner:shortName>
+      <scanner:price>896.67</scanner:price>
+      <scanner:subtype />
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>GS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>272597780000</scanner:marketCap>
+      <scanner:fwdPE>13.57</scanner:fwdPE>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Launches Voting Instruction Program to align retail votes with Board&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Goldman Sachs Group Inc. launched a voluntary Voting Instruction Program (VIP) for retail shareholders, allowing them to opt in and set a standing instruction to vote their shares in accordance with the Board&amp;#39;s recommendations. This program aims to ensure votes on important matters, including contested director elections and M&amp;amp;A transactions, align with the Board&amp;#39;s stance, with an option to override. Enrollment is voluntary and account-based.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The Goldman Sachs Group, Inc., a financial institution, provides a range of financial services for corporations, financial institutions, governments, and individuals in the Americas, Europe, the Middle East, Africa, and Asia. It operates through three segments: Global Banking &amp;amp; Markets, Asset &amp;amp; Wealth Management, and Platform Solutions.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $896.67 · Mkt cap $272.60B · Fwd P/E 13.6x · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/886982/000119312526410742/0001193125-26-410742-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GS, GSCE, GS-PA, GS-PC, GS-PD&lt;/b&gt; · DEFA14A · Securities / Broker-Dealers (6211) · prefill_form:DEFA14A · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · INSG</title>
       <link>https://www.sec.gov/Archives/edgar/data/1022652/000119312526410680/0001193125-26-410680-index.htm</link>
@@ -16841,44 +16871,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1663712/000143774926031228/0001437749-26-031228-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NRSAX&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · NXRT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1620393/000143774926031229/0001437749-26-031229-index.htm</link>
-      <guid isPermaLink="false">0001437749-26-031229</guid>
-      <pubDate>Fri, 25 Sep 2026 15:32:42 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Dondero group reports 14.1% stake</scanner:headline>
-      <scanner:shortName>NexPoint Residential</scanner:shortName>
-      <scanner:price>19.64</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>NXRT</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>515600000</scanner:marketCap>
-      <scanner:enterpriseValue>2089830000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>8.25</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>13.74</scanner:evGrossProfitLtm>
-      <scanner:fwdEvEbitda>16.76</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>13.83</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>60.03</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Dondero group reports 14.1% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;James D. Dondero and affiliated entities reported a beneficial ownership of 3,595,942.22 shares of NexPoint Residential Trust, Inc. common stock, representing approximately 14.1% of the outstanding shares. This Schedule 13D/A is the 17th amendment to their initial filing from March 2015, with the latest event date of May 22, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; NexPoint Residential Trust, Inc. is a publicly traded real estate investment trust (REIT), primarily focused on acquiring, owning and operating well-located middle-income multifamily properties with value-add potential in large cities and suburban submarkets of large cities, primarily in the Southeastern and Southwestern United States.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; James D. Dondero&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 14.1%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-22&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $19.64 · Mkt cap $515.6M · EV $2.09B · Fwd EV/EBITDA 16.8x · Real Estate / Residential REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1620393/000143774926031229/0001437749-26-031229-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NXRT&lt;/b&gt; · SCHEDULE 13D/A · Holding / Investment Offices (6798) · fresh_13d · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
