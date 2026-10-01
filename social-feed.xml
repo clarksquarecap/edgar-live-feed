@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:30:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:31:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AHT 📤 Divestiture
+Sells Embassy Suites Las Vegas for $42.7M cash
+to 4315 Hospitality · 42.7 million deal
+Mcap $15M · EV $2.4B · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1232582/000123258226000199/aht-20260925.htm</link>
+      <guid isPermaLink="false">0001232582-26-000199</guid>
+      <pubDate>Thu, 01 Oct 2026 15:31:39 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$HTO 🤝 Merger
+Acquires Quadvest's water/sewer utility business for $540M
+cash
+Mcap $2.6B · EV $4.4B · Utilities</title>
+      <link>https://www.sec.gov/Archives/edgar/data/766829/000162828026064259/sjw-20261001.htm</link>
+      <guid isPermaLink="false">0001628280-26-064259</guid>
+      <pubDate>Thu, 01 Oct 2026 15:30:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GT 📤 Divestiture
 Closes Niagara Falls &amp; Bayport chemical facilities; $55M-$75M charges
@@ -1481,16 +1502,6 @@ Mcap $7M · EV $14M · Industrials</title>
       <pubDate>Wed, 30 Sep 2026 15:31:53 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$RDHL 📤 Divestiture
-Sells 70% interest in Talicia Holdings to Apotex for $18M upfront
-to Apotex Health · $18.0 million upfront, up to $53.0 million total deal
-Mcap $3M · EV $30K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1553846/000117891326004678/zk2636177.htm</link>
-      <guid isPermaLink="false">0001104659-26-112334</guid>
-      <pubDate>Wed, 30 Sep 2026 15:31:19 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
