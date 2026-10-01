@@ -6,8 +6,36 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 17:33:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:47:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · WIA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1254370/000107261326000808/0001072613-26-000808-index.htm</link>
+      <guid isPermaLink="false">0001072613-26-000808</guid>
+      <pubDate>Thu, 01 Oct 2026 12:46:56 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Karpus increases stake to 38.14% in Western Asset Inflation-Linked Income Fund</scanner:headline>
+      <scanner:shortName>WESTERN ASSET INFLATION-LINKED INCOME FUND</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>WIA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:currency>AUD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Karpus increases stake to 38.14% in Western Asset Inflation-Linked Income Fund&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Karpus Management, Inc. reported increasing its beneficial ownership in Western Asset Inflation-Linked Income Fund to 8,894,690.39 shares, representing 38.14% of the outstanding common stock. The aggregate purchase price for these shares is approximately $83,374,236.69. Karpus made net purchases of 262,651 shares over the past 60 days through open market transactions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; WIA Gold Limited, together with its subsidiaries, engages in the exploration and evaluation of mineral properties in Namibia and Côte d’Ivoire. The company explores for gold deposits. The company was formerly known as Tanga Resources Limited and changed its name to WIA Gold Limited in November 2021. WIA Gold Limited was incorporated in 2010 and is headquartered in Subiaco, Australia.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 83374236.69&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 38.14%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1254370/000107261326000808/0001072613-26-000808-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WIA&lt;/b&gt; · SCHEDULE 13D/A · amended_13d · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · SSM</title>
       <link>https://www.sec.gov/Archives/edgar/data/1840416/000209649326000005/0002096493-26-000005-index.htm</link>
@@ -16806,43 +16834,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.4900 · Mkt cap $3.7M · EV $24.3M · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1849820/000184982026000150/0001849820-26-000150-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KITT, KITTW&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Industrial Machinery (3569) · 8k_tier1:8.01 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · LUMN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/18926/000094787126000891/ss6865668_8k.htm</link>
-      <guid isPermaLink="false">0000947871-26-000891</guid>
-      <pubDate>Fri, 25 Sep 2026 07:42:32 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>8-K</category>
-      <scanner:headline>Voluntary NYSE delisting for common stock, notes; relisting on Nasdaq Oct 6</scanner:headline>
-      <scanner:shortName>Lumen Technologies</scanner:shortName>
-      <scanner:price>5.86</scanner:price>
-      <scanner:subtype>voluntary</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>LUMN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>6044270000</scanner:marketCap>
-      <scanner:enterpriseValue>17663270000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>1.49</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>3.12</scanner:evGrossProfitLtm>
-      <scanner:fwdEvEbitda>5.71</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>3.17</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>47.79</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Voluntary NYSE delisting for common stock, notes; relisting on Nasdaq Oct 6&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced its intention to voluntarily delist its common stock and associated preferred stock purchase rights, along with its 6.500% Notes due 2051 and 6.750% Notes due 2052, from the NYSE. The company&amp;#39;s securities have been approved for listing on Nasdaq. Delisting from NYSE is expected on October 5, 2026, with listing on Nasdaq effective October 6, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lumen Technologies, Inc., a networking company, provides integrated products and services to business and mass customers in the United States and internationally. The company operates in two segments, Business and Mass Markets. It offers dark fiber and conduit, edge cloud, internet protocol (IP), voice over IP, managed security, software-defined wide area networks, unified communications and collaboration, and optical services; ethernet and VPN data networks services; and legacy services to mana…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-06&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.86 · Mkt cap $6.04B · EV $17.66B · Fwd EV/EBITDA 5.7x · Communication Services / Diversified Telecommunication Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/18926/000094787126000891/0000947871-26-000891-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LUMN&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Communications (4813) · 8k_tier1:3.01,7.01 · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

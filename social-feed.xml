@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 17:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:47:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WIA 👀 Activist
+Karpus increases stake to 38.14% in Western Asset Inflation-Linked Income Fund
+Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1254370/000107261326000808/0001072613-26-000808-index.htm</link>
+      <guid isPermaLink="false">0001072613-26-000808</guid>
+      <pubDate>Thu, 01 Oct 2026 12:46:56 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
     <item>
       <title>$SSM 📍 Stake
 Alpine Fox Capital discloses 21.5% stake in Sono Group
@@ -1452,15 +1461,6 @@ Mcap $2M · EV $979M · Cons Disc</title>
       <pubDate>Wed, 30 Sep 2026 13:14:46 -0500</pubDate>
       <category>INSOLVENCY</category>
       <category>chapter_11</category>
-    </item>
-    <item>
-      <title>$NEXN 📍 Stake
-Mithaq Capital SPC holds 25% stake; board withdraws AGM proposal
-Mcap $498M · EV $402M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1849396/000117891326004672/zk2636184.htm</link>
-      <guid isPermaLink="false">0001178913-26-004672</guid>
-      <pubDate>Wed, 30 Sep 2026 12:45:56 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
