@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 21:38:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:44:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$UUU 👀 Activist
@@ -1505,46 +1505,6 @@ Mcap $83M · EV $122M · Financials</title>
       <guid isPermaLink="false">0001013594-26-000998</guid>
       <pubDate>Wed, 30 Sep 2026 17:52:46 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$LQDA ⚖️ Litigation · Lost
-Lost patent infringement ruling to United Therapeutics on YUTREPIA claims
-Mcap $6.3B · EV $6.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819576/000110465926112420/tm2626740d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112420</guid>
-      <pubDate>Wed, 30 Sep 2026 16:40:57 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
-    </item>
-    <item>
-      <title>$LAB 📤 Divestiture
-Sells mass cytometry business to Element Biosystems for $5.5M cash
-$5.5 million deal
-Mcap $280M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1162194/000114036126038110/ef20082995_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-038111</guid>
-      <pubDate>Wed, 30 Sep 2026 16:40:45 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CLGN 🤝 Merger
-Amends LightSolver acquisition terms for option conversion
-stock
-Mcap $7M · EV $6M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1631487/000121390026105352/ea0306778-6k_collplant.htm</link>
-      <guid isPermaLink="false">0001213900-26-105352</guid>
-      <pubDate>Wed, 30 Sep 2026 16:40:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$WKEY 🌍 Re-domicile
-Shareholders approve redomiciliation; direct Nasdaq/SIX listing as WISeQey (WQEY) expected Oct
-Mcap $51M · EV $37M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026105356/ea0306423-6k_wisekey.htm</link>
-      <guid isPermaLink="false">0001213900-26-103517</guid>
-      <pubDate>Wed, 30 Sep 2026 16:39:36 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
     </item>
   </channel>
 </rss>
