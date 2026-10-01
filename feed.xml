@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 10:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:11:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Self Tender · QSEA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2047455/000182912626010634/quartzseaacq_defr14a.htm</link>
+      <guid isPermaLink="false">0001829126-26-010634</guid>
+      <pubDate>Thu, 01 Oct 2026 05:11:47 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+      <category>DEFR14A</category>
+      <scanner:headline>Offers $10.69/share redemption for extension vote; meeting Oct 13</scanner:headline>
+      <scanner:shortName>Quartzsea Acquisition</scanner:shortName>
+      <scanner:price>10.67</scanner:price>
+      <scanner:subtype>self_tender</scanner:subtype>
+      <scanner:form>DEFR14A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>QSEA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFR14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>108030000</scanner:marketCap>
+      <scanner:enterpriseValue>108200000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Offers $10.69/share redemption for extension vote; meeting Oct 13&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation is holding an Extraordinary General Meeting on October 13, 2026, to vote on extending its business combination deadline to February 19, 2027. Public shareholders have the opportunity to redeem their shares for an estimated $10.69 per Public Share in connection with the Extension Amendment Proposal. If the extension is not approved, the company will wind up and liquidate.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Quartzsea Acquisition Corporation does not have significant operations. It intends to effect a merger, share exchange, asset acquisition, share purchase, recapitalization, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2024 and is based in New York, New York.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; 10.69&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-13&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.67 · Mkt cap $108.0M · EV $108.2M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2047455/000182912626010634/0001829126-26-010634-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QSEA, QSEAR, QSEAU&lt;/b&gt; · DEFR14A · Holding / Investment Offices (6770) · prefill_form:DEFR14A · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · LIFD</title>
       <link>https://www.sec.gov/Archives/edgar/data/1391135/000109690626001491/lifd-20260929_8k.htm</link>
@@ -16794,32 +16825,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; post-EGM&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; EGM on Oct 9, 2026&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1951294/000149315226043971/0001493152-26-043971-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VSME&lt;/b&gt; · 6-K · Business Services (7311) · prefill_form:6-K · filed 2026-09-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔐 Going Private · BOW</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2002473/000114036126037457/ny20080231x4_sc13e3a.htm</link>
-      <guid isPermaLink="false">0001140361-26-037443</guid>
-      <pubDate>Wed, 23 Sep 2026 16:31:03 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-      <category>acquisition</category>
-      <category>SC 13E3/A</category>
-      <scanner:headline>Acquired by American Family Mutual for $34.00 cash/share</scanner:headline>
-      <scanner:shortName>Bowhead Specialty</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>SC 13E3/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>BOW</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>PRER14A, SC 13E3/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquired by American Family for $34.00 cash/share&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will be acquired by American Family Mutual Insurance Company in a going-private transaction. Under the merger agreement dated August 2, 2026, each common share will be converted into the right to receive $34.00 in cash. The special meeting of stockholders to vote on the merger is pending; the transaction requires approval of a majority of outstanding shares and a majority of shares held by non-affiliated stockholders.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; American Family Mutual Insurance Company&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $34.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote on merger&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2002473/000114036126037443/0001140361-26-037443-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BOW&lt;/b&gt; · PRER14A · Insurance (6331) · prefill_form:PRER14A · filed 2026-09-23&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SC 13E3/A · Sep 23 16:31 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2002473/000114036126037457/ny20080231x4_sc13e3a.htm'&gt;Acquired by American Family Mutual for $34.00 cash/share&lt;/a&gt;&lt;/li&gt;&lt;li&gt;PRER14A · Sep 23 16:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2002473/000114036126037443/ny20080231x3_prer14a.htm'&gt;Acquired by American Family for $34.00 cash/share&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

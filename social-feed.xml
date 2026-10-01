@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 10:05:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:11:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$QSEA 💧 Capital Return · Self-tender
+Offers $10.69/share redemption for extension vote; meeting Oct 13
+Mcap $108M · EV $108M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2047455/000182912626010634/quartzseaacq_defr14a.htm</link>
+      <guid isPermaLink="false">0001829126-26-010634</guid>
+      <pubDate>Thu, 01 Oct 2026 05:11:47 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$LIFD 📤 Divestiture
 Sells 5511 Building to Ad Real Estate Group for $1.5M cash; repays all bank debt
@@ -1242,58 +1252,6 @@ Mcap $1.9B · EV $1.8B · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/834365/000119312526408201/d47823d425.htm</link>
       <guid isPermaLink="false">0001193125-26-408198</guid>
       <pubDate>Wed, 30 Sep 2026 05:17:45 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$EZRA 📤 Divestiture
-Sells employee benefits business to Altruis Benefit Mgmt for $8M cash, note &amp; earnout
-8,000,000 deal
-Mcap $3M · EV $7M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1812727/000149315226044941/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044941</guid>
-      <pubDate>Wed, 30 Sep 2026 05:09:29 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$IVCBF 🔎 Strat Review · Strat Alts
-Shareholders approve extension of business combination deadline to Dec 2029
-Mcap $64M · EV $60M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1857410/000182912626010583/investacq_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-010583</guid>
-      <pubDate>Wed, 30 Sep 2026 05:08:45 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$SAIH 🤝 Merger
-Acquires Canopy Wave in reverse merger for 3.3M shares + $4.5M PIPE
-60.0M deal · stock
-Mcap $56M · EV $57M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847075/000121390026104816/ea0306713-6k_saiheat.htm</link>
-      <guid isPermaLink="false">0001213900-26-104816</guid>
-      <pubDate>Wed, 30 Sep 2026 05:08:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TLX ⚖️ Litigation · Won
-BiPASS prostate cancer imaging granted FDA Fast Track designation
-Mcap $3.8B · EV $4.2B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2007191/000162828026063875/telix-6kbipassgainsfdafast.htm</link>
-      <guid isPermaLink="false">0001628280-26-063875</guid>
-      <pubDate>Wed, 30 Sep 2026 05:06:28 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$OMEX 🤝 Merger
-Acquired by American Ocean Minerals in reverse merger; OMEX holders to own 6.6% of combined co.
-stock
-Mcap $40M · EV $9M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/798528/000119312526407993/d104064ds4a.htm</link>
-      <guid isPermaLink="false">0001193125-26-407993</guid>
-      <pubDate>Wed, 30 Sep 2026 05:06:14 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
