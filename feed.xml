@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 18:05:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 18:06:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · DPLS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866439/000168316826007520/darkpulse_8k.htm</link>
+      <guid isPermaLink="false">0001683168-26-007520</guid>
+      <pubDate>Thu, 01 Oct 2026 13:06:27 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Secures exclusive US license for 6 Air Force satellite &amp; laser patents</scanner:headline>
+      <scanner:shortName>DarkPulse</scanner:shortName>
+      <scanner:price>0.0100</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>DPLS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1480000</scanner:marketCap>
+      <scanner:enterpriseValue>4240000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>27.72</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>28.15</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>26.48</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>98.47</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Secures exclusive US license for 6 Air Force satellite &amp;amp; laser patents&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Executed an exclusive patent license agreement with the U.S. Department of the Air Force for six patents covering satellite power-sharing, laser, constellation navigation, and hybrid terrestrial-satellite networking technologies. This agreement grants DarkPulse an exclusive U.S. license to commercialize these innovations, forming the foundation for its plan to develop a space-based power grid. The company intends to pursue commercialization across defense, aerospace, critical infrastructure, and commercial markets.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; DarkPulse, Inc., a technology-security company, develops, markets, and distributes a suite of engineering, installation, and security management solutions to industries and governments in North America, the United Kingdom, and internationally. Its patented brillouin optical time domain analysis technology offers customers with a data stream of critical metrics for assessing the health and security of their infrastructure.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; U.S. Department of the Air Force&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $1.5M · EV $4.2M · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/866439/000168316826007520/0001683168-26-007520-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DPLS&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Business Services (7372) · 8k_tier1:7.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · AMZE</title>
       <link>https://www.sec.gov/Archives/edgar/data/1880343/000114331326000051/0001143313-26-000051-index.htm</link>
@@ -16804,41 +16841,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.1600 · Mkt cap $5.9M · EV $17.5M · Consumer Discretionary / Diversified Consumer Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1637147/000110465926110659/0001104659-26-110659-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZSPC&lt;/b&gt; · 25 · Business Services (7372) · prefill_form:25 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · WEAV</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1609151/000114036126037628/ny20081403x2_defm14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-036669</guid>
-      <pubDate>Fri, 25 Sep 2026 08:01:59 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFM14A</category>
-      <scanner:headline>Acquired by Francisco Partners affiliate for $7.40 cash; vote Oct 22</scanner:headline>
-      <scanner:shortName>Weave Communications</scanner:shortName>
-      <scanner:price>7.34</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFM14A</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>WEAV</scanner:ticker>
-      <scanner:filings>4</scanner:filings>
-      <scanner:filingForms>PREM14A, DEFA14A, 8-K, DEFM14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>585590000</scanner:marketCap>
-      <scanner:enterpriseValue>558510000</scanner:enterpriseValue>
-      <scanner:fwdPE>37.01</scanner:fwdPE>
-      <scanner:fwdEvEbitda>26.58</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Francisco Partners for $7.40 cash/share&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Agreed to be acquired by affiliates of Francisco Partners for $7.40 per share in cash. The merger agreement was signed August 18, 2026. Stockholders will vote at a special meeting; the board recommends approval.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Weave Communications, Inc. operates an AI-powered patient communications, engagement, and payments platform for small and medium-sized healthcare businesses. It offers AI-receptionist; Unified Phone Number; Customized Phone System, a smarter phone system to identify whether incoming calls are from new or current patients, provide information at every call, and manage heavy call times; Softphones to make and receive calls from anywhere with an internet connection; Text Messaging and SMS response …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Francisco Partners (via Willow Parent LLC)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 7.40&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote on merger&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.34 · Mkt cap $585.6M · EV $558.5M · Fwd P/E 37.0x · Fwd EV/EBITDA 26.6x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000114036126036669/0001140361-26-036669-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WEAV&lt;/b&gt; · PREM14A · Business Services (7372) · prefill_form:PREM14A · filed 2026-09-15&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFM14A · Sep 25 08:01 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000114036126037628/ny20081403x2_defm14a.htm'&gt;Acquired by Francisco Partners affiliate for $7.40 cash; vote Oct 22&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 21 16:35 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000160915126000105/weav-20260921.htm'&gt;HSR cleared; Francisco Partners merger expected Q4 close&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 21 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000160915126000107/weave-8xkxhsr.htm'&gt;HSR cleared for Francisco Partners merger; close Q4&lt;/a&gt;&lt;/li&gt;&lt;li&gt;PREM14A · Sep 15 15:52 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1609151/000114036126036669/ny20081403x1_prem14a.htm'&gt;Acquired by Francisco Partners for $7.40 cash/share&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
