@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 10:43:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:56:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HCAC 🤝 Merger
+Acquires REEcycle Holdings for $400M stock; to rename REEcycle, Inc.
+400,000,000 deal · stock
+Mcap $296M · EV $296M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2079013/000182912626010648/hallchadwickacq_s4.htm</link>
+      <guid isPermaLink="false">0001829126-26-010648</guid>
+      <pubDate>Thu, 01 Oct 2026 05:56:07 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ANRGF 📤 Divestiture
 Divests Charlotte and Rhode Island Bioenergy Facilities via definitive agreement
@@ -1367,17 +1378,6 @@ Mcap $62M · EV $32M · Healthcare</title>
       <pubDate>Wed, 30 Sep 2026 06:09:28 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$HRL 🤝 Merger
-Acquires Brakebush Brothers for $1.055B cash; close Q1 FY27
-1.055 billion USD deal · cash
-Mcap $11B · EV $13B · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/48465/000110465926112101/tm2626547d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112101</guid>
-      <pubDate>Wed, 30 Sep 2026 05:51:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
