@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 19:46:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:53:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · MGRX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1938046/000149315226045341/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-045341</guid>
+      <pubDate>Thu, 01 Oct 2026 14:53:02 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells 25% stake in MangoRx IP subsidiary for $2.5M to two investors</scanner:headline>
+      <scanner:shortName>MANGOCEUTICALS</scanner:shortName>
+      <scanner:price>0.5100</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>MGRX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>9230000</scanner:marketCap>
+      <scanner:enterpriseValue>9280000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>29.44</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>54.09</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>56.15</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>54.43</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells 25% stake in MangoRx IP subsidiary for $2.5M to two investors&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into Subscription Agreements to sell a 25% ownership interest in its wholly-owned subsidiary, MangoRx IP Holdings, LLC, to two accredited investors for an aggregate of $2,500,000. The company has received $1,750,000 and issued 18.9% ownership, with the remaining to close no later than 60 days after the initial closing.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Mangoceuticals, Inc. engages in the development, marketing, and sale of various men’s wellness products and services through a telemedicine platform in the United States. The company offers erectile dysfunction products under the Mango brand; hair loss products under the Grow brand; hormone balance and therapy products under the Mojo brand; and weight loss products under the Slim brand.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; two accredited investors&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 2,500,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 25%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.5100 · Mkt cap $9.2M · EV $9.3M · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1938046/000149315226045341/0001493152-26-045341-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MGRX&lt;/b&gt; · 8-K · Items 1.01, 2.01, 3.02, 7.01, 9.01 · Health Services (8090) · 8k_tier1:1.01,2.01,7.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · SGRP</title>
       <link>https://www.sec.gov/Archives/edgar/data/1004989/000135445726000934/0001354457-26-000934-index.htm</link>
@@ -16805,34 +16842,6 @@
 &lt;p&gt;&lt;i&gt;Px $58.86 · Mkt cap $16.96B · EV $15.96B · Fwd P/E 28.6x · Fwd EV/EBITDA 21.6x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1773383/000136157026000021/0001361570-26-000021-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DT&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7372) · amended_13d · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · LODFF</title>
-      <link>https://www.otcmarkets.com/stock/LODFF/news/536438</link>
-      <guid isPermaLink="false">OTC-536438</guid>
-      <pubDate>Fri, 25 Sep 2026 08:46:52 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>OTC</category>
-      <scanner:headline>Commences trading on Frankfurt Stock Exchange under X27</scanner:headline>
-      <scanner:shortName>Lode Gold Resources</scanner:shortName>
-      <scanner:price>0.2800</scanner:price>
-      <scanner:subtype>voluntary</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>LODFF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>27730000</scanner:marketCap>
-      <scanner:enterpriseValue>29130000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Commences trading on Frankfurt Stock Exchange under X27&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced it has commenced trading on the Frankfurt Stock Exchange under the ticker symbol X27. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lode Gold Resources Inc., together with its subsidiaries, is involved in the discovery, acquisition, and development of gold projects in North America. Its flagship project is the Fremont Gold project covering an area of 3,351 acres located in the Mariposa County, California. The company was formerly known as Stratabound Minerals Corp. and changed its name to Lode Gold Resources Inc. in January 2024. Lode Gold Resources Inc. was founded in 1986 and is based in Vancouver, Canada.&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Px $0.2800 · Mkt cap $27.7M · EV $29.1M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LODFF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

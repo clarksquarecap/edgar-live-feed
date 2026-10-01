@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 19:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:53:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MGRX 📤 Divestiture
+Sells 25% stake in MangoRx IP subsidiary for $2.5M to two investors
+2,500,000 deal
+Mcap $9M · EV $9M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1938046/000149315226045341/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-045341</guid>
+      <pubDate>Thu, 01 Oct 2026 14:53:02 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$SGRP 📉 Delisting · Forced
 Forced Nasdaq delisting effective Oct 12, 2026
@@ -1442,15 +1452,6 @@ Mcap $5M · Cons Disc</title>
       <pubDate>Wed, 30 Sep 2026 15:06:11 -0500</pubDate>
       <category>DELISTING</category>
       <category>voluntary</category>
-    </item>
-    <item>
-      <title>$AIFA 📍 Stake
-Clarifies beneficial ownership of 31.3% stake amid control dispute
-Mcap $26M · EV $12M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1708341/000121390026105202/ea0307227-8k_allin.htm</link>
-      <guid isPermaLink="false">0001213900-26-105202</guid>
-      <pubDate>Wed, 30 Sep 2026 14:47:41 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
