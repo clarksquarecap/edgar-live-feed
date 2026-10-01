@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 10:36:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:43:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · JYNT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1612630/000161263026000071/jynt-20261001.htm</link>
+      <guid isPermaLink="false">0001612630-26-000071</guid>
+      <pubDate>Thu, 01 Oct 2026 05:43:14 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Reacquires Texas regional development rights for $8M cash + up to $2M earnout</scanner:headline>
+      <scanner:shortName>JOINT</scanner:shortName>
+      <scanner:price>7.40</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>JYNT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>100680000</scanner:marketCap>
+      <scanner:enterpriseValue>80580000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.38</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.68</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>13.29</scanner:fwdPE>
+      <scanner:fwdEvEbitda>7.02</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>1.78</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>81.76</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Reacquires Texas regional development rights for $8M cash + up to $2M earnout&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Joint Corp. entered into an Asset Purchase Agreement to reacquire regional development rights in the Texas region from The Joint Franchises San Antonio, LLC and other sellers. The aggregate purchase price is $8.0 million in cash, with up to $2.0 million in additional consideration contingent on gross sales metrics over two years. The transaction is effective October 1, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The Joint Corp. operates and is a franchisor and operator of chiropractic clinics in the United States. The company provides services under the franchise agreement, including training of franchisees and staff, site selection, construction/vendor management and ongoing operations support. It operates through a network of franchised clinics, offering routine and affordable chiropractic adjustments using a private pay, non-insurance, cash-based model.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $8.0M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $7.40 · Mkt cap $100.7M · EV $80.6M · Fwd P/E 13.3x · Fwd EV/EBITDA 7.0x · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1612630/000161263026000071/0001612630-26-000071-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JYNT&lt;/b&gt; · 8-K · Items 1.01 · Holding / Investment Offices (6794) · 8k_tier1:1.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · GPUS</title>
       <link>https://www.sec.gov/Archives/edgar/data/896493/000119380526001309/0001193805-26-001309-index.htm</link>
@@ -16806,32 +16845,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.06 · Mkt cap $41.0M · EV $30.7M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1005101/000149315226044118/0001493152-26-044118-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MGLD&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Non-Depository Credit (6199) · 8k_tier1:1.01,7.01 · filed 2026-09-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · CLYD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2094256/000110465926110241/tm2625953d2_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-110240</guid>
-      <pubDate>Thu, 24 Sep 2026 08:27:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Amends Clywedog merger; closing set for Oct 31</scanner:headline>
-      <scanner:shortName>BEACON TOPCO</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>CLYD</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>SC TO-I/A, 8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Adds $60M PIPE to reverse merger with Barinthus Bio&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Disclosed a $60M PIPE financing concurrent with its all-stock reverse merger with Barinthus Biotherapeutics (BRNS). The combined company will operate as Clywedog Therapeutics Holdings, Inc. and trade under CLYD. The merger is expected to close in Q3 2026, with the self-tender offer at $6.6609 per share.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Barinthus Biotherapeutics plc (BRNS) and Clywedog Therapeutics, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-09-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Closing of reverse merger and PIPE financing&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2094256/000110465926110240/0001104659-26-110240-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CLYD&lt;/b&gt; · SC TO-I/A · Chemicals / Pharma (2834) · prefill_form:SC TO-I · filed 2026-09-24&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 24 08:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2094256/000110465926110241/tm2625953d2_8k.htm'&gt;Amends Clywedog merger; closing set for Oct 31&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-I/A · Sep 24 08:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2094256/000110465926110240/tm2625953d1_sctoia.htm'&gt;Adds $60M PIPE to reverse merger with Barinthus Bio&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
