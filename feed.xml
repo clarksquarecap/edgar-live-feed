@@ -6,8 +6,43 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:22:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:27:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Self Tender · PMO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/900422/000119312526410675/d134916dsctoi.htm</link>
+      <guid isPermaLink="false">0001193125-26-410675</guid>
+      <pubDate>Thu, 01 Oct 2026 15:27:53 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+      <category>SC TO-I</category>
+      <scanner:headline>Offers to buy back all preferred shares at $23,218.75/share; expires Oct 29</scanner:headline>
+      <scanner:shortName>FRANKLIN MUNICIPAL OPPORTUNITIES</scanner:shortName>
+      <scanner:price>9.14</scanner:price>
+      <scanner:subtype>self_tender</scanner:subtype>
+      <scanner:form>SC TO-I</scanner:form>
+      <scanner:sector>Financial Services</scanner:sector>
+      <scanner:ticker>PMO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC TO-I</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>250431082</scanner:marketCap>
+      <scanner:enterpriseValue>410395473</scanner:enterpriseValue>
+      <scanner:evSalesLtm>18.81</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>18.81</scanner:evGrossProfitLtm>
+      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Offers to buy back all preferred shares at $23,218.75/share; expires Oct 29&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Offers to purchase for cash up to 100% of its outstanding Remarketed Preferred Shares, Series B and Series C, at 92.875% of the $25,000 liquidation preference per share, plus any unpaid dividends. The offer is conditioned on the issuance of new variable rate demand preferred shares and will expire at 5:00 p.m. New York City time on October 29, 2026, unless extended. The total cost for purchasing 100% of the preferred shares would be approximately $128,000,000.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; 23218.75&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 128000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 100%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $9.14 · Mkt cap $250.4M · EV $410.4M · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/900422/000119312526410675/0001193125-26-410675-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PMO&lt;/b&gt; · SC TO-I · prefill_form:SC TO-I · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · TKLF</title>
       <link>https://www.sec.gov/Archives/edgar/data/1836242/000121390026105762/0001213900-26-105762-index.htm</link>
@@ -16842,37 +16877,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.1900 · Mkt cap $3.7M · EV $130K · Consumer Discretionary / Textiles, Apparel and Luxury Goods&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2024656/000121390026103515/0001213900-26-103515-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FMFC&lt;/b&gt; · 6-K · Leather (3100) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · LBGJ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1896425/000149315226044314/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044314</guid>
-      <pubDate>Fri, 25 Sep 2026 15:26:17 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Shareholders approve reincorporation to BVI, 200x authorized share capital increase</scanner:headline>
-      <scanner:shortName>Li Bang International</scanner:shortName>
-      <scanner:price>2.13</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>LBGJ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>40000</scanner:marketCap>
-      <scanner:enterpriseValue>7040000</scanner:enterpriseValue>
-      <scanner:fwdEvGrossProfit>2.17</scanner:fwdEvGrossProfit>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Shareholders approve reincorporation to BVI, 200x authorized share capital increase&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Shareholders approved the reincorporation of the company from the Cayman Islands to the British Virgin Islands. They also approved a 200x increase in authorized share capital from $35,000 to $7,000,000 and a share capital reorganization, including a par value reduction and share subdivision. The changes are effective upon completion of filings and governmental consents.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Li Bang International Corporation Inc. engages in the design, development, production, and sale of stainless-steel commercial kitchen equipment under the Li Bang brand in China. It offers kitchen equipment, cooking machinery, food machinery, hotel supplies, kitchen accessories, and others. In addition, it provides commercial kitchen accessories comprising steaming, cooking, baking, frying, disinfection, conditioning, and refrigeration equipment.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.13 · Mkt cap $40K · EV $7.0M · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1896425/000149315226044314/0001493152-26-044314-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LBGJ&lt;/b&gt; · 6-K · Industrial Machinery (3580) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
