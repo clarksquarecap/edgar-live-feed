@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 11:18:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 11:24:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · SLAMF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1838162/000121390026105446/ea0307253-8k_slam.htm</link>
+      <guid isPermaLink="false">0001213900-26-105446</guid>
+      <pubDate>Thu, 01 Oct 2026 06:24:51 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Restructures $15.5M sponsor note with equity settlement option</scanner:headline>
+      <scanner:shortName>Slam</scanner:shortName>
+      <scanner:price>19.00</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>SLAMF</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>274540000</scanner:marketCap>
+      <scanner:enterpriseValue>291840000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Restructures $15.5M sponsor note with equity settlement option&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Issued an Amended and Restated Consolidated Promissory Note for $15,514,982 to its sponsor, Slam Sponsor, LLC, consolidating ten prior notes. The note now bears interest at the prime rate and includes an option for the Company to settle all or part of the outstanding amount by issuing Class A ordinary shares. The sponsor has waived claims against the trust account if the Company liquidates without a business combination.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Slam Corp. does not have significant operations. It intends to effect a merger, share exchange, asset acquisition, share purchase, reorganization, or related business combination with one or more businesses or entities. The company was incorporated in 2020 and is based in New York, New York. Slam Corp. operates as a subsidiary of Slam Sponsor, LLC.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $15,514,982&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $19.00 · Mkt cap $274.5M · EV $291.8M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1838162/000121390026105446/0001213900-26-105446-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SLAMF&lt;/b&gt; · 8-K · Items 1.01, 2.03, 3.02, 5.02, 9.01 · Communications (4899) · 8k_tier1:1.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧬 Spin-Off · KDP</title>
       <link>https://www.sec.gov/Archives/edgar/data/1418135/000119312526409799/d87955d8k.htm</link>
@@ -16813,45 +16844,6 @@
 &lt;p&gt;&lt;i&gt;Px $8.01 · Mkt cap $225.6M · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1948864/000095014226002581/0000950142-26-002581-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HCWC, HOST&lt;/b&gt; · SCHEDULE 13D · Retail; Food (5411) · fresh_13d · filed 2026-09-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · REAX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2136387/000110465926110396/0001104659-26-110396-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-110396</guid>
-      <pubDate>Thu, 24 Sep 2026 15:16:35 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>Receives 13D from former RE/MAX chairman disclosing 15.3% stake</scanner:headline>
-      <scanner:shortName>Real REMAX</scanner:shortName>
-      <scanner:price>15.50</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>REAX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>553210000</scanner:marketCap>
-      <scanner:enterpriseValue>466480000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.21</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>2.53</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>39.38</scanner:fwdPE>
-      <scanner:fwdEvEbitda>3.05</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>2.93</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>8.23</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Receives 13D from former RE/MAX chairman disclosing 15.3% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received a Schedule 13D from David L. Liniger, former RE/MAX chairman, disclosing beneficial ownership of 5,592,781 shares (15.3%) acquired in exchange for 10,859,772 RE/MAX Series A shares pursuant to the merger that closed August 24, 2026. Liniger states no current plans for changes.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Real REMAX Group Inc., together with its subsidiaries, operates as a real estate technology company in the United States and Canada. The company provides title, mortgage, wallet, and franchising and ancillary services . It also offers ancillary services including mortgage origination, title and escrow services, and financial technology and lending products. The company was formerly known as The Real Brokerage, Inc. and changed its name to Real REMAX Group Inc. in August 2026.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; David L. Liniger&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 15.3%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-24&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $15.50 · Mkt cap $553.2M · EV $466.5M · Fwd P/E 39.4x · Fwd EV/EBITDA 3.0x · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2136387/000110465926110396/0001104659-26-110396-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;REAX&lt;/b&gt; · SCHEDULE 13D · Real Estate (6531) · fresh_13d · filed 2026-09-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
