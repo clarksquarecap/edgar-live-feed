@@ -6,8 +6,83 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:34:39 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔎 Strategic Review · Portfolio Review · NKE</title>
+      <link>https://www.sec.gov/Archives/edgar/data/320187/000032018726000184/nke-20261001.htm</link>
+      <guid isPermaLink="false">0000320187-26-000184</guid>
+      <pubDate>Thu, 01 Oct 2026 15:34:33 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>portfolio_review</category>
+      <category>8-K</category>
+      <scanner:headline>Launches 'Pace' operating model transformation; $1B charges, $2.5B savings by FY31</scanner:headline>
+      <scanner:shortName>NIKE</scanner:shortName>
+      <scanner:price>35.15</scanner:price>
+      <scanner:subtype>portfolio_review</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>NKE</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>52515850000</scanner:marketCap>
+      <scanner:enterpriseValue>54531850000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.18</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.74</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>21.52</scanner:fwdPE>
+      <scanner:fwdEvEbitda>14.79</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>2.75</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>42.91</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Launches &amp;#39;Pace&amp;#39; operating model transformation; $1B charges, $2.5B savings by FY31&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced &amp;#39;Pace,&amp;#39; a multi-year enterprise program to enhance productivity, improve organizational effectiveness, and decrease its cost structure. The program involves optimizing the global supply chain and realigning the operating model into three geographies. It is expected to result in approximately $1.0 billion in pre-tax charges, primarily for severance, and deliver approximately $2.5 billion in cumulative savings through fiscal 2031.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; NIKE, Inc., together with its subsidiaries, designs, develops, markets, and sells athletic footwear, apparel, equipment, accessories, and services for men, women, and kids in North America, Europe, the Middle East, Africa, Greater China, the Asia Pacific, and Latin America. The company offers its products under the NIKE, Jordan, Converse, Jumpman, Chuck Taylor, All Star, One Star, Star Chevron, and Jack Purcell trademarks.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; FY2031&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $35.15 · Mkt cap $52.52B · EV $54.53B · Fwd P/E 21.5x · Fwd EV/EBITDA 14.8x · Consumer Discretionary / Textiles, Apparel and Luxury Goods&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/320187/000032018726000184/0000320187-26-000184-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NKE&lt;/b&gt; · 8-K · Items 2.02, 2.05, 9.01 · Rubber / Plastics (3021) · 8k_tier1:2.05 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📉 Delisting · Forced · GETY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1898496/000121390026105790/ea0307245-8k_getty.htm</link>
+      <guid isPermaLink="false">0001213900-26-105790</guid>
+      <pubDate>Thu, 01 Oct 2026 15:32:13 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>8-K</category>
+      <scanner:headline>Forced NYSE delisting due to low price; trading on OTC Pink</scanner:headline>
+      <scanner:shortName>Getty Images</scanner:shortName>
+      <scanner:price>0.0800</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>GETY</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>34900000</scanner:marketCap>
+      <scanner:enterpriseValue>2092120000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.14</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.95</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>1.37</scanner:fwdPE>
+      <scanner:fwdEvEbitda>7.42</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>2.95</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>72.40</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Forced NYSE delisting due to low price; trading on OTC Pink&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received notice from the NYSE that its Class A common stock was immediately suspended from trading and will be delisted due to abnormally low selling price levels. The company does not intend to appeal the determination. Its common stock began trading on the OTC Pink Limited Market on September 30, 2026, under the symbol GETY.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0800 · Mkt cap $34.9M · EV $2.09B · Fwd P/E 1.4x · Fwd EV/EBITDA 7.4x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1898496/000121390026105790/0001213900-26-105790-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GETY&lt;/b&gt; · 8-K · Items 3.01, 8.01 · Business Services (7389) · 8k_tier1:3.01,8.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · AHT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1232582/000123258226000199/aht-20260925.htm</link>
@@ -16805,78 +16880,6 @@
 &lt;p&gt;&lt;i&gt;Px $124.25 · Mkt cap $34.05B · EV $38.64B · Fwd P/E 9.7x · Financials / Insurance&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/874766/000087476626000064/0000874766-26-000064-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HIG, HIG-PG&lt;/b&gt; · 8-K · Items 1.02, 7.01, 9.01 · Insurance (6331) · 8k_tier1:1.02,7.01 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Preliminary · NXTC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1661059/000110465926110971/nxtc-20260921x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-110975</guid>
-      <pubDate>Fri, 25 Sep 2026 15:32:21 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-      <category>8-K</category>
-      <scanner:headline>Seeks court validation of reverse split for proposed Avere merger; hearing Nov 6</scanner:headline>
-      <scanner:shortName>NextCure</scanner:shortName>
-      <scanner:price>5.14</scanner:price>
-      <scanner:subtype>preliminary</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>NXTC</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>425, 8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>24170000</scanner:marketCap>
-      <scanner:enterpriseValue>8750000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.39</scanner:evSalesLtm>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Seeks court validation of reverse split for proposed Avere merger&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Filed a Section 205 petition in Delaware Court of Chancery on September 14, 2026, to validate its 2025 reverse stock split and all shares issued in reliance on it. This action is in connection with the company&amp;#39;s proposed business combination with Avere Therapeutics, Inc., as recent DGCL amendments created uncertainty regarding the voting standard applied to the split. A court hearing is scheduled for November 6, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; NextCure, Inc., a clinical-stage biopharmaceutical company, engages in advancing medicines to treat cancer. The company’s product candidate is the LNCB74, a B7-H4 targeted ADC to kill tumors. It also develops NC410, a fusion protein of LAIR-2, that is designed to block immune suppression mediated by LAIR-1; NC525, a novel LAIR-1 antibody that targets acute myeloid leukemia, blast cells, and leukemic stem cells; NC181 a humanized antibody targeting ApoE4 for the treatment of Alzheimer’s disease; …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Avere Therapeutics, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-11-06&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.14 · Mkt cap $24.2M · EV $8.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1661059/000110465926110975/0001104659-26-110975-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NXTC&lt;/b&gt; · 425 · Chemicals / Pharma (2834) · prefill_form:425 · filed 2026-09-25&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 25 15:32 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1661059/000110465926110971/nxtc-20260921x8k.htm'&gt;Seeks court validation of reverse split for proposed Avere merger; hearing Nov 6&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 25 15:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1661059/000110465926110975/nxtc-20260915x425.htm'&gt;Seeks court validation of reverse split for proposed Avere merger&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SYY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/96021/000110465926110977/tm2625144d26_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-110977</guid>
-      <pubDate>Fri, 25 Sep 2026 15:31:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Secures C$1.5B debt financing for pending acquisition of JRD Unico &amp; Warehouse Realty</scanner:headline>
-      <scanner:shortName>SYSCO</scanner:shortName>
-      <scanner:price>78.47</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>SYY</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>38462750000</scanner:marketCap>
-      <scanner:enterpriseValue>51727750000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.61</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>3.27</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>15.20</scanner:fwdPE>
-      <scanner:fwdEvEbitda>10.68</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>3.27</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>18.50</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Secures C$1.5B debt financing for pending acquisition of JRD Unico &amp;amp; Warehouse Realty&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Corporation and Sysco Holdings Corporation issued C$750 million of 4.250% Senior Notes due 2030 and C$750 million of 4.800% Senior Notes due 2034, raising approximately C$1.49 billion. The net proceeds will fund a portion of the cash consideration for the pending acquisition of JRD Unico, Inc. and Warehouse Realty, LLC. Interest on the notes is payable semi-annually, commencing April 3, 2027.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sysco Corporation, through its subsidiaries, engages in the sale, marketing, and distribution of food and related products to restaurants, healthcare and educational facilities, lodging establishments, and other foodservice customers. It operates through U.S. Foodservice Operations, International Foodservice Operations, SYGMA, and Other segments.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; JRD Unico, Inc. and Warehouse Realty, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $78.47 · Mkt cap $38.46B · EV $51.73B · Fwd P/E 15.2x · Fwd EV/EBITDA 10.7x · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/96021/000110465926110977/0001104659-26-110977-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SYY&lt;/b&gt; · 8-K · Items 1.01, 2.03, 9.01 · Wholesale; Nondurable (5140) · 8k_tier1:1.01 · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
