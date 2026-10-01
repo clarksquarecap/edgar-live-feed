@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 21:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:12:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VOXR 🪙 Debt Restr.
+Upsizes revolving credit facility to $150M total capacity; adds new lender
+Mcap $378M · EV $347M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1907909/000165495426008753/voxr_6k.htm</link>
+      <guid isPermaLink="false">0001654954-26-008753</guid>
+      <pubDate>Thu, 01 Oct 2026 16:11:59 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$SZZL 🤝 Merger
+Progresses business combination with Trasteel Holding S.A.; F-4 filed
+Mcap $328M · EV $328M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030663/000121390026105871/ea0307385-8k425_sizzle2.htm</link>
+      <guid isPermaLink="false">0001213900-26-104909</guid>
+      <pubDate>Thu, 01 Oct 2026 16:11:42 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ESOA 🤝 Merger
 Acquires FAMCO, Inc. for $6.95M cash + stock; close Oct 9
@@ -1525,26 +1544,6 @@ Mcap $2.8B · EV $3.3B · Energy</title>
       <guid isPermaLink="false">0001193125-26-409233</guid>
       <pubDate>Wed, 30 Sep 2026 16:15:46 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$FBYD 📍 Stake
-Infinite Acquisitions reports 26.71% stake in Falcon's Beyond Global
-Mcap $407M · EV $438M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1937987/000119312526409204/0001193125-26-409204-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-409204</guid>
-      <pubDate>Wed, 30 Sep 2026 16:07:44 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$D 🤝 Merger
-Acquired by NextEra Energy; S-4 effective, proxy materials mailed
-empty
-Mcap $53B · EV $113B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926112387/tm2626727d2_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-111074</guid>
-      <pubDate>Wed, 30 Sep 2026 16:06:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
