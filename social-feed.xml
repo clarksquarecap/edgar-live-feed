@@ -6,8 +6,39 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 10:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:20:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ZDPY 📤 Divestiture
+Amended asset sale agreement with BPB Partners for $7.8M; outside date Oct 30
+$7,800,000 deal · close 2026-10-30
+Mcap $6M · EV $11M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1279620/000121390026105410/ea0307255-8k_zoned.htm</link>
+      <guid isPermaLink="false">0001213900-26-105410</guid>
+      <pubDate>Thu, 01 Oct 2026 05:20:47 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$CCO 🤝 Merger
+Acquired by Mubadala Capital consortium; expects close early Q4 2026
+Mcap $1.2B · EV $7.5B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1334978/000133497826000030/cco-20261001.htm</link>
+      <guid isPermaLink="false">0001334978-26-000030</guid>
+      <pubDate>Thu, 01 Oct 2026 05:20:32 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$LYFT ⚖️ Litigation · Settled
+Settles driver misclassification claims for $272.5M with California
+vs State of California
+Mcap $5.7B · EV $5.2B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1759509/000162828026064095/lyft-20260930.htm</link>
+      <guid isPermaLink="false">0001628280-26-064095</guid>
+      <pubDate>Thu, 01 Oct 2026 05:20:02 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+    </item>
     <item>
       <title>$INSG 🤝 Merger
 Completes Nokia FWA business acquisition; Nokia takes ~11% stake for $10M investment
@@ -1276,48 +1307,6 @@ Mcap $82M · EV $72M · Financials</title>
       <pubDate>Wed, 30 Sep 2026 05:21:06 -0500</pubDate>
       <category>GOING_PRIVATE</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$OCLT 🤝 Merger
-Acquires AIRE Inc. in $1B SPAC merger; AIRE holders get 100M shares
-1,000,000,000 deal · stock
-Mcap $103M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2137679/000182912626010594/oceanlightacq_8k.htm</link>
-      <guid isPermaLink="false">0001829126-26-010595</guid>
-      <pubDate>Wed, 30 Sep 2026 05:20:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NTES 💧 Capital Return · Buyback
-Discloses 10% share repurchase authorization; repurchased 15,695 shares
-Mcap $79B · EV $55B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1110646/000110465926112089/tm2626568d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112089</guid>
-      <pubDate>Wed, 30 Sep 2026 05:20:27 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$KEN 🤝 Merger
-Acquires 25% stake in Vicinity District Energy for ~$450M cash; close Q2 2027
-2920000000 deal · cash
-Mcap $3.3B · EV $6.5B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1611005/000117891326004650/zk2636080.htm</link>
-      <guid isPermaLink="false">0001178913-26-004650</guid>
-      <pubDate>Wed, 30 Sep 2026 05:20:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PKX 🤝 Merger · Preliminary
-Signs MOU with Cleveland Cliffs for strategic partnership; discussions ongoing
-Mcap $17B · EV $35B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/889132/000119312526408211/d199162d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-408211</guid>
-      <pubDate>Wed, 30 Sep 2026 05:19:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
     </item>
   </channel>
 </rss>
