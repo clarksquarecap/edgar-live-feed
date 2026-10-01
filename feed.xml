@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 18:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 18:29:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · BBAIX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097545/000119312526410420/0001193125-26-410420-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-410420</guid>
+      <pubDate>Thu, 01 Oct 2026 13:18:05 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases Class S Units stake to 35.25% via $3.2M purchase from issuer</scanner:headline>
+      <scanner:shortName>AMG BBH Asset-Backed Credit Fund</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>BBAIX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Increases Class S Units stake to 35.25% via $3.2M purchase from issuer&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;AMG New York Holdings Corp. increased its beneficial ownership in AMG BBH Asset-Backed Credit Fund, LLC&amp;#39;s Class S Units to 35.25% by purchasing an additional 280,701.754 units. The purchase was made from the Issuer for an aggregate price of $3,200,000.00, or $11.40 per Class S Unit. The Reporting Person now also owns 100% of Class I and Class M Units.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 11.40&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 3200000.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 35.25%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2097545/000119312526410420/0001193125-26-410420-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BBAIX&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · DPLS</title>
       <link>https://www.sec.gov/Archives/edgar/data/866439/000168316826007520/darkpulse_8k.htm</link>
@@ -16805,42 +16829,6 @@
 &lt;p&gt;&lt;i&gt;Px $7.70 · Mkt cap $39.2M · EV $31.6M · Financials / Insurance&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1591890/000149315226044257/0001493152-26-044257-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FGNX, FGNXP&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Non-Depository Credit (6199) · 8k_tier1:7.01 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · ZSPC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1637147/000110465926110659/tm2626026d1_25.htm</link>
-      <guid isPermaLink="false">0001104659-26-110659</guid>
-      <pubDate>Fri, 25 Sep 2026 08:08:23 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>25</category>
-      <scanner:headline>Voluntary Nasdaq delisting of common stock effective Sept 25</scanner:headline>
-      <scanner:shortName>zSpace</scanner:shortName>
-      <scanner:price>0.1600</scanner:price>
-      <scanner:subtype>voluntary</scanner:subtype>
-      <scanner:form>25</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>ZSPC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>25</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>5930000</scanner:marketCap>
-      <scanner:enterpriseValue>17470000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.72</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>1.37</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>1.37</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>52.34</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Voluntary Nasdaq delisting of common stock effective Sept 25&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Filed Form 25 to voluntarily withdraw its common stock from listing and registration on The Nasdaq Stock Market LLC. The delisting is effective on September 25, 2026. The company is relying on Rule 12d2-2(c) for the voluntary withdrawal.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; zSpace, Inc. provides augmented and virtual reality educational technology solutions for K-12 schools, and career and technical education markets in the United States and internationally. The company provides hardware products to produce devices that deliver a 3D experience that includes Inspire, a current generation laptop product that delivers autostereoscopic 3D graphics which does not require any eyewear or headset; Imagine, a fourth-generation laptop product which delivers autostereoscopic …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.1600 · Mkt cap $5.9M · EV $17.5M · Consumer Discretionary / Diversified Consumer Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1637147/000110465926110659/0001104659-26-110659-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZSPC&lt;/b&gt; · 25 · Business Services (7372) · prefill_form:25 · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
