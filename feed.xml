@@ -6,8 +6,113 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 21:03:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:05:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · ESOA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1357971/000110465926112883/tm2626742d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112883</guid>
+      <pubDate>Thu, 01 Oct 2026 16:05:19 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires FAMCO, Inc. for $6.95M cash + stock; close Oct 9</scanner:headline>
+      <scanner:shortName>Energy Services of America</scanner:shortName>
+      <scanner:price>10.96</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>ESOA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>208050000</scanner:marketCap>
+      <scanner:enterpriseValue>242080000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.52</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>4.40</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>16.07</scanner:fwdPE>
+      <scanner:fwdEvEbitda>7.06</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>4.36</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>11.77</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires FAMCO, Inc. for $6.95M cash + stock; close Oct 9&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation entered into an Asset Purchase Agreement to acquire substantially all operating assets of FAMCO, Inc., a West Virginia utility contractor. The base purchase price is $6.95 million, with three-eighths paid in cash, one-half in Energy Services common stock, and one-eighth withheld for true-up. The transaction is anticipated to close on or about October 9, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Energy Services of America Corporation operates as a contractor and service company for the natural gas, petroleum, water distribution, automotive, chemical, and power industries in the United States. The company constructs, replaces, and repairs interstate and intrastate natural gas pipelines and storage facilities for utility companies and private natural gas companies; and provides services relating to pipeline, storage facilities, and plant works.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; FAMCO, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $6.95M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-09&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.96 · Mkt cap $208.1M · EV $242.1M · Fwd P/E 16.1x · Fwd EV/EBITDA 7.1x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1357971/000110465926112883/0001104659-26-112883-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ESOA&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Construction; Heavy (1623) · 8k_tier1:8.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · SANG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1464790/000121390026105855/ea0307103-8k_brcgroup.htm</link>
+      <guid isPermaLink="false">0001104659-26-111514</guid>
+      <pubDate>Thu, 01 Oct 2026 16:05:02 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Sangoma for $4.925 cash + 0.04767 RILY shares per share; close Jan 2027</scanner:headline>
+      <scanner:shortName>Sangoma Technologies</scanner:shortName>
+      <scanner:price>3.59</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>SANG</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>6-K, 8-K</scanner:filingForms>
+      <scanner:related>RILY</scanner:related>
+      <scanner:marketCap>118560000</scanner:marketCap>
+      <scanner:enterpriseValue>142610000</scanner:enterpriseValue>
+      <scanner:fwdEvEbitda>4.32</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>0.95</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by BRC Group Holdings for $4.925 cash + 0.04767 BRC shares; 47% premium&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation entered into a definitive agreement to be acquired by a wholly-owned subsidiary of BRC Group Holdings, Inc. for US$4.925 in cash and 0.04767 of a BRC common share per Sangoma share. The transaction values Sangoma at an enterprise value of approximately US$204 million (C$289 million). The consideration implies a value of US$5.225 (C$7.40) per Sangoma share, representing a premium of approximately 47% based on Sangoma&amp;#39;s closing price on the TSX as of September 28, 2026. The Board unanimously recommends shareholders vote in favor, and officers/directors holding approximately 27% of shares have signed voting support agreements.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sangoma Technologies Corporation, together with its subsidiaries, develops, manufactures, distributes, and supports voice and data connectivity components for software-based communication applications in the United States of America and internationally. The company offers communications platforms comprising pure cloud and hybrid unified communications as a service, and on-premises systems; retail and wholesale SIP trunking, as well as fax as a service; Sangoma TeamHub, a unified communications a…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BRC Group Holdings, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 5.225&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 204000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 47%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; early 2027&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.59 · Mkt cap $118.6M · EV $142.6M · Fwd EV/EBITDA 4.3x · Information Technology / Communications Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/0001104659-26-111514-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SANG&lt;/b&gt; · 6-K · Business Services (7370) · prefill_form:6-K · filed 2026-09-29&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Oct 01 16:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1464790/000121390026105855/ea0307103-8k_brcgroup.htm'&gt;Acquires Sangoma for $4.925 cash + 0.04767 RILY shares per share; close Jan 2027&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 29 05:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/tm2626529d1_6k.htm'&gt;Acquired by BRC Group Holdings for $4.925 cash + 0.04767 BRC shares; 47% premium&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer RILY also filed 8-K&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · MAMK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2008007/000121390026105846/ea0307124-f4_maxsmaking.htm</link>
+      <guid isPermaLink="false">0001213900-26-105846</guid>
+      <pubDate>Thu, 01 Oct 2026 16:03:52 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>F-4</category>
+      <scanner:headline>Registers securities for definitive acquisition of ThriveNova Inc.</scanner:headline>
+      <scanner:shortName>MaxsMaking</scanner:shortName>
+      <scanner:price>13.00</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>F-4</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>MAMK</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>F-4</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>216130000</scanner:marketCap>
+      <scanner:enterpriseValue>221090000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Registers securities for definitive acquisition of ThriveNova Inc.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed an F-4 registration statement for the definitive business combination with ThriveNova Inc. This filing registers the securities to be issued in connection with the acquisition.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; MaxsMaking Inc., through its subsidiaries, manufactures and sells customized consumer goods in Mainland China, rest of Asia, North America, Europe, the Oceania, South America, and Africa. The company offers backpacks, thermal bags, canvas bags, aprons, throw pillows, flags, tablecloths, advertising chair covers, and other consumer goods.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ThriveNova Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $13.00 · Mkt cap $216.1M · EV $221.1M · Consumer Discretionary / Textiles, Apparel and Luxury Goods&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2008007/000121390026105846/0001213900-26-105846-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MAMK&lt;/b&gt; · F-4 · Apparel (2390) · prefill_form:F-4 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔀 Split-Off · MDT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026064306/a425-mdtwebsitex10126.htm</link>
@@ -11708,39 +11813,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WSE&lt;/b&gt; · 6-K · Business Services (7389) · prefill_form:6-K · filed 2026-09-29&lt;/p&gt;</description>
     </item>
     <item>
-      <title>🤝 Merger · Definitive · SANG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/tm2626529d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111514</guid>
-      <pubDate>Tue, 29 Sep 2026 05:25:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>6-K</category>
-      <scanner:headline>Acquired by BRC Group Holdings for $4.925 cash + 0.04767 BRC shares; 47% premium</scanner:headline>
-      <scanner:shortName>Sangoma Technologies</scanner:shortName>
-      <scanner:price>3.59</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>SANG</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>118560000</scanner:marketCap>
-      <scanner:enterpriseValue>142610000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>4.32</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>0.95</scanner:fwdEvGrossProfit>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by BRC Group Holdings for $4.925 cash + 0.04767 BRC shares; 47% premium&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Corporation entered into a definitive agreement to be acquired by a wholly-owned subsidiary of BRC Group Holdings, Inc. for US$4.925 in cash and 0.04767 of a BRC common share per Sangoma share. The transaction values Sangoma at an enterprise value of approximately US$204 million (C$289 million). The consideration implies a value of US$5.225 (C$7.40) per Sangoma share, representing a premium of approximately 47% based on Sangoma&amp;#39;s closing price on the TSX as of September 28, 2026. The Board unanimously recommends shareholders vote in favor, and officers/directors holding approximately 27% of shares have signed voting support agreements.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sangoma Technologies Corporation, together with its subsidiaries, develops, manufactures, distributes, and supports voice and data connectivity components for software-based communication applications in the United States of America and internationally. The company offers communications platforms comprising pure cloud and hybrid unified communications as a service, and on-premises systems; retail and wholesale SIP trunking, as well as fax as a service; Sangoma TeamHub, a unified communications a…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BRC Group Holdings, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 5.225&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 204000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 47%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; early 2027&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.59 · Mkt cap $118.6M · EV $142.6M · Fwd EV/EBITDA 4.3x · Information Technology / Communications Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1753368/000110465926111514/0001104659-26-111514-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SANG&lt;/b&gt; · 6-K · Business Services (7370) · prefill_form:6-K · filed 2026-09-29&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>📤 Divestiture · HCM</title>
       <link>https://www.sec.gov/Archives/edgar/data/1648257/000164825726000061/hcm-20260928x6k.htm</link>
       <guid isPermaLink="false">0001648257-26-000061</guid>
@@ -16821,84 +16893,6 @@
 &lt;p&gt;&lt;i&gt;Px $34.30 · Mkt cap $3.56B · EV $4.26B · Fwd P/E 10.3x · Fwd EV/EBITDA 5.5x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1655891/000114036126037709/0001140361-26-037709-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TRMD&lt;/b&gt; · SCHEDULE 13D/A · Water Transportation (4412) · fresh_13d · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · VEON</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468091/000119312526402899/0001193125-26-402899-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-402899</guid>
-      <pubDate>Fri, 25 Sep 2026 15:48:29 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Letterone Investment Holdings reports 45.46% stake in VEON</scanner:headline>
-      <scanner:shortName>VEON</scanner:shortName>
-      <scanner:price>73.80</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>VEON</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>4995190000</scanner:marketCap>
-      <scanner:enterpriseValue>8567190000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>1.80</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>2.07</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>9.13</scanner:fwdPE>
-      <scanner:fwdEvEbitda>3.67</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>2.03</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>87.07</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Letterone Investment Holdings reports 45.46% stake in VEON&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Letterone Investment Holdings S.A. and its affiliates, LPE Middle East Limited and L1TS (Cyprus) Ltd, reported a beneficial ownership of 840,625,000 shares of VEON Ltd. common stock, representing 45.46% of the outstanding shares. This Schedule 13D/A is Amendment No. 22 to their initial filing.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VEON Ltd. provides telecommunications and digital services in Pakistan, Ukraine, Kazakhstan, Bangladesh, and Uzbekistan. The company offers mobile telecommunications services under prepaid and postpaid subscriptions, including value-added and call completion services, national and international roaming services, wireless Internet access, mobile financial services, and mobile bundles; fixed-line telecommunications using fiber optic networks; cross-border transmission services; prepaid scratch car…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 45.46%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $73.80 · Mkt cap $5.00B · EV $8.57B · Fwd P/E 9.1x · Fwd EV/EBITDA 3.7x · Communication Services / Wireless Telecommunication Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1468091/000119312526402899/0001193125-26-402899-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VEON&lt;/b&gt; · SCHEDULE 13D/A · Communications (4812) · fresh_13d · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · MARA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1507605/000095014226002607/eh260835247_8k.htm</link>
-      <guid isPermaLink="false">0000950142-26-002607</guid>
-      <pubDate>Fri, 25 Sep 2026 15:48:22 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Amends acquisition terms, allowing contingent sale of Project Company</scanner:headline>
-      <scanner:shortName>MARA Holdings</scanner:shortName>
-      <scanner:price>12.55</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>MARA</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>4990990000</scanner:marketCap>
-      <scanner:enterpriseValue>7134520000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>8.87</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>22.11</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>7.67</scanner:fwdPE>
-      <scanner:fwdEvEbitda>10.44</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>22.63</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>40.12</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Amends acquisition terms, allowing contingent sale of Project Company&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Amended its Membership Interest Purchase Agreement for MAT 1177 LLC, which its subsidiary acquired on July 2, 2026. The amendment revises milestone payments and, crucially, replaces a reconveyance clause with a provision to market the Project Company for sale to a third party if certain trigger events related to an audit and MARA&amp;#39;s election not to proceed occur. The original aggregate purchase price for the acquisition was $600 million, assuming all milestones are achieved.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; MARA Holdings, Inc. operates as an energy and digital infrastructure company in North America, the Middle East, Europe, and Latin America. The company leverages Bitcoin Mining and Artificial Intelligence compute to monetize excess energy and underutilized power, optimize power management across operations and support AI inference applications. The company was formerly known as Marathon Digital Holdings, Inc. and changed its name to MARA Holdings, Inc. in August 2024. MARA Holdings, Inc.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; HIF USA LLC (original seller, with right of first offer)&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Audit conclusion and buyer election to proceed with Project&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $12.55 · Mkt cap $4.99B · EV $7.13B · Fwd P/E 7.7x · Fwd EV/EBITDA 10.4x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1507605/000095014226002607/0000950142-26-002607-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MARA&lt;/b&gt; · 8-K · Items 1.01 · Non-Depository Credit (6199) · 8k_tier1:1.01 · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
