@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 18:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 18:30:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚔️ Proxy Contest · CTNT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1951667/000210778826000010/ctnt.htm</link>
+      <guid isPermaLink="false">0002107788-26-000010</guid>
+      <pubDate>Thu, 01 Oct 2026 13:23:57 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+      <category>activist</category>
+      <category>PREC14A</category>
+      <scanner:headline>Seeks to replace CTNT board with 5 nominees via consent solicitation</scanner:headline>
+      <scanner:shortName>CHEETAH NET SUPPLY CHAIN SERVICE</scanner:shortName>
+      <scanner:price>0.0300</scanner:price>
+      <scanner:subtype />
+      <scanner:form>PREC14A</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>CTNT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>PREC14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>100000</scanner:marketCap>
+      <scanner:fwdEvEbitda>0.33</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>23.20</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Seeks to replace CTNT board with 5 nominees via consent solicitation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Takeover Time 2026 LLC is soliciting written consents to replace the entire five-member board of Cheetah Net Supply Chain Service Inc. with its own slate of five nominees. The proposals include setting the board size at five, removing the current directors, and electing Natasha Yuryevna Ovsepyan, Jourdan Pierce Matthews, Walter Franklin Harris, Carol Grimes, and Yan Qin. Takeover Time cites concerns over equity issuances, reverse stock splits, internal control weaknesses, and finance leadership concentration.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cheetah Net Supply Chain Service Inc., together with its subsidiaries, provides logistics and warehousing services in the United States and internationally. It also provides freight forwarding, cargo storage, customs clearance, labor, and cargo loading and unloading services; warehousing services, such as medical supplies, vehicles, infant care items, and hazardous chemicals; and logistics services, including ocean and air freight, and trucking services. Cheetah Net Supply Chain Service Inc.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Filing of definitive consent statement&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0300 · Mkt cap $100K · EV $-900K · Fwd EV/EBITDA 0.3x · Industrials / Air Freight and Logistics&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1951667/000210778826000010/0002107788-26-000010-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CTNT&lt;/b&gt; · PREC14A · Wholesale; Durable (5010) · prefill_form:PREC14A · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · BBAIX</title>
       <link>https://www.sec.gov/Archives/edgar/data/2097545/000119312526410420/0001193125-26-410420-index.htm</link>
@@ -16796,39 +16827,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.1200 · Mkt cap $31.4M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/764630/000149315226044256/0001493152-26-044256-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AETN&lt;/b&gt; · 8-K · Items 1.01, 3.02, 7.01, 9.01 · Electronic Equipment (3690) · 8k_tier1:1.01,7.01 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔎 Strategic Review · Portfolio Review · FGNX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1591890/000149315226044257/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044257</guid>
-      <pubDate>Fri, 25 Sep 2026 08:27:37 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
-      <category>8-K</category>
-      <scanner:headline>Changes name to FG Communities Holdings, ticker to FGC, reflecting business transformation</scanner:headline>
-      <scanner:shortName>FG Nexus</scanner:shortName>
-      <scanner:price>7.70</scanner:price>
-      <scanner:subtype>portfolio_review</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>FGNX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>39240000</scanner:marketCap>
-      <scanner:enterpriseValue>31630000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>12.95</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>12.95</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>14.01</scanner:fwdEvGrossProfit>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Changes name to FG Communities Holdings, ticker to FGC, reflecting business transformation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced it will change its name to FG Communities Holdings Inc. and its ticker symbols to FGC (common stock) and FGCPP (preferred shares) on Nasdaq, effective September 28, 2026. This change reflects the company&amp;#39;s transformation into a leading owner and operator of land-lease affordable housing communities.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; FG Nexus Inc. operates a digital asset treasury focused on Ethereum (ETH) and tokenization opportunities in the United States. It operates through two segments, Digital Assets and Merchant Banking. The company focuses on commercializing and expanding the tokenization of real-world assets, such as housing, reinsurance, real estate, and other asset classes. It also provides merchant banking services, including strategic, administrative, and regulatory support services to newly formed SPACs.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $7.70 · Mkt cap $39.2M · EV $31.6M · Financials / Insurance&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1591890/000149315226044257/0001493152-26-044257-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FGNX, FGNXP&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Non-Depository Credit (6199) · 8k_tier1:7.01 · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
