@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 21:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:37:28 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · AXGN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/805928/000080592826000104/axgn-20261001.htm</link>
+      <guid isPermaLink="false">0000805928-26-000104</guid>
+      <pubDate>Thu, 01 Oct 2026 16:37:22 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Completes acquisition of BioCircuit Technologies, adding NerveTape™</scanner:headline>
+      <scanner:shortName>Axogen</scanner:shortName>
+      <scanner:price>39.92</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>AXGN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2459510000</scanner:marketCap>
+      <scanner:enterpriseValue>2368160000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>9.43</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>12.65</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>73.49</scanner:fwdPE>
+      <scanner:fwdEvEbitda>58.36</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>12.81</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>74.56</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Completes acquisition of BioCircuit Technologies, adding NerveTape™&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed its previously announced acquisition of BioCircuit Technologies, Inc., a privately held medical device company. The acquisition adds NerveTape™, an FDA-cleared sutureless peripheral nerve repair device, to Axogen&amp;#39;s portfolio. Axogen expects BioCircuit to contribute approximately $6 million to Q4 2026 revenue and $34 million to 2027 revenue.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Axogen, Inc., together with its subsidiaries, engages in the development and commercialization of the technologies used for peripheral nerve regeneration and repair worldwide. The company offers Avance Nerve Graft, a processed nerve allograft intended for the surgical repair of peripheral nerve discontinuities; Axoguard Nerve Connector, a coaptation aid used to align and connect severed peripheral nerve ends in a tensionless repair; and Axoguard Nerve Protector, a product used to protect and wra…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BioCircuit Technologies, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $39.92 · Mkt cap $2.46B · EV $2.37B · Fwd P/E 73.5x · Fwd EV/EBITDA 58.4x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/805928/000080592826000104/0000805928-26-000104-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AXGN&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Instruments / Medical Devices (3845) · 8k_tier1:7.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · SAIQ</title>
       <link>https://www.sec.gov/Archives/edgar/data/2101411/000121390026105923/ea0307430-6k_wisesat.htm</link>
@@ -16854,39 +16892,6 @@
 &lt;p&gt;&lt;i&gt;Px $4.22 · Mkt cap $562.1M · EV $1.06B · Fwd P/E 7.1x · Fwd EV/EBITDA 6.8x · Industrials / Building Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1839839/000110465926111032/0001104659-26-111032-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JBI&lt;/b&gt; · 8-K · Items 2.05, 5.02, 9.01 · Fabricated Metals (3442) · 8k_tier1:2.05 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · NMP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2054876/000121390026103585/ea0306553-8k425_nmp.htm</link>
-      <guid isPermaLink="false">0001213900-26-103593</guid>
-      <pubDate>Fri, 25 Sep 2026 16:10:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Extends financial delivery deadline for GTS Holdings business combination</scanner:headline>
-      <scanner:shortName>NMP Acquisition</scanner:shortName>
-      <scanner:price>10.40</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>NMP</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>425, 8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>165780000</scanner:marketCap>
-      <scanner:enterpriseValue>165680000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Amends GTS business combination agreement; extends audit delivery date to Oct 9&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into Amendment No. 1 to its Business Combination Agreement with GTS Holdings, LLC. The amendment extends the deadline for GTS to deliver audited financials to NMP to October 9, 2026. NMP may further extend this date at its sole discretion.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; NMP Acquisition Corp. does not have significant operations. It intends to effect a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2024 and is based in Palo Alto, California.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; GTS Holdings, LLC&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-09&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.40 · Mkt cap $165.8M · EV $165.7M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2054876/000121390026103593/0001213900-26-103593-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NMP, NMPAR, NMPAU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-25&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 25 16:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2054876/000121390026103585/ea0306553-8k425_nmp.htm'&gt;Extends financial delivery deadline for GTS Holdings business combination&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 25 16:09 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2054876/000121390026103593/ea0306553-8k425_nmp.htm'&gt;Amends GTS business combination agreement; extends audit delivery date to Oct 9&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
