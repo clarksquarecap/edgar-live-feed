@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 11:04:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 11:11:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OVV 💧 Capital Return · Buyback
+Renews 10% share buyback program on TSX/NYSE
+Mcap $16B · EV $20B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1792580/000119312526409792/ovv-20261001.htm</link>
+      <guid isPermaLink="false">0001193125-26-409792</guid>
+      <pubDate>Thu, 01 Oct 2026 06:11:51 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
+    <item>
+      <title>$NTWO 🤝 Merger
+Acquires Fort Robotics in business combination for Nasdaq listing
+Mcap $262M · EV $262M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2028027/000118518526004474/ntwo2425093026.htm</link>
+      <guid isPermaLink="false">0001185185-26-004447</guid>
+      <pubDate>Thu, 01 Oct 2026 06:11:13 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NFG 🤝 Merger
 Acquires CenterPoint Ohio for $2.62B cash &amp; note; deal closed
@@ -490,16 +510,6 @@ Mcap $13B · EV $114B · Comms</title>
       <pubDate>Wed, 30 Sep 2026 16:31:52 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$NTWO 🤝 Merger
-Files confidential S-4 for Fort Robotics business combination
-Mcap $262M · EV $262M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028027/000118518526004446/ntwo28k425092826.htm</link>
-      <guid isPermaLink="false">0001185185-26-004447</guid>
-      <pubDate>Wed, 30 Sep 2026 16:31:26 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$MKZR 🔎 Strat Review · Strat Alts
@@ -1399,27 +1409,6 @@ Mcap $11M · EV $10M · Cons Stpl</title>
       <guid isPermaLink="false">0001104659-26-112107</guid>
       <pubDate>Wed, 30 Sep 2026 06:16:39 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PEBO 🤝 Merger
-Acquires Capital Bancorp for 1.11 shares per Capital share
-stock
-Mcap $1.4B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/318300/000031830026000205/pebo-20260930.htm</link>
-      <guid isPermaLink="false">0000318300-26-000205</guid>
-      <pubDate>Wed, 30 Sep 2026 06:10:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CNTB ⚖️ Litigation · Won
-Reports positive Phase 2 rademikibart results in COPD; 81% reduction in treatment failure
-Mcap $62M · EV $32M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835268/000183526826000038/cntb-20260930.htm</link>
-      <guid isPermaLink="false">0001835268-26-000038</guid>
-      <pubDate>Wed, 30 Sep 2026 06:09:28 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
     </item>
   </channel>
 </rss>
