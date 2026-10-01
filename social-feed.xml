@@ -6,16 +6,36 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 21:28:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:30:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
+      <title>$CLAR 📍 Stake
+Kanders reports 20.2% stake in Clarus Corp
+Mcap $130M · EV $118M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/913277/000110465926112901/0001104659-26-112901-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-112901</guid>
+      <pubDate>Thu, 01 Oct 2026 16:30:05 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$SYNA 🤝 Merger
+Acquired by onsemi for $123 cash/share; amended deal after unsolicited bid
+ON Semiconductor · cash
+Mcap $4.0B · EV $4.4B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/817720/000114036126038301/ef20083029_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-038297</guid>
+      <pubDate>Thu, 01 Oct 2026 16:29:44 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
       <title>$NDRA 🤝 Merger
-Amends ASPI Noble Africa merger terms; revises cash condition, removes classified board
+Amends ASPI merger terms: removes classified board, revises cash condition to $3.8M
 ASP Isotopes
 Mcap $9M · EV $8M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1681682/000121390026105909/ea0307011-8k425_endra.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1681682/000121390026105899/ea0307011-8k425_endra.htm</link>
       <guid isPermaLink="false">0001213900-26-105909</guid>
-      <pubDate>Thu, 01 Oct 2026 16:28:11 -0500</pubDate>
+      <pubDate>Thu, 01 Oct 2026 16:29:25 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -37,17 +57,6 @@ Mcap $537M · EV $524M · Cons Disc</title>
       <guid isPermaLink="false">0000921895-26-002700</guid>
       <pubDate>Thu, 01 Oct 2026 16:27:47 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$SYNA 🤝 Merger
-Acquired by onsemi for $123 cash per share; vote pending
-ON Semiconductor · $5.7 billion deal · cash · close mid-2027
-Mcap $4.0B · EV $4.4B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/817720/000114036126038302/ef20083029_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-038297</guid>
-      <pubDate>Thu, 01 Oct 2026 16:27:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$BMEZ 💧 Capital Return · Self-tender
@@ -1527,26 +1536,6 @@ Mcap $4M · EV $183M · Real Estate</title>
       <pubDate>Wed, 30 Sep 2026 16:30:29 -0500</pubDate>
       <category>STRATEGIC_REVIEW</category>
       <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$CYCU ⚖️ Litigation · Settled
-Resolves John Doe defamation suit; defendant retracts false fraud claims
-Mcap $9M · EV $11M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1868419/000186841926000046/cycu-20260924.htm</link>
-      <guid isPermaLink="false">0001868419-26-000046</guid>
-      <pubDate>Wed, 30 Sep 2026 16:29:20 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-    </item>
-    <item>
-      <title>$FER 🤝 Merger
-Closes 50-year I-24 Southeast Choice Lanes concession in Tennessee
-Mcap $39B · EV $49B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468522/000146852226000069/a6kclosei-24choicelanesten.htm</link>
-      <guid isPermaLink="false">0001468522-26-000069</guid>
-      <pubDate>Wed, 30 Sep 2026 16:28:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>

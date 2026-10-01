@@ -6,25 +6,105 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 21:28:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:30:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
-      <title>🤝 Merger · Definitive · NDRA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1681682/000121390026105909/ea0307011-8k425_endra.htm</link>
-      <guid isPermaLink="false">0001213900-26-105909</guid>
-      <pubDate>Thu, 01 Oct 2026 16:28:11 -0500</pubDate>
+      <title>📍 Stake · CLAR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/913277/000110465926112901/0001104659-26-112901-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-112901</guid>
+      <pubDate>Thu, 01 Oct 2026 16:30:05 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Kanders reports 20.2% stake in Clarus Corp</scanner:headline>
+      <scanner:shortName>Clarus</scanner:shortName>
+      <scanner:price>3.38</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>CLAR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>129800000</scanner:marketCap>
+      <scanner:enterpriseValue>118030000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.47</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.27</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>32.15</scanner:fwdPE>
+      <scanner:fwdEvEbitda>20.44</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>1.29</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>36.72</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Kanders reports 20.2% stake in Clarus Corp&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Warren B. Kanders, a significant insider, reported beneficial ownership of 8,124,220 shares of Clarus Corp common stock, representing approximately 20.2% of the outstanding shares as of September 28, 2026. This includes shares held directly, through Kanders GMP Holdings, LLC, and options exercisable within 60 days.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Clarus Corporation engages in the design, development, manufacture, and distribution of outdoor equipment and lifestyle products in the United States, Australia, China, Austria, and internationally. It operates in two segments, Outdoor and Adventure. The Outdoor segment offers apparels, such as shells, insulation, midlayers, pants, and logowear; rock-climbing footwear and equipment, including carabiners, protection devices, harnesses, belay devices, helmets, and ice-climbing gears; technical bac…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.38 · Mkt cap $129.8M · EV $118.0M · Fwd P/E 32.1x · Fwd EV/EBITDA 20.4x · Consumer Discretionary / Leisure Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/913277/000110465926112901/0001104659-26-112901-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CLAR&lt;/b&gt; · SCHEDULE 13D/A · Miscellaneous Manufacturing (3949) · fresh_13d · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · SYNA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/817720/000114036126038301/ef20083029_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-038297</guid>
+      <pubDate>Thu, 01 Oct 2026 16:29:44 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Amends ASPI Noble Africa merger terms; revises cash condition, removes classified board</scanner:headline>
+      <category>8-K</category>
+      <scanner:headline>Acquired by onsemi for $123 cash/share; amended deal after unsolicited bid</scanner:headline>
+      <scanner:shortName>SYNAPTICS</scanner:shortName>
+      <scanner:price>106.15</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>SYNA</scanner:ticker>
+      <scanner:filings>4</scanner:filings>
+      <scanner:filingForms>DEFA14A x2, 8-K x2</scanner:filingForms>
+      <scanner:related>ON</scanner:related>
+      <scanner:marketCap>3965250000</scanner:marketCap>
+      <scanner:enterpriseValue>4399550000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>3.67</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>6.85</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>19.47</scanner:fwdPE>
+      <scanner:fwdEvEbitda>16.64</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>8.17</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>53.63</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by onsemi for $123 cash per share; vote pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Incorporated entered into an Amended and Restated Agreement and Plan of Merger to be acquired by ON Semiconductor Corporation for $123 per share in cash. This revised agreement follows an unsolicited competing proposal and is subject to Synaptics shareholder approval and regulatory clearances. The transaction is valued at approximately $5.7 billion and is expected to close by mid-2027.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Synaptics Incorporated develops, markets, and sells semiconductor products worldwide. The company provides edge AI processors, wireless connectivity, touch controllers, biometrics, voice, audio, and multimedia products for physical AI and robotics, edge AI, smart home, industrial and automotive, personal computers, and mobile applications, as well as modular development kits, open software frameworks, and optimized AI/ML toolchains.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ON Semiconductor Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $123&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5.7 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; mid-2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Synaptics shareholder vote&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $106.15 · Mkt cap $3.97B · EV $4.40B · Fwd P/E 19.5x · Fwd EV/EBITDA 16.6x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038302/0001140361-26-038302-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SYNA&lt;/b&gt; · DEFA14A · Electronic Equipment (3674) · prefill_form:DEFA14A · filed 2026-10-01&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Oct 01 16:29 · &lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038301/ef20083029_8k.htm'&gt;Acquired by onsemi for $123 cash/share; amended deal after unsolicited bid&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Oct 01 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038302/ef20083029_defa14a.htm'&gt;Acquired by onsemi for $123 cash per share; vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Oct 01 16:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038294/ef20083030_8k.htm'&gt;Amends Synaptics acquisition to $123/share cash after unsolicited bid; secures $2.45B financing&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Oct 01 16:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038297/ef20083030_formdefa14a.htm'&gt;Amends Synaptics merger to $123/share cash, $5.7B total; close mid-2027&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer ON also filed DEFA14A, 8-K&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · NDRA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1681682/000121390026105899/ea0307011-8k425_endra.htm</link>
+      <guid isPermaLink="false">0001213900-26-105909</guid>
+      <pubDate>Thu, 01 Oct 2026 16:29:25 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Amends ASPI merger terms: removes classified board, revises cash condition to $3.8M</scanner:headline>
       <scanner:shortName>ENDRA Life Sciences</scanner:shortName>
       <scanner:price>6.11</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
+      <scanner:form>8-K</scanner:form>
       <scanner:sector>Health Care</scanner:sector>
       <scanner:ticker>NDRA</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425, 8-K</scanner:filingForms>
       <scanner:related />
       <scanner:marketCap>8890000</scanner:marketCap>
       <scanner:enterpriseValue>7580000</scanner:enterpriseValue>
@@ -40,7 +120,9 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-25&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $6.11 · Mkt cap $8.9M · EV $7.6M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1681682/000121390026105909/0001213900-26-105909-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NDRA&lt;/b&gt; · 425 · Instruments / Medical Devices (3845) · prefill_form:425 · filed 2026-10-01&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NDRA&lt;/b&gt; · 425 · Instruments / Medical Devices (3845) · prefill_form:425 · filed 2026-10-01&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Oct 01 16:29 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1681682/000121390026105899/ea0307011-8k425_endra.htm'&gt;Amends ASPI merger terms: removes classified board, revises cash condition to $3.8M&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Oct 01 16:28 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1681682/000121390026105909/ea0307011-8k425_endra.htm'&gt;Amends ASPI Noble Africa merger terms; revises cash condition, removes classified board&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>⚔️ Proxy Contest · BETR</title>
@@ -109,48 +191,6 @@
 &lt;p&gt;&lt;i&gt;Px $21.29 · Mkt cap $536.6M · EV $523.9M · Fwd P/E 17.4x · Fwd EV/EBITDA 9.8x · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002700/0000921895-26-002700-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ETD&lt;/b&gt; · DFAN14A · Furniture (2511) · prefill_form:DFAN14A · filed 2026-10-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SYNA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/817720/000114036126038302/ef20083029_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-038297</guid>
-      <pubDate>Thu, 01 Oct 2026 16:27:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Acquired by onsemi for $123 cash per share; vote pending</scanner:headline>
-      <scanner:shortName>SYNAPTICS</scanner:shortName>
-      <scanner:price>106.15</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>SYNA</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>DEFA14A x2, 8-K</scanner:filingForms>
-      <scanner:related>ON</scanner:related>
-      <scanner:marketCap>3965250000</scanner:marketCap>
-      <scanner:enterpriseValue>4399550000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>3.67</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>6.85</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>19.47</scanner:fwdPE>
-      <scanner:fwdEvEbitda>16.64</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>8.17</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>53.63</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by onsemi for $123 cash per share; vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Incorporated entered into an Amended and Restated Agreement and Plan of Merger to be acquired by ON Semiconductor Corporation for $123 per share in cash. This revised agreement follows an unsolicited competing proposal and is subject to Synaptics shareholder approval and regulatory clearances. The transaction is valued at approximately $5.7 billion and is expected to close by mid-2027.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Synaptics Incorporated develops, markets, and sells semiconductor products worldwide. The company provides edge AI processors, wireless connectivity, touch controllers, biometrics, voice, audio, and multimedia products for physical AI and robotics, edge AI, smart home, industrial and automotive, personal computers, and mobile applications, as well as modular development kits, open software frameworks, and optimized AI/ML toolchains.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ON Semiconductor Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $123&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5.7 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; mid-2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Synaptics shareholder vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $106.15 · Mkt cap $3.97B · EV $4.40B · Fwd P/E 19.5x · Fwd EV/EBITDA 16.6x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038302/0001140361-26-038302-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SYNA&lt;/b&gt; · DEFA14A · Electronic Equipment (3674) · prefill_form:DEFA14A · filed 2026-10-01&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Oct 01 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038302/ef20083029_defa14a.htm'&gt;Acquired by onsemi for $123 cash per share; vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Oct 01 16:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038294/ef20083030_8k.htm'&gt;Amends Synaptics acquisition to $123/share cash after unsolicited bid; secures $2.45B financing&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Oct 01 16:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038297/ef20083030_formdefa14a.htm'&gt;Amends Synaptics merger to $123/share cash, $5.7B total; close mid-2027&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer ON also filed DEFA14A, 8-K&lt;/p&gt;</description>
     </item>
     <item>
       <title>💧 Capital Return · Self Tender · BMEZ</title>
@@ -16846,37 +16886,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NMP, NMPAR, NMPAU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-25&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 25 16:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2054876/000121390026103585/ea0306553-8k425_nmp.htm'&gt;Extends financial delivery deadline for GTS Holdings business combination&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 25 16:09 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2054876/000121390026103593/ea0306553-8k425_nmp.htm'&gt;Amends GTS business combination agreement; extends audit delivery date to Oct 9&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Buyback Authorization · KEY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/91576/000162828026063618/key-20260925.htm</link>
-      <guid isPermaLink="false">0001628280-26-063618</guid>
-      <pubDate>Fri, 25 Sep 2026 16:09:48 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-      <category>8-K</category>
-      <scanner:headline>Board authorized $3B share repurchase program</scanner:headline>
-      <scanner:shortName>KEYCORP</scanner:shortName>
-      <scanner:price>20.61</scanner:price>
-      <scanner:subtype>buyback_authorization</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>KEY</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>21609350000</scanner:marketCap>
-      <scanner:fwdPE>10.34</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Board authorized $3B share repurchase program&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;KeyCorp&amp;#39;s board authorized a share repurchase program of up to $3 billion in May 2026. The company expects to repurchase at least $1.3 billion of shares in 2026, with $341 million already repurchased in Q2 2026. This authorization is part of KeyCorp&amp;#39;s strategy to productively deploy excess capital.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; KeyCorp operates as the holding company for KeyBank National Association that provides various retail and commercial banking products and services in the United States. It operates in two segments, Consumer Bank and Commercial Bank. The company offers various deposits and investment products; personal finance and financial wellness, lending, student loan refinancing, mortgage and home equity, credit card, treasury, and business advisory; commercial leasing, investment management, consumer financ…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 3,000,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $20.61 · Mkt cap $21.61B · Fwd P/E 10.3x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/91576/000162828026063618/0001628280-26-063618-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KEY, KEY-PI, KEY-PJ, KEY-PK, KEY-PL&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Depository Institutions (6021) · 8k_tier1:7.01 · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
