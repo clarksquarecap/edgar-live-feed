@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:45:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:47:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CDNL 🤝 Merger
+Acquires Allied Paving Contractors for $115M cash &amp; stock
+115000000 deal · cash+stk
+Mcap $625M · EV $862M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2079999/000119312526410735/cdnl-20261001.htm</link>
+      <guid isPermaLink="false">0001193125-26-410735</guid>
+      <pubDate>Thu, 01 Oct 2026 15:46:55 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$TOPS 🤝 Merger
 Closes acquisition of three newbuilding MR tankers from related party
@@ -1498,27 +1509,6 @@ Mcap $10.0B · EV $11B · Comms</title>
       <guid isPermaLink="false">0001193125-26-409143</guid>
       <pubDate>Wed, 30 Sep 2026 15:47:27 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$WETH 💧 Capital Return · Special Div
-Provides update on previously announced special cash dividend of up to $0.5M
-Mcap $14M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1826660/000121390026105275/ea0307194-8k_wetouch.htm</link>
-      <guid isPermaLink="false">0001213900-26-105275</guid>
-      <pubDate>Wed, 30 Sep 2026 15:46:54 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$VRME 🤝 Merger
-Completes Legacy OpenWorld acquisition (1:77.27 share exchange); new ticker OPNW
-stock
-Mcap $13M · EV $9M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1104038/000121465926012283/w92926108k.htm</link>
-      <guid isPermaLink="false">0001214659-26-011753</guid>
-      <pubDate>Wed, 30 Sep 2026 15:46:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
