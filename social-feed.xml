@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 12:06:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:13:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$INIS 📤 Divestiture
+Sells Strategic NRC-Licensed U.S. Nuclear Fuel Processing Assets to NANO Nuclear Energy
+Mcap $29M · EV $37M · Healthcare</title>
+      <link>https://www.otcmarkets.com/stock/INIS/news/537079</link>
+      <guid isPermaLink="false">0001437749-26-031655</guid>
+      <pubDate>Thu, 01 Oct 2026 07:13:24 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$ACVA 🎯 Tender
+Acquired by Copart for $10.50/share cash; tender offer extended to Oct 7
+cash · close 2026-10-07
+Mcap $1.8B · EV $1.8B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526409871/d113384dsctota.htm</link>
+      <guid isPermaLink="false">0001193125-26-406039</guid>
+      <pubDate>Thu, 01 Oct 2026 07:12:33 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$MSTR 💧 Capital Return · Recap
 Proposes daily preferred dividends; vote Oct 28; expected return of capital
@@ -17,16 +36,6 @@ Mcap $62B · EV $81B · Tech</title>
       <pubDate>Thu, 01 Oct 2026 07:06:14 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$INIS 📤 Divestiture
-Sells DUF6 Plant assets to Nano Nuclear Energy for $13.5M cash &amp; stock
-close by Q1 2027
-Mcap $29M · EV $37M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1038277/000143774926031655/inis20260930_8k.htm</link>
-      <guid isPermaLink="false">0001437749-26-031655</guid>
-      <pubDate>Thu, 01 Oct 2026 07:05:16 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
     <item>
       <title>$XRPN 🤝 Merger
@@ -1394,15 +1403,6 @@ Mcap $295M · EV $295M · Financials</title>
       <pubDate>Wed, 30 Sep 2026 07:17:06 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ZTR 👀 Activist
-Saba Capital discloses 5.04% stake in ZTR; may seek board seats, liquidation
-Mcap $333M · EV $486M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/836412/000106299326005116/0001062993-26-005116-index.htm</link>
-      <guid isPermaLink="false">0001062993-26-005116</guid>
-      <pubDate>Wed, 30 Sep 2026 07:11:07 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
