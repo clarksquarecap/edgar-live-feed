@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 12:13:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:20:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SGP 🤝 Merger
+Acquires Advanced Vision Science for $13M cash; secures IOL supply
+13,000,000 deal · cash
+Mcap $870M · EV $637M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1778922/000177892226000049/sgp-20261001.htm</link>
+      <guid isPermaLink="false">0001778922-26-000049</guid>
+      <pubDate>Thu, 01 Oct 2026 07:20:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$INIS 📤 Divestiture
 Sells Strategic NRC-Licensed U.S. Nuclear Fuel Processing Assets to NANO Nuclear Energy
@@ -1373,36 +1384,6 @@ R$96.4 million deal</title>
       <guid isPermaLink="false">0001213900-26-104904</guid>
       <pubDate>Wed, 30 Sep 2026 07:25:05 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$RCT ✂️ Carve-out
-Forms JV with MJM AlKhaleej for RedAI in Saudi Arabia/Bahrain; 51% stake
-Mcap $11M · EV $22M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2027360/000149315226045030/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-045030</guid>
-      <pubDate>Wed, 30 Sep 2026 07:17:49 -0500</pubDate>
-      <category>CARVE_OUT</category>
-    </item>
-    <item>
-      <title>$ARIS ⚖️ Litigation · Won
-Wins regulatory clarity for Soto Norte project; ESIA complete
-Mcap $3.6B · EV $3.7B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1964504/000175392626001879/g085971_6k.htm</link>
-      <guid isPermaLink="false">0001753926-26-001879</guid>
-      <pubDate>Wed, 30 Sep 2026 07:17:22 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$IRHO 🤝 Merger
-Updates on business combination with Electra Vehicles; S-4 filed
-empty
-Mcap $295M · EV $295M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2051985/000121390026104903/ea0307009-8k425_iron2.htm</link>
-      <guid isPermaLink="false">0001213900-26-104901</guid>
-      <pubDate>Wed, 30 Sep 2026 07:17:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
