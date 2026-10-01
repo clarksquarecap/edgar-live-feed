@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 01:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:38:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · HUT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1964789/000110465926112495/0001104659-26-112495-index.htm</link>
+      <guid isPermaLink="false">0001104659-26-112495</guid>
+      <pubDate>Wed, 30 Sep 2026 20:38:11 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Enters prepaid variable share forward for 1.5M shares; holds 5.13% stake</scanner:headline>
+      <scanner:shortName>Hut 8</scanner:shortName>
+      <scanner:price>96.82</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>HUT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>11933980000</scanner:marketCap>
+      <scanner:enterpriseValue>19680660000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>61.90</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>99.31</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>232.67</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>99.31</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>62.33</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Enters prepaid variable share forward for 1.5M shares; holds 5.13% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Michael Ho, through Springtide Creek Ltd, entered into a prepaid variable share forward transaction (VPF) with JPMorgan Chase Bank covering 1,500,000 shares of Hut 8 Corp. common stock. Springtide received an upfront cash payment of $58,326,600. The VPF has a floor price of $40.00 and a cap price of $221.00 per share, with settlement on May 17, 2027. Ho beneficially owns 6,326,412 shares, representing 5.13% of the outstanding common stock.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Hut 8 Corp., together with its subsidiaries, operates as an energy infrastructure platform that integrates power, digital infrastructure, and compute at scale to fuel energy-intensive use cases in the United States and Canada. It operates through Power, Digital Infrastructure, Compute, and Other segments.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 58326600.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.13%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-05-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2027-05-17&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $96.82 · Mkt cap $11.93B · EV $19.68B · Fwd EV/EBITDA 232.7x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1964789/000110465926112495/0001104659-26-112495-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HUT&lt;/b&gt; · SCHEDULE 13D/A · Non-Depository Credit (6199) · fresh_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · DMRC</title>
       <link>https://www.sec.gov/Archives/edgar/data/2119322/000119312526409540/0001193125-26-409540-index.htm</link>
@@ -16754,29 +16792,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-06-25&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/842023/000114036126037450/0001140361-26-037450-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TECH&lt;/b&gt; · 8-K · Items 5.07, 7.01, 9.01 · Chemicals / Pharma (2836) · 8k_tier1:7.01 · filed 2026-09-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · FTRKD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2027262/000149315226043941/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-043941</guid>
-      <pubDate>Wed, 23 Sep 2026 16:13:27 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>6-K</category>
-      <scanner:headline>Forced Nasdaq delisting; shares trade on OTC</scanner:headline>
-      <scanner:shortName>Fast Track</scanner:shortName>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>FTRKD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting; shares trade on OTC&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Fast Track Group&amp;#39;s Class A ordinary shares will be delisted from Nasdaq after the company withdrew its appeal. Nasdaq will file Form 25-NSE, with delisting effective 10 days later. Shares already suspended since Aug 18, 2026, and trade on OTC under FTRKD; company remains a reporting company.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2027262/000149315226043941/0001493152-26-043941-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FTRKD, FTRKF&lt;/b&gt; · 6-K · Amusement / Recreation (7900) · prefill_form:6-K · filed 2026-09-23&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
