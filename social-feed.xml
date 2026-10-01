@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:20:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CCS 🪙 Debt Restr.
+Amends credit agreement, increases commitments to $1.2B, extends maturity to 2030
+Mcap $1.7B · EV $3.3B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1576940/000114036126038259/ef20083014_form8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-038259</guid>
+      <pubDate>Thu, 01 Oct 2026 15:19:55 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$NXDR 📉 Delisting · Voluntary
+Voluntarily transfers listing from NYSE to Nasdaq, effective Oct 13
+effective 2026-10-14
+Mcap $940M · EV $590M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1846069/000184606926000162/nxdr-20261001.htm</link>
+      <guid isPermaLink="false">0001846069-26-000162</guid>
+      <pubDate>Thu, 01 Oct 2026 15:18:02 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+    </item>
+    <item>
+      <title>$IBN ⚖️ Litigation · Lost
+Faces ₹2.29B GST demand from Indian tax authorities
+Mcap $99B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1103838/000095010326014945/dp254345_6k.htm</link>
+      <guid isPermaLink="false">0000950103-26-014945</guid>
+      <pubDate>Thu, 01 Oct 2026 15:17:42 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>lost</category>
+    </item>
     <item>
       <title>$NBIS 🤝 Merger
 Acquires Inferize to strengthen Token Factory AI inference stack
@@ -1452,36 +1482,6 @@ Mcap $52B · EV $70B · Energy</title>
       <guid isPermaLink="false">0001104659-26-112325</guid>
       <pubDate>Wed, 30 Sep 2026 15:21:05 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$INGN 📤 Divestiture
-Sells US oxygen rental business to Rotech for up to $24.8M cash
-to Rotech Healthcare · close Q4 2026
-Mcap $143M · EV $53M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1294133/000129413326000037/ingn-20260928.htm</link>
-      <guid isPermaLink="false">0001294133-26-000037</guid>
-      <pubDate>Wed, 30 Sep 2026 15:19:17 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$NMAD 🪙 Debt Restr.
-Secures $6.0M distressed financing via $6.57M OID secured note
-Mcap $60M · EV $50M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1335105/000149315226045104/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-045104</guid>
-      <pubDate>Wed, 30 Sep 2026 15:18:26 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$CHPT ⚖️ Litigation · Settled
-Settles securities class action for $11M cash; subject to court approval
-vs Farooq Khan
-Mcap $256M · EV $410M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1777393/000162828026063975/chpt-20260928.htm</link>
-      <guid isPermaLink="false">0001628280-26-063975</guid>
-      <pubDate>Wed, 30 Sep 2026 15:17:37 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>

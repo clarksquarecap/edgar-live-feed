@@ -6,8 +6,115 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:20:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · CCS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1576940/000114036126038259/ef20083014_form8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-038259</guid>
+      <pubDate>Thu, 01 Oct 2026 15:19:55 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Amends credit agreement, increases commitments to $1.2B, extends maturity to 2030</scanner:headline>
+      <scanner:shortName>Century Communities</scanner:shortName>
+      <scanner:price>60.19</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>CCS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1713080000</scanner:marketCap>
+      <scanner:enterpriseValue>3315890000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.84</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>4.72</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>13.24</scanner:fwdPE>
+      <scanner:fwdEvEbitda>12.40</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>4.73</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>17.87</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Amends credit agreement, increases commitments to $1.2B, extends maturity to 2030&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a First Amendment to its Credit Agreement, increasing aggregate commitments to $1,200,000,000 and extending the facility termination date to November 1, 2030. The amendment also adjusted the tangible net worth covenant and added new lenders. The agreement was effective on September 30, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Century Communities, Inc., together with its subsidiaries, engages in the design, development, construction, marketing, and sale of single-family attached and detached homes. It is also involved in the entitlement and development of the underlying land; and provision of mortgage, title, and insurance services to its homebuyers. The company offers homes under the Century Communities and Century Complete brands.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1,200,000,000&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2030-11-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $60.19 · Mkt cap $1.71B · EV $3.32B · Fwd P/E 13.2x · Fwd EV/EBITDA 12.4x · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1576940/000114036126038259/0001140361-26-038259-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CCS&lt;/b&gt; · 8-K · Items 1.01, 2.03, 9.01 · Construction; General (1531) · 8k_tier1:1.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📉 Delisting · Voluntary · NXDR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1846069/000184606926000162/nxdr-20261001.htm</link>
+      <guid isPermaLink="false">0001846069-26-000162</guid>
+      <pubDate>Thu, 01 Oct 2026 15:18:02 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>8-K</category>
+      <scanner:headline>Voluntarily transfers listing from NYSE to Nasdaq, effective Oct 13</scanner:headline>
+      <scanner:shortName>Nextdoor Holdings</scanner:shortName>
+      <scanner:price>2.49</scanner:price>
+      <scanner:subtype>voluntary</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>NXDR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>940040000</scanner:marketCap>
+      <scanner:enterpriseValue>589760000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.15</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.55</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>15.81</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>2.58</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>84.19</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Voluntarily transfers listing from NYSE to Nasdaq, effective Oct 13&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced its voluntary transfer of its Class A common stock listing from the New York Stock Exchange to The Nasdaq Stock Market LLC. Trading on the NYSE is expected to cease at market close on October 13, 2026. The company&amp;#39;s common stock will begin trading on Nasdaq under its current ticker symbol &amp;quot;NXDR&amp;quot; at market open on October 14, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nextdoor Holdings, Inc. operates a neighborhood network that connects neighbors, businesses, and public agencies in the United States and internationally. The company provides local news, events, relevant discussions, and exchange goods and services, as well as discovers and supports local businesses. It operates in 11 countries. The company is headquartered in San Francisco, California.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-14&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-13&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.49 · Mkt cap $940.0M · EV $589.8M · Fwd EV/EBITDA 15.8x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1846069/000184606926000162/0001846069-26-000162-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NXDR&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Business Services (7370) · 8k_tier1:3.01,7.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚖️ Litigation · Lost · IBN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1103838/000095010326014945/dp254345_6k.htm</link>
+      <guid isPermaLink="false">0000950103-26-014945</guid>
+      <pubDate>Thu, 01 Oct 2026 15:17:42 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>lost</category>
+      <category>6-K</category>
+      <scanner:headline>Faces ₹2.29B GST demand from Indian tax authorities</scanner:headline>
+      <scanner:shortName>ICICI BANK</scanner:shortName>
+      <scanner:price>27.92</scanner:price>
+      <scanner:subtype>lost</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>IBN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>99388220000</scanner:marketCap>
+      <scanner:fwdPE>16.33</scanner:fwdPE>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Faces ₹2.29B GST demand from Indian tax authorities&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited received a show cause notice from Indian tax authorities for a GST demand of ₹2,291,435,396 (approximately ₹2.29 billion) along with interest and penalty. The demand relates to services provided by the Bank to customers maintaining specified minimum balances in their accounts. The Bank considers this amount material and will file a reply within prescribed timelines.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ICICI Bank Limited, together with its subsidiaries, engages in the provision of various banking and financial services to corporate and retail customers in India and internationally. The company operates through Retail Banking, Wholesale Banking, Treasury, Other Banking, Life Insurance, General Insurance, and Others segments.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Indian tax authorities&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 2291435396&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Reply to SCN&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $27.92 · Mkt cap $99.39B · Fwd P/E 16.3x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1103838/000095010326014945/0000950103-26-014945-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IBN&lt;/b&gt; · 6-K · Depository Institutions (6029) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · NBIS</title>
       <link>https://www.sec.gov/Archives/edgar/data/1513845/000110465926112824/tm2626792d1_6k.htm</link>
@@ -16775,109 +16882,6 @@
 &lt;p&gt;&lt;i&gt;Px $4.35 · Mkt cap $10.4M · EV $20.3M · Industrials / Construction and Engineering&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1991261/000149315226044299/0001493152-26-044299-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SKK&lt;/b&gt; · 6-K · Construction; Heavy (1623) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · DYNR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1111741/000119312526402740/8-k_-_shareholder_direct.htm</link>
-      <guid isPermaLink="false">0001193125-26-402740</guid>
-      <pubDate>Fri, 25 Sep 2026 14:46:35 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>8-K</category>
-      <scanner:headline>Sets annual meeting for Nov 18; shareholder nomination deadline Oct 5</scanner:headline>
-      <scanner:shortName>DYNARESOURCE</scanner:shortName>
-      <scanner:price>0.8700</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>DYNR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>27100000</scanner:marketCap>
-      <scanner:enterpriseValue>52260000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.90</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>2.88</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>2.66</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>31.14</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sets annual meeting for Nov 18; shareholder nomination deadline Oct 5&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced its 2026 Annual Meeting of Stockholders will be held on November 18, 2026. Due to the change in meeting date, the deadline for shareholder director nominations and proposals is October 5, 2026, at 5:00 p.m. Eastern time. The record date for voting is October 2, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; DynaResource, Inc., together with its subsidiaries, engages in the acquisition, investment, exploration, development, operation, production, and sale of precious metal properties in Mexico and the United States. The company explores for gold and silver deposits. It holds 100% interest in the San Jose de Gracia project comprising 33 contiguous mining concessions covering an area of approximately 9,920 hectares located in the Culiacan mining district of Sinaloa State, Mexico.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-05&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.8700 · Mkt cap $27.1M · EV $52.3M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1111741/000119312526402740/0001193125-26-402740-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DYNR&lt;/b&gt; · 8-K · Items 5.08 · Metal Mining (1000) · 8k_tier1:5.08 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · BCBP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1228454/000119312526402710/d185663d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-402710</guid>
-      <pubDate>Fri, 25 Sep 2026 14:34:03 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Sells $205.3M problem loan portfolios; expects $43.3M pre-tax loss</scanner:headline>
-      <scanner:shortName>BCB BANCORP</scanner:shortName>
-      <scanner:price>8.71</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>BCBP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>269080000</scanner:marketCap>
-      <scanner:fwdPE>24.95</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells $205.3M problem loan portfolios; expects $43.3M pre-tax loss&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that its bank subsidiary entered into definitive agreements to sell portfolios of problem loans with an aggregate unpaid principal balance of approximately $205.3 million as of June 30, 2026. The estimated pre-tax loss attributable to these sales is $43.3 million, to be recorded in the third quarter of 2026. Five of six transactions have closed, with the last expected to close by the end of Q3 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; BCB Bancorp, Inc. operates as the bank holding company for BCB Community Bank that provides various banking products and services to businesses and individuals in the United States. The company offers insured deposit products, including savings and club accounts, interest and non-interest-bearing demand, money market, certificates of deposit, and individual retirement accounts.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $205.3 million&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $8.71 · Mkt cap $269.1M · Fwd P/E 24.9x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1228454/000119312526402710/0001193125-26-402710-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BCBP&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Depository Institutions (6035) · 8k_tier1:8.01 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · CRTD</title>
-      <link>https://www.otcmarkets.com/stock/CRTD/news/536454</link>
-      <guid isPermaLink="false">OTC-536454</guid>
-      <pubDate>Fri, 25 Sep 2026 14:27:37 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>OTC</category>
-      <scanner:headline>Approved premium tender offer for Vocal, Inc. crowdfunding shares</scanner:headline>
-      <scanner:shortName>Creatd</scanner:shortName>
-      <scanner:price>3.91</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>CRTD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>12990000</scanner:marketCap>
-      <scanner:enterpriseValue>13180000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>11.29</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>13.15</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>11.40</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>85.86</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Approved premium tender offer for Vocal, Inc. crowdfunding shares&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced the approval of a premium tender offer to acquire Regulation Crowdfunding shares of Vocal, Inc. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Creatd, Inc., a technology company, provides economic opportunities for creators in the United States. It operates through two segments Vocal and OG Collection. The company offers digital publishing platform that organized into niche-communities for hosting various rich media content. It also provides studio/agency Service, such as digital marketing and e-commerce solutions to business-to-business and business-to-consumer product and service brands; sells books and archival materials.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Vocal, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.91 · Mkt cap $13.0M · EV $13.2M · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CRTD&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
