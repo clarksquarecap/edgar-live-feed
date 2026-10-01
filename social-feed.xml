@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 10:04:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:05:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LIFD 📤 Divestiture
+Sells 5511 Building to Ad Real Estate Group for $1.5M cash; repays all bank debt
+Mcap $2M · EV $2M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1391135/000109690626001491/lifd-20260929_8k.htm</link>
+      <guid isPermaLink="false">0001096906-26-001491</guid>
+      <pubDate>Thu, 01 Oct 2026 05:05:18 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$CRTD 🤝 Merger
 Acquires C2 Capital Group for ~12.9M shares as-converted
@@ -1285,17 +1294,6 @@ Mcap $40M · EV $9M · Industrials</title>
       <link>https://www.sec.gov/Archives/edgar/data/798528/000119312526407993/d104064ds4a.htm</link>
       <guid isPermaLink="false">0001193125-26-407993</guid>
       <pubDate>Wed, 30 Sep 2026 05:06:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ATKR 🤝 Merger
-Acquired by Prysmian for $95.00 cash; vote Oct 7; supplements proxy
-Prysmian S.p.A. · 30.21 prem · 3315500000 deal · cash
-Mcap $3.2B · EV $3.8B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1666138/000166613826000035/defa14amds20260930.htm</link>
-      <guid isPermaLink="false">0001666138-26-000035</guid>
-      <pubDate>Wed, 30 Sep 2026 05:05:14 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
