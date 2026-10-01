@@ -6,8 +6,74 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 11:44:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 11:51:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · CTVA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526409840/d35475d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-409840</guid>
+      <pubDate>Thu, 01 Oct 2026 06:51:13 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Completes $1.44B debt exchange offers for EIDP notes ahead of two-company separation</scanner:headline>
+      <scanner:shortName>Corteva</scanner:shortName>
+      <scanner:price>78.57</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>CTVA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>51954550000</scanner:marketCap>
+      <scanner:enterpriseValue>54685550000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>3.07</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>6.20</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>19.69</scanner:fwdPE>
+      <scanner:fwdEvEbitda>12.41</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>6.19</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>49.54</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Completes $1.44B debt exchange offers for EIDP notes ahead of two-company separation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced the final results of its private exchange offers and consent solicitations for EIDP, Inc.&amp;#39;s 2.300% Senior Notes due 2030, 5.125% Senior Notes due 2032, and 4.800% Senior Notes due 2033, with approximately $1.439 billion in aggregate principal amount tendered. The exchange offers and consent solicitations were conditioned upon Corteva&amp;#39;s planned separation into two independent, publicly traded companies, which is expected to be consummated on or about October 1, 2026. Eligible holders received Vylor Notes of corresponding series and cash consideration, with settlement expected simultaneously with the separation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Corteva, Inc. operates in the agriculture business. The company operates through two segments, Seed and Crop Protection. The Seed segment develops and supplies advanced germplasm and traits that produce optimum yield for farms. It offers trait technologies that enhance resistance to weather, disease, insects, and herbicides used to control weeds, as well as food and nutritional characteristics.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1438639000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-06&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $78.57 · Mkt cap $51.95B · EV $54.69B · Fwd P/E 19.7x · Fwd EV/EBITDA 12.4x · Materials / Chemicals&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1755672/000119312526409840/0001193125-26-409840-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CTVA&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Agriculture (0100) · 8k_tier1:8.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🧬 Spin-Off · VYLR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526409841/d118856d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-396054</guid>
+      <pubDate>Thu, 01 Oct 2026 06:50:51 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>spinco_new</category>
+      <category>8-K</category>
+      <scanner:headline>Completes debt exchange, enabling separation from Corteva</scanner:headline>
+      <scanner:shortName>Vylor</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>VYLR</scanner:ticker>
+      <scanner:filings>7</scanner:filings>
+      <scanner:filingForms>10-12B/A, 8-K x6</scanner:filingForms>
+      <scanner:related>CTVA</scanner:related>
+      <description>&lt;p&gt;&lt;b&gt;Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Will be spun off from Corteva through a pro-rata distribution of one share of Vylor common stock for each Corteva share held as of the September 24, 2026 record date. Distribution expected October 1, 2026, with Vylor listing on NYSE under VYLR. The spin-off is intended to be tax-free and requires no stockholder vote.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Corteva, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Record date Sep 24, 2026; distribution Oct 1, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/0001193125-26-396054-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VYLR&lt;/b&gt; · 10-12B/A · Agriculture (0100) · prefill_form:10-12B · filed 2026-09-21&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (7)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Oct 01 06:50 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526409841/d118856d8k.htm'&gt;Completes debt exchange, enabling separation from Corteva&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Oct 01 05:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526409545/d121693d8k.htm'&gt;Completes separation from Corteva; distribution effective Oct 1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 30 12:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526408748/d39681d8k.htm'&gt;Extends debt exchange offers for planned separation from Corteva&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 25 15:59 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526402928/ck0002128626-20260924.htm'&gt;Spin-off from Corteva effective; shares to trade Oct 1 on NYSE as VYLR&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 25 06:56 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526401621/d118532d8k.htm'&gt;Form 10 effective for spin-off from Corteva; NYSE listing Oct 1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 21 07:30 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1755672/000119312526396123/d144225d8k.htm'&gt;Files Form 10/A for Vylor seed spinoff&lt;/a&gt;&lt;/li&gt;&lt;li&gt;10-12B/A · Sep 21 06:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/ctva_form_10-12ba_3.htm'&gt;Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty CTVA also filed 8-K&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · MIVOF</title>
       <link>https://www.otcmarkets.com/stock/MIVOF/news/537053</link>
@@ -627,33 +693,6 @@
 &lt;p&gt;&lt;i&gt;Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1796898/000121390026105443/0001213900-26-105443-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MAXNQ&lt;/b&gt; · 6-K · Electronic Equipment (3674) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · VYLR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526409545/d121693d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-396054</guid>
-      <pubDate>Thu, 01 Oct 2026 05:21:08 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>spinco_new</category>
-      <category>8-K</category>
-      <scanner:headline>Completes separation from Corteva; distribution effective Oct 1</scanner:headline>
-      <scanner:shortName>Vylor</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>VYLR</scanner:ticker>
-      <scanner:filings>6</scanner:filings>
-      <scanner:filingForms>10-12B/A, 8-K x5</scanner:filingForms>
-      <scanner:related>CTVA</scanner:related>
-      <description>&lt;p&gt;&lt;b&gt;Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will be spun off from Corteva through a pro-rata distribution of one share of Vylor common stock for each Corteva share held as of the September 24, 2026 record date. Distribution expected October 1, 2026, with Vylor listing on NYSE under VYLR. The spin-off is intended to be tax-free and requires no stockholder vote.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Corteva, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Record date Sep 24, 2026; distribution Oct 1, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/0001193125-26-396054-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VYLR&lt;/b&gt; · 10-12B/A · Agriculture (0100) · prefill_form:10-12B · filed 2026-09-21&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (6)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Oct 01 05:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526409545/d121693d8k.htm'&gt;Completes separation from Corteva; distribution effective Oct 1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 30 12:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526408748/d39681d8k.htm'&gt;Extends debt exchange offers for planned separation from Corteva&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 25 15:59 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526402928/ck0002128626-20260924.htm'&gt;Spin-off from Corteva effective; shares to trade Oct 1 on NYSE as VYLR&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 25 06:56 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526401621/d118532d8k.htm'&gt;Form 10 effective for spin-off from Corteva; NYSE listing Oct 1&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 21 07:30 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1755672/000119312526396123/d144225d8k.htm'&gt;Files Form 10/A for Vylor seed spinoff&lt;/a&gt;&lt;/li&gt;&lt;li&gt;10-12B/A · Sep 21 06:03 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2128626/000119312526396054/ctva_form_10-12ba_3.htm'&gt;Spun off from Corteva via 1:1 distribution; NYSE listing under VYLR&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Counterparty CTVA also filed 8-K&lt;/p&gt;</description>
     </item>
     <item>
       <title>🧬 Spin-Off · CTVA</title>
@@ -16813,39 +16852,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.2600 · Mkt cap $2.6M · EV $10.1M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1468929/000149315226044149/0001493152-26-044149-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NXGL, NXGLW&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Instruments / Medical Devices (3841) · 8k_tier1:7.01 · filed 2026-09-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SAFX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2019793/000121390026103061/ea0306519-425_xcfglobal.htm</link>
-      <guid isPermaLink="false">0001213900-26-103061</guid>
-      <pubDate>Thu, 24 Sep 2026 15:26:48 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Postpones merger vote to Oct 5; DevvStream/Southern combo</scanner:headline>
-      <scanner:shortName>XCF Global</scanner:shortName>
-      <scanner:price>0.4200</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>SAFX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>174720000</scanner:marketCap>
-      <scanner:enterpriseValue>431820000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>28.26</scanner:evSalesLtm>
-      <scanner:fwdEvEbitda>13.43</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Postpones merger vote to Oct 5; DevvStream/Southern combo&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Postponed its special meeting to October 5, 2026, to vote on the proposed business combination with DevvStream Corp. and Southern Energy Renewables Inc. The meeting was originally scheduled for September 24, 2026. The record date is revised to September 25, 2026. The board recommends voting FOR all proposals.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; XCF Global, Inc. manufactures and sells renewable fuels in the United States. It develops and operates clean fuel production facilities to produce clean-burning and sustainable biofuels, sustainable aviation fuels, and renewable diesel and naphtha products; and sells environmental credits. XCF Global, Inc. was founded in 2016 and is headquartered in Houston, Texas.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; DevvStream Corp. and Southern Energy Renewables Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; October 5, 2026 special meeting&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.4200 · Mkt cap $174.7M · EV $431.8M · Fwd EV/EBITDA 13.4x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2019793/000121390026103061/0001213900-26-103061-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SAFX&lt;/b&gt; · 425 · Chemicals / Pharma (2860) · prefill_form:425 · filed 2026-09-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
