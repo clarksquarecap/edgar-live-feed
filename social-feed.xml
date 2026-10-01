@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:48:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:54:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XRPN 🤝 Merger
+Acquired by Armada SPAC; S-4 effective; vote Sept 30 for XRPN listing
+Mcap $518M · EV $518M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2092592/000095010326014952/dp254370_425.htm</link>
+      <guid isPermaLink="false">0000950103-26-014952</guid>
+      <pubDate>Thu, 01 Oct 2026 15:54:35 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$KARD 👀 Activist
 Perceptive Advisors reports 8.8% stake in Kardigan; notes legal proceedings
@@ -1500,24 +1510,6 @@ To be spun off from MSG Sports; will trade as MSGR on NYSE</title>
       <guid isPermaLink="false">0001193125-26-402509</guid>
       <pubDate>Wed, 30 Sep 2026 15:56:16 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$KOD 📍 Stake
-Receives 13D/A from Baker Bros. reporting 35.0% stake
-Mcap $2.0B · EV $2.0B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468748/000110465926112371/0001104659-26-112371-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-112371</guid>
-      <pubDate>Wed, 30 Sep 2026 15:49:35 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$MCY 👀 Activist
-Joseph discloses 35.3% stake, seeks strategic review, M&amp;A, board changes
-Mcap $5.5B · EV $4.8B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/64996/000119312526409121/0001193125-26-409121-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-409121</guid>
-      <pubDate>Wed, 30 Sep 2026 15:49:11 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
