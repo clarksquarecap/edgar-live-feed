@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 11:51:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:04:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$XRPN 🤝 Merger
+Shareholders approve business combination with Evernorth Holdings Inc.
+Mcap $518M · EV $518M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044009/000119312526409852/d32574d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-409852</guid>
+      <pubDate>Thu, 01 Oct 2026 07:04:16 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CTVA 🪓 Spinoff
 Completes $1.44B debt exchange offers for EIDP notes ahead of two-company separation
@@ -1373,38 +1383,6 @@ Mcap $333M · EV $486M · Financial Serv</title>
       <guid isPermaLink="false">0001062993-26-005116</guid>
       <pubDate>Wed, 30 Sep 2026 07:11:07 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$AEON ⚖️ Litigation · Won
-FDA feedback clarifies ABP-450 path; milestone warrants expire Nov 16
-Mcap $13M · EV $12M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1837607/000183760726000064/aeon-20260930x8k.htm</link>
-      <guid isPermaLink="false">0001837607-26-000064</guid>
-      <pubDate>Wed, 30 Sep 2026 07:03:52 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$ZIM 🤝 Merger
-GCA halts review of Hapag-Lloyd merger; revised proposal expected
-empty
-Mcap $3.5B · EV $7.1B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1654126/000117891326004656/zk2636172.htm</link>
-      <guid isPermaLink="false">0001178913-26-004656</guid>
-      <pubDate>Wed, 30 Sep 2026 07:03:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$HSCS 🤝 Merger
-Acquired by Fortitude Mining in all-stock transaction; shareholder vote pending
-stock
-Mcap $19M · EV $23M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026104895/ea0307146-defa14a_heart.htm</link>
-      <guid isPermaLink="false">0001213900-26-104895</guid>
-      <pubDate>Wed, 30 Sep 2026 07:02:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
