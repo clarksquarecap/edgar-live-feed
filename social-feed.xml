@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:06:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:08:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MSPR 🪙 Debt Restr.
+Receives $0.80M in ad-hoc funding from Hazel &amp; VRM amid liquidity warnings
+Mcap $1K · EV $609M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1802450/000121390026105757/ea0307330-8k_msp.htm</link>
+      <guid isPermaLink="false">0001213900-26-105757</guid>
+      <pubDate>Thu, 01 Oct 2026 15:08:02 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$EDBL 🤝 Merger
+Acquires Iowa Shrimp Holdings' Prairie Hills facility for $6.325M
+6,325,000 deal · cash+stk
+Mcap $2M · EV $23M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1809750/000147793226005955/edbl_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-005955</guid>
+      <pubDate>Thu, 01 Oct 2026 15:07:45 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$NYAX 🤝 Merger
 Completes IPS Group acquisition for $350M cash; expands into smart parking
@@ -1440,16 +1460,6 @@ Mcap $2.5B · EV $2.6B · Comms</title>
       <link>https://www.sec.gov/Archives/edgar/data/1849635/000143774926031600/djt20260930c_425.htm</link>
       <guid isPermaLink="false">0001437749-26-031600</guid>
       <pubDate>Wed, 30 Sep 2026 15:15:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$BCO 🤝 Merger
-Acquisition of NCR Atleos on track for Q1 2027 close; proposes UK divestiture
-Mcap $4.2B · EV $7.3B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/78890/000007889026000058/bco-20260930.htm</link>
-      <guid isPermaLink="false">0000078890-26-000058</guid>
-      <pubDate>Wed, 30 Sep 2026 15:08:15 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
