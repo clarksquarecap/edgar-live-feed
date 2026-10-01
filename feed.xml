@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 14:19:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:39:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Lost · SGML</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1848309/000129281426004782/sgml20261001_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004782</guid>
+      <pubDate>Thu, 01 Oct 2026 09:39:49 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>lost</category>
+      <category>6-K</category>
+      <scanner:headline>Operations temporarily paused awaiting Federal Court of Appeals ruling</scanner:headline>
+      <scanner:shortName>Sigma Lithium</scanner:shortName>
+      <scanner:price>9.58</scanner:price>
+      <scanner:subtype>lost</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>SGML</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1078400000</scanner:marketCap>
+      <scanner:enterpriseValue>1338720000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>9.39</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>19.14</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>9.80</scanner:fwdPE>
+      <scanner:fwdEvEbitda>6.74</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>19.14</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>49.08</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Operations temporarily paused awaiting Federal Court of Appeals ruling&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced the temporary suspension of all mining and industrial production as of September 30, following an atypical 15-day delay by the Federal Court of Appeals in reviewing its legal defense against a preliminary federal injunction. The injunction, issued by a local Federal Court, requested Minas Gerais state authorities to suspend the Company’s environmental licenses. Sigma Lithium maintains its 2027 guidance but will postpone its 12-month guidance by 3 months.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sigma Lithium Corporation engages in the exploration and development of lithium deposits in Brazil. It serves lithium-ion battery supply chain for electric vehicle industries. The company was formerly known as Sigma Lithium Resources Corporation and changed its name to Sigma Lithium Corporation in July 2021. Sigma Lithium Corporation is based in Toronto, Canada.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ngolo&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Federal Court of Appeals ruling&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $9.58 · Mkt cap $1.08B · EV $1.34B · Fwd P/E 9.8x · Fwd EV/EBITDA 6.7x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1848309/000129281426004782/0001292814-26-004782-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SGML&lt;/b&gt; · 6-K · Metal Mining (1000) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · RENI</title>
       <link>https://www.otcmarkets.com/stock/RENI/news/537119</link>
@@ -16807,43 +16846,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 800M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $20.47 · Mkt cap $5.47B · EV $9.56B · Fwd P/E 22.2x · Fwd EV/EBITDA 4.1x · Industrials / Passenger Airlines&lt;/i&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACDVF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · NKTR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/906709/000121390026103215/ea0306370-8k_nektar.htm</link>
-      <guid isPermaLink="false">0001213900-26-103215</guid>
-      <pubDate>Fri, 25 Sep 2026 06:05:23 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>8-K</category>
-      <scanner:headline>Won $90M jury verdict vs Eli Lilly for contract breach</scanner:headline>
-      <scanner:shortName>NEKTAR THERAPEUTICS</scanner:shortName>
-      <scanner:price>59.38</scanner:price>
-      <scanner:subtype>won</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>NKTR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1968690000</scanner:marketCap>
-      <scanner:enterpriseValue>1420280000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>27.09</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>27.09</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>26.02</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Won $90M jury verdict vs Eli Lilly for contract breach&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced a jury verdict finding Eli Lilly and Company breached the implied covenant of good faith and fair dealing in their License Agreement. The jury awarded Nektar $90 million in damages plus interest. The verdict is subject to post-trial proceedings and potential appeal.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nektar Therapeutics, a biopharmaceutical company, focuses on discovering and developing medicines in the field of immunotherapy in the United States and internationally. It develops rezpegaldesleukin, which is in Phase 2b to treat underlying immune system imbalance in people with autoimmune disorders and inflammatory diseases; NKTR-0165 to treat ulcerative colitis, vitiligo, and multiple sclerosis; NKTR-0166 to treat autoimmune disease; NKTR-422 to treat fibrotic diseases; and NKTR-255 to treat …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Eli Lilly and Company&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 90000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; post-trial proceedings and appeal&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $59.38 · Mkt cap $1.97B · EV $1.42B · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/906709/000121390026103215/0001213900-26-103215-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NKTR&lt;/b&gt; · 8-K · Items 8.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
