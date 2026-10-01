@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 10:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:57:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📤 Divestiture · CNP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1130310/000110465926112565/tm2626684d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112565</guid>
+      <pubDate>Thu, 01 Oct 2026 05:57:03 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells Ohio natural gas business to National Fuel Gas for $2.62B</scanner:headline>
+      <scanner:shortName>CENTERPOINT ENERGY</scanner:shortName>
+      <scanner:price>36.80</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Utilities</scanner:sector>
+      <scanner:ticker>CNP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>24240910000</scanner:marketCap>
+      <scanner:enterpriseValue>48429910000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>5.03</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>10.71</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>18.41</scanner:fwdPE>
+      <scanner:fwdEvEbitda>12.32</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>10.73</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>47.03</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells Ohio natural gas business to National Fuel Gas for $2.62B&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed the sale of its Ohio natural gas LDC business, Vectren Energy Delivery of Ohio, LLC, to National Fuel Gas Company for $2.62 billion. The purchase price includes $1.42 billion in cash paid at closing and a $1.20 billion promissory note. The transaction was previously announced on October 20, 2025.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; CenterPoint Energy, Inc. operates as a public utility holding company in the United States. The company operates through Electric; Natural Gas; and Corporate and Other segments. The Electric segment provides electric transmission and distribution services to electric customers and electric generation assets, as well as optimizes assets in the wholesale power market in Indiana Electric’s service territory.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; National Fuel Gas Company&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-10-20&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $36.80 · Mkt cap $24.24B · EV $48.43B · Fwd P/E 18.4x · Fwd EV/EBITDA 12.3x · Utilities / Multi-Utilities&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1130310/000110465926112565/0001104659-26-112565-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CNP&lt;/b&gt; · 8-K · Items 2.01, 7.01, 9.01 · Utilities (4911) · 8k_tier1:2.01,7.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · HCAC</title>
       <link>https://www.sec.gov/Archives/edgar/data/2079013/000182912626010648/hallchadwickacq_s4.htm</link>
@@ -16812,37 +16851,6 @@
 &lt;p&gt;&lt;i&gt;Px $96.07 · Mkt cap $8.82B · EV $14.35B · Fwd P/E 9.2x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1535929/000114036126037563/0001140361-26-037563-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VOYA, VOYA-PB&lt;/b&gt; · DFAN14A · Insurance (6311) · prefill_form:DFAN14A · filed 2026-09-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · FBNC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/811589/000207709626000269/ea0306108-01.htm</link>
-      <guid isPermaLink="false">0002077096-26-000269</guid>
-      <pubDate>Thu, 24 Sep 2026 14:52:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4</category>
-      <scanner:headline>Acquires First Carolina for 14.5340 FBNC shares + $294.94 cash/share</scanner:headline>
-      <scanner:shortName>FIRST BANCORP</scanner:shortName>
-      <scanner:price>62.98</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>FBNC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2574300000</scanner:marketCap>
-      <scanner:fwdPE>13.05</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires First Carolina for 14.5340 FBNC shares + $294.94 cash/share&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Agreed to acquire First Carolina Bancshares in a stock-and-cash merger. Each First Carolina share will be exchanged for 14.5340 FBNC shares plus $294.94 cash, subject to tangible common equity adjustments. Based on FBNC&amp;#39;s $64.22 closing price on July 13, 2026, the consideration was worth approximately $1,228.31 per share. The merger requires two-thirds shareholder approval; special meeting date to be set. Combined bank will have over $13.8B in assets and 127 branches.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; First Bancorp operates as the bank holding company for First Bank that provides banking products and services for individuals and businesses. The company accepts deposit products, such as checking, savings, and money market accounts; and time deposits, including certificate of deposits and individual retirement accounts.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; First Carolina Bancshares Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms paid for First Carolina Bancshares:&lt;/b&gt; 14.5340 FBNC shares + $294.94 cash&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; First Carolina shareholder vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $62.98 · Mkt cap $2.57B · Fwd P/E 13.1x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/811589/000207709626000269/0002077096-26-000269-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FBNC&lt;/b&gt; · S-4 · Depository Institutions (6022) · prefill_form:S-4 · filed 2026-09-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
