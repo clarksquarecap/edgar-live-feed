@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 12:52:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:05:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PYPD 💥 Busted M&amp;A
+Regains European D-PLEX₁₀₀ commercialization rights from ADVANZ PHARMA
+Mcap $107M · EV $102M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1611842/000121390026105474/ea0307315-6k_polypid.htm</link>
+      <guid isPermaLink="false">0001213900-26-105474</guid>
+      <pubDate>Thu, 01 Oct 2026 08:04:58 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$INIS 📤 Divestiture
 Divests DUF6 and Fluorine assets to NANO Nuclear
@@ -1391,15 +1400,6 @@ Mcap $531M · EV $1.1B · Tech</title>
       <pubDate>Wed, 30 Sep 2026 08:18:10 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CBNK 📤 Divestiture
-Sells North Riverside, IL branch office; expects ~$3.3M deposit premium
-Mcap $581M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1419536/000141953626000148/cbnk-20260929.htm</link>
-      <guid isPermaLink="false">0001419536-26-000148</guid>
-      <pubDate>Wed, 30 Sep 2026 08:02:48 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
