@@ -6,8 +6,43 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 16:05:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:06:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · MHD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1034665/000119312526410213/0001193125-26-410213-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-410213</guid>
+      <pubDate>Thu, 01 Oct 2026 11:06:06 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Receives 13D/A from JPMorgan amending preferred share agreements</scanner:headline>
+      <scanner:shortName>BLACKROCK MUNIHOLDINGS FUND</scanner:shortName>
+      <scanner:price>10.26</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Financial Services</scanner:sector>
+      <scanner:ticker>MHD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1792419034</scanner:marketCap>
+      <scanner:enterpriseValue>2269645552</scanner:enterpriseValue>
+      <scanner:evSalesLtm>43.40</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>43.40</scanner:evGrossProfitLtm>
+      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D/A from JPMorgan amending preferred share agreements&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;JPMorgan Chase &amp;amp; Co. and DNT Asset Trust filed a 13D/A for their 100% stake in BlackRock MuniHoldings Fund&amp;#39;s Variable Rate Muni Term Preferred Shares. The filing discloses amendments to the Amended and Restated Variable Rate Muni Term Preferred Shares Purchase and Exchange Agreement and the Amended and Restated Registration Rights Agreement, both dated September 28, 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; JPMorgan Chase &amp;amp; Co. and DNT Asset Trust&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 100%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.26 · Mkt cap $1.79B · EV $2.27B · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1034665/000119312526410213/0001193125-26-410213-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MHD&lt;/b&gt; · SCHEDULE 13D/A · Depository Institutions (6021) · fresh_13d · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · PTNM</title>
       <link>https://www.sec.gov/Archives/edgar/data/2046573/000135445726000933/0001354457-26-000933-index.htm</link>
@@ -16806,39 +16841,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.33 · Mkt cap $111.0M · EV $97.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1874252/000121390026103219/0001213900-26-103219-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QUCY&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:7.01 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BACC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2059654/000118518526004321/bacc8k425092426.htm</link>
-      <guid isPermaLink="false">0001185185-26-004322</guid>
-      <pubDate>Fri, 25 Sep 2026 06:37:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Progresses Blockfusion business combination; shareholder vote pending</scanner:headline>
-      <scanner:shortName>Blue Acquisition Corp/Cayman</scanner:shortName>
-      <scanner:price>10.50</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>BACC</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>425, 8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>293600000</scanner:marketCap>
-      <scanner:enterpriseValue>293400000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Blockfusion USA in definitive business combination; shareholder vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is progressing its definitive business combination with Blockfusion USA, Inc. Under the agreement, Blue and Blockfusion will become wholly-owned subsidiaries of Pubco, which will then become a publicly traded company. The transaction requires approval from Blue&amp;#39;s shareholders at an upcoming extraordinary general meeting.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Blue Acquisition Corp. does not have significant operations. It intends to effect a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2025 and is based in Newport Beach, California.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Blockfusion USA, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-11-19&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; shareholder vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.50 · Mkt cap $293.6M · EV $293.4M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004322/0001185185-26-004322-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BACC, BACCR, BACCU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-25&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 25 06:37 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004321/bacc8k425092426.htm'&gt;Progresses Blockfusion business combination; shareholder vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 25 06:36 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004322/bacc8k425092426.htm'&gt;Acquires Blockfusion USA in definitive business combination; shareholder vote pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
