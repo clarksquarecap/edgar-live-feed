@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:57:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:57:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NBHC 💧 Capital Return · Buyback
+Authorizes additional $40.1M share repurchase, bringing total to $100M
+Mcap $1.7B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1475841/000110465926112856/nbhc-20260928x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112856</guid>
+      <pubDate>Thu, 01 Oct 2026 15:57:32 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$MOD 🪓 Spinoff
 Completes Performance Technologies spin-off; holders get 0.44619 Gentherm shares
@@ -1503,16 +1513,6 @@ Mcap $6.4B · EV $12B · Utilities</title>
       <link>https://www.sec.gov/Archives/edgar/data/1108426/000110842626000061/pnm-20260930.htm</link>
       <guid isPermaLink="false">0001108426-26-000061</guid>
       <pubDate>Wed, 30 Sep 2026 15:58:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$INBT 🤝 Merger
-Acquires Cartesian Growth Corp II &amp; InoBat AS in business combination; vote pending
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2156068/000118518526004443/inobatbvf4a1093026.htm</link>
-      <guid isPermaLink="false">0001185185-26-004249</guid>
-      <pubDate>Wed, 30 Sep 2026 15:57:22 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
