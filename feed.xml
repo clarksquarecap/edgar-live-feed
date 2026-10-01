@@ -6,8 +6,40 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 17:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 17:33:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · SSM</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1840416/000209649326000005/0002096493-26-000005-index.htm</link>
+      <guid isPermaLink="false">0002096493-26-000005</guid>
+      <pubDate>Thu, 01 Oct 2026 12:32:57 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Alpine Fox Capital discloses 21.5% stake in Sono Group</scanner:headline>
+      <scanner:shortName>Sono Group</scanner:shortName>
+      <scanner:price>1.36</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>SSM</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1640000</scanner:marketCap>
+      <scanner:enterpriseValue>7610000</scanner:enterpriseValue>
+      <scanner:fwdEvGrossProfit>117.09</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Alpine Fox Capital discloses 21.5% stake in Sono Group&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Alpine Fox Capital LLC, through Alpine Fox, LP, disclosed a 21.5% beneficial ownership stake in Sono Group N.V., comprising 315,295 common shares acquired for approximately $370,691. The Reporting Persons state they acquired the securities for investment purposes and have no present plans to change or influence the control of the Issuer, but will review their investment on a continuing basis.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sono Group N.V. provides solar-powered mobility solutions and solar integration products for the commercial vehicle and automotive industry. The company offers a range of solar integration solutions, such as Solar Bus Kit and solar kits for trucks, vans, RVs, refrigeration trailers, and other applications.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 1.1756&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 370691&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 21.5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.36 · Mkt cap $1.6M · EV $7.6M · Consumer Discretionary / Automobile Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1840416/000209649326000005/0002096493-26-000005-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SSM&lt;/b&gt; · SCHEDULE 13D · Non-Depository Credit (6199) · fresh_13d · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔎 Strategic Review · Formal Alternatives · CCJ</title>
       <link>https://www.sec.gov/Archives/edgar/data/1009001/000119312526410308/d59652d6k.htm</link>
@@ -16811,43 +16843,6 @@
 &lt;p&gt;&lt;i&gt;Px $5.86 · Mkt cap $6.04B · EV $17.66B · Fwd EV/EBITDA 5.7x · Communication Services / Diversified Telecommunication Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/18926/000094787126000891/0000947871-26-000891-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LUMN&lt;/b&gt; · 8-K · Items 3.01, 7.01, 9.01 · Communications (4813) · 8k_tier1:3.01,7.01 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Preliminary · FTHM</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1753162/000162828026063504/fthm-20260924.htm</link>
-      <guid isPermaLink="false">0001628280-26-063504</guid>
-      <pubDate>Fri, 25 Sep 2026 07:42:03 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-      <category>8-K</category>
-      <scanner:headline>Explores restructured merger with Neighborhood Intelligence; NXH to gain control</scanner:headline>
-      <scanner:shortName>Fathom Holdings</scanner:shortName>
-      <scanner:price>0.5200</scanner:price>
-      <scanner:subtype>preliminary</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>FTHM</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>17760000</scanner:marketCap>
-      <scanner:enterpriseValue>42880000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.11</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>1.29</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>1.30</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>8.18</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Explores restructured merger with Neighborhood Intelligence; NXH to gain control&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Fathom Holdings Inc. and Neighborhood Intelligence, Inc. (NXH) are exploring an alternative transaction structure to replace their previously announced merger agreement. Under the proposed deal, NXH would contribute its digital asset holdings, including a 38.8% interest in tZERO, to Fathom for newly issued Fathom shares. The contributed assets are valued at no less than $130 million, and NXH is expected to maintain a controlling interest in Fathom post-transaction.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Fathom Holdings Inc. provides a real estate services platform that integrates residential brokerage, mortgage, title, and insurance services in the United States. It operates through three segments: Real Estate Brokerage, Mortgage, and Title. The Real Estate Brokerage segment provides real estate brokerage services. The Mortgage segment offers residential loan origination and underwriting services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Neighborhood Intelligence, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $130 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Negotiation of definitive agreements&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.5200 · Mkt cap $17.8M · EV $42.9M · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1753162/000162828026063504/0001628280-26-063504-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FTHM&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Real Estate (6531) · 8k_tier1:8.01 · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
