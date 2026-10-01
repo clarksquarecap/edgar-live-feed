@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 19:40:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:46:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · SGRP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1004989/000135445726000934/0001354457-26-000934-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000934</guid>
+      <pubDate>Thu, 01 Oct 2026 14:46:45 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <scanner:headline>Forced Nasdaq delisting effective Oct 12, 2026</scanner:headline>
+      <scanner:shortName>SPAR Group</scanner:shortName>
+      <scanner:price>0.6500</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>25-NSE</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>SGRP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>25-NSE</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>19460000</scanner:marketCap>
+      <scanner:enterpriseValue>51780000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.40</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.52</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>2.48</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>15.72</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Oct 12, 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Will be delisted from the Nasdaq Stock Market LLC, effective at the opening of trading on October 12, 2026. Nasdaq Staff determined the company no longer qualified for listing, and the company did not appeal the determination, which became final on July 23, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SPAR Group, Inc., together with its subsidiaries, provides merchandising and brand marketing services in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. It offers merchandising and marketing services, such as resets and cut-ins; price and inventory audits; stock replenishment and rotation services; out of stock management; promotional event setup; and display management, as well as category management and set up services comprising category and product resets, planogram main…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nasdaq Stock Market LLC&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-12&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.6500 · Mkt cap $19.5M · EV $51.8M · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1004989/000135445726000934/0001354457-26-000934-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SGRP&lt;/b&gt; · 25-NSE · Business Services (7389) · prefill_form:25-NSE · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔎 Strategic Review · Formal Alternatives · LPBB</title>
       <link>https://www.sec.gov/Archives/edgar/data/2023676/000121390026105744/ea0307246-8k_launch.htm</link>
@@ -16796,39 +16833,6 @@
 &lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lode Gold Resources Inc., together with its subsidiaries, is involved in the discovery, acquisition, and development of gold projects in North America. Its flagship project is the Fremont Gold project covering an area of 3,351 acres located in the Mariposa County, California. The company was formerly known as Stratabound Minerals Corp. and changed its name to Lode Gold Resources Inc. in January 2024. Lode Gold Resources Inc. was founded in 1986 and is based in Vancouver, Canada.&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;Px $0.2800 · Mkt cap $27.7M · EV $29.1M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LODFF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Special Dividend · VRME</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1104038/000121465926011966/w9232628k.htm</link>
-      <guid isPermaLink="false">0001214659-26-011800</guid>
-      <pubDate>Fri, 25 Sep 2026 08:28:22 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-      <category>8-K</category>
-      <scanner:headline>Declares $1.50/share special cash dividend, conditioned on Open World merger</scanner:headline>
-      <scanner:shortName>VerifyMe</scanner:shortName>
-      <scanner:price>0.6700</scanner:price>
-      <scanner:subtype>special_dividend</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>VRME</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>8850000</scanner:marketCap>
-      <scanner:enterpriseValue>4510000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Declares $0.15 special dividend tied to OpenWorld merger close&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Declared a special cash dividend of $0.15 per share, payable on October 2, 2026 to holders of record on September 29, 2026, conditioned upon closing of the proposed merger with Open World Ltd. The merger remains subject to stockholder approval at the September 24 meeting and other closing conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; VerifyMe, Inc. offers brand protection and precision logistics solutions. The company offers predictive analytics for optimizing delivery of time and temperature sensitive perishable products. It also operates PeriTrack customer dashboard, an integrated web portal tool that gives its customers an in-depth look at their shipping activities based on real-time data.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; September 24, 2026 shareholder vote on merger&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.6700 · Mkt cap $8.8M · EV $4.5M · Industrials / Air Freight and Logistics&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1104038/000121465926011800/0001214659-26-011800-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VRME&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Non-Depository Credit (6199) · 8k_tier1:7.01 · filed 2026-09-18&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 25 08:28 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1104038/000121465926011966/w9232628k.htm'&gt;Declares $1.50/share special cash dividend, conditioned on Open World merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 18 15:29 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1104038/000121465926011800/p9182618k.htm'&gt;Declares $0.15 special dividend tied to OpenWorld merger close&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

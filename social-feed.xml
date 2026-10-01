@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 19:40:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 19:46:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SGRP 📉 Delisting · Forced
+Forced Nasdaq delisting effective Oct 12, 2026
+effective 2026-10-12
+Mcap $19M · EV $52M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1004989/000135445726000934/0001354457-26-000934-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000934</guid>
+      <pubDate>Thu, 01 Oct 2026 14:46:45 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$LPBB 🔎 Strat Review · Strat Alts
 Seeks shareholder approval to extend business combination deadline to April 2027
@@ -1440,17 +1451,6 @@ Mcap $26M · EV $12M · Cons Disc</title>
       <guid isPermaLink="false">0001213900-26-105202</guid>
       <pubDate>Wed, 30 Sep 2026 14:47:41 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$KVACF 📉 Delisting · Forced
-Forced Nasdaq delisting effective Oct 12, 2026
-effective 2026-10-12
-Mcap $69M · EV $74M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1889983/000135445726000927/0001354457-26-000927-index.htm</link>
-      <guid isPermaLink="false">0001354457-26-000927</guid>
-      <pubDate>Wed, 30 Sep 2026 14:41:22 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
