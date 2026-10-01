@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 01:18:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:31:22 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · DMRC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2119322/000119312526409540/0001193125-26-409540-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-409540</guid>
+      <pubDate>Wed, 30 Sep 2026 20:31:16 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases DMRC stake to 18.5%; proposes board, capital structure changes</scanner:headline>
+      <scanner:shortName>Digimarc</scanner:shortName>
+      <scanner:price>5.31</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>DMRC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>111090000</scanner:marketCap>
+      <scanner:enterpriseValue>107290000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>3.41</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>4.52</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>48.95</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>4.45</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>75.39</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Increases DMRC stake to 18.5%; proposes board, capital structure changes&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ocho Investments LLC increased its beneficial ownership in Digimarc Corporation to 18.5% by acquiring an additional 3,675,000 shares at $4.04 per share for an aggregate of $14,847,000. The activist intends to engage with the board and management regarding board composition, capital structure, financing alternatives, and overall business strategy. They may also discuss M&amp;amp;A strategy and executive compensation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Digimarc Corporation provides digital identity and authentication solutions in the United States and internationally. The company offers software subscriptions and software development services. It also provides physical digimarc solutions for anti-counterfeiting, counterfeiting deterrence, product swap prevention, recycling, and secure gift cards; and digital digimarc solutions for internal compliance, leak detection, piracy prevention, provenance and authenticity, and royalty monitoring.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 18.5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.31 · Mkt cap $111.1M · EV $107.3M · Fwd EV/EBITDA 49.0x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2119322/000119312526409540/0001193125-26-409540-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DMRC&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7373) · fresh_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · HVII</title>
       <link>https://www.sec.gov/Archives/edgar/data/1846416/000149315226045190/0001493152-26-045190-index.htm</link>
@@ -16739,38 +16777,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2027262/000149315226043941/0001493152-26-043941-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FTRKD, FTRKF&lt;/b&gt; · 6-K · Amusement / Recreation (7900) · prefill_form:6-K · filed 2026-09-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚔️ Proxy Contest · EMPD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829794/000168316826007335/empery_defa14a.htm</link>
-      <guid isPermaLink="false">0000921895-26-002572</guid>
-      <pubDate>Wed, 23 Sep 2026 16:05:33 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>activist</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Faces proxy contest; urges WHITE card vote by Oct 14</scanner:headline>
-      <scanner:shortName>Empery Digital</scanner:shortName>
-      <scanner:price>2.90</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>EMPD</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>DFAN14A, DEFA14A x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>83490000</scanner:marketCap>
-      <scanner:enterpriseValue>135460000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Urges vote FOR 4-director slate at Empery Digital AGM Oct 14&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;ATG Capital, Empery Digital&amp;#39;s largest non-affiliated stockholder with 4.5M shares, released an investor presentation and urges stockholders to vote FOR its four nominees at the Oct 14 annual meeting. The Delaware Chancery Court found the board breached fiduciary duties in rejecting ATG&amp;#39;s nomination notice, and denied the board&amp;#39;s appeal on Sept 15. ATG also corrects what it calls false statements in the company&amp;#39;s communications.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Empery Digital Inc. engages in digital asset treasury business in the United States. The company was formerly known as Volcon, Inc. and changed its name to Empery Digital Inc. in July 2025. Empery Digital Inc. was incorporated in 2020 and is based in Round Rock, Texas.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-14 annual meeting&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.90 · Mkt cap $83.5M · EV $135.5M · Consumer Discretionary / Automobiles&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000092189526002572/0000921895-26-002572-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EMPD&lt;/b&gt; · DFAN14A · Non-Depository Credit (6199) · prefill_form:DFAN14A · filed 2026-09-17&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Sep 23 16:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000168316826007335/empery_defa14a.htm'&gt;Faces proxy contest; urges WHITE card vote by Oct 14&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 21 07:37 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000168316826007246/empery_defa14a.htm'&gt;Urges vote FOR 9 nominees vs ATG slate&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 17 15:54 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000092189526002572/dfan14a13914005_09172026.htm'&gt;Urges vote FOR 4-director slate at Empery Digital AGM Oct 14&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
