@@ -6,25 +6,56 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 10:15:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:17:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
+      <title>📈 Rights · BBD</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1160330/000129281426004764/bbd20260930_6k1.htm</link>
+      <guid isPermaLink="false">0001292814-26-004764</guid>
+      <pubDate>Thu, 01 Oct 2026 05:17:06 -0500</pubDate>
+      <category>RIGHTS_ISSUE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Auction of 16.06M unsubscribed shares from capital increase; minimum R$15.43/common</scanner:headline>
+      <scanner:shortName>BANK BRADESCO</scanner:shortName>
+      <scanner:price>3.52</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>BBD</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>35483590000</scanner:marketCap>
+      <scanner:fwdPE>6.01</scanner:fwdPE>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Auction of 16.06M unsubscribed shares from capital increase; minimum R$15.43/common&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Banco Bradesco S.A. will hold an auction on October 2, 2026, for 1,505,454 common shares and 14,553,057 preferred shares that remained unsubscribed from a prior capital increase. These shares represent 2.65% of the total shares issued in the capital increase. Minimum prices are R$15.43 per common share receipt and R$17.64 per preferred share receipt.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Banco Bradesco S.A., together with its subsidiaries, provides various banking products and services in Brazil and internationally. The company operates in two segments, Banking and Insurance. It engages in banking operations, including investment, national, international, and private banking, as well as investment fund management, consortium administration, middle market and corporate activities, and leasing.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; R$15.43 per common share receipt; R$17.64 per preferred share receipt&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 2.65% of capital increase shares&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Auction of unsubscribed shares on October 2, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.52 · Mkt cap $35.48B · Fwd P/E 6.0x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1160330/000129281426004764/0001292814-26-004764-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BBD, BBDO&lt;/b&gt; · 6-K · Depository Institutions (6022) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>🤝 Merger · Definitive · EMBJ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1355444/000129281426004774/embj20260930_6k1.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1355444/000129281426004766/embj20260930_6k.htm</link>
       <guid isPermaLink="false">0001292814-26-004774</guid>
-      <pubDate>Thu, 01 Oct 2026 05:15:51 -0500</pubDate>
+      <pubDate>Thu, 01 Oct 2026 05:16:43 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
       <category>6-K</category>
-      <scanner:headline>Seeks shareholder approval for merger of Embraer GPX Ltda.</scanner:headline>
+      <scanner:headline>Acquires Embraer GPX Ltda.; shareholder vote Oct 30, 2026</scanner:headline>
       <scanner:shortName>EMBRAER</scanner:shortName>
       <scanner:price>75.32</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
       <scanner:form>6-K</scanner:form>
       <scanner:sector>Industrials</scanner:sector>
       <scanner:ticker>EMBJ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>6-K x2</scanner:filingForms>
       <scanner:related />
       <scanner:marketCap>13391420000</scanner:marketCap>
       <scanner:enterpriseValue>14245000000</scanner:enterpriseValue>
@@ -40,7 +71,48 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-30&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $75.32 · Mkt cap $13.39B · EV $14.24B · Fwd P/E 19.4x · Fwd EV/EBITDA 13.2x · Industrials / Aerospace and Defense&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1355444/000129281426004774/0001292814-26-004774-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EMBJ&lt;/b&gt; · 6-K · Transportation Equipment (3721) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EMBJ&lt;/b&gt; · 6-K · Transportation Equipment (3721) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Oct 01 05:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1355444/000129281426004766/embj20260930_6k.htm'&gt;Acquires Embraer GPX Ltda.; shareholder vote Oct 30, 2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Oct 01 05:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1355444/000129281426004774/embj20260930_6k1.htm'&gt;Seeks shareholder approval for merger of Embraer GPX Ltda.&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · AFYA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1771007/000129281426004772/afya20260930_6k1.htm</link>
+      <guid isPermaLink="false">0001292814-26-004772</guid>
+      <pubDate>Thu, 01 Oct 2026 05:16:20 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Acquired by YDUQS in all-stock merger; pending antitrust approval</scanner:headline>
+      <scanner:shortName>Afya</scanner:shortName>
+      <scanner:price>12.04</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>AFYA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1065280000</scanner:marketCap>
+      <scanner:enterpriseValue>1480640000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.00</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.12</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>6.35</scanner:fwdPE>
+      <scanner:fwdEvEbitda>4.21</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.08</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>64.02</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by YDUQS in all-stock merger; pending antitrust approval&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited entered into a definitive merger agreement with YDUQS Participações S.A. for a business combination where Afya will merge into YDUQS. Afya shareholders will receive newly issued common shares of YDUQS, and YDUQS will be the surviving, publicly listed company. The transaction is subject to antitrust approval.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Afya Limited operates as a medical education group in Brazil. The company operates in three segments: Undergraduate, Continuing Education, and Medical Practice Solutions. The Undergraduate segment offers educational services through undergraduate courses related to medical school, health sciences, and other non-health undergraduate programs, including medicine, dentistry, nursing, radiology, psychology, pharmacy, physical education, physiotherapy, nutrition, biomedicine, business administration,…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; YDUQS Participações S.A.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Antitrust Approval&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $12.04 · Mkt cap $1.07B · EV $1.48B · Fwd P/E 6.3x · Fwd EV/EBITDA 4.2x · Consumer Discretionary / Diversified Consumer Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1771007/000129281426004772/0001292814-26-004772-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AFYA&lt;/b&gt; · 6-K · Education (8200) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
     </item>
     <item>
       <title>⚖️ Litigation · Settled · EC</title>
@@ -16766,68 +16838,6 @@
 &lt;p&gt;&lt;i&gt;Px $13.58 · Mkt cap $1.20B · EV $1.62B · Fwd P/E 7.2x · Fwd EV/EBITDA 4.6x · Consumer Discretionary / Diversified Consumer Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1771007/000129281426004684/0001292814-26-004684-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AFYA&lt;/b&gt; · 6-K · Education (8200) · prefill_form:6-K · filed 2026-09-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · CMCL</title>
-      <link>https://www.sec.gov/Archives/edgar/data/766011/000168316826007346/caledonia_6k.htm</link>
-      <guid isPermaLink="false">0001683168-26-007298</guid>
-      <pubDate>Thu, 24 Sep 2026 05:11:27 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>BlackRock crosses 5% voting rights; total 7.04%</scanner:headline>
-      <scanner:shortName>Caledonia Mining</scanner:shortName>
-      <scanner:price>24.14</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Basic Materials</scanner:sector>
-      <scanner:ticker>CMCL</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>6-K x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>466748807</scanner:marketCap>
-      <scanner:enterpriseValue>441489807</scanner:enterpriseValue>
-      <scanner:fwdPE>5.39</scanner:fwdPE>
-      <scanner:fwdEvEbitda>2.78</scanner:fwdEvEbitda>
-      <scanner:fwdEvSales>1.38</scanner:fwdEvSales>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Receives TR-1: BlackRock crosses 7% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received notification from BlackRock that it crossed the 7% threshold on September 21, 2026. BlackRock&amp;#39;s total position is 7.01% (4.94% direct voting rights + 2.07% via financial instruments), up from 6.98% previously. The change is a routine passive stake increase.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BlackRock, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.01%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $24.14 · Mkt cap $466.7M · EV $441.5M · Fwd P/E 5.4x · Fwd EV/EBITDA 2.8x · Fwd EV/Sales 1.4x · Basic Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/766011/000168316826007298/0001683168-26-007298-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CMCL&lt;/b&gt; · 6-K · Metal Mining (1040) · prefill_form:6-K · filed 2026-09-23&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Sep 24 05:11 · &lt;a href='https://www.sec.gov/Archives/edgar/data/766011/000168316826007346/caledonia_6k.htm'&gt;BlackRock crosses 5% voting rights; total 7.04%&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 23 05:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/766011/000168316826007298/caledonia_6k.htm'&gt;Receives TR-1: BlackRock crosses 7% stake&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · CSR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1466085/000143774926031092/irt20260826_s4.htm</link>
-      <guid isPermaLink="false">0001437749-26-031072</guid>
-      <pubDate>Thu, 24 Sep 2026 05:10:07 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4</category>
-      <scanner:headline>Acquires Centerspace for 3.800 IRT shares/share (14.7% premium)</scanner:headline>
-      <scanner:shortName>CENTERSPACE</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>CSR</scanner:ticker>
-      <scanner:filings>6</scanner:filings>
-      <scanner:filingForms>425 x3, 8-K x2, S-4</scanner:filingForms>
-      <scanner:related>IRT</scanner:related>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by IRT; merger structure amended to alternative&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Amended its merger agreement with Independence Realty Trust (IRT) on September 22, 2026, electing the alternative structure for the company merger, whereby Centerspace will merge into IRT Merger Sub instead of the reverse. The deal remains pending shareholder approval; no financial terms were disclosed in this filing.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Independence Realty Trust, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-08&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000114036126037454/0001140361-26-037454-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CSR&lt;/b&gt; · 425 · Holding / Investment Offices (6798) · prefill_form:425 · filed 2026-09-23&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (6)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;S-4 · Sep 24 05:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1466085/000143774926031092/irt20260826_s4.htm'&gt;Acquires Centerspace for 3.800 IRT shares/share (14.7% premium)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 23 16:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000114036126037453/ef20082596_8k.htm'&gt;Acquired by IRT; structure amended so IRT Merger Sub survives&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 23 16:22 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000114036126037452/ef20082551_form425.htm'&gt;Merger with Independence Realty Trust&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 23 16:22 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000114036126037454/ef20082596_425.htm'&gt;Acquired by IRT; merger structure amended to alternative&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 23 16:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1466085/000143774926031071/irt20260921c_8k.htm'&gt;Elects alternative structure for Centerspace merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 23 16:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1466085/000143774926031072/irt20260923_425.htm'&gt;Amends CSR merger to elect alternative structure&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer IRT also filed 425, 8-K, S-4&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

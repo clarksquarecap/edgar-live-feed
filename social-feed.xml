@@ -6,16 +6,36 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 10:15:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:17:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
+      <title>$BBD 📜 Rights Issue
+Auction of 16.06M unsubscribed shares from capital increase; minimum R$15.43/common
+Mcap $35B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1160330/000129281426004764/bbd20260930_6k1.htm</link>
+      <guid isPermaLink="false">0001292814-26-004764</guid>
+      <pubDate>Thu, 01 Oct 2026 05:17:06 -0500</pubDate>
+      <category>RIGHTS_ISSUE</category>
+    </item>
+    <item>
       <title>$EMBJ 🤝 Merger
-Seeks shareholder approval for merger of Embraer GPX Ltda.
+Acquires Embraer GPX Ltda.; shareholder vote Oct 30, 2026
 close 2026-10-31
 Mcap $13B · EV $14B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1355444/000129281426004774/embj20260930_6k1.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1355444/000129281426004766/embj20260930_6k.htm</link>
       <guid isPermaLink="false">0001292814-26-004774</guid>
-      <pubDate>Thu, 01 Oct 2026 05:15:51 -0500</pubDate>
+      <pubDate>Thu, 01 Oct 2026 05:16:43 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$AFYA 🤝 Merger
+Acquired by YDUQS in all-stock merger; pending antitrust approval
+YDUQS Participações · stock
+Mcap $1.1B · EV $1.5B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1771007/000129281426004772/afya20260930_6k1.htm</link>
+      <guid isPermaLink="false">0001292814-26-004772</guid>
+      <pubDate>Thu, 01 Oct 2026 05:16:20 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
