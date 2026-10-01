@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:47:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:48:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KARD 👀 Activist
+Perceptive Advisors reports 8.8% stake in Kardigan; notes legal proceedings
+Mcap $1.4B · EV $787M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2123613/000119312526410754/0001193125-26-410754-index.htm</link>
+      <guid isPermaLink="false">0001193125-26-410754</guid>
+      <pubDate>Thu, 01 Oct 2026 15:47:58 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$FBIO 🪙 Debt Restr.
+Repaid $15M outstanding principal on Oaktree credit facility; terminated agreement
+Mcap $71M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1429260/000110465926112845/fbio-20260930x8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112845</guid>
+      <pubDate>Thu, 01 Oct 2026 15:47:37 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$CDNL 🤝 Merger
 Acquires Allied Paving Contractors for $115M cash &amp; stock
@@ -1500,15 +1518,6 @@ Mcap $5.5B · EV $4.8B · Financials</title>
       <guid isPermaLink="false">0001193125-26-409121</guid>
       <pubDate>Wed, 30 Sep 2026 15:49:11 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$MSGS 🪓 Spinoff
-Approves spin-off of MSGS Spinco; record Oct 20, distribute Oct 26
-Mcap $10.0B · EV $11B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1636519/000119312526409143/d126791d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-409143</guid>
-      <pubDate>Wed, 30 Sep 2026 15:47:27 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
