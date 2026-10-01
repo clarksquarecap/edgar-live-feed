@@ -6,8 +6,84 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 12:04:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:06:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Recap · MSTR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526409863/mstr-20260930.htm</link>
+      <guid isPermaLink="false">0001193125-26-402802</guid>
+      <pubDate>Thu, 01 Oct 2026 07:06:14 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>recap</category>
+      <category>8-K</category>
+      <scanner:headline>Proposes daily preferred dividends; vote Oct 28; expected return of capital</scanner:headline>
+      <scanner:shortName>Strategy</scanner:shortName>
+      <scanner:price>158.60</scanner:price>
+      <scanner:subtype>recap</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>MSTR</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>DEFA14A, 8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>62094720000</scanner:marketCap>
+      <scanner:enterpriseValue>80858410000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>162.25</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>240.02</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>2.30</scanner:fwdPE>
+      <scanner:fwdEvGrossProfit>240.69</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>67.60</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Proposes amendment for daily dividends on preferred stock; vote Oct 28&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Proposes an amendment to its preferred equity instruments (Stretch, Strife, Strike, Stride) to accrue and pay daily dividends with calendar day record dates. The company believes this innovation will stabilize price, dampen volatility, and increase liquidity for its preferreds. Common shareholders will vote on the amendment at a Special Meeting by October 28, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Strategy Inc, together with its subsidiaries, operates as a bitcoin treasury company in the United States, Europe, the Middle East, Africa, and internationally. It offers investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed income instruments.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on October 28, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $158.60 · Mkt cap $62.09B · EV $80.86B · Fwd P/E 2.3x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1050446/000119312526402802/0001193125-26-402802-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MSTR, STRC, STRD, STRF, STRK&lt;/b&gt; · DEFA14A · Non-Depository Credit (6199) · prefill_form:DEFA14A · filed 2026-09-25&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Oct 01 07:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1050446/000119312526409863/mstr-20260930.htm'&gt;Proposes daily preferred dividends; vote Oct 28; expected return of capital&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 25 15:04 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1050446/000119312526402802/mstr-20260925.htm'&gt;Proposes amendment for daily dividends on preferred stock; vote Oct 28&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>📤 Divestiture · INIS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1038277/000143774926031655/inis20260930_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-031655</guid>
+      <pubDate>Thu, 01 Oct 2026 07:05:16 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells DUF6 Plant assets to Nano Nuclear Energy for $13.5M cash &amp; stock</scanner:headline>
+      <scanner:shortName>RADNOSTIX</scanner:shortName>
+      <scanner:price>0.0600</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>INIS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>29100000</scanner:marketCap>
+      <scanner:enterpriseValue>37120000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>3.31</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>6.15</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>6.15</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>53.79</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells DUF6 Plant assets to Nano Nuclear Energy for $13.5M cash &amp;amp; stock&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered an Asset Purchase Agreement to sell its depleted uranium deconversion and fluorine extraction plant assets to Nano Nuclear Energy Inc. and its subsidiary HALEU Energy Fuel Inc. for $9.5 million cash and $4 million in restricted shares of Nano Nuclear Energy common stock, totaling $13.5 million. The transaction is subject to customary closing conditions, including NRC approval for license transfer and the buyer acquiring fee simple title or a valid leasehold interest in the Hobbs Site. The agreement may be terminated if conditions are not met by the Outside Date, which is 120 days from September 28, 2026, extendable by 60 days.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Radnostix, Inc. manufactures and sells nuclear medicine calibration and reference standards, cobalt-60 products, sodium iodide I-131 drug product, and radiochemicals for clinical research and life sciences in the United States and internationally. It operates through five segments: Theranostics Products, Cobalt Products, Calibration &amp;amp; Reference Products, Medical Devices, and Fluorine Products.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nano Nuclear Energy Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 13.5M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; by Q1 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; NRC approval; Hobbs Site condition&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0600 · Mkt cap $29.1M · EV $37.1M · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1038277/000143774926031655/0001437749-26-031655-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;INIS&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Instruments / Medical Devices (3823) · 8k_tier1:1.01,7.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · XRPN</title>
       <link>https://www.sec.gov/Archives/edgar/data/2044009/000119312526409852/d32574d425.htm</link>
@@ -15044,43 +15120,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TPL&lt;/b&gt; · DEFA14A · Holding / Investment Offices (6792) · prefill_form:DEFA14A · filed 2026-09-25&lt;/p&gt;</description>
     </item>
     <item>
-      <title>💧 Capital Return · Recap · MSTR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526402802/mstr-20260925.htm</link>
-      <guid isPermaLink="false">0001193125-26-402802</guid>
-      <pubDate>Fri, 25 Sep 2026 15:04:42 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Proposes amendment for daily dividends on preferred stock; vote Oct 28</scanner:headline>
-      <scanner:shortName>Strategy</scanner:shortName>
-      <scanner:price>158.60</scanner:price>
-      <scanner:subtype>recap</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>MSTR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFA14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>62094720000</scanner:marketCap>
-      <scanner:enterpriseValue>80858410000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>162.25</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>240.02</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>2.30</scanner:fwdPE>
-      <scanner:fwdEvGrossProfit>240.69</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>67.60</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Proposes amendment for daily dividends on preferred stock; vote Oct 28&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Proposes an amendment to its preferred equity instruments (Stretch, Strife, Strike, Stride) to accrue and pay daily dividends with calendar day record dates. The company believes this innovation will stabilize price, dampen volatility, and increase liquidity for its preferreds. Common shareholders will vote on the amendment at a Special Meeting by October 28, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Strategy Inc, together with its subsidiaries, operates as a bitcoin treasury company in the United States, Europe, the Middle East, Africa, and internationally. It offers investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed income instruments.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on October 28, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $158.60 · Mkt cap $62.09B · EV $80.86B · Fwd P/E 2.3x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1050446/000119312526402802/0001193125-26-402802-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MSTR, STRC, STRD, STRF, STRK&lt;/b&gt; · DEFA14A · Non-Depository Credit (6199) · prefill_form:DEFA14A · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>🤝 Merger · Definitive · SKK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1991261/000149315226044299/form6-k.htm</link>
       <guid isPermaLink="false">0001493152-26-044299</guid>
@@ -16816,37 +16855,6 @@
 &lt;p&gt;&lt;i&gt;Px $118.25 · Mkt cap $6.00B · EV $8.55B · Fwd P/E 7.8x · Fwd EV/EBITDA 4.8x · Consumer Discretionary / Automobile Components&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/842162/000084216226000080/0000842162-26-000080-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LEA&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Transportation Equipment (3714) · 8k_tier1:8.01 · filed 2026-09-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BRVO</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1444839/000109181826000148/brvo-092426_8k.htm</link>
-      <guid isPermaLink="false">0001091818-26-000148</guid>
-      <pubDate>Thu, 24 Sep 2026 15:32:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquired by MWP via $3.16M preferred issuance; 77% control</scanner:headline>
-      <scanner:shortName>Bravo Multinational</scanner:shortName>
-      <scanner:price>0.0300</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>BRVO</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1210000</scanner:marketCap>
-      <scanner:enterpriseValue>1600000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by MWP via $3.16M preferred issuance; 77% control&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Issued 1,621,026 Series A preferred shares to MWP Entertainment Group, convertible into 162.1M common shares (77% of pro forma), for $3.16M in licenses, cash, and debt forgiveness. MWP also received an option to buy $1.5M more preferred. A shareholder rights plan was adopted, exempting MWP.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Bravo Multinational Incorporated focuses on business ventures in the entertainment, hospitality, and technology sectors. It plans to offer on-demand content, including movies, series, concerts, and original programming to viewers. The company was formerly known as Goldland Holdings Co. and changed its name to Bravo Multinational Incorporated in April 2016. Bravo Multinational Incorporated was incorporated in 1989 and is headquartered in Virginia Beach, Virginia.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; MWP Entertainment Group, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 3161000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 77.3%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Option exercise window through 2027-09-18&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0300 · Mkt cap $1.2M · EV $1.6M · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1444839/000109181826000148/0001091818-26-000148-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BRVO&lt;/b&gt; · 8-K · Items 1.01, 3.02, 3.03, 5.01, 5.02, 8.01 · Amusement / Recreation (7990) · 8k_tier1:1.01,3.03,5.01,8.01 · filed 2026-09-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
