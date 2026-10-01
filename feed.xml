@@ -6,8 +6,43 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:08:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:14:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Self Tender · PMM</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844790/000119312526410671/d149837dsctoi.htm</link>
+      <guid isPermaLink="false">0001193125-26-410671</guid>
+      <pubDate>Thu, 01 Oct 2026 15:14:43 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+      <category>SC TO-I</category>
+      <scanner:headline>Offers to buy back up to 100% of preferred shares at 92.875% of liquidation preference</scanner:headline>
+      <scanner:shortName>FRANKLIN MANAGED MUNICIPAL INCOME</scanner:shortName>
+      <scanner:price>5.44</scanner:price>
+      <scanner:subtype>self_tender</scanner:subtype>
+      <scanner:form>SC TO-I</scanner:form>
+      <scanner:sector>Financial Services</scanner:sector>
+      <scanner:ticker>PMM</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC TO-I</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>233013679</scanner:marketCap>
+      <scanner:enterpriseValue>351064053</scanner:enterpriseValue>
+      <scanner:evSalesLtm>17.79</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>17.79</scanner:evGrossProfitLtm>
+      <scanner:grossMarginLtm>100.00</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Offers to buy back up to 100% of preferred shares at 92.875% of liquidation preference&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Offers to purchase for cash up to 100% of its outstanding Remarketed Preferred Shares, Series A and Series C, at 92.875% of the liquidation preference of $100,000 per Series A share and $50,000 per Series C share, plus accrued unpaid dividends. The offer is conditioned on the issuance of new preferred shares and will terminate on October 29, 2026. The total cost is approximately $92,000,000.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 92.875% of $100,000 per Series A share and $50,000 per Series C share&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; Approximately $92,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 100%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Offer termination on October 29, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.44 · Mkt cap $233.0M · EV $351.1M · Financial Services / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/844790/000119312526410671/0001193125-26-410671-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PMM&lt;/b&gt; · SC TO-I · prefill_form:SC TO-I · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Special Dividend · Senior Credit Investments</title>
       <link>https://www.sec.gov/Archives/edgar/data/1959568/000119312526410623/ck0001959568-20260929.htm</link>
@@ -16801,38 +16836,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2063706/000110465926110920/0001104659-26-110920-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HEDCX&lt;/b&gt; · SCHEDULE 13D/A · fresh_13d · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚔️ Proxy Contest · CGC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1737927/000110465926110873/tm2626166d1_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-110873</guid>
-      <pubDate>Fri, 25 Sep 2026 13:11:21 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>acquisition</category>
-      <category>DEFA14A</category>
-      <scanner:headline>AGM adjourned to Oct 23 due to lack of quorum; continues vote solicitation</scanner:headline>
-      <scanner:shortName>Canopy Growth</scanner:shortName>
-      <scanner:price>0.9400</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>CGC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFA14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>397980000</scanner:marketCap>
-      <scanner:enterpriseValue>355210000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>81.05</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>6.10</scanner:fwdEvGrossProfit>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;AGM adjourned to Oct 23 due to lack of quorum; continues vote solicitation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Corporation announced its Annual General and Special Meeting of shareholders, scheduled for September 25, 2026, was convened and then adjourned due to a lack of requisite quorum. The meeting will reconvene on October 23, 2026, at 1:00 p.m. ET, with a new proxy voting deadline of 9:00 a.m. ET on the same day. The company will continue to solicit votes for the proposals outlined in its definitive proxy statement dated August 7, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Canopy Growth Corporation, together with its subsidiaries, engages in the production, distribution, and sale of cannabis and cannabis-related products for medical and adult use in Canada, Germany, the United States, and internationally. The company operates through two segments, Cannabis and Storz &amp;amp; Bickel.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-23&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.9400 · Mkt cap $398.0M · EV $355.2M · Fwd EV/EBITDA 81.0x · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1737927/000110465926110873/0001104659-26-110873-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CGC&lt;/b&gt; · DEFA14A · Chemicals / Pharma (2833) · prefill_form:DEFA14A · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
