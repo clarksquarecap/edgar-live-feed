@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:27:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:30:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GT 📤 Divestiture
+Closes Niagara Falls &amp; Bayport chemical facilities; $55M-$75M charges
+close 2027
+Mcap $1.4B · EV $8.9B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/42582/000162828026064270/gt-20260929.htm</link>
+      <guid isPermaLink="false">0001628280-26-064270</guid>
+      <pubDate>Thu, 01 Oct 2026 15:30:00 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$MAMK 🌍 Re-domicile
+Shareholders approve re-domestication to Delaware from BVI
+Mcap $216M · EV $221M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2008007/000121390026105793/ea0307295-6k_maxsmaking.htm</link>
+      <guid isPermaLink="false">0001213900-26-105793</guid>
+      <pubDate>Thu, 01 Oct 2026 15:28:46 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
+    <item>
+      <title>$UOKAF 📉 Delisting · Forced
+Forced Nasdaq delisting effective October 12
+effective 2026-10-12
+Mcap $610K · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1741534/000135445726000936/0001354457-26-000936-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000936</guid>
+      <pubDate>Thu, 01 Oct 2026 15:28:32 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$PMO 💧 Capital Return · Self-tender
 Offers to buy back all preferred shares at $23,218.75/share; expires Oct 29
@@ -1461,47 +1491,6 @@ Mcap $3M · EV $30K · Healthcare</title>
       <guid isPermaLink="false">0001104659-26-112334</guid>
       <pubDate>Wed, 30 Sep 2026 15:31:19 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$ZENA 🤝 Merger
-Acquires 5 businesses; signed offers for C$40M revenue in future deals
-Mcap $137M · EV $192M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1997403/000137647426000623/zt_6k.htm</link>
-      <guid isPermaLink="false">0001376474-26-000623</guid>
-      <pubDate>Wed, 30 Sep 2026 15:30:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$STNG 📤 Divestiture
-Sells 3 product tankers for $180.5M; purchases 4 newbuilds for $415.6M
-close 2026-12-31
-Mcap $3.8B · EV $2.7B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1483934/000162828026063997/stng6k-09302026.htm</link>
-      <guid isPermaLink="false">0001628280-26-063997</guid>
-      <pubDate>Wed, 30 Sep 2026 15:29:47 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$LPA 📤 Divestiture
-Sells Parque Logístico Lima Sur to FIBRA Prime for US$145M
-US$145.0 million deal
-Mcap $89M · EV $459M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1997711/000199771126000172/latampropertiesoftheameric.htm</link>
-      <guid isPermaLink="false">0001997711-26-000172</guid>
-      <pubDate>Wed, 30 Sep 2026 15:29:27 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SPKL 🤝 Merger
-Acquires ZincFive in $600M all-stock business combination
-600000000 deal · stock
-Mcap $100M · EV $104M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1884046/000110465926112345/spkl-20260929xs4.htm</link>
-      <guid isPermaLink="false">0001104659-26-112345</guid>
-      <pubDate>Wed, 30 Sep 2026 15:28:58 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
