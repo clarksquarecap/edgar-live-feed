@@ -6,8 +6,36 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 14:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:19:14 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Preliminary · RENI</title>
+      <link>https://www.otcmarkets.com/stock/RENI/news/537119</link>
+      <guid isPermaLink="false">OTC-537119</guid>
+      <pubDate>Thu, 01 Oct 2026 09:19:07 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+      <category>OTC</category>
+      <scanner:headline>Continues acquisition talks with multi-million dollar energy firm</scanner:headline>
+      <scanner:shortName>Resilient Energy</scanner:shortName>
+      <scanner:price>0.1700</scanner:price>
+      <scanner:subtype>preliminary</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>RENI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>OTC</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>8800000</scanner:marketCap>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Continues acquisition talks with multi-million dollar energy firm&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is continuing acquisition talks with an unnamed multi-million dollar energy firm. The nature of the potential transaction and specific terms were not disclosed. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Resilient Energy Inc. does not have significant operations. Previously, it was involved in the oil and gas business. The company is based in Houston, Texas.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Multi-Million Dollar Energy Firm&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.1700 · Mkt cap $8.8M · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RENI&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔎 Strategic Review · Formal Alternatives · QETA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1978528/000149315226045288/formdefr14a.htm</link>
@@ -16816,44 +16844,6 @@
 &lt;p&gt;&lt;i&gt;Px $59.38 · Mkt cap $1.97B · EV $1.42B · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/906709/000121390026103215/0001213900-26-103215-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NKTR&lt;/b&gt; · 8-K · Items 8.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Buyback Authorization · BILI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1723690/000119312526401540/d172127d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-401540</guid>
-      <pubDate>Fri, 25 Sep 2026 05:48:05 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-      <category>6-K</category>
-      <scanner:headline>Proposes off-market share buy-back; EGM vote Oct 28</scanner:headline>
-      <scanner:shortName>Bilibili</scanner:shortName>
-      <scanner:price>14.81</scanner:price>
-      <scanner:subtype>buyback_authorization</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>BILI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>6281770000</scanner:marketCap>
-      <scanner:enterpriseValue>4099670000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.89</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>2.39</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>13.54</scanner:fwdPE>
-      <scanner:fwdEvEbitda>6.42</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>2.39</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>37.01</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Proposes off-market share buy-back; EGM vote Oct 28&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced a proposed off-market share buy-back of its Class Y and Class Z ordinary shares. An Extraordinary General Meeting (EGM) is scheduled for October 28, 2026, for shareholders to vote on the proposal. The record date for EGM voting eligibility is October 9, 2026, Hong Kong time.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Bilibili Inc. provides online entertainment services for the young generations in the People’s Republic of China. It offers a range of digital content, including professional user generated videos (PUGV), mobile games, and value-added services, such as live broadcasting, occupationally generated videos, audio drama on Maoer, comics on Bilibili Comic, PUGV content in fan charging program and premium courses, and Bilibili premium courses and community-based avatar decoration.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $14.81 · Mkt cap $6.28B · EV $4.10B · Fwd P/E 13.5x · Fwd EV/EBITDA 6.4x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1723690/000119312526401540/0001193125-26-401540-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BILI, BLBLF&lt;/b&gt; · 6-K · Business Services (7374) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
