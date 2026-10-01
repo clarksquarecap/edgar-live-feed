@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 21:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:27:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BMEZ 💧 Capital Return · Self-tender
+Launches self-tender for up to 5% of shares at 98% of NAV; expires Nov 18</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1785971/000119312526410845/d86344dsctoc.htm</link>
+      <guid isPermaLink="false">0001193125-26-410845</guid>
+      <pubDate>Thu, 01 Oct 2026 16:27:03 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$HHDS 💧 Capital Return · Self-tender
 Completes self-tender for 135.38M shares at $0.20/share, ~18.7% of stock
@@ -1508,26 +1517,6 @@ Mcap $39B · EV $49B · Industrials</title>
       <pubDate>Wed, 30 Sep 2026 16:28:39 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$RIG 🤝 Merger
-Acquires Valaris for 15.235 shares/Valaris share; HSR cleared; close Q4 2026
-Valaris Limited · stock
-Mcap $5.8B · EV $10B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1451505/000110465926112406/tm2626691d2_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-038107</guid>
-      <pubDate>Wed, 30 Sep 2026 16:27:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MSTR 🪙 Debt Restr.
-Seeks shareholder vote on changes to preferred stock terms at Special Meeting
-Mcap $62B · EV $81B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526409242/mstr-20260930.htm</link>
-      <guid isPermaLink="false">0001193125-26-402937</guid>
-      <pubDate>Wed, 30 Sep 2026 16:27:06 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
