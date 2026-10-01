@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 16:12:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:13:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · NMG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1649752/000110465926112720/tm2626798d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112720</guid>
+      <pubDate>Thu, 01 Oct 2026 11:13:14 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Pays Q3 accrued interest with 283,265 common shares to Investissement Québec</scanner:headline>
+      <scanner:shortName>Nouveau Monde Graphite</scanner:shortName>
+      <scanner:price>1.18</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>NMG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>397860000</scanner:marketCap>
+      <scanner:enterpriseValue>88050000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Pays Q3 accrued interest with 283,265 common shares to Investissement Québec&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced it will pay US$342,751 in accrued interest for Q3 2026 on its unsecured convertible note to Investissement Québec by issuing 283,265 common shares at US$1.21 per share. This related-party transaction, involving a holder of over 10% of the company&amp;#39;s securities, is exempt from minority holder approval as the value does not exceed 25% of market capitalization. The shares will be delivered at the note&amp;#39;s maturity, conversion, or redemption.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nouveau Monde Graphite Inc. engages in the acquisition, exploration, development, and evaluation of mineral properties in Quebec, Canada. It primarily explores for graphite. The company’s flagship property is the 100% owned Matawinie graphite property including 176 mining claims covering an area of 9,264 hectares located in Quebec. It also involved in the real estate and trading activities, as well as active anode material operations.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Investissement Québec&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 1.21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 342751&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.18 · Mkt cap $397.9M · EV $88.0M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1649752/000110465926112720/0001104659-26-112720-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NMG&lt;/b&gt; · 6-K · Metal Mining (1090) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · SNY</title>
       <link>https://www.sec.gov/Archives/edgar/data/1121404/000119312526410232/d143371d6k.htm</link>
@@ -16806,39 +16837,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2027 annual meeting vote&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1551047/000090266426003930/0000902664-26-003930-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BPRE&lt;/b&gt; · DFAN14A · prefill_form:DFAN14A · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · FMS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1333141/000110465926110608/tm2626162d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-110608</guid>
-      <pubDate>Fri, 25 Sep 2026 06:56:29 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Exits China PD business, discontinues 4008A system; expects €110M Q3 charge</scanner:headline>
-      <scanner:shortName>Fresenius Medical Care AG</scanner:shortName>
-      <scanner:price>22.35</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>FMS</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>11865870000</scanner:marketCap>
-      <scanner:enterpriseValue>24257860000</scanner:enterpriseValue>
-      <scanner:fwdPE>9.38</scanner:fwdPE>
-      <scanner:fwdEvEbitda>6.02</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>4.16</scanner:fwdEvGrossProfit>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Exits China PD business, discontinues 4008A system; expects €110M Q3 charge&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced refinements to its China commercial strategy, including discontinuing production and sales of its 4008A hemodialysis system locally and exiting its China peritoneal dialysis (PD) business. These portfolio optimization actions are expected to result in one-time costs of approximately €110 million, primarily from impairment charges, scrappage, and termination costs. The charge will be recognized as a special item in the third quarter of 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Fresenius Medical Care AG provides dialysis and related services for individuals with renal diseases in Germany, the United States, and internationally. The company offers dialysis treatment and related laboratory and diagnostic services through a network of outpatient dialysis clinics; materials, training, and patient support services comprising clinical monitoring, follow-up assistance, and arranging for delivery of the supplies to the patient’s residence; and dialysis services under contract …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q3 2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Q3 2026 cost recognition&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $22.35 · Mkt cap $11.87B · EV $24.26B · Fwd P/E 9.4x · Fwd EV/EBITDA 6.0x · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1333141/000110465926110608/0001104659-26-110608-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FMS, FMCQF&lt;/b&gt; · 6-K · Health Services (8090) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
