@@ -6,8 +6,41 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 13:23:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:24:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · PLMK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2030482/000121390026105485/ea0307325-8k425_plum4.htm</link>
+      <guid isPermaLink="false">0001213900-26-105490</guid>
+      <pubDate>Thu, 01 Oct 2026 08:24:19 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires CTR; target secures strategic investor agreements for capital structure</scanner:headline>
+      <scanner:shortName>Plum Acquisition Corp. IV</scanner:shortName>
+      <scanner:price>10.72</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>PLMK</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>425, 8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>114730000</scanner:marketCap>
+      <scanner:enterpriseValue>115240000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Business combination with CTR progresses; target secures strategic investor agreements&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Plum Acquisition Corp. IV and Controlled Thermal Resources Holdings Inc. announced that CTR entered into a series of agreements with strategic investors to materially strengthen its capital structure. These agreements are in connection with their previously announced business combination. Plum IV and CTR intend to file a registration statement on Form S-4, which will include a preliminary proxy statement for the proposed transactions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Plum Acquisition Corp. IV does not have significant operations. It intends to effect a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2024 and is based in San Francisco, California.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Controlled Thermal Resources Holdings Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on proposed transactions&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.72 · Mkt cap $114.7M · EV $115.2M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2030482/000121390026105490/0001213900-26-105490-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PLMK, PLMKU, PLMKW&lt;/b&gt; · 425 · Utilities (4911) · prefill_form:425 · filed 2026-10-01&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Oct 01 08:24 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2030482/000121390026105485/ea0307325-8k425_plum4.htm'&gt;Acquires CTR; target secures strategic investor agreements for capital structure&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Oct 01 08:22 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2030482/000121390026105490/ea0307325-8k425_plum4.htm'&gt;Business combination with CTR progresses; target secures strategic investor agreements&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · QTEX</title>
       <link>https://www.sec.gov/Archives/edgar/data/1837493/000118518526004479/qtrex6k100126.htm</link>
@@ -46,37 +79,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.6800 · Mkt cap $38.0M · EV $30.1M · Fwd P/E 6.8x · Fwd EV/EBITDA 4.3x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1837493/000118518526004479/0001185185-26-004479-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QTEX&lt;/b&gt; · 6-K · Instruments / Medical Devices (3841) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · PLMK</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2030482/000121390026105490/ea0307325-8k425_plum4.htm</link>
-      <guid isPermaLink="false">0001213900-26-105490</guid>
-      <pubDate>Thu, 01 Oct 2026 08:22:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Business combination with CTR progresses; target secures strategic investor agreements</scanner:headline>
-      <scanner:shortName>Plum Acquisition Corp. IV</scanner:shortName>
-      <scanner:price>10.72</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>PLMK</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>114730000</scanner:marketCap>
-      <scanner:enterpriseValue>115240000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Business combination with CTR progresses; target secures strategic investor agreements&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Plum Acquisition Corp. IV and Controlled Thermal Resources Holdings Inc. announced that CTR entered into a series of agreements with strategic investors to materially strengthen its capital structure. These agreements are in connection with their previously announced business combination. Plum IV and CTR intend to file a registration statement on Form S-4, which will include a preliminary proxy statement for the proposed transactions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Plum Acquisition Corp. IV does not have significant operations. It intends to effect a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was incorporated in 2024 and is based in San Francisco, California.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Controlled Thermal Resources Holdings Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote on proposed transactions&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.72 · Mkt cap $114.7M · EV $115.2M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2030482/000121390026105490/0001213900-26-105490-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PLMK, PLMKU, PLMKW&lt;/b&gt; · 425 · Utilities (4911) · prefill_form:425 · filed 2026-10-01&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · FTCO</title>
