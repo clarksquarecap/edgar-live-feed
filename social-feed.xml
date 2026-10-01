@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 21:30:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:36:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SAIQ 🤝 Merger
+Completes business combination with Columbus Acquisition Corp; new shares trade as SAIQ on Nasdaq Oct 2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2101411/000121390026105923/ea0307430-6k_wisesat.htm</link>
+      <guid isPermaLink="false">0001213900-26-102547</guid>
+      <pubDate>Thu, 01 Oct 2026 16:36:20 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CLAR 📍 Stake
 Kanders reports 20.2% stake in Clarus Corp
@@ -1516,16 +1525,6 @@ Mcap $51M · EV $37M · Tech</title>
       <guid isPermaLink="false">0001213900-26-103517</guid>
       <pubDate>Wed, 30 Sep 2026 16:39:36 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$CHTR 💧 Capital Return · Buyback
-Enters repurchase agreement with Cox Enterprises for ongoing share buybacks
-Mcap $13B · EV $114B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1091667/000110465926112404/0001104659-26-112404-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-112404</guid>
-      <pubDate>Wed, 30 Sep 2026 16:31:52 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
