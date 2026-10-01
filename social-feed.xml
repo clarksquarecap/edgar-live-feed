@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 11:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 11:18:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KDP 🪓 Spinoff
+Names Russ Torres CEO of future Global Coffee Co. ahead of early 2027 separation
+Mcap $43B · EV $84B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1418135/000119312526409799/d87955d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-409799</guid>
+      <pubDate>Thu, 01 Oct 2026 06:18:09 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$OVV 💧 Capital Return · Buyback
 Renews 10% share buyback program on TSX/NYSE
@@ -1378,37 +1387,6 @@ Mcap $148M · EV $147M · Financials</title>
       <pubDate>Wed, 30 Sep 2026 06:36:31 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GENMF 🤝 Merger
-Acquires Elton Resources Corp. shares
-Mcap $125M · EV $103M · Materials</title>
-      <link>https://www.otcmarkets.com/stock/GENMF/news/536872</link>
-      <guid isPermaLink="false">OTC-536872</guid>
-      <pubDate>Wed, 30 Sep 2026 06:17:41 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ONAR 🤝 Merger
-Acquires Advertise Purple; adds $17.1M revenue, $4.4M net income
-empty
-Mcap $3M · EV $9M · Comms</title>
-      <link>https://www.otcmarkets.com/stock/ONAR/news/536881</link>
-      <guid isPermaLink="false">0001477932-26-005919</guid>
-      <pubDate>Wed, 30 Sep 2026 06:17:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SEED 📤 Divestiture
-Sells 70.5% stake in Xinjiang Originbo to Hunan Xindaxin for RMB108M (~$15M)
-to Hunan Xindaxin Limited · RMB 108,000,000 deal · close 2027-06-30
-Mcap $11M · EV $10M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1321851/000110465926112107/tm2626674d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112107</guid>
-      <pubDate>Wed, 30 Sep 2026 06:16:39 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>

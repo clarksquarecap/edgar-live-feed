@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 11:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 11:18:15 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · KDP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1418135/000119312526409799/d87955d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-409799</guid>
+      <pubDate>Thu, 01 Oct 2026 06:18:09 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Names Russ Torres CEO of future Global Coffee Co. ahead of early 2027 separation</scanner:headline>
+      <scanner:shortName>Keurig Dr Pepper</scanner:shortName>
+      <scanner:price>31.47</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>KDP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>43478390000</scanner:marketCap>
+      <scanner:enterpriseValue>84094390000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>4.19</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.21</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>13.09</scanner:fwdPE>
+      <scanner:fwdEvEbitda>11.35</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>8.21</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>50.96</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Names Russ Torres CEO of future Global Coffee Co. ahead of early 2027 separation&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced the appointment of Russ Torres as Chief Executive Officer of its Coffee Operating Unit and future Global Coffee Co., the standalone entity expected from the previously announced separation of its coffee and beverage businesses. Mr. Torres&amp;#39;s appointment is effective November 3, 2026, and the separation is targeted for early 2027. Global Coffee Co. is projected to generate approximately $16 billion in annual revenue and serve consumers in over 100 markets.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Keurig Dr Pepper Inc. owns, manufactures, and distributors beverages and single serve brewing systems in the United States and internationally. The company operates through three segments: U.S. Refreshment Beverages, U.S. Coffee, and International. It manufactures and distributes branded concentrates, syrup, and finished beverages, as well as sales of owned brands and third-party brands; tea, cocoa, and other products; and offers finished goods relating to K-Cup pods, single serve brewers, speci…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; early 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Separation targeted early 2027&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $31.47 · Mkt cap $43.48B · EV $84.09B · Fwd P/E 13.1x · Fwd EV/EBITDA 11.3x · Consumer Staples / Beverages&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1418135/000119312526409799/0001193125-26-409799-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KDP&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Food &amp;amp; Kindred (2080) · 8k_tier1:8.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Buyback Authorization · OVV</title>
       <link>https://www.sec.gov/Archives/edgar/data/1792580/000119312526409792/ovv-20261001.htm</link>
@@ -16814,40 +16852,6 @@
 &lt;p&gt;&lt;i&gt;Px $15.50 · Mkt cap $553.2M · EV $466.5M · Fwd P/E 39.4x · Fwd EV/EBITDA 3.0x · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2136387/000110465926110396/0001104659-26-110396-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;REAX&lt;/b&gt; · SCHEDULE 13D · Real Estate (6531) · fresh_13d · filed 2026-09-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · CRMT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/799850/000117184326006216/f8k_092426.htm</link>
-      <guid isPermaLink="false">0001171843-26-006114</guid>
-      <pubDate>Thu, 24 Sep 2026 15:15:50 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Extends Silver Point waiver to Oct 1; strategic review active</scanner:headline>
-      <scanner:shortName>AMERICAS CARMART</scanner:shortName>
-      <scanner:price>1.74</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>CRMT</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>14840000</scanner:marketCap>
-      <scanner:enterpriseValue>659060000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>23.06</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Extends Silver Point waiver to Sept 24; strategic review active&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;America&amp;#39;s Car-Mart amended its credit agreement with Silver Point Finance, obtaining a waiver of existing defaults through September 24, 2026. The company is in default on financial covenants and is evaluating strategic alternatives, including financing, recapitalization, or restructuring, overseen by a special committee. Discussions remain active with third parties and lenders.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; America&amp;#39;s Car-Mart, Inc., through its subsidiaries, operates as an automotive retailer in the United States. It sells older model used vehicles; and offers financing solutions to customers who purchase vehicles at its dealerships. The company was formerly known as Crown Group, Inc. and changed its name to America&amp;#39;s Car-Mart, Inc. in April 2002. America&amp;#39;s Car-Mart, Inc. was founded in 1981 and is headquartered in Rogers, Arkansas.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Silver Point Finance, LLC (lenders)&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Waiver expires Sept 24, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.74 · Mkt cap $14.8M · EV $659.1M · Fwd EV/EBITDA 23.1x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/799850/000117184326006114/0001171843-26-006114-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CRMT&lt;/b&gt; · 8-K · Items 1.01, 8.01 · Retail; Auto (5500) · 8k_tier1:1.01,8.01 · filed 2026-09-18&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 24 15:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/799850/000117184326006216/f8k_092426.htm'&gt;Extends Silver Point waiver to Oct 1; strategic review active&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 18 15:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/799850/000117184326006114/f8k_091826.htm'&gt;Extends Silver Point waiver to Sept 24; strategic review active&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
