@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 14:19:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:26:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$RENI 🤝 Merger · Preliminary
@@ -1429,16 +1429,6 @@ Mcap $2.0B · EV $2.6B · Utilities</title>
       <pubDate>Wed, 30 Sep 2026 09:36:41 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$E 💧 Capital Return · Buyback
-Purchased 3.14M treasury shares for €75M (0.10% of capital) in late Sept
-Mcap $80B · EV $111B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1002242/000117494726000909/form6k-36385_eni.htm</link>
-      <guid isPermaLink="false">0001174947-26-000909</guid>
-      <pubDate>Wed, 30 Sep 2026 09:24:34 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
