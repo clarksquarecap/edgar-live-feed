@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 01:04:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:18:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · HVII</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1846416/000149315226045190/0001493152-26-045190-index.htm</link>
+      <guid isPermaLink="false">0001493152-26-045190</guid>
+      <pubDate>Wed, 30 Sep 2026 20:17:58 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Receives 13D from NCCS Management disclosing 4.6% stake</scanner:headline>
+      <scanner:shortName>ONE Nuclear Energy</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>HVII</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Receives 13D from NCCS Management disclosing 4.6% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a Schedule 13D filing from NCCS Management, LLC, disclosing a 4.6% stake in the company. NCCS Management, along with New Circle Capital Solutions LP, reported beneficial ownership of 4,987,103 shares of common stock. The stake is based on 108,258,979 shares outstanding as of September 23, 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; NCCS Management, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 4.6%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1846416/000149315226045190/0001493152-26-045190-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HVII, ONEN, HVIIR, HVIIU&lt;/b&gt; · SCHEDULE 13D · Utilities (4911) · fresh_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔐 Going Private · SSTI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1351636/000114036126038126/0001140361-26-038126-index.htm</link>
@@ -16747,30 +16771,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EMPD&lt;/b&gt; · DFAN14A · Non-Depository Credit (6199) · prefill_form:DFAN14A · filed 2026-09-17&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Sep 23 16:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000168316826007335/empery_defa14a.htm'&gt;Faces proxy contest; urges WHITE card vote by Oct 14&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 21 07:37 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000168316826007246/empery_defa14a.htm'&gt;Urges vote FOR 9 nominees vs ATG slate&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 17 15:54 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000092189526002572/dfan14a13914005_09172026.htm'&gt;Urges vote FOR 4-director slate at Empery Digital AGM Oct 14&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · SUI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/912593/000091259326000256/sui-20260922.htm</link>
-      <guid isPermaLink="false">0000912593-26-000256</guid>
-      <pubDate>Wed, 23 Sep 2026 15:53:25 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Sells UK business to Panther Bidco for ~$1.05B cash</scanner:headline>
-      <scanner:shortName>SUN COMMUNITIES</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>SUI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Sells UK business to Panther Bidco for ~$1.05B cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Completed the sale of its UK business (Park Holidays) to Panther Bidco Limited, an affiliate of Aermont Capital LLP, for cash consideration of approximately £772.3 million (~$1.05 billion). Net proceeds to the company were approximately $1.03 billion after closing and transaction costs. The sale was previously announced on May 21, 2026.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Panther Bidco Limited (affiliate of Aermont Capital LLP)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; £772.3M (~$1.05B)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-21&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/912593/000091259326000256/0000912593-26-000256-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SUI&lt;/b&gt; · 8-K · Items 2.01, 7.01, 9.01 · Holding / Investment Offices (6798) · 8k_tier1:2.01,7.01 · filed 2026-09-23&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
