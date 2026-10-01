@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:17:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NBIS 🤝 Merger
+Acquires Inferize to strengthen Token Factory AI inference stack
+empty
+Mcap $65B · EV $67B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1513845/000110465926112824/tm2626792d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112824</guid>
+      <pubDate>Thu, 01 Oct 2026 15:17:16 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$TKLF 🪙 Debt Restr.
+Completes JPY510M debt-to-equity swap with director's entity
+Mcap $6M · EV $79M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1836242/000121390026105763/ea0307099-6k_tokyo.htm</link>
+      <guid isPermaLink="false">0001213900-26-105763</guid>
+      <pubDate>Thu, 01 Oct 2026 15:16:43 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$SORA 🤝 Merger · Preliminary
 Signs non-binding MOU with Plume Network for tokenisation JV
@@ -1462,26 +1482,6 @@ Mcap $256M · EV $410M · Industrials</title>
       <pubDate>Wed, 30 Sep 2026 15:17:37 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$BDMD 🪙 Debt Restr.
-Secures $4.35M senior OID convertible note with 1st-priority lien on US assets
-Mcap $34M · EV $52M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1982444/000110465926112324/tm2626149d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112324</guid>
-      <pubDate>Wed, 30 Sep 2026 15:17:14 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$CMMB 🤝 Merger
-Acquired by Scipher Medicine in reverse merger; combined entity to list as SCIP
-stock · close Q4 2026
-Mcap $12M · EV $5M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1534248/000117891326004676/zk2636151.htm</link>
-      <guid isPermaLink="false">0001178913-26-004676</guid>
-      <pubDate>Wed, 30 Sep 2026 15:16:30 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>

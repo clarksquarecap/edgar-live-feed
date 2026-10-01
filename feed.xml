@@ -6,8 +6,83 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:17:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · NBIS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1513845/000110465926112824/tm2626792d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112824</guid>
+      <pubDate>Thu, 01 Oct 2026 15:17:16 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Acquires Inferize to strengthen Token Factory AI inference stack</scanner:headline>
+      <scanner:shortName>Nebius Group</scanner:shortName>
+      <scanner:price>232.05</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>NBIS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>64654430000</scanner:marketCap>
+      <scanner:enterpriseValue>66808630000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>49.30</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>66.39</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>17.31</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>66.79</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>74.26</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Inferize to strengthen Token Factory AI inference stack&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced it has acquired Inferize, an inference optimization company. Inferize&amp;#39;s technology and team will join Nebius Token Factory to improve capacity utilization and token economics for large AI models. The terms of the transaction were not disclosed.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Nebius Group N.V., a technology company, engages in building full-stack infrastructure to service the global AI industry in the United States, the United Kingdom, and internationally. It offers Nebius builds full-stack infrastructure for AI, including large-scale GPU clusters, cloud platforms, and tools and services for developers.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Inferize&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $232.05 · Mkt cap $64.65B · EV $66.81B · Fwd EV/EBITDA 17.3x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1513845/000110465926112824/0001104659-26-112824-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NBIS&lt;/b&gt; · 6-K · Business Services (7370) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙 Debt Restr. · TKLF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1836242/000121390026105763/ea0307099-6k_tokyo.htm</link>
+      <guid isPermaLink="false">0001213900-26-105763</guid>
+      <pubDate>Thu, 01 Oct 2026 15:16:43 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Completes JPY510M debt-to-equity swap with director's entity</scanner:headline>
+      <scanner:shortName>Tokyo Lifestyle</scanner:shortName>
+      <scanner:price>1.53</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>TKLF</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>6430000</scanner:marketCap>
+      <scanner:enterpriseValue>79150000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.21</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.82</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>2.83</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>7.53</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Completes JPY510M debt-to-equity swap with director&amp;#39;s entity&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed a debt-to-equity swap, extinguishing JPY510,000,000 (~$3.32M) of loan principal from Tokushin G.K., an entity owned by its Representative Director, in exchange for 12,106,893 ordinary shares. The company also received JPY58,838,000 (~$0.38M) cash from the director for 1,396,755 ordinary shares. These transactions strengthen the capital base and reduce debt burden.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Tokyo Lifestyle Co., Ltd. engages in the retail and wholesale of beauty, health, sundry, and other products in Japan, China, Hong Kong, the United States, Canada, Thailand, and the United Kingdom. The company sells its products under its flagship brand, Tokyo Lifestyle. It offers cosmetics, including foundation, powder, concealer, makeup remover, eyeliner, eye internal, brow powder, brow pencil, mascara, lip gloss, lipstick, and nail polish; skincare products comprising facial cleansers, whitening…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Tokushin G.K. and Mei Kanayama&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; JPY568,838,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.53 · Mkt cap $6.4M · EV $79.2M · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1836242/000121390026105763/0001213900-26-105763-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TKLF&lt;/b&gt; · 6-K · Retail; Misc (5990) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Preliminary · SORA</title>
       <link>https://www.sec.gov/Archives/edgar/data/2033515/000121390026105764/ea0305939-6k_asia.htm</link>
@@ -16803,52 +16878,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $3.91 · Mkt cap $13.0M · EV $13.2M · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CRTD&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · G-Private Equity</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2060316/000119312526402689/d293378d1012ga.htm</link>
-      <guid isPermaLink="false">0001193125-26-402689</guid>
-      <pubDate>Fri, 25 Sep 2026 14:21:21 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>spinco_new</category>
-      <category>10-12G/A</category>
-      <scanner:headline>Registers Common Class Limited Partnership Units for public trading</scanner:headline>
-      <scanner:shortName>G-Private Equity</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>10-12G/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker />
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>10-12G/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Registers Common Class Limited Partnership Units for public trading&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Filed an amendment to its Form 10 registration statement to register its Common Class Limited Partnership Units for public trading. This action provides current public information in anticipation of future Section 12(g) registration requirements.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2060316/000119312526402689/0001193125-26-402689-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;10-12G/A · Securities / Broker-Dealers (6282) · prefill_form:10-12G · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · G-INFRA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2060192/000119312526402669/d238739d1012ga.htm</link>
-      <guid isPermaLink="false">0001193125-26-402669</guid>
-      <pubDate>Fri, 25 Sep 2026 14:09:43 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>spinco_new</category>
-      <category>10-12G/A</category>
-      <scanner:headline>Registers Common Class Limited Partnership Units for public trading</scanner:headline>
-      <scanner:shortName>G-INFRA</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>10-12G/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker />
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>10-12G/A</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Registers Common Class Limited Partnership Units for public trading&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Filed an amendment to its Form 10 registration statement to register its Common Class Limited Partnership Units. This action provides current public information in anticipation of the company being required to register under Section 12(g) of the Exchange Act, preparing for future public trading.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2060192/000119312526402669/0001193125-26-402669-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;10-12G/A · Securities / Broker-Dealers (6282) · prefill_form:10-12G · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
