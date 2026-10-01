@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:21:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:22:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · TKLF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1836242/000121390026105762/0001213900-26-105762-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-105763</guid>
+      <pubDate>Thu, 01 Oct 2026 15:21:47 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases stake to 69.3% via debt-to-equity swap</scanner:headline>
+      <scanner:shortName>Tokyo Lifestyle</scanner:shortName>
+      <scanner:price>1.53</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>TKLF</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>6-K, SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>6430000</scanner:marketCap>
+      <scanner:enterpriseValue>79150000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.21</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.82</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>2.83</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>7.53</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Completes JPY510M debt-to-equity swap with director&amp;#39;s entity&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed a debt-to-equity swap, extinguishing JPY510,000,000 (~$3.32M) of loan principal from Tokushin G.K., an entity owned by its Representative Director, in exchange for 12,106,893 ordinary shares. The company also received JPY58,838,000 (~$0.38M) cash from the director for 1,396,755 ordinary shares. These transactions strengthen the capital base and reduce debt burden.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Tokyo Lifestyle Co., Ltd. engages in the retail and wholesale of beauty, health, sundry, and other products in Japan, China, Hong Kong, the United States, Canada, Thailand, and the United Kingdom. The company sells its products under its flagship brand, Tokyo Lifestyle. It offers cosmetics, including foundation, powder, concealer, makeup remover, eyeliner, eye internal, brow powder, brow pencil, mascara, lip gloss, lipstick, and nail polish; skincare products comprising facial cleansers, whitening…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Tokushin G.K. and Mei Kanayama&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; JPY568,838,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.53 · Mkt cap $6.4M · EV $79.2M · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1836242/000121390026105763/0001213900-26-105763-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TKLF&lt;/b&gt; · 6-K · Retail; Misc (5990) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SCHEDULE 13D/A · Oct 01 15:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1836242/000121390026105762/0001213900-26-105762-index.htm'&gt;Increases stake to 69.3% via debt-to-equity swap&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Oct 01 15:16 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1836242/000121390026105763/ea0307099-6k_tokyo.htm'&gt;Completes JPY510M debt-to-equity swap with director&amp;#39;s entity&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · CPHC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1672909/000139834426017759/0001398344-26-017759-index.htm</link>
@@ -292,43 +331,6 @@
 &lt;p&gt;&lt;i&gt;Px $232.05 · Mkt cap $64.65B · EV $66.81B · Fwd EV/EBITDA 17.3x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1513845/000110465926112824/0001104659-26-112824-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NBIS&lt;/b&gt; · 6-K · Business Services (7370) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · TKLF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1836242/000121390026105763/ea0307099-6k_tokyo.htm</link>
-      <guid isPermaLink="false">0001213900-26-105763</guid>
-      <pubDate>Thu, 01 Oct 2026 15:16:43 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Completes JPY510M debt-to-equity swap with director's entity</scanner:headline>
-      <scanner:shortName>Tokyo Lifestyle</scanner:shortName>
-      <scanner:price>1.53</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>TKLF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>6430000</scanner:marketCap>
-      <scanner:enterpriseValue>79150000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.21</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>2.82</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>2.83</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>7.53</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Completes JPY510M debt-to-equity swap with director&amp;#39;s entity&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Completed a debt-to-equity swap, extinguishing JPY510,000,000 (~$3.32M) of loan principal from Tokushin G.K., an entity owned by its Representative Director, in exchange for 12,106,893 ordinary shares. The company also received JPY58,838,000 (~$0.38M) cash from the director for 1,396,755 ordinary shares. These transactions strengthen the capital base and reduce debt burden.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Tokyo Lifestyle Co., Ltd. engages in the retail and wholesale of beauty, health, sundry, and other products in Japan, China, Hong Kong, the United States, Canada, Thailand, and the United Kingdom. The company sells its products under its flagship brand, Tokyo Lifestyle. It offers cosmetics, including foundation, powder, concealer, makeup remover, eyeliner, eye internal, brow powder, brow pencil, mascara, lip gloss, lipstick, and nail polish; skincare products comprising facial cleansers, whitening…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Tokushin G.K. and Mei Kanayama&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; JPY568,838,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-10&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.53 · Mkt cap $6.4M · EV $79.2M · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1836242/000121390026105763/0001213900-26-105763-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TKLF&lt;/b&gt; · 6-K · Retail; Misc (5990) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Preliminary · SORA</title>
