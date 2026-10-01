@@ -6,25 +6,62 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 21:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:20:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
+      <title>💧 Capital Return · Self Tender · HHDS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1661458/000110465926112895/tm2623323d11_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112895</guid>
+      <pubDate>Thu, 01 Oct 2026 16:20:40 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+      <category>8-K</category>
+      <scanner:headline>Completes self-tender for 135.38M shares at $0.20/share, ~18.7% of stock</scanner:headline>
+      <scanner:shortName>Highlands REIT</scanner:shortName>
+      <scanner:price>0.1000</scanner:price>
+      <scanner:subtype>self_tender</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Real Estate</scanner:sector>
+      <scanner:ticker>HHDS</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>74070000</scanner:marketCap>
+      <scanner:enterpriseValue>172720000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>4.66</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.49</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>8.49</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>54.87</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Completes self-tender for 135.38M shares at $0.20/share, ~18.7% of stock&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced the final results of its self-tender offer to purchase up to 125,000,000 shares of its common stock. The offer expired on September 29, 2026, and was oversubscribed. The company accepted 135,380,970.82434 shares at $0.20 per share, representing approximately 18.7% of outstanding shares, for an aggregate cost of approximately $27.1 million.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Highlands REIT, Inc. is a corporation with a portfolio of investment properties including multi-family, retail and office properties, a correctional facility and unimproved land. Prior to April 28, 2016, Highlands was a wholly owned subsidiary of InvenTrust Properties Corp. (formerly known as Inland American Real Estate Trust, Inc.), its former parent. Unless stated otherwise or the context otherwise requires references to the (Company) refer to Highlands and its consolidated subsidiaries.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; $0.20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $27.1M&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 18.7%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.1000 · Mkt cap $74.1M · EV $172.7M · Real Estate / Diversified REITs&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1661458/000110465926112895/0001104659-26-112895-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HHDS&lt;/b&gt; · 8-K · Items 8.01 · Holding / Investment Offices (6798) · 8k_tier1:8.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>🤝 Merger · Definitive · ON</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1097864/000114036126038297/ef20083030_formdefa14a.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1097864/000114036126038294/ef20083030_8k.htm</link>
       <guid isPermaLink="false">0001140361-26-038297</guid>
-      <pubDate>Thu, 01 Oct 2026 16:19:18 -0500</pubDate>
+      <pubDate>Thu, 01 Oct 2026 16:20:29 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Amends Synaptics merger to $123/share cash, $5.7B total; close mid-2027</scanner:headline>
+      <category>8-K</category>
+      <scanner:headline>Amends Synaptics acquisition to $123/share cash after unsolicited bid; secures $2.45B financing</scanner:headline>
       <scanner:shortName>ON SEMICONDUCTOR</scanner:shortName>
       <scanner:price>80.08</scanner:price>
       <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
+      <scanner:form>8-K</scanner:form>
       <scanner:sector>Information Technology</scanner:sector>
       <scanner:ticker>ON</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>DEFA14A, 8-K</scanner:filingForms>
       <scanner:related />
       <scanner:marketCap>29926390000</scanner:marketCap>
       <scanner:enterpriseValue>30790690000</scanner:enterpriseValue>
@@ -45,7 +82,9 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; mid-2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Synaptics shareholder vote&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $80.08 · Mkt cap $29.93B · EV $30.79B · Fwd P/E 19.6x · Fwd EV/EBITDA 13.4x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038297/0001140361-26-038297-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ON&lt;/b&gt; · DEFA14A · Electronic Equipment (3674) · prefill_form:DEFA14A · filed 2026-10-01&lt;/p&gt;</description>
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ON&lt;/b&gt; · DEFA14A · Electronic Equipment (3674) · prefill_form:DEFA14A · filed 2026-10-01&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Oct 01 16:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038294/ef20083030_8k.htm'&gt;Amends Synaptics acquisition to $123/share cash after unsolicited bid; secures $2.45B financing&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Oct 01 16:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038297/ef20083030_formdefa14a.htm'&gt;Amends Synaptics merger to $123/share cash, $5.7B total; close mid-2027&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · SZZL</title>
@@ -16861,40 +16900,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.01 · Mkt cap $18.6M · EV $21.1M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1378140/000149315226044336/0001493152-26-044336-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;OPTT&lt;/b&gt; · 8-K · Items 1.01, 2.03, 3.02, 7.01, 9.01 · Utilities (4911) · 8k_tier1:1.01,7.01 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Buyback Authorization · CEPU</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1717161/000129281426004710/cepu20260925_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004710</guid>
-      <pubDate>Fri, 25 Sep 2026 15:58:05 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-      <category>6-K</category>
-      <scanner:headline>Repurchases 100,000 shares for ARS 200.76M</scanner:headline>
-      <scanner:shortName>CENTRAL PUERTO</scanner:shortName>
-      <scanner:price>13.20</scanner:price>
-      <scanner:subtype>buyback_authorization</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Utilities</scanner:sector>
-      <scanner:ticker>CEPU</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2011400000</scanner:marketCap>
-      <scanner:enterpriseValue>2576370000</scanner:enterpriseValue>
-      <scanner:fwdPE>6.37</scanner:fwdPE>
-      <scanner:fwdEvEbitda>5.17</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>6.71</scanner:fwdEvGrossProfit>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Repurchases 100,000 shares for ARS 200.76M&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Repurchased 100,000 of its own common shares on September 25, 2026, for a total cash amount of ARS 200,763,464. The average price per share was ARS 2,007.63. The transaction did not exceed 25% of the average daily trading volume over the prior 90 business days.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Central Puerto S.A. engages in the electric power generation activities in Argentina. It operates in three segments: Electric Power Generation From Conventional Sources, Electric Power Generation From Renewable Sources and Forest Activity, and Management and Operations of Thermal Plants. The company’s power generation assets include combined cycle, gas and steam turbine, co-generation, hydroelectric, wind turbines, and solar panels.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; ARS 2,007.63&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; ARS 200,763,464&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $13.20 · Mkt cap $2.01B · EV $2.58B · Fwd P/E 6.4x · Fwd EV/EBITDA 5.2x · Utilities / Independent Power and Renewable Electricity Producers&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1717161/000129281426004710/0001292814-26-004710-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CEPU&lt;/b&gt; · 6-K · Utilities (4911) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,16 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 21:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:20:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
+      <title>$HHDS 💧 Capital Return · Self-tender
+Completes self-tender for 135.38M shares at $0.20/share, ~18.7% of stock
+Mcap $74M · EV $173M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1661458/000110465926112895/tm2623323d11_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112895</guid>
+      <pubDate>Thu, 01 Oct 2026 16:20:40 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
+    <item>
       <title>$ON 🤝 Merger
-Amends Synaptics merger to $123/share cash, $5.7B total; close mid-2027
+Amends Synaptics acquisition to $123/share cash after unsolicited bid; secures $2.45B financing
 Synaptics Incorporated · cash
 Mcap $30B · EV $31B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1097864/000114036126038297/ef20083030_formdefa14a.htm</link>
+      <link>https://www.sec.gov/Archives/edgar/data/1097864/000114036126038294/ef20083030_8k.htm</link>
       <guid isPermaLink="false">0001140361-26-038297</guid>
-      <pubDate>Thu, 01 Oct 2026 16:19:18 -0500</pubDate>
+      <pubDate>Thu, 01 Oct 2026 16:20:29 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -1518,15 +1528,6 @@ Mcap $62B · EV $81B · Tech</title>
       <guid isPermaLink="false">0001193125-26-402937</guid>
       <pubDate>Wed, 30 Sep 2026 16:27:06 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$PTPI 🧊 Liquidation
-Enters Assignment for Benefit of Creditors; ceases operations
-Mcap $190K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1815903/000110465926112399/tm2626722d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112399</guid>
-      <pubDate>Wed, 30 Sep 2026 16:19:55 -0500</pubDate>
-      <category>LIQUIDATION</category>
     </item>
   </channel>
 </rss>
