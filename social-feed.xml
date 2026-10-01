@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 13:06:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:15:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WAMFF 🪙 Debt Restr.
+Settles C$1.2M management fee debt with officers via share issuance
+Mcap $49M · EV $47M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1893899/000106299326005129/form8k.htm</link>
+      <guid isPermaLink="false">0001062993-26-005129</guid>
+      <pubDate>Thu, 01 Oct 2026 08:14:56 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$ACVA 🎯 Tender
+Tender offer by Copart for $10.50 cash/share extended to Oct 7
+cash · close 2026-10-07
+Mcap $1.8B · EV $1.8B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526409981/d45203dsc14d9a.htm</link>
+      <guid isPermaLink="false">0001193125-26-406039</guid>
+      <pubDate>Thu, 01 Oct 2026 08:14:04 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+    </item>
     <item>
       <title>$LRHC 🪙 Debt Restr.
 Restructures debt/liabilities for Series F Preferred; acquires GPUs
@@ -158,16 +177,6 @@ Mcap $870M · EV $637M · Healthcare</title>
       <pubDate>Thu, 01 Oct 2026 07:20:11 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$ACVA 🎯 Tender
-Acquired by Copart for $10.50/share cash; tender offer extended to Oct 7
-cash · close 2026-10-07
-Mcap $1.8B · EV $1.8B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526409871/d113384dsctota.htm</link>
-      <guid isPermaLink="false">0001193125-26-406039</guid>
-      <pubDate>Thu, 01 Oct 2026 07:12:33 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
     <item>
       <title>$MSTR 💧 Capital Return · Recap

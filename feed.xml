@@ -6,8 +6,80 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 13:06:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:15:02 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · WAMFF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1893899/000106299326005129/form8k.htm</link>
+      <guid isPermaLink="false">0001062993-26-005129</guid>
+      <pubDate>Thu, 01 Oct 2026 08:14:56 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Settles C$1.2M management fee debt with officers via share issuance</scanner:headline>
+      <scanner:shortName>Alaska Silver</scanner:shortName>
+      <scanner:price>0.4800</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>WAMFF</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>49180000</scanner:marketCap>
+      <scanner:enterpriseValue>46550000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Settles C$1.2M management fee debt with officers via share issuance&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Issued 1,509,710 common shares at C$0.82 per share to certain officers to settle approximately C$1.2 million in outstanding management fee debt. The company stated this debt settlement allows it to preserve cash resources for ongoing and planned operations. This transaction was previously disclosed in a May 19, 2026 news release.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Alaska Silver Corp. engages in the acquisition, exploration, and evaluation of mineral properties in the United States. It primarily explores for gold, silver, molybdenum, copper, lead, and zinc deposits. The company was formerly known as Western Alaska Minerals Corp. and changed its name to Alaska Silver Corp. in April 2025. Alaska Silver Corp. is headquartered in Vancouver, Canada.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; officers&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.4800 · Mkt cap $49.2M · EV $46.5M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1893899/000106299326005129/0001062993-26-005129-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WAMFF&lt;/b&gt; · 8-K · Items 5.02, 7.01, 9.01 · Metal Mining (1040) · 8k_tier1:7.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🎯 Tender · ACVA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526409981/d45203dsc14d9a.htm</link>
+      <guid isPermaLink="false">0001193125-26-406039</guid>
+      <pubDate>Thu, 01 Oct 2026 08:14:04 -0500</pubDate>
+      <category>TENDER_OFFER</category>
+      <category>tender_offer</category>
+      <category>SC 14D9/A</category>
+      <scanner:headline>Tender offer by Copart for $10.50 cash/share extended to Oct 7</scanner:headline>
+      <scanner:shortName>ACV Auctions</scanner:shortName>
+      <scanner:price>10.46</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SC 14D9/A</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>ACVA</scanner:ticker>
+      <scanner:filings>4</scanner:filings>
+      <scanner:filingForms>SC TO-T/A x2, SC 14D9/A x2</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1776190000</scanner:marketCap>
+      <scanner:enterpriseValue>1783630000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.23</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.30</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>37.54</scanner:fwdPE>
+      <scanner:fwdEvEbitda>19.92</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>8.30</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>26.81</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Copart for $10.50/share cash; HSR refiled, lawsuits pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is the target of a tender offer by Apple Merger Sub, Inc., a wholly-owned subsidiary of Copart, Inc., for $10.50 per share in cash. Copart refiled its HSR notification on September 28, 2026, with the waiting period now expected to expire on October 13, 2026. Three shareholder lawsuits have been filed against ACV and its board, alleging disclosure deficiencies and seeking to enjoin the transaction.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ACV Auctions Inc. provides a wholesale auction marketplace to facilitate business-to-business used vehicle sales between a selling and buying dealership. The company offers marketplace platform includes digital marketplace that connects buyers and sellers by providing auctions, which facilitates real-time transactions of wholesale vehicles; Run List for pre-filtering and pre-screening of vehicles up to 24 hours prior to an auction taking place; ACV transportation service to enable the buyers to …&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Copart, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $10.50&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR waiting period expires Oct 13, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.46 · Mkt cap $1.78B · EV $1.78B · Fwd P/E 37.5x · Fwd EV/EBITDA 19.9x · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/0001193125-26-406039-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACVA&lt;/b&gt; · SC TO-T/A · Business Services (7389) · prefill_form:SC TO-T · filed 2026-09-29&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SC 14D9/A · Oct 01 08:14 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526409981/d45203dsc14d9a.htm'&gt;Tender offer by Copart for $10.50 cash/share extended to Oct 7&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-T/A · Oct 01 07:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526409871/d113384dsctota.htm'&gt;Acquired by Copart for $10.50/share cash; tender offer extended to Oct 7&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC 14D9/A · Sep 29 07:22 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526406053/d104484dsc14d9a.htm'&gt;Receives $10.50/share cash tender offer from Copart; HSR refiled&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-T/A · Sep 29 07:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/d126618dsctota.htm'&gt;Acquired by Copart for $10.50/share cash; HSR refiled, lawsuits pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · LRHC</title>
       <link>https://www.sec.gov/Archives/edgar/data/1879403/000121390026105473/ea0307162-8k_larosa.htm</link>
@@ -552,47 +624,6 @@
 &lt;p&gt;&lt;i&gt;Px $26.00 · Mkt cap $869.6M · EV $637.1M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1778922/000177892226000049/0001778922-26-000049-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SGP&lt;/b&gt; · 8-K · Items 7.01, 8.01, 9.01 · Instruments / Medical Devices (3841) · 8k_tier1:7.01,8.01 · filed 2026-10-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🎯 Tender · ACVA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526409871/d113384dsctota.htm</link>
-      <guid isPermaLink="false">0001193125-26-406039</guid>
-      <pubDate>Thu, 01 Oct 2026 07:12:33 -0500</pubDate>
-      <category>TENDER_OFFER</category>
-      <category>tender_offer</category>
-      <category>SC TO-T/A</category>
-      <scanner:headline>Acquired by Copart for $10.50/share cash; tender offer extended to Oct 7</scanner:headline>
-      <scanner:shortName>ACV Auctions</scanner:shortName>
-      <scanner:price>10.46</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SC TO-T/A</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>ACVA</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>SC TO-T/A x2, SC 14D9/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1776190000</scanner:marketCap>
-      <scanner:enterpriseValue>1783630000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>2.23</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>8.30</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>37.54</scanner:fwdPE>
-      <scanner:fwdEvEbitda>19.92</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>8.30</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>26.81</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Copart for $10.50/share cash; HSR refiled, lawsuits pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is the target of a tender offer by Apple Merger Sub, Inc., a wholly-owned subsidiary of Copart, Inc., for $10.50 per share in cash. Copart refiled its HSR notification on September 28, 2026, with the waiting period now expected to expire on October 13, 2026. Three shareholder lawsuits have been filed against ACV and its board, alleging disclosure deficiencies and seeking to enjoin the transaction.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ACV Auctions Inc. provides a wholesale auction marketplace to facilitate business-to-business used vehicle sales between a selling and buying dealership. The company offers marketplace platform includes digital marketplace that connects buyers and sellers by providing auctions, which facilitates real-time transactions of wholesale vehicles; Run List for pre-filtering and pre-screening of vehicles up to 24 hours prior to an auction taking place; ACV transportation service to enable the buyers to …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Copart, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $10.50&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-13&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR waiting period expires Oct 13, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.46 · Mkt cap $1.78B · EV $1.78B · Fwd P/E 37.5x · Fwd EV/EBITDA 19.9x · Industrials / Commercial Services and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/0001193125-26-406039-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ACVA&lt;/b&gt; · SC TO-T/A · Business Services (7389) · prefill_form:SC TO-T · filed 2026-09-29&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SC TO-T/A · Oct 01 07:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526409871/d113384dsctota.htm'&gt;Acquired by Copart for $10.50/share cash; tender offer extended to Oct 7&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC 14D9/A · Sep 29 07:22 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526406053/d104484dsc14d9a.htm'&gt;Receives $10.50/share cash tender offer from Copart; HSR refiled&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-T/A · Sep 29 07:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1637873/000119312526406039/d126618dsctota.htm'&gt;Acquired by Copart for $10.50/share cash; HSR refiled, lawsuits pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>💧 Capital Return · Recap · MSTR</title>
@@ -16818,37 +16849,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.40 · Mkt cap $42.8M · EV $38.1M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2010499/000149315226044188/0001493152-26-044188-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DGNX&lt;/b&gt; · 6-K · Business Services (7374) · prefill_form:6-K · filed 2026-09-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SSAC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2081300/000119312526401170/d157093d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-401170</guid>
-      <pubDate>Thu, 24 Sep 2026 16:23:48 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>425</category>
-      <scanner:headline>Acquires Mobilewalla in $250M business combination</scanner:headline>
-      <scanner:shortName>SPACSphere Acquisition</scanner:shortName>
-      <scanner:price>10.12</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>425</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>SSAC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>425</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>243130000</scanner:marketCap>
-      <scanner:enterpriseValue>242900000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Mobilewalla in $250M business combination&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced a $250 million business combination with Mobilewalla, a data and AI company. The deal was announced in June 2026 and is pending. The podcast discusses Mobilewalla&amp;#39;s data asset and readiness for public markets.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SPACSphere Acquisition Corp. is a blank check company focuses on effecting a merger, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses. The company was incorporated in 2025 and is based in Sacramento, California.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Mobilewalla&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $250 million&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; June 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.12 · Mkt cap $243.1M · EV $242.9M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2081300/000119312526401170/0001193125-26-401170-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SSAC, SSACR, SSACU, SSACW&lt;/b&gt; · 425 · Business Services (7372) · prefill_form:425 · filed 2026-09-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
