@@ -6,8 +6,47 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 20:21:18 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CPHC 👀 Activist
+Faces Gate City Capital activist with 9.35% stake; proposes board/op changes
+Mcap $81M · EV $62M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1672909/000139834426017759/0001398344-26-017759-index.htm</link>
+      <guid isPermaLink="false">0001398344-26-017759</guid>
+      <pubDate>Thu, 01 Oct 2026 15:21:11 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$RNAZ 🪙 Debt Restr.
+Secures waiver for convertible note amortization event with $841K prepayment
+Mcap $29M · EV $187M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1829635/000110465926112826/tm2626839d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112826</guid>
+      <pubDate>Thu, 01 Oct 2026 15:20:53 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$PSKY 🤝 Merger
+Appoints Ynon Kreiz Co-CEO ahead of Warner Bros. Discovery merger close
+empty
+Mcap $11B · EV $27B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2041610/000110465926112829/tm2626659d2_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-111034</guid>
+      <pubDate>Thu, 01 Oct 2026 15:20:42 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$HOPE 🤝 Merger
+Completes acquisition of SMBC MANUBANK's Commercial Banking Unit
+Mcap $1.7B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1128361/000112836126000049/hope-20261001.htm</link>
+      <guid isPermaLink="false">0001128361-26-000049</guid>
+      <pubDate>Thu, 01 Oct 2026 15:20:31 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CCS 🪙 Debt Restr.
 Amends credit agreement, increases commitments to $1.2B, extends maturity to 2030
@@ -1364,16 +1403,6 @@ Mcap $1.9B · EV $2.0B · Industrials</title>
       <category>DIVESTITURE</category>
     </item>
     <item>
-      <title>$PSKY 🤝 Merger
-Clears WBD merger antitrust, WGA lawsuits; no-close order modified
-Mcap $11B · EV $27B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2041610/000110465926112347/tm2626659d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111034</guid>
-      <pubDate>Wed, 30 Sep 2026 15:35:21 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
       <title>$VRM 🪙 Debt Restr.
 Subsidiary Vroom Automotive issues $20M preferred units to repay obligations
 Mcap $50M · EV $834M · Financials</title>
@@ -1472,16 +1501,6 @@ Mcap $3M · EV $2M · Tech</title>
       <guid isPermaLink="false">0001185185-26-004439</guid>
       <pubDate>Wed, 30 Sep 2026 15:22:21 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$FANG 👀 Activist
-Amends Stockholders Agreement, reducing Stephens board seats based on stake
-SGF FANG Holdings, LP · 10%-25% stake
-Mcap $52B · EV $70B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1539838/000110465926112325/tm2626600d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112325</guid>
-      <pubDate>Wed, 30 Sep 2026 15:21:05 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
     </item>
   </channel>
 </rss>
