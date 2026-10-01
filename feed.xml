@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 15:46:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:05:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · PTNM</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2046573/000135445726000933/0001354457-26-000933-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000933</guid>
+      <pubDate>Thu, 01 Oct 2026 11:04:59 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <scanner:headline>Forced Nasdaq delisting effective Oct 12, 2026</scanner:headline>
+      <scanner:shortName>Pitanium</scanner:shortName>
+      <scanner:price>10.39</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>25-NSE</scanner:form>
+      <scanner:sector>Consumer Cyclical</scanner:sector>
+      <scanner:ticker>PTNM</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>25-NSE</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>239099875</scanner:marketCap>
+      <scanner:enterpriseValue>239677661</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>secondary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Oct 12, 2026&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Pitanium Ltd&amp;#39;s Class A Ordinary Shares will be removed from listing on the Nasdaq Stock Market, effective October 12, 2026. Nasdaq Staff determined the company no longer qualified for listing under Rule IM-5101-4. The shares were suspended on July 16, 2026, and the delisting determination became final on that date.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nasdaq Stock Market LLC&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-17&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-12&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-12&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.39 · Mkt cap $239.1M · EV $239.7M · Consumer Cyclical / Specialty Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2046573/000135445726000933/0001354457-26-000933-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PTNM&lt;/b&gt; · 25-NSE · Chemicals / Pharma (2844) · prefill_form:25-NSE · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Special Dividend · LAGOBDC</title>
       <link>https://www.sec.gov/Archives/edgar/data/2043759/000119312526410180/ck0002043759-20260930.htm</link>
@@ -16809,43 +16839,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BACC, BACCR, BACCU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-25&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 25 06:37 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004321/bacc8k425092426.htm'&gt;Progresses Blockfusion business combination; shareholder vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 25 06:36 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2059654/000118518526004322/bacc8k425092426.htm'&gt;Acquires Blockfusion USA in definitive business combination; shareholder vote pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · HBNB</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2054507/000121390026103218/ea0306663-6k_hotel101.htm</link>
-      <guid isPermaLink="false">0001213900-26-103218</guid>
-      <pubDate>Fri, 25 Sep 2026 06:37:33 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Sells 780 Hotel101 units to consortium for ~$205M; includes Niseko, Madrid</scanner:headline>
-      <scanner:shortName>Hotel101 Global</scanner:shortName>
-      <scanner:price>4.72</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>HBNB</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1104660000</scanner:marketCap>
-      <scanner:enterpriseValue>1200580000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>15.82</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>37.00</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>37.45</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>42.77</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Sells 780 Hotel101 units to consortium for ~$205M; includes Niseko, Madrid&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced its subsidiaries entered agreements to sell 780 Hotel101 units to DD Hotel101 Worldwide One Pte. Ltd., a third-party investment consortium, for an expected total contract price of approximately US$205 million. The units include 280 at Hotel101-Niseko (Japan) and 200 at Hotel101-Madrid (Spain). An additional 300 units at Hotel101-Libis (Philippines) were acquired from an affiliate for $33 million. The transaction was reviewed and approved by the Company’s Audit Committee and Board of Directors.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Hotel101 Global Holdings Corp. operates prop-tech hospitality platform internationally. It is involved in the pre-sales of units from each hotel’s construction phase; and long-term recurring revenue derived from day-to-day hotel operations. The company is based in Singapore, Singapore. Hotel101 Global Holdings Corp. operates as a subsidiary of DoubleDragon Corporation.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; DD Hotel101 Worldwide One Pte. Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 205000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $4.72 · Mkt cap $1.10B · EV $1.20B · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2054507/000121390026103218/0001213900-26-103218-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HBNB&lt;/b&gt; · 6-K · Hotels / Lodging (7011) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

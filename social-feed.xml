@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 15:46:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:05:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PTNM 📉 Delisting · Forced
+Forced Nasdaq delisting effective Oct 12, 2026
+effective 2026-10-12
+Mcap $239M · EV $240M · Consumer Cycli</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2046573/000135445726000933/0001354457-26-000933-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000933</guid>
+      <pubDate>Thu, 01 Oct 2026 11:04:59 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$LAGOBDC 💧 Capital Return · Special Div
 Declares $0.89/share cash distribution; total $5.6M</title>
@@ -1439,16 +1450,6 @@ Mcap $270K · EV $440K · Cons Disc</title>
       <guid isPermaLink="false">0001096906-26-001488</guid>
       <pubDate>Wed, 30 Sep 2026 11:27:36 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$TSEOQ 🔎 Strat Review · Strat Alts
-Convenes EGM to address net assets below 50% of called-up capital
-Mcap $480K · EV $3.0B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1519061/000110465926112217/tse-20260930x8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112217</guid>
-      <pubDate>Wed, 30 Sep 2026 11:03:47 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
