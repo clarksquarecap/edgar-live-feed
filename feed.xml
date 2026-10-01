@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 00:51:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:04:24 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · SSTI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1351636/000177235126000012/0001772351-26-000012-index.htm</link>
+      <guid isPermaLink="false">0001772351-26-000012</guid>
+      <pubDate>Wed, 30 Sep 2026 20:04:17 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Acquired by Transom Capital affiliates via tender offer; offer to commence by Oct 19</scanner:headline>
+      <scanner:shortName>SOUNDTHINKING</scanner:shortName>
+      <scanner:price>5.47</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>SSTI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>72010000</scanner:marketCap>
+      <scanner:enterpriseValue>71030000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.73</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.42</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>4.98</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>1.47</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>50.99</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Transom Capital affiliates via tender offer; offer to commence by Oct 19&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive merger agreement on September 28, 2026, with Transom Signal AcquireCo, LLC and Merger Sub, affiliates of Transom Capital Public Fund LP. The agreement provides for a tender offer to acquire all outstanding shares, to commence no later than October 19, 2026. Veradace Capital Management, which holds a 15.8% stake, previously filed a 13D indicating a belief that changes were necessary for the Issuer.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SoundThinking, Inc., a public safety technology company, provides data-driven solutions and strategic advisory services for law enforcement, security teams, and civic leadership. Its SafetySmart platform that includes data-driven tools comprising ShotSpotter, an outdoor gunshot detection, location, and alerting system; CrimeTracer, an agency-wide crime data and intelligence platform that enables investigators, analysts, patrol officers and command staff to search through criminal justice records…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Transom Capital Public Fund LP&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Tender offer commencement by 2026-10-19&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.47 · Mkt cap $72.0M · EV $71.0M · Fwd EV/EBITDA 5.0x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1351636/000177235126000012/0001772351-26-000012-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SSTI&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7372) · fresh_13d · filed 2026-09-30&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · XPOF</title>
       <link>https://www.sec.gov/Archives/edgar/data/1802156/000092189526002688/0000921895-26-002688-index.htm</link>
@@ -16719,30 +16757,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1906324/000190632426000036/0001906324-26-000036-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;QDEL&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Chemicals / Pharma (2835) · 8k_tier1:1.01 · filed 2026-09-23&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · WLDN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1370450/000110465926110002/tm2625947d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-110002</guid>
-      <pubDate>Wed, 23 Sep 2026 15:39:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires Mantis Intermediate Holdings for $285M cash</scanner:headline>
-      <scanner:shortName>Willdan Group</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>WLDN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Acquires Mantis Intermediate Holdings for $285M cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Through its wholly owned subsidiary Willdan Energy Solutions, Inc., entered into a Membership Interest Purchase Agreement to acquire 100% of Mantis Intermediate Holdings, LLC from Mantis NewCo, LLC for a base purchase price of $285M in cash, subject to working capital and other adjustments. The transaction is expected to close on October 30, 2026, subject to HSR clearance and other customary conditions. Willdan has provided an unconditional guarantee of Energy Solutions&amp;#39; obligations under the agreement.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Mantis NewCo, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $285,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 100%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR waiting period expiration; closing expected Oct 30, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1370450/000110465926110002/0001104659-26-110002-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WLDN&lt;/b&gt; · 8-K · Items 1.01, 9.01 · Engineering / Accounting (8711) · 8k_tier1:1.01 · filed 2026-09-23&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
