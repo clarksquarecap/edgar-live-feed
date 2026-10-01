@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 10:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:26:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · SMTI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/714256/000121390026105390/ea0307287-8k_sanara.htm</link>
+      <guid isPermaLink="false">0001213900-26-105390</guid>
+      <pubDate>Thu, 01 Oct 2026 05:21:08 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Shareholders approve MiMedx merger; HSR waiting period expires Oct 15</scanner:headline>
+      <scanner:shortName>Sanara MedTech</scanner:shortName>
+      <scanner:price>35.14</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>SMTI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>322870000</scanner:marketCap>
+      <scanner:enterpriseValue>355970000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>3.24</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>3.48</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>94.84</scanner:fwdPE>
+      <scanner:fwdEvEbitda>18.65</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>3.48</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>93.03</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Shareholders approve MiMedx merger; HSR waiting period expires Oct 15&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Shareholders approved the Agreement and Plan of Merger with MiMedx Group, Inc. at a special meeting on September 30, 2026. Under the agreement, Sanara will become a wholly-owned subsidiary of MiMedx. The HSR Act waiting period, which was refiled on September 15, 2026, is expected to expire on October 15, 2026, with other closing conditions remaining.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sanara MedTech Inc., a medical technology company, develops, markets, and distributes surgical solutions to physicians, hospitals, clinics, and post-acute care settings in the United States. The company offers CellerateRX Surgical, a medical hydrolysate of Type I bovine collagen indicated for the management of surgical, traumatic, and partial- and full-thickness wounds, as well as first- and second-degree burns.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; MiMedx Group, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-29&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $35.14 · Mkt cap $322.9M · EV $356.0M · Fwd P/E 94.8x · Fwd EV/EBITDA 18.6x · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/714256/000121390026105390/0001213900-26-105390-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SMTI&lt;/b&gt; · 8-K · Items 5.07, 8.01 · Instruments / Medical Devices (3842) · 8k_tier1:8.01 · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · ZDPY</title>
       <link>https://www.sec.gov/Archives/edgar/data/1279620/000121390026105410/ea0307255-8k_zoned.htm</link>
@@ -16801,45 +16840,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $0.3800 · Mkt cap $6.8M · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GFTFF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · VRT</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1674101/000162828026063311/vrt-20260924.htm</link>
-      <guid isPermaLink="false">0001628280-26-063311</guid>
-      <pubDate>Thu, 24 Sep 2026 05:48:08 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires King Environmental Services; close Q4 2026</scanner:headline>
-      <scanner:shortName>Vertiv Holdings Co</scanner:shortName>
-      <scanner:price>248.78</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>VRT</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>95777360000</scanner:marketCap>
-      <scanner:enterpriseValue>96004960000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>8.36</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>21.99</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>32.35</scanner:fwdPE>
-      <scanner:fwdEvEbitda>23.95</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>22.40</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>38.04</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires King Environmental Services; close Q4 2026&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Vertiv announced a definitive agreement to acquire King Environmental Services Ltd. (KES), a Europe-based provider of fluid management, commissioning and load-testing services for high-density, liquid-cooled data centers. The acquisition expands Vertiv&amp;#39;s thermal management services into EMEA, building on its 2025 PurgeRite acquisition. Financial terms were not disclosed; the transaction is expected to close in Q4 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Vertiv Holdings Co designs, manufactures, and services critical digital infrastructure technologies and life cycle services for data centers, communication networks, and commercial and industrial environments in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company offers AC and DC power management products, low/medium voltage switchgear, busbar, thermal management products, air cooled and liquid cooled thermal management products, integrated modular solutions, racks, …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; King Environmental Services Ltd.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $248.78 · Mkt cap $95.78B · EV $96.00B · Fwd P/E 32.4x · Fwd EV/EBITDA 23.9x · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1674101/000162828026063311/0001628280-26-063311-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VRT&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Electronic Equipment (3679) · 8k_tier1:7.01 · filed 2026-09-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
