@@ -6,8 +6,76 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 10:14:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:15:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · EMBJ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1355444/000129281426004774/embj20260930_6k1.htm</link>
+      <guid isPermaLink="false">0001292814-26-004774</guid>
+      <pubDate>Thu, 01 Oct 2026 05:15:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Seeks shareholder approval for merger of Embraer GPX Ltda.</scanner:headline>
+      <scanner:shortName>EMBRAER</scanner:shortName>
+      <scanner:price>75.32</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>EMBJ</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>13391420000</scanner:marketCap>
+      <scanner:enterpriseValue>14245000000</scanner:enterpriseValue>
+      <scanner:fwdPE>19.38</scanner:fwdPE>
+      <scanner:fwdEvEbitda>13.24</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>9.64</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Seeks shareholder approval for merger of Embraer GPX Ltda.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is seeking shareholder approval for the merger of its subsidiary, Embraer GPX Ltda., into Embraer S.A. The Extraordinary General Shareholders’ Meeting is scheduled for October 30, 2026, to vote on the Protocol and Justification for the merger and the appraisal report. The merger is expected to be effective as of October 31, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Embraer S.A., together with its subsidiaries, engages in the design, development, manufacture, and sale of aircraft and systems worldwide. The company operates through Commercial Aviation; Defense &amp;amp; Security; Executive Aviation; Services &amp;amp; Support; and Other segments. The Commercial Aviation segment develops, produces, and sells commercial jets.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Embraer GPX Ltda.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $75.32 · Mkt cap $13.39B · EV $14.24B · Fwd P/E 19.4x · Fwd EV/EBITDA 13.2x · Industrials / Aerospace and Defense&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1355444/000129281426004774/0001292814-26-004774-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EMBJ&lt;/b&gt; · 6-K · Transportation Equipment (3721) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>⚖️ Litigation · Settled · EC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1444406/000129281426004776/ec20261001_6k.htm</link>
+      <guid isPermaLink="false">0001292814-26-004776</guid>
+      <pubDate>Thu, 01 Oct 2026 05:15:25 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>settled</category>
+      <category>6-K</category>
+      <scanner:headline>Receives COP 573.1B (~$145M) FEPC payment from Colombian govt in Treasury Bonds</scanner:headline>
+      <scanner:shortName>ECOPETROL</scanner:shortName>
+      <scanner:price>16.48</scanner:price>
+      <scanner:subtype>settled</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>EC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>34488610000</scanner:marketCap>
+      <scanner:enterpriseValue>70599030000</scanner:enterpriseValue>
+      <scanner:fwdPE>12.76</scanner:fwdPE>
+      <scanner:fwdEvEbitda>4.60</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>4.89</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Receives COP 573.1B (~$145M) FEPC payment from Colombian govt in Treasury Bonds&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced it received COP 573.108 billion from the Colombian National Government for the Fuel Price Stabilization Fund (FEPC) receivable, corresponding to Q3 and Q4 2025. The payment, which also included COP 110.882 billion for Refinería de Cartagena S.A.S., was made through the issuance of Treasury Bonds. This resolution, formalized by Ministry of Finance Resolution No. 2225, aims to strengthen the Ecopetrol Group.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ecopetrol S.A. operates as an integrated energy company. It operates through four segments: Exploration and Production; Transport and Logistics; Refining and Petrochemicals; and Energy transmission and Toll Roads Concessions. The Exploration and Production segment engages in the exploration and production of oil and gas. The Transport and Logistics segment is involved in the transportation of crude oil, motor fuels, fuel oil, and other refined products, including diesel, jet, and biofuels.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Colombian National Government&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; COP 573,108,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $16.48 · Mkt cap $34.49B · EV $70.60B · Fwd P/E 12.8x · Fwd EV/EBITDA 4.6x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1444406/000129281426004776/0001292814-26-004776-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EC&lt;/b&gt; · 6-K · Oil &amp;amp; Gas (1311) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · PLUT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1933021/000149315226045169/form6-k.htm</link>
@@ -16760,76 +16828,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (6)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;S-4 · Sep 24 05:10 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1466085/000143774926031092/irt20260826_s4.htm'&gt;Acquires Centerspace for 3.800 IRT shares/share (14.7% premium)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 23 16:25 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000114036126037453/ef20082596_8k.htm'&gt;Acquired by IRT; structure amended so IRT Merger Sub survives&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 23 16:22 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000114036126037452/ef20082551_form425.htm'&gt;Merger with Independence Realty Trust&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 23 16:22 · &lt;a href='https://www.sec.gov/Archives/edgar/data/798359/000114036126037454/ef20082596_425.htm'&gt;Acquired by IRT; merger structure amended to alternative&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 23 16:06 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1466085/000143774926031071/irt20260921c_8k.htm'&gt;Elects alternative structure for Centerspace merger&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 23 16:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1466085/000143774926031072/irt20260923_425.htm'&gt;Amends CSR merger to elect alternative structure&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;Acquirer IRT also filed 425, 8-K, S-4&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SNTI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1854270/000114036126037470/ny20078262x4_prer14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-037470</guid>
-      <pubDate>Thu, 24 Sep 2026 05:07:51 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>PRER14A</category>
-      <scanner:headline>Stockholders vote Oct 8 on merger; no cash for common</scanner:headline>
-      <scanner:shortName>Senti Biosciences</scanner:shortName>
-      <scanner:price>0.3400</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>PRER14A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>SNTI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>PRER14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>10530000</scanner:marketCap>
-      <scanner:enterpriseValue>24150000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>439.02</scanner:evSalesLtm>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Stockholders vote Oct 8 on merger; no cash for common&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will hold its 2026 annual meeting on October 8, 2026, to vote on the proposed merger with an unnamed parent company. The merger consideration includes no cash for common stock; stockholders will receive contingent value rights and/or stock in the parent. The board recommends approval.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Senti Biosciences Holdings, Inc., a clinical stage biotechnology company, develops cell and gene therapies engineered with its gene circuit platform technologies for patients living with incurable diseases. The company’s lead product candidates utilize off-the-shelf healthy adult donor derived natural killer (NK) cells to create CAR-NK cells outfitted with gene circuit technologies in various oncology indications with unmet need.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder vote on Oct 8, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.3400 · Mkt cap $10.5M · EV $24.1M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1854270/000114036126037470/0001140361-26-037470-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SNTI&lt;/b&gt; · PRER14A · Chemicals / Pharma (2836) · prefill_form:PRER14A · filed 2026-09-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · UTZ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1739566/000119312526400089/stellar_prer14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-400089</guid>
-      <pubDate>Thu, 24 Sep 2026 05:07:32 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>PRER14A</category>
-      <scanner:headline>Acquired by Intersnack for $14.25/share cash; 91% premium</scanner:headline>
-      <scanner:shortName>Utz Brands</scanner:shortName>
-      <scanner:price>14.23</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>PRER14A</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>UTZ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>PRER14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1260970000</scanner:marketCap>
-      <scanner:enterpriseValue>2852570000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>1.96</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>7.66</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>17.63</scanner:fwdPE>
-      <scanner:fwdEvEbitda>11.99</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>7.66</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>25.61</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Intersnack for $14.25/share cash; 91% premium&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;To be acquired by Intersnack Group (via Idaho USA) for $14.25 per share in cash, a 91% premium to the July 20 closing price. The merger is a going-private transaction; special meeting to approve the deal is pending.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Utz Brands, Inc. manufactures branded salty snacks in the United States. The company provides a range of salty snack food products, such as potato chips, tortilla chips, pretzels, cheese snacks, pub and party mixes, pork skins, and ready-to-eat popcorn, as well as other snacks which include salsa and dips; and non-branded and non-salty snacks comprising partner brands, private label, and co-manufacturing products.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Intersnack Group GmbH &amp;amp; Co. KG&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 14.25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 91%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting to vote on merger&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $14.23 · Mkt cap $1.26B · EV $2.85B · Fwd P/E 17.6x · Fwd EV/EBITDA 12.0x · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1739566/000119312526400089/0001193125-26-400089-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UTZ&lt;/b&gt; · PRER14A · Food &amp;amp; Kindred (2090) · prefill_form:PRER14A · filed 2026-09-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
