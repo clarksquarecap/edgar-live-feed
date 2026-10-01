@@ -6,8 +6,46 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 10:26:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:28:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MAXNQ 📉 Delisting · Forced
+Forced Nasdaq delisting of ordinary shares effective 10 days after Form 25 filing
+Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1796898/000121390026105443/ea0307313-6k_maxeon.htm</link>
+      <guid isPermaLink="false">0001213900-26-105443</guid>
+      <pubDate>Thu, 01 Oct 2026 05:28:47 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
+    <item>
+      <title>$VYLR 🪓 Spinoff
+Completes separation from Corteva; distribution effective Oct 1</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526409545/d121693d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-396054</guid>
+      <pubDate>Thu, 01 Oct 2026 05:21:08 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
+    <item>
+      <title>$CTVA 🪓 Spinoff
+Completes Vylor Inc. spinoff; distribution expected Oct 1
+Mcap $52B · EV $55B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526409549/d23835d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-401618</guid>
+      <pubDate>Thu, 01 Oct 2026 05:21:08 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
+    <item>
+      <title>$BAM 🤝 Merger · Preliminary
+Facilitates Korea's 5-10% equity investment in Westinghouse; part of $120B nuclear framework
+Republic of Korea · cash
+Mcap $71B · EV $78B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1937926/000117184326006315/f8k_093026.htm</link>
+      <guid isPermaLink="false">0001171843-26-006315</guid>
+      <pubDate>Thu, 01 Oct 2026 05:21:08 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+    </item>
     <item>
       <title>$SMTI 🤝 Merger
 Shareholders approve MiMedx merger; HSR waiting period expires Oct 15
@@ -913,14 +951,6 @@ Healthcare</title>
       <category>formal_alternatives</category>
     </item>
     <item>
-      <title>$VYLR 🪓 Spinoff
-Extends debt exchange offers for planned separation from Corteva</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526408748/d39681d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-396054</guid>
-      <pubDate>Wed, 30 Sep 2026 12:08:48 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
       <title>$AGLIBDC 📍 Stake
 Increases stake in AGL Private Credit Income Fund to 75.1% via $22.38M share purchase</title>
       <link>https://www.sec.gov/Archives/edgar/data/2011498/000101143826000589/0001011438-26-000589-index.htm</link>
@@ -1297,16 +1327,6 @@ Mcap $28M · EV $139M · Industrials</title>
       <guid isPermaLink="false">0001214659-26-012236</guid>
       <pubDate>Wed, 30 Sep 2026 05:33:41 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$CNDT 📤 Divestiture
-Sells Public Transit and Tolling businesses via definitive agreements
-to Quarterhill
-Mcap $246M · EV $1.0B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1677703/000167770326000118/cndt-20260930.htm</link>
-      <guid isPermaLink="false">0001677703-26-000118</guid>
-      <pubDate>Wed, 30 Sep 2026 05:27:34 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
