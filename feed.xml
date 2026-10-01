@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 12:29:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:35:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔎 Strategic Review · Formal Alternatives · TP</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2104296/000121390026105463/ea0307280-6k_ticket.htm</link>
+      <guid isPermaLink="false">0001213900-26-105463</guid>
+      <pubDate>Thu, 01 Oct 2026 07:35:53 -0500</pubDate>
+      <category>STRATEGIC_REVIEW</category>
+      <category>formal_alternatives</category>
+      <category>6-K</category>
+      <scanner:headline>Engages Fernando Massú as Lead Strategic Advisor for LATAM M&amp;A expansion</scanner:headline>
+      <scanner:shortName>Ticketplus</scanner:shortName>
+      <scanner:price>8.01</scanner:price>
+      <scanner:subtype>formal_alternatives</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>TP</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>102350000</scanner:marketCap>
+      <scanner:enterpriseValue>115730000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.99</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>6.28</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>11.17</scanner:fwdPE>
+      <scanner:fwdEvEbitda>5.87</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>6.35</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>47.59</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Engages Fernando Massú as Lead Strategic Advisor for LATAM M&amp;amp;A expansion&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Engaged Fernando Massú Taré as Lead Strategic Advisor for LATAM Regional Strategy and Governance. Mr. Massú will work with the board on the company&amp;#39;s expansion roadmap, including market entry priorities, potential acquisitions, strategic partnerships, and capital allocation. This initiative follows the company&amp;#39;s recent acquisition of Autoentrada S.A. in Argentina and aims to deepen its presence in 11 countries and expand into new markets.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ticketplus Ltd., through its subsidiaries, operates as a technology company focuses on live entertainment industry across Latin America. It provide a proprietary, full-stack event platform that supports event discovery, primary ticketing, access control, payments, analytics, and post-event insights for promoters, venues, sports organizations, and ticketing companies.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $8.01 · Mkt cap $102.3M · EV $115.7M · Fwd P/E 11.2x · Fwd EV/EBITDA 5.9x · Communication Services / Entertainment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2104296/000121390026105463/0001213900-26-105463-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TP&lt;/b&gt; · 6-K · Amusement / Recreation (7990) · prefill_form:6-K · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>⚱️ Liquidation · CWST</title>
       <link>https://www.sec.gov/Archives/edgar/data/911177/000091117726000052/cwst-20261001.htm</link>
@@ -16810,36 +16848,6 @@
 &lt;p&gt;&lt;i&gt;Px $19.53 · Mkt cap $2.49B · EV $2.83B · Fwd P/E 34.2x · Fwd EV/EBITDA 8.3x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1693256/000110465926110440/0001104659-26-110440-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WTTR&lt;/b&gt; · 8-K · Items 1.01, 3.02, 7.01, 8.01, 9.01 · Oil &amp;amp; Gas (1389) · 8k_tier1:1.01,7.01,8.01 · filed 2026-09-24&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · CRCW</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1688126/000149315226044159/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044159</guid>
-      <pubDate>Thu, 24 Sep 2026 15:55:33 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Issues 234M shares to extend notes to Aug 2027</scanner:headline>
-      <scanner:shortName>Crypto Co</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>CRCW</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:evSalesLtm>400.08</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>400.08</scanner:evGrossProfitLtm>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Issues 234M shares to extend notes to Aug 2027&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;The Crypto Company issued 234,251,400 shares to noteholders in exchange for extending secured promissory notes totaling $1,054,071 to August 2027. The shares represent 20% of principal at $0.0009/share. Noteholders may receive an additional 10% of principal in shares if outstanding as of May 11, 2027.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The Crypto Company engages in providing consulting services and education for blockchain technology, building of technological infrastructure, and enterprise blockchain technology solutions in the United States. It serves corporate and individual clients. The Crypto Company is headquartered in Malibu, California.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Noteholders&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $1,054,071&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; May 11, 2027 potential 10% share payment&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1688126/000149315226044159/0001493152-26-044159-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CRCW&lt;/b&gt; · 8-K · Items 1.01, 2.03, 3.02, 9.01 · Business Services (7374) · 8k_tier1:1.01 · filed 2026-09-24&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
