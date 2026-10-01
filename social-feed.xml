@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Thu, 01 Oct 2026 20:57:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 21:03:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MDT 🪓 Split-off
+Launches exchange offer for MiniMed Group shares
+Mcap $113B · EV $133B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026064306/a425-mdtwebsitex10126.htm</link>
+      <guid isPermaLink="false">0001628280-26-062507</guid>
+      <pubDate>Thu, 01 Oct 2026 16:03:28 -0500</pubDate>
+      <category>SPLIT_OFF</category>
+    </item>
     <item>
       <title>$NBHC 💧 Capital Return · Buyback
 Authorizes additional $40.1M share repurchase, bringing total to $100M
@@ -1502,17 +1511,6 @@ Mcap $53B · EV $113B · Utilities</title>
       <link>https://www.sec.gov/Archives/edgar/data/715957/000110465926112387/tm2626727d2_425.htm</link>
       <guid isPermaLink="false">0001104659-26-111074</guid>
       <pubDate>Wed, 30 Sep 2026 16:06:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TXNM 🤝 Merger
-Acquired by Troy ParentCo for $61.25 cash; convertible notes become convertible
-cash
-Mcap $6.4B · EV $12B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1108426/000110842626000061/pnm-20260930.htm</link>
-      <guid isPermaLink="false">0001108426-26-000061</guid>
-      <pubDate>Wed, 30 Sep 2026 15:58:19 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
