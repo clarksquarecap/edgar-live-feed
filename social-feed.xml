@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:07:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HZO 📦 Going Private
+Acquired by SHM Holdco for $53.00 cash/share; vote Nov 11
+cash
+Mcap $1.2B · EV $2.1B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1057060/000119312526412241/d130789ddefm14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-412241</guid>
+      <pubDate>Fri, 02 Oct 2026 15:07:47 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$GBR 📍 Stake
 Realty Advisors increases stake to 33.65% via $2M direct share purchase
@@ -1167,39 +1177,6 @@ Mcap $1K · EV $609M · Healthcare</title>
       <guid isPermaLink="false">0001213900-26-105757</guid>
       <pubDate>Thu, 01 Oct 2026 15:08:02 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$EDBL 🤝 Merger
-Acquires Iowa Shrimp Holdings' Prairie Hills facility for $6.325M
-6,325,000 deal · cash+stk
-Mcap $2M · EV $23M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1809750/000147793226005955/edbl_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-005955</guid>
-      <pubDate>Thu, 01 Oct 2026 15:07:45 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NYAX 🤝 Merger
-Completes IPS Group acquisition for $350M cash; expands into smart parking
-350000000 deal · cash
-Mcap $1.8B · EV $1.8B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1901279/000117891326004689/zk2636186.htm</link>
-      <guid isPermaLink="false">0001178913-26-004689</guid>
-      <pubDate>Thu, 01 Oct 2026 15:06:46 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SPKL 🤝 Merger
-Acquires ZincFive in business combination; S-4 filed; close Q4 2026
-stock
-Mcap $100M · EV $104M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1884046/000110465926112816/tm2617742d10_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-112385</guid>
-      <pubDate>Thu, 01 Oct 2026 15:06:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>

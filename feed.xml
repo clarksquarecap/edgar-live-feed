@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:01:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:07:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔐 Going Private · HZO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1057060/000119312526412241/d130789ddefm14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-412241</guid>
+      <pubDate>Fri, 02 Oct 2026 15:07:47 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>acquisition</category>
+      <category>DEFM14A</category>
+      <scanner:headline>Acquired by SHM Holdco for $53.00 cash/share; vote Nov 11</scanner:headline>
+      <scanner:shortName>MARINEMAX</scanner:shortName>
+      <scanner:price>52.38</scanner:price>
+      <scanner:subtype />
+      <scanner:form>DEFM14A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>HZO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFM14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1155800000</scanner:marketCap>
+      <scanner:enterpriseValue>2102250000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.96</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.80</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>37.53</scanner:fwdPE>
+      <scanner:fwdEvEbitda>15.16</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>2.80</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>34.21</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by SHM Holdco for $53.00 cash/share; vote Nov 11&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Shareholders will vote on a proposal to be acquired by SHM Holdco, LLC, an affiliate of Safe Harbor Marinas, LLC (a Blackstone portfolio company). Shareholders will receive $53.00 in cash for each share of MarineMax common stock. The special meeting of shareholders to approve the merger is scheduled for November 11, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; MarineMax, Inc. operates as a recreational boat and yacht retailer and superyacht services company in the United States. It operates through two segments, Retail Operations and Product Manufacturing. The company sells new and used recreational boats, including pleasure and fishing boats, mega-yachts, yachts, sport cruisers, motor yachts, e-power yachts, pontoon boats, ski boats, jet boats, and other recreational boats.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; SHM Holdco, LLC (affiliate of Safe Harbor Marinas, LLC, a portfolio company of Blackstone Infrastructure Partners L.P.)&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 53.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-09&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-11-11&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $52.38 · Mkt cap $1.16B · EV $2.10B · Fwd P/E 37.5x · Fwd EV/EBITDA 15.2x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1057060/000119312526412241/0001193125-26-412241-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HZO&lt;/b&gt; · DEFM14A · Retail; Auto (5531) · prefill_form:DEFM14A · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · GBR</title>
       <link>https://www.sec.gov/Archives/edgar/data/105744/000127334826000013/0001273348-26-000013-index.htm</link>
@@ -16894,45 +16933,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-09-29&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/915191/000110465926111201/0001104659-26-111201-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FRFFF, FRFHF&lt;/b&gt; · 6-K · Insurance (6331) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Settled · CAAP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1717393/000110465926111196/tm2626455d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111196</guid>
-      <pubDate>Mon, 28 Sep 2026 07:50:10 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
-      <category>6-K</category>
-      <scanner:headline>Argentina concession rebalanced, extended to 2056; $7.3B investment</scanner:headline>
-      <scanner:shortName>CORPORACION AMERICA AIRPORTS</scanner:shortName>
-      <scanner:price>23.88</scanner:price>
-      <scanner:subtype>settled</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>CAAP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3900250000</scanner:marketCap>
-      <scanner:enterpriseValue>4201050000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>1.98</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>5.75</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>10.40</scanner:fwdPE>
-      <scanner:fwdEvEbitda>5.22</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>5.75</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>34.43</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Argentina concession rebalanced, extended to 2056; $7.3B investment&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Corporación América Airports S.A. announced that the Government of Argentina approved changes to its concession agreement, extending the term by 18 years to February 2056. The rebalancing includes a $7.3 billion capital investment program, with $1.5 billion deployed by 2031, and tariffs denominated in USD, with increases to Domestic and Regional Passenger Use Fees. The agreement aims to restore economic and financial equilibrium.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Corporación América Airports S.A., through its subsidiaries, acquires, develops, and operates airport concessions. It operates 52 airports in Latin America, Europe, and Eurasia. The company was formerly known as A.C.I. Airports International S.à r.l. and changed its name to Corporación América Airports S.A. in September 2017. The company was founded in 1998 and is based in Luxembourg, Luxembourg. Corporación América Airports S.A. operates as a subsidiary of A.C.I. Airports S.à r.l.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Government of Argentina&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $7.3 billion&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Triennial reviews&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $23.88 · Mkt cap $3.90B · EV $4.20B · Fwd P/E 10.4x · Fwd EV/EBITDA 5.2x · Industrials / Transportation Infrastructure&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1717393/000110465926111196/0001104659-26-111196-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CAAP&lt;/b&gt; · 6-K · Air Transportation (4581) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
