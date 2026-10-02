@@ -6,8 +6,46 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:21:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · FLEX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866374/000110465926113290/tm2626870d2_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-113290</guid>
+      <pubDate>Fri, 02 Oct 2026 15:21:02 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>acquisition</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Seeks shareholder approval for Axiom Solutions International spin-off</scanner:headline>
+      <scanner:shortName>FLEX</scanner:shortName>
+      <scanner:price>116.56</scanner:price>
+      <scanner:subtype />
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>FLEX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFA14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>41661270000</scanner:marketCap>
+      <scanner:enterpriseValue>44751270000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.53</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>16.05</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>21.13</scanner:fwdPE>
+      <scanner:fwdEvEbitda>13.23</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>15.68</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>9.53</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Seeks shareholder approval for Axiom Solutions International spin-off&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is seeking shareholder approval for the planned spin-off of its cloud and power infrastructure business into Axiom Solutions International, Inc. A registration statement on Form 10 has been filed for Axiom&amp;#39;s common stock. The spin-off is expected to be tax-free for U.S. federal income tax purposes.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Flex Ltd. provides technology innovation, supply chain, and manufacturing solutions to data center, communications, enterprise, consumer, automotive, healthcare, industrial, and power industries in the Americas, Asia, and Europe. The company operates through three segments: Integrated Technology Solutions (ITS), Regulated Manufacturing Solutions (RMS), and Cloud and Power Infrastructure (CPI).&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder approval&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $116.56 · Mkt cap $41.66B · EV $44.75B · Fwd P/E 21.1x · Fwd EV/EBITDA 13.2x · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/866374/000110465926113290/0001104659-26-113290-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FLEX&lt;/b&gt; · DEFA14A · Electronic Equipment (3672) · prefill_form:DEFA14A · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · STHO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1953366/000110465926113260/tm2626632d1_8k.htm</link>
@@ -16915,36 +16953,6 @@
 &lt;p&gt;&lt;i&gt;Px $4.20 · Mkt cap $159.0M · EV $348.3M · Fwd EV/EBITDA 14.0x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1005286/000114036126037768/0001140361-26-037768-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LFCR&lt;/b&gt; · DEFA14A · Chemicals / Pharma (2834) · prefill_form:DEFA14A · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · DGCMF</title>
-      <link>https://www.otcmarkets.com/stock/DGCMF/news/536555</link>
-      <guid isPermaLink="false">OTC-536555</guid>
-      <pubDate>Mon, 28 Sep 2026 07:59:11 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>OTC</category>
-      <scanner:headline>Acquires Solana; adopts AI and digital-infrastructure strategy</scanner:headline>
-      <scanner:shortName>Digital Commodities</scanner:shortName>
-      <scanner:price>0.0100</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>DGCMF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1790000</scanner:marketCap>
-      <scanner:enterpriseValue>50000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Solana; adopts AI and digital-infrastructure strategy&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced it is acquiring Solana and adopting a new strategy focused on AI and digital infrastructure. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Digital Commodities Inc. operates as an investment issuer in Canada. It engages in investing in digital and physical non-fiat assets, and businesses and private and publicly listed entities with a focus on hard commodities, cryptocurrencies, and the resource sector. The company was formerly known as Digital Commodities Capital Corp. and changed its name to Digital Commodities Inc. in September 2025. Digital Commodities Inc. is based in Vancouver, Canada.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Solana&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $1.8M · EV $50K · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DGCMF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

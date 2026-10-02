@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:21:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FLEX 🪓 Spinoff
+Seeks shareholder approval for Axiom Solutions International spin-off
+Mcap $42B · EV $45B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866374/000110465926113290/tm2626870d2_defa14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-113290</guid>
+      <pubDate>Fri, 02 Oct 2026 15:21:02 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$STHO 🪙 Debt Restr.
 Amends credit agreement with Safehold, extends maturity to 2029
@@ -1087,117 +1096,6 @@ Mcap $6M · EV $79M · Cons Disc</title>
       <guid isPermaLink="false">0001213900-26-105763</guid>
       <pubDate>Thu, 01 Oct 2026 15:21:47 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$CPHC 👀 Activist
-Faces Gate City Capital activist with 9.35% stake; proposes board/op changes
-Mcap $81M · EV $62M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1672909/000139834426017759/0001398344-26-017759-index.htm</link>
-      <guid isPermaLink="false">0001398344-26-017759</guid>
-      <pubDate>Thu, 01 Oct 2026 15:21:11 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$RNAZ 🪙 Debt Restr.
-Secures waiver for convertible note amortization event with $841K prepayment
-Mcap $29M · EV $187M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1829635/000110465926112826/tm2626839d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112826</guid>
-      <pubDate>Thu, 01 Oct 2026 15:20:53 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$PSKY 🤝 Merger
-Appoints Ynon Kreiz Co-CEO ahead of Warner Bros. Discovery merger close
-empty
-Mcap $11B · EV $27B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2041610/000110465926112829/tm2626659d2_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111034</guid>
-      <pubDate>Thu, 01 Oct 2026 15:20:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$HOPE 🤝 Merger
-Completes acquisition of SMBC MANUBANK's Commercial Banking Unit
-Mcap $1.7B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1128361/000112836126000049/hope-20261001.htm</link>
-      <guid isPermaLink="false">0001128361-26-000049</guid>
-      <pubDate>Thu, 01 Oct 2026 15:20:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CCS 🪙 Debt Restr.
-Amends credit agreement, increases commitments to $1.2B, extends maturity to 2030
-Mcap $1.7B · EV $3.3B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1576940/000114036126038259/ef20083014_form8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-038259</guid>
-      <pubDate>Thu, 01 Oct 2026 15:19:55 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$NXDR 📉 Delisting · Voluntary
-Voluntarily transfers listing from NYSE to Nasdaq, effective Oct 13
-effective 2026-10-14
-Mcap $940M · EV $590M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1846069/000184606926000162/nxdr-20261001.htm</link>
-      <guid isPermaLink="false">0001846069-26-000162</guid>
-      <pubDate>Thu, 01 Oct 2026 15:18:02 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-    </item>
-    <item>
-      <title>$IBN ⚖️ Litigation · Lost
-Faces ₹2.29B GST demand from Indian tax authorities
-Mcap $99B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1103838/000095010326014945/dp254345_6k.htm</link>
-      <guid isPermaLink="false">0000950103-26-014945</guid>
-      <pubDate>Thu, 01 Oct 2026 15:17:42 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
-    </item>
-    <item>
-      <title>$NBIS 🤝 Merger
-Acquires Inferize to strengthen Token Factory AI inference stack
-empty
-Mcap $65B · EV $67B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1513845/000110465926112824/tm2626792d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112824</guid>
-      <pubDate>Thu, 01 Oct 2026 15:17:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SORA 🤝 Merger · Preliminary
-Signs non-binding MOU with Plume Network for tokenisation JV
-Mcap $57M · EV $52M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2033515/000121390026105764/ea0305939-6k_asia.htm</link>
-      <guid isPermaLink="false">0001213900-26-105764</guid>
-      <pubDate>Thu, 01 Oct 2026 15:16:06 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$DJT 🤝 Merger
-Progresses merger with TAE Technologies; S-4 registration filed
-close 2026-Q4
-Mcap $2.5B · EV $2.6B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1849635/000143774926031736/djt20261001_425.htm</link>
-      <guid isPermaLink="false">0001437749-26-031536</guid>
-      <pubDate>Thu, 01 Oct 2026 15:15:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PMM 💧 Capital Return · Self-tender
-Offers to buy back up to 100% of preferred shares at 92.875% of liquidation preference
-Mcap $233M · EV $351M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/844790/000119312526410671/d149837dsctoi.htm</link>
-      <guid isPermaLink="false">0001193125-26-410671</guid>
-      <pubDate>Thu, 01 Oct 2026 15:14:43 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
