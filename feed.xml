@@ -6,46 +6,104 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:54:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
     <item>
-      <title>🤝 Merger · Definitive · WU</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1365135/000119312526412336/d160759d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-412336</guid>
-      <pubDate>Fri, 02 Oct 2026 15:45:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
+      <title>💔 Busted · CBDW</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1877461/000147793226006027/cbdw_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-006027</guid>
+      <pubDate>Fri, 02 Oct 2026 15:54:12 -0500</pubDate>
+      <category>BUSTED_MA</category>
+      <category>acquisition</category>
       <category>8-K</category>
-      <scanner:headline>Re-files HSR for IMXI merger; California DFPI approval pending</scanner:headline>
-      <scanner:shortName>Western Union CO</scanner:shortName>
-      <scanner:price>6.01</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:headline>Terminates acquisition of Sim Agro; mutual release</scanner:headline>
+      <scanner:shortName>1606</scanner:shortName>
+      <scanner:subtype />
       <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>WU</scanner:ticker>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>CBDW</scanner:ticker>
       <scanner:filings>1</scanner:filings>
       <scanner:filingForms>8-K</scanner:filingForms>
       <scanner:related />
-      <scanner:marketCap>1877510000</scanner:marketCap>
-      <scanner:enterpriseValue>3654910000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.91</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>2.58</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>4.10</scanner:fwdPE>
-      <scanner:fwdEvEbitda>4.15</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>2.55</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>35.09</scanner:grossMarginLtm>
+      <scanner:evSalesLtm>349.56</scanner:evSalesLtm>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Terminates acquisition of Sim Agro; mutual release&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1606 Corp. and Sim Agro Inc. mutually terminated their Agreement and Plan of Stock Exchange, abandoning the acquisition of Sim Agro. The closing never occurred, no shares were issued, and no consideration was paid. The parties provided mutual releases, with Sim Agro remaining solely responsible for ENMAS indebtedness, including a $422,322 promissory note.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; 1606 Corp., an AI chatbot company, engages in building and merchandising chatbots for the cannabidiol industry and public companies. It offers ChatCBDW, a proprietary bot designed to drive sales, educate audiences on products, provide analytics on customer preferences and behavior, and contribute to inventory management. The company was founded in 2019 and is headquartered in Phoenix, Arizona.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Sim Agro Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Consumer Staples / Tobacco&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1877461/000147793226006027/0001477932-26-006027-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CBDW&lt;/b&gt; · 8-K · Items 1.01, 1.02, 9.01 · Business Services (7372) · 8k_tier1:1.01,1.02 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🧭 Domicile · WQEY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2107968/000121390026106458/ea0307480-8k12b_wiseqey.htm</link>
+      <guid isPermaLink="false">0001213900-26-106017</guid>
+      <pubDate>Fri, 02 Oct 2026 15:53:27 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+      <category>acquisition</category>
+      <category>8-K12B</category>
+      <scanner:headline>Completed redomiciliation from Switzerland to BVI via merger; new shares trade Oct 5</scanner:headline>
+      <scanner:shortName>WISeQey</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>8-K12B</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>WQEY</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>6-K, 8-K12B</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Redomiciliation from Switzerland to BVI legally effective; new shares trade Oct 5&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced its redomiciliation from Switzerland to the British Virgin Islands became legally effective on October 1, 2026, through a cross-border merger with its wholly owned BVI subsidiary. Existing WISeKey equity securities will be exchanged for WISeQey ordinary shares, with 1 WISeKey ADS exchanging for 0.5 WISeQey ordinary shares. WISeQey ordinary shares are expected to commence trading under the ticker &amp;#39;WQEY&amp;#39; on Nasdaq and SIX Swiss Exchange on October 5, 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-05&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2107968/000121390026106017/0001213900-26-106017-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WQEY&lt;/b&gt; · 6-K · Business Services (7374) · prefill_form:6-K · filed 2026-10-02&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K12B · Oct 02 15:53 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2107968/000121390026106458/ea0307480-8k12b_wiseqey.htm'&gt;Completed redomiciliation from Switzerland to BVI via merger; new shares trade Oct 5&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Oct 02 05:11 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2107968/000121390026106017/ea0307408-6k_wiseqey.htm'&gt;Redomiciliation from Switzerland to BVI legally effective; new shares trade Oct 5&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · IMXI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1683695/000114036126038416/ef20083225_8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-412336</guid>
+      <pubDate>Fri, 02 Oct 2026 15:45:39 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Merger with Western Union requires new HSR filing; DFPI approval pending</scanner:headline>
+      <scanner:shortName>International Money Express</scanner:shortName>
+      <scanner:price>11.51</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>IMXI</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>8-K x2</scanner:filingForms>
+      <scanner:related>WU</scanner:related>
+      <scanner:marketCap>347130000</scanner:marketCap>
+      <scanner:enterpriseValue>331920000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.60</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.74</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>13.10</scanner:fwdPE>
+      <scanner:fwdEvEbitda>5.55</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>1.76</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>34.28</scanner:grossMarginLtm>
       <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
       <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
       <scanner:currency>USD</scanner:currency>
       <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Re-files HSR for IMXI merger; California DFPI approval pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Re-filed its Premerger Notification and Report Forms under the HSR Act with respect to its previously announced merger with International Money Express, Inc. The new filing initiates a new 30-day waiting period, as the previous HSR clearance expired. The company continues discussions with the California Department of Financial Protection and Innovation regarding reinstatement of its approval, which remains suspended.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The Western Union Company provides money movement payments, and digital financial services in the United States and internationally. It operates through two segments, Consumer Money Transfer and Consumer Services. The Consumer Money Transfer segment facilitates money transfers for international cross-border and intra-country transfers, primarily through a network of retail agents and owned locations, as well as through websites and mobile devices.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; International Money Express, Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-08-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR waiting period expiration (~Nov 1, 2026)&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $6.01 · Mkt cap $1.88B · EV $3.65B · Fwd P/E 4.1x · Fwd EV/EBITDA 4.2x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1365135/000119312526412336/0001193125-26-412336-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WU&lt;/b&gt; · 8-K · Items 8.01 · Business Services (7389) · 8k_tier1:8.01 · filed 2026-10-02&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;b&gt;Merger with Western Union requires new HSR filing; DFPI approval pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;International Money Express, Inc. and The Western Union Company refiled their HSR forms on October 2, 2026, initiating a new 30-day waiting period for their previously announced merger. The companies also continue discussions with the California DFPI for reinstatement of its approval, which was suspended. The merger, announced August 10, 2025, remains subject to these regulatory conditions.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; International Money Express, Inc., together with its subsidiaries, operates as an omnichannel money remittance services company in the United States, Latin America, Mexico, Central and South America, the Caribbean, Africa, and Asia. The company offers remittance services, which include a suite of ancillary financial processing solutions and payment services; and online payment options, pre-paid debit cards, and direct deposit payroll cards.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; The Western Union Company&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-08-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR waiting period expiration (early Nov 2026)&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $11.51 · Mkt cap $347.1M · EV $331.9M · Fwd P/E 13.1x · Fwd EV/EBITDA 5.5x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1683695/000114036126038416/0001140361-26-038416-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IMXI&lt;/b&gt; · 8-K · Items 8.01 · Business Services (7389) · 8k_tier1:8.01 · filed 2026-10-02&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Oct 02 15:45 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1683695/000114036126038416/ef20083225_8k.htm'&gt;Merger with Western Union requires new HSR filing; DFPI approval pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Oct 02 15:45 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1365135/000119312526412336/d160759d8k.htm'&gt;Re-files HSR for IMXI merger; California DFPI approval pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer WU also filed 8-K&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · TAVI</title>
@@ -2794,30 +2852,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WKEY, WSKEF&lt;/b&gt; · 6-K · Business Services (7374) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Oct 02 05:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026106014/ea0307403-6k_wisekey.htm'&gt;Redomiciliation to BVI effective; WKEY ADS to 0.5 WQEY share; new WQEY trades Oct 5&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 30 16:39 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026105356/ea0306423-6k_wisekey.htm'&gt;Shareholders approve redomiciliation; direct Nasdaq/SIX listing as WISeQey (WQEY) expected Oct&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 28 07:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026103764/ea0306757-6k_wisekey.htm'&gt;Redomiciliation to British Virgin Islands effective Oct 2; new ticker WQEY&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 25 15:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026103517/ea0306680-6k_wisekey.htm'&gt;Reports Class B share election results for BVI redomiciliation merger&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · WQEY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2107968/000121390026106017/ea0307408-6k_wiseqey.htm</link>
-      <guid isPermaLink="false">0001213900-26-106017</guid>
-      <pubDate>Fri, 02 Oct 2026 05:11:34 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Redomiciliation from Switzerland to BVI legally effective; new shares trade Oct 5</scanner:headline>
-      <scanner:shortName>WISeQey</scanner:shortName>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>WQEY</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Redomiciliation from Switzerland to BVI legally effective; new shares trade Oct 5&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced its redomiciliation from Switzerland to the British Virgin Islands became legally effective on October 1, 2026, through a cross-border merger with its wholly owned BVI subsidiary. Existing WISeKey equity securities will be exchanged for WISeQey ordinary shares, with 1 WISeKey ADS exchanging for 0.5 WISeQey ordinary shares. WISeQey ordinary shares are expected to commence trading under the ticker &amp;#39;WQEY&amp;#39; on Nasdaq and SIX Swiss Exchange on October 5, 2026.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-05&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2107968/000121390026106017/0001213900-26-106017-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WQEY&lt;/b&gt; · 6-K · Business Services (7374) · prefill_form:6-K · filed 2026-10-02&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · AMX</title>
@@ -16922,42 +16956,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.12 · Mkt cap $680K · EV $80.7M · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1943421/000117184326006252/0001171843-26-006252-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RUBI&lt;/b&gt; · 6-K · Water Transportation (4400) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · IMCC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1792030/000117891326004635/zk2636166.htm</link>
-      <guid isPermaLink="false">0001178913-26-004635</guid>
-      <pubDate>Mon, 28 Sep 2026 15:16:42 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Provides update on sale of I.M.C. Holdings Ltd. and German operations</scanner:headline>
-      <scanner:shortName>IM Cannabis</scanner:shortName>
-      <scanner:price>2.85</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>IMCC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1970000</scanner:marketCap>
-      <scanner:enterpriseValue>10510000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.39</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>3.11</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>2.56</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>12.53</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Provides update on sale of I.M.C. Holdings Ltd. and German operations&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Provided a corporate update, including details on the previously announced agreement to sell I.M.C. Holdings Ltd. Upon completion of that transaction, the Company expects to retain its Israeli medical cannabis operations, while the German operations through Adjupharm GmbH will be held indirectly by the purchaser. The filing also noted the resignation of a director for personal reasons.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; IM Cannabis Corp. engages in importation, distribution and sale of medical cannabis products in Israel and Germany. It provides medical cannabis dried flowers; and full-spectrum cannabis extracts under the IMC, BLKMT, and LOT420 brands. The company serves medical patients. IM Cannabis Corp. was founded in 2008 and is headquartered in Vancouver, Canada.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-17&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.85 · Mkt cap $2.0M · EV $10.5M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1792030/000117891326004635/0001178913-26-004635-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IMCC&lt;/b&gt; · 6-K · Chemicals / Pharma (2833) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

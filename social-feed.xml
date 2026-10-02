@@ -6,15 +6,33 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:54:19 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
-      <title>$WU 🤝 Merger
-Re-files HSR for IMXI merger; California DFPI approval pending
-Mcap $1.9B · EV $3.7B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1365135/000119312526412336/d160759d8k.htm</link>
+      <title>$CBDW 💥 Busted M&amp;A
+Terminates acquisition of Sim Agro; mutual release
+Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1877461/000147793226006027/cbdw_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-006027</guid>
+      <pubDate>Fri, 02 Oct 2026 15:54:12 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
+    <item>
+      <title>$WQEY 🌍 Re-domicile
+Completed redomiciliation from Switzerland to BVI via merger; new shares trade Oct 5</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2107968/000121390026106458/ea0307480-8k12b_wiseqey.htm</link>
+      <guid isPermaLink="false">0001213900-26-106017</guid>
+      <pubDate>Fri, 02 Oct 2026 15:53:27 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
+    <item>
+      <title>$IMXI 🤝 Merger
+Merger with Western Union requires new HSR filing; DFPI approval pending
+The Western Union
+Mcap $347M · EV $332M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1683695/000114036126038416/ef20083225_8k.htm</link>
       <guid isPermaLink="false">0001193125-26-412336</guid>
-      <pubDate>Fri, 02 Oct 2026 15:45:34 -0500</pubDate>
+      <pubDate>Fri, 02 Oct 2026 15:45:39 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -815,14 +833,6 @@ Mcap $51M · EV $37M · Tech</title>
       <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026106014/ea0307403-6k_wisekey.htm</link>
       <guid isPermaLink="false">0001213900-26-103517</guid>
       <pubDate>Fri, 02 Oct 2026 05:12:07 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$WQEY 🌍 Re-domicile
-Redomiciliation from Switzerland to BVI legally effective; new shares trade Oct 5</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2107968/000121390026106017/ea0307408-6k_wiseqey.htm</link>
-      <guid isPermaLink="false">0001213900-26-106017</guid>
-      <pubDate>Fri, 02 Oct 2026 05:11:34 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
     </item>
     <item>
