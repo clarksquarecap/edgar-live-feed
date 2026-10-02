@@ -6,8 +6,30 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:22:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TEM 🤝 Merger
+Acquires Personalis for $16.25 cash or 0.3356 shares; vote pending
+cash+stk
+Mcap $14B · EV $14B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1717115/000119312526412289/d864810ds4a.htm</link>
+      <guid isPermaLink="false">0001193125-26-412289</guid>
+      <pubDate>Fri, 02 Oct 2026 15:22:12 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$AIRI 🤝 Merger
+Acquires Tenax Aerospace Acquisition via merger; stockholder vote pending
+close 2026
+Mcap $13M · EV $43M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1009891/000121390026106375/ea0298192-02.htm</link>
+      <guid isPermaLink="false">0001213900-26-106375</guid>
+      <pubDate>Fri, 02 Oct 2026 15:21:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$FLEX 🪓 Spinoff
 Seeks shareholder approval for Axiom Solutions International spin-off
@@ -1087,15 +1109,6 @@ Mcap $250M · EV $410M · Financial Serv</title>
       <pubDate>Thu, 01 Oct 2026 15:27:53 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$TKLF 🪙 Debt Restr.
-Increases stake to 69.3% via debt-to-equity swap
-Mcap $6M · EV $79M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1836242/000121390026105762/0001213900-26-105762-index.htm</link>
-      <guid isPermaLink="false">0001213900-26-105763</guid>
-      <pubDate>Thu, 01 Oct 2026 15:21:47 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
