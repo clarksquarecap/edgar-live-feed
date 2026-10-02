@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:09:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:13:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · STHO</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1953366/000110465926113260/tm2626632d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-113260</guid>
+      <pubDate>Fri, 02 Oct 2026 15:13:04 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Amends credit agreement with Safehold, extends maturity to 2029</scanner:headline>
+      <scanner:shortName>Star Holdings</scanner:shortName>
+      <scanner:price>8.59</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Real Estate</scanner:sector>
+      <scanner:ticker>STHO</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>104140000</scanner:marketCap>
+      <scanner:enterpriseValue>279830000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.85</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.23</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>8.21</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>34.61</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Amends credit agreement with Safehold, extends maturity to 2029&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Amended its term loan credit agreement with Safehold, extending the maturity date by one year to March 31, 2029, with an option to extend to September 30, 2029. The amendment also permits up to $50.0 million in voluntary prepayments and a new basket for up to $10.0 million in common share repurchases after a $40.0 million margin loan prepayment. The company paid a $2.4 million extension fee and increased the management agreement termination fee to $62.5 million.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Star Holdings engages in the non-ground lease real estate assets business in the United States. The company portfolio comprises Asbury Park Waterfront and Magnolia Green residential development projects. It also engages in the asset management activities; sale of existing loans; and operation of land and development properties. Star Holdings was incorporated in 2022 and is based in New York, New York.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Safehold Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $8.59 · Mkt cap $104.1M · EV $279.8M · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1953366/000110465926113260/0001104659-26-113260-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;STHO&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Real Estate (6519) · 8k_tier1:1.01,7.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · DRCT</title>
       <link>https://www.sec.gov/Archives/edgar/data/1880613/000188061326000115/drct-20261001.htm</link>
@@ -16908,44 +16945,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;i&gt;Px $0.0100 · Mkt cap $1.8M · EV $50K · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DGCMF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔐 Going Private · LFCR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1005286/000114036126037767/ef20082009_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-037767</guid>
-      <pubDate>Mon, 28 Sep 2026 07:58:33 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Acquired by Webster Equity Partners affiliates for $6.28 cash + 1 CVR per share</scanner:headline>
-      <scanner:shortName>LIFECORE BIOMEDICAL INC. \DE\</scanner:shortName>
-      <scanner:price>4.20</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>LFCR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>158980000</scanner:marketCap>
-      <scanner:enterpriseValue>348300000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>2.69</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>8.58</scanner:evGrossProfitLtm>
-      <scanner:fwdEvEbitda>14.01</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>8.58</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>31.37</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Webster Equity Partners affiliates for $6.28 cash + 1 CVR per share&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into a definitive merger agreement to be acquired by affiliates of Webster Equity Partners. Shareholders will receive $6.28 in cash plus one contingent value right (CVR) per share. The transaction is subject to stockholder approval and HSR clearance, and will result in the company&amp;#39;s delisting from Nasdaq.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lifecore Biomedical, Inc., together with its subsidiaries, operates as an integrated contract development and manufacturing organization that serves customers in the United States, Belgium, the Netherlands, and internationally. It provides services in the development, manufacture, aseptic fill, and finish of formulations and highly viscous sterile injectable pharmaceutical drug or medical device products in syringes, vials, and cartridges in various modalities.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Webster Equity Partners affiliates&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; $6.28 cash + 1 CVR&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-27&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; stockholder vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $4.20 · Mkt cap $159.0M · EV $348.3M · Fwd EV/EBITDA 14.0x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1005286/000114036126037767/0001140361-26-037767-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LFCR&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01,7.01 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
