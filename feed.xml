@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 13:30:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:31:01 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · MERC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1333274/000119312526411343/d108140d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-411343</guid>
+      <pubDate>Fri, 02 Oct 2026 08:30:48 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Utilizes grace period on $25.8M interest; in talks for debt recap</scanner:headline>
+      <scanner:shortName>MERCER INTERNATIONAL</scanner:shortName>
+      <scanner:price>0.3200</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Materials</scanner:sector>
+      <scanner:ticker>MERC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>21590000</scanner:marketCap>
+      <scanner:enterpriseValue>1583960000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.85</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>30.04</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>30.03</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>2.84</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Utilizes grace period on $25.8M interest; in talks for debt recap&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is in advanced discussions with an ad hoc group of holders of its 12.875% Senior Notes due 2028 and 5.125% Senior Notes due 2029, representing over 75% of the aggregate outstanding principal, regarding a comprehensive recapitalization transaction. The transaction aims to address upcoming debt maturities, enhance liquidity, and significantly reduce funded debt and interest expense. The company elected to utilize a 30-day grace period for its $25.8 million interest payment due October 1, 2026, on its 2028 Notes.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Mercer International Inc., together with its subsidiaries, manufactures and sells northern bleached softwood kraft (NBSK) and northern bleached hardwood kraft (NBHK) pulp in the United States, Germany, China, and internationally. It operates through two segments, Pulp and Solid Wood. The company manufactures, sells, and distributes pulp, electricity, and chemicals through pulp mills.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ad Hoc Group of Senior Note holders&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; End of 30-day grace period (Oct 31, 2026)&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.3200 · Mkt cap $21.6M · EV $1.58B · Materials / Paper and Forest Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1333274/000119312526411343/0001193125-26-411343-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MERC&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Paper (2611) · 8k_tier1:7.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · PMAX</title>
       <link>https://www.sec.gov/Archives/edgar/data/2012096/000121390026106115/ea0307438-6k_powell.htm</link>
@@ -16927,44 +16964,6 @@
 &lt;p&gt;&lt;i&gt;Px $13.08 · Mkt cap $7.23B · Fwd P/E 9.3x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/714310/000119312526403391/0001193125-26-403391-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VLY, VLYPN, VLYPO, VLYPP&lt;/b&gt; · 8-K · Items 3.02, 7.01, 9.01 · Depository Institutions (6021) · 8k_tier1:7.01 · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · METC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1687187/000121390026103743/ea0306775-8k_ramaco.htm</link>
-      <guid isPermaLink="false">0001213900-26-103743</guid>
-      <pubDate>Mon, 28 Sep 2026 06:37:17 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>8-K</category>
-      <scanner:headline>Won $30.0M jury verdict in insurance coverage litigation</scanner:headline>
-      <scanner:shortName>Ramaco Resources</scanner:shortName>
-      <scanner:price>9.02</scanner:price>
-      <scanner:subtype>won</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>METC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>521050000</scanner:marketCap>
-      <scanner:enterpriseValue>706930000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>1.37</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>9.60</scanner:evGrossProfitLtm>
-      <scanner:fwdEvEbitda>9.86</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>9.60</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>14.29</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Won $30.0M jury verdict in insurance coverage litigation&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that its subsidiary, Ramaco Resources, LLC, won a $30.0 million jury verdict in its insurance coverage lawsuit against Federal Insurance Company and ACE American Insurance Company. The award includes $2.5 million for aggravation and inconvenience and $27.5 million for net economic loss. The court entered judgment on September 25, 2026, though post-trial motions and appeals are possible.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ramaco Resources, Inc. engages in the development, operation, and sale of metallurgical coal. The company’s development portfolio includes the Elk Creek project that covers an area of approximately 20,200 acres located in southern West Virginia; the Berwind property covering an area of approximately 62,500 acres situated on the border of West Virginia and Virginia; the Knox Creek property, which covers an area of approximately 88,850 acres is located in Virginia; the Maben property covering an a…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Federal Insurance Company and ACE American Insurance Company&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Post-trial motions due by October 23, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $9.02 · Mkt cap $521.0M · EV $706.9M · Fwd EV/EBITDA 9.9x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1687187/000121390026103743/0001213900-26-103743-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;METC, METCB, METCI, METCZ&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Coal Mining (1220) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
