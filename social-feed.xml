@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:36:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:37:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BBGI 📍 Stake
+Reports 7.1% stake in Beasley Broadcast Group
+Mcap $26M · EV $196M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1099160/000080724926000088/0000807249-26-000088-index.htm</link>
+      <guid isPermaLink="false">0000807249-26-000088</guid>
+      <pubDate>Fri, 02 Oct 2026 16:37:20 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$CHRN 📤 Divestiture
+Sells Ekso Bionics business unit; completed Sep 30
+Mcap $3.2B · EV $3.3B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1549084/000149315226045612/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-045612</guid>
+      <pubDate>Fri, 02 Oct 2026 16:37:04 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$POWW 🌍 Re-domicile
 Completes redomestication from Delaware to Texas, effective Sep 30
@@ -1226,17 +1244,6 @@ Mcap $16M · EV $13M · Tech</title>
       <guid isPermaLink="false">0000921895-26-002701</guid>
       <pubDate>Thu, 01 Oct 2026 16:37:58 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$AXGN 🤝 Merger
-Completes acquisition of BioCircuit Technologies, adding NerveTape™
-empty
-Mcap $2.5B · EV $2.4B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/805928/000080592826000104/axgn-20261001.htm</link>
-      <guid isPermaLink="false">0000805928-26-000104</guid>
-      <pubDate>Thu, 01 Oct 2026 16:37:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>

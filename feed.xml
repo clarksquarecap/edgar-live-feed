@@ -6,8 +6,77 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:37:35 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · BBGI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1099160/000080724926000088/0000807249-26-000088-index.htm</link>
+      <guid isPermaLink="false">0000807249-26-000088</guid>
+      <pubDate>Fri, 02 Oct 2026 16:37:20 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Reports 7.1% stake in Beasley Broadcast Group</scanner:headline>
+      <scanner:shortName>BEASLEY BROADCAST</scanner:shortName>
+      <scanner:price>12.52</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>BBGI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>26290000</scanner:marketCap>
+      <scanner:enterpriseValue>196380000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.03</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>14.95</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>11.09</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>15.00</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>6.89</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Reports 7.1% stake in Beasley Broadcast Group&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;GAMCO Investors, Inc. and its affiliates, including Gabelli Funds, LLC and GAMCO Asset Management Inc., reported an aggregate beneficial ownership of 7.1% of Beasley Broadcast Group Inc.&amp;#39;s Class A Common Stock as of September 30, 2026. This Schedule 13D/A filing updates their holdings in the company.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Beasley Broadcast Group, Inc., a multi-platform media company, owns and operates radio stations in the United States. It operates in two segments: Audio and Digital. The company offers local and national advertisers integrated marketing solutions across audio, digital, and event platforms. The company owns 49 radio properties located in large and medium-sized markets. Beasley Broadcast Group, Inc. was founded in 1961 and is based in Naples, Florida.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 7.1%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $12.52 · Mkt cap $26.3M · EV $196.4M · Fwd EV/EBITDA 11.1x · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1099160/000080724926000088/0000807249-26-000088-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BBGI&lt;/b&gt; · SCHEDULE 13D/A · Communications (4832) · amended_13d · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📤 Divestiture · CHRN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1549084/000149315226045612/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-045612</guid>
+      <pubDate>Fri, 02 Oct 2026 16:37:04 -0500</pubDate>
+      <category>DIVESTITURE</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Sells Ekso Bionics business unit; completed Sep 30</scanner:headline>
+      <scanner:shortName>ChronoScale Holdings</scanner:shortName>
+      <scanner:price>19.85</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>CHRN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3182180000</scanner:marketCap>
+      <scanner:enterpriseValue>3293080000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>45.99</scanner:evSalesLtm>
+      <scanner:fwdEvEbitda>70.57</scanner:fwdEvEbitda>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sells Ekso Bionics business unit; completed Sep 30&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed the sale of its wholly owned subsidiary, Ekso Bionics, Inc., on September 30, 2026. The company also announced new AI infrastructure customer agreements, projecting $1 billion in annualized revenue run-rate by Q3 2027.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ChronoScale Holdings Corporation designs and develops a compute platform to support artificial intelligence (AI) workloads in the United States. The company focuses on large-scale deployments and provides dedicated compute environments engineered for performance, consistency, and long-term operational execution. It also provides graphics processing units; computing solutions; AI; machine learning; and high-performance computing solutions.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Px $19.85 · Mkt cap $3.18B · EV $3.29B · Fwd EV/EBITDA 70.6x · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1549084/000149315226045612/0001493152-26-045612-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CHRN&lt;/b&gt; · 8-K · Items 5.02, 5.03, 7.01, 9.01 · Industrial Machinery (3569) · 8k_tier1:7.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧭 Domicile · POWW</title>
       <link>https://www.sec.gov/Archives/edgar/data/1015383/000149315226045615/form8-k.htm</link>
@@ -16908,71 +16977,6 @@
 &lt;p&gt;&lt;i&gt;Px $76.13 · Mkt cap $6.36B · EV $7.61B · Fwd P/E 14.4x · Fwd EV/EBITDA 10.3x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1384905/000138490526000050/0001384905-26-000050-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RNG&lt;/b&gt; · 8-K · Items 5.08, 8.01, 9.01 · Business Services (7374) · 8k_tier1:5.08,8.01 · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · SBXD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2015947/000110465926111396/tm2626499d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111044</guid>
-      <pubDate>Mon, 28 Sep 2026 15:49:37 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>8-K</category>
-      <scanner:headline>Forced NYSE delisting effective today; now trading on OTCID Basic Market</scanner:headline>
-      <scanner:shortName>SilverBox Corp IV</scanner:shortName>
-      <scanner:price>11.39</scanner:price>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>SBXD</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>8-K x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>71290000</scanner:marketCap>
-      <scanner:enterpriseValue>71790000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Forced NYSE delisting; trading suspended, moving to OTC Sept 28&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received notice from NYSE Regulation of a forced delisting due to failing to maintain the $40M average market capitalization standard. Trading in its units, Class A ordinary shares, and warrants on the NYSE has been suspended as of September 25, 2026. Effective September 28, 2026, the securities may be quoted and traded on the over-the-counter market.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; SilverBox Corp IV does not have significant operations. It intends to effect a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company focus for the target business in the field of consumer, food and agriculture, e-commerce, internet and retail, financial services and technology, media, entertainment, hospitality, business services, software, SaaS, telecommunications services and technology,…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $11.39 · Mkt cap $71.3M · EV $71.8M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2015947/000110465926111044/0001104659-26-111044-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SBXD, SBXD-UN, SBXD-WT&lt;/b&gt; · 8-K · Items 3.01 · Holding / Investment Offices (6770) · 8k_tier1:3.01 · filed 2026-09-25&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 28 15:49 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2015947/000110465926111396/tm2626499d1_8k.htm'&gt;Forced NYSE delisting effective today; now trading on OTCID Basic Market&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 25 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/2015947/000110465926111044/tm2626181d1_8k.htm'&gt;Forced NYSE delisting; trading suspended, moving to OTC Sept 28&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · SUN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1552275/000155227526000084/sunform25notificationofrem.htm</link>
-      <guid isPermaLink="false">0001552275-26-000084</guid>
-      <pubDate>Mon, 28 Sep 2026 15:49:18 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>25</category>
-      <scanner:headline>Voluntary delisting of common units from NYSE effective today</scanner:headline>
-      <scanner:shortName>Sunoco</scanner:shortName>
-      <scanner:price>74.47</scanner:price>
-      <scanner:subtype>voluntary</scanner:subtype>
-      <scanner:form>25</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>SUN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>25</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>10234390000</scanner:marketCap>
-      <scanner:enterpriseValue>25809390000</scanner:enterpriseValue>
-      <scanner:fwdPE>20.24</scanner:fwdPE>
-      <scanner:fwdEvEbitda>7.02</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>5.46</scanner:fwdEvGrossProfit>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Voluntary delisting of common units from NYSE effective today&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Has filed Form 25 to voluntarily withdraw its Common Units Representing Limited Partner Interests from listing and registration on the New York Stock Exchange. The delisting is effective on September 28, 2026, as the issuer has complied with the rules for voluntary withdrawal.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Sunoco LP, together with its subsidiaries, engages in the energy infrastructure and distribution of motor fuels in the United States. It operates in four segments: Fuel Distribution, Pipeline Systems, Refinery, and Terminals. The Fuel Distribution segment distributes motor fuels and other petroleum products, such as propane and lubricating oil to third-party dealers and distributors, independent operators of commission agent locations, other commercial consumers of motor fuel, and retail locatio…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $74.47 · Mkt cap $10.23B · EV $25.81B · Fwd P/E 20.2x · Fwd EV/EBITDA 7.0x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1552275/000155227526000084/0001552275-26-000084-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SUN&lt;/b&gt; · 25 · Petroleum Refining (2911) · prefill_form:25 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
