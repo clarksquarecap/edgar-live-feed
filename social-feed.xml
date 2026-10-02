@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:10:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PSNL 📦 Going Private
+Acquired by Tempus AI in going-private merger; S-4/proxy statement amended
+Mcap $1.7B · EV $1.6B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1527753/000119312526412568/d144882dsc13e3a.htm</link>
+      <guid isPermaLink="false">0001193125-26-412568</guid>
+      <pubDate>Fri, 02 Oct 2026 16:09:57 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$GME 📍 Stake
 Increases GME stake to 8.9% with 700K share purchase at $24.41/share
@@ -1140,28 +1150,6 @@ Mcap $378M · EV $347M · Materials</title>
       <guid isPermaLink="false">0001654954-26-008753</guid>
       <pubDate>Thu, 01 Oct 2026 16:11:59 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$ESOA 🤝 Merger
-Acquires FAMCO, Inc. for $6.95M cash + stock; close Oct 9
-cash+stk · close 2026-10-09
-Mcap $208M · EV $242M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1357971/000110465926112883/tm2626742d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112883</guid>
-      <pubDate>Thu, 01 Oct 2026 16:05:19 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RILY 🤝 Merger
-Acquires Sangoma for $4.925 cash + 0.04767 RILY shares per share; close Jan 2027
-Sangoma Technologies · cash+stk · close January 2027
-Mcap $230M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1464790/000121390026105855/ea0307103-8k_brcgroup.htm</link>
-      <guid isPermaLink="false">0001104659-26-111514</guid>
-      <pubDate>Thu, 01 Oct 2026 16:05:02 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>

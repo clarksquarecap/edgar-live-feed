@@ -6,8 +6,44 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:10:04 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔐 Going Private · Definitive · PSNL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1527753/000119312526412568/d144882dsc13e3a.htm</link>
+      <guid isPermaLink="false">0001193125-26-412568</guid>
+      <pubDate>Fri, 02 Oct 2026 16:09:57 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>definitive</category>
+      <category>SC 13E3/A</category>
+      <scanner:headline>Acquired by Tempus AI in going-private merger; S-4/proxy statement amended</scanner:headline>
+      <scanner:shortName>Personalis</scanner:shortName>
+      <scanner:price>16.28</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>SC 13E3/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>PSNL</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC 13E3/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1726950000</scanner:marketCap>
+      <scanner:enterpriseValue>1552290000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>22.28</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>175.64</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>176.97</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>12.69</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Tempus AI in going-private merger; S-4/proxy statement amended&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Filed an Amendment No. 1 to its Rule 13e-3 Transaction Statement, in connection with an amended preliminary S-4 registration statement and proxy statement. The filing progresses the definitive going-private merger with Tempus AI, Inc. and its subsidiaries. Upon completion, Personalis Common Stock will be delisted and deregistered.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Personalis, Inc. develops, markets, and sells advanced cancer genomic tests and services in the United States and internationally. The company offers NeXT Personal, a tumor-informed liquid biopsy test for detection of minimal residual disease (MRD), therapy response and recurrence monitoring in solid tumor cancers; and ImmunoID NeXT, a tissue-based service that combines whole exome and whole transcriptome sequencing data with advanced analytics to provide a multi-dimensional view of the tumor an…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Tempus AI, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $16.28 · Mkt cap $1.73B · EV $1.55B · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1527753/000119312526412568/0001193125-26-412568-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PSNL&lt;/b&gt; · SC 13E3/A · Health Services (8071) · prefill_form:SC 13E3 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · GME</title>
       <link>https://www.sec.gov/Archives/edgar/data/1326380/000092189526002718/0000921895-26-002718-index.htm</link>
@@ -16934,40 +16970,6 @@
 &lt;p&gt;&lt;i&gt;Px $20.85 · Mkt cap $12.94B · EV $20.58B · Fwd P/E 7.2x · Fwd EV/EBITDA 7.5x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/849399/000084939926000071/0000849399-26-000071-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GEN, GENVR&lt;/b&gt; · 8-K · Items 7.01, 9.01 · Business Services (7372) · 8k_tier1:7.01 · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · TRMD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1655891/000091957426006535/p15101807_6-k.htm</link>
-      <guid isPermaLink="false">0000919574-26-006535</guid>
-      <pubDate>Mon, 28 Sep 2026 15:29:02 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>OCM Njord Holdings holds 6.17% of A shares</scanner:headline>
-      <scanner:shortName>TORM</scanner:shortName>
-      <scanner:price>34.30</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>TRMD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3564430000</scanner:marketCap>
-      <scanner:enterpriseValue>4260570000</scanner:enterpriseValue>
-      <scanner:fwdPE>10.27</scanner:fwdPE>
-      <scanner:fwdEvEbitda>5.53</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>4.17</scanner:fwdEvGrossProfit>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;OCM Njord Holdings holds 6.17% of A shares&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that as of September 23, 2026, OCM Njord Holdings S.à r.l., ultimately controlled by Brookfield Corporation, holds 6,329,874 Class A common shares, representing 6.17% of the total share capital and voting rights.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; TORM plc, a shipping company, owns and operates a fleet of product tankers in the United Kingdom and internationally. It operates in two segments, Tanker and Marine Engineering. The Tanker segment transports refined oil products, such as gasoline, jet fuel, diesel, naphtha, and gas oil, as well as dirty petroleum products, such as residual fuels and crude oil. The Marine Engineering segment engages in developing and producing advanced and green marine equipment.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; OCM Njord Holdings S.à r.l.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 6.17%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $34.30 · Mkt cap $3.56B · EV $4.26B · Fwd P/E 10.3x · Fwd EV/EBITDA 5.5x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1655891/000091957426006535/0000919574-26-006535-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TRMD&lt;/b&gt; · 6-K · Water Transportation (4412) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
