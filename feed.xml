@@ -6,8 +6,42 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:40:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:42:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · NNE</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1923891/000149315226045534/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-045534</guid>
+      <pubDate>Fri, 02 Oct 2026 15:42:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires nuclear fuel processing assets from Radnostix for $13.5M cash+stock</scanner:headline>
+      <scanner:shortName>Nano Nuclear Energy</scanner:shortName>
+      <scanner:price>15.62</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>NNE</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>844670000</scanner:marketCap>
+      <scanner:enterpriseValue>265870000</scanner:enterpriseValue>
+      <scanner:grossMarginLtm>29.06</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires nuclear fuel processing assets from Radnostix for $13.5M cash+stock&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Through its subsidiary HALEU Energy Fuel Inc., entered into an Asset Purchase Agreement to acquire all U.S. nuclear fuel processing assets from Radnostix, Inc. and International Isotopes Fluorine Products, Inc. The total consideration is $13.5 million, comprising $9.5 million in cash (less $0.5M escrow) and $4 million in restricted common stock. Closing is subject to NRC license transfer consent and site arrangements, expected within 90 to 120 days.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; NANO Nuclear Energy Inc. operates as a nuclear energy company. The company is developing KRONOS MMR Energy System, a high-temperature gas-cooled reactor; LOKI MMR, a compact microreactor designed for remote and specialized applications; ZEUS, a solid core battery reactor; and ODIN, a low-pressure salt coolant reactor.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Radnostix, Inc. and International Isotopes Fluorine Products, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 13500000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026 / Q1 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; NRC license transfer consent&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $15.62 · Mkt cap $844.7M · EV $265.9M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1923891/000149315226045534/0001493152-26-045534-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NNE&lt;/b&gt; · 8-K · Items 1.01, 3.02, 7.01, 9.01 · Utilities (4911) · 8k_tier1:1.01,7.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · WFF</title>
       <link>https://www.sec.gov/Archives/edgar/data/1980210/000121390026106372/ea0307158-6k_wfholding.htm</link>
@@ -16910,36 +16944,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.76 · Mkt cap $860K · EV $7.7M · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1991605/000121390026104027/0001213900-26-104027-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;YMT&lt;/b&gt; · 6-K · Business Services (7374) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Preliminary · FRSX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1691221/000149315226044554/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044554</guid>
-      <pubDate>Mon, 28 Sep 2026 15:06:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-      <category>6-K</category>
-      <scanner:headline>Plans 50.01% acquisition of 270MW European Data Center developer</scanner:headline>
-      <scanner:shortName>Foresight Autonomous</scanner:shortName>
-      <scanner:price>1.17</scanner:price>
-      <scanner:subtype>preliminary</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>FRSX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>4750000</scanner:marketCap>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Plans 50.01% acquisition of 270MW European Data Center developer&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered a non-binding term sheet to acquire a 50.01% controlling interest in a company developing data centers in Poland. The target company is advancing two projects in Warsaw and Wroclaw with a combined planned capacity of up to 270 MW. The purchase price will be determined by an independent valuation and financed through a seller loan, with additional shareholder loans of up to $3.5 million from current shareholders.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Foresight Autonomous Holdings Ltd., a technology company, engages in the development of three-dimensional (3D) perception systems and cellular-based applications for the automotive industry in Israel, Japan, the United States, South Korea, France, and internationally. It develops in-line-of-sight vision solutions and beyond-line-of-site accident-prevention solutions.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Data Centers Company&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 50.01%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Definitive agreement&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.17 · Mkt cap $4.8M · EV $-1.9M · Consumer Discretionary / Automobile Components&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1691221/000149315226044554/0001493152-26-044554-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FRSX&lt;/b&gt; · 6-K · Business Services (7372) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
