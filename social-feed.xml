@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 00:53:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:06:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$DH 📦 Going Private
@@ -1486,26 +1486,6 @@ Receives 13D from NCCS Management disclosing 4.6% stake</title>
       <guid isPermaLink="false">0001493152-26-045190</guid>
       <pubDate>Wed, 30 Sep 2026 20:17:58 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$SSTI 📦 Going Private
-Acquired by Transom Capital affiliate for $8.00 cash + CVR
-cash+stk
-Mcap $72M · EV $71M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1351636/000114036126038126/0001140361-26-038126-index.htm</link>
-      <guid isPermaLink="false">0001140361-26-038126</guid>
-      <pubDate>Wed, 30 Sep 2026 20:04:41 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$SSTI 🤝 Merger
-Acquired by Transom Capital affiliates via tender offer; offer to commence by Oct 19
-Mcap $72M · EV $71M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1351636/000177235126000012/0001772351-26-000012-index.htm</link>
-      <guid isPermaLink="false">0001772351-26-000012</guid>
-      <pubDate>Wed, 30 Sep 2026 20:04:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
