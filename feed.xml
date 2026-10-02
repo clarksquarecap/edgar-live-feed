@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:35:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · SPKL</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1884046/000110465926113281/tm2617742d15_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-113281</guid>
+      <pubDate>Fri, 02 Oct 2026 15:29:30 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>8-K</category>
+      <scanner:headline>Forced Nasdaq delisting effective Oct 7; will trade on OTC Pink</scanner:headline>
+      <scanner:shortName>Spark I Acquisition</scanner:shortName>
+      <scanner:price>11.53</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>SPKL</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>100100000</scanner:marketCap>
+      <scanner:enterpriseValue>104170000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Oct 7; will trade on OTC Pink&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation received notice from Nasdaq that its securities will be delisted due to failure to complete its initial business combination by September 29, 2026. Trading in its Class A ordinary shares, units, and warrants will be suspended from trading at the opening of business on October 7, 2026. Nasdaq will file a Form 25-NSE to remove the securities from listing and registration. The company expects to trade on the Pink Limited Market under SPKL, SPKLU, and SPKLW.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Spark I Acquisition Corporation does not have significant operations. The company focuses on effecting a merger, capital stock exchange, asset acquisition, stock purchase, reorganization, or similar business combination with one or more businesses. It intends to target late-stage technology startups in Asia or U.S. technology companies with a strong Asia presence or strategy. Spark I Acquisition Corporation was incorporated in 2021 and is based in Palo Alto, California.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-07&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-07&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $11.53 · Mkt cap $100.1M · EV $104.2M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1884046/000110465926113281/0001104659-26-113281-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SPKL, SPKLU, SPKLW&lt;/b&gt; · 8-K · Items 3.01 · Electronic Equipment (3690) · 8k_tier1:3.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🧬 Spin-Off · FLEX</title>
       <link>https://www.sec.gov/Archives/edgar/data/866374/000110465926113282/tm2626870d1_8k.htm</link>
@@ -16910,43 +16940,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.22 · Mkt cap $9.2M · EV $16.3M · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1982960/000149315226044495/0001493152-26-044495-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KNRX&lt;/b&gt; · 6-K · Business Services (7370) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · CELU</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1752828/000110465926111279/0001104659-26-111279-index.htm</link>
-      <guid isPermaLink="false">0001104659-26-111279</guid>
-      <pubDate>Mon, 28 Sep 2026 12:15:30 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Grants Barach Family Trust 2 board seats; receives $3.21M convertible note</scanner:headline>
-      <scanner:shortName>Celularity</scanner:shortName>
-      <scanner:price>1.38</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>CELU</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>39950000</scanner:marketCap>
-      <scanner:enterpriseValue>108780000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>4.10</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>16.80</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>16.80</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>24.39</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Grants Barach Family Trust 2 board seats; receives $3.21M convertible note&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into a Securities Purchase Agreement with the Philip &amp;amp; Daniele Barach Family Trust, receiving $3.21 million from the sale of a senior secured convertible promissory note and five-year warrants to purchase 1,177,000 shares at $1.50 per share. Concurrently, the company entered a Board Rights Agreement, granting the Trust the right to designate two directors, with Philip Barach already appointed to the five-member board. The Trust&amp;#39;s stake is 29.0% of Class A Common Stock.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Celularity Inc., a cellular and regenerative medicine company, focuses on addressing aging-related disease using novel therapies. The company operates through three segments: Cell Therapy, Degenerative Disease, and BioBanking. It develops off-the-shelf placental-derived allogeneic cell therapy product candidates, including mesenchymal-like adherent stromal cells for diabetic foot ulcer and Crohn’s disease.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Philip &amp;amp; Daniele Barach Family Trust&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 3,210,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 29.0%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2027-09-30&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.38 · Mkt cap $40.0M · EV $108.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1752828/000110465926111279/0001104659-26-111279-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CELU&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

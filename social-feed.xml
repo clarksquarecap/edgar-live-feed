@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:35:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SPKL 📉 Delisting · Forced
+Forced Nasdaq delisting effective Oct 7; will trade on OTC Pink
+effective 2026-10-07
+Mcap $100M · EV $104M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1884046/000110465926113281/tm2617742d15_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-113281</guid>
+      <pubDate>Fri, 02 Oct 2026 15:29:30 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$FLEX 🪓 Spinoff
 Plans spin-off of cloud &amp; power infrastructure business
@@ -1107,46 +1118,6 @@ Mcap $273B · Financials</title>
       <guid isPermaLink="false">0001193125-26-410742</guid>
       <pubDate>Thu, 01 Oct 2026 15:41:44 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$INSG 📍 Stake
-Issues 14.2% stake to Nokia for FWA business acquisition &amp; $10M investment
-Mcap $60M · EV $112M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1022652/000119312526410680/0001193125-26-410680-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-410680</guid>
-      <pubDate>Thu, 01 Oct 2026 15:35:14 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NKE 🔎 Strat Review · Portfolio Review
-Launches 'Pace' operating model transformation; $1B charges, $2.5B savings by FY31
-Mcap $53B · EV $55B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/320187/000032018726000184/nke-20261001.htm</link>
-      <guid isPermaLink="false">0000320187-26-000184</guid>
-      <pubDate>Thu, 01 Oct 2026 15:34:33 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>portfolio_review</category>
-    </item>
-    <item>
-      <title>$AHT 📤 Divestiture
-Sells Embassy Suites Las Vegas for $42.7M cash
-to 4315 Hospitality · 42.7 million deal
-Mcap $15M · EV $2.4B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1232582/000123258226000199/aht-20260925.htm</link>
-      <guid isPermaLink="false">0001232582-26-000199</guid>
-      <pubDate>Thu, 01 Oct 2026 15:31:39 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$HTO 🤝 Merger
-Acquires Quadvest's water/sewer utility business for $540M
-cash
-Mcap $2.6B · EV $4.4B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/766829/000162828026064259/sjw-20261001.htm</link>
-      <guid isPermaLink="false">0001628280-26-064259</guid>
-      <pubDate>Thu, 01 Oct 2026 15:30:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
