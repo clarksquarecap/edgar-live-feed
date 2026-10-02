@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:13:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$LNTH 🤝 Merger
+Provides supplemental disclosures for Curium merger; vote Oct 14
+Curium US Holdings
+Mcap $6.5B · EV $6.5B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1521036/000119312526412563/d31891d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-412567</guid>
+      <pubDate>Fri, 02 Oct 2026 16:13:07 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$BKYI 🪙 Debt Restr.
+Exchanges $416.3K debt for 247,805 common shares with Streeterville Capital
+Mcap $3M · EV $3M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1019034/000143774926031903/bkyi20261002_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-031903</guid>
+      <pubDate>Fri, 02 Oct 2026 16:12:56 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$CEIN 🪙 Debt Restr.
+Amends convertible note, extends maturity to Apr 2027; conversion price $0.02 on default
+Mcap $8M · EV $61M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1309082/000147793226006028/cei_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-006028</guid>
+      <pubDate>Fri, 02 Oct 2026 16:12:41 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$DFLI 🪙 Debt Restr.
 Secures waivers from lenders, preferred holders; defers Series B dividend
@@ -45,16 +74,6 @@ Mcap $113B · EV $133B · Healthcare</title>
       <guid isPermaLink="false">0001628280-26-062507</guid>
       <pubDate>Fri, 02 Oct 2026 16:10:40 -0500</pubDate>
       <category>SPLIT_OFF</category>
-    </item>
-    <item>
-      <title>$LNTH 🤝 Merger
-Acquired by Curium US Holdings; vote Oct 14; supplemental disclosures for litigation
-Mcap $6.5B · EV $6.5B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1521036/000119312526412567/d113673ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-412567</guid>
-      <pubDate>Fri, 02 Oct 2026 16:10:31 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$PSNL 📦 Going Private
@@ -1159,27 +1178,6 @@ Mcap $74M · EV $173M · Real Estate</title>
       <pubDate>Thu, 01 Oct 2026 16:20:40 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$SZZL 🤝 Merger
-Files draft F-4 for Trasteel business combination
-Mcap $328M · EV $328M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2030663/000121390026105864/ea0307385-8k425_sizzle2.htm</link>
-      <guid isPermaLink="false">0001213900-26-104909</guid>
-      <pubDate>Thu, 01 Oct 2026 16:12:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ELE 🤝 Merger
-Acquires precious metals portfolio from Orion for $290M cash+equity; close Q4 2026
-cash+stk
-Mcap $1.3B · EV $1.2B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2086771/000106299326005140/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-005140</guid>
-      <pubDate>Thu, 01 Oct 2026 16:12:24 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
