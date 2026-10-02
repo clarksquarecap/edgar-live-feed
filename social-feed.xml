@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:54:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:55:47 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$NMCO 👀 Activist
+Amends preferred share purchase agreement covenants; holds 50.7% of class
+Mcap $486M · EV $914M · Financial Serv</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1774342/000007085826000471/0000070858-26-000471-index.htm</link>
+      <guid isPermaLink="false">0000070858-26-000471</guid>
+      <pubDate>Fri, 02 Oct 2026 15:55:39 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$GOLD 🪙 Debt Restr.
+Amends credit facility to $250M, removes caps on dividends &amp; buybacks
+Mcap $1.2B · EV $1.6B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1591588/000119312526412530/gold-20260929.htm</link>
+      <guid isPermaLink="false">0001193125-26-412530</guid>
+      <pubDate>Fri, 02 Oct 2026 15:55:10 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$SILO 🤝 Merger
+Acquires Norsight Consulting's IP for warrant to purchase 300K shares
+stock
+Mcap $2M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1514183/000121390026106435/ea0307598-8k_silo.htm</link>
+      <guid isPermaLink="false">0001213900-26-106435</guid>
+      <pubDate>Fri, 02 Oct 2026 15:54:52 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$CBDW 💥 Busted M&amp;A
 Terminates acquisition of Sim Agro; mutual release
@@ -1142,26 +1171,6 @@ Mcap $1.0B · EV $1.1B · Cons Disc</title>
       <link>https://www.sec.gov/Archives/edgar/data/903129/000119312526410776/d214921d8k.htm</link>
       <guid isPermaLink="false">0001193125-26-410776</guid>
       <pubDate>Thu, 01 Oct 2026 15:56:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ABAT ⚖️ Litigation · Won
-Won Commerce Dept. license to export $100M recycled black mass
-Mcap $315M · EV $266M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1576873/000149315226045363/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-045363</guid>
-      <pubDate>Thu, 01 Oct 2026 15:55:40 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$XRPN 🤝 Merger
-Acquired by Armada SPAC; S-4 effective; vote Sept 30 for XRPN listing
-Mcap $518M · EV $518M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2092592/000095010326014952/dp254370_425.htm</link>
-      <guid isPermaLink="false">0000950103-26-014952</guid>
-      <pubDate>Thu, 01 Oct 2026 15:54:35 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
