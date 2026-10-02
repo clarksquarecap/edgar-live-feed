@@ -6,8 +6,29 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:28:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FDXF 👀 Activist
+Sets 2027 annual meeting for May 5; shareholder proposal deadline Nov 24, director nominations Jan 5
+Mcap $17B · EV $23B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2082247/000110465926113295/tm2626881d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-113295</guid>
+      <pubDate>Fri, 02 Oct 2026 15:28:18 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>proxy_deadlines</category>
+    </item>
+    <item>
+      <title>$ESE 🤝 Merger
+Acquires Megger Group for $922M cash + 5.1M shares; deal closed
+Megger Group Limited · $2.3 billion deal · cash+stk
+Mcap $7.0B · EV $7.1B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866706/000110465926113300/tm2626186d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-113300</guid>
+      <pubDate>Fri, 02 Oct 2026 15:27:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OPK 🪙 Debt Restr.
 Elects to settle $121M convertible notes in common stock through Dec 31
@@ -1136,36 +1157,6 @@ Mcap $1.4B · EV $8.9B · Cons Disc</title>
       <guid isPermaLink="false">0001628280-26-064270</guid>
       <pubDate>Thu, 01 Oct 2026 15:30:00 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$MAMK 🌍 Re-domicile
-Shareholders approve re-domestication to Delaware from BVI
-Mcap $216M · EV $221M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2008007/000121390026105793/ea0307295-6k_maxsmaking.htm</link>
-      <guid isPermaLink="false">0001213900-26-105793</guid>
-      <pubDate>Thu, 01 Oct 2026 15:28:46 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$UOKAF 📉 Delisting · Forced
-Forced Nasdaq delisting effective October 12
-effective 2026-10-12
-Mcap $610K · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1741534/000135445726000936/0001354457-26-000936-index.htm</link>
-      <guid isPermaLink="false">0001354457-26-000936</guid>
-      <pubDate>Thu, 01 Oct 2026 15:28:32 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$PMO 💧 Capital Return · Self-tender
-Offers to buy back all preferred shares at $23,218.75/share; expires Oct 29
-Mcap $250M · EV $410M · Financial Serv</title>
-      <link>https://www.sec.gov/Archives/edgar/data/900422/000119312526410675/d134916dsctoi.htm</link>
-      <guid isPermaLink="false">0001193125-26-410675</guid>
-      <pubDate>Thu, 01 Oct 2026 15:27:53 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>

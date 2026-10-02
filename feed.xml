@@ -6,8 +6,85 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:27:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:28:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · Proxy Deadlines · FDXF</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2082247/000110465926113295/tm2626881d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-113295</guid>
+      <pubDate>Fri, 02 Oct 2026 15:28:18 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>proxy_deadlines</category>
+      <category>8-K</category>
+      <scanner:headline>Sets 2027 annual meeting for May 5; shareholder proposal deadline Nov 24, director nominations Jan 5</scanner:headline>
+      <scanner:shortName>FedEx Freight</scanner:shortName>
+      <scanner:price>112.90</scanner:price>
+      <scanner:subtype>proxy_deadlines</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>FDXF</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>16547170000</scanner:marketCap>
+      <scanner:enterpriseValue>22661170000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.58</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.80</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>25.41</scanner:fwdPE>
+      <scanner:fwdEvEbitda>14.44</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>8.73</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>29.28</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Sets 2027 annual meeting for May 5; shareholder proposal deadline Nov 24, director nominations Jan 5&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced its first annual meeting of stockholders will be held on Wednesday, May 5, 2027. Stockholder proposals for inclusion in the proxy statement must be received by November 24, 2026. Director nominations, including proxy access nominations, must be submitted between December 6, 2026, and January 5, 2027.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; FedEx Freight Holding Company, Inc. provides less-than-truckload freight transportation services in the United States and internationally. The company offers FedEx Freight Priority services, including next-business-day service for shipments traveling up to 600 miles and second-business-day service for shipments traveling up to 1,600 miles and backed by a money-back service guarantee if published delivery commitments are not met; and FedEx Freight Economy.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-05-05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2027-01-05&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $112.90 · Mkt cap $16.55B · EV $22.66B · Fwd P/E 25.4x · Fwd EV/EBITDA 14.4x · Industrials / Ground Transportation&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2082247/000110465926113295/0001104659-26-113295-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FDXF&lt;/b&gt; · 8-K · Items 5.08, 8.01 · Air Transportation (4513) · 8k_tier1:5.08,8.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · ESE</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866706/000110465926113300/tm2626186d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-113300</guid>
+      <pubDate>Fri, 02 Oct 2026 15:27:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Megger Group for $922M cash + 5.1M shares; deal closed</scanner:headline>
+      <scanner:shortName>ESCO TECHNOLOGIES</scanner:shortName>
+      <scanner:price>274.95</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>ESE</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>6992970000</scanner:marketCap>
+      <scanner:enterpriseValue>7070390000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>5.48</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>13.04</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>29.68</scanner:fwdPE>
+      <scanner:fwdEvEbitda>20.05</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>12.81</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>42.01</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Megger Group for $922M cash + 5.1M shares; deal closed&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Completed its acquisition of Megger Group Limited for approximately $2.3 billion, consisting of $922 million in cash and 5.10 million shares of ESE common stock. The purchase price is subject to a post-closing adjustment. In connection with the transaction, ESE and the seller, TBG AG, entered into a shareholder agreement providing for board representation, transfer restrictions, and standstill provisions for TBG AG.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ESCO Technologies Inc. provides engineered components and systems for aviation, navy, defense, and industrial customers. The Aerospace &amp;amp; Defense segment designs and manufactures specialty filtration products, including hydraulic filter elements and fluid control devices used in commercial and defense aerospace applications; miniature electro-explosive devices for military aircraft ejection seats and missile arming devices; manufactures and sells mission-critical bushings, pins, sleeves, and prec…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Megger Group Limited&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $2.3 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-04-15&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $274.95 · Mkt cap $6.99B · EV $7.07B · Fwd P/E 29.7x · Fwd EV/EBITDA 20.1x · Industrials / Machinery&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/866706/000110465926113300/0001104659-26-113300-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ESE&lt;/b&gt; · 8-K · Items 1.01, 1.02, 2.01, 2.03, 5.02, 9.01 · Electronic Equipment (3669) · 8k_tier1:1.01,1.02,2.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · OPK</title>
       <link>https://www.sec.gov/Archives/edgar/data/944809/000119312526412284/opk-20260930.htm</link>
@@ -16868,71 +16945,6 @@
 &lt;p&gt;&lt;i&gt;Px $1.38 · Mkt cap $40.0M · EV $108.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1752828/000110465926111279/0001104659-26-111279-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CELU&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2834) · fresh_13d · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · PC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1998056/000149315226044487/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044487</guid>
-      <pubDate>Mon, 28 Sep 2026 11:51:59 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>6-K</category>
-      <scanner:headline>Receives Nasdaq delisting determination; intends to appeal</scanner:headline>
-      <scanner:shortName>Premium Catering</scanner:shortName>
-      <scanner:price>9.40</scanner:price>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>PC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>30500000</scanner:marketCap>
-      <scanner:enterpriseValue>23200000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Receives Nasdaq delisting determination; intends to appeal&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Limited received a Staff Delisting Determination from Nasdaq on September 22, 2026, citing discretionary authority under Rule IM-5101-4 due to potential third-party misconduct impacting its securities. The company intends to appeal the determination by requesting an oral hearing before the Nasdaq Hearings Panel by September 29, 2026. A timely request will stay the delisting, but the trading halt remains in effect.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Premium Catering (Holdings) Limited, through its subsidiary, engages in the food catering business for function, events, and workers in Singapore. It provides Halal food catering offering Indian, Bangladesh, and Chinese cuisine; and budget prepared meals to foreign workers, students, and other individuals residing in dormitories, as well foreign workers in the marine, and manufacturing industries.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Nasdaq&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-22&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $9.40 · Mkt cap $30.5M · EV $23.2M · Consumer Discretionary / Hotels, Restaurants and Leisure&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1998056/000149315226044487/0001493152-26-044487-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PC&lt;/b&gt; · 6-K · Retail; Food Service (5812) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Buyback Authorization · RACE</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1648416/000164841626000123/fnvbb280926prcov.htm</link>
-      <guid isPermaLink="false">0001648416-26-000123</guid>
-      <pubDate>Mon, 28 Sep 2026 11:40:01 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-      <category>6-K</category>
-      <scanner:headline>Reports €29.8M share repurchases under €3.5B buyback program</scanner:headline>
-      <scanner:shortName>Ferrari</scanner:shortName>
-      <scanner:price>397.10</scanner:price>
-      <scanner:subtype>buyback_authorization</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>RACE</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>78327670000</scanner:marketCap>
-      <scanner:enterpriseValue>80311230000</scanner:enterpriseValue>
-      <scanner:fwdPE>34.21</scanner:fwdPE>
-      <scanner:fwdEvEbitda>22.42</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>18.56</scanner:fwdEvGrossProfit>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Reports €29.8M share repurchases under €3.5B buyback program&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Reported the purchase of 82,524 common shares for a total consideration of €29,796,393.26 between September 21-25, 2026, under its €250 million third tranche buyback program. This program is part of a larger multi-year €3.5 billion share buyback plan expected to be completed by 2030. As of September 25, 2026, the Company held 1,805,393 treasury shares, representing 1.02% of total issued common shares.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ferrari N.V., through its subsidiaries, engages in design, engineering, production, and sale of luxury performance sports cars worldwide. It offers sports, track, one-off, and road cars, as well as supercars. The company also provides spare parts and engines, as well as after sales, repair, maintenance, and restoration services for cars; and licenses its Ferrari brand to various producers and retailers of luxury and lifestyle goods.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 3,500,000,000 EUR&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 1.02%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2030&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $397.10 · Mkt cap $78.33B · EV $80.31B · Fwd P/E 34.2x · Fwd EV/EBITDA 22.4x · Consumer Discretionary / Automobiles&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1648416/000164841626000123/0001648416-26-000123-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RACE&lt;/b&gt; · 6-K · Transportation Equipment (3711) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
