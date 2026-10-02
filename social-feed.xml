@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 13:05:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:11:51 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$HUBG 👀 Activist
@@ -1285,15 +1285,6 @@ Mcap $1.8B · EV $1.8B · Industrials</title>
       <guid isPermaLink="false">0001193125-26-406039</guid>
       <pubDate>Thu, 01 Oct 2026 08:14:04 -0500</pubDate>
       <category>TENDER_OFFER</category>
-    </item>
-    <item>
-      <title>$LRHC 🪙 Debt Restr.
-Restructures debt/liabilities for Series F Preferred; acquires GPUs
-Mcap $1M · EV $23M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1879403/000121390026105473/ea0307162-8k_larosa.htm</link>
-      <guid isPermaLink="false">0001213900-26-105473</guid>
-      <pubDate>Thu, 01 Oct 2026 08:06:34 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
