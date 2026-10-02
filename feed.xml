@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:51:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · WU</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1365135/000119312526412336/d160759d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-412336</guid>
+      <pubDate>Fri, 02 Oct 2026 15:45:34 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Re-files HSR for IMXI merger; California DFPI approval pending</scanner:headline>
+      <scanner:shortName>Western Union CO</scanner:shortName>
+      <scanner:price>6.01</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>WU</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1877510000</scanner:marketCap>
+      <scanner:enterpriseValue>3654910000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.91</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.58</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>4.10</scanner:fwdPE>
+      <scanner:fwdEvEbitda>4.15</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>2.55</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>35.09</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Re-files HSR for IMXI merger; California DFPI approval pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Re-filed its Premerger Notification and Report Forms under the HSR Act with respect to its previously announced merger with International Money Express, Inc. The new filing initiates a new 30-day waiting period, as the previous HSR clearance expired. The company continues discussions with the California Department of Financial Protection and Innovation regarding reinstatement of its approval, which remains suspended.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; The Western Union Company provides money movement payments, and digital financial services in the United States and internationally. It operates through two segments, Consumer Money Transfer and Consumer Services. The Consumer Money Transfer segment facilitates money transfers for international cross-border and intra-country transfers, primarily through a network of retail agents and owned locations, as well as through websites and mobile devices.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; International Money Express, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-08-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR waiting period expiration (~Nov 1, 2026)&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $6.01 · Mkt cap $1.88B · EV $3.65B · Fwd P/E 4.1x · Fwd EV/EBITDA 4.2x · Financials / Financial Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1365135/000119312526412336/0001193125-26-412336-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WU&lt;/b&gt; · 8-K · Items 8.01 · Business Services (7389) · 8k_tier1:8.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · TAVI</title>
       <link>https://www.sec.gov/Archives/edgar/data/2020385/000121390026106418/ea0307552-8k_tavia.htm</link>
@@ -16919,37 +16958,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.85 · Mkt cap $2.0M · EV $10.5M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1792030/000117891326004635/0001178913-26-004635-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;IMCC&lt;/b&gt; · 6-K · Chemicals / Pharma (2833) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SVAQ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2085659/000121390026104040/ea0300424-02.htm</link>
-      <guid isPermaLink="false">0001213900-26-104040</guid>
-      <pubDate>Mon, 28 Sep 2026 15:15:28 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4</category>
-      <scanner:headline>Acquires EigenQ Inc. in business combination; will rename to EigenQ Holdings</scanner:headline>
-      <scanner:shortName>EigenQ</scanner:shortName>
-      <scanner:price>10.11</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>SVAQ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>296430000</scanner:marketCap>
-      <scanner:enterpriseValue>295250000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires EigenQ Inc. in business combination; will rename to EigenQ Holdings&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Silicon Valley Acquisition Corp. (SVAQ) filed an S-4 registration statement for its business combination with EigenQ, Inc. Upon closing, SVAQ will reincorporate from the Cayman Islands to Delaware and be renamed EigenQ Holdings, Inc. The transaction involves the issuance of SVAQ securities to EigenQ shareholders.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Silicon Valley Acquisition Corp. does not have significant operations. The company focuses on effecting a merger, share exchange, asset acquisition, share purchase, recapitalization, reorganization, or other similar business combination with one or more businesses. It intends to target companies in the fintech and digital assets, AI and digital infrastructure, energy transition and sustainability, mobility and autotech, technology, consumer, mining, and healthcare industries.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-06&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.11 · Mkt cap $296.4M · EV $295.2M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2085659/000121390026104040/0001213900-26-104040-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SVAQ, SVAQU, SVAQW&lt;/b&gt; · S-4 · Business Services (7372) · prefill_form:S-4 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
