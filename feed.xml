@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:55:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:02:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · JMSB</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1710482/000110465926113340/tm2625851-1_s4.htm</link>
+      <guid isPermaLink="false">0001104659-26-113340</guid>
+      <pubDate>Fri, 02 Oct 2026 16:02:03 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>S-4</category>
+      <scanner:headline>Acquires Eagle Financial Services for 2.00x stock; implied $46.72/share</scanner:headline>
+      <scanner:shortName>John Marshall Bancorp</scanner:shortName>
+      <scanner:price>23.03</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>S-4</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>JMSB</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>S-4</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>321610000</scanner:marketCap>
+      <scanner:fwdPE>10.18</scanner:fwdPE>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Eagle Financial Services for 2.00x stock; implied $46.72/share&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive agreement to acquire Eagle Financial Services, Inc. (EFSI) in an all-stock transaction. Each EFSI common share will convert into 2.00 shares of JMSB common stock. Based on JMSB&amp;#39;s closing price of $23.36 on September 4, 2026, the implied value for each EFSI share was $46.72. JMSB expects to issue approximately 10,823,230 shares in the merger.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; John Marshall Bancorp, Inc. operates as the bank holding company for John Marshall Bank that provides banking products and financial services in Arlington, Fairfax, Loudoun, Prince William, Montgomery, District of Columbia. The company offers checking, NOW, money market accounts, and savings accounts; certificates of deposit; and time, reciprocal IntraFi Demand, IntraFi Money Market, and IntraFi CD deposits.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Eagle Financial Services, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price for Eagle Financial Services:&lt;/b&gt; 46.72&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 252800000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-07&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $23.03 · Mkt cap $321.6M · Fwd P/E 10.2x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1710482/000110465926113340/0001104659-26-113340-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JMSB&lt;/b&gt; · S-4 · Depository Institutions (6022) · prefill_form:S-4 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · NMCO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1774342/000007085826000471/0000070858-26-000471-index.htm</link>
@@ -16927,32 +16958,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFM14A · Sep 28 15:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/919864/000110465926111383/tm2626185-1_defm14a.htm'&gt;Acquired by First Financial for 1.35 FFBC shares; vote Nov 2&lt;/a&gt;&lt;/li&gt;&lt;li&gt;S-4/A · Sep 23 15:37 · &lt;a href='https://www.sec.gov/Archives/edgar/data/708955/000110465926109997/tm2624150-3_s4a.htm'&gt;Acquires Finward Bancorp for 1.35 FFBC shares (~$47.90/share); vote Nov 2&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;Acquirer FFBC also filed S-4/A&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Self Tender · VINEBROOK HOMES</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1755755/000143774926031347/vhti20260928_sctoia.htm</link>
-      <guid isPermaLink="false">0001437749-26-030920</guid>
-      <pubDate>Mon, 28 Sep 2026 15:26:30 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-      <category>SC TO-I/A</category>
-      <scanner:headline>Launches $30M self-tender for 909,090 Class A shares at $33.00; expires Oct 5</scanner:headline>
-      <scanner:shortName>VINEBROOK HOMES</scanner:shortName>
-      <scanner:subtype>self_tender</scanner:subtype>
-      <scanner:form>SC TO-I/A</scanner:form>
-      <scanner:sector />
-      <scanner:ticker />
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>SC TO-I/A x2</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;$30M self-tender at $33.00/share; expires Oct 5&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is conducting a self-tender for up to $30 million (909,090 shares) of its Class A common stock at $33.00 per share. The offer commenced September 4, 2026 and expires October 5, 2026. This amendment provides updated summary financial information.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Per share:&lt;/b&gt; $33.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $30 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-04&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Offer expiration October 5, 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1755755/000143774926030920/0001437749-26-030920-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;SC TO-I/A · Holding / Investment Offices (6798) · prefill_form:SC TO-I · filed 2026-09-22&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SC TO-I/A · Sep 28 15:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1755755/000143774926031347/vhti20260928_sctoia.htm'&gt;Launches $30M self-tender for 909,090 Class A shares at $33.00; expires Oct 5&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SC TO-I/A · Sep 22 15:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1755755/000143774926030920/vhti20260921_sctoia.htm'&gt;$30M self-tender at $33.00/share; expires Oct 5&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
