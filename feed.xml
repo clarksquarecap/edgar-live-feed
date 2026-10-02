@@ -6,8 +6,127 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 10:06:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:08:27 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · DXLG</title>
+      <link>https://www.sec.gov/Archives/edgar/data/813298/000119312526411110/d76201dprer14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-411110</guid>
+      <pubDate>Fri, 02 Oct 2026 05:08:20 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>PRER14A</category>
+      <scanner:headline>Board recommends AGAINST FBB merger; FBB holders to own 55% of combined co.</scanner:headline>
+      <scanner:shortName>DESTINATION XL</scanner:shortName>
+      <scanner:price>0.4600</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>PRER14A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>DXLG</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>PRER14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>25510000</scanner:marketCap>
+      <scanner:enterpriseValue>212210000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.49</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.13</scanner:evGrossProfitLtm>
+      <scanner:fwdEvEbitda>19.74</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>1.12</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>43.93</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Board recommends AGAINST FBB merger; FBB holders to own 55% of combined co.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Destination XL Group&amp;#39;s board recommends against its previously announced merger with FBB Holdings I, Inc., citing FBB&amp;#39;s declining performance, increased indebtedness, and Bank of America&amp;#39;s withdrawal of financing commitments, which could lead to insufficient liquidity for the combined company. Under the merger agreement, FBB stockholders would own 55% and DXL stockholders 45% of the combined company on a fully diluted basis. The board is contractually obligated to submit the issuance proposal to a stockholder vote, despite its negative recommendation.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Destination XL Group, Inc., together with its subsidiaries, operates as a specialty retailer of big and tall men’s clothing and footwear in the United States. The company’s stores offer sportswear and dresswear; fashion-neutral items, including jeans, casual pants, t-shirts, polo shirts, dress shirts, and suit separates; and casual clothing. It also provides vintage-screen t-shirts and wovens under various private labels.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; FBB Holdings I, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2025-12-11&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Stockholder vote&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.4600 · Mkt cap $25.5M · EV $212.2M · Fwd EV/EBITDA 19.7x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/813298/000119312526411110/0001193125-26-411110-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DXLG&lt;/b&gt; · PRER14A · Retail; Apparel (5651) · prefill_form:PRER14A · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · SYNA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/817720/000114036126038325/ef20083154_formdefa14a.htm</link>
+      <guid isPermaLink="false">0001140361-26-038297</guid>
+      <pubDate>Fri, 02 Oct 2026 05:07:44 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>DEFA14A</category>
+      <scanner:headline>Acquired by ON Semiconductor in proposed business combination</scanner:headline>
+      <scanner:shortName>SYNAPTICS</scanner:shortName>
+      <scanner:price>106.15</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>DEFA14A</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>SYNA</scanner:ticker>
+      <scanner:filings>5</scanner:filings>
+      <scanner:filingForms>DEFA14A x3, 8-K x2</scanner:filingForms>
+      <scanner:related>ON</scanner:related>
+      <scanner:marketCap>3965250000</scanner:marketCap>
+      <scanner:enterpriseValue>4399550000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>3.67</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>6.85</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>19.47</scanner:fwdPE>
+      <scanner:fwdEvEbitda>16.64</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>8.17</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>53.63</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by onsemi for $123 cash per share; vote pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Incorporated entered into an Amended and Restated Agreement and Plan of Merger to be acquired by ON Semiconductor Corporation for $123 per share in cash. This revised agreement follows an unsolicited competing proposal and is subject to Synaptics shareholder approval and regulatory clearances. The transaction is valued at approximately $5.7 billion and is expected to close by mid-2027.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Synaptics Incorporated develops, markets, and sells semiconductor products worldwide. The company provides edge AI processors, wireless connectivity, touch controllers, biometrics, voice, audio, and multimedia products for physical AI and robotics, edge AI, smart home, industrial and automotive, personal computers, and mobile applications, as well as modular development kits, open software frameworks, and optimized AI/ML toolchains.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ON Semiconductor Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $123&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5.7 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; mid-2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Synaptics shareholder vote&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $106.15 · Mkt cap $3.97B · EV $4.40B · Fwd P/E 19.5x · Fwd EV/EBITDA 16.6x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038302/0001140361-26-038302-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SYNA&lt;/b&gt; · DEFA14A · Electronic Equipment (3674) · prefill_form:DEFA14A · filed 2026-10-01&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (5)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Oct 02 05:07 · &lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038325/ef20083154_formdefa14a.htm'&gt;Acquired by ON Semiconductor in proposed business combination&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Oct 01 16:29 · &lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038301/ef20083029_8k.htm'&gt;Acquired by onsemi for $123 cash/share; amended deal after unsolicited bid&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Oct 01 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038302/ef20083029_defa14a.htm'&gt;Acquired by onsemi for $123 cash per share; vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Oct 01 16:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038294/ef20083030_8k.htm'&gt;Amends Synaptics acquisition to $123/share cash after unsolicited bid; secures $2.45B financing&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Oct 01 16:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038297/ef20083030_formdefa14a.htm'&gt;Amends Synaptics merger to $123/share cash, $5.7B total; close mid-2027&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer ON also filed DEFA14A, 8-K&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🔐 Going Private · UTZ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1739566/000119312526411198/utz_defm14a.htm</link>
+      <guid isPermaLink="false">0001193125-26-411198</guid>
+      <pubDate>Fri, 02 Oct 2026 05:07:14 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>acquisition</category>
+      <category>DEFM14A</category>
+      <scanner:headline>Acquired by Intersnack Group for $14.25 cash/share; vote Nov 13</scanner:headline>
+      <scanner:shortName>Utz Brands</scanner:shortName>
+      <scanner:price>14.26</scanner:price>
+      <scanner:subtype />
+      <scanner:form>DEFM14A</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>UTZ</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>DEFM14A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1263620000</scanner:marketCap>
+      <scanner:enterpriseValue>2855220000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.96</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>7.67</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>17.65</scanner:fwdPE>
+      <scanner:fwdEvEbitda>12.00</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>7.67</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>25.61</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Intersnack Group for $14.25 cash/share; vote Nov 13&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Shareholders will vote on a definitive merger agreement under which Idaho Merger Sub, a subsidiary of Intersnack Group GmbH &amp;amp; Co. KG, will acquire Utz in a going-private transaction. Class A Common Stock holders will receive $14.25 per share in cash, representing a 91% premium to the closing price on July 20, 2026. The special meeting is scheduled for November 13, 2026, where shareholders will vote on the proposal.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Utz Brands, Inc. manufactures branded salty snacks in the United States. The company provides a range of salty snack food products, such as potato chips, tortilla chips, pretzels, cheese snacks, pub and party mixes, pork skins, and ready-to-eat popcorn, as well as other snacks which include salsa and dips; and non-branded and non-salty snacks comprising partner brands, private label, and co-manufacturing products.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Intersnack Group GmbH &amp;amp; Co. KG&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 14.25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 91%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-11-13&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $14.26 · Mkt cap $1.26B · EV $2.86B · Fwd P/E 17.6x · Fwd EV/EBITDA 12.0x · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1739566/000119312526411198/0001193125-26-411198-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UTZ&lt;/b&gt; · DEFM14A · Food &amp;amp; Kindred (2090) · prefill_form:DEFM14A · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · VCTR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1570827/000110465926112931/tm2625955-1_prem14a.htm</link>
@@ -384,48 +503,6 @@
 &lt;p&gt;&lt;i&gt;Px $3.38 · Mkt cap $129.8M · EV $118.0M · Fwd P/E 32.1x · Fwd EV/EBITDA 20.4x · Consumer Discretionary / Leisure Products&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/913277/000110465926112901/0001104659-26-112901-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CLAR&lt;/b&gt; · SCHEDULE 13D/A · Miscellaneous Manufacturing (3949) · fresh_13d · filed 2026-10-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SYNA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/817720/000114036126038301/ef20083029_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-038297</guid>
-      <pubDate>Thu, 01 Oct 2026 16:29:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquired by onsemi for $123 cash/share; amended deal after unsolicited bid</scanner:headline>
-      <scanner:shortName>SYNAPTICS</scanner:shortName>
-      <scanner:price>106.15</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>SYNA</scanner:ticker>
-      <scanner:filings>4</scanner:filings>
-      <scanner:filingForms>DEFA14A x2, 8-K x2</scanner:filingForms>
-      <scanner:related>ON</scanner:related>
-      <scanner:marketCap>3965250000</scanner:marketCap>
-      <scanner:enterpriseValue>4399550000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>3.67</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>6.85</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>19.47</scanner:fwdPE>
-      <scanner:fwdEvEbitda>16.64</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>8.17</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>53.63</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by onsemi for $123 cash per share; vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Incorporated entered into an Amended and Restated Agreement and Plan of Merger to be acquired by ON Semiconductor Corporation for $123 per share in cash. This revised agreement follows an unsolicited competing proposal and is subject to Synaptics shareholder approval and regulatory clearances. The transaction is valued at approximately $5.7 billion and is expected to close by mid-2027.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Synaptics Incorporated develops, markets, and sells semiconductor products worldwide. The company provides edge AI processors, wireless connectivity, touch controllers, biometrics, voice, audio, and multimedia products for physical AI and robotics, edge AI, smart home, industrial and automotive, personal computers, and mobile applications, as well as modular development kits, open software frameworks, and optimized AI/ML toolchains.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; ON Semiconductor Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $123&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5.7 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; mid-2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Synaptics shareholder vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $106.15 · Mkt cap $3.97B · EV $4.40B · Fwd P/E 19.5x · Fwd EV/EBITDA 16.6x · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038302/0001140361-26-038302-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SYNA&lt;/b&gt; · DEFA14A · Electronic Equipment (3674) · prefill_form:DEFA14A · filed 2026-10-01&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Oct 01 16:29 · &lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038301/ef20083029_8k.htm'&gt;Acquired by onsemi for $123 cash/share; amended deal after unsolicited bid&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Oct 01 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038302/ef20083029_defa14a.htm'&gt;Acquired by onsemi for $123 cash per share; vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Oct 01 16:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038294/ef20083030_8k.htm'&gt;Amends Synaptics acquisition to $123/share cash after unsolicited bid; secures $2.45B financing&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Oct 01 16:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038297/ef20083030_formdefa14a.htm'&gt;Amends Synaptics merger to $123/share cash, $5.7B total; close mid-2027&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer ON also filed DEFA14A, 8-K&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · NDRA</title>
@@ -16833,66 +16910,6 @@
 &lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; H1 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; TMC stockholder approval, regulatory approvals&lt;/li&gt;&lt;/ul&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1405513/000207187626000224/0002071876-26-000224-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UNL&lt;/b&gt; · 8-K · Items 1.01 · Securities / Broker-Dealers (6221) · 8k_tier1:1.01 · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · AKAN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1888014/000121390026103621/ea0306755-6k_akanda.htm</link>
-      <guid isPermaLink="false">0001213900-26-103621</guid>
-      <pubDate>Fri, 25 Sep 2026 16:34:59 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Terminates option to acquire Canadian cannabis facility; pivots to First Towers &amp; Fibers</scanner:headline>
-      <scanner:shortName>AKANDA</scanner:shortName>
-      <scanner:price>3.05</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>AKAN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2460000</scanner:marketCap>
-      <scanner:enterpriseValue>14990000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>17.91</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>71.92</scanner:evGrossProfitLtm>
-      <scanner:grossMarginLtm>24.91</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Terminates option to acquire Canadian cannabis facility; pivots to First Towers &amp;amp; Fibers&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Akanda Corp.&amp;#39;s Board determined to exit cannabis cultivation and related businesses, declining an option payment for an agreement to purchase a Canadian THC and CBD farming facility. As a result, the Company&amp;#39;s right to acquire the BC Property has been terminated. Akanda will now focus on its First Towers &amp;amp; Fibers Corp. subsidiary and other business targets.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Akanda Corp., through its subsidiaries, operates as early-stage cannabis company in Mexico. It is involved in medical cannabis cultivation, manufacturing, and sale; and leasing and/or rental of fiber optic networks and telecommunication towers. The company is based in Toronto, Canada.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; 1107385 B.C. LTD.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.05 · Mkt cap $2.5M · EV $15.0M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1888014/000121390026103621/0001213900-26-103621-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AKAN&lt;/b&gt; · 6-K · Chemicals / Pharma (2833) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · SCIP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2147497/000149315226044397/forms-4.htm</link>
-      <guid isPermaLink="false">0001493152-26-044397</guid>
-      <pubDate>Fri, 25 Sep 2026 16:34:21 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>S-4</category>
-      <scanner:headline>Combines with Scipher Medicine &amp; Chemomab; Scipher holders to own ~68% of combined entity</scanner:headline>
-      <scanner:shortName>Snowdrift Parent</scanner:shortName>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>S-4</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>SCIP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>S-4</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Combines with Scipher Medicine &amp;amp; Chemomab; Scipher holders to own ~68% of combined entity&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;(to be renamed Scipher Medicine Company) entered a definitive merger agreement to combine Chemomab Therapeutics Ltd. and Scipher Medicine Corporation. Pre-merger Scipher securityholders are expected to own approximately 68% of the combined entity, and Chemomab Israel equity holders approximately 32%. The transaction includes a $30 million PIPE investment, and the combined company will list on Nasdaq under &amp;quot;SCIP&amp;quot;.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Scipher Medicine Corporation&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-07&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q4 2026&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2147497/000149315226044397/0001493152-26-044397-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SCIP&lt;/b&gt; · S-4 · Chemicals / Pharma (2834) · prefill_form:S-4 · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
