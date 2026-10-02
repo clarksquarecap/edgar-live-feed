@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 11:37:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:43:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TLK 🪓 Spinoff
+Shareholders approve partial spin-off of wholesale fiber connectivity business
+Mcap $13B · EV $15B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1001807/000100180726000068/tmb-20261002x6k.htm</link>
+      <guid isPermaLink="false">0001001807-26-000068</guid>
+      <pubDate>Fri, 02 Oct 2026 06:43:42 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$BNBX 🔎 Strat Review · Strat Alts
 Announces strategic shift to tech infrastructure; evaluating options to monetize LineaRx
@@ -1383,16 +1392,6 @@ Completes debt exchange, enabling separation from Corteva</title>
       <guid isPermaLink="false">0001193125-26-396054</guid>
       <pubDate>Thu, 01 Oct 2026 06:50:51 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$MIVOF 🤝 Merger
-Acquires First Five Partners, an AI specialist in sports
-Mcap $12M · EV $9M · Financials</title>
-      <link>https://www.otcmarkets.com/stock/MIVOF/news/537053</link>
-      <guid isPermaLink="false">OTC-537053</guid>
-      <pubDate>Thu, 01 Oct 2026 06:43:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
