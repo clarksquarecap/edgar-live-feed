@@ -6,8 +6,75 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:07:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:09:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · DRCT</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1880613/000188061326000115/drct-20261001.htm</link>
+      <guid isPermaLink="false">0001880613-26-000115</guid>
+      <pubDate>Fri, 02 Oct 2026 15:09:50 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>8-K</category>
+      <scanner:headline>Forced Nasdaq delisting effective Oct 5; to trade OTC Pink</scanner:headline>
+      <scanner:shortName>Direct Digital</scanner:shortName>
+      <scanner:price>1.52</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>DRCT</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1160000</scanner:marketCap>
+      <scanner:enterpriseValue>13480000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.44</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>1.44</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>1.44</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>30.38</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-30T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Forced Nasdaq delisting effective Oct 5; to trade OTC Pink&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received a notice from Nasdaq indicating a delisting and suspension of trading for its Class A Common Stock, effective October 5, 2026, due to non-compliance with Nasdaq Listing Rule 5550(b)(1). The Company expects its shares to begin trading on the OTC Markets’ OTC Pink “Limited Information” tier under its current symbol “DRCT.” The Company may appeal the determination within 15 days.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Direct Digital Holdings, Inc. operates as an end-to-end full-service advertising and marketing platform. The company’s platform primarily focuses on providing advertising technology, data-driven campaign optimization, and other solutions to underserved and less efficient markets on both the buy and sell-side of the digital advertising ecosystem.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-05&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Appeal deadline Oct 16, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.52 · Mkt cap $1.2M · EV $13.5M · Communication Services / Media&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1880613/000188061326000115/0001880613-26-000115-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DRCT&lt;/b&gt; · 8-K · Items 3.01 · Business Services (7310) · 8k_tier1:3.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>📉 Delisting · Voluntary · POM</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1877971/000121390026106373/ea0307400-6k_pomdoc.htm</link>
+      <guid isPermaLink="false">0001213900-26-106373</guid>
+      <pubDate>Fri, 02 Oct 2026 15:08:28 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>voluntary</category>
+      <category>6-K</category>
+      <scanner:headline>Shareholders approve ADR termination &amp; Nasdaq direct listing</scanner:headline>
+      <scanner:shortName>POMDOCTOR</scanner:shortName>
+      <scanner:price>0.9200</scanner:price>
+      <scanner:subtype>voluntary</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>POM</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>6780000</scanner:marketCap>
+      <scanner:enterpriseValue>66550000</scanner:enterpriseValue>
+      <scanner:fwdEvGrossProfit>9.03</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Shareholders approve ADR termination &amp;amp; Nasdaq direct listing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Shareholders approved the termination of its American Depositary Receipt program and the direct listing of its Class A Ordinary Shares on Nasdaq. The company also received approval for a 10-to-1 share consolidation, which will take effect simultaneously with the ADR termination and Nasdaq listing.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Pomdoctor Limited, through its subsidiaries, offers an online B2C portal to sell pharmaceutical products. The company develops an online medical services platform for chronic diseases in China. The company focuses on chronic disease management and pharmaceutical services and offers platform for medical services, which connects patients to doctors and pharmaceutical products.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.9200 · Mkt cap $6.8M · EV $66.5M · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1877971/000121390026106373/0001213900-26-106373-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;POM&lt;/b&gt; · 6-K · Retail; Misc (5900) · prefill_form:6-K · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔐 Going Private · HZO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1057060/000119312526412241/d130789ddefm14a.htm</link>
@@ -16879,60 +16946,6 @@
 &lt;p&gt;&lt;i&gt;Px $4.20 · Mkt cap $159.0M · EV $348.3M · Fwd EV/EBITDA 14.0x · Health Care / Life Sciences Tools and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1005286/000114036126037767/0001140361-26-037767-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LFCR&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01,7.01 · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚖️ Litigation · Won · KOD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468748/000119312526403481/d185059d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-403481</guid>
-      <pubDate>Mon, 28 Sep 2026 07:58:08 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-      <category>8-K</category>
-      <scanner:headline>Zenkuda &amp; tabirafusp-ted meet primary endpoints in DAYBREAK wAMD study; BLA planned 4Q26</scanner:headline>
-      <scanner:shortName>Kodiak Sciences</scanner:shortName>
-      <scanner:price>32.35</scanner:price>
-      <scanner:subtype>won</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>KOD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2029080000</scanner:marketCap>
-      <scanner:enterpriseValue>1955930000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Zenkuda &amp;amp; tabirafusp-ted meet primary endpoints in DAYBREAK wAMD study; BLA planned 4Q26&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that Zenkuda (tarcocimab tedromer) and tabirafusp-ted (KSI-501) met primary endpoints in the Phase 3 DAYBREAK study for wet age-related macular degeneration (wAMD). Zenkuda demonstrated meaningful vision gains and sustained retinal drying, with 54% of patients on 6-month dosing. The company plans to submit a multi-indication Biologics License Application (BLA) for Zenkuda in Q4 2026, covering five positive Phase 3 studies.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Kodiak Sciences Inc., a clinical stage biopharmaceutical company, engages in the research, development, and commercialization of therapeutics to treat retinal diseases. Its lead product candidate is tarcocimab tedromer (KSI-301), an anti-vascular endothelial growth factor (VEGF) antibody biopolymer that has complete Phase 3 clinical study to treat high prevalence retinal vascular diseases; and in Phase 3 clinical study for the treatment of diabetic retinopathy, wet age-related macular degenerati…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 4Q2026&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; BLA submission for Zenkuda&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $32.35 · Mkt cap $2.03B · EV $1.96B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1468748/000119312526403481/0001193125-26-403481-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KOD&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Chemicals / Pharma (2836) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>💧 Capital Return · Buyback Authorization · FRFFF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/915191/000110465926111201/tm2626192d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111201</guid>
-      <pubDate>Mon, 28 Sep 2026 07:57:27 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-      <category>6-K</category>
-      <scanner:headline>Commences NCIB for up to 10% of Subordinate Voting &amp; Series K Preferred shares</scanner:headline>
-      <scanner:shortName>FAIRFAX FINANCIAL HOLDINGS LTD/ CAN</scanner:shortName>
-      <scanner:subtype>buyback_authorization</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector />
-      <scanner:ticker>FRFFF</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <description>&lt;p&gt;&lt;b&gt;Commences NCIB for up to 10% of Subordinate Voting &amp;amp; Series K Preferred shares&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Limited announced a Normal Course Issuer Bid (NCIB) to repurchase up to 10% of its public float of Subordinate Voting Shares and Cumulative 5-Year Rate Reset Preferred Shares, Series K. The NCIB will commence on September 30, 2026, and end on September 29, 2027. Shares will be purchased through the TSX and may be cancelled or reserved for share-based awards.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-09-29&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/915191/000110465926111201/0001104659-26-111201-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FRFFF, FRFHF&lt;/b&gt; · 6-K · Insurance (6331) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
