@@ -6,8 +6,49 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 11:43:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:50:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔐 Going Private · UTZ</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1739566/000119312526411268/d75151dsc13e3a.htm</link>
+      <guid isPermaLink="false">0001193125-26-411198</guid>
+      <pubDate>Fri, 02 Oct 2026 06:49:47 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>acquisition</category>
+      <category>SC 13E3/A</category>
+      <scanner:headline>Acquired by Intersnack Group for $14.25 cash/share; vote pending</scanner:headline>
+      <scanner:shortName>Utz Brands</scanner:shortName>
+      <scanner:price>14.26</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SC 13E3/A</scanner:form>
+      <scanner:sector>Consumer Staples</scanner:sector>
+      <scanner:ticker>UTZ</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>DEFM14A, SC 13E3/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>1263620000</scanner:marketCap>
+      <scanner:enterpriseValue>2855220000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.96</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>7.67</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>17.65</scanner:fwdPE>
+      <scanner:fwdEvEbitda>12.00</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>7.67</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>25.61</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Intersnack Group for $14.25 cash/share; vote Nov 13&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Shareholders will vote on a definitive merger agreement under which Idaho Merger Sub, a subsidiary of Intersnack Group GmbH &amp;amp; Co. KG, will acquire Utz in a going-private transaction. Class A Common Stock holders will receive $14.25 per share in cash, representing a 91% premium to the closing price on July 20, 2026. The special meeting is scheduled for November 13, 2026, where shareholders will vote on the proposal.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Utz Brands, Inc. manufactures branded salty snacks in the United States. The company provides a range of salty snack food products, such as potato chips, tortilla chips, pretzels, cheese snacks, pub and party mixes, pork skins, and ready-to-eat popcorn, as well as other snacks which include salsa and dips; and non-branded and non-salty snacks comprising partner brands, private label, and co-manufacturing products.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Intersnack Group GmbH &amp;amp; Co. KG&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 14.25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 91%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-11-13&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $14.26 · Mkt cap $1.26B · EV $2.86B · Fwd P/E 17.6x · Fwd EV/EBITDA 12.0x · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1739566/000119312526411198/0001193125-26-411198-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UTZ&lt;/b&gt; · DEFM14A · Food &amp;amp; Kindred (2090) · prefill_form:DEFM14A · filed 2026-10-02&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SC 13E3/A · Oct 02 06:49 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1739566/000119312526411268/d75151dsc13e3a.htm'&gt;Acquired by Intersnack Group for $14.25 cash/share; vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFM14A · Oct 02 05:07 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1739566/000119312526411198/utz_defm14a.htm'&gt;Acquired by Intersnack Group for $14.25 cash/share; vote Nov 13&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🧬 Spin-Off · TLK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1001807/000100180726000068/tmb-20261002x6k.htm</link>
@@ -1106,45 +1147,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (5)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Oct 02 05:07 · &lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038325/ef20083154_formdefa14a.htm'&gt;Acquired by ON Semiconductor in proposed business combination&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Oct 01 16:29 · &lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038301/ef20083029_8k.htm'&gt;Acquired by onsemi for $123 cash/share; amended deal after unsolicited bid&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Oct 01 16:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/817720/000114036126038302/ef20083029_defa14a.htm'&gt;Acquired by onsemi for $123 cash per share; vote pending&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Oct 01 16:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038294/ef20083030_8k.htm'&gt;Amends Synaptics acquisition to $123/share cash after unsolicited bid; secures $2.45B financing&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Oct 01 16:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1097864/000114036126038297/ef20083030_formdefa14a.htm'&gt;Amends Synaptics merger to $123/share cash, $5.7B total; close mid-2027&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;Acquirer ON also filed DEFA14A, 8-K&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔐 Going Private · UTZ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1739566/000119312526411198/utz_defm14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-411198</guid>
-      <pubDate>Fri, 02 Oct 2026 05:07:14 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
-      <category>acquisition</category>
-      <category>DEFM14A</category>
-      <scanner:headline>Acquired by Intersnack Group for $14.25 cash/share; vote Nov 13</scanner:headline>
-      <scanner:shortName>Utz Brands</scanner:shortName>
-      <scanner:price>14.26</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DEFM14A</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>UTZ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFM14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>1263620000</scanner:marketCap>
-      <scanner:enterpriseValue>2855220000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>1.96</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>7.67</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>17.65</scanner:fwdPE>
-      <scanner:fwdEvEbitda>12.00</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>7.67</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>25.61</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Intersnack Group for $14.25 cash/share; vote Nov 13&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Shareholders will vote on a definitive merger agreement under which Idaho Merger Sub, a subsidiary of Intersnack Group GmbH &amp;amp; Co. KG, will acquire Utz in a going-private transaction. Class A Common Stock holders will receive $14.25 per share in cash, representing a 91% premium to the closing price on July 20, 2026. The special meeting is scheduled for November 13, 2026, where shareholders will vote on the proposal.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Utz Brands, Inc. manufactures branded salty snacks in the United States. The company provides a range of salty snack food products, such as potato chips, tortilla chips, pretzels, cheese snacks, pub and party mixes, pork skins, and ready-to-eat popcorn, as well as other snacks which include salsa and dips; and non-branded and non-salty snacks comprising partner brands, private label, and co-manufacturing products.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Intersnack Group GmbH &amp;amp; Co. KG&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 14.25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Premium:&lt;/b&gt; 91%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-11-13&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $14.26 · Mkt cap $1.26B · EV $2.86B · Fwd P/E 17.6x · Fwd EV/EBITDA 12.0x · Consumer Staples / Food Products&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1739566/000119312526411198/0001193125-26-411198-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;UTZ&lt;/b&gt; · DEFM14A · Food &amp;amp; Kindred (2090) · prefill_form:DEFM14A · filed 2026-10-02&lt;/p&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · VCTR</title>
