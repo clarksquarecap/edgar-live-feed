@@ -6,8 +6,40 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 10:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:09:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BHST 💧 Capital Return · Buyback
+Authorizes NCIB to repurchase up to 5% of shares, citing undervaluation
+Mcap $34M · EV $33M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1723464/000172346426000056/bhsc_6k.htm</link>
+      <guid isPermaLink="false">0001723464-26-000056</guid>
+      <pubDate>Fri, 02 Oct 2026 05:09:50 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
+    <item>
+      <title>$NDRA 🤝 Merger
+Acquires Noble Africa in all-stock merger; to be renamed 4K Resources Inc.
+stock
+Mcap $9M · EV $8M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1681682/000119312526410883/ndra-20261001.htm</link>
+      <guid isPermaLink="false">0001213900-26-103599</guid>
+      <pubDate>Fri, 02 Oct 2026 05:09:21 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$XRPN 🤝 Merger
+Acquires Pathfinder Digital Assets &amp; Ripple Labs via Evernorth Pubco
+empty
+Mcap $518M · EV $518M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2044009/000119312526411024/d110692d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-409852</guid>
+      <pubDate>Fri, 02 Oct 2026 05:09:04 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$DXLG 🤝 Merger
 Board recommends AGAINST FBB merger; FBB holders to own 55% of combined co.
@@ -1102,16 +1134,6 @@ Mcap $62B · EV $81B · Tech</title>
       <pubDate>Thu, 01 Oct 2026 07:06:14 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$XRPN 🤝 Merger
-Shareholders approve business combination with Evernorth Holdings Inc.
-Mcap $518M · EV $518M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2044009/000119312526409852/d32574d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-409852</guid>
-      <pubDate>Thu, 01 Oct 2026 07:04:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$CTVA 🪓 Spinoff
