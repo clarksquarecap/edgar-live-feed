@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 11:50:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:55:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$UTZ 📦 Going Private
@@ -1375,23 +1375,6 @@ Mcap $62B · EV $81B · Tech</title>
       <pubDate>Thu, 01 Oct 2026 07:06:14 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>recap</category>
-    </item>
-    <item>
-      <title>$CTVA 🪓 Spinoff
-Completes $1.44B debt exchange offers for EIDP notes ahead of two-company separation
-Mcap $52B · EV $55B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526409840/d35475d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-409840</guid>
-      <pubDate>Thu, 01 Oct 2026 06:51:13 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$VYLR 🪓 Spinoff
-Completes debt exchange, enabling separation from Corteva</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526409841/d118856d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-396054</guid>
-      <pubDate>Thu, 01 Oct 2026 06:50:51 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
   </channel>
 </rss>
