@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 19:13:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 19:37:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · GNTA</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1838716/000149315226045500/0001493152-26-045500-index.htm</link>
+      <guid isPermaLink="false">0001493152-26-045500</guid>
+      <pubDate>Fri, 02 Oct 2026 14:37:33 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Faces group led by Marco Nuzzo reporting 11.5% stake, 18.9% voting power</scanner:headline>
+      <scanner:shortName>Genenta Science</scanner:shortName>
+      <scanner:price>0.7600</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>GNTA</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>38750000</scanner:marketCap>
+      <scanner:enterpriseValue>14630000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Faces group led by Marco Nuzzo reporting 11.5% stake, 18.9% voting power&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;A group of reporting persons, including Marco Nuzzo, Luigi Naldini, and Bernhard Gentner, collectively reported beneficial ownership of 5,543,910 shares, representing 11.50% of Genenta Science&amp;#39;s ordinary shares and American Depository Shares. The group&amp;#39;s aggregated voting power totals 18.90% based on 109,436,695 outstanding votes as of September 29, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Genenta Science S.p.A. operates as a strategic consolidator that focuses on acquiring ownership of privately held companies operating in Italian national-security-regulated sectors. Its activities and acquisition strategy covers aerospace, defense, national security, and biotechnology/biosecurity. Genenta Science S.p.A. was incorporated in 2014 and is headquartered in Milan, Italy.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Marco Nuzzo group&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 11.50%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.7600 · Mkt cap $38.8M · EV $14.6M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1838716/000149315226045500/0001493152-26-045500-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GNTA&lt;/b&gt; · SCHEDULE 13D/A · Chemicals / Pharma (2836) · fresh_13d · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · CRML</title>
       <link>https://www.sec.gov/Archives/edgar/data/1951089/000121390026106323/ea0307542-6k_critical.htm</link>
@@ -16905,33 +16936,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ETD&lt;/b&gt; · DEFC14A · Furniture (2511) · prefill_form:DEFC14A · filed 2026-09-18&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DFRN14A · Sep 28 07:49 · &lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002652/dfrn14857002_09252026.htm'&gt;Nominates 5-director slate at Ethan Allen; AGM Nov 4&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 22 16:17 · &lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002621/dfan14857002_09222026.htm'&gt;Nominates 5-director slate at Ethan Allen; 5.2% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFC14A · Sep 18 12:22 · &lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002581/defc14a14857002_09182026.htm'&gt;Nominates 5 directors to replace Ethan Allen board; owns 5.2%&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Preliminary · ECGI</title>
-      <link>https://www.otcmarkets.com/stock/ECGI/news/536552</link>
-      <guid isPermaLink="false">OTC-536552</guid>
-      <pubDate>Mon, 28 Sep 2026 07:42:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-      <category>OTC</category>
-      <scanner:headline>Enters LOI to acquire 100% of Avanta Group</scanner:headline>
-      <scanner:shortName>ECGI Holdings</scanner:shortName>
-      <scanner:subtype>preliminary</scanner:subtype>
-      <scanner:form>OTC</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>ECGI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>OTC</scanner:filingForms>
-      <scanner:related />
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Enters LOI to acquire 100% of Avanta Group&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into a letter of intent to acquire 100% of Avanta Group. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; ECGI Holdings, Inc., engages in building technology enabled businesses with models in artificial intelligence, fintech, fashion technology, and experiential hospitality industries. The company offers Pacific saddlery, luxury equestrian apparel and equipment brand; Payday Fantasy, generation fantasy sports marketplace; TrueToForm, AI-powered 3D body scanning software improving fit accuracy in e-commerce; Aurachat.Ai, AI conversational platform transforming business communication; Vinters Caldera …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Avanta Group&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ECGI&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
