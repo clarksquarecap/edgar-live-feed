@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 12:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:08:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SRZN ⚖️ Litigation · Won
+FDA clears SZN-8141 IND; triggers $95.1M private placement closing
+Mcap $353M · EV $257M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1824893/000119312526411298/srzn-20261002.htm</link>
+      <guid isPermaLink="false">0001193125-26-411298</guid>
+      <pubDate>Fri, 02 Oct 2026 07:08:43 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+    </item>
     <item>
       <title>$ECHO 🔄 Post-Reorg
 DISH DBS subsidiary emerges from Chapter 11; $4.35B debt reduction
@@ -1374,16 +1384,6 @@ Mcap $870M · EV $637M · Healthcare</title>
       <pubDate>Thu, 01 Oct 2026 07:20:11 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MSTR 💧 Capital Return · Recap
-Proposes daily preferred dividends; vote Oct 28; expected return of capital
-Mcap $62B · EV $81B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1050446/000119312526409863/mstr-20260930.htm</link>
-      <guid isPermaLink="false">0001193125-26-402802</guid>
-      <pubDate>Thu, 01 Oct 2026 07:06:14 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>

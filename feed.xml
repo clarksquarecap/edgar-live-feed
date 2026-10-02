@@ -6,8 +6,40 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 12:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:08:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>⚖️ Litigation · Won · SRZN</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1824893/000119312526411298/srzn-20261002.htm</link>
+      <guid isPermaLink="false">0001193125-26-411298</guid>
+      <pubDate>Fri, 02 Oct 2026 07:08:43 -0500</pubDate>
+      <category>LITIGATION_OUTCOME</category>
+      <category>won</category>
+      <category>8-K</category>
+      <scanner:headline>FDA clears SZN-8141 IND; triggers $95.1M private placement closing</scanner:headline>
+      <scanner:shortName>Surrozen</scanner:shortName>
+      <scanner:price>30.00</scanner:price>
+      <scanner:subtype>won</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>SRZN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>352610000</scanner:marketCap>
+      <scanner:enterpriseValue>256880000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>22.32</scanner:evSalesLtm>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;FDA clears SZN-8141 IND; triggers $95.1M private placement closing&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Surrozen announced U.S. Food and Drug Administration (FDA) clearance of its Investigational New Drug (IND) application for SZN-8141, enabling clinical development. This clearance satisfies a closing milestone under its March 2025 two-tranche private placement, expected to provide approximately $95.1 million in gross proceeds to Surrozen. The second closing is anticipated around October 20, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Surrozen, Inc., a biotechnology company, discovers and develops product candidates to selectively modulate the Wnt pathway for tissue repair. Its lead product candidates are antibody-based therapeutics that target various disease areas, including diseases of the eye, intestine, liver, lung, retina, kidney, cochlea, cornea, skin, pancreas, and central nervous system.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 95.1M&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-10-20&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Second closing of private placement on Oct 20, 2026&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $30.00 · Mkt cap $352.6M · EV $256.9M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1824893/000119312526411298/0001193125-26-411298-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SRZN&lt;/b&gt; · 8-K · Items 8.01 · Chemicals / Pharma (2836) · 8k_tier1:8.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🌅 Post-Reorg · ECHO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1415404/000141540426000048/sats-20261001x8k.htm</link>
@@ -16946,42 +16978,6 @@
 &lt;p&gt;&lt;i&gt;Px $19.49 · Mkt cap $14.81B · EV $13.46B · Fwd P/E 9.5x · Fwd EV/EBITDA 5.4x · Industrials / Air Freight and Logistics&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1677250/000110465926111134/0001104659-26-111134-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ZTO, ZTOEF&lt;/b&gt; · 6-K · Trucking / Warehousing (4210) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🔎 Strategic Review · Formal Alternatives · YI</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738906/000095010326014553/dp253899_6k.htm</link>
-      <guid isPermaLink="false">0000950103-26-014553</guid>
-      <pubDate>Mon, 28 Sep 2026 05:39:46 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-      <category>6-K</category>
-      <scanner:headline>Establishes special committee to evaluate preliminary proposal &amp; strategic alternatives</scanner:headline>
-      <scanner:shortName>111</scanner:shortName>
-      <scanner:price>3.60</scanner:price>
-      <scanner:subtype>formal_alternatives</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>YI</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>31670000</scanner:marketCap>
-      <scanner:enterpriseValue>158630000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.10</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>3.42</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>3.42</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>3.00</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Establishes special committee to evaluate preliminary proposal &amp;amp; strategic alternatives&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced its Board of Directors established a special committee of three independent directors to evaluate a preliminary, non-binding proposal letter dated September 16, 2026. The committee will also consider other potential strategic alternatives. No decisions have been made, and there is no assurance of a definitive offer or agreement.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; 111, Inc., together with its subsidiaries, operates an integrated online and offline platform in the healthcare market in the People&amp;#39;s Republic of China. It operates through two segments, B2C and B2B. The company offers supply chain integration services that help pharmaceutical companies manage products through online and offline channels; product promotion, customer analytics, patient education, and brand awareness services; and marketing and channel data services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.60 · Mkt cap $31.7M · EV $158.6M · Consumer Staples / Consumer Staples Distribution and Retail&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1738906/000095010326014553/0000950103-26-014553-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;YI&lt;/b&gt; · 6-K · Retail; Misc (5912) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
