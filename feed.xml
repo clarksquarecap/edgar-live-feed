@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 17:54:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 18:18:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📉 Delisting · Forced · GETY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1898496/000087666126000814/0000876661-26-000814-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-105790</guid>
+      <pubDate>Fri, 02 Oct 2026 13:18:38 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+      <category>25-NSE</category>
+      <scanner:headline>Forced NYSE delisting of Common Stock effective Oct 13; trading suspended</scanner:headline>
+      <scanner:shortName>Getty Images</scanner:shortName>
+      <scanner:price>0.0800</scanner:price>
+      <scanner:subtype>forced</scanner:subtype>
+      <scanner:form>25-NSE</scanner:form>
+      <scanner:sector>Communication Services</scanner:sector>
+      <scanner:ticker>GETY</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>8-K, 25-NSE</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>34900000</scanner:marketCap>
+      <scanner:enterpriseValue>2092120000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>2.14</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>2.95</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>1.37</scanner:fwdPE>
+      <scanner:fwdEvEbitda>7.42</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>2.95</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>72.40</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Forced NYSE delisting due to low price; trading on OTC Pink&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Received notice from the NYSE that its Class A common stock was immediately suspended from trading and will be delisted due to abnormally low selling price levels. The company does not intend to appeal the determination. Its common stock began trading on the OTC Pink Limited Market on September 30, 2026, under the symbol GETY.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.0800 · Mkt cap $34.9M · EV $2.09B · Fwd P/E 1.4x · Fwd EV/EBITDA 7.4x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1898496/000121390026105790/0001213900-26-105790-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GETY&lt;/b&gt; · 8-K · Items 3.01, 8.01 · Business Services (7389) · 8k_tier1:3.01,8.01 · filed 2026-10-01&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;25-NSE · Oct 02 13:18 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1898496/000087666126000814/0000876661-26-000814-index.htm'&gt;Forced NYSE delisting of Common Stock effective Oct 13; trading suspended&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Oct 01 15:32 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1898496/000121390026105790/ea0307245-8k_getty.htm'&gt;Forced NYSE delisting due to low price; trading on OTC Pink&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · GMAB</title>
       <link>https://www.sec.gov/Archives/edgar/data/1434265/000143426526000129/gmab_20261002x6k.htm</link>
@@ -3182,43 +3221,6 @@
 &lt;p&gt;&lt;i&gt;Px $35.15 · Mkt cap $52.52B · EV $54.53B · Fwd P/E 21.5x · Fwd EV/EBITDA 14.8x · Consumer Discretionary / Textiles, Apparel and Luxury Goods&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/320187/000032018726000184/0000320187-26-000184-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;NKE&lt;/b&gt; · 8-K · Items 2.02, 2.05, 9.01 · Rubber / Plastics (3021) · 8k_tier1:2.05 · filed 2026-10-01&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Forced · GETY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1898496/000121390026105790/ea0307245-8k_getty.htm</link>
-      <guid isPermaLink="false">0001213900-26-105790</guid>
-      <pubDate>Thu, 01 Oct 2026 15:32:13 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-      <category>8-K</category>
-      <scanner:headline>Forced NYSE delisting due to low price; trading on OTC Pink</scanner:headline>
-      <scanner:shortName>Getty Images</scanner:shortName>
-      <scanner:price>0.0800</scanner:price>
-      <scanner:subtype>forced</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Communication Services</scanner:sector>
-      <scanner:ticker>GETY</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>34900000</scanner:marketCap>
-      <scanner:enterpriseValue>2092120000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>2.14</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>2.95</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>1.37</scanner:fwdPE>
-      <scanner:fwdEvEbitda>7.42</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>2.95</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>72.40</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Forced NYSE delisting due to low price; trading on OTC Pink&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Received notice from the NYSE that its Class A common stock was immediately suspended from trading and will be delisted due to abnormally low selling price levels. The company does not intend to appeal the determination. Its common stock began trading on the OTC Pink Limited Market on September 30, 2026, under the symbol GETY.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.0800 · Mkt cap $34.9M · EV $2.09B · Fwd P/E 1.4x · Fwd EV/EBITDA 7.4x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1898496/000121390026105790/0001213900-26-105790-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GETY&lt;/b&gt; · 8-K · Items 3.01, 8.01 · Business Services (7389) · 8k_tier1:3.01,8.01 · filed 2026-10-01&lt;/p&gt;</description>
     </item>
     <item>
       <title>📤 Divestiture · AHT</title>

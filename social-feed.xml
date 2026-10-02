@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 18:06:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 18:18:52 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GETY 📉 Delisting · Forced
+Forced NYSE delisting of Common Stock effective Oct 13; trading suspended
+effective 2026-10-13
+Mcap $35M · EV $2.1B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1898496/000087666126000814/0000876661-26-000814-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-105790</guid>
+      <pubDate>Fri, 02 Oct 2026 13:18:38 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$GMAB 📍 Stake
 Darwin Global Management discloses 5.11% stake
@@ -920,16 +931,6 @@ Mcap $53B · EV $55B · Cons Disc</title>
       <category>portfolio_review</category>
     </item>
     <item>
-      <title>$GETY 📉 Delisting · Forced
-Forced NYSE delisting due to low price; trading on OTC Pink
-Mcap $35M · EV $2.1B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1898496/000121390026105790/ea0307245-8k_getty.htm</link>
-      <guid isPermaLink="false">0001213900-26-105790</guid>
-      <pubDate>Thu, 01 Oct 2026 15:32:13 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
       <title>$AHT 📤 Divestiture
 Sells Embassy Suites Las Vegas for $42.7M cash
 to 4315 Hospitality · 42.7 million deal
@@ -1191,14 +1192,6 @@ Mcap $100K · Industrials</title>
       <guid isPermaLink="false">0002107788-26-000010</guid>
       <pubDate>Thu, 01 Oct 2026 13:23:57 -0500</pubDate>
       <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$BBAIX 📍 Stake
-Increases Class S Units stake to 35.25% via $3.2M purchase from issuer</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2097545/000119312526410420/0001193125-26-410420-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-410420</guid>
-      <pubDate>Thu, 01 Oct 2026 13:18:05 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
