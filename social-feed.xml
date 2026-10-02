@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 10:11:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:13:39 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VUECF 🔄 Post-Spin
+Completes share distribution from enCore Energy to shareholders
+Mcap $19M · EV $7M · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2111453/000118518526004533/vuecf6k100126.htm</link>
+      <guid isPermaLink="false">0001185185-26-004533</guid>
+      <pubDate>Fri, 02 Oct 2026 05:13:31 -0500</pubDate>
+      <category>POST_SPIN</category>
+    </item>
+    <item>
+      <title>$WKEY 🌍 Re-domicile
+Redomiciliation to BVI effective; WKEY ADS to 0.5 WQEY share; new WQEY trades Oct 5
+Mcap $51M · EV $37M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026106014/ea0307403-6k_wisekey.htm</link>
+      <guid isPermaLink="false">0001213900-26-103517</guid>
+      <pubDate>Fri, 02 Oct 2026 05:12:07 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$WQEY 🌍 Re-domicile
 Redomiciliation from Switzerland to BVI legally effective; new shares trade Oct 5</title>
@@ -1473,49 +1491,6 @@ Mcap $36M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1933021/000149315226045169/form6-k.htm</link>
       <guid isPermaLink="false">0001493152-26-045169</guid>
       <pubDate>Thu, 01 Oct 2026 05:14:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$NXTC 🤝 Merger
-Acquires Avere Therapeutics in reverse merger for stock, CVRs; Avere valued at $1.07B
-1070000000 deal · stock
-Mcap $24M · EV $9M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1661059/000110465926112469/nxtc-20260630xs4a.htm</link>
-      <guid isPermaLink="false">0001104659-26-112469</guid>
-      <pubDate>Thu, 01 Oct 2026 05:13:10 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MACI 🤝 Merger
-Acquires Everli Global in $180M business combination; vote pending
-180,000,000 deal · stock
-Mcap $106M · EV $110M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2016221/000121390026105400/ea0273491-11.htm</link>
-      <guid isPermaLink="false">0001213900-26-103194</guid>
-      <pubDate>Thu, 01 Oct 2026 05:12:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$QRVO 🤝 Merger
-Acquired by Skyworks; merger expected to close Oct 5; debt exchange offer extended
-Skyworks Solutions · close October 5, 2026
-Mcap $10B · EV $11B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1604778/000110465926112466/tm2626714d1_425.htm</link>
-      <guid isPermaLink="false">0001104659-26-111071</guid>
-      <pubDate>Thu, 01 Oct 2026 05:12:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TKKIF 🤝 Merger
-Acquired by Mitsubishi Kakoki via share exchange at 0.81 shares/share; effective Apr 1, 2027
-stock · close 2027-04-01</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2143361/000119312526409710/d513612dcb.htm</link>
-      <guid isPermaLink="false">0001193125-26-409710</guid>
-      <pubDate>Thu, 01 Oct 2026 05:12:26 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
