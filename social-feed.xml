@@ -6,8 +6,47 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:44:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TAVI 🤝 Merger
+Control acquired by Fog Cutter Holdings; Andrew Wiederhorn named CEO
+Mcap $94M · EV $49M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2020385/000121390026106418/ea0307552-8k_tavia.htm</link>
+      <guid isPermaLink="false">0001213900-26-106418</guid>
+      <pubDate>Fri, 02 Oct 2026 15:44:41 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$CMCAF 🤝 Merger
+Secures $5.0M PIPE for Tigerless AI business combination
+Tigerless AI Holdings · stock
+Mcap $77M · EV $78M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1865248/000147793226006019/cmca_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-006022</guid>
+      <pubDate>Fri, 02 Oct 2026 15:43:45 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$MRDN 🪙 Debt Restr.
+Extends $15.6M in acquisition consideration notes to 2031, waives interest
+Mcap $155M · EV $155M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437925/000147793226006020/meridian_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-006020</guid>
+      <pubDate>Fri, 02 Oct 2026 15:43:33 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$NIMU 🪙 Debt Restr.
+Extends maturity of $300K in related-party notes by one month to Oct 31, 2026
+Mcap $12M · EV $13M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/720762/000149315226045531/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-045531</guid>
+      <pubDate>Fri, 02 Oct 2026 15:43:18 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$NNE 🤝 Merger
 Acquires nuclear fuel processing assets from Radnostix for $13.5M cash+stock
@@ -57,16 +96,6 @@ Mcap $100M · EV $104M · Financials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1884046/000110465926113275/tm2617742d18_425.htm</link>
       <guid isPermaLink="false">0001104659-26-112385</guid>
       <pubDate>Fri, 02 Oct 2026 15:38:14 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CMCAF 🤝 Merger
-Acquires Tigerless AI Holdings; secures $5M PIPE financing for business combination
-Mcap $77M · EV $78M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1865248/000147793226006022/cmca_425.htm</link>
-      <guid isPermaLink="false">0001477932-26-006022</guid>
-      <pubDate>Fri, 02 Oct 2026 15:37:44 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -1154,25 +1183,6 @@ Mcap $4M · EV $270M · Energy</title>
       <pubDate>Thu, 01 Oct 2026 15:45:22 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MAAS 💥 Busted M&amp;A
-Terminates proposed acquisition of Shandong Sandi Water Purification
-Mcap $7.2B · EV $7.2B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1750264/000121390026105819/ea0307326-6k_maase.htm</link>
-      <guid isPermaLink="false">0001213900-26-105819</guid>
-      <pubDate>Thu, 01 Oct 2026 15:44:42 -0500</pubDate>
-      <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$HCAI 💧 Capital Return · Recap
-Proposes 20-for-1 reverse split &amp; Class B voting rights cut from 200 to 30 votes
-Mcap $4M · EV $4M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1958399/000121390026105822/ea0307294-01.htm</link>
-      <guid isPermaLink="false">0001213900-26-105822</guid>
-      <pubDate>Thu, 01 Oct 2026 15:43:49 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>recap</category>
     </item>
   </channel>
 </rss>
