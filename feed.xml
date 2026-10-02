@@ -6,8 +6,78 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:12:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · DFLI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847986/000149315226045583/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-045583</guid>
+      <pubDate>Fri, 02 Oct 2026 16:12:05 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Secures waivers from lenders, preferred holders; defers Series B dividend</scanner:headline>
+      <scanner:shortName>Dragonfly Energy</scanner:shortName>
+      <scanner:price>0.8500</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>DFLI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>12890000</scanner:marketCap>
+      <scanner:enterpriseValue>63010000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.21</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>4.79</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>4.77</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>25.38</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Secures waivers from lenders, preferred holders; defers Series B dividend&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Secured a limited waiver and eighth amendment to its Term Loan Agreement, waiving a minimum liquidity covenant and a default related to preferred stock dividends. The company also obtained a waiver from Series B Preferred Stockholders to defer a portion of the Q3 2026 cash dividend, agreeing to pay 2% by Oct 1 and 6% by Oct 30, with a $450,000 amendment fee added to the Term Loan principal.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Dragonfly Energy Holdings Corp. engages in the manufacturing and sale of deep cycle lithium-ion batteries for recreational vehicles, marine vessels, solar and off-grid residence industries, and industrial and energy storage markets. It operates in two segments, direct-to-consumers and original equipment manufacturers. The company provides lithium power systems comprising solar panels, chargers and inverters, system monitoring, alternator regulators, accessories, and others.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Lenders and Series B Preferred Stockholders&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-10-30 (deferred Series B dividend payment)&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.8500 · Mkt cap $12.9M · EV $63.0M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1847986/000149315226045583/0001493152-26-045583-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DFLI, DFLIW&lt;/b&gt; · 8-K · Items 1.01, 2.03, 3.03, 9.01 · Electronic Equipment (3690) · 8k_tier1:1.01,3.03 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🧭 Domicile · WKEY</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026106484/ea0307480-8k12b_wiseqey.htm</link>
+      <guid isPermaLink="false">0001213900-26-103517</guid>
+      <pubDate>Fri, 02 Oct 2026 16:11:52 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+      <category>acquisition</category>
+      <category>8-K12B</category>
+      <scanner:headline>Completes redomiciliation from Switzerland to British Virgin Islands; new shares WQEY trade Oct 5</scanner:headline>
+      <scanner:shortName>Wisekey International</scanner:shortName>
+      <scanner:price>5.95</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K12B</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>WKEY</scanner:ticker>
+      <scanner:filings>5</scanner:filings>
+      <scanner:filingForms>6-K x4, 8-K12B</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>51110000</scanner:marketCap>
+      <scanner:enterpriseValue>37470000</scanner:enterpriseValue>
+      <scanner:fwdEvGrossProfit>4.02</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Reports Class B share election results for BVI redomiciliation merger&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ltd announced the results of the share election process for its proposed cross-border merger into its British Virgin Islands subsidiary, WISeQey Corp. Holders of 518 Class B shares validly elected to receive WISeQey Class B shares, while 4,176,654 Class B shares (including ADSs) will convert to WISeQey ordinary shares. The merger remains subject to closing conditions and regulatory procedures, with an update on the effective date and trading commencement expected.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; WISeKey International Holding AG, a cybersecurity company, provides integrated security solutions in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. The company designs, manufactures, distributes, and sells high-end, Common Criteria EAL5+ &amp;amp; FIPS 140-3-certified secure microprocessors, as well as offers digital certificates; software as a service solutions, including cloud-based certificate life-cycle-management, signing, and authentication solutions; software…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.95 · Mkt cap $51.1M · EV $37.5M · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026103517/0001213900-26-103517-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WKEY, WSKEF&lt;/b&gt; · 6-K · Business Services (7374) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (5)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K12B · Oct 02 16:11 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026106484/ea0307480-8k12b_wiseqey.htm'&gt;Completes redomiciliation from Switzerland to British Virgin Islands; new shares WQEY trade Oct 5&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Oct 02 05:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026106014/ea0307403-6k_wisekey.htm'&gt;Redomiciliation to BVI effective; WKEY ADS to 0.5 WQEY share; new WQEY trades Oct 5&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 30 16:39 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026105356/ea0306423-6k_wisekey.htm'&gt;Shareholders approve redomiciliation; direct Nasdaq/SIX listing as WISeQey (WQEY) expected Oct&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 28 07:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026103764/ea0306757-6k_wisekey.htm'&gt;Redomiciliation to British Virgin Islands effective Oct 2; new ticker WQEY&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 25 15:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026103517/ea0306680-6k_wisekey.htm'&gt;Reports Class B share election results for BVI redomiciliation merger&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · HTB</title>
       <link>https://www.sec.gov/Archives/edgar/data/1538263/000110465926113346/tm2626525-1_s4.htm</link>
@@ -3201,39 +3271,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.2400 · Mkt cap $19.2M · EV $7.1M · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2111453/000118518526004533/0001185185-26-004533-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;VUECF&lt;/b&gt; · 6-K · Metal Mining (1090) · prefill_form:6-K · filed 2026-10-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧭 Domicile · WKEY</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026106014/ea0307403-6k_wisekey.htm</link>
-      <guid isPermaLink="false">0001213900-26-103517</guid>
-      <pubDate>Fri, 02 Oct 2026 05:12:07 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Redomiciliation to BVI effective; WKEY ADS to 0.5 WQEY share; new WQEY trades Oct 5</scanner:headline>
-      <scanner:shortName>Wisekey International</scanner:shortName>
-      <scanner:price>5.95</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>WKEY</scanner:ticker>
-      <scanner:filings>4</scanner:filings>
-      <scanner:filingForms>6-K x4</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>51110000</scanner:marketCap>
-      <scanner:enterpriseValue>37470000</scanner:enterpriseValue>
-      <scanner:fwdEvGrossProfit>4.02</scanner:fwdEvGrossProfit>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Reports Class B share election results for BVI redomiciliation merger&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Ltd announced the results of the share election process for its proposed cross-border merger into its British Virgin Islands subsidiary, WISeQey Corp. Holders of 518 Class B shares validly elected to receive WISeQey Class B shares, while 4,176,654 Class B shares (including ADSs) will convert to WISeQey ordinary shares. The merger remains subject to closing conditions and regulatory procedures, with an update on the effective date and trading commencement expected.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; WISeKey International Holding AG, a cybersecurity company, provides integrated security solutions in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. The company designs, manufactures, distributes, and sells high-end, Common Criteria EAL5+ &amp;amp; FIPS 140-3-certified secure microprocessors, as well as offers digital certificates; software as a service solutions, including cloud-based certificate life-cycle-management, signing, and authentication solutions; software…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.95 · Mkt cap $51.1M · EV $37.5M · Information Technology / Semiconductors and Semiconductor Equipment&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026103517/0001213900-26-103517-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WKEY, WSKEF&lt;/b&gt; · 6-K · Business Services (7374) · prefill_form:6-K · filed 2026-09-25&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Oct 02 05:12 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026106014/ea0307403-6k_wisekey.htm'&gt;Redomiciliation to BVI effective; WKEY ADS to 0.5 WQEY share; new WQEY trades Oct 5&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 30 16:39 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026105356/ea0306423-6k_wisekey.htm'&gt;Shareholders approve redomiciliation; direct Nasdaq/SIX listing as WISeQey (WQEY) expected Oct&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 28 07:34 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026103764/ea0306757-6k_wisekey.htm'&gt;Redomiciliation to British Virgin Islands effective Oct 2; new ticker WQEY&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 25 15:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1738699/000121390026103517/ea0306680-6k_wisekey.htm'&gt;Reports Class B share election results for BVI redomiciliation merger&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · AMX</title>
@@ -16933,44 +16970,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WALD, WALDW&lt;/b&gt; · 6-K · Chemicals / Pharma (2844) · prefill_form:6-K · filed 2026-09-24&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Sep 28 15:38 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1840199/000184019926000108/a1wald6-k_earningsreleasex.htm'&gt;Voluntary Nasdaq delisting &amp;amp; SEC deregistration approved; to trade OTC as MLKM&lt;/a&gt;&lt;/li&gt;&lt;li&gt;6-K · Sep 24 15:55 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1840199/000134100426000047/form6-k.htm'&gt;Voluntary delisting from Nasdaq; last trade Oct 2&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>📉 Delisting · Voluntary · USAC</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1522727/000152272726000092/usacform25-notificationofr.htm</link>
-      <guid isPermaLink="false">0001522727-26-000092</guid>
-      <pubDate>Mon, 28 Sep 2026 15:37:36 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>voluntary</category>
-      <category>25</category>
-      <scanner:headline>Voluntary NYSE delisting of Common Units effective Sep 28</scanner:headline>
-      <scanner:shortName>USA Compression Partners</scanner:shortName>
-      <scanner:price>25.31</scanner:price>
-      <scanner:subtype>voluntary</scanner:subtype>
-      <scanner:form>25</scanner:form>
-      <scanner:sector>Energy</scanner:sector>
-      <scanner:ticker>USAC</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>25</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3701850000</scanner:marketCap>
-      <scanner:enterpriseValue>6649890000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>5.65</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>8.56</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>16.41</scanner:fwdPE>
-      <scanner:fwdEvEbitda>8.14</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>8.56</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>66.07</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Voluntary NYSE delisting of Common Units effective Sep 28&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Filed a Form 25 to voluntarily withdraw its Common Units from listing and registration on the New York Stock Exchange. The delisting is effective on September 28, 2026, as the issuer has complied with the rules for voluntary withdrawal under 17 CFR 240.12d2-2(c).&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; USA Compression Partners, LP provides natural gas compression services in the United States. The company offers compression services to oil companies and independent producers, processors, gatherers, and transporters of natural gas and crude oil, as well as for infrastructure applications, including centralized natural gas gathering systems and processing facilities, and gas lift applications in crude oil wells.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $25.31 · Mkt cap $3.70B · EV $6.65B · Fwd P/E 16.4x · Fwd EV/EBITDA 8.1x · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1522727/000152272726000092/0001522727-26-000092-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;USAC&lt;/b&gt; · 25 · Utilities (4922) · prefill_form:25 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

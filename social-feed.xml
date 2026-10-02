@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:12:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$DFLI 🪙 Debt Restr.
+Secures waivers from lenders, preferred holders; defers Series B dividend
+Mcap $13M · EV $63M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847986/000149315226045583/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-045583</guid>
+      <pubDate>Fri, 02 Oct 2026 16:12:05 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$WKEY 🌍 Re-domicile
+Completes redomiciliation from Switzerland to British Virgin Islands; new shares WQEY trade Oct 5
+Mcap $51M · EV $37M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026106484/ea0307480-8k12b_wiseqey.htm</link>
+      <guid isPermaLink="false">0001213900-26-103517</guid>
+      <pubDate>Fri, 02 Oct 2026 16:11:52 -0500</pubDate>
+      <category>DOMICILE_CHANGE</category>
+    </item>
     <item>
       <title>$HTB 🤝 Merger
 Acquires Blue Ridge Bankshares for 0.086 shares per BRBS; vote pending
@@ -934,15 +952,6 @@ Mcap $19M · EV $7M · Energy</title>
       <category>POST_SPIN</category>
     </item>
     <item>
-      <title>$WKEY 🌍 Re-domicile
-Redomiciliation to BVI effective; WKEY ADS to 0.5 WQEY share; new WQEY trades Oct 5
-Mcap $51M · EV $37M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026106014/ea0307403-6k_wisekey.htm</link>
-      <guid isPermaLink="false">0001213900-26-103517</guid>
-      <pubDate>Fri, 02 Oct 2026 05:12:07 -0500</pubDate>
-      <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
       <title>$AMX 🤝 Merger
 Acquires 72.83% of Desktop S.A. in Brazil
 Mcap $62B · EV $99B · Comms</title>
@@ -1171,15 +1180,6 @@ Mcap $1.3B · EV $1.2B · Materials</title>
       <pubDate>Thu, 01 Oct 2026 16:12:24 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$VOXR 🪙 Debt Restr.
-Upsizes revolving credit facility to $150M total capacity; adds new lender
-Mcap $378M · EV $347M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1907909/000165495426008753/voxr_6k.htm</link>
-      <guid isPermaLink="false">0001654954-26-008753</guid>
-      <pubDate>Thu, 01 Oct 2026 16:11:59 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
     </item>
   </channel>
 </rss>
