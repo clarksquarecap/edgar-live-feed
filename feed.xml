@@ -6,8 +6,47 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 00:03:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 00:34:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🔐 Going Private · DH</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1861795/000114036126038313/0001140361-26-038313-index.htm</link>
+      <guid isPermaLink="false">0001140361-26-038313</guid>
+      <pubDate>Thu, 01 Oct 2026 19:34:48 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Advent International signs NDA with DH for potential take-private transaction</scanner:headline>
+      <scanner:shortName>Definitive Healthcare</scanner:shortName>
+      <scanner:price>0.9400</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>DH</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>96600000</scanner:marketCap>
+      <scanner:enterpriseValue>123070000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.53</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>0.63</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>5.15</scanner:fwdPE>
+      <scanner:fwdEvEbitda>2.17</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>0.63</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>83.76</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Advent International signs NDA with DH for potential take-private transaction&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Advent International, a majority shareholder of Definitive Healthcare Corp., disclosed signing a confidentiality agreement on September 29, 2026, to evaluate and negotiate a potential transaction with the Issuer. The agreement includes a 12-month standstill and non-solicitation provision. Advent intends to continue engaging with the Special Committee and third parties regarding the transaction.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Definitive Healthcare Corp., together with its subsidiaries, provides software as a service (SaaS) healthcare commercial intelligence platform in the United States and internationally. Its SaaS platform provides information on healthcare providers and their activities to help its customers from product development to go-to-market planning, and sales and marketing execution.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 58.54%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.9400 · Mkt cap $96.6M · EV $123.1M · Fwd P/E 5.2x · Fwd EV/EBITDA 2.2x · Health Care / Health Care Technology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1861795/000114036126038313/0001140361-26-038313-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;DH&lt;/b&gt; · SCHEDULE 13D/A · Business Services (7372) · fresh_13d · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📤 Divestiture · OFSTF</title>
       <link>https://www.otcmarkets.com/stock/OFSTF/news/537157</link>
@@ -16866,36 +16905,6 @@
 &lt;p&gt;&lt;i&gt;Px $42.57 · Mkt cap $737.8M · EV $1.01B · Fwd P/E 18.6x · Fwd EV/EBITDA 9.9x · Industrials / Construction and Engineering&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1847590/000114036126037722/0001140361-26-037722-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BWMN&lt;/b&gt; · PREM14A · Engineering / Accounting (8742) · prefill_form:PREM14A · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · ETRA</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2088082/000094787126000898/0000947871-26-000898-index.htm</link>
-      <guid isPermaLink="false">0000947871-26-000898</guid>
-      <pubDate>Fri, 25 Sep 2026 16:19:53 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D</category>
-      <scanner:headline>OrbiMed Advisors reports 11.0% stake in Electra Therapeutics</scanner:headline>
-      <scanner:shortName>Electra Therapeutics</scanner:shortName>
-      <scanner:price>11.55</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>ETRA</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>741910000</scanner:marketCap>
-      <scanner:enterpriseValue>957330000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;OrbiMed Advisors reports 11.0% stake in Electra Therapeutics&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;OrbiMed Advisors LLC, a registered investment adviser, disclosed a 11.0% stake in Electra Therapeutics, Inc., holding 6,885,170 shares of common stock. The filing indicates OrbiMed&amp;#39;s aggregate ownership and shared voting/dispositive power over these shares. The stake was reported as of September 21, 2026.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 11.0%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $11.55 · Mkt cap $741.9M · EV $957.3M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2088082/000094787126000898/0000947871-26-000898-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ETRA&lt;/b&gt; · SCHEDULE 13D · Chemicals / Pharma (2836) · fresh_13d · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
