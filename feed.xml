@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 16:41:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:30:09 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · LGMK</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1566826/000215797126000001/0002157971-26-000001-index.htm</link>
+      <guid isPermaLink="false">0002157971-26-000001</guid>
+      <pubDate>Fri, 02 Oct 2026 12:30:02 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Patel (5.6%) votes against merger, demands appraisal rights at LogicMark</scanner:headline>
+      <scanner:shortName>LogicMark</scanner:shortName>
+      <scanner:price>1.13</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>LGMK</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>990000</scanner:marketCap>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Patel (5.6%) votes against merger, demands appraisal rights at LogicMark&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Kirtan Sanjaykumar Patel, holding a 5.6% stake in LogicMark, Inc., has voted against the proposed merger with Langham Merger Sub, Inc. and sent notices of intent to demand payment for his shares. Patel may communicate with the issuer and other stockholders regarding the merger and consideration.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; LogicMark, Inc. provides personal emergency response systems (PERS), health communications devices, and Internet of Things (IoT) technology that creates a connected care platform in the United States. The company offers Guardian Alert 911 Plus, Freedom Alert, Freedom Alert Mini, and Freedom Alert Max, which are home-based landline solutions. It also provides Aster, a personal safety app that provides 24/7 monitoring along with a Bluetooth button product.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.6%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-31&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.13 · Mkt cap $990K · EV $-3.5M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1566826/000215797126000001/0002157971-26-000001-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LGMK&lt;/b&gt; · SCHEDULE 13D · Instruments / Medical Devices (3842) · fresh_13d · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · JCTC</title>
       <link>https://www.sec.gov/Archives/edgar/data/885307/000110465926113171/0001104659-26-113171-index.htm</link>
@@ -16900,43 +16930,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BEAG, BEAGR, BEAGU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-28&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 28 07:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1852207/000121390026103758/ea0305453-8k425_bold.htm'&gt;Acquires REDLattice via business combination; Domestication to Delaware&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 28 07:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1852207/000121390026103760/ea0305453-8k425_bold.htm'&gt;Acquires REDLattice in business combination; shareholder vote pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>💔 Busted · CYCU</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1868419/000186841926000044/cycu-20260924.htm</link>
-      <guid isPermaLink="false">0001868419-26-000044</guid>
-      <pubDate>Mon, 28 Sep 2026 07:27:24 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>busted_ma</category>
-      <category>8-K</category>
-      <scanner:headline>Terminates Equity Purchase Agreement with Yield Point NY</scanner:headline>
-      <scanner:shortName>Cycurion</scanner:shortName>
-      <scanner:price>2.81</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>CYCU</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>9080000</scanner:marketCap>
-      <scanner:enterpriseValue>11220000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.78</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>4.52</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>4.52</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>17.22</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Terminates Equity Purchase Agreement with Yield Point NY&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Delivered a termination notice to Yield Point NY LLC, ending their Equity Purchase Agreement dated April 7, 2025. The Company exercised its contractual rights under Section 10.6 of the agreement, stating the termination was not due to any disagreement regarding operations, policies, or practices.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cycurion, Inc., through its subsidiaries, provides information technology security solutions in the United States. The company offers consulting and advisory services, including security control assessments, security architecture and engineering, risk management and compliance audits, staff augmentation, cybersecurity awareness and training, cloud security, virtual CISO support, and digital modernization; and managed IT services, such as project and license management, network infrastructure, sy…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Yield Point NY LLC&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $2.81 · Mkt cap $9.1M · EV $11.2M · Industrials / Professional Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1868419/000186841926000044/0001868419-26-000044-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CYCU, CYCUW&lt;/b&gt; · 8-K · Items 1.02, 8.01, 9.01 · Business Services (7371) · 8k_tier1:1.02,8.01 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
