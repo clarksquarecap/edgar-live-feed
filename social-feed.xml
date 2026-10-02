@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 09:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:06:44 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VCTR 🤝 Merger
+Acquires First Eagle for $7.03B cash + $2B stock; vote on share issuance
+7.03 billion deal · cash+stk
+Mcap $6.9B · EV $7.8B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1570827/000110465926112931/tm2625955-1_prem14a.htm</link>
+      <guid isPermaLink="false">0001104659-26-112931</guid>
+      <pubDate>Fri, 02 Oct 2026 05:06:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ZURVY 🤝 Merger
 Completes Beazley acquisition; expects $1B incremental revenue, $150M cost savings by 2029
@@ -1456,27 +1467,6 @@ Mcap $108M · EV $108M · Financials</title>
       <pubDate>Thu, 01 Oct 2026 05:11:47 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$CRTD 🤝 Merger
-Acquires C2 Capital Group for ~12.9M shares as-converted
-stock
-Mcap $13M · EV $13M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1357671/000162828026064038/crtd-20260930.htm</link>
-      <guid isPermaLink="false">0001628280-26-064038</guid>
-      <pubDate>Thu, 01 Oct 2026 05:04:04 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$CCXI 🤝 Merger
-Acquires Agility Robotics; combined company to trade as AGLT on Nasdaq
-Mcap $687M · EV $686M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2074973/000121390026105359/ea0307216-425_churchill11.htm</link>
-      <guid isPermaLink="false">0001213900-26-105334</guid>
-      <pubDate>Thu, 01 Oct 2026 05:03:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
