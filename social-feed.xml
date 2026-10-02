@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 10:14:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:16:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TMGI 💥 Busted M&amp;A
+Terminates prior control agreement with GetGolf due to default; control reverts to Marc Angell
+Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1434601/000168316826007548/tmgi_8k.htm</link>
+      <guid isPermaLink="false">0001683168-26-007548</guid>
+      <pubDate>Fri, 02 Oct 2026 05:15:37 -0500</pubDate>
+      <category>BUSTED_MA</category>
+      <category>unilateral_termination</category>
+    </item>
+    <item>
+      <title>$KITT 🪙 Debt Restr.
+Receives waivers on preferred stock default terms, avoiding 18% dividend rate
+Mcap $2M · EV $23M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849820/000184982026000166/kitt-20260930.htm</link>
+      <guid isPermaLink="false">0001849820-26-000155</guid>
+      <pubDate>Fri, 02 Oct 2026 05:15:19 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$KITT 🪙 Debt Restr.
 Amends term loan, reducing convertible price to $1.488
@@ -971,15 +990,6 @@ Mcap $13M · EV $13M · Comms</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$KITT 🪙 Debt Restr.
-Receives waiver on Series A preferred triggering event until Jan 31, 2027
-Mcap $2M · EV $23M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1849820/000184982026000163/kitt-20260930.htm</link>
-      <guid isPermaLink="false">0001849820-26-000155</guid>
-      <pubDate>Thu, 01 Oct 2026 08:37:46 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
       <title>$PLMK 🤝 Merger
 Acquires CTR; target secures strategic investor agreements for capital structure
 Mcap $115M · EV $115M · Financials</title>
@@ -1490,27 +1500,6 @@ Mcap $13B · EV $14B · Industrials</title>
       <pubDate>Thu, 01 Oct 2026 05:16:43 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$AFYA 🤝 Merger
-Acquired by YDUQS in all-stock merger; pending antitrust approval
-YDUQS Participações · stock
-Mcap $1.1B · EV $1.5B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1771007/000129281426004772/afya20260930_6k1.htm</link>
-      <guid isPermaLink="false">0001292814-26-004772</guid>
-      <pubDate>Thu, 01 Oct 2026 05:16:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$EC ⚖️ Litigation · Settled
-Receives COP 573.1B (~$145M) FEPC payment from Colombian govt in Treasury Bonds
-Mcap $34B · EV $71B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1444406/000129281426004776/ec20261001_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004776</guid>
-      <pubDate>Thu, 01 Oct 2026 05:15:25 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>settled</category>
     </item>
   </channel>
 </rss>
