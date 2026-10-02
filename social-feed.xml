@@ -6,8 +6,38 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:13:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:20:37 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SOBR 📉 Delisting · Forced
+Forced Nasdaq delisting effective Sep 16; now trades OTC Pink
+Mcap $540K · EV $110K · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1425627/000147793226006034/sobr_8k.htm</link>
+      <guid isPermaLink="false">0001477932-26-006034</guid>
+      <pubDate>Fri, 02 Oct 2026 16:20:30 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
+    <item>
+      <title>$ETD ⚔️ Proxy
+Nominates director slate for Ethan Allen Interiors 2026 AGM
+Mcap $537M · EV $524M · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/896156/000092189526002722/dfan14857002_10022026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002581</guid>
+      <pubDate>Fri, 02 Oct 2026 16:19:25 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
+    <item>
+      <title>$HSCS 🤝 Merger
+Progresses Fortitude Mining business combination; loan maturity extended
+empty · close 2027-01-29
+Mcap $19M · EV $23M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026106514/ea0307437-8k_heart.htm</link>
+      <guid isPermaLink="false">0001213900-26-104895</guid>
+      <pubDate>Fri, 02 Oct 2026 16:19:17 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$LNTH 🤝 Merger
 Provides supplemental disclosures for Curium merger; vote Oct 14
@@ -1166,16 +1196,6 @@ Launches self-tender for up to 5% of shares at 98% of NAV; expires Nov 18</title
       <link>https://www.sec.gov/Archives/edgar/data/1785971/000119312526410845/d86344dsctoc.htm</link>
       <guid isPermaLink="false">0001193125-26-410845</guid>
       <pubDate>Thu, 01 Oct 2026 16:27:03 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-    </item>
-    <item>
-      <title>$HHDS 💧 Capital Return · Self-tender
-Completes self-tender for 135.38M shares at $0.20/share, ~18.7% of stock
-Mcap $74M · EV $173M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1661458/000110465926112895/tm2623323d11_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112895</guid>
-      <pubDate>Thu, 01 Oct 2026 16:20:40 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
     </item>
