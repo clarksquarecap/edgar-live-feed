@@ -6,8 +6,40 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 19:37:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:01:16 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · GBR</title>
+      <link>https://www.sec.gov/Archives/edgar/data/105744/000127334826000013/0001273348-26-000013-index.htm</link>
+      <guid isPermaLink="false">0001273348-26-000013</guid>
+      <pubDate>Fri, 02 Oct 2026 15:01:09 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Realty Advisors increases stake to 33.65% via $2M direct share purchase</scanner:headline>
+      <scanner:shortName>New Concept Energy</scanner:shortName>
+      <scanner:price>0.7700</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Real Estate</scanner:sector>
+      <scanner:ticker>GBR</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>4360000</scanner:marketCap>
+      <scanner:enterpriseValue>4060000</scanner:enterpriseValue>
+      <scanner:fwdEvGrossProfit>35.57</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Realty Advisors increases stake to 33.65% via $2M direct share purchase&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Realty Advisors Inc. acquired 2,000,000 newly issued shares of New Concept Energy common stock directly from the issuer for $1.00 per share, totaling $2,000,000. This transaction, approved by stockholders and the NYSE American Exchange, increased Realty Advisors&amp;#39; ownership to 2,400,000 shares, representing 33.65% of the outstanding common stock.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; New Concept Energy, Inc. engages in the real estate rental business. The company owns land located in Parkersburg, West Virginia. The company offers advisory and management services for an independent oil and gas company. The company was formerly known as CabelTel International Corporation and changed its name to New Concept Energy, Inc. in May 2008. New Concept Energy, Inc. was founded in 1978 and is headquartered in Dallas, Texas.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; 1.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 2,000,000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 33.65%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-29&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.7700 · Mkt cap $4.4M · EV $4.1M · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/105744/000127334826000013/0001273348-26-000013-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GBR&lt;/b&gt; · SCHEDULE 13D/A · Oil &amp;amp; Gas (1311) · amended_13d · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · GNTA</title>
       <link>https://www.sec.gov/Archives/edgar/data/1838716/000149315226045500/0001493152-26-045500-index.htm</link>
@@ -16901,41 +16933,6 @@
 &lt;p&gt;&lt;i&gt;Px $23.88 · Mkt cap $3.90B · EV $4.20B · Fwd P/E 10.4x · Fwd EV/EBITDA 5.2x · Industrials / Transportation Infrastructure&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1717393/000110465926111196/0001104659-26-111196-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CAAP&lt;/b&gt; · 6-K · Air Transportation (4581) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>⚔️ Proxy Contest · ETD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/896156/000092189526002652/dfrn14857002_09252026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002581</guid>
-      <pubDate>Mon, 28 Sep 2026 07:49:28 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-      <category>activist</category>
-      <category>DFRN14A</category>
-      <scanner:headline>Nominates 5-director slate at Ethan Allen; AGM Nov 4</scanner:headline>
-      <scanner:shortName>ETHAN ALLEN INTERIORS</scanner:shortName>
-      <scanner:price>21.29</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DFRN14A</scanner:form>
-      <scanner:sector>Consumer Discretionary</scanner:sector>
-      <scanner:ticker>ETD</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>DEFC14A, DFAN14A, DFRN14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>541100000</scanner:marketCap>
-      <scanner:enterpriseValue>528450000</scanner:enterpriseValue>
-      <scanner:fwdPE>19.31</scanner:fwdPE>
-      <scanner:fwdEvEbitda>11.06</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Nominates 5 directors to replace Ethan Allen board; owns 5.2%&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Faces a proxy contest from DGB Investment, which owns 5.2% of shares and is nominating five directors to replace the entire board. DGB cites decades of underperformance under CEO Farooq Kathwari and seeks to revitalize the brand. The annual meeting date is not yet disclosed.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ethan Allen Interiors Inc. operates as an interior design company, and manufacturer and retailer of home furnishings in the United States and internationally. The company operates through two segments: Wholesale and Retail. It offers case goods items, such as beds, dressers, armoires, tables, chairs, buffets, entertainment units, home office furniture, and wooden accents; upholstery comprising fabric-covered items, such as sleepers, recliners and other motion furniture, chairs, ottomans, custom …&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.2%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-05&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $21.29 · Mkt cap $541.1M · EV $528.5M · Fwd P/E 19.3x · Fwd EV/EBITDA 11.1x · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002581/0000921895-26-002581-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ETD&lt;/b&gt; · DEFC14A · Furniture (2511) · prefill_form:DEFC14A · filed 2026-09-18&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DFRN14A · Sep 28 07:49 · &lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002652/dfrn14857002_09252026.htm'&gt;Nominates 5-director slate at Ethan Allen; AGM Nov 4&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 22 16:17 · &lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002621/dfan14857002_09222026.htm'&gt;Nominates 5-director slate at Ethan Allen; 5.2% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFC14A · Sep 18 12:22 · &lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002581/defc14a14857002_09182026.htm'&gt;Nominates 5 directors to replace Ethan Allen board; owns 5.2%&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
