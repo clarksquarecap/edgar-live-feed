@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 00:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:12:34 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · HTH</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1265131/000094562126001210/0000945621-26-001210-index.htm</link>
+      <guid isPermaLink="false">0000945621-26-001210</guid>
+      <pubDate>Thu, 01 Oct 2026 20:12:27 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Reports 27.3% stake in Hilltop Holdings</scanner:headline>
+      <scanner:shortName>Hilltop Holdings</scanner:shortName>
+      <scanner:price>37.93</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>HTH</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2157410000</scanner:marketCap>
+      <scanner:fwdPE>17.02</scanner:fwdPE>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Reports 27.3% stake in Hilltop Holdings&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Gerald J. Ford and affiliated entities reported a beneficial ownership of 15,651,329.97 shares, representing 27.3% of Hilltop Holdings Inc.&amp;#39;s common stock. This Schedule 13D/A (Amendment No. 22) updates their previously disclosed holdings. The filing incorporates information from Item 6, which was not provided in the snippet.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Hilltop Holdings Inc. provides business and consumer banking services. The company operates through three segments: Banking, Broker-Dealer, and Mortgage Origination. The Banking segment offers savings, checking, interest-bearing checking, and money market accounts; certificates of deposit; lines and letters of credit, home improvement and equity loans, loans for purchasing and carrying securities, term, agricultural and commercial real estate, equipment loans, and other lending products; and mor…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 27.3%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $37.93 · Mkt cap $2.16B · Fwd P/E 17.0x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1265131/000094562126001210/0000945621-26-001210-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HTH&lt;/b&gt; · SCHEDULE 13D/A · Depository Institutions (6022) · fresh_13d · filed 2026-10-01&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🔐 Going Private · DH</title>
       <link>https://www.sec.gov/Archives/edgar/data/1861795/000114036126038313/0001140361-26-038313-index.htm</link>
@@ -16866,45 +16897,6 @@
 &lt;p&gt;&lt;i&gt;Px $20.73 · Mkt cap $254.8M · EV $230.0M · Industrials / Aerospace and Defense&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2092574/000110465926111047/0001104659-26-111047-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;SWMR&lt;/b&gt; · PREM14A · Business Services (7372) · prefill_form:PREM14A · filed 2026-09-25&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BWMN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847590/000114036126037722/ny20081613x1_prem14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-037722</guid>
-      <pubDate>Fri, 25 Sep 2026 16:25:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>PREM14A</category>
-      <scanner:headline>Acquired by Prive Parent for $43.00 cash per share; vote pending</scanner:headline>
-      <scanner:shortName>Bowman Consulting</scanner:shortName>
-      <scanner:price>42.57</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>PREM14A</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>BWMN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>PREM14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>737800000</scanner:marketCap>
-      <scanner:enterpriseValue>1011890000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>1.92</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>3.59</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>18.63</scanner:fwdPE>
-      <scanner:fwdEvEbitda>9.88</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>3.59</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>53.36</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-24T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Prive Parent for $43.00 cash per share; vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Will be acquired by Prive Parent, Inc., an affiliate of Bernhard Capital Partners, for $43.00 per share in cash. The Company&amp;#39;s board unanimously recommends stockholders vote &amp;#39;FOR&amp;#39; the merger proposal. A special meeting will be held to consider the adoption of the merger agreement.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Bowman Consulting Group Ltd., provides engineering, technical consulting, and program management services in the United States. The company offers planning, engineering, program management, commissioning, environmental consulting, geospatial imaging, surveying, land procurement, and other infrastructure management services.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Prive Parent, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; 43.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-08-10&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Special meeting vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $42.57 · Mkt cap $737.8M · EV $1.01B · Fwd P/E 18.6x · Fwd EV/EBITDA 9.9x · Industrials / Construction and Engineering&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1847590/000114036126037722/0001140361-26-037722-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BWMN&lt;/b&gt; · PREM14A · Engineering / Accounting (8742) · prefill_form:PREM14A · filed 2026-09-25&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
