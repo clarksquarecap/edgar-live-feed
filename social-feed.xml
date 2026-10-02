@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 11:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:13:11 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$COLA 🤝 Merger
+Extends deadline for WISeSat.Space business combination to Oct 22, 2026
+close 2026-10-22
+Mcap $47M · EV $47M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2028201/000121390026106080/ea0307412-8k425_columbus.htm</link>
+      <guid isPermaLink="false">0001213900-26-102547</guid>
+      <pubDate>Fri, 02 Oct 2026 06:12:58 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$ZDGE 📍 Stake
 Howard S. Jonas acquires 15.6% stake for $6.5M
@@ -354,15 +365,6 @@ Mcap $2.5B · EV $2.4B · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/805928/000080592826000104/axgn-20261001.htm</link>
       <guid isPermaLink="false">0000805928-26-000104</guid>
       <pubDate>Thu, 01 Oct 2026 16:37:22 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SAIQ 🤝 Merger
-Completes business combination with Columbus Acquisition Corp; new shares trade as SAIQ on Nasdaq Oct 2</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2101411/000121390026105923/ea0307430-6k_wisesat.htm</link>
-      <guid isPermaLink="false">0001213900-26-102547</guid>
-      <pubDate>Thu, 01 Oct 2026 16:36:20 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
     </item>
@@ -1357,26 +1359,6 @@ Mcap $43B · EV $84B · Cons Stpl</title>
       <guid isPermaLink="false">0001193125-26-409799</guid>
       <pubDate>Thu, 01 Oct 2026 06:18:09 -0500</pubDate>
       <category>SPIN_OFF</category>
-    </item>
-    <item>
-      <title>$OVV 💧 Capital Return · Buyback
-Renews 10% share buyback program on TSX/NYSE
-Mcap $16B · EV $20B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1792580/000119312526409792/ovv-20261001.htm</link>
-      <guid isPermaLink="false">0001193125-26-409792</guid>
-      <pubDate>Thu, 01 Oct 2026 06:11:51 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$NTWO 🤝 Merger
-Acquires Fort Robotics in business combination for Nasdaq listing
-Mcap $262M · EV $262M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2028027/000118518526004474/ntwo2425093026.htm</link>
-      <guid isPermaLink="false">0001185185-26-004447</guid>
-      <pubDate>Thu, 01 Oct 2026 06:11:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
