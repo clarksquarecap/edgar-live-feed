@@ -6,8 +6,39 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 12:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:03:40 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · HCAC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2079013/000182912626010707/hallchadwickacq_425.htm</link>
+      <guid isPermaLink="false">0001829126-26-010707</guid>
+      <pubDate>Fri, 02 Oct 2026 08:03:33 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>425</category>
+      <scanner:headline>Acquires REEcycle; secures $2.1M PIPE at $10/share; S-4 filed</scanner:headline>
+      <scanner:shortName>Hall Chadwick Acquisition</scanner:shortName>
+      <scanner:price>10.13</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>425</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>HCAC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>425</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>295770000</scanner:marketCap>
+      <scanner:enterpriseValue>295730000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires REEcycle; secures $2.1M PIPE at $10/share; S-4 filed&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into a definitive Business Combination Agreement with REEcycle Holdings, Inc. on May 31, 2026. In connection with the business combination, the Company secured a $2.1 million PIPE investment from certain entities at $10.00 per share. A Form S-4 registration statement, including a proxy statement for the shareholder vote, was filed on October 1, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Hall Chadwick Acquisition Corp. does not have significant operations. It focuses on effecting a merger, amalgamation, share exchange, asset acquisition, share purchase, reorganization or similar business combination with one or more businesses in the technology sector. The company was incorporated in 2025 and is based in Singapore.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; REEcycle Holdings, Inc.&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-05-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder vote&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $10.13 · Mkt cap $295.8M · EV $295.7M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2079013/000182912626010707/0001829126-26-010707-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HCAC, HCACR, HCACU&lt;/b&gt; · 425 · Primary Metals (3341) · prefill_form:425 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>💧 Capital Return · Buyback Authorization · HYPD</title>
       <link>https://www.sec.gov/Archives/edgar/data/1682639/000110465926113050/tm2626852d1_8k.htm</link>
@@ -16938,44 +16969,6 @@
 &lt;p&gt;&lt;i&gt;Px $5.56 · Mkt cap $21.2M · EV $13.8M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1985062/000121390026103733/0001213900-26-103733-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PBM, PBMWW&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · FIP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1899883/000114036126037763/ef20082849_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-037763</guid>
-      <pubDate>Mon, 28 Sep 2026 05:57:56 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires DRUbit for $255M enterprise value; subject to HSR</scanner:headline>
-      <scanner:shortName>FTAI Infrastructure</scanner:shortName>
-      <scanner:price>3.13</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>FIP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>369320000</scanner:marketCap>
-      <scanner:enterpriseValue>4197460000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>6.37</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>15.94</scanner:evGrossProfitLtm>
-      <scanner:fwdEvEbitda>14.23</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>15.94</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>39.95</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires DRUbit for $255M enterprise value; subject to HSR&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;FTAI Infrastructure Inc.&amp;#39;s indirect subsidiary, Drub LLC, entered into a Membership Interest Purchase Agreement to acquire all outstanding membership interests of DRUbit LLC for an enterprise value of $255 million. The transaction is subject to customary closing conditions, including the expiration or termination of the HSR Act waiting period. The deal is expected to close within five months of the execution date.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; FTAI Infrastructure Inc. engages in acquiring, developing, and operating assets and businesses that represent infrastructure for customers in the transportation, energy, and industrial products industries in North America. It operates through four segments: Railroad, Ports and Terminals, Power and Gas, and Sustainability and Energy Transition.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; DRUbit LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $255 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 100%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-27&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; Q1 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; HSR Act expiration or termination&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $3.13 · Mkt cap $369.3M · EV $4.20B · Fwd EV/EBITDA 14.2x · Industrials / Ground Transportation&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1899883/000114036126037763/0001140361-26-037763-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FIP&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Railroad (4011) · 8k_tier1:1.01,7.01 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
