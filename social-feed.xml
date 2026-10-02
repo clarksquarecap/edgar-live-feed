@@ -6,8 +6,35 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:03:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$GME 📍 Stake
+Increases GME stake to 8.9% with 700K share purchase at $24.41/share
+Mcap $12B · EV $11B · Cons Disc</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326380/000092189526002718/0000921895-26-002718-index.htm</link>
+      <guid isPermaLink="false">0000921895-26-002718</guid>
+      <pubDate>Fri, 02 Oct 2026 16:03:36 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$RMXI 🪙 Debt Restr.
+Extends $2.02M 15% convertible note maturity to Dec 31, 2026, with uplisting condition
+Mcap $57M · EV $60M · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1970743/000121390026106475/ea0307140-8k_rmx.htm</link>
+      <guid isPermaLink="false">0001213900-26-106475</guid>
+      <pubDate>Fri, 02 Oct 2026 16:03:03 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$POSC 🪙 Debt Restr.
+Secures $2M in 20% notes + warrants from affiliates; due Sep 2027
+Mcap $59M · EV $60M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844985/000153949726002637/n5417_x8-8k.htm</link>
+      <guid isPermaLink="false">0001539497-26-002637</guid>
+      <pubDate>Fri, 02 Oct 2026 16:02:49 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$JMSB 🤝 Merger
 Acquires Eagle Financial Services for 2.00x stock; implied $46.72/share
@@ -1145,15 +1172,6 @@ Mcap $216M · EV $221M · Cons Disc</title>
       <pubDate>Thu, 01 Oct 2026 16:03:52 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$MDT 🪓 Split-off
-Launches exchange offer for MiniMed Group shares
-Mcap $113B · EV $133B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026064306/a425-mdtwebsitex10126.htm</link>
-      <guid isPermaLink="false">0001628280-26-062507</guid>
-      <pubDate>Thu, 01 Oct 2026 16:03:28 -0500</pubDate>
-      <category>SPLIT_OFF</category>
     </item>
   </channel>
 </rss>

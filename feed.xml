@@ -6,8 +6,115 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:02:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:03:42 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · GME</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1326380/000092189526002718/0000921895-26-002718-index.htm</link>
+      <guid isPermaLink="false">0000921895-26-002718</guid>
+      <pubDate>Fri, 02 Oct 2026 16:03:36 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases GME stake to 8.9% with 700K share purchase at $24.41/share</scanner:headline>
+      <scanner:shortName>GameStop</scanner:shortName>
+      <scanner:price>23.76</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>GME</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>12087840000</scanner:marketCap>
+      <scanner:enterpriseValue>11360740000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>3.20</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>8.44</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>12.78</scanner:fwdPE>
+      <scanner:fwdEvGrossProfit>8.23</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>37.89</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Increases GME stake to 8.9% with 700K share purchase at $24.41/share&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Ryan Cohen increased his beneficial ownership in GameStop Corp. to approximately 8.9% of outstanding Class A Common Stock. He purchased an aggregate of 700,000 shares on October 2, 2026, at a weighted average price of $24.4061 per share. His total beneficial ownership now stands at 45,383,306 shares, including 3,734,784 shares underlying warrants.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; GameStop Corp., a specialty retailer, provides games, collectibles, and entertainment products through its stores and e-commerce platforms in United States, Australia and Europe. The company sells new and pre-owned gaming platforms; accessories, such as controllers, gaming headsets, and other peripheral devices; new and pre-owned gaming software; and in-game digital currency, digital downloadable content, and full-game downloads.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Purchase price:&lt;/b&gt; $24.4061&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 8.9%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-02&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $23.76 · Mkt cap $12.09B · EV $11.36B · Fwd P/E 12.8x · Consumer Discretionary / Specialty Retail&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1326380/000092189526002718/0000921895-26-002718-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GME, GME-WT&lt;/b&gt; · SCHEDULE 13D/A · Retail; Furniture (5734) · fresh_13d · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙 Debt Restr. · RMXI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1970743/000121390026106475/ea0307140-8k_rmx.htm</link>
+      <guid isPermaLink="false">0001213900-26-106475</guid>
+      <pubDate>Fri, 02 Oct 2026 16:03:03 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Extends $2.02M 15% convertible note maturity to Dec 31, 2026, with uplisting condition</scanner:headline>
+      <scanner:shortName>RMX INDUSTRIES</scanner:shortName>
+      <scanner:price>5.00</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>RMXI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>56920000</scanner:marketCap>
+      <scanner:enterpriseValue>60000000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>218.97</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>231.61</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>237.61</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>94.54</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Extends $2.02M 15% convertible note maturity to Dec 31, 2026, with uplisting condition&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Extended the maturity date of its $2,020,000 senior secured convertible note, bearing a 15% interest rate, from August 31, 2026, to December 31, 2026. The maturity date will automatically extend to March 31, 2027, if the company&amp;#39;s common stock uplists to an eligible national securities exchange prior to December 31, 2026.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; RMX Industries, Inc. operates as a physical-edge intelligence company in the United States. It offers QuantrusX, an edge intelligence platform built for real-world environments to support data interpretation, local decision support, and enhance responsive intelligence at the physical edge. The company was formerly known as Reticulate Micro, Inc. and changed its name to RMX Industries, Inc. in August 2025. RMX Industries, Inc. was incorporated in 2022 and is based in Dallas, Texas.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; institutional investor&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 2020000&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-12-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Uplisting to national securities exchange by 2026-12-31&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $5.00 · Mkt cap $56.9M · EV $60.0M · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1970743/000121390026106475/0001213900-26-106475-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;RMXI&lt;/b&gt; · 8-K · Items 1.01 · Business Services (7370) · 8k_tier1:1.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🪙 Debt Restr. · POSC</title>
+      <link>https://www.sec.gov/Archives/edgar/data/844985/000153949726002637/n5417_x8-8k.htm</link>
+      <guid isPermaLink="false">0001539497-26-002637</guid>
+      <pubDate>Fri, 02 Oct 2026 16:02:49 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Secures $2M in 20% notes + warrants from affiliates; due Sep 2027</scanner:headline>
+      <scanner:shortName>POSITRON</scanner:shortName>
+      <scanner:price>1.77</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>POSC</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>58860000</scanner:marketCap>
+      <scanner:enterpriseValue>59550000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>133.87</scanner:evSalesLtm>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Secures $2M in 20% notes + warrants from affiliates; due Sep 2027&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Corporation issued $2,000,000 in unsecured promissory notes bearing 20% interest, due September 30, 2027. As additional consideration, the Company issued warrants to purchase 400,000 shares of common stock at an exercise price of $2.00 per share. Two of the three noteholders are existing, affiliated investors, including a director.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Positron Corporation, a medical technology company, co-develops, manufactures, and sells positron emission tomography and PET-computed tomography imaging systems in the United States. The company offers Attrius PET and NeuSight PET-CT 64-slice used in non-invasive diagnosis and evaluation of coronary artery disease and supports various molecular imaging applications, including cardiology, oncology, and neurology.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; George Ortiz, TISU Investments LTD&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 2,000,000&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2027-09-30&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2027-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.77 · Mkt cap $58.9M · EV $59.5M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/844985/000153949726002637/0001539497-26-002637-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;POSC&lt;/b&gt; · 8-K · Items 1.01, 2.03, 3.02, 9.01 · Instruments / Medical Devices (3845) · 8k_tier1:1.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · JMSB</title>
       <link>https://www.sec.gov/Archives/edgar/data/1710482/000110465926113340/tm2625851-1_s4.htm</link>
@@ -16861,103 +16968,6 @@
 &lt;p&gt;&lt;i&gt;Px $34.30 · Mkt cap $3.56B · EV $4.26B · Fwd P/E 10.3x · Fwd EV/EBITDA 5.5x · Energy / Oil, Gas and Consumable Fuels&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1655891/000091957426006535/0000919574-26-006535-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TRMD&lt;/b&gt; · 6-K · Water Transportation (4412) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📍 Stake · LAR</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1440972/000106299326005085/form6k.htm</link>
-      <guid isPermaLink="false">0001062993-26-005085</guid>
-      <pubDate>Mon, 28 Sep 2026 15:28:40 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
-      <category>acquisition</category>
-      <category>6-K</category>
-      <scanner:headline>Receives $180M strategic investment from Ganfeng; stake to 16.1% FD</scanner:headline>
-      <scanner:shortName>Lithium Argentina AG</scanner:shortName>
-      <scanner:price>5.42</scanner:price>
-      <scanner:subtype />
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Materials</scanner:sector>
-      <scanner:ticker>LAR</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>910850000</scanner:marketCap>
-      <scanner:enterpriseValue>1114470000</scanner:enterpriseValue>
-      <scanner:fwdEvEbitda>6.45</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Receives $180M strategic investment from Ganfeng; stake to 16.1% FD&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Closed a US$180 million strategic investment from Ganfeng Lithium Group Co., Ltd. via a six-year unsecured convertible note. The note is convertible into common shares at US$12.50 per share, which would increase Ganfeng&amp;#39;s fully diluted ownership from 9.6% to approximately 16.1%. Net proceeds, along with cash on hand, will be used to repay the Company&amp;#39;s $259 million convertible notes due January 2027.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Lithium Argentina AG, a resource company, engages in the operation and development of lithium projects in Argentina. It owns interests in the Cauchari-Olaroz project located in Jujuy province; and the Pastos Grandes project located in Salta Province of Argentina. The company was formerly known as Lithium Americas (Argentina) Corp. and changed its name to Lithium Argentina AG in January 2025. Lithium Argentina AG was incorporated in 2007 is headquartered in Zug, Switzerland.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Ganfeng Lithium Group Co., Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Terms:&lt;/b&gt; 12.50&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 180000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 16.1%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-15&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $5.42 · Mkt cap $910.9M · EV $1.11B · Fwd EV/EBITDA 6.5x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1440972/000106299326005085/0001062993-26-005085-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LAR&lt;/b&gt; · 6-K · Metal Mining (1000) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · PLRZ</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1893645/000121390026104045/ea0304568-6k_polyrizon.htm</link>
-      <guid isPermaLink="false">0001213900-26-104045</guid>
-      <pubDate>Mon, 28 Sep 2026 15:27:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>6-K</category>
-      <scanner:headline>Acquires QuantumX Labs Inc. as subsequent event</scanner:headline>
-      <scanner:shortName>Polyrizon</scanner:shortName>
-      <scanner:price>10.50</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>PLRZ</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>25880000</scanner:marketCap>
-      <scanner:enterpriseValue>13610000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires QuantumX Labs Inc. as subsequent event&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Disclosed the acquisition of QuantumX Labs Inc. as a subsequent event in its interim financial statements. The transaction occurred on July 2, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Polyrizon Ltd., a biotech company, engages in the development of medical device hydrogels in the form of nasal sprays in Israel. The company uses its proprietary technology to develop its products comprising Capture and Contain, a barrier against a range of allergen particulates and viruses; and Trap and Target for nasal delivery of active pharmaceutical ingredients. It also develops PL-14, a nasal allergies blocker; and PL-16 for influenza blockers. Polyrizon Ltd.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; QuantumX Labs Inc.&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-02&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.50 · Mkt cap $25.9M · EV $13.6M · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1893645/000121390026104045/0001213900-26-104045-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PLRZ&lt;/b&gt; · 6-K · Instruments / Medical Devices (3841) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · FNWD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/919864/000110465926111383/tm2626185-1_defm14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-109997</guid>
-      <pubDate>Mon, 28 Sep 2026 15:27:01 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFM14A</category>
-      <scanner:headline>Acquired by First Financial for 1.35 FFBC shares; vote Nov 2</scanner:headline>
-      <scanner:shortName>Finward Bancorp</scanner:shortName>
-      <scanner:price>42.72</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFM14A</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>FNWD</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>S-4/A, DEFM14A</scanner:filingForms>
-      <scanner:related>FFBC</scanner:related>
-      <scanner:marketCap>187360000</scanner:marketCap>
-      <scanner:fwdPE>14.61</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by First Financial for 1.35 FFBC shares; vote Nov 2&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Shareholders will receive 1.35 First Financial common shares for each Finward common stock share. Based on First Financial&amp;#39;s July 20, 2026 closing price, this represented approximately $47.90 per Finward share, totaling $208.3 million. The merger agreement was signed July 21, 2026, and Finward shareholders will vote on the proposal at a special meeting on November 2, 2026. The Finward board unanimously recommends a &amp;#39;FOR&amp;#39; vote.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Finward Bancorp operates as the holding company for Peoples Bank that provides various banking products and services. The company’s deposit products include non-interest- and interest-bearing demand accounts, savings accounts, money market deposit accounts, certificate accounts, and retirement savings plans.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; First Financial Bancorp.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price:&lt;/b&gt; $47.90&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $208.3 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-21&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-11-02&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $42.72 · Mkt cap $187.4M · Fwd P/E 14.6x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/919864/000110465926111383/0001104659-26-111383-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FNWD&lt;/b&gt; · DEFM14A · Depository Institutions (6035) · prefill_form:DEFM14A · filed 2026-09-28&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFM14A · Sep 28 15:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/919864/000110465926111383/tm2626185-1_defm14a.htm'&gt;Acquired by First Financial for 1.35 FFBC shares; vote Nov 2&lt;/a&gt;&lt;/li&gt;&lt;li&gt;S-4/A · Sep 23 15:37 · &lt;a href='https://www.sec.gov/Archives/edgar/data/708955/000110465926109997/tm2624150-3_s4a.htm'&gt;Acquires Finward Bancorp for 1.35 FFBC shares (~$47.90/share); vote Nov 2&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;Acquirer FFBC also filed S-4/A&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
