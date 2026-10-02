@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 10:25:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:31:29 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ZDGE 📍 Stake
+Howard S. Jonas acquires 15.6% stake for $6.5M
+Mcap $39M · EV $19M · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1667313/000121390026106074/0001213900-26-106074-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-106074</guid>
+      <pubDate>Fri, 02 Oct 2026 05:31:22 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$KEP 🤝 Merger · Rumor
 Responds to rumor of government plan to merge 5 power generation subsidiaries
@@ -1490,16 +1499,6 @@ Mcap $205B · Financials</title>
       <pubDate>Thu, 01 Oct 2026 05:35:20 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$MAXNQ 📉 Delisting · Forced
-Forced Nasdaq delisting of ordinary shares effective 10 days after Form 25 filing
-Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1796898/000121390026105443/ea0307313-6k_maxeon.htm</link>
-      <guid isPermaLink="false">0001213900-26-105443</guid>
-      <pubDate>Thu, 01 Oct 2026 05:28:47 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
