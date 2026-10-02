@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 13:18:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:30:08 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · PMAX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2012096/000121390026106115/ea0307438-6k_powell.htm</link>
+      <guid isPermaLink="false">0001213900-26-106115</guid>
+      <pubDate>Fri, 02 Oct 2026 08:30:01 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>6-K</category>
+      <scanner:headline>Signs M&amp;A advisory for Blackrod merger; $500k cash + $700k equity fees</scanner:headline>
+      <scanner:shortName>Powell Max</scanner:shortName>
+      <scanner:price>1.62</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Financials</scanner:sector>
+      <scanner:ticker>PMAX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>3180000</scanner:marketCap>
+      <scanner:enterpriseValue>2800000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.46</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>0.92</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>0.92</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>49.51</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Signs M&amp;amp;A advisory for Blackrod merger; $500k cash + $700k equity fees&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Limited entered into a Consulting and M&amp;amp;A Agreement with Spartan Capital Securities, LLC for advisory services related to its merger transaction with Blackrod (Remington Firearms). The agreement includes a $500,000 cash fee and $700,000 in Class C ordinary shares as compensation. Separately, the company completed two closings of a private placement, raising aggregate gross proceeds of $2,421,000 by selling Class C ordinary shares at $1.00 per share.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Powell Max Limited, through its subsidiaries, provides financial communications services in Hong Kong. The company offers financial printing; corporate reporting; and communications and language support services, including typesetting, proofreading, translation, design, printing, electronic reporting, and newspaper placement and distribution, as well as production and maintenance services. It also provides web hosting services; and conference room facilities and other related services.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Blackrod (Remington Firearms)&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; closing of the merger transaction with Blackrod&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $1.62 · Mkt cap $3.2M · EV $2.8M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2012096/000121390026106115/0001213900-26-106115-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;PMAX&lt;/b&gt; · 6-K · Business Services (7380) · prefill_form:6-K · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · CABO</title>
       <link>https://www.sec.gov/Archives/edgar/data/1632127/000095015726001058/form8-k.htm</link>
@@ -16928,45 +16965,6 @@
 &lt;p&gt;&lt;i&gt;Px $9.02 · Mkt cap $521.0M · EV $706.9M · Fwd EV/EBITDA 9.9x · Materials / Metals and Mining&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1687187/000121390026103743/0001213900-26-103743-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;METC, METCB, METCI, METCZ&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Coal Mining (1220) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BRX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1581068/000110465926111144/tm2626458d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111144</guid>
-      <pubDate>Mon, 28 Sep 2026 06:19:21 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires Slate Grocery REIT for $13.00/unit cash via JV; unitholder vote pending</scanner:headline>
-      <scanner:shortName>Brixmor Property</scanner:shortName>
-      <scanner:price>28.07</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Real Estate</scanner:sector>
-      <scanner:ticker>BRX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>8613910000</scanner:marketCap>
-      <scanner:enterpriseValue>13852610000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>9.87</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>13.13</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>28.36</scanner:fwdPE>
-      <scanner:fwdEvEbitda>14.05</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>13.13</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>75.15</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires Slate Grocery REIT for $13.00/unit cash via JV; unitholder vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Through its operating partnership and a joint venture with Everview Partners, L.P., entered into an Arrangement Agreement to acquire Slate Grocery REIT for $13.00 per unit in cash. The total transaction is valued at $2.346 billion, with Brixmor directly acquiring a $636 million portfolio and the JV acquiring $1.71 billion in assets. The consideration includes a ticking fee of $0.002482 per unit per day after January 20, 2027, until closing, and the deal requires approval from Slate&amp;#39;s unitholders.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Brixmor Property Group Inc. owns and operates a high-quality, national portfolio of open-air shopping centers. The Company&amp;#39;s 346 retail centers comprise approximately 63 million square feet of prime retail space in established trade areas. Brixmor&amp;#39;s properties reflect their vision (to be the center of the communities we serve) and are home to a diverse mix of thriving national, regional and local retailers.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Slate Grocery REIT&lt;/li&gt;&lt;li&gt;&lt;b&gt;Offer price for Slate Grocery REIT:&lt;/b&gt; 13.00&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 2346000000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-27&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Slate unitholder vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $28.07 · Mkt cap $8.61B · EV $13.85B · Fwd P/E 28.4x · Fwd EV/EBITDA 14.1x · Real Estate / Retail REITs&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1581068/000110465926111144/0001104659-26-111144-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BRX&lt;/b&gt; · 8-K · Items 1.01, 5.02, 7.01, 8.01, 9.01 · Holding / Investment Offices (6798) · 8k_tier1:1.01,7.01,8.01 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
