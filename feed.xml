@@ -6,8 +6,48 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:28:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:30:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🧬 Spin-Off · FLEX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866374/000110465926113282/tm2626870d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-113290</guid>
+      <pubDate>Fri, 02 Oct 2026 15:29:22 -0500</pubDate>
+      <category>SPIN_OFF</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Plans spin-off of cloud &amp; power infrastructure business</scanner:headline>
+      <scanner:shortName>FLEX</scanner:shortName>
+      <scanner:price>116.56</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>FLEX</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>DEFA14A, 8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>41661270000</scanner:marketCap>
+      <scanner:enterpriseValue>44751270000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>1.53</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>16.05</scanner:evGrossProfitLtm>
+      <scanner:fwdPE>21.13</scanner:fwdPE>
+      <scanner:fwdEvEbitda>13.23</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>15.68</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>9.53</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Seeks shareholder approval for Axiom Solutions International spin-off&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is seeking shareholder approval for the planned spin-off of its cloud and power infrastructure business into Axiom Solutions International, Inc. A registration statement on Form 10 has been filed for Axiom&amp;#39;s common stock. The spin-off is expected to be tax-free for U.S. federal income tax purposes.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Flex Ltd. provides technology innovation, supply chain, and manufacturing solutions to data center, communications, enterprise, consumer, automotive, healthcare, industrial, and power industries in the Americas, Asia, and Europe. The company operates through three segments: Integrated Technology Solutions (ITS), Regulated Manufacturing Solutions (RMS), and Cloud and Power Infrastructure (CPI).&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder approval&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $116.56 · Mkt cap $41.66B · EV $44.75B · Fwd P/E 21.1x · Fwd EV/EBITDA 13.2x · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/866374/000110465926113290/0001104659-26-113290-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FLEX&lt;/b&gt; · DEFA14A · Electronic Equipment (3672) · prefill_form:DEFA14A · filed 2026-10-02&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Oct 02 15:29 · &lt;a href='https://www.sec.gov/Archives/edgar/data/866374/000110465926113282/tm2626870d1_8k.htm'&gt;Plans spin-off of cloud &amp;amp; power infrastructure business&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Oct 02 15:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/866374/000110465926113290/tm2626870d2_defa14a.htm'&gt;Seeks shareholder approval for Axiom Solutions International spin-off&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · Proxy Deadlines · FDXF</title>
       <link>https://www.sec.gov/Archives/edgar/data/2082247/000110465926113295/tm2626881d1_8k.htm</link>
@@ -333,44 +373,6 @@
 &lt;p&gt;&lt;i&gt;Px $2.72 · Mkt cap $12.8M · EV $42.9M · Industrials / Aerospace and Defense&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1009891/000121390026106375/0001213900-26-106375-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AIRI&lt;/b&gt; · S-4/A · Transportation Equipment (3728) · prefill_form:S-4 · filed 2026-10-02&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🧬 Spin-Off · FLEX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866374/000110465926113290/tm2626870d2_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-113290</guid>
-      <pubDate>Fri, 02 Oct 2026 15:21:02 -0500</pubDate>
-      <category>SPIN_OFF</category>
-      <category>acquisition</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Seeks shareholder approval for Axiom Solutions International spin-off</scanner:headline>
-      <scanner:shortName>FLEX</scanner:shortName>
-      <scanner:price>116.56</scanner:price>
-      <scanner:subtype />
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>FLEX</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFA14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>41661270000</scanner:marketCap>
-      <scanner:enterpriseValue>44751270000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>1.53</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>16.05</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>21.13</scanner:fwdPE>
-      <scanner:fwdEvEbitda>13.23</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>15.68</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>9.53</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-10-01T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Seeks shareholder approval for Axiom Solutions International spin-off&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is seeking shareholder approval for the planned spin-off of its cloud and power infrastructure business into Axiom Solutions International, Inc. A registration statement on Form 10 has been filed for Axiom&amp;#39;s common stock. The spin-off is expected to be tax-free for U.S. federal income tax purposes.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Flex Ltd. provides technology innovation, supply chain, and manufacturing solutions to data center, communications, enterprise, consumer, automotive, healthcare, industrial, and power industries in the Americas, Asia, and Europe. The company operates through three segments: Integrated Technology Solutions (ITS), Regulated Manufacturing Solutions (RMS), and Cloud and Power Infrastructure (CPI).&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; Shareholder approval&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $116.56 · Mkt cap $41.66B · EV $44.75B · Fwd P/E 21.1x · Fwd EV/EBITDA 13.2x · Information Technology / Electronic Equipment, Instruments and Components&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/866374/000110465926113290/0001104659-26-113290-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;FLEX&lt;/b&gt; · DEFA14A · Electronic Equipment (3672) · prefill_form:DEFA14A · filed 2026-10-02&lt;/p&gt;</description>
     </item>
     <item>
       <title>🪙 Debt Restr. · STHO</title>

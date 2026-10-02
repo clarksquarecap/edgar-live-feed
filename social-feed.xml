@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 20:28:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 20:30:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$FLEX 🪓 Spinoff
+Plans spin-off of cloud &amp; power infrastructure business
+Mcap $42B · EV $45B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/866374/000110465926113282/tm2626870d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-113290</guid>
+      <pubDate>Fri, 02 Oct 2026 15:29:22 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
     <item>
       <title>$FDXF 👀 Activist
 Sets 2027 annual meeting for May 5; shareholder proposal deadline Nov 24, director nominations Jan 5
@@ -107,15 +116,6 @@ Mcap $13M · EV $43M · Industrials</title>
       <pubDate>Fri, 02 Oct 2026 15:21:53 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$FLEX 🪓 Spinoff
-Seeks shareholder approval for Axiom Solutions International spin-off
-Mcap $42B · EV $45B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/866374/000110465926113290/tm2626870d2_defa14a.htm</link>
-      <guid isPermaLink="false">0001104659-26-113290</guid>
-      <pubDate>Fri, 02 Oct 2026 15:21:02 -0500</pubDate>
-      <category>SPIN_OFF</category>
     </item>
     <item>
       <title>$STHO 🪙 Debt Restr.
@@ -1147,16 +1147,6 @@ Mcap $2.6B · EV $4.4B · Utilities</title>
       <pubDate>Thu, 01 Oct 2026 15:30:31 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$GT 📤 Divestiture
-Closes Niagara Falls &amp; Bayport chemical facilities; $55M-$75M charges
-close 2027
-Mcap $1.4B · EV $8.9B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/42582/000162828026064270/gt-20260929.htm</link>
-      <guid isPermaLink="false">0001628280-26-064270</guid>
-      <pubDate>Thu, 01 Oct 2026 15:30:00 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
