@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 10:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:14:57 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$KITT 🪙 Debt Restr.
+Amends term loan, reducing convertible price to $1.488
+Mcap $2M · EV $23M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1849820/000184982026000168/kitt-20260930.htm</link>
+      <guid isPermaLink="false">0001849820-26-000168</guid>
+      <pubDate>Fri, 02 Oct 2026 05:14:50 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
+    <item>
+      <title>$SRL 👀 Activist
+Convenes EGM in response to 20% shareholder requisition; vote Jan 12, 2027
+certain members
+Mcap $79M · EV $74M · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/16859/000110465926112984/tm2626889d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112984</guid>
+      <pubDate>Fri, 02 Oct 2026 05:14:29 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+    </item>
+    <item>
+      <title>$BBVA 💧 Capital Return · Buyback
+Completes €1B share buyback tranche (0.73% of capital); plans redemption
+Mcap $157B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/842180/000110465926112990/tm2626639d2_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-112990</guid>
+      <pubDate>Fri, 02 Oct 2026 05:14:20 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>buyback_authorization</category>
+    </item>
     <item>
       <title>$VUECF 🔄 Post-Spin
 Completes share distribution from enCore Energy to shareholders
@@ -1482,17 +1511,6 @@ Mcap $34B · EV $71B · Energy</title>
       <pubDate>Thu, 01 Oct 2026 05:15:25 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$PLUT 🤝 Merger
-Extends outside date for Choco Up acquisition to Dec 31, 2026
-stock · close 2026-12-31
-Mcap $36M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1933021/000149315226045169/form6-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-045169</guid>
-      <pubDate>Thu, 01 Oct 2026 05:14:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
