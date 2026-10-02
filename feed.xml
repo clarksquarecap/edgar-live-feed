@@ -6,8 +6,31 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 15:04:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:10:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · CPRSX</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1762562/000003877726000256/0000038777-26-000256-index.htm</link>
+      <guid isPermaLink="false">0000038777-26-000256</guid>
+      <pubDate>Fri, 02 Oct 2026 10:10:26 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D/A</category>
+      <scanner:headline>Increases stake to 66.6%; seeks to facilitate asset acquisition</scanner:headline>
+      <scanner:shortName>Clarion Partners Real Estate Income Fund</scanner:shortName>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D/A</scanner:form>
+      <scanner:sector />
+      <scanner:ticker>CPRSX</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Increases stake to 66.6%; seeks to facilitate asset acquisition&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Franklin Templeton, Inc. (FTI) increased its beneficial ownership in Clarion Partners Real Estate Income Fund Inc. to 66.6% of Class S Common Stock, acquiring 88,106 shares for $1,051,085. FTI states it acquired the shares for investment and to facilitate the acquisition of the Issuer&amp;#39;s commercial real estate investments. The Reporting Persons may increase or decrease their position depending on market conditions and other factors.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1762562/000003877726000256/0000038777-26-000256-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CPRSX&lt;/b&gt; · SCHEDULE 13D/A · Securities / Broker-Dealers (6282) · fresh_13d · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🪙 Debt Restr. · CSAI</title>
       <link>https://www.sec.gov/Archives/edgar/data/1709628/000168316826007556/cloud_8k.htm</link>
@@ -16933,45 +16956,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.7900 · Mkt cap $18.6M · EV $136.0M · Real Estate / Real Estate Management and Development&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2040290/000149315226044452/0001493152-26-044452-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;LGPS&lt;/b&gt; · 6-K · Construction; General (1531) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · TDG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1260221/000126022126000064/tdg-20260928.htm</link>
-      <guid isPermaLink="false">0001260221-26-000064</guid>
-      <pubDate>Mon, 28 Sep 2026 06:51:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Completes acquisition of Prince &amp; Izant for $1.066B cash</scanner:headline>
-      <scanner:shortName>TransDigm Group</scanner:shortName>
-      <scanner:price>1116.20</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Industrials</scanner:sector>
-      <scanner:ticker>TDG</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>61699660000</scanner:marketCap>
-      <scanner:enterpriseValue>92494660000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>9.24</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>15.45</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>24.05</scanner:fwdPE>
-      <scanner:fwdEvEbitda>15.44</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>15.45</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>59.82</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Completes acquisition of Prince &amp;amp; Izant for $1.066B cash&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Incorporated completed its acquisition of Prince &amp;amp; Izant, a portfolio company of Industrial Growth Partners, for approximately $1.066 billion in cash, including certain tax benefits. The acquisition was financed through cash on hand. Prince &amp;amp; Izant is expected to generate approximately $390 million in revenue for the calendar year ending December 31, 2026.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; TransDigm Group Incorporated designs, produces, and supplies aircraft components in the United States and internationally. The Power &amp;amp; Control segment offers mechanical/electro-mechanical actuators and controls, ignition systems and engine technology, specialized pumps and valves, power conditioning devices, specialized AC/DC electric motors and generators, batteries and chargers, databus and power controls, sensor products, switches and relay panels, hoists, winches and lifting devices, cargo l…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Prince &amp;amp; Izant&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1.066 billion&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-07-27&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1,116.20 · Mkt cap $61.70B · EV $92.49B · Fwd P/E 24.1x · Fwd EV/EBITDA 15.4x · Industrials / Aerospace and Defense&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1260221/000126022126000064/0001260221-26-000064-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TDG&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Transportation Equipment (3728) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
