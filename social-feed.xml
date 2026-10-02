@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 15:53:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 16:05:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$TUTH 🤝 Merger
+Acquires Dr. Tooth Dental Lab
+Mcap $3M · EV $5M · Healthcare</title>
+      <link>https://www.otcmarkets.com/stock/TUTH/news/537215</link>
+      <guid isPermaLink="false">OTC-537215</guid>
+      <pubDate>Fri, 02 Oct 2026 11:05:46 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$RINTX 🤝 Merger
 Shareholders to vote on acquisition of Russell Investments Group by B Capital-led consortium
@@ -1250,17 +1260,6 @@ Mcap $1.8B · EV $2.3B · Financial Serv</title>
       <guid isPermaLink="false">0001193125-26-410213</guid>
       <pubDate>Thu, 01 Oct 2026 11:06:06 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$PTNM 📉 Delisting · Forced
-Forced Nasdaq delisting effective Oct 12, 2026
-effective 2026-10-12
-Mcap $239M · EV $240M · Consumer Cycli</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2046573/000135445726000933/0001354457-26-000933-index.htm</link>
-      <guid isPermaLink="false">0001354457-26-000933</guid>
-      <pubDate>Thu, 01 Oct 2026 11:04:59 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
