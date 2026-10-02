@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:28:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:29:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HCTI 📉 Delisting · Forced
+Faces Nasdaq delisting; trading suspended Oct 12 unless appeal granted
+effective 2026-10-12
+Mcap $11M · EV $47M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1839285/000121390026106533/ea0307459-8k_healthcare.htm</link>
+      <guid isPermaLink="false">0001213900-26-106533</guid>
+      <pubDate>Fri, 02 Oct 2026 16:29:40 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
+    <item>
+      <title>$KKREUDL 💧 Capital Return · Special Div
+Declares $10.05/share special dividend; payable Oct 30</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2012839/000162828026064662/ebdc-20260930.htm</link>
+      <guid isPermaLink="false">0001628280-26-064662</guid>
+      <pubDate>Fri, 02 Oct 2026 16:29:06 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>special_dividend</category>
+    </item>
     <item>
       <title>$IMCC 📤 Divestiture
 Sells European operations to Slil for C$3M cash + assumed liabilities
@@ -1217,17 +1237,6 @@ Mcap $130M · EV $118M · Cons Disc</title>
       <guid isPermaLink="false">0001104659-26-112901</guid>
       <pubDate>Thu, 01 Oct 2026 16:30:05 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$NDRA 🤝 Merger
-Amends ASPI merger terms: removes classified board, revises cash condition to $3.8M
-ASP Isotopes
-Mcap $9M · EV $8M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1681682/000121390026105899/ea0307011-8k425_endra.htm</link>
-      <guid isPermaLink="false">0001213900-26-105909</guid>
-      <pubDate>Thu, 01 Oct 2026 16:29:25 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
