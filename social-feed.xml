@@ -6,8 +6,28 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:21:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:27:46 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MITN 🤝 Merger
+Acquires Cherry Hill Mortgage for 0.3063 shares + $0.93 cash; vote Dec 2
+cash+stk
+Mcap $182M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1514281/000162828026064663/mitt-formsx4a2026xsep.htm</link>
+      <guid isPermaLink="false">0001628280-26-064663</guid>
+      <pubDate>Fri, 02 Oct 2026 16:27:38 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$BETR ⚔️ Proxy
+Garg Group's consent solicitation to remove 5 directors at BETR preliminarily successful
+Mcap $206M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002723/dfan14909002_10022026.htm</link>
+      <guid isPermaLink="false">0000921895-26-002699</guid>
+      <pubDate>Fri, 02 Oct 2026 16:27:18 -0500</pubDate>
+      <category>ACTIVIST_PROXY</category>
+    </item>
     <item>
       <title>$ATER 👀 Activist
 Acquires 10.0% stake in Aterian for ~$0.05/share; gains board seat
@@ -1179,34 +1199,6 @@ Mcap $9M · EV $8M · Healthcare</title>
       <pubDate>Thu, 01 Oct 2026 16:29:25 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BETR ⚔️ Proxy
-Garg Group: Better board agrees to honor consent vote, 5 directors to step down
-Mcap $206M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1835856/000092189526002699/dfan14909002_10012026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002699</guid>
-      <pubDate>Thu, 01 Oct 2026 16:27:57 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$ETD ⚔️ Proxy
-Faces DGB Investment proxy contest for 5 board seats; vote Nov 4
-5.2% stake
-Mcap $537M · EV $524M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/896156/000092189526002700/dfan14857002_10012026.htm</link>
-      <guid isPermaLink="false">0000921895-26-002700</guid>
-      <pubDate>Thu, 01 Oct 2026 16:27:47 -0500</pubDate>
-      <category>ACTIVIST_PROXY</category>
-    </item>
-    <item>
-      <title>$BMEZ 💧 Capital Return · Self-tender
-Launches self-tender for up to 5% of shares at 98% of NAV; expires Nov 18</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1785971/000119312526410845/d86344dsctoc.htm</link>
-      <guid isPermaLink="false">0001193125-26-410845</guid>
-      <pubDate>Thu, 01 Oct 2026 16:27:03 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
   </channel>
 </rss>
