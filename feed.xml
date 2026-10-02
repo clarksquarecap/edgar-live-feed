@@ -6,8 +6,45 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 13:05:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:17:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Definitive · CYCU</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1868419/000186841926000048/cycu-20260930.htm</link>
+      <guid isPermaLink="false">0001868419-26-000048</guid>
+      <pubDate>Fri, 02 Oct 2026 08:17:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Acquires Digital Ally's Video Solutions business; adds $5.5M annual revenue</scanner:headline>
+      <scanner:shortName>Cycurion</scanner:shortName>
+      <scanner:price>2.81</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>CYCU</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>9080000</scanner:marketCap>
+      <scanner:enterpriseValue>11220000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.78</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>4.52</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>4.52</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>17.22</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires Digital Ally&amp;#39;s Video Solutions business; adds $5.5M annual revenue&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Acquired Digital Ally&amp;#39;s Video Solutions business, which adds an established public safety technology portfolio, approximately $5.5 million in annual revenue, and over $1.2 million in EBITDA. The acquisition also brings an installed customer base of over 800 law enforcement agencies and a portfolio of intellectual property assets. Upon closing, Cycurion&amp;#39;s pro forma gross revenue run rate stands at approximately $30 million.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cycurion, Inc., through its subsidiaries, provides information technology security solutions in the United States. The company offers consulting and advisory services, including security control assessments, security architecture and engineering, risk management and compliance audits, staff augmentation, cybersecurity awareness and training, cloud security, virtual CISO support, and digital modernization; and managed IT services, such as project and license management, network infrastructure, sy…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Digital Ally&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-30&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.81 · Mkt cap $9.1M · EV $11.2M · Industrials / Professional Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1868419/000186841926000048/0001868419-26-000048-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CYCU, CYCUW&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Business Services (7371) · 8k_tier1:8.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · HUBG</title>
       <link>https://www.sec.gov/Archives/edgar/data/940942/000119312526411325/d118269d8k.htm</link>
@@ -16931,45 +16968,6 @@
 &lt;p&gt;&lt;i&gt;Px $87.33 · Mkt cap $29.84B · EV $25.42B · Fwd P/E 12.7x · Fwd EV/EBITDA 8.3x · Communication Services / Interactive Media and Services&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1329099/000119312526403371/0001193125-26-403371-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BIDU, BAIDF&lt;/b&gt; · 6-K · Business Services (7370) · prefill_form:6-K · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🪙 Debt Restr. · JAGX</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1585608/000119312526403356/d187815d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-400087</guid>
-      <pubDate>Mon, 28 Sep 2026 06:08:27 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Issues 481,584 shares to Streeterville for $3.4M debt reduction</scanner:headline>
-      <scanner:shortName>Jaguar Health</scanner:shortName>
-      <scanner:price>8.91</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>JAGX</scanner:ticker>
-      <scanner:filings>3</scanner:filings>
-      <scanner:filingForms>8-K x3</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>3070000</scanner:marketCap>
-      <scanner:enterpriseValue>15890000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>0.57</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>0.69</scanner:evGrossProfitLtm>
-      <scanner:fwdEvGrossProfit>1.08</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>82.31</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-23T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Exchanges $5.05M debt for 547,898 shares with Streeterville&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Issued 547,898 shares of common stock to Streeterville Capital in exchange for a $5,049,909.26 reduction in the outstanding balance of its secured promissory note. The exchange reduces debt and increases share count; the company had approximately 1,281,867 shares outstanding after the transaction.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Jaguar Health, Inc., a commercial-stage pharmaceuticals company, focuses on developing plant-based prescription medicines for people and animals with gastrointestinal distress. It operates through two segments, Animal Health and Human Health. The company focuses on developing and commercializing prescription and non-prescription products for companion and production animals; and human products.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Streeterville Capital, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $5,049,909.26&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-23&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $8.91 · Mkt cap $3.1M · EV $15.9M · Health Care / Pharmaceuticals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526400087/0001193125-26-400087-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;JAGX&lt;/b&gt; · 8-K · Items 1.01, 3.02, 8.01, 9.01 · Chemicals / Pharma (2834) · 8k_tier1:1.01,8.01 · filed 2026-09-24&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 28 06:08 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526403356/d187815d8k.htm'&gt;Issues 481,584 shares to Streeterville for $3.4M debt reduction&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 25 05:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526401239/d130901d8k.htm'&gt;Exchanges $6.73M debt for 729,989 shares with Streeterville; Streeterville now holds ~50%&lt;/a&gt;&lt;/li&gt;&lt;li&gt;8-K · Sep 24 05:15 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1585608/000119312526400087/d161376d8k.htm'&gt;Exchanges $5.05M debt for 547,898 shares with Streeterville&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

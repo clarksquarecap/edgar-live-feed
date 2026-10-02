@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 13:11:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:17:43 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CYCU 🤝 Merger
+Acquires Digital Ally's Video Solutions business; adds $5.5M annual revenue
+Mcap $9M · EV $11M · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1868419/000186841926000048/cycu-20260930.htm</link>
+      <guid isPermaLink="false">0001868419-26-000048</guid>
+      <pubDate>Fri, 02 Oct 2026 08:17:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$HUBG 👀 Activist
 Majority DPY Stockholders remove 3 directors, appoint 4 new directors via consent
@@ -1246,45 +1256,6 @@ Mcap $38M · EV $30M · Healthcare</title>
       <pubDate>Thu, 01 Oct 2026 08:23:29 -0500</pubDate>
       <category>MERGER</category>
       <category>preliminary</category>
-    </item>
-    <item>
-      <title>$FTCO 🤝 Merger
-Acquires Dreadnaught Property
-Mcap $131M · EV $137M · Materials</title>
-      <link>https://www.otcmarkets.com/stock/FTCO/news/537101</link>
-      <guid isPermaLink="false">OTC-537101</guid>
-      <pubDate>Thu, 01 Oct 2026 08:15:38 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PSRUD 🤝 Merger · Preliminary
-Acquires Occidental Studios via LOI for $25M; plans LA production campus
-Mcap $210K · Comms</title>
-      <link>https://www.otcmarkets.com/stock/PSRUD/news/536457</link>
-      <guid isPermaLink="false">OTC-536457</guid>
-      <pubDate>Thu, 01 Oct 2026 08:15:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$WAMFF 🪙 Debt Restr.
-Settles C$1.2M management fee debt with officers via share issuance
-Mcap $49M · EV $47M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1893899/000106299326005129/form8k.htm</link>
-      <guid isPermaLink="false">0001062993-26-005129</guid>
-      <pubDate>Thu, 01 Oct 2026 08:14:56 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$ACVA 🎯 Tender
-Tender offer by Copart for $10.50 cash/share extended to Oct 7
-cash · close 2026-10-07
-Mcap $1.8B · EV $1.8B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1637873/000119312526409981/d45203dsc14d9a.htm</link>
-      <guid isPermaLink="false">0001193125-26-406039</guid>
-      <pubDate>Thu, 01 Oct 2026 08:14:04 -0500</pubDate>
-      <category>TENDER_OFFER</category>
     </item>
   </channel>
 </rss>
