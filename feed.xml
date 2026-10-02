@@ -6,8 +6,83 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 21:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 21:21:32 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>👀 Activist · ATER</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1757715/000143774926031908/0001437749-26-031908-index.htm</link>
+      <guid isPermaLink="false">0001437749-26-031910</guid>
+      <pubDate>Fri, 02 Oct 2026 16:21:19 -0500</pubDate>
+      <category>ACTIVIST_INITIAL</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Acquires 10.0% stake in Aterian for ~$0.05/share; gains board seat</scanner:headline>
+      <scanner:shortName>Aterian</scanner:shortName>
+      <scanner:price>0.6300</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Consumer Discretionary</scanner:sector>
+      <scanner:ticker>ATER</scanner:ticker>
+      <scanner:filings>2</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D x2</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>10590000</scanner:marketCap>
+      <scanner:enterpriseValue>8090000</scanner:enterpriseValue>
+      <scanner:evSalesLtm>0.12</scanner:evSalesLtm>
+      <scanner:evGrossProfitLtm>0.21</scanner:evGrossProfitLtm>
+      <scanner:fwdEvGrossProfit>0.21</scanner:fwdEvGrossProfit>
+      <scanner:grossMarginLtm>56.75</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-28T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquires 10% stake in Aterian from controlling holder; secures board seat&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Chang Woei Jiann acquired 26,121,180 shares of Aterian, Inc. common stock, representing a 10.0% stake, from a controlling shareholder for an aggregate purchase price of $1,296,000 in a private transaction. The transaction, completed on September 25, 2026, also resulted in the appointment of William H Crampton to the board of directors. The Reporting Person may acquire additional shares or engage in future discussions with the Issuer.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Aterian, Inc., together with its subsidiaries, operates as a consumer products company in North America, Chile, Colombia, Argentina, and internationally. The company offers home and kitchen appliances, kitchenware, air quality appliances, health and beauty products, and essential oils under the Squatty Potty, HomeLabs, Mueller Living, PurSteam, Healing Solutions, and Photo Paper Direct brand names.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 1296000&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 10.0%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-01&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.6300 · Mkt cap $10.6M · EV $8.1M · Consumer Discretionary / Household Durables&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1757715/000143774926031910/0001437749-26-031910-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ATER&lt;/b&gt; · SCHEDULE 13D · Electronic Equipment (3634) · fresh_13d · filed 2026-10-02&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;SCHEDULE 13D · Oct 02 16:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1757715/000143774926031908/0001437749-26-031908-index.htm'&gt;Acquires 10.0% stake in Aterian for ~$0.05/share; gains board seat&lt;/a&gt;&lt;/li&gt;&lt;li&gt;SCHEDULE 13D · Oct 02 16:21 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1757715/000143774926031910/0001437749-26-031910-index.htm'&gt;Acquires 10% stake in Aterian from controlling holder; secures board seat&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>🤝 Merger · Definitive · HSCS</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026106500/ea0307437-8k_heart.htm</link>
+      <guid isPermaLink="false">0001213900-26-104895</guid>
+      <pubDate>Fri, 02 Oct 2026 16:20:56 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+      <category>8-K</category>
+      <scanner:headline>Extends loan maturity to facilitate Fortitude Mining business combination</scanner:headline>
+      <scanner:shortName>HeartSciences</scanner:shortName>
+      <scanner:price>4.05</scanner:price>
+      <scanner:subtype>definitive</scanner:subtype>
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>HSCS</scanner:ticker>
+      <scanner:filings>3</scanner:filings>
+      <scanner:filingForms>DEFA14A x2, 8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>19440000</scanner:marketCap>
+      <scanner:enterpriseValue>23420000</scanner:enterpriseValue>
+      <scanner:grossMarginLtm>60.88</scanner:grossMarginLtm>
+      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
+      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Acquired by Fortitude Mining in all-stock transaction; shareholder vote pending&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;An AI-powered medical technology company, has entered into a definitive merger agreement to combine with Fortitude Mining Holdings, Inc., a digital asset mining platform, in an all-stock transaction. HeartSciences will file a definitive proxy statement and mail it to shareholders for a special meeting to vote on the proposed transaction.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; HeartSciences Inc., a medical technology company, focuses on advancing electrocardiography (ECG) through the integration of artificial intelligence. It develops artificial intelligence-enhanced electrocardiography (AI-ECG) solutions, an algorithm to detect impaired cardiac relaxation or cardiac dysfunction; MyoVista wavECG device, a resting 12-lead ECG that provides diagnostic information related to cardiac dysfunction, as well as conventional ECG information in the same test; and MyoVista Insig…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Fortitude Mining Holdings, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; shareholder vote&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $4.05 · Mkt cap $19.4M · EV $23.4M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1468492/000121390026104895/0001213900-26-104895-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HSCS, HSCSW&lt;/b&gt; · DEFA14A · Non-Depository Credit (6199) · prefill_form:DEFA14A · filed 2026-09-30&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (3)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Oct 02 16:20 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1468492/000121390026106500/ea0307437-8k_heart.htm'&gt;Extends loan maturity to facilitate Fortitude Mining business combination&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Oct 02 16:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1468492/000121390026106514/ea0307437-8k_heart.htm'&gt;Progresses Fortitude Mining business combination; loan maturity extended&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 30 07:02 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1468492/000121390026104895/ea0307146-defa14a_heart.htm'&gt;Acquired by Fortitude Mining in all-stock transaction; shareholder vote pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>📉 Delisting · Forced · SOBR</title>
       <link>https://www.sec.gov/Archives/edgar/data/1425627/000147793226006034/sobr_8k.htm</link>
@@ -78,42 +153,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ETD&lt;/b&gt; · DEFC14A · Furniture (2511) · prefill_form:DEFC14A · filed 2026-09-18&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DFAN14A · Oct 02 16:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002722/dfan14857002_10022026.htm'&gt;Nominates director slate for Ethan Allen Interiors 2026 AGM&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFRN14A · Sep 28 07:49 · &lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002652/dfrn14857002_09252026.htm'&gt;Nominates 5-director slate at Ethan Allen; AGM Nov 4&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 22 16:17 · &lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002621/dfan14857002_09222026.htm'&gt;Nominates 5-director slate at Ethan Allen; 5.2% stake&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFC14A · Sep 18 12:22 · &lt;a href='https://www.sec.gov/Archives/edgar/data/896156/000092189526002581/defc14a14857002_09182026.htm'&gt;Nominates 5 directors to replace Ethan Allen board; owns 5.2%&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · HSCS</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468492/000121390026106514/ea0307437-8k_heart.htm</link>
-      <guid isPermaLink="false">0001213900-26-104895</guid>
-      <pubDate>Fri, 02 Oct 2026 16:19:17 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Progresses Fortitude Mining business combination; loan maturity extended</scanner:headline>
-      <scanner:shortName>HeartSciences</scanner:shortName>
-      <scanner:price>4.05</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>HSCS</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>DEFA14A x2</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>19440000</scanner:marketCap>
-      <scanner:enterpriseValue>23420000</scanner:enterpriseValue>
-      <scanner:grossMarginLtm>60.88</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-29T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquired by Fortitude Mining in all-stock transaction; shareholder vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;An AI-powered medical technology company, has entered into a definitive merger agreement to combine with Fortitude Mining Holdings, Inc., a digital asset mining platform, in an all-stock transaction. HeartSciences will file a definitive proxy statement and mail it to shareholders for a special meeting to vote on the proposed transaction.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; HeartSciences Inc., a medical technology company, focuses on advancing electrocardiography (ECG) through the integration of artificial intelligence. It develops artificial intelligence-enhanced electrocardiography (AI-ECG) solutions, an algorithm to detect impaired cardiac relaxation or cardiac dysfunction; MyoVista wavECG device, a resting 12-lead ECG that provides diagnostic information related to cardiac dysfunction, as well as conventional ECG information in the same test; and MyoVista Insig…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Fortitude Mining Holdings, Inc.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-18&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; shareholder vote&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $4.05 · Mkt cap $19.4M · EV $23.4M · Health Care / Health Care Equipment and Supplies&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1468492/000121390026104895/0001213900-26-104895-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;HSCS, HSCSW&lt;/b&gt; · DEFA14A · Non-Depository Credit (6199) · prefill_form:DEFA14A · filed 2026-09-30&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DEFA14A · Oct 02 16:19 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1468492/000121390026106514/ea0307437-8k_heart.htm'&gt;Progresses Fortitude Mining business combination; loan maturity extended&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 30 07:02 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1468492/000121390026104895/ea0307146-defa14a_heart.htm'&gt;Acquired by Fortitude Mining in all-stock transaction; shareholder vote pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>🤝 Merger · Definitive · LNTH</title>
@@ -16939,44 +16978,6 @@
 &lt;p&gt;&lt;i&gt;Px $0.0900 · Mkt cap $2.6M · EV $71.7M · Information Technology / Communications Equipment&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1738177/000119312526405403/0001193125-26-405403-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CMBMF&lt;/b&gt; · 8-K · Items 1.01, 2.01, 5.02, 9.01 · Electronic Equipment (3663) · 8k_tier1:1.01,2.01 · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · KDP</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1418135/000141813526000060/kdp-20260928.htm</link>
-      <guid isPermaLink="false">0001418135-26-000060</guid>
-      <pubDate>Mon, 28 Sep 2026 15:40:15 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Redeems Chobani equity, sells assets for $525M cash + $400M note</scanner:headline>
-      <scanner:shortName>Keurig Dr Pepper</scanner:shortName>
-      <scanner:price>31.47</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Consumer Staples</scanner:sector>
-      <scanner:ticker>KDP</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>43478390000</scanner:marketCap>
-      <scanner:enterpriseValue>84094390000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>4.19</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>8.21</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>13.09</scanner:fwdPE>
-      <scanner:fwdEvEbitda>11.35</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>8.21</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>50.96</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Redeems Chobani equity, sells assets for $525M cash + $400M note&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Completed the redemption of its indirect equity interests in Chobani for $800 million, consisting of $400 million in cash and a $400 million promissory note. The company also sold certain assets for $125 million in cash. The total consideration received by Keurig Dr Pepper is $925 million.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Keurig Dr Pepper Inc. owns, manufactures, and distributors beverages and single serve brewing systems in the United States and internationally. The company operates through three segments: U.S. Refreshment Beverages, U.S. Coffee, and International. It manufactures and distributes branded concentrates, syrup, and finished beverages, as well as sales of owned brands and third-party brands; tea, cocoa, and other products; and offers finished goods relating to K-Cup pods, single serve brewers, speci…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Chobani&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $925 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash+stock&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $31.47 · Mkt cap $43.48B · EV $84.09B · Fwd P/E 13.1x · Fwd EV/EBITDA 11.3x · Consumer Staples / Beverages&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1418135/000141813526000060/0001418135-26-000060-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;KDP&lt;/b&gt; · 8-K · Items 8.01 · Food &amp;amp; Kindred (2080) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
