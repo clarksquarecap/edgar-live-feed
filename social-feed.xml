@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 15:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:46:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AIPALFA 💧 Capital Return · Self-tender
+Offers to purchase up to 5% of net assets at NAV; tender deadline Nov 2</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1709447/000119312526411540/d120266dsctoi.htm</link>
+      <guid isPermaLink="false">0001193125-26-411540</guid>
+      <pubDate>Fri, 02 Oct 2026 10:46:33 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+    </item>
     <item>
       <title>$SUI 🤝 Merger
 Acquires assets for $28.3M in Series M Preferred Units
@@ -1242,15 +1251,6 @@ Mcap $239M · EV $240M · Consumer Cycli</title>
       <pubDate>Thu, 01 Oct 2026 11:04:59 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$LAGOBDC 💧 Capital Return · Special Div
-Declares $0.89/share cash distribution; total $5.6M</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2043759/000119312526410180/ck0002043759-20260930.htm</link>
-      <guid isPermaLink="false">0001193125-26-410180</guid>
-      <pubDate>Thu, 01 Oct 2026 10:45:51 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
     </item>
   </channel>
 </rss>
