@@ -6,8 +6,42 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 17:30:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:54:30 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · GMAB</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1434265/000143426526000129/gmab_20261002x6k.htm</link>
+      <guid isPermaLink="false">0001434265-26-000129</guid>
+      <pubDate>Fri, 02 Oct 2026 12:54:23 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>acquisition</category>
+      <category>6-K</category>
+      <scanner:headline>Darwin Global Management discloses 5.11% stake</scanner:headline>
+      <scanner:shortName>GENMAB</scanner:shortName>
+      <scanner:price>35.05</scanner:price>
+      <scanner:subtype />
+      <scanner:form>6-K</scanner:form>
+      <scanner:sector>Health Care</scanner:sector>
+      <scanner:ticker>GMAB</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>6-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>20915130000</scanner:marketCap>
+      <scanner:enterpriseValue>24659390000</scanner:enterpriseValue>
+      <scanner:fwdPE>24.04</scanner:fwdPE>
+      <scanner:fwdEvEbitda>15.30</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>6.45</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Darwin Global Management discloses 5.11% stake&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Announced that Darwin Global Management Limited informed the company it controls voting rights attached to 3,188,361 shares, representing 5.11% of Genmab&amp;#39;s voting rights as of September 28, 2026. The stake includes shares and ADRs held by investment funds managed by Darwin.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Genmab A/S, a biotechnology company, develops antibody-based products and product candidates for the treatment of cancer and other diseases in Denmark. The company markets EPKINLY and TEPKINLY for adult patients with relapsed or refractory (R/R) diffuse large b-cell lymphoma (DLBCL), large B-cell lymphoma, and follicular lymphoma (FL); and Tivdak for adult patients with recurrent/metastatic cervical cancer with disease progression on or after chemotherapy.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Darwin Global Management Limited&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5.11%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-02&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $35.05 · Mkt cap $20.92B · EV $24.66B · Fwd P/E 24.0x · Fwd EV/EBITDA 15.3x · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1434265/000143426526000129/0001434265-26-000129-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GMAB, GNMSF&lt;/b&gt; · 6-K · Chemicals / Pharma (2834) · prefill_form:6-K · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>👀 Activist · LGMK</title>
       <link>https://www.sec.gov/Archives/edgar/data/1566826/000215797126000001/0002157971-26-000001-index.htm</link>
@@ -16897,39 +16931,6 @@
 &lt;p&gt;&lt;i&gt;Px $9.38 · Mkt cap $2.78B · EV $8.27B · Fwd P/E 10.5x · Fwd EV/EBITDA 7.4x · Materials / Containers and Packaging&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1408075/000119312526403456/0001193125-26-403456-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GPK&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Paper (2650) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · BEAG</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1852207/000121390026103758/ea0305453-8k425_bold.htm</link>
-      <guid isPermaLink="false">0001213900-26-103760</guid>
-      <pubDate>Mon, 28 Sep 2026 07:27:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>8-K</category>
-      <scanner:headline>Acquires REDLattice via business combination; Domestication to Delaware</scanner:headline>
-      <scanner:shortName>Bold Eagle Acquisition</scanner:shortName>
-      <scanner:price>10.71</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>BEAG</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>425, 8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>335420000</scanner:marketCap>
-      <scanner:enterpriseValue>335650000</scanner:enterpriseValue>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires REDLattice in business combination; shareholder vote pending&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into a definitive Business Combination Agreement with REDL Intermediate Holdings, LLC (REDLattice). The transaction involves Bold Eagle&amp;#39;s domestication to Delaware and a merger with REDLattice, which will become a wholly-owned subsidiary of the combined public company (PubCo). Closing is subject to Bold Eagle shareholder approval and other conditions.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Bold Eagle Acquisition Corp. does not have significant operations. The company intends to effect a merger, share exchange, asset acquisition, share purchase, reorganization, or similar business combination with one or more businesses. The company was formerly known as Spinning Eagle Acquisition Corp. and changed its name to Bold Eagle Acquisition Corp. in June 2024. Bold Eagle Acquisition Corp. was incorporated in 2021 and is based in New York, New York.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; REDLattice&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; shareholder approval&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $10.71 · Mkt cap $335.4M · EV $335.6M · Financials / Capital Markets&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1852207/000121390026103760/0001213900-26-103760-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;BEAG, BEAGR, BEAGU&lt;/b&gt; · 425 · Holding / Investment Offices (6770) · prefill_form:425 · filed 2026-09-28&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;8-K · Sep 28 07:27 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1852207/000121390026103758/ea0305453-8k425_bold.htm'&gt;Acquires REDLattice via business combination; Domestication to Delaware&lt;/a&gt;&lt;/li&gt;&lt;li&gt;425 · Sep 28 07:26 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1852207/000121390026103760/ea0305453-8k425_bold.htm'&gt;Acquires REDLattice in business combination; shareholder vote pending&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
