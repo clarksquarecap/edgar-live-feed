@@ -6,8 +6,40 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 14:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:04:10 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🪙 Debt Restr. · CSAI</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1709628/000168316826007556/cloud_8k.htm</link>
+      <guid isPermaLink="false">0001683168-26-007556</guid>
+      <pubDate>Fri, 02 Oct 2026 10:04:02 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>acquisition</category>
+      <category>8-K</category>
+      <scanner:headline>Exchanges $63.3K promissory note for 18,246 Class A common shares with Streeterville</scanner:headline>
+      <scanner:shortName>CLOUDASTRUCTURE</scanner:shortName>
+      <scanner:price>2.64</scanner:price>
+      <scanner:subtype />
+      <scanner:form>8-K</scanner:form>
+      <scanner:sector>Information Technology</scanner:sector>
+      <scanner:ticker>CSAI</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>8-K</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>2110000</scanner:marketCap>
+      <scanner:fwdEvEbitda>0.02</scanner:fwdEvEbitda>
+      <scanner:fwdEvGrossProfit>0.27</scanner:fwdEvGrossProfit>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Exchanges $63.3K promissory note for 18,246 Class A common shares with Streeterville&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Entered into an Exchange Agreement with Streeterville Capital, LLC to partition a $63,332.50 promissory note from a larger note. The company will exchange this partitioned note for 18,246 shares of its Class A common stock. This transaction reduces the outstanding balance of the original note by $63,332.50.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Cloudastructure Inc. engages in the provision of cloud-based artificial intelligence (AI) video surveillance and remote guarding service built on AI and machine learning platforms in the United States. The company offers cloud video surveillance, which stores the video surveillance in the cloud with AI computer vision, including face recognition, license plate reading, object detection, and other features; remote guarding solution, a browser-based remote guard call center software; remote guards…&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Streeterville Capital, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $2.64 · Mkt cap $2.1M · EV $-400K · Fwd EV/EBITDA 0.0x · Information Technology / IT Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1709628/000168316826007556/0001683168-26-007556-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;CSAI&lt;/b&gt; · 8-K · Items 1.01, 3.02, 9.01 · Business Services (7370) · 8k_tier1:1.01 · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · SANG</title>
       <link>https://www.sec.gov/Archives/edgar/data/1753368/000110465926113106/tm2626898d1_6k.htm</link>
@@ -16940,39 +16972,6 @@
 &lt;p&gt;&lt;i&gt;Px $1,116.20 · Mkt cap $61.70B · EV $92.49B · Fwd P/E 24.1x · Fwd EV/EBITDA 15.4x · Industrials / Aerospace and Defense&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1260221/000126022126000064/0001260221-26-000064-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;TDG&lt;/b&gt; · 8-K · Items 8.01, 9.01 · Transportation Equipment (3728) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · ITMSF</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1285170/000117184326006245/f6k_092626.htm</link>
-      <guid isPermaLink="false">OTC-536529</guid>
-      <pubDate>Mon, 28 Sep 2026 06:50:54 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>6-K</category>
-      <scanner:headline>PCI shareholders approve acquisition; close mid-Oct 2026</scanner:headline>
-      <scanner:shortName>Intermap Technologies</scanner:shortName>
-      <scanner:price>0.6500</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>6-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>ITMSF</scanner:ticker>
-      <scanner:filings>2</scanner:filings>
-      <scanner:filingForms>OTC, 6-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>46420000</scanner:marketCap>
-      <scanner:enterpriseValue>32510000</scanner:enterpriseValue>
-      <scanner:fwdPE>0.25</scanner:fwdPE>
-      <scanner:fwdEvEbitda>4.22</scanner:fwdEvEbitda>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires PCI; shareholders approve acquisition&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Announced that PCI shareholders have approved its acquisition. (headline only; full text not retrieved)&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Intermap Technologies Corporation, a geospatial intelligence company, provides various geospatial solutions and analytics in the United States, the Asia Pacific, and Europe. The company offers core digital map products comprising digital surface model, a digital elevation model that measures the top surface of the earth and objects located on it; digital terrain model, a geometrically correct reference frame over which other data layers, such as aerial photography and other types of images; mult…&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; PCI&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $0.6500 · Mkt cap $46.4M · EV $32.5M · Fwd P/E 0.2x · Fwd EV/EBITDA 4.2x · Information Technology / Software&lt;/i&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;ITMSF&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-09-28&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (2)&lt;/strong&gt;&lt;/p&gt;
-&lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;6-K · Sep 28 06:50 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1285170/000117184326006245/f6k_092626.htm'&gt;PCI shareholders approve acquisition; close mid-Oct 2026&lt;/a&gt;&lt;/li&gt;&lt;li&gt;OTC · Sep 28 06:44 · &lt;a href='https://www.otcmarkets.com/stock/ITMSF/news/536529'&gt;Acquires PCI; shareholders approve acquisition&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
