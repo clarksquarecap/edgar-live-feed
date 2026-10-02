@@ -6,8 +6,32 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Fri, 02 Oct 2026 15:53:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:59:13 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>💧 Capital Return · Self Tender · AIP Alternative Lending Fund P</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1709406/000119312526411557/d115968dsctoi.htm</link>
+      <guid isPermaLink="false">0001193125-26-411557</guid>
+      <pubDate>Fri, 02 Oct 2026 10:59:07 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+      <category>self_tender</category>
+      <category>SC TO-I</category>
+      <scanner:headline>Offers to repurchase up to 5% of shares at NAV; tender by Nov 2</scanner:headline>
+      <scanner:shortName>AIP Alternative Lending Fund P</scanner:shortName>
+      <scanner:subtype>self_tender</scanner:subtype>
+      <scanner:form>SC TO-I</scanner:form>
+      <scanner:sector />
+      <scanner:ticker />
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SC TO-I</scanner:filingForms>
+      <scanner:related />
+      <description>&lt;p&gt;&lt;b&gt;Offers to repurchase up to 5% of shares at NAV; tender by Nov 2&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is offering to purchase shares of beneficial interest from its shareholders. The issuer will repurchase up to 5% of its net assets at the net asset value per share, calculated as of the Valuation Date (December 31, 2026). Payment will be made in cash via a non-interest bearing promissory note within 30 days after the Valuation Date. Shareholders must tender by November 2, 2026, with withdrawals allowed until December 21, 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; 18142912.45&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 5%&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-10-02&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; 2026-12-31&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; 2026-11-02&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1709406/000119312526411557/0001193125-26-411557-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;SC TO-I · prefill_form:SC TO-I · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>🤝 Merger · Definitive · RINTX</title>
       <link>https://www.sec.gov/Archives/edgar/data/351601/000119312526411543/d48221ddefa14a.htm</link>
@@ -16913,40 +16937,6 @@
 &lt;p&gt;&lt;i&gt;Px $89.70 · Mkt cap $5.82B · EV $6.15B · Health Care / Biotechnology&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1759425/000175942526000049/0001759425-26-000049-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;MIRM&lt;/b&gt; · 8-K · Items 8.01 · Chemicals / Pharma (2834) · 8k_tier1:8.01 · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>📤 Divestiture · AIMD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1014763/000149315226044454/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-044454</guid>
-      <pubDate>Mon, 28 Sep 2026 07:05:14 -0500</pubDate>
-      <category>DIVESTITURE</category>
-      <category>acquisition</category>
-      <category>8-K</category>
-      <scanner:headline>Licenses VELDONA® platform rights to BioPhoenix for $600K upfront + 25% sublicensing</scanner:headline>
-      <scanner:shortName>Ainos</scanner:shortName>
-      <scanner:price>1.34</scanner:price>
-      <scanner:subtype />
-      <scanner:form>8-K</scanner:form>
-      <scanner:sector>Information Technology</scanner:sector>
-      <scanner:ticker>AIMD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>8-K</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>9890000</scanner:marketCap>
-      <scanner:enterpriseValue>22280000</scanner:enterpriseValue>
-      <scanner:grossMarginLtm>78.74</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Licenses VELDONA® platform rights to BioPhoenix for $600K upfront + 25% sublicensing&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Entered into a Global Exclusive License Agreement with BioPhoenix Co., Ltd., granting exclusive worldwide rights to its VELDONA® low-dose oral interferon alpha technology platform for Sjögren’s Disease and Thrombocytopenia. In consideration, Ainos will receive an upfront license fee of $600,000, a one-time fee upon BioPhoenix&amp;#39;s first sublicense, and 25% of BioPhoenix’s net sublicensing revenue. Total license fees could reach approximately $10.0 million if all additional indications are licensed, with BioPhoenix funding all clinical and regulatory development for the licensed indications.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Ainos, Inc., a dual-platform company, focusing artificial intelligence–based smelltech technologies and immune therapeutics. It offers AI Nose, an AI-based electronic olfaction system, which uses a smell language model to digitize scent into Smell IDs and turning into machine-readable data. The company provides its platforms for semiconductor manufacturing, robotics, and smart manufacturing industries; as well as senior care and women’s health sectors.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; BioPhoenix Co., Ltd.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Deal value:&lt;/b&gt; $10.0 million&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; cash&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-24&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $1.34 · Mkt cap $9.9M · EV $22.3M · Information Technology / Technology Hardware, Storage and Peripherals&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1014763/000149315226044454/0001493152-26-044454-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AIMD, AIMDW&lt;/b&gt; · 8-K · Items 1.01, 7.01, 9.01 · Industrial Machinery (3577) · 8k_tier1:1.01,7.01 · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
