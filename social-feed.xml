@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 03 Oct 2026 10:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 10:15:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GOW 📍 Stake
@@ -1103,63 +1103,6 @@ Financials</title>
       <pubDate>Fri, 02 Oct 2026 05:15:37 -0500</pubDate>
       <category>BUSTED_MA</category>
       <category>unilateral_termination</category>
-    </item>
-    <item>
-      <title>$KITT 🪙 Debt Restr.
-Receives waivers on preferred stock default terms, avoiding 18% dividend rate
-Mcap $2M · EV $23M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1849820/000184982026000166/kitt-20260930.htm</link>
-      <guid isPermaLink="false">0001849820-26-000155</guid>
-      <pubDate>Fri, 02 Oct 2026 05:15:19 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$KITT 🪙 Debt Restr.
-Amends term loan, reducing convertible price to $1.488
-Mcap $2M · EV $23M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1849820/000184982026000168/kitt-20260930.htm</link>
-      <guid isPermaLink="false">0001849820-26-000168</guid>
-      <pubDate>Fri, 02 Oct 2026 05:14:50 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$SRL 👀 Activist
-Convenes EGM in response to 20% shareholder requisition; vote Jan 12, 2027
-certain members
-Mcap $79M · EV $74M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/16859/000110465926112984/tm2626889d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112984</guid>
-      <pubDate>Fri, 02 Oct 2026 05:14:29 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-    </item>
-    <item>
-      <title>$BBVA 💧 Capital Return · Buyback
-Completes €1B share buyback tranche (0.73% of capital); plans redemption
-Mcap $157B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/842180/000110465926112990/tm2626639d2_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112990</guid>
-      <pubDate>Fri, 02 Oct 2026 05:14:20 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$VUECF 🔄 Post-Spin
-Completes share distribution from enCore Energy to shareholders
-Mcap $19M · EV $7M · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2111453/000118518526004533/vuecf6k100126.htm</link>
-      <guid isPermaLink="false">0001185185-26-004533</guid>
-      <pubDate>Fri, 02 Oct 2026 05:13:31 -0500</pubDate>
-      <category>POST_SPIN</category>
-    </item>
-    <item>
-      <title>$AMX 🤝 Merger
-Acquires 72.83% of Desktop S.A. in Brazil
-Mcap $62B · EV $99B · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1129137/000129281426004830/amx20261001_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004830</guid>
-      <pubDate>Fri, 02 Oct 2026 05:10:45 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
