@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 03 Oct 2026 15:10:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 15:28:07 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$AMFN 🤝 Merger · Preliminary
@@ -757,17 +757,6 @@ Offers to purchase up to 5% of net assets at NAV; tender deadline Nov 2</title>
       <pubDate>Fri, 02 Oct 2026 10:46:33 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>self_tender</category>
-    </item>
-    <item>
-      <title>$SUI 🤝 Merger
-Acquires assets for $28.3M in Series M Preferred Units
-28312600 deal · stock
-Mcap $13B · EV $17B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/912593/000091259326000262/sui-20261001.htm</link>
-      <guid isPermaLink="false">0000912593-26-000262</guid>
-      <pubDate>Fri, 02 Oct 2026 10:22:43 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
