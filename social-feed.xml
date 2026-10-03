@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 03 Oct 2026 12:09:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 12:14:55 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GOW 📍 Stake
@@ -888,16 +888,6 @@ Mcap $1M · Industrials</title>
       <pubDate>Fri, 02 Oct 2026 08:03:59 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$HYPD 💧 Capital Return · Buyback
-Commences share buybacks; repurchased 240K shares at $3.21; retires $8.6M debt
-Mcap $57M · EV $56M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1682639/000110465926113050/tm2626852d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-113050</guid>
-      <pubDate>Fri, 02 Oct 2026 07:09:27 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
