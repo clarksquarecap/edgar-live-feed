@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 03 Oct 2026 10:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 10:26:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GOW 📍 Stake
@@ -988,27 +988,6 @@ Mcap $39M · EV $19M · Comms</title>
       <guid isPermaLink="false">0001213900-26-106074</guid>
       <pubDate>Fri, 02 Oct 2026 05:31:22 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$KEP 🤝 Merger · Rumor
-Responds to rumor of government plan to merge 5 power generation subsidiaries
-empty · close 2027-01-02
-Mcap $14B · EV $111B · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/887225/000119312526411215/d66660d6k.htm</link>
-      <guid isPermaLink="false">0001193125-26-411215</guid>
-      <pubDate>Fri, 02 Oct 2026 05:25:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>rumor_response</category>
-    </item>
-    <item>
-      <title>$TNMG 📤 Divestiture
-Sells Japanese business to MI Company Inc. for $5.5M; close by Oct 30
-5.5 million deal · close 2026-10-30
-Mcap $1M · EV $20M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2013186/000121390026106068/ea0307322-6k_tnl.htm</link>
-      <guid isPermaLink="false">0001213900-26-106068</guid>
-      <pubDate>Fri, 02 Oct 2026 05:24:53 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
