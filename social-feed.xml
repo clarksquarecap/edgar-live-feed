@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 03 Oct 2026 21:27:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 21:33:31 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$AMFN 🤝 Merger · Preliminary
@@ -91,55 +91,6 @@ Mcap $265M · EV $207M · Cons Disc</title>
       <guid isPermaLink="false">0001493152-26-045615</guid>
       <pubDate>Fri, 02 Oct 2026 16:36:39 -0500</pubDate>
       <category>DOMICILE_CHANGE</category>
-    </item>
-    <item>
-      <title>$HCTI 📉 Delisting · Forced
-Faces Nasdaq delisting; trading suspended Oct 12 unless appeal granted
-effective 2026-10-12
-Mcap $11M · EV $47M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1839285/000121390026106533/ea0307459-8k_healthcare.htm</link>
-      <guid isPermaLink="false">0001213900-26-106533</guid>
-      <pubDate>Fri, 02 Oct 2026 16:29:40 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$KKREUDL 💧 Capital Return · Special Div
-Declares $10.05/share special dividend; payable Oct 30</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2012839/000162828026064662/ebdc-20260930.htm</link>
-      <guid isPermaLink="false">0001628280-26-064662</guid>
-      <pubDate>Fri, 02 Oct 2026 16:29:06 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>special_dividend</category>
-    </item>
-    <item>
-      <title>$IMCC 📤 Divestiture
-Sells European operations to Slil for C$3M cash + assumed liabilities
-to Slil.com Holding · C$12,400,000 deal
-Mcap $2M · EV $11M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1792030/000117891326004699/zk2636170.htm</link>
-      <guid isPermaLink="false">0001178913-26-004699</guid>
-      <pubDate>Fri, 02 Oct 2026 16:28:39 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$WKEY ✂️ Carve-out
-Subsidiary WISeSat.Space completes de-SPAC with Columbus; begins trading as SAIQ
-Mcap $51M · EV $37M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1738699/000121390026106535/ea0307603-6k_wiseqey.htm</link>
-      <guid isPermaLink="false">0001213900-26-106535</guid>
-      <pubDate>Fri, 02 Oct 2026 16:28:28 -0500</pubDate>
-      <category>CARVE_OUT</category>
-    </item>
-    <item>
-      <title>$LAES 📤 Divestiture
-Sells SpaceAIQ subsidiary to WISeSat.Space; receives 1.04M shares
-to WISeSat.Space Holdings
-Mcap $545M · EV $77M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1951222/000121390026106547/ea0307605-6k_sealsq.htm</link>
-      <guid isPermaLink="false">0001213900-26-106547</guid>
-      <pubDate>Fri, 02 Oct 2026 16:28:13 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
