@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 03 Oct 2026 11:29:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 11:40:53 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GOW 📍 Stake
@@ -927,47 +927,6 @@ Mcap $1.3B · EV $2.9B · Cons Stpl</title>
       <guid isPermaLink="false">0001193125-26-411198</guid>
       <pubDate>Fri, 02 Oct 2026 06:49:47 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$BNBX 🔎 Strat Review · Strat Alts
-Announces strategic shift to tech infrastructure; evaluating options to monetize LineaRx
-Mcap $890K · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/744452/000110465926113043/tm2626879d2_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-113043</guid>
-      <pubDate>Fri, 02 Oct 2026 06:37:31 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
-    </item>
-    <item>
-      <title>$CNSY 🪙 Debt Restr.
-Discloses substantial doubt about ability to continue as going concern
-Mcap $14M · EV $5M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1095981/000119312526411259/cnsy-20261002.htm</link>
-      <guid isPermaLink="false">0001193125-26-411259</guid>
-      <pubDate>Fri, 02 Oct 2026 06:37:11 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$AUGO 🤝 Merger
-Acquires Newco mining fleet for R$612M (~$118M) EV; up to R$250M cash
-R$612,000,000 (~$118,000,000) deal · cash+stk · close January 2027
-Mcap $6.6B · EV $6.8B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1468642/000117184326006348/f6k_100226.htm</link>
-      <guid isPermaLink="false">0001171843-26-006348</guid>
-      <pubDate>Fri, 02 Oct 2026 06:36:49 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$QNCX 🤝 Merger
-Acquires Orphai Therapeutics; vote Oct 6 on share issuance &amp; board changes
-stock · close October 2026
-Mcap $31M · EV $59M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1662774/000119312526411262/d268489ddefa14a.htm</link>
-      <guid isPermaLink="false">0001193125-26-411262</guid>
-      <pubDate>Fri, 02 Oct 2026 06:36:15 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
