@@ -6,8 +6,38 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 03 Oct 2026 00:16:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 00:57:49 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>📍 Stake · GOW</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2097702/000121390026106590/0001213900-26-106590-index.htm</link>
+      <guid isPermaLink="false">0001213900-26-106590</guid>
+      <pubDate>Fri, 02 Oct 2026 19:57:42 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+      <category>activist</category>
+      <category>SCHEDULE 13D</category>
+      <scanner:headline>Discloses 9.87% stake in GOWell Energy Technology</scanner:headline>
+      <scanner:shortName>GOWell Energy Technology</scanner:shortName>
+      <scanner:price>3.87</scanner:price>
+      <scanner:subtype />
+      <scanner:form>SCHEDULE 13D</scanner:form>
+      <scanner:sector>Energy</scanner:sector>
+      <scanner:ticker>GOW</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>SCHEDULE 13D</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>139290000</scanner:marketCap>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Discloses 9.87% stake in GOWell Energy Technology&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Inflection Point Fund I, LP disclosed a 9.87% stake in GOWell Energy Technology, comprising ordinary shares, convertible Series A preferred shares, and warrants. The stake was acquired in connection with GOWell&amp;#39;s recent business combination. The Reporting Person holds the shares for investment purposes and will review its investment on an ongoing basis.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; GOWell Energy Technology provides integrated wireline logging technology and solutions that focuses on advancing well evaluation, integrity, and performance. It delivers equipment, logging data interpretation, and repair and maintenance services. The company serves the full energy spectrum, including oil and gas, geothermal, underground storage, and carbon sequestration across the asset lifecycle, from construction and production to rejuvenation and permanent abandonment.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 9.87%&lt;/li&gt;&lt;/ul&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-25&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $3.87 · Mkt cap $139.3M · Energy / Energy Equipment and Services&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/2097702/000121390026106590/0001213900-26-106590-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GOW&lt;/b&gt; · SCHEDULE 13D · Industrial Machinery (3533) · fresh_13d · filed 2026-10-02&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · JCTC</title>
       <link>https://www.sec.gov/Archives/edgar/data/885307/000121716026000076/0001217160-26-000076-index.htm</link>
@@ -16936,45 +16966,6 @@
 &lt;p&gt;&lt;i&gt;Px $30.88 · Mkt cap $2.32B · Fwd P/E 9.2x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/936528/000114036126037850/0001140361-26-037850-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WAFD, WAFDP&lt;/b&gt; · DEFA14A · Depository Institutions (6021) · prefill_form:DEFA14A · filed 2026-09-28&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>👀 Activist · GRDN</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1802255/000119312526405492/0001193125-26-405492-index.htm</link>
-      <guid isPermaLink="false">0001193125-26-405492</guid>
-      <pubDate>Mon, 28 Sep 2026 16:12:08 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>activist</category>
-      <category>SCHEDULE 13D/A</category>
-      <scanner:headline>Faces Bindley Capital group with 26.4% stake</scanner:headline>
-      <scanner:shortName>Guardian Pharmacy Services</scanner:shortName>
-      <scanner:price>40.74</scanner:price>
-      <scanner:subtype />
-      <scanner:form>SCHEDULE 13D/A</scanner:form>
-      <scanner:sector>Health Care</scanner:sector>
-      <scanner:ticker>GRDN</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>SCHEDULE 13D/A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2610340000</scanner:marketCap>
-      <scanner:enterpriseValue>2571830000</scanner:enterpriseValue>
-      <scanner:evSalesLtm>1.76</scanner:evSalesLtm>
-      <scanner:evGrossProfitLtm>8.12</scanner:evGrossProfitLtm>
-      <scanner:fwdPE>30.50</scanner:fwdPE>
-      <scanner:fwdEvEbitda>19.37</scanner:fwdEvEbitda>
-      <scanner:fwdEvGrossProfit>8.12</scanner:fwdEvGrossProfit>
-      <scanner:grossMarginLtm>21.63</scanner:grossMarginLtm>
-      <scanner:grossMarginBasis>LTM</scanner:grossMarginBasis>
-      <scanner:grossMarginAsOf>2026-09-25T00:00:00Z</scanner:grossMarginAsOf>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Faces Bindley Capital group with 26.4% stake&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is the subject of an amended Schedule 13D filing by Bindley Capital Partners I, LLC and its affiliates, reporting a collective ownership of 26.4% of the company&amp;#39;s Class A common stock. The filing indicates that William E. Bindley and Thomas J. Salentine, Jr. share voting and investment power over a significant portion of these shares.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; Guardian Pharmacy Services, Inc., a pharmacy service company, provides a suite of technology-enabled services to help residents of long-term health care facilities (LTCFs) in the United States. The company’s individualized clinical, drug dispensing, and administration capabilities are used to serve the needs of residents in lower acuity LTCFs, such as assisted living facilities, behavioral health facilities, and group homes.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; Bindley Capital Partners I, LLC&lt;/li&gt;&lt;li&gt;&lt;b&gt;Stake:&lt;/b&gt; 26.4%&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-27&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $40.74 · Mkt cap $2.61B · EV $2.57B · Fwd P/E 30.5x · Fwd EV/EBITDA 19.4x · Health Care / Health Care Providers and Services&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/1802255/000119312526405492/0001193125-26-405492-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;GRDN&lt;/b&gt; · SCHEDULE 13D/A · Retail; Misc (5912) · amended_13d · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
