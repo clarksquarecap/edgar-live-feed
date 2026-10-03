@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 03 Oct 2026 17:34:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:57:33 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$AMFN 🤝 Merger · Preliminary
@@ -692,15 +692,6 @@ Mcap $35M · EV $2.1B · Comms</title>
       <pubDate>Fri, 02 Oct 2026 13:18:38 -0500</pubDate>
       <category>DELISTING</category>
       <category>forced</category>
-    </item>
-    <item>
-      <title>$GMAB 📍 Stake
-Darwin Global Management discloses 5.11% stake
-Mcap $21B · EV $25B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1434265/000143426526000129/gmab_20261002x6k.htm</link>
-      <guid isPermaLink="false">0001434265-26-000129</guid>
-      <pubDate>Fri, 02 Oct 2026 12:54:23 -0500</pubDate>
-      <category>STAKE_DISCLOSURE</category>
     </item>
   </channel>
 </rss>
