@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 03 Oct 2026 10:15:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 10:21:06 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$GOW 📍 Stake
@@ -1009,100 +1009,6 @@ Mcap $1M · EV $20M · Comms</title>
       <guid isPermaLink="false">0001213900-26-106068</guid>
       <pubDate>Fri, 02 Oct 2026 05:24:53 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$OMTK 🤝 Merger
-Acquires Hard Rock Ready Mix for 10,000 Series A Preferred shares; closed Oct 1
-Hard Rock Holdco · stock
-Mcap $270K · EV $440K · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1404804/000109690626001496/omtk-20260929_8k.htm</link>
-      <guid isPermaLink="false">0001096906-26-001496</guid>
-      <pubDate>Fri, 02 Oct 2026 05:16:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ANGX 🤝 Merger
-Amends Toothy Cow Productions merger, reallocates 439,127 Class A shares
-stock
-Mcap $790M · EV $819M · Comms</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1865200/000110465926112974/tm2626858d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-112974</guid>
-      <pubDate>Fri, 02 Oct 2026 05:16:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$FLOC 🤝 Merger
-Acquires Lifting Solutions Energy Services for C$159M cash
-C$159.0 million deal · cash
-Mcap $804M · EV $2.1B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2035149/000119312526411196/floc-20261002.htm</link>
-      <guid isPermaLink="false">0001193125-26-411196</guid>
-      <pubDate>Fri, 02 Oct 2026 05:16:12 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PECO • ACQUISITION
-Expands joint venture with Northwestern Mutual in $377.5M transaction
-Mcap $4.8B · EV $7.6B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1476204/000147620426000048/cik0001476204-20261001.htm</link>
-      <guid isPermaLink="false">0001476204-26-000048</guid>
-      <pubDate>Fri, 02 Oct 2026 05:16:09 -0500</pubDate>
-      <category>ACQUISITION</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ASPI 📤 Divestiture
-Sells Noble Africa and Renergen subsidiaries to ENDRA; S-4 filed
-to ENDRA Life Sciences
-Mcap $414M · EV $439M · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1921865/000147793226005971/aspi_8k.htm</link>
-      <guid isPermaLink="false">0001477932-26-005971</guid>
-      <pubDate>Fri, 02 Oct 2026 05:16:02 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$AMZE 📉 Delisting · Forced
-Forced NYSE American delisting; trading suspended immediately
-effective 2026-10-11
-Mcap $521K · EV $4M · Consumer Defen</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1880343/000149315226045394/form8-k.htm</link>
-      <guid isPermaLink="false">0001143313-26-000051</guid>
-      <pubDate>Fri, 02 Oct 2026 05:15:59 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
-    </item>
-    <item>
-      <title>$CLOQ 📤 Divestiture
-Forms 50/50 cybersecurity JV with Michigan Secure Capital Group
-Mcap $18M · EV $22M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1437517/000149315226045402/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-045402</guid>
-      <pubDate>Fri, 02 Oct 2026 05:15:59 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$CTRE 🤝 Merger
-Acquires 24 care homes from LNT for £576M (~$764M); option for 21 more, total £1.08B
-£1,080,000,000 deal · cash · close 2027-12-31
-Mcap $8.5B · EV $9.7B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1590717/000162828026064352/ctre-20260930.htm</link>
-      <guid isPermaLink="false">0001628280-26-064352</guid>
-      <pubDate>Fri, 02 Oct 2026 05:15:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TMGI 💥 Busted M&amp;A
-Terminates prior control agreement with GetGolf due to default; control reverts to Marc Angell
-Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1434601/000168316826007548/tmgi_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-007548</guid>
-      <pubDate>Fri, 02 Oct 2026 05:15:37 -0500</pubDate>
-      <category>BUSTED_MA</category>
-      <category>unilateral_termination</category>
     </item>
   </channel>
 </rss>
