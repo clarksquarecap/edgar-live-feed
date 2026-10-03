@@ -6,8 +6,37 @@
     <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Sat, 03 Oct 2026 00:57:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 13:24:03 +0000</lastBuildDate>
     <generator>edgar-live-scanner/rss_feed.py</generator>
+    <item>
+      <title>🤝 Merger · Preliminary · AMFN</title>
+      <link>https://www.otcmarkets.com/stock/AMFN/news/537248</link>
+      <guid isPermaLink="false">OTC-537248</guid>
+      <pubDate>Sat, 03 Oct 2026 08:23:56 -0500</pubDate>
+      <category>MERGER</category>
+      <category>preliminary</category>
+      <category>OTC</category>
+      <scanner:headline>Featured on Bloomberg TV with T-REX Acquisition Corp. for potential transaction</scanner:headline>
+      <scanner:shortName>American Fusion</scanner:shortName>
+      <scanner:price>0.1000</scanner:price>
+      <scanner:subtype>preliminary</scanner:subtype>
+      <scanner:form>OTC</scanner:form>
+      <scanner:sector>Industrials</scanner:sector>
+      <scanner:ticker>AMFN</scanner:ticker>
+      <scanner:filings>1</scanner:filings>
+      <scanner:filingForms>OTC</scanner:filingForms>
+      <scanner:related />
+      <scanner:marketCap>169840000</scanner:marketCap>
+      <scanner:enterpriseValue>170250000</scanner:enterpriseValue>
+      <scanner:currency>USD</scanner:currency>
+      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
+      <description>&lt;p&gt;&lt;b&gt;Featured on Bloomberg TV with T-REX Acquisition Corp. for potential transaction&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Is featured on Bloomberg Television&amp;#39;s &amp;#39;New to The Street Show&amp;#39; alongside T-REX Acquisition Corp., where a potential transaction and Southeast Asia distribution are being discussed. (headline only; full text not retrieved)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; American Fusion Inc., through its subsidiary, operates as an energy platform company. The company engages in the development and commercialization of fusion energy technologies. It develops Texatron, an aneutronic fusion platform which is designed to support modular, infrastructure-grade deployment for industrial, commercial, and grid-constrained applications. American Fusion Inc. was formerly known as Renewal Fuels, Inc. and changed its name to American Fusion Inc. in March 2026.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; T-REX Acquisition Corp.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;i&gt;Px $0.1000 · Mkt cap $169.8M · EV $170.2M · Industrials / Electrical Equipment&lt;/i&gt;&lt;/p&gt;
+&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;AMFN&lt;/b&gt; · OTC · otc_keyword_match · filed 2026-10-03&lt;/p&gt;</description>
+    </item>
     <item>
       <title>📍 Stake · GOW</title>
       <link>https://www.sec.gov/Archives/edgar/data/2097702/000121390026106590/0001213900-26-106590-index.htm</link>
@@ -16935,37 +16964,6 @@
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;EMPD&lt;/b&gt; · DFAN14A · Non-Depository Credit (6199) · prefill_form:DFAN14A · filed 2026-09-17&lt;/p&gt;
 &lt;p style='color:#888;font-size:0.9em'&gt;&lt;strong&gt;Filings (4)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul style='color:#888;font-size:0.9em;margin:0 0 0 1em;padding:0'&gt;&lt;li&gt;DFAN14A · Sep 28 16:18 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000092189526002659/dfan13914005_09282026.htm'&gt;Nominates 4-director slate at Empery Digital; ISS supports 2 nominees; vote Oct 14&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 23 16:05 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000168316826007335/empery_defa14a.htm'&gt;Faces proxy contest; urges WHITE card vote by Oct 14&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DEFA14A · Sep 21 07:37 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000168316826007246/empery_defa14a.htm'&gt;Urges vote FOR 9 nominees vs ATG slate&lt;/a&gt;&lt;/li&gt;&lt;li&gt;DFAN14A · Sep 17 15:54 · &lt;a href='https://www.sec.gov/Archives/edgar/data/1829794/000092189526002572/dfan14a13914005_09172026.htm'&gt;Urges vote FOR 4-director slate at Empery Digital AGM Oct 14&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>🤝 Merger · Definitive · WAFD</title>
-      <link>https://www.sec.gov/Archives/edgar/data/936528/000114036126037850/ef20082870_defa14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-037850</guid>
-      <pubDate>Mon, 28 Sep 2026 16:18:34 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-      <category>DEFA14A</category>
-      <scanner:headline>Acquires EverBank Financial Corp; EverBank owners to hold 59.2% of combined entity; new ticker EVBK</scanner:headline>
-      <scanner:shortName>WAFD</scanner:shortName>
-      <scanner:price>30.88</scanner:price>
-      <scanner:subtype>definitive</scanner:subtype>
-      <scanner:form>DEFA14A</scanner:form>
-      <scanner:sector>Financials</scanner:sector>
-      <scanner:ticker>WAFD</scanner:ticker>
-      <scanner:filings>1</scanner:filings>
-      <scanner:filingForms>DEFA14A</scanner:filingForms>
-      <scanner:related />
-      <scanner:marketCap>2319750000</scanner:marketCap>
-      <scanner:fwdPE>9.23</scanner:fwdPE>
-      <scanner:currency>USD</scanner:currency>
-      <scanner:marketDataProvider>primary</scanner:marketDataProvider>
-      <description>&lt;p&gt;&lt;b&gt;Acquires EverBank Financial Corp; EverBank owners to hold 59.2% of combined entity; new ticker EVBK&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;Is the legal acquirer of EverBank Financial Corp in a reverse merger. EverBank&amp;#39;s owners will hold 59.2% of the combined company, and WaFd stockholders will own 40.8%. The combined entity, to be named EverBank Financial Corp, will trade under the new ticker symbol EVBK on NASDAQ. The transaction is subject to WaFd shareholder and regulatory approvals, with closing expected in early 2027.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;About:&lt;/b&gt; WaFd, Inc. operates as the bank holding company for Washington Federal Bank that provides lending, depository, insurance, and other banking services in the United States. The company provides deposit products, including business and personal checking accounts, and term certificates of deposit, as well as money market accounts and passbook savings accounts.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Counterparty:&lt;/b&gt; EverBank Financial Corp&lt;/li&gt;&lt;li&gt;&lt;b&gt;Consideration:&lt;/b&gt; stock&lt;/li&gt;&lt;/ul&gt;
-&lt;ul&gt;&lt;li&gt;&lt;b&gt;Announced:&lt;/b&gt; 2026-09-28&lt;/li&gt;&lt;li&gt;&lt;b&gt;Expected Close:&lt;/b&gt; early 2027&lt;/li&gt;&lt;li&gt;&lt;b&gt;Next catalyst:&lt;/b&gt; WaFd shareholder approval&lt;/li&gt;&lt;/ul&gt;
-&lt;p&gt;&lt;i&gt;Px $30.88 · Mkt cap $2.32B · Fwd P/E 9.2x · Financials / Banks&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href='https://www.sec.gov/Archives/edgar/data/936528/000114036126037850/0001140361-26-037850-index.htm'&gt;Index page&lt;/a&gt;&lt;/p&gt;
-&lt;p style='color:#888;font-size:0.9em'&gt;&lt;b&gt;WAFD, WAFDP&lt;/b&gt; · DEFA14A · Depository Institutions (6021) · prefill_form:DEFA14A · filed 2026-09-28&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
