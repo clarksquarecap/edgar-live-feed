@@ -6,8 +6,37 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 05 Oct 2026 21:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:07:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$VYLR 🪓 Spinoff
+Spun off from Corteva; VYLR begins NYSE trading Oct 1
+Mcap $45B · EV $48B · Materials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526414335/d92652d8k.htm</link>
+      <guid isPermaLink="false">0001193125-26-396054</guid>
+      <pubDate>Mon, 05 Oct 2026 16:06:39 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
+    <item>
+      <title>$FTHM 💥 Busted M&amp;A
+Merger with Neighborhood Intelligence terminated; no break fee owed
+Mcap $11M · EV $37M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1753162/000143774926032044/fthm20261005_8k.htm</link>
+      <guid isPermaLink="false">0001140361-26-038532</guid>
+      <pubDate>Mon, 05 Oct 2026 16:06:05 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
+    <item>
+      <title>$NIMU 🤝 Merger
+Gravitics merger amended: close extended to Oct 30, offering upsized to $125M
+close 2026-10-30
+Mcap $12M · EV $13M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/720762/000149315226045759/form8-k.htm</link>
+      <guid isPermaLink="false">0001493152-26-045759</guid>
+      <pubDate>Mon, 05 Oct 2026 16:05:53 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$KUST 🤝 Merger
 Acquires TFL, LLC; holders approve 20%+ share issuance for change of control
@@ -724,15 +753,6 @@ Mcap $5M · EV $5M · Healthcare</title>
       <pubDate>Mon, 05 Oct 2026 06:29:55 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NXH 💥 Busted M&amp;A
-Terminates merger agreement with Fathom Holdings by mutual consent
-Mcap $263M · EV $317M · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1130713/000114036126038532/ef20083268_8k.htm</link>
-      <guid isPermaLink="false">0001140361-26-038532</guid>
-      <pubDate>Mon, 05 Oct 2026 06:22:31 -0500</pubDate>
-      <category>BUSTED_MA</category>
     </item>
     <item>
       <title>$ECX 🤝 Merger
