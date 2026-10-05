@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 05 Oct 2026 21:29:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 21:30:58 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CTVA 🪓 Spinoff
+Spins off seed segment as Vylor (VYLR); distribution completed Oct 1
+Mcap $8.0B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526414490/ck0001755672-20260929.htm</link>
+      <guid isPermaLink="false">0001193125-26-401618</guid>
+      <pubDate>Mon, 05 Oct 2026 16:30:43 -0500</pubDate>
+      <category>SPIN_OFF</category>
+    </item>
+    <item>
+      <title>$BOW 📦 Going Private
+Acquired by American Family for $34.00/share cash; vote pending
+~$1.12B deal · cash
+Mcap $1.1B · EV $1.1B · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2002473/000114036126038657/ny20080231x7_sc13e3a.htm</link>
+      <guid isPermaLink="false">0001140361-26-038652</guid>
+      <pubDate>Mon, 05 Oct 2026 16:30:19 -0500</pubDate>
+      <category>GOING_PRIVATE</category>
+    </item>
     <item>
       <title>$EZRA 📤 Divestiture
 Sells Altruis Benefit Consulting for $8M cash + up to $1M earnout
@@ -86,16 +105,6 @@ Mcap $5M · EV $28M · Real Estate</title>
       <guid isPermaLink="false">0001213900-26-106886</guid>
       <pubDate>Mon, 05 Oct 2026 16:19:19 -0500</pubDate>
       <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$BOW 📦 Going Private
-Acquired by American Family for $34.00 cash/share; vote pending
-cash
-Mcap $1.1B · EV $1.1B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2002473/000114036126038652/ny20080231x6_prer14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-038652</guid>
-      <pubDate>Mon, 05 Oct 2026 16:16:41 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
     <item>
       <title>$ETD ⚔️ Proxy
