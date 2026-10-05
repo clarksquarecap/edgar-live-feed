@@ -6,8 +6,27 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Mon, 05 Oct 2026 13:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:18:45 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$QRVO 📉 Delisting · Forced
+Common Stock delisted by Nasdaq effective Oct 5
+Mcap $10B · EV $10B · Tech</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1604778/000135445726000942/0001354457-26-000942-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000942</guid>
+      <pubDate>Mon, 05 Oct 2026 08:18:38 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
+    <item>
+      <title>$SQFT 💧 Capital Return
+Completes exchange offer for Series D Preferred into 823,753 common shares
+Mcap $2M · EV $88M · Real Estate</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1080657/000149315226045707/formscto-ia.htm</link>
+      <guid isPermaLink="false">0001493152-26-045706</guid>
+      <pubDate>Mon, 05 Oct 2026 08:18:29 -0500</pubDate>
+      <category>CAPITAL_RETURN</category>
+    </item>
     <item>
       <title>$IRTC 🤝 Merger
 Completes Vital Connect acquisition for $237.5M cash + 423,334 shares
@@ -18,16 +37,6 @@ Mcap $3.6B · EV $3.8B · Healthcare</title>
       <pubDate>Mon, 05 Oct 2026 08:12:06 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SQFT 💧 Capital Return · Self-tender
-Exchange offer for Series D Preferred Stock results; 15.4% tendered for common
-Mcap $2M · EV $88M · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1080657/000149315226045706/form425.htm</link>
-      <guid isPermaLink="false">0001493152-26-045706</guid>
-      <pubDate>Mon, 05 Oct 2026 08:11:29 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
     </item>
     <item>
       <title>$SQFT 🪙 Debt Restr.
