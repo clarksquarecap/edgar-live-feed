@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 13:31:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:44:20 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$BLFS 📉 Delisting · Forced
+Nasdaq files Form 25-NSE for Common Stock delisting
+Mcap $1.9B · EV $1.8B · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/834365/000135445726000952/0001354457-26-000952-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000952</guid>
+      <pubDate>Tue, 06 Oct 2026 08:44:12 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$LCFY 🤝 Merger
 Acquires Map Labs assets for up to $3M cash; close by Dec 31
@@ -711,16 +721,6 @@ Completes subscription offering for two-tier holding company reorganization</tit
       <guid isPermaLink="false">0000943374-26-000439</guid>
       <pubDate>Mon, 05 Oct 2026 08:48:18 -0500</pubDate>
       <category>DEMUTUALIZATION</category>
-    </item>
-    <item>
-      <title>$TICJ 🤝 Merger
-Acquires Super Fresh Foods Inc., owner of AllYourMeals.com
-Mcap $240K · Materials</title>
-      <link>https://www.otcmarkets.com/stock/TICJ/news/537382</link>
-      <guid isPermaLink="false">OTC-537382</guid>
-      <pubDate>Mon, 05 Oct 2026 08:41:52 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
