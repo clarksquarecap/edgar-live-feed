@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 10:10:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:16:48 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$PHI ✂️ Carve-out
+VITRO REIT IPO update; parent to retain majority control
+Mcap $3.8B · EV $9.4B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/78150/000119312526414891/10.06.2026_updatevitrore.htm</link>
+      <guid isPermaLink="false">0001193125-26-414891</guid>
+      <pubDate>Tue, 06 Oct 2026 05:16:41 -0500</pubDate>
+      <category>CARVE_OUT</category>
+    </item>
     <item>
       <title>$AGMH 📍 Stake
 Holds 81.48% after buying shares at $0.6305 in private placement
@@ -1116,16 +1125,6 @@ Acquires Quantum Space in $600M SPAC business combination; new entity to trade a
       <pubDate>Mon, 05 Oct 2026 05:17:13 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$BWMN 📦 Going Private
-Acquired by Prive Parent for $43.00 cash; stockholder vote Nov 4
-cash
-Mcap $738M · EV $1.0B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1847590/000114036126038492/ny20081613x2_defm14a.htm</link>
-      <guid isPermaLink="false">0001140361-26-038492</guid>
-      <pubDate>Mon, 05 Oct 2026 05:16:32 -0500</pubDate>
-      <category>GOING_PRIVATE</category>
     </item>
   </channel>
 </rss>
