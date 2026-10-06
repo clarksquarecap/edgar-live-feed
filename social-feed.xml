@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 10:09:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:10:26 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AGMH 📍 Stake
+Holds 81.48% after buying shares at $0.6305 in private placement
+Mcap $3M · EV $5M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1705402/000118518526004591/0001185185-26-004591-index.htm</link>
+      <guid isPermaLink="false">0001185185-26-004591</guid>
+      <pubDate>Tue, 06 Oct 2026 05:10:16 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
     <item>
       <title>$ADIA 📤 Divestiture
 Sells 30% stake in Adia Labs to QCM Biologics for $1.5M
@@ -1117,28 +1126,6 @@ Mcap $738M · EV $1.0B · Industrials</title>
       <guid isPermaLink="false">0001140361-26-038492</guid>
       <pubDate>Mon, 05 Oct 2026 05:16:32 -0500</pubDate>
       <category>GOING_PRIVATE</category>
-    </item>
-    <item>
-      <title>$AIBT 🤝 Merger
-Acquires Empulser Enterprises for up to $22M Series C Preferred Stock
-22,000,000 deal · stock
-Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1763329/000109690626001500/aibt-20261002_8k.htm</link>
-      <guid isPermaLink="false">0001096906-26-001500</guid>
-      <pubDate>Mon, 05 Oct 2026 05:10:16 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$PCMC 🤝 Merger
-Amends Physicians Capital Management share exchange; revises preferred stock terms, waives conditions
-stock
-Mcap $9M · EV $9M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1141964/000121465926012512/z9252618k.htm</link>
-      <guid isPermaLink="false">0001214659-26-012512</guid>
-      <pubDate>Mon, 05 Oct 2026 05:09:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
