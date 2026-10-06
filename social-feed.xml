@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 10:07:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:09:00 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ADIA 📤 Divestiture
+Sells 30% stake in Adia Labs to QCM Biologics for $1.5M
+$1,500,000 deal
+Mcap $10M · EV $11M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1160420/000168316826007632/adia_8k.htm</link>
+      <guid isPermaLink="false">0001683168-26-007632</guid>
+      <pubDate>Tue, 06 Oct 2026 05:08:50 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$AYRWF 📤 Divestiture
 Completes Ohio asset transfer to noteholder-backed Arboretum
@@ -1129,16 +1139,6 @@ Mcap $9M · EV $9M · Industrials</title>
       <pubDate>Mon, 05 Oct 2026 05:09:44 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$NVO ⚖️ Litigation · Lost
-FDA delays denecimig BLA decision over manufacturing facility issues
-Mcap $166B · EV $180B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/353278/000117184326006374/f6k_100226.htm</link>
-      <guid isPermaLink="false">0001171843-26-006374</guid>
-      <pubDate>Mon, 05 Oct 2026 05:08:28 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>lost</category>
     </item>
   </channel>
 </rss>
