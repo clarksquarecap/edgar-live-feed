@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 10:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:22:59 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$HPK 🪙 Debt Restr.
@@ -1074,25 +1074,6 @@ Mcap $14B · EV $18B · Real Estate</title>
       <guid isPermaLink="false">0001104659-26-113450</guid>
       <pubDate>Mon, 05 Oct 2026 05:23:31 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$PFSA 🪙 Debt Restr.
-Amends convertible notes with Ascent; fixes floor price at $0.338/share
-Mcap $1M · EV $14M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1859807/000121390026106610/ea0307663-8k_profusa.htm</link>
-      <guid isPermaLink="false">0001213900-26-106610</guid>
-      <pubDate>Mon, 05 Oct 2026 05:22:37 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$EVTL 👀 Activist
-Appoints Clyde Woltman to board per Mudrick Capital rights; two directors resign
-Mcap $102M · EV $40M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1867102/000110465926113443/tm2626931d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-113443</guid>
-      <pubDate>Mon, 05 Oct 2026 05:21:44 -0500</pubDate>
-      <category>ACTIVIST_INITIAL</category>
-      <category>board_changes</category>
     </item>
   </channel>
 </rss>
