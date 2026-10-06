@@ -6,8 +6,51 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 10:03:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:07:39 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$AYRWF 📤 Divestiture
+Completes Ohio asset transfer to noteholder-backed Arboretum
+to Arboretum Bidco
+Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1847462/000110465926113827/tm2626948d1_6k.htm</link>
+      <guid isPermaLink="false">0001104659-26-113827</guid>
+      <pubDate>Tue, 06 Oct 2026 05:07:27 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
+    <item>
+      <title>$ACB 🤝 Merger · Unsolicited
+Faces Curaleaf hostile bid at US$5.00/share; 0.4013 shares + $1.00 cash
+Curaleaf Holdings · cash+stk
+Mcap $294M · EV $239M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1683541/000127956926000950/aurora_6k.htm</link>
+      <guid isPermaLink="false">OTC-537339</guid>
+      <pubDate>Tue, 06 Oct 2026 05:06:11 -0500</pubDate>
+      <category>MERGER</category>
+      <category>unsolicited</category>
+    </item>
+    <item>
+      <title>$NIMU 🤝 Merger
+Acquires Gravitics in reverse merger; S-4/A filed
+stock
+Mcap $12M · EV $13M · Healthcare</title>
+      <link>https://www.sec.gov/Archives/edgar/data/720762/000149315226045812/forms-4a.htm</link>
+      <guid isPermaLink="false">0001493152-26-045759</guid>
+      <pubDate>Tue, 06 Oct 2026 05:05:51 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
+    <item>
+      <title>$RXO 🤝 Merger
+Acquired by C.H. Robinson in stock deal; close 1H 2027
+C.H. Robinson Worldwide · stock
+Mcap $4.7B · EV $5.4B · Industrials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1929561/000119312526414509/d539245d425.htm</link>
+      <guid isPermaLink="false">0001193125-26-414486</guid>
+      <pubDate>Tue, 06 Oct 2026 05:05:36 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$HSCS 🤝 Merger
 Acquires Fortitude Mining in reverse merger; 19x-vote Class V issued
@@ -91,17 +134,6 @@ Mcap $2M · EV $7M · Financials</title>
       <guid isPermaLink="false">0001493152-26-044941</guid>
       <pubDate>Mon, 05 Oct 2026 16:29:03 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$RXO 🤝 Merger
-Acquired by C.H. Robinson for $17.25 cash + 0.0856 CHRW shares; 29% premium
-C.H. Robinson Worldwide · 29% prem · $5.8 billion enterprise value deal · cash+stk · close H1 2027
-Mcap $3.9B · EV $4.6B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1929561/000119312526414486/d164793d425.htm</link>
-      <guid isPermaLink="false">0001193125-26-414486</guid>
-      <pubDate>Mon, 05 Oct 2026 16:28:20 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$FIRY 📤 Divestiture
@@ -188,17 +220,6 @@ Mcap $11M · EV $37M · Real Estate</title>
       <guid isPermaLink="false">0001140361-26-038532</guid>
       <pubDate>Mon, 05 Oct 2026 16:06:05 -0500</pubDate>
       <category>BUSTED_MA</category>
-    </item>
-    <item>
-      <title>$NIMU 🤝 Merger
-Gravitics merger amended: close extended to Oct 30, offering upsized to $125M
-close 2026-10-30
-Mcap $12M · EV $13M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/720762/000149315226045759/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-045759</guid>
-      <pubDate>Mon, 05 Oct 2026 16:05:53 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
     <item>
       <title>$KUST 🤝 Merger
@@ -714,16 +735,6 @@ Mcap $328M · EV $327M · Financials</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$CURLF 🤝 Merger · Preliminary
-Enhances offer to acquire Aurora Cannabis
-Mcap $2.6B · EV $3.7B · Healthcare</title>
-      <link>https://www.otcmarkets.com/stock/CURLF/news/537339</link>
-      <guid isPermaLink="false">OTC-537339</guid>
-      <pubDate>Mon, 05 Oct 2026 07:17:12 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
       <title>$TELA ⚖️ Litigation · Won
 Receives FDA 510(k) clearance for Liora Monofilament Scaffold
 Mcap $51M · EV $79M · Healthcare</title>
@@ -1128,68 +1139,6 @@ Mcap $166B · EV $180B · Healthcare</title>
       <pubDate>Mon, 05 Oct 2026 05:08:28 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>lost</category>
-    </item>
-    <item>
-      <title>$BBD 📜 Rights Issue
-Ratifies R$10B capital increase via share subscription; awaits BACEN approval
-Mcap $37B · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1160330/000129281426004846/bbd20261002_6k.htm</link>
-      <guid isPermaLink="false">0001292814-26-004764</guid>
-      <pubDate>Mon, 05 Oct 2026 05:07:48 -0500</pubDate>
-      <category>RIGHTS_ISSUE</category>
-    </item>
-    <item>
-      <title>$ZOAR 🤝 Merger
-Acquires Impact BioMedical in share exchange; vote Nov 4
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2078148/000149315226045654/formf-4a.htm</link>
-      <guid isPermaLink="false">0001493152-26-045654</guid>
-      <pubDate>Mon, 05 Oct 2026 05:06:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RLYB 🤝 Merger
-Acquires Avenzo Therapeutics; Avenzo holders to own ~56.6% of combined co.
-$300.0 million deal · stock
-Mcap $91M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1739410/000119312526412774/d71655ds4a.htm</link>
-      <guid isPermaLink="false">0001193125-26-412774</guid>
-      <pubDate>Mon, 05 Oct 2026 05:05:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$TGAI 🤝 Merger
-Registers shares for business combination with Piermont Valley Acquisition Corp. and Tigerless Health
-stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2125566/000147793226006037/tigerless_s4.htm</link>
-      <guid isPermaLink="false">0001477932-26-006022</guid>
-      <pubDate>Mon, 05 Oct 2026 05:05:00 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$ADIL 🤝 Merger
-Adjourns vote on acquisition proposals to Oct 15; awaits Nasdaq listing approval
-empty
-Mcap $11M · EV $21M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1513525/000121390026106577/ea0307631-defa14a_adial.htm</link>
-      <guid isPermaLink="false">0001213900-26-106395</guid>
-      <pubDate>Mon, 05 Oct 2026 05:04:39 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$MACI 🤝 Merger
-Acquires Everli Global for $180M stock; shareholder vote Oct 22
-$180,000,000 deal · stock
-Mcap $105M · EV $110M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2016221/000121390026106568/ea0307570-01.htm</link>
-      <guid isPermaLink="false">0001213900-26-103194</guid>
-      <pubDate>Mon, 05 Oct 2026 05:03:42 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
