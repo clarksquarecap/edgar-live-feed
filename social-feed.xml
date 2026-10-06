@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 13:27:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:29:41 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$ADIA 📤 Divestiture
+Sells 30% stake in Adia Labs for $1.5M
+Mcap $10M · EV $11M · Cons Stpl</title>
+      <link>https://www.otcmarkets.com/stock/ADIA/news/537535</link>
+      <guid isPermaLink="false">0001683168-26-007632</guid>
+      <pubDate>Tue, 06 Oct 2026 08:29:26 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$SLE 🤝 Merger
 Acquired by Metaplanet for 2,100 BTC (~$179M); vote Oct 16
@@ -229,16 +238,6 @@ Mcap $3M · EV $5M · Financials</title>
       <guid isPermaLink="false">0001185185-26-004591</guid>
       <pubDate>Tue, 06 Oct 2026 05:10:16 -0500</pubDate>
       <category>STAKE_DISCLOSURE</category>
-    </item>
-    <item>
-      <title>$ADIA 📤 Divestiture
-Sells 30% stake in Adia Labs to QCM Biologics for $1.5M
-$1,500,000 deal
-Mcap $10M · EV $11M · Cons Stpl</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1160420/000168316826007632/adia_8k.htm</link>
-      <guid isPermaLink="false">0001683168-26-007632</guid>
-      <pubDate>Tue, 06 Oct 2026 05:08:50 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
     <item>
       <title>$AYRWF 📤 Divestiture
@@ -711,45 +710,6 @@ Mcap $240K · Materials</title>
       <pubDate>Mon, 05 Oct 2026 08:41:52 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$SGLA 🤝 Merger
-Acquires U.S.-based Hi-Quality to grow recycled PET platform
-Mcap $74M · EV $77M · Industrials</title>
-      <link>https://www.otcmarkets.com/stock/SGLA/news/537381</link>
-      <guid isPermaLink="false">0001493152-26-045668</guid>
-      <pubDate>Mon, 05 Oct 2026 08:29:07 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$DUOT 📤 Divestiture
-Sells GPU-as-a-Service entity to Axe Compute for $130.7M; closed Sep 30
-Mcap $287M · EV $175M · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1396536/000107997326001318/duot_8k.htm</link>
-      <guid isPermaLink="false">0001079973-26-001318</guid>
-      <pubDate>Mon, 05 Oct 2026 08:29:01 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$SNPS 💧 Capital Return · ASR
-Initiates $1B accelerated share repurchase agreement
-Mcap $94B · EV $101B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/883241/000119312526413359/d830308d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-413359</guid>
-      <pubDate>Mon, 05 Oct 2026 08:28:31 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>accelerated_share_repurchase</category>
-    </item>
-    <item>
-      <title>$SONY 💧 Capital Return · Buyback
-Repurchased 6.89M shares for ¥26.01B in September; ¥500B program ongoing
-Mcap $140B · EV $140B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/313838/000110465926113566/tm2626783d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-113566</guid>
-      <pubDate>Mon, 05 Oct 2026 08:28:07 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
