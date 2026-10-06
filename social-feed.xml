@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 10:18:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:21:05 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$HPK 🪙 Debt Restr.
@@ -1093,16 +1093,6 @@ Mcap $102M · EV $40M · Industrials</title>
       <pubDate>Mon, 05 Oct 2026 05:21:44 -0500</pubDate>
       <category>ACTIVIST_INITIAL</category>
       <category>board_changes</category>
-    </item>
-    <item>
-      <title>$SU 📤 Divestiture
-Sells offshore assets to Ithaca Energy for $1.2B cash + $350M contingent
-$1.2 billion CAD upfront + $350 million CAD contingent deal · close early 2027
-Mcap $81B · EV $88B · Energy</title>
-      <link>https://www.sec.gov/Archives/edgar/data/311337/000110465926113453/tm2627015d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-113453</guid>
-      <pubDate>Mon, 05 Oct 2026 05:21:03 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
