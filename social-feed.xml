@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 12:43:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:53:21 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$WBD 📉 Delisting · Forced
+Forced Nasdaq delisting of Series A Common Stock
+Mcap $78B · EV $107B · Comms</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1437107/000135445726000951/0001354457-26-000951-index.htm</link>
+      <guid isPermaLink="false">0001354457-26-000951</guid>
+      <pubDate>Tue, 06 Oct 2026 07:53:13 -0500</pubDate>
+      <category>DELISTING</category>
+      <category>forced</category>
+    </item>
     <item>
       <title>$ACB 🤝 Merger · Unsolicited
 Receives raised Curaleaf bid: US$5.00/share (US$1.00 cash + 0.4013 CURA), 86% premium
@@ -801,36 +811,6 @@ Mcap $33B · EV $45B · Materials</title>
       <guid isPermaLink="false">0001193125-26-413251</guid>
       <pubDate>Mon, 05 Oct 2026 08:04:00 -0500</pubDate>
       <category>LIQUIDATION</category>
-    </item>
-    <item>
-      <title>$SWKS 🤝 Merger
-Completes Qorvo acquisition for 0.960 shares + $32.50 cash per share
-cash+stk
-Mcap $13B · EV $13B · Tech</title>
-      <link>https://www.sec.gov/Archives/edgar/data/4127/000110465926113538/tm2626934d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-111071</guid>
-      <pubDate>Mon, 05 Oct 2026 07:50:35 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$JAGX 🪙 Debt Restr.
-Amends royalty interests, note maturity to Jan 2027; Series P consent
-Mcap $2M · EV $15M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1585608/000119312526413233/d183888d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-413233</guid>
-      <pubDate>Mon, 05 Oct 2026 07:49:56 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$GWH 📉 Delisting · Forced
-NYSE suspends trading, commences delisting for market cap non-compliance
-Mcap $6M · EV $13M · Utilities</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1819438/000181943826000088/wk-20261002.htm</link>
-      <guid isPermaLink="false">0001819438-26-000086</guid>
-      <pubDate>Mon, 05 Oct 2026 07:49:37 -0500</pubDate>
-      <category>DELISTING</category>
-      <category>forced</category>
     </item>
   </channel>
 </rss>
