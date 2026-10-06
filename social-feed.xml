@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 11:07:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:09:23 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BRN 📤 Divestiture
@@ -974,24 +974,6 @@ Mcap $337M · EV $849M · Cons Disc</title>
       <pubDate>Mon, 05 Oct 2026 06:15:12 -0500</pubDate>
       <category>MERGER</category>
       <category>definitive</category>
-    </item>
-    <item>
-      <title>$CWH 🪙 Debt Restr.
-Exploring term loan refinancing amid lowered EBITDA outlook, store closures
-Mcap $321M · EV $4.0B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1669779/000110465926113490/tm2627004d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-113490</guid>
-      <pubDate>Mon, 05 Oct 2026 06:08:40 -0500</pubDate>
-      <category>DEBT_RESTRUCTURING</category>
-    </item>
-    <item>
-      <title>$GEO 📤 Divestiture
-Sells Adelanto Complex to DHS for $950M; net proceeds $705M
-Mcap $4.1B · EV $5.6B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/923796/000119312526413085/d212275d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-413085</guid>
-      <pubDate>Mon, 05 Oct 2026 06:07:29 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
