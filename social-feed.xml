@@ -6,8 +6,18 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 12:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:03:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$OFS 📤 Divestiture
+Sells 56.62% SBIC I LP stake to third-party investor for $52.28M
+$52,279,500 deal
+Mcap $48M · EV $227M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1487918/000148791826000087/ofs-20261005.htm</link>
+      <guid isPermaLink="false">0001487918-26-000087</guid>
+      <pubDate>Tue, 06 Oct 2026 07:03:29 -0500</pubDate>
+      <category>DIVESTITURE</category>
+    </item>
     <item>
       <title>$RITRF 📉 Delisting · Forced
 Nasdaq delisting final; trading suspended Sept 17; $5.5M placement at $2.00/sh
@@ -910,26 +920,6 @@ Mcap $1.9B · EV $3.3B · Healthcare</title>
       <pubDate>Mon, 05 Oct 2026 07:04:13 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$TGE 🤝 Merger
-Acquires Hornsey Hotel Group, Upper View Regalia, and Ritz-Carlton Perth
-Mcap $54M · EV $667M · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2053456/000121390026106650/ea0307526-6k_generation.htm</link>
-      <guid isPermaLink="false">0001213900-26-106650</guid>
-      <pubDate>Mon, 05 Oct 2026 07:03:23 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$RADX 🔎 Strat Review · Strat Alts
-Explores strategic partners for RAD101 pivotal development after FDA meeting
-Mcap $21M · EV $17M · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1949257/000121390026106652/ea0307670-6k_radiopharm.htm</link>
-      <guid isPermaLink="false">0001213900-26-106652</guid>
-      <pubDate>Mon, 05 Oct 2026 07:02:49 -0500</pubDate>
-      <category>STRATEGIC_REVIEW</category>
-      <category>formal_alternatives</category>
     </item>
   </channel>
 </rss>
