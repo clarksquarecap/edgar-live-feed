@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 10:22:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:24:54 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$HPK 🪙 Debt Restr.
@@ -1054,26 +1054,6 @@ Mcap $15B · EV $13B · Industrials</title>
       <pubDate>Mon, 05 Oct 2026 05:30:30 -0500</pubDate>
       <category>CAPITAL_RETURN</category>
       <category>buyback_authorization</category>
-    </item>
-    <item>
-      <title>$SPKL 💧 Capital Return · Self-tender
-Shareholders redeem 609,668 Class A shares for $7.1M (~$11.68/share)
-Mcap $100M · EV $104M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1884046/000110465926113444/tm2626989d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-113444</guid>
-      <pubDate>Mon, 05 Oct 2026 05:24:05 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>self_tender</category>
-    </item>
-    <item>
-      <title>$OHI 📤 Divestiture
-Transitions 32 Florida facilities from Airamid to PACS Group; rent up $26.1M
-to Airamid Health Services
-Mcap $14B · EV $18B · Real Estate</title>
-      <link>https://www.sec.gov/Archives/edgar/data/888491/000110465926113450/tm2627011d1_8k.htm</link>
-      <guid isPermaLink="false">0001104659-26-113450</guid>
-      <pubDate>Mon, 05 Oct 2026 05:23:31 -0500</pubDate>
-      <category>DIVESTITURE</category>
     </item>
   </channel>
 </rss>
