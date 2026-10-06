@@ -6,8 +6,19 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 12:25:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:34:36 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$SVAQ 🤝 Merger
+Updates on acquisition of Silicon Valley Acquisition Corp.
+empty
+Mcap $298M · EV $296M · Financials</title>
+      <link>https://www.sec.gov/Archives/edgar/data/2085659/000121390026106992/ea030778901-425_eigenq.htm</link>
+      <guid isPermaLink="false">0001213900-26-106992</guid>
+      <pubDate>Tue, 06 Oct 2026 07:34:28 -0500</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
     <item>
       <title>$OPCH 🤝 Merger
 Acquired by CD&amp;R/McKesson for $32.05/share cash; ~$5.8B EV
@@ -860,37 +871,6 @@ Mcap $95M · EV $465M · Real Estate</title>
       <guid isPermaLink="false">0001997711-26-000177</guid>
       <pubDate>Mon, 05 Oct 2026 07:40:44 -0500</pubDate>
       <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$LDOS 📤 Divestiture
-Completes JV with Altaris, contributing SES/IA Business for 41.5% stake
-Mcap $15B · EV $21B · Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1336920/000119312526413208/d157380d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-413208</guid>
-      <pubDate>Mon, 05 Oct 2026 07:33:58 -0500</pubDate>
-      <category>DIVESTITURE</category>
-    </item>
-    <item>
-      <title>$IMNM 🤝 Merger
-Acquires varegacestat &amp; AL101 patent rights from BMS for $20M cash + 4.43M shares
-Bristol-Myers Squibb · $20.0 million cash and 4,425,487 shares of common stock deal · cash+stk
-Mcap $2.4B · EV $1.9B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1472012/000119312526413217/d114908d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-413217</guid>
-      <pubDate>Mon, 05 Oct 2026 07:33:18 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$SZZL 🤝 Merger
-Acquires Trasteel; combined company to list as TSTL by year-end
-Trasteel Holding · close Q4 2026
-Mcap $328M · EV $327M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2030663/000121390026106660/ea0307580-425_sizzleacq2.htm</link>
-      <guid isPermaLink="false">0001213900-26-104909</guid>
-      <pubDate>Mon, 05 Oct 2026 07:32:27 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
