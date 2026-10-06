@@ -6,8 +6,17 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 10:16:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:17:38 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$HPK 🪙 Debt Restr.
+Raises $450M convertible preferred from Danantara, EMP; repays $1.17B term loan
+Mcap $1.0B · EV $2.1B · Energy</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1792849/000143774926032094/hpe20261005c_8k.htm</link>
+      <guid isPermaLink="false">0001437749-26-032094</guid>
+      <pubDate>Tue, 06 Oct 2026 05:17:23 -0500</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+    </item>
     <item>
       <title>$PHI ✂️ Carve-out
 VITRO REIT IPO update; parent to retain majority control
@@ -1104,27 +1113,6 @@ Mcap $3.9B · EV $3.6B · Materials</title>
       <pubDate>Mon, 05 Oct 2026 05:18:00 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>settled</category>
-    </item>
-    <item>
-      <title>$EQBK 🤝 Merger
-Acquires Lincoln Bancorp for ~$121.2M cash+stock; Lincoln shareholder vote pending
-121182541 deal · cash+stk
-Mcap $983M · Financials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1227500/000119312526412874/d150167ds4.htm</link>
-      <guid isPermaLink="false">0001193125-26-412874</guid>
-      <pubDate>Mon, 05 Oct 2026 05:17:33 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
-    </item>
-    <item>
-      <title>$QSPC 🤝 Merger
-Acquires Quantum Space in $600M SPAC business combination; new entity to trade as QSPC
-600,000,000 deal · stock</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2145371/000121390026106599/ea0301326-03.htm</link>
-      <guid isPermaLink="false">0001213900-26-106599</guid>
-      <pubDate>Mon, 05 Oct 2026 05:17:13 -0500</pubDate>
-      <category>MERGER</category>
-      <category>definitive</category>
     </item>
   </channel>
 </rss>
