@@ -6,7 +6,7 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 19:46:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 19:52:12 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
     <item>
       <title>$BRVO 👀 Activist
@@ -78,10 +78,10 @@ Mcap $30M · EV $651M · Utilities</title>
       <category>DOMICILE_CHANGE</category>
     </item>
     <item>
-      <title>$CURLF 🤝 Merger · Unsolicited
-Raises Aurora Cannabis offer to US$5.00/share; 86% premium
-86% prem · cash+stk
-Mcap $2.6B · EV $3.6B · Healthcare</title>
+      <title>$ACB 🤝 Merger · Unsolicited
+Faces Curaleaf hostile bid at US$5.00/share; 0.4013 shares + $1.00 cash
+Curaleaf Holdings · cash+stk
+Mcap $294M · EV $239M · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1756770/000175677026000126/curlf-20261006.htm</link>
       <guid isPermaLink="false">OTC-537339</guid>
       <pubDate>Tue, 06 Oct 2026 12:49:47 -0500</pubDate>
@@ -451,11 +451,11 @@ Mcap $2.0B · EV $2.0B · Healthcare</title>
       <category>STAKE_DISCLOSURE</category>
     </item>
     <item>
-      <title>$CTVA 🪓 Spinoff
-Spins off seed segment as Vylor (VYLR); distribution completed Oct 1
-Mcap $8.0B · Cons Stpl</title>
+      <title>$VYLR 🪓 Spinoff
+Spun off from Corteva; VYLR begins NYSE trading Oct 1
+Mcap $45B · EV $48B · Materials</title>
       <link>https://www.sec.gov/Archives/edgar/data/1755672/000119312526414490/ck0001755672-20260929.htm</link>
-      <guid isPermaLink="false">0001193125-26-401618</guid>
+      <guid isPermaLink="false">0001193125-26-396054</guid>
       <pubDate>Mon, 05 Oct 2026 16:30:43 -0500</pubDate>
       <category>SPIN_OFF</category>
     </item>
@@ -547,15 +547,6 @@ Mcap $531M · EV $518M · Cons Disc</title>
       <category>ACTIVIST_PROXY</category>
     </item>
     <item>
-      <title>$VYLR 🪓 Spinoff
-Spun off from Corteva; VYLR begins NYSE trading Oct 1
-Mcap $45B · EV $48B · Materials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/2128626/000119312526414335/d92652d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-396054</guid>
-      <pubDate>Mon, 05 Oct 2026 16:06:39 -0500</pubDate>
-      <category>SPIN_OFF</category>
-    </item>
-    <item>
       <title>$FTHM 💥 Busted M&amp;A
 Merger with Neighborhood Intelligence terminated; no break fee owed
 Mcap $11M · EV $37M · Real Estate</title>
@@ -587,9 +578,9 @@ Mcap $13M · Healthcare</title>
       <category>definitive</category>
     </item>
     <item>
-      <title>$MDT 🪓 Split-off
-Split-off exchange: up to 225,361,295 MiniMed shares for MDT stock
-Mcap $110B · EV $130B · Healthcare</title>
+      <title>$MMED 🪓 Split-off
+Split-off via Medtronic exchange offer; 7% discount, expires Oct 9
+Mcap $6.3B · EV $6.2B · Healthcare</title>
       <link>https://www.sec.gov/Archives/edgar/data/1613103/000162828026064995/a425-mdtwebsitex10526.htm</link>
       <guid isPermaLink="false">0001628280-26-062507</guid>
       <pubDate>Mon, 05 Oct 2026 15:57:57 -0500</pubDate>
