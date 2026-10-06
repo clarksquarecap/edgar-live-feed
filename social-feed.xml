@@ -6,8 +6,26 @@
     <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
     <ttl>5</ttl>
-    <lastBuildDate>Tue, 06 Oct 2026 12:04:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:06:50 +0000</lastBuildDate>
     <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$MGRX 📍 Stake
+Receives 13D/A from CEO/Chairman Cohen; 21.5% stake
+Mcap $9M · EV $9M · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1938046/000149315226045857/0001493152-26-045857-index.htm</link>
+      <guid isPermaLink="false">0001493152-26-045857</guid>
+      <pubDate>Tue, 06 Oct 2026 07:06:42 -0500</pubDate>
+      <category>STAKE_DISCLOSURE</category>
+    </item>
+    <item>
+      <title>$BGS 💥 Busted M&amp;A
+Green Giant Canada sale to Nortera terminated; $1.6M break fee
+Mcap $206M · EV $2.2B · Cons Stpl</title>
+      <link>https://www.sec.gov/Archives/edgar/data/1278027/000110465926113896/tm2626946d1_8k.htm</link>
+      <guid isPermaLink="false">0001104659-26-113896</guid>
+      <pubDate>Tue, 06 Oct 2026 07:05:16 -0500</pubDate>
+      <category>BUSTED_MA</category>
+    </item>
     <item>
       <title>$FUL 🤝 Merger
 Funds Advanced Medical Solutions acquisition with $950M notes offering
@@ -899,37 +917,6 @@ Mcap $421M · EV $314M · Healthcare</title>
       <pubDate>Mon, 05 Oct 2026 07:07:01 -0500</pubDate>
       <category>LITIGATION_OUTCOME</category>
       <category>won</category>
-    </item>
-    <item>
-      <title>$PCVX ⚖️ Litigation · Won
-VAX-31 Phase 3 OPUS-1 trial met all primary endpoints; BLA planned H1 2028
-Mcap $8.4B · EV $7.0B · Healthcare</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1649094/000119312526413168/d21202d8k.htm</link>
-      <guid isPermaLink="false">0001193125-26-413168</guid>
-      <pubDate>Mon, 05 Oct 2026 07:06:27 -0500</pubDate>
-      <category>LITIGATION_OUTCOME</category>
-      <category>won</category>
-    </item>
-    <item>
-      <title>$QIND 🤝 Merger · Preliminary
-Amends charter to enable asset sales without shareholder vote, removes anti-takeover provisions
-empty
-Industrials</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1393781/000149315226045694/form8-k.htm</link>
-      <guid isPermaLink="false">0001493152-26-045694</guid>
-      <pubDate>Mon, 05 Oct 2026 07:05:44 -0500</pubDate>
-      <category>MERGER</category>
-      <category>preliminary</category>
-    </item>
-    <item>
-      <title>$MNSO 💧 Capital Return · Buyback
-Repurchases 26,720 ADSs for $8.91/ADS (~$238K total)
-Mcap $2.6B · EV $3.5B · Cons Disc</title>
-      <link>https://www.sec.gov/Archives/edgar/data/1815846/000110465926113505/tm2626910d1_6k.htm</link>
-      <guid isPermaLink="false">0001104659-26-113505</guid>
-      <pubDate>Mon, 05 Oct 2026 07:04:52 -0500</pubDate>
-      <category>CAPITAL_RETURN</category>
-      <category>buyback_authorization</category>
     </item>
   </channel>
 </rss>
