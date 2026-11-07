@@ -1,9 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0" xmlns:scanner="https://github.com/clarksquarecap/edgar-live-scanner/ns">
   <channel>
-    <title>EDGAR Live Scanner</title>
-    <link>https://specialsitsdigest.com/live-feed/</link>
-    <description>High-signal SEC EDGAR filings; tender offers, going-private, activist stakes, spinoffs, delistings, busted deals.</description>
+    <title>EDGAR Live Scanner (Social)</title>
+    <link>https://github.com/clarksquarecap/edgar-live-scanner</link>
+    <description>Tweet-ready feed of high-signal SEC filings: M&amp;A, activist, tender offers, going-private, strategic reviews, divestitures.</description>
     <language>en-us</language>
+    <ttl>5</ttl>
+    <lastBuildDate>Sat, 07 Nov 2026 22:30:19 +0000</lastBuildDate>
+    <generator>edgar-live-scanner/social_feed.py</generator>
+    <item>
+      <title>$CTSH 🤝 Merger
+Completes acquisition of AI and cloud engineering firm Wizeline
+Mcap $29B · EV $30B · Tech</title>
+      <link>https://www.prnewswire.com/news-releases/cognizant-completes-acquisition-of-wizeline-302932412.html</link>
+      <guid isPermaLink="false">NEWS-65f769884e733f2aea73</guid>
+      <pubDate>Fri, 06 Nov 2026 23:15:04 +0000</pubDate>
+      <category>MERGER</category>
+      <category>definitive_agreement</category>
+    </item>
+    <item>
+      <title>$HALLQ 🪙 Debt Restr.
+Chapter 11 bankruptcy plan effective; common shares cancelled Nov 6
+Financials</title>
+      <link>https://www.otcmarkets.com/stock/HALLQ/overview</link>
+      <guid isPermaLink="false">OTC-CA-337681</guid>
+      <pubDate>Fri, 06 Nov 2026 23:15:04 +0000</pubDate>
+      <category>DEBT_RESTRUCTURING</category>
+      <category>bankruptcy_emergence</category>
+    </item>
+    <item>
+      <title>$CZNL 🤝 Merger
+Acquired by Peoples Bancorp for $8.00 cash + 2.1 PEBK shares per share
+cash+stk
+Mcap $83M · Financials</title>
+      <link>https://www.otcmarkets.com/stock/CZNL/overview</link>
+      <guid isPermaLink="false">OTC-CA-337707</guid>
+      <pubDate>Fri, 06 Nov 2026 23:15:04 +0000</pubDate>
+      <category>MERGER</category>
+      <category>definitive</category>
+    </item>
   </channel>
 </rss>
